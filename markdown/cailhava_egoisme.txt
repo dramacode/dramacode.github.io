@@ -1,6 +1,6 @@
 ---
 identifier: cailhava_egoisme  
-creator: Cailhava d’estendoux Jean-François  
+creator: Cailhava d’estendoux Jean-François.  
 date: 1777  
 title: L’égoïsme. , comédié en cinq actes et en vers.  
 ---

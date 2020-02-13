@@ -1,6 +1,6 @@
 ---
 identifier: fuzelier_orphee  
-creator: Fuzelier Louis  
+creator: Fuzelier Louis.  
 date: 1716  
 title: Orphée. , ou arlequin aux enfers, divertissement.  
 ---

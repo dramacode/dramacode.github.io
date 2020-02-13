@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_bergerextravagant  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas.  
 date: 1652  
 title: Le Berger extravagant. , pastorale burlesque.  
 ---

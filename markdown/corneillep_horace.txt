@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_horace  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1640  
 title: Horace. , tragédie  
 ---

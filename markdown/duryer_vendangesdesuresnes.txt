@@ -1,6 +1,6 @@
 ---
 identifier: duryer_vendangesdesuresnes  
-creator: Du Ryer Pierre  
+creator: Du Ryer Pierre.  
 date: 1634  
 title: Les Vendanges de Suresnes. , comédie  
 ---

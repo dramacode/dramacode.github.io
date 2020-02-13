@@ -1,6 +1,6 @@
 ---
 identifier: dancourt_amants  
-creator: Dancourt Florent Carton dit  
+creator: Dancourt Florent Carton dit.  
 date: 1704  
 title: Nouveau prologue. , et nouveaux divertissements pour la comédie des amants magnifiques  
 ---

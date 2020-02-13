@@ -1,6 +1,6 @@
 ---
 identifier: lacalprenede_bradamante  
-creator: La Calprenède Gautier Costes de  
+creator: La Calprenède Gautier Costes de.  
 date: 1636  
 title: La Bradamante. , tragi-comédie.  
 ---

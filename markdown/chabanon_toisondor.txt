@@ -1,6 +1,6 @@
 ---
 identifier: chabanon_toisondor  
-creator: Chabanon Michel-Paul-Guy de  
+creator: Chabanon Michel-Paul-Guy de.  
 date: (non  
 title: La toison d’or. , tragédie lyrique, en quatre actes et en vers.  
 ---

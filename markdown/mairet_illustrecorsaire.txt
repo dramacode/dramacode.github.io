@@ -1,6 +1,6 @@
 ---
 identifier: mairet_illustrecorsaire  
-creator: Mairet Jean  
+creator: Mairet Jean.  
 date: 1637  
 title: L’Illustre Corsaire. , tragi-comédie  
 ---

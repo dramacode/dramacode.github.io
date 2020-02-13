@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_pereprudent  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1706  
 title: Le père prudent et équitable. , comédie  
 ---

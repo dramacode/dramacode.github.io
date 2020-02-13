@@ -1,6 +1,6 @@
 ---
 identifier: desportes_veuvecoquette  
-creator: Desportes Claude-François  
+creator: Desportes Claude-François.  
 date: 1721  
 title: La veuve coquette. , comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: delavigne_familletempsluther  
-creator: Delavigne Casimir  
+creator: Delavigne Casimir.  
 date:   
 title: Une famille au temps de luther. , tragédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: scudery_ligdamonelidias  
-creator: Scudéry Georges de  
+creator: Scudéry Georges de.  
 date: 1630  
 title: Ligdamon et Didias. , tragi-comédie  
 ---

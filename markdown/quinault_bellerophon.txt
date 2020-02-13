@@ -1,6 +1,6 @@
 ---
 identifier: quinault_bellerophon  
-creator: Quinault Philippe  
+creator: Quinault Philippe.  
 date: 1671  
 title: Bellérophon. , tragédie  
 ---

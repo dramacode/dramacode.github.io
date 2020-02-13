@@ -1,6 +1,6 @@
 ---
 identifier: nadal_antiochus  
-creator: Nadal Augustin  
+creator: Nadal Augustin.  
 date: 1722  
 title: Antiochus. , ou les maccabées, tragédie  
 ---

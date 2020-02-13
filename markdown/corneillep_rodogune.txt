@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_rodogune  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1644  
 title: Rodogune. , tragédie  
 ---

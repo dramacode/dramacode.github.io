@@ -1,6 +1,6 @@
 ---
 identifier: moliere_princessedelide  
-creator: Molière  
+creator: Molière.  
 date: 1664  
 title: La Princesse d'Élide. Comédie galante  
 ---

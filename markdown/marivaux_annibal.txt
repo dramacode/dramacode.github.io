@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_annibal  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1720  
 title: Annibal. , tragédie.  
 ---

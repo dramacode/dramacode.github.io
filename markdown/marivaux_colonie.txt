@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_colonie  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1750  
 title: La colonie. , comédie  
 ---

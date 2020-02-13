@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_alzire  
-creator: Voltaire  
+creator: Voltaire.  
 date: 1736  
 title: Alzire ou les américains. , tragédie  
 ---

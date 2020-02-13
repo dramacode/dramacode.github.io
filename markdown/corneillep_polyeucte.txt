@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_polyeucte  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1643  
 title: Polyeucte.  martyr, tragédie  
 ---

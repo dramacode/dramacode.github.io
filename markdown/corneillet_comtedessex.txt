@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_comtedessex  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas.  
 date: 1678  
 title: Le Comte d’Essex. , tragédie  
 ---

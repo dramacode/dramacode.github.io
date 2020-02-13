@@ -1,6 +1,6 @@
 ---
 identifier: lemierre_veuvemalabar  
-creator: Le mierre Antoine-Marin  
+creator: Le mierre Antoine-Marin.  
 date: 1770  
 title: La veuve du malabar. , ou l’empire des coutumes.  
 ---

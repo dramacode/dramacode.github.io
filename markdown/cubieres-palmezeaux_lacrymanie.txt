@@ -1,6 +1,6 @@
 ---
 identifier: cubieres-palmezeaux_lacrymanie  
-creator: Cubières-palmézeaux Michel de  
+creator: Cubières-palmézeaux Michel de.  
 date: (inc  
 title: La lacrymanie. , pièce en trois actes, en vers.  
 ---

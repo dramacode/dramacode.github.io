@@ -1,6 +1,6 @@
 ---
 identifier: harny_petitmaitreprovince  
-creator: Harny de guerville  
+creator: Harny de guerville.  
 date: 1765  
 title: Le petit-maître en province. , comédie.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: pellet-desbarreaux_moliereatoulouse  
-creator: Pellet desbarreaux Hiacinthe  
+creator: Pellet desbarreaux Hiacinthe.  
 date: 1787  
 title: Molière À toulouse. , comédie en un acte et en vers.  
 ---

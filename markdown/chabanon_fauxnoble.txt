@@ -1,6 +1,6 @@
 ---
 identifier: chabanon_fauxnoble  
-creator: Chabanon Michel Paul Guy de  
+creator: Chabanon Michel Paul Guy de.  
 date: 1788  
 title: Le faux noble. , comédie.  
 ---

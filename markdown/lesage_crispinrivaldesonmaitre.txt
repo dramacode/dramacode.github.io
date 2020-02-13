@@ -1,6 +1,6 @@
 ---
 identifier: lesage_crispinrivaldesonmaitre  
-creator: Lesage Alain-René  
+creator: Lesage Alain-René.  
 date: 1707  
 title: Crispin un rival de son maitre. , comédie  
 ---

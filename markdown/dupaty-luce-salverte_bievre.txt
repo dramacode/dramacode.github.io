@@ -1,6 +1,6 @@
 ---
 identifier: dupaty-luce-salverte_bievre  
-creator: Corneille, Pierre Pierre  
+creator: Corneille, Pierre Pierre.  
 date:   
 title: Monsieur de bievre. , ou l’abus de l’esprit, calembourg, en un acte et en vaudeville  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: duryer_alcimedon  
-creator: Du Ryer Pierre  
+creator: Du Ryer Pierre.  
 date: 1633  
 title: Alcimédon. , tragi-comédie  
 ---

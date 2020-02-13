@@ -1,6 +1,6 @@
 ---
 identifier: moliere_impromptuversailles  
-creator: Molière  
+creator: Molière.  
 date: 1663  
 title: L’Impromptu de Versailles  
 ---
@@ -11,8 +11,6 @@ L'IMPROMPTU DE VERSAILLES
 COMÉDIE en un acte
 
 1663
-
-MOLIÈRE
 
 
 Représenté pour la première fois devant sa Majesté le Roi à Versailles le 14 octobre 1663.

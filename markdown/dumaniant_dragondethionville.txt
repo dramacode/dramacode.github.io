@@ -1,6 +1,6 @@
 ---
 identifier: dumaniant_dragondethionville  
-creator: Dumaniant Antoine-Jean Bourlin dit  
+creator: Dumaniant Antoine-Jean Bourlin dit.  
 date: 1786  
 title: Le dragon de thionvile. , fait historique en un acte, et en prose  
 ---

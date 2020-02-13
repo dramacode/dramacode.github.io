@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_agesilas  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1666  
 title: Agésilas. , tragédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_taniszelide  
-creator: Voltaire  
+creator: Voltaire.  
 date: (non  
 title: Tanis et zélide ou les rois pasteurs. , tragédie pour être mise en musique.  
 ---

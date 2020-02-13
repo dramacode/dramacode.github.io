@@ -1,6 +1,6 @@
 ---
 identifier: crebillon_atreethyeste  
-creator: Crébillon Prosper J. de  
+creator: Crébillon Prosper J. de.  
 date: 1707  
 title: Atrée et thyeste. , tragédie.  
 ---

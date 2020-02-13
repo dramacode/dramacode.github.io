@@ -1,6 +1,6 @@
 ---
 identifier: campistron_alcibiade  
-creator: Campistron Jean Galbert de  
+creator: Campistron Jean Galbert de.  
 date: 1685  
 title: Alcibiade. , tragédie  
 ---

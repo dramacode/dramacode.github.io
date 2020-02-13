@@ -1,6 +1,6 @@
 ---
 identifier: barantedufresny_fees  
-creator: Barante et dufesny  
+creator: Barante et dufesny.  
 date: 1697  
 title: Les fées ou les contes de ma mère l’oye.  
 ---

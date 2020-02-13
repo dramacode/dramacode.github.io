@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_epreuve  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1740  
 title: L’épreuve. , comédie.  
 ---

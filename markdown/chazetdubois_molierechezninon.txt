@@ -1,6 +1,6 @@
 ---
 identifier: chazetdubois_molierechezninon  
-creator: Chazet et dubois  
+creator: Chazet et dubois.  
 date: 1802  
 title: Molière chez ninon ou la lecture de tartuffe. , comédie en un acte et en vers  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: hoffman_original  
-creator: Hoffmann François-Benoît  
+creator: Hoffmann François-Benoît.  
 date: 1796  
 title: L’original. , comédie  
 ---

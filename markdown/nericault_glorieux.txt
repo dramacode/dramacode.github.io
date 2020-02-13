@@ -1,6 +1,6 @@
 ---
 identifier: nericault_glorieux  
-creator: Nericault-destouches Philippe  
+creator: Nericault-destouches Philippe.  
 date: 1732  
 title: Le glorieux. , comédie  
 ---

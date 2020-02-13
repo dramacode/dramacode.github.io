@@ -1,6 +1,6 @@
 ---
 identifier: boissy_francaisalondres  
-creator: Boissy Louis de  
+creator: Boissy Louis de.  
 date: 1727  
 title: Le franÇais À londres. , comédie .  
 ---

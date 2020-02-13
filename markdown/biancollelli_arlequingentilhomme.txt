@@ -1,6 +1,6 @@
 ---
 identifier: biancollelli_arlequingentilhomme  
-creator: Biancolelli Pierre François  
+creator: Biancolelli Pierre François.  
 date: 1708  
 title: Arlequin gentilhomme par hasard. , comédie.  
 ---

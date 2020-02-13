@@ -1,6 +1,6 @@
 ---
 identifier: boyer_lisimene  
-creator: Boyer Claude  
+creator: Boyer Claude.  
 date: 1695  
 title: Lisimène ou la jeune bergère. , pastorale  
 ---

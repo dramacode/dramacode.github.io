@@ -1,6 +1,6 @@
 ---
 identifier: campistron_achille  
-creator: Campistron Jean Galbert de  
+creator: Campistron Jean Galbert de.  
 date: 1687  
 title: Achille et polixène. , tragédie en musique  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: dufresny_etourdi  
-creator: Dufresny Charles  
+creator: Dufresny Charles.  
 date: 1697  
 title: Le chevalier joueur. , comédie en cinq actes, avec un prologue.   
 ---

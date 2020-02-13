@@ -1,6 +1,6 @@
 ---
 identifier: regnard_menechmes  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: 1705  
 title: Les ménechmes. , ou les jumeaux, comédie  
 ---

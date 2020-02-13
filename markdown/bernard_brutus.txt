@@ -1,6 +1,6 @@
 ---
 identifier: bernard_brutus  
-creator: Bernard CaTherine  
+creator: Bernard CaTherine.  
 date:   
 title: Brutus. , tragédie.  
 ---

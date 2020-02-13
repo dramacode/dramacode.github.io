@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_merope  
-creator: Voltaire  
+creator: Voltaire.  
 date: 1743  
 title: Mérope. , tragédie  
 ---

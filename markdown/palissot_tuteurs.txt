@@ -1,6 +1,6 @@
 ---
 identifier: palissot_tuteurs  
-creator: Palissot de montenoy Charles  
+creator: Palissot de montenoy Charles.  
 date: 1760  
 title: Les tuteurs. , comédie en deux actes et en vers.  
 ---

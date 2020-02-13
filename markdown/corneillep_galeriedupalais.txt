@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_galeriedupalais  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1633  
 title: La Galerie du palais.  ou l’amie rivale  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: dorneval_jugementdeparis  
-creator: Dorneval Jacques-Philippe d’ORNEVAL dit  
+creator: Dorneval Jacques-Philippe d’ORNEVAL dit.  
 date: 1718  
 title: Le jugement de pâris. , comédie.  
 ---

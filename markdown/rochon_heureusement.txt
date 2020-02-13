@@ -1,6 +1,6 @@
 ---
 identifier: rochon_heureusement  
-creator: Rochon  de chabannes Marc-Antoine-Jacques  
+creator: Rochon de chabannes Marc-Antoine-Jacques.  
 date: 1762  
 title: Hereusement. , comédie  
 ---

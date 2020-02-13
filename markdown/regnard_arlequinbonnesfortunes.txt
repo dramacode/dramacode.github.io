@@ -1,6 +1,6 @@
 ---
 identifier: regnard_arlequinbonnesfortunes  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: 1690  
 title: Arlequin. , homme À bonnes fortunes.   
 ---

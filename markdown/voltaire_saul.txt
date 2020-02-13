@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_saul  
-creator: Voltaire  
+creator: Voltaire.  
 date: 1763  
 title: SaÜl. , tragédie  
 ---

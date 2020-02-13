@@ -1,6 +1,6 @@
 ---
 identifier: nivelle_ecolemeres  
-creator: Nivelle de la chaussée Pierre  
+creator: Nivelle de la chaussée Pierre.  
 date: 1744  
 title: L’école des mères. , en cinq acte et en vers, comédie.  
 ---

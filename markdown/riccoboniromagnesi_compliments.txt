@@ -1,6 +1,6 @@
 ---
 identifier: riccoboniromagnesi_compliments  
-creator: Riccoboni et romagnesi  
+creator: Riccoboni et romagnesi.  
 date: 1736  
 title: Les compliments. , pièce en une scene.  
 ---

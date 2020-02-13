@@ -1,6 +1,6 @@
 ---
 identifier: saurin_blancheetguiscard  
-creator: Saurin Jean de  
+creator: Saurin Jean de.  
 date: 1763  
 title: Blanche et guiscard . , tragédie  
 ---

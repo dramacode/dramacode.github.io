@@ -1,6 +1,6 @@
 ---
 identifier: nivelle_fausseantipathie  
-creator: Nivelle de la chaussée Pierre  
+creator: Nivelle de la chaussée Pierre.  
 date: 1744  
 title: La fausee antipathie. , comédie avec un prologue et la critique de cette pièce.  
 ---

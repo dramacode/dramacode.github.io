@@ -1,6 +1,6 @@
 ---
 identifier: biancolelliromagnesi_bonnefemme  
-creator: Biancolelli pierre-françois (1680-1734) ROMAGNESI Jean-Antoine (1690-1742)  
+creator: Biancolelli pierre-françois.  
 date: 1726  
 title: La bonne feme. , parodie de l’opéra d’hypermnestre  
 ---

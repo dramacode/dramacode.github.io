@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_semiramis  
-creator: Voltaire  
+creator: Voltaire.  
 date: 1748  
 title: Sémiramis. , tragédie  
 ---

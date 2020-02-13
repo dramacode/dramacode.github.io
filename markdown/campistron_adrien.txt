@@ -1,6 +1,6 @@
 ---
 identifier: campistron_adrien  
-creator: Campistron Jean Galbert de  
+creator: Campistron Jean Galbert de.  
 date: 1690  
 title: Adrien. , tragédie  
 ---

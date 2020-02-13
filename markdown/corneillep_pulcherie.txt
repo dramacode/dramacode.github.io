@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_pulcherie  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1672  
 title: Pulchérie. , comédie héroïque  
 ---

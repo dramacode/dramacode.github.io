@@ -1,6 +1,6 @@
 ---
 identifier: saintaignan_martyremarieantoinette  
-creator: Saint-aignan Etienne  
+creator: Saint-aignan Etienne.  
 date: (non  
 title: Le martyre de marie-antoinette d’autriche. , reine de france. tragédie en cinq actes.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: nivelle_gouvernante  
-creator: Nivelle de la chaussée Pierre  
+creator: Nivelle de la chaussée Pierre.  
 date: 1744  
 title: La gouvernante. , comédie.  
 ---

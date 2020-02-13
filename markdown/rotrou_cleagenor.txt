@@ -1,6 +1,6 @@
 ---
 identifier: rotrou_cleagenor  
-creator: Rotrou, Jean  
+creator: Rotrou, Jean.  
 date: 1634  
 title: Cléagénor et Doristée. , tragi-comédie.  
 ---

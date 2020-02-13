@@ -1,6 +1,6 @@
 ---
 identifier: moliere_medecinvolant  
-creator: Molière  
+creator: Molière.  
 date:   
 title: Le médecin volant  
 ---

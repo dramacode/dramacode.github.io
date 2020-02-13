@@ -1,6 +1,6 @@
 ---
 identifier: carmontelle_etranger  
-creator: Carmontelle Louis Carrogis, dit Louis de Carmontelle  
+creator: Carmontelle Louis Carrogis, dit Louis de Carmontelle.  
 date: 1780  
 title: L’étranger. , comédie  
 ---

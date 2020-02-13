@@ -1,6 +1,6 @@
 ---
 identifier: boyer_tiridate  
-creator: Boyer,  Claude  
+creator: Boyer, Claude.  
 date: 1647  
 title: Tyridate. , tragédie  
 ---

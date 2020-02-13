@@ -1,6 +1,6 @@
 ---
 identifier: magnon_josaphat  
-creator: Magnon Jean  
+creator: Magnon Jean.  
 date: 1645  
 title: Josaphat. , tragi-comédie  
 ---

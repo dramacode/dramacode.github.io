@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_meprise  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1734  
 title: La méprise. , comédie  
 ---

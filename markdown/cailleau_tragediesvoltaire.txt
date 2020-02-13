@@ -1,6 +1,6 @@
 ---
 identifier: cailleau_tragediesvoltaire  
-creator: Cailleau André-Charles (1731-1798)  
+creator: Cailleau André-Charles.  
 date:   
 title: Les tragédies de m. de voltaire. , ou tancrède jugée par ses soeurs, comédie nouvelle  
 ---

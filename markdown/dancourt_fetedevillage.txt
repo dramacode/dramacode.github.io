@@ -1,6 +1,6 @@
 ---
 identifier: dancourt_fetedevillage  
-creator: Dancourt Florent CARTON dit  
+creator: Dancourt Florent CARTON dit.  
 date: 1700  
 title: La fête de village. , comédie.  
 ---

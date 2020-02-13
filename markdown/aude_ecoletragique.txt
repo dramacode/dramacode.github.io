@@ -1,6 +1,6 @@
 ---
 identifier: aude_ecoletragique  
-creator: Aude Joseph   
+creator: Aude Joseph.  
 date:   
 title: L’école tragique. , ou cadet roussel maitre de déclamation comédie  
 ---

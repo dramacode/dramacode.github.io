@@ -1,6 +1,6 @@
 ---
 identifier: carmontelle_bons  
-creator: Carmontelle Louis Carrogis, dit Louis de Carmontelle  
+creator: Carmontelle Louis Carrogis, dit Louis de Carmontelle.  
 date: (inc  
 title: Les bons. , comédie  
 ---

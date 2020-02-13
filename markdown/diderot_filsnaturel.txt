@@ -1,6 +1,6 @@
 ---
 identifier: diderot_filsnaturel  
-creator: Diderot Denis  
+creator: Diderot Denis.  
 date: 1757  
 title: Le fils naturel ou les épreuves de la vertu.  
 ---

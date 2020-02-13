@@ -1,6 +1,6 @@
 ---
 identifier: dufresny_jalouxhonteux  
-creator: Dufresny Charles Rivière  
+creator: Dufresny Charles Rivière.  
 date: 1708  
 title: Le jaloux honteux. , comédie  
 ---

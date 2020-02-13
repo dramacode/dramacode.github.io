@@ -1,6 +1,6 @@
 ---
 identifier: saurin_spartacus  
-creator: Saurin Jean de  
+creator: Saurin Jean de.  
 date: 1760  
 title: Spartacus. , tragédie  
 ---

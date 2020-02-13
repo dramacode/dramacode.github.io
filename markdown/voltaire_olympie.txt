@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_olympie  
-creator: Voltaire  
+creator: Voltaire.  
 date: 1764  
 title: Olympie. , tragédie en cinq actes.  
 ---

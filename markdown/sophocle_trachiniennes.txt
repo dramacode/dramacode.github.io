@@ -1,6 +1,6 @@
 ---
 identifier: sophocle_trachiniennes  
-creator: Sophocle  
+creator: Sophocle.  
 date: 1877  
 title: Les trachiniennes. , tragédie.  
 ---

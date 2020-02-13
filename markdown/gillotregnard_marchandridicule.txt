@@ -1,6 +1,6 @@
 ---
 identifier: gillotregnard_marchandridicule  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: 1695  
 title: Le marchand ridicule. , comédie  
 ---

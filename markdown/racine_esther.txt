@@ -1,6 +1,6 @@
 ---
 identifier: racine_esther  
-creator: Racine, Jean  
+creator: Racine, Jean.  
 date: 1689  
 title: Esther. , tragédie tirée de l’écriture sainte.  
 ---

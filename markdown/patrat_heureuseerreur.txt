@@ -1,6 +1,6 @@
 ---
 identifier: patrat_heureuseerreur  
-creator: Patrat Joseph  
+creator: Patrat Joseph.  
 date: 1783  
 title: L’heureuse erreur. , comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: baculard_coligni  
-creator: Baculard François Thomas-Marie  
+creator: Baculard François Thomas-Marie.  
 date: 1739  
 title: Le coligny. , tragdie  
 ---

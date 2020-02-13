@@ -1,6 +1,6 @@
 ---
 identifier: dancourt_eauxdebourbon  
-creator: Dancourt Florent Carton dit  
+creator: Dancourt Florent Carton dit.  
 date: 1695  
 title: Les eaux de bourbon. , comédie  
 ---

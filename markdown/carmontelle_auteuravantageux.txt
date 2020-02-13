@@ -1,6 +1,6 @@
 ---
 identifier: carmontelle_auteuravantageux  
-creator: Carmontelle Louis Carrogis, dit Louis de Carmontelle  
+creator: Carmontelle Louis Carrogis, dit Louis de Carmontelle.  
 date: 1768  
 title: L’auteur avantageux. , comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: sedaine_defautssupposes  
-creator: Sedaine Michel-Jean  
+creator: Sedaine Michel-Jean.  
 date: 1788  
 title: Les défauts supposés. , comèdie en vers et en un acte.  
 ---

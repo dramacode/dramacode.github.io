@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_nanine  
-creator: Voltaire  
+creator: Voltaire.  
 date: 1749  
 title: Nanine ou le préjugé vaincu. , comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: moliere_precieusesridicules  
-creator: Molière  
+creator: Molière.  
 date: 1659  
 title: Les Précieuses ridicules. Comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: gillet_campagnard  
-creator: Gillet de La Tessonerie  
+creator: Gillet de La Tessonerie.  
 date: 1656  
 title: Le Campagnard. , comédie en cinq actes  
 ---

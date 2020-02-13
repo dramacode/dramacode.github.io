@@ -1,0 +1,18 @@
+<html>
+  <body>
+    <script>
+      (async () => {
+        const url = 'https://api.github.com/repos/dramacode/dramacode.github.io/contents/article/';
+        const response = await fetch(url);
+        const data = await response.json();
+        let htmlString = '<ul>';
+        for (let file of data) {
+          htmlString += `<li><a href="${file.name}">${file.name}</a></li>`;
+        }
+        htmlString += '</ul>';
+        document.getElementsByTagName('body')[0].innerHTML = htmlString;
+      })()
+    </script>
+  <body>
+</html>
+

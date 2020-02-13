@@ -1,6 +1,6 @@
 ---
 identifier: pixerecourt_victor  
-creator: Guilbert-pixerécourt René Charles  
+creator: Guilbert-pixerécourt René Charles.  
 date: 1798  
 title: Victor. , ou l’enfant de la forêt, drame.  
 ---

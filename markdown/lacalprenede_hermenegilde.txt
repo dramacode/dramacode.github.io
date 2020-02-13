@@ -1,6 +1,6 @@
 ---
 identifier: lacalprenede_hermenegilde  
-creator: La Calprenède Gautier Costes de  
+creator: La Calprenède Gautier Costes de.  
 date: 1642  
 title: Herménégilde. , tragédie.  
 ---

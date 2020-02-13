@@ -1,6 +1,6 @@
 ---
 identifier: lacalprenede_comtedessex  
-creator: La Calprenède Gautier Costes de  
+creator: La Calprenède Gautier Costes de.  
 date: 1637  
 title: Le Comte d’Essex. , tragédie.  
 ---

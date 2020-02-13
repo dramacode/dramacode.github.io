@@ -1,6 +1,6 @@
 ---
 identifier: poisson_holandemalade  
-creator: Poisson Jean-François  
+creator: Poisson Jean-François.  
 date: 1672  
 title: La Hollande malade. , comédie en un acte  
 ---

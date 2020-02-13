@@ -1,6 +1,6 @@
 ---
 identifier: taconet_nostradamus  
-creator: Taconet Toussaint-Gaspard  
+creator: Taconet Toussaint-Gaspard.  
 date: 1756  
 title: Nostradamus. , parodie  
 ---

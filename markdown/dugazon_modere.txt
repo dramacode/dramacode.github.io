@@ -1,6 +1,6 @@
 ---
 identifier: dugazon_modere  
-creator: Dugazon  Henri Jean-Henri Gourgaud dit  
+creator: Dugazon Henri Jean-Henri Gourgaud dit.  
 date: 1793  
 title: Le modéré. , comédie en un acte et en vers  
 ---

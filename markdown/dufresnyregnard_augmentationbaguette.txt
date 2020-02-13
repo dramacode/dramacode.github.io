@@ -1,6 +1,6 @@
 ---
 identifier: dufresnyregnard_augmentationbaguette  
-creator: Regnard et dufresny  
+creator: Regnard et dufresny.  
 date: 1693  
 title: L’augmentation de la baguette. , comédie en un acte  
 ---

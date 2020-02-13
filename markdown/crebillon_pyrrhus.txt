@@ -1,6 +1,6 @@
 ---
 identifier: crebillon_pyrrhus  
-creator: Crébillon Prosper J. de  
+creator: Crébillon Prosper J. de.  
 date: 1726  
 title: Pyrrhus. , tragédie  
 ---

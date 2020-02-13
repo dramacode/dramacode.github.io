@@ -1,6 +1,6 @@
 ---
 identifier: tanevot_adameteve  
-creator: Tanevot Alexandre  
+creator: Tanevot Alexandre.  
 date: (non  
 title: Adam et eve. , tragédie.  
 ---

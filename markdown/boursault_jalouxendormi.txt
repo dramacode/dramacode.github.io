@@ -1,6 +1,6 @@
 ---
 identifier: boursault_jalouxendormi  
-creator: Boursault, Edme  
+creator: Boursault, Edme.  
 date: 1662  
 title: Le Jaloux endormi. , comédie.  
 ---

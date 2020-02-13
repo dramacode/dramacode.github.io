@@ -1,6 +1,6 @@
 ---
 identifier: coupignybarrepiisdesfontaines_hommageracine  
-creator: Coupigny BARRÉ, PIIS, RADET, DESFONTAINES  
+creator: Coupigny BARRÉ, PIIS, RADET, DESFONTAINES.  
 date: 1798  
 title: Hommage du petit vaudeville au grand racine.   
 ---

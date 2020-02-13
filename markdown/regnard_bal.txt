@@ -1,6 +1,6 @@
 ---
 identifier: regnard_bal  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: 1696  
 title: Le bal. , comédie  
 ---

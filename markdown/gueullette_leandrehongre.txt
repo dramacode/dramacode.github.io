@@ -1,6 +1,6 @@
 ---
 identifier: gueullette_leandrehongre  
-creator: Gueullette Thomas-Simon  
+creator: Gueullette Thomas-Simon.  
 date: 1720  
 title: Léandre hongre. , parade.  
 ---

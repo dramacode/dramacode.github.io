@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_provinciale  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1750  
 title: La provinciale. , comédie.  
 ---

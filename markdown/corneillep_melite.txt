@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_melite  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1630  
 title: Mélite. , comédie  
 ---

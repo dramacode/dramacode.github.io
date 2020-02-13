@@ -1,6 +1,6 @@
 ---
 identifier: biancolelli_agnesdechaillot  
-creator: Biancolelli Pierre François  
+creator: Biancolelli Pierre François.  
 date: 1723  
 title: Agnès de chaillot. , comédie.  
 ---

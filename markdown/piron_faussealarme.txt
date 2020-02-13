@@ -1,6 +1,6 @@
 ---
 identifier: piron_faussealarme  
-creator: Piron Alexis  
+creator: Piron Alexis.  
 date: (non  
 title: La fausse alarme. , pastorale en un acte  
 ---

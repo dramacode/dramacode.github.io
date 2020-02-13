@@ -1,6 +1,6 @@
 ---
 identifier: legouve_polixene  
-creator: Legouvé Gabriel  
+creator: Legouvé Gabriel.  
 date: (inc  
 title: Polixène. , tragédie.  
 ---

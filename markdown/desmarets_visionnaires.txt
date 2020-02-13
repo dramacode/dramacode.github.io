@@ -1,6 +1,6 @@
 ---
 identifier: desmarets_visionnaires  
-creator: Desmarets de Saint-Sorlin Jean dit De Boisval  
+creator: Desmarets de Saint-Sorlin Jean dit De Boisval.  
 date: 1637  
 title: Les Visionnaires. , comédie.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: crebillon_semiramis  
-creator: Crébillon Prosper J. de  
+creator: Crébillon Prosper J. de.  
 date:   
 title: Sémiramis. , tragédie  
 ---

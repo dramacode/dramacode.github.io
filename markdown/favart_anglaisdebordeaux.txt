@@ -1,6 +1,6 @@
 ---
 identifier: favart_anglaisdebordeaux  
-creator: Favart Charles-Simon  
+creator: Favart Charles-Simon.  
 date: 1763  
 title: L’anglais À bordeaux. , comédie.  
 ---

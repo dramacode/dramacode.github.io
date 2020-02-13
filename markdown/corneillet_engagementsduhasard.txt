@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_engagementsduhasard  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas.  
 date: 1649  
 title: Les Engagements du hasard. , comédie.  
 ---

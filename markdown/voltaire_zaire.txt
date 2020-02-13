@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_zaire  
-creator: Voltaire  
+creator: Voltaire.  
 date: 1732  
 title: Zaïre. , tragédie  
 ---

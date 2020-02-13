@@ -1,6 +1,6 @@
 ---
 identifier: biancolleli_oedipetravesti  
-creator: Biancolelli Pierre François  
+creator: Biancolelli Pierre François.  
 date: 1719  
 title: Oedipe travesti. , comédie  
 ---

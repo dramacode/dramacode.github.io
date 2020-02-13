@@ -1,6 +1,6 @@
 ---
 identifier: euripide_helene  
-creator: Euripide  
+creator: Euripide.  
 date: 1880  
 title: Hélène. , tragédie.  
 ---

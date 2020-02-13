@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_ducdalencon  
-creator: Voltaire  
+creator: Voltaire.  
 date: 1751  
 title: Le duc d’alenÇon ou les frères ennemis. , tragédie en trois actes.  
 ---

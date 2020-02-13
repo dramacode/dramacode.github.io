@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_oedipe  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1659  
 title: Oedipe. , tragédie  
 ---

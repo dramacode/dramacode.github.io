@@ -1,6 +1,6 @@
 ---
 identifier: lacalprenede_mortmitrhidate  
-creator: La Calprenède Gautier Costes de  
+creator: La Calprenède Gautier Costes de.  
 date: 1635  
 title: La Mort de Mitridate. , tragédie  
 ---

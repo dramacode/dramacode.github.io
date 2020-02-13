@@ -1,6 +1,6 @@
 ---
 identifier: archambault_jocrissechange  
-creator: Archambault Louis-François  
+creator: Archambault Louis-François.  
 date: 1794  
 title: Jocrisse changé de condition. , comédie-folie  
 ---

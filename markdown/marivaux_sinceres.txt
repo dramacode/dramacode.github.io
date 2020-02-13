@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_sinceres  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1739  
 title: Les sincères. , comédie  
 ---

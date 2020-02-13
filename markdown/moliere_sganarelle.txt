@@ -1,6 +1,6 @@
 ---
 identifier: moliere_sganarelle  
-creator: Molière  
+creator: Molière.  
 date: 1660  
 title: Sganarelle ou Le Cocu imaginaire. Comédie  
 ---

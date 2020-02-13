@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_prejugevaincu  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1646  
 title: Le préjuge vaincu. , comédie.  
 ---

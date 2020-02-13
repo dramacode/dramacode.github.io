@@ -1,6 +1,6 @@
 ---
 identifier: saurin_moeursdutemps  
-creator: Saurin Bernard-Joseph  
+creator: Saurin Bernard-Joseph.  
 date: 1760  
 title: Les moeurs du temps. , comédie en acte  
 ---

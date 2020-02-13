@@ -1,6 +1,6 @@
 ---
 identifier: letellier_domjuan  
-creator: Le Tellier, Jean-François  
+creator: Le Tellier, Jean-François.  
 date: 1713  
 title: Don juan ou le festin de pierre.  
 ---

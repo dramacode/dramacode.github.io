@@ -1,6 +1,6 @@
 ---
 identifier: regnard_distrait  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: 1697  
 title: Le distrait. , comédie  
 ---

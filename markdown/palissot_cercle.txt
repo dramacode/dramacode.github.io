@@ -1,6 +1,6 @@
 ---
 identifier: palissot_cercle  
-creator: Palissot de montenoy Charles  
+creator: Palissot de montenoy Charles.  
 date: 1755  
 title: Le cercle ou les originaux. , comédie un acte.  
 ---

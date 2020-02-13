@@ -1,6 +1,6 @@
 ---
 identifier: barbier_faucon  
-creator: Barbier Marie-Anne  
+creator: Barbier Marie-Anne.  
 date: 1719  
 title: Le faucon. , comédie  
 ---

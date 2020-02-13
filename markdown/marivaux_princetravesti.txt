@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_princetravesti  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1724  
 title: Le prince travesti. , comédie.  
 ---

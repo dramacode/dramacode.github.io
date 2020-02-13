@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_sophonisbe  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1663  
 title: Sophonisbe. , tragédie  
 ---

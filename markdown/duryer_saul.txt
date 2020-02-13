@@ -1,6 +1,6 @@
 ---
 identifier: duryer_saul  
-creator: Du Ryer Pierre  
+creator: Du Ryer Pierre.  
 date: 1640  
 title: Saül. , tragédie.  
 ---

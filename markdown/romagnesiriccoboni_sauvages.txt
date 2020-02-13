@@ -1,6 +1,6 @@
 ---
 identifier: romagnesiriccoboni_sauvages  
-creator: Riccoboni et romagnesi  
+creator: Riccoboni et romagnesi.  
 date: 1736  
 title: Les sauvages. , parodie.  
 ---

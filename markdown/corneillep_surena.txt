@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_surena  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1674  
 title: Suréna.  géneral des Parthes, tragédie  
 ---

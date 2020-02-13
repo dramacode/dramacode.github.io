@@ -1,6 +1,6 @@
 ---
 identifier: durant_jourssesuivent  
-creator: Durant Catherine  
+creator: Durant Catherine.  
 date: (inc  
 title: Les jours se suivent et ne se ressemblent pas. , proverbe.  
 ---

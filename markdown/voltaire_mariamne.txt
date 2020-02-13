@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_mariamne  
-creator: Voltaire  
+creator: Voltaire.  
 date: 1724  
 title: Mariamne. , tragédie en cinq actes.  
 ---

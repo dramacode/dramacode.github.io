@@ -1,6 +1,6 @@
 ---
 identifier: rousseau_narcisse  
-creator: Rousseau Jean-Jacques  
+creator: Rousseau Jean-Jacques.  
 date: 1752  
 title: Narcisse ou l’amant de lui-même. , comédie  
 ---

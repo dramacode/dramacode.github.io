@@ -1,6 +1,6 @@
 ---
 identifier: magnon_mariageoroondate  
-creator: Magnon Jean  
+creator: Magnon Jean.  
 date: 1646  
 title: Le Mariage d’Oroondate et de Statira. , ou la conclusion de cassandre, tragi-comédie  
 ---

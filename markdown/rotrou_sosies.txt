@@ -1,6 +1,6 @@
 ---
 identifier: rotrou_sosies  
-creator: Rotrou, Jean  
+creator: Rotrou, Jean.  
 date: 1637  
 title: Les Sosies. , comédie  
 ---

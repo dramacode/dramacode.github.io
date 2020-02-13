@@ -1,6 +1,6 @@
 ---
 identifier: regnard_democrite  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: 1700  
 title: Démocrite. , comédie  
 ---

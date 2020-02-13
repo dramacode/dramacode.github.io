@@ -1,6 +1,6 @@
 ---
 identifier: colle_cocatrix  
-creator: Colle Charles  
+creator: Colle Charles.  
 date: 1731  
 title: Cocatrix. , tragédie amphigourique.  
 ---

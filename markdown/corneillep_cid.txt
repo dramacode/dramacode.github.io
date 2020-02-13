@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_cid  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1637  
 title: Le Cid. , tragi-comédie  
 ---

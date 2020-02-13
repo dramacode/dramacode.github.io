@@ -1,6 +1,6 @@
 ---
 identifier: mercier_habitantguadeloupe  
-creator: Mercier Louis-Sébastien  
+creator: Mercier Louis-Sébastien.  
 date: 1782  
 title: L’habitant de la guadeloupe. , ou la réduction de paris.  
 ---

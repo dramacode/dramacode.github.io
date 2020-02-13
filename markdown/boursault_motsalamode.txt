@@ -1,6 +1,6 @@
 ---
 identifier: boursault_motsalamode  
-creator: Boursault, Edme  
+creator: Boursault, Edme.  
 date: 1694  
 title: Les mots a la mode. , comédie.  
 ---

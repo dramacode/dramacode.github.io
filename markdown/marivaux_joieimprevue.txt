@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_joieimprevue  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1738  
 title: La joie imprévue. , comédie.  
 ---

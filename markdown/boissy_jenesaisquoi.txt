@@ -1,6 +1,6 @@
 ---
 identifier: boissy_jenesaisquoi  
-creator: Boissy Louis de  
+creator: Boissy Louis de.  
 date: (inc  
 title: Le je ne sais quoi. , comédie  
 ---

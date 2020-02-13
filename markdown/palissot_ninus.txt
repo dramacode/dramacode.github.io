@@ -1,6 +1,6 @@
 ---
 identifier: palissot_ninus  
-creator: Palissot de montenoy Charles  
+creator: Palissot de montenoy Charles.  
 date: 1761  
 title: Ninus second. , tragédie.  
 ---

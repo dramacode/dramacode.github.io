@@ -1,6 +1,6 @@
 ---
 identifier: duche_absalon  
-creator: Duche de vancy Jospeh-François  
+creator: Duche de vancy Jospeh-François.  
 date: 1712  
 title: Absalon. , tragédie  
 ---

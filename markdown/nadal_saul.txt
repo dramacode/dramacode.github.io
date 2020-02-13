@@ -1,6 +1,6 @@
 ---
 identifier: nadal_saul  
-creator: Nadal Augustin  
+creator: Nadal Augustin.  
 date: (non  
 title: SaÜl. , tragédie  
 ---

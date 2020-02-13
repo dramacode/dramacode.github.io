@@ -1,6 +1,6 @@
 ---
 identifier: dufresny_coquetteduvillage  
-creator: Dufresny Charles  
+creator: Dufresny Charles.  
 date: 1715  
 title: La coquette de village ou le lot supposé. , comédie en trois actes.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: dufresny_joueuse  
-creator: Dufresny Charles Rivière  
+creator: Dufresny Charles Rivière.  
 date: 1709  
 title: La joueuse. , comédie  
 ---

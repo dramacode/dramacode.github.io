@@ -1,6 +1,6 @@
 ---
 identifier: nivelle_ecoledesamis  
-creator: Nivelle de la chaussée Pierre  
+creator: Nivelle de la chaussée Pierre.  
 date: 1737  
 title: École des amis. , comédie.  
 ---

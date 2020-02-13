@@ -1,6 +1,6 @@
 ---
 identifier: palissot_philosophes  
-creator: Palissot de montenoy Charles  
+creator: Palissot de montenoy Charles.  
 date: 1760  
 title: Les philosophes. , comédie en trois actes et en vers.  
 ---

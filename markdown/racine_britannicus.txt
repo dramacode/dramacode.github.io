@@ -1,6 +1,6 @@
 ---
 identifier: racine_britannicus  
-creator: Racine, Jean  
+creator: Racine, Jean.  
 date: 1669  
 title: Britannicus. , tragédie  
 ---

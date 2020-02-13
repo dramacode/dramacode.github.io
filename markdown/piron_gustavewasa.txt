@@ -1,6 +1,6 @@
 ---
 identifier: piron_gustavewasa  
-creator: Piron Alexis  
+creator: Piron Alexis.  
 date: 1733  
 title: Gustave wasa. , tragédie  
 ---

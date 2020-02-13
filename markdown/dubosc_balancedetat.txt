@@ -1,6 +1,6 @@
 ---
 identifier: dubosc_balancedetat  
-creator: Du Bosc de Montandré Claude  
+creator: Du Bosc de Montandré Claude.  
 date: 1652  
 title: La Balance d’État. , tragi-comédie.  
 ---

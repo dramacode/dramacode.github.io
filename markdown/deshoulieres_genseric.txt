@@ -1,6 +1,6 @@
 ---
 identifier: deshoulieres_genseric  
-creator: Deshoulières Antoinette du Ligier de la Garde  
+creator: Deshoulières Antoinette du Ligier de la Garde.  
 date: 1680  
 title: Genseric. , tragédie  
 ---

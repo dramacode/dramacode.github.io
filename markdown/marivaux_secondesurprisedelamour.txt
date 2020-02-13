@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_secondesurprisedelamour  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1727  
 title: La seconde suprise de l’amour. , comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: longepierre_medee  
-creator: Longepierre Hilaire de  
+creator: Longepierre Hilaire de.  
 date: 1694  
 title: Médée. , tragédie  
 ---

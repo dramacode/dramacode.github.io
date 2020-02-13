@@ -1,6 +1,6 @@
 ---
 identifier: nadal_herode  
-creator: Nadal Augustin  
+creator: Nadal Augustin.  
 date: 1709  
 title: Hérode. , tragédie  
 ---

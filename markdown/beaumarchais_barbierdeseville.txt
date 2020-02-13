@@ -1,6 +1,6 @@
 ---
 identifier: beaumarchais_barbierdeseville  
-creator: Beaumarchais Pierre Augustin Caron de  
+creator: Beaumarchais Pierre Augustin Caron de.  
 date: 1775  
 title: Le barbier de séville ou les précautions inutiles  
 ---

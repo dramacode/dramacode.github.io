@@ -1,6 +1,6 @@
 ---
 identifier: donneaudevise_gentilhommeguepin  
-creator: Donneau de Visé Jean  
+creator: Donneau de Visé Jean.  
 date: 1670  
 title: Le Gentilhomme Guespin. , comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: gueullette_marchanddemerde  
-creator: Gueullette Thomas-Simon  
+creator: Gueullette Thomas-Simon.  
 date: 1720  
 title: Le marchand de merde. , parade.  
 ---

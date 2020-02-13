@@ -1,6 +1,6 @@
 ---
 identifier: biancollelliromagnesi_arcagambis  
-creator: Biancolelli pierre-françois (1680-1734) RICCOBONI Antoine-François (1707-1772), RICCOBONI Luigi (1676-1753), ROMAGNESI Jean-Antoine (1690-1742)  
+creator: Biancolelli pierre-françois.  
 date: 1726  
 title: Arcagambis. , tragédie  
 ---

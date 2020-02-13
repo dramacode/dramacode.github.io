@@ -1,6 +1,6 @@
 ---
 identifier: guibert_fillesamarier  
-creator: Guibert Elisabeth  
+creator: Guibert Elisabeth.  
 date: 1768  
 title: Les filles À marier. , comédie en un acte en vers.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: cubieres-palmezeaux_feteseculairecorneille  
-creator: Cubières-palmézeaux Michel de  
+creator: Cubières-palmézeaux Michel de.  
 date: (inc  
 title: La fête séculaire de corneille. , tragédie.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: goulard_agis  
-creator: Goulard Jean-François-Thomas  
+creator: Goulard Jean-François-Thomas.  
 date:   
 title: Agis. , parodie d’agis.  
 ---

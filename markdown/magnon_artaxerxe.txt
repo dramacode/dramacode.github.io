@@ -1,6 +1,6 @@
 ---
 identifier: magnon_artaxerxe  
-creator: Magnon Jean  
+creator: Magnon Jean.  
 date: 1644  
 title: Artaxerxe. , tragédie  
 ---

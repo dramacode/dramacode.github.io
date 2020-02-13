@@ -1,6 +1,6 @@
 ---
 identifier: aigueberre_panetdoris  
-creator: Aigueberre Jean Dumas d’  
+creator: Aigueberre Jean Dumas d’.  
 date: (non  
 title: Pan et doris. , pastorale  
 ---

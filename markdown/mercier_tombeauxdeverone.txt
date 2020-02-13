@@ -1,6 +1,6 @@
 ---
 identifier: mercier_tombeauxdeverone  
-creator: Mercier Louis-Sébastien  
+creator: Mercier Louis-Sébastien.  
 date: (inc  
 title: Les tombeaux de vérone. , tragi-comédie.  
 ---

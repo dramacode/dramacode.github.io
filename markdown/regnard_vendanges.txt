@@ -1,6 +1,6 @@
 ---
 identifier: regnard_vendanges  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: (non  
 title: Les vendanges. , ou le bailli d’anières, comédie en un acte  
 ---

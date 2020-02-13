@@ -1,6 +1,6 @@
 ---
 identifier: saintpriest_potaunoirpotauxroses  
-creator: Saint-priest Commandant  
+creator: Saint-priest Commandant.  
 date: 1789  
 title: Le pot au noir et  le pot aux roses ou daphnis et hortense. , pastorale en un acte.  
 ---

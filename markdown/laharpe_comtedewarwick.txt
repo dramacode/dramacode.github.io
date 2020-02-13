@@ -1,6 +1,6 @@
 ---
 identifier: laharpe_comtedewarwick  
-creator: La harpe Jean-François de  
+creator: La harpe Jean-François de.  
 date: 1763  
 title: Le comte de warwik. , tragédie.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: pain_appartementalouer  
-creator: Pain Joseph-Marie  
+creator: Pain Joseph-Marie.  
 date: 1799  
 title: L’appartement a louer. , comédie  
 ---

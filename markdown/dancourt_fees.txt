@@ -1,6 +1,6 @@
 ---
 identifier: dancourt_fees  
-creator: Dancourt Florent CARTON dit  
+creator: Dancourt Florent CARTON dit.  
 date: 1699  
 title: Les fées. , comédie  
 ---

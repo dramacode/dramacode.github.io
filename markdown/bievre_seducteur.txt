@@ -1,6 +1,6 @@
 ---
 identifier: bievre_seducteur  
-creator: Bièvre François George Maréchal, marquis de  
+creator: Bièvre François George Maréchal, marquis de.  
 date: 1783  
 title: Le séducteur. , comédie.  
 ---

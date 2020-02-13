@@ -1,6 +1,6 @@
 ---
 identifier: chazetdupaty_arlequinjournaliste  
-creator: Chazet DUPATY  
+creator: Chazet DUPATY.  
 date: 1797  
 title: Arlequin journaliste. , comédie  
 ---

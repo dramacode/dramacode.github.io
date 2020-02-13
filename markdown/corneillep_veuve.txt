@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_veuve  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1632  
 title: La Veuve.  ou le traître trahi, comédie  
 ---

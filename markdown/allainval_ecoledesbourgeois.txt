@@ -1,6 +1,6 @@
 ---
 identifier: allainval_ecoledesbourgeois  
-creator: Soulas d’allainval Abbé Léonor Jean Christine  
+creator: Soulas d’allainval Abbé Léonor Jean Christine.  
 date: 1728  
 title: L’école des bourgeois. , comédie.  
 ---

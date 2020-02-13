@@ -1,6 +1,6 @@
 ---
 identifier: lantier_impatient  
-creator: Lantier Etienne François de  
+creator: Lantier Etienne François de.  
 date: 1778  
 title: L’impatient. , comédie.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: lafontaine_astree  
-creator: La fontaine Jean de  
+creator: La fontaine Jean de.  
 date: 1691  
 title: Astrée. , tragédie  
 ---

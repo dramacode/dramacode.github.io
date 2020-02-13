@@ -1,6 +1,6 @@
 ---
 identifier: scarron_marquisridicule  
-creator: Scarron Paul  
+creator: Scarron Paul.  
 date: 1646  
 title: Le Marquis ridicule. , ou la comtesse faite à la hâte. comédie.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: durant_onneconnaitpaslevin  
-creator: Durant Catherine  
+creator: Durant Catherine.  
 date: (non  
 title: On ne connait pas le vin au cercle. , proverbe.  
 ---

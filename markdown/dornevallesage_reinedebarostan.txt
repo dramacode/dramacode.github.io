@@ -1,6 +1,6 @@
 ---
 identifier: dornevallesage_reinedebarostan  
-creator: Dorneval Jacques-Philippe d’ORNEVAL dit  
+creator: Dorneval Jacques-Philippe d’ORNEVAL dit.  
 date: 1730  
 title: La reine du barostan. , comédie.  
 ---

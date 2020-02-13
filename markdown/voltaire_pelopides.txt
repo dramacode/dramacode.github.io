@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_pelopides  
-creator: Voltaire  
+creator: Voltaire.  
 date: (non  
 title: Les pélopides ou atree et thyeste. , tragédie  
 ---

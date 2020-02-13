@@ -1,6 +1,6 @@
 ---
 identifier: archambault_janotdegraisseur  
-creator: Archambault Louis-François  
+creator: Archambault Louis-François.  
 date: 1779  
 title: Janot chez la dégraisseur. ,  
 ---

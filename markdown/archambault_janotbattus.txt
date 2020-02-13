@@ -1,6 +1,6 @@
 ---
 identifier: archambault_janotbattus  
-creator: Archambault Louis-François  
+creator: Archambault Louis-François.  
 date: 1779  
 title: Janot ou les battus paient l’amende. , comédie-proverbe  
 ---

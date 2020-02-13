@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_iledesesclaves  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1725  
 title: L’ile des esclaves. , comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: quinault_merecoquette  
-creator: Quinault,  Philippe  
+creator: Quinault, Philippe.  
 date: 1665  
 title: La Mère coquette.  ou les amants brouilles, comédie  
 ---

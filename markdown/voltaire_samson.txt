@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_samson  
-creator: Voltaire François-Marie AROUET de  
+creator: Voltaire François-Marie AROUET de.  
 date: (non  
 title: Samson. , tragédie  
 ---

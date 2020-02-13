@@ -1,6 +1,6 @@
 ---
 identifier: regnard_joueur  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: 1696  
 title: Le joueur. , comédie en vers et en cinq actes  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: boursault_satiredessatires  
-creator: Boursault, Edme  
+creator: Boursault, Edme.  
 date: 1694  
 title: La satire des satires. , comédie.  
 ---

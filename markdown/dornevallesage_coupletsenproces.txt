@@ -1,6 +1,6 @@
 ---
 identifier: dornevallesage_coupletsenproces  
-creator: Dorneval LESAGE  
+creator: Dorneval LESAGE.  
 date: 1730  
 title: Les couplets en procès. , prologue.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: henault_mariusacirte  
-creator: Henault d’armorezan Charles-Jean-François  
+creator: Henault d’armorezan Charles-Jean-François.  
 date: 1715  
 title: Marius. , tragédie  
 ---

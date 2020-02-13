@@ -1,6 +1,6 @@
 ---
 identifier: regnard_arlequinauxenfers  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: 1689  
 title: Arlequin aux enfers. , comédie  
 ---

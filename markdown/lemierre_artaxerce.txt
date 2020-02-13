@@ -1,6 +1,6 @@
 ---
 identifier: lemierre_artaxerce  
-creator: Le mierre Antoine-Marin  
+creator: Le mierre Antoine-Marin.  
 date: 1766  
 title: Artaxerce. , tragédie.  
 ---

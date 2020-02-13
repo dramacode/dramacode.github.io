@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_ariane  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas.  
 date: 1672  
 title: Ariane. , tragédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: gueullette_chapeaudefortunatus  
-creator: Gueullette Thomas-Simon  
+creator: Gueullette Thomas-Simon.  
 date: 1712  
 title: Le chapeau de fortunatus. , farce en un acte.  
 ---

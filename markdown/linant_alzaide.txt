@@ -1,6 +1,6 @@
 ---
 identifier: linant_alzaide  
-creator: Linant Michel  
+creator: Linant Michel.  
 date: 1745  
 title: Alzaïde. , tragédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_faussesconfidences  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1737  
 title: Les fausses confidences. , comédie  
 ---

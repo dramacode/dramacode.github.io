@@ -1,6 +1,6 @@
 ---
 identifier: racine_iphigenie  
-creator: Racine, Jean  
+creator: Racine, Jean.  
 date: 1674  
 title: Iphigénie. , tragédie.  
 ---

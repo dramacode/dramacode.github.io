@@ -1,6 +1,6 @@
 ---
 identifier: rousseaup_mortdebucephale  
-creator: Rousseau Pierre  
+creator: Rousseau Pierre.  
 date: 1748  
 title: La mort de bucéphale en un acte en vers  
 ---

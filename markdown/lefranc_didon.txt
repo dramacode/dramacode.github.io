@@ -1,6 +1,6 @@
 ---
 identifier: lefranc_didon  
-creator: Pompignan Jean-Jacques Lefranc, marquis de  
+creator: Pompignan Jean-Jacques Lefranc, marquis de.  
 date: 1734  
 title: Didon. , tragédie .  
 ---

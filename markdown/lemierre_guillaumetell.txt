@@ -1,6 +1,6 @@
 ---
 identifier: lemierre_guillaumetell  
-creator: Le mierre Antoine-Marin  
+creator: Le mierre Antoine-Marin.  
 date: 1766  
 title: Guillaume tell.  
 ---

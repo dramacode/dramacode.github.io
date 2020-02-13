@@ -1,6 +1,6 @@
 ---
 identifier: dufresnyregnard_chinois  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: 1692  
 title: Les chinois. , comédie en quatre actes  
 ---

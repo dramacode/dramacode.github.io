@@ -1,6 +1,6 @@
 ---
 identifier: carbondeflins_reveilepimenide  
-creator: Carbon de flins Claude de  
+creator: Carbon de flins Claude de.  
 date: 1790  
 title: Le réveil d’épiménide À paris comédie en un acte. , en vers.  
 ---

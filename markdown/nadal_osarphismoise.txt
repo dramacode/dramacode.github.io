@@ -1,6 +1,6 @@
 ---
 identifier: nadal_osarphismoise  
-creator: Nadal Augustin  
+creator: Nadal Augustin.  
 date: (non  
 title: Osarphis ou moïse. , tragédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_depositaire  
-creator: Voltaire  
+creator: Voltaire.  
 date: (non  
 title: Le dépostaire. , comédie  
 ---

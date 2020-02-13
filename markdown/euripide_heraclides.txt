@@ -1,6 +1,6 @@
 ---
 identifier: euripide_heraclides  
-creator: Euripide  
+creator: Euripide.  
 date: 1880  
 title: Les héraclides. , tragédie.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: racine_athalie  
-creator: Racine, Jean  
+creator: Racine, Jean.  
 date: 1691  
 title: Athalie. , tragédie tirée de l’écriture sainte.  
 ---

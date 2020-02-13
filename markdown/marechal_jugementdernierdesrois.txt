@@ -1,6 +1,6 @@
 ---
 identifier: marechal_jugementdernierdesrois  
-creator: Maréchal Pierre-Sylvain  
+creator: Maréchal Pierre-Sylvain.  
 date: 1793  
 title: Le jugement dernier des rois. , prophétie.  
 ---

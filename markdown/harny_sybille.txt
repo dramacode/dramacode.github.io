@@ -1,6 +1,6 @@
 ---
 identifier: harny_sybille  
-creator: Harny de guerville  
+creator: Harny de guerville.  
 date: 1765  
 title: La sybille. , parodie.  
 ---

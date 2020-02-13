@@ -1,6 +1,6 @@
 ---
 identifier: beaunoir_princeramoneur  
-creator: Beaunoir Alexandre-Louis-Bertrand Robineau dit de  
+creator: Beaunoir Alexandre-Louis-Bertrand Robineau dit de.  
 date: 1784  
 title: Le ramoneur prince. , et le prince ramoneur, comédie  
 ---

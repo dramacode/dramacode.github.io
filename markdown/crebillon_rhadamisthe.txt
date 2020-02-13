@@ -1,6 +1,6 @@
 ---
 identifier: crebillon_rhadamisthe  
-creator: Crébillon, Prosper J. de  
+creator: Crébillon, Prosper J. de.  
 date: 1711  
 title: RHADAMISTHE et ZÉNOBIE, TRAGÉDIE  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: boursault_comediesanstitre  
-creator: Boursault, Edme  
+creator: Boursault, Edme.  
 date: 1683  
 title: La comédie sans titre. , comédie.  
 ---

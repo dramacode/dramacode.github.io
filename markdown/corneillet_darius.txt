@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_darius  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas.  
 date: 1659  
 title: Darius. , tragédie  
 ---

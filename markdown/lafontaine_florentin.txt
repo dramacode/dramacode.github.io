@@ -1,6 +1,6 @@
 ---
 identifier: lafontaine_florentin  
-creator: La fontaine Jean de  
+creator: La fontaine Jean de.  
 date: 1685  
 title: Le florentin. comédie.  
 ---

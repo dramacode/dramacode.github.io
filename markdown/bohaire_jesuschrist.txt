@@ -1,6 +1,6 @@
 ---
 identifier: bohaire_jesuschrist  
-creator: Bohaire-dutheil Nicolas de  
+creator: Bohaire-dutheil Nicolas de.  
 date: (inc  
 title: Jésus-christ. , tragédie  
 ---

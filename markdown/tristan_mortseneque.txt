@@ -1,6 +1,6 @@
 ---
 identifier: tristan_mortseneque  
-creator: Tristan L’Hermite François  
+creator: Tristan L’Hermite François.  
 date: 1644  
 title: La Mort de Sénèque. , tragédie  
 ---

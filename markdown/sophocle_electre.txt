@@ -1,6 +1,6 @@
 ---
 identifier: sophocle_electre  
-creator: Sophocle  
+creator: Sophocle.  
 date: 1877  
 title: Électre. , tragédie.  
 ---

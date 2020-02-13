@@ -1,6 +1,6 @@
 ---
 identifier: gouges_exclavagedesnoirs  
-creator: Gouges Olympe de Gouges  
+creator: Gouges Olympe de Gouges.  
 date: 1789  
 title: L’esclavage des noirs. , ou l’heureux naufrage, drame  
 ---

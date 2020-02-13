@@ -1,6 +1,6 @@
 ---
 identifier: dufresny_maladesansmaladie  
-creator: Du fresny Charles Rivière  
+creator: Du fresny Charles Rivière.  
 date: 1699  
 title: La malade sans maladie. , comédie  
 ---

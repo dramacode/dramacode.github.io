@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_sertorius  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1662  
 title: Sertorius. , tragédie  
 ---

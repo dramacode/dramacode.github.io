@@ -1,6 +1,6 @@
 ---
 identifier: durant_bonnerenommee  
-creator: Durant Catherine  
+creator: Durant Catherine.  
 date: (inc  
 title: Bonne renomée vaut mieux que ceintur dorée. , proverbe.  
 ---

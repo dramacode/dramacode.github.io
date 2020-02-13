@@ -1,6 +1,6 @@
 ---
 identifier: fuzelierlegrand_animauxraisonnables  
-creator: Fuzelier Louis et LEGRAND, Marc-Antoine  
+creator: Fuzelier Louis et LEGRAND, Marc-Antoine.  
 date: 1718  
 title: Les animaux raisonnables. , opéra comique  
 ---

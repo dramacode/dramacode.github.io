@@ -1,6 +1,6 @@
 ---
 identifier: boursault_fetedelaseine  
-creator: Boursault, Edme  
+creator: Boursault, Edme.  
 date: 1690  
 title: La fête de la seine. , divertissement en musique.  
 ---

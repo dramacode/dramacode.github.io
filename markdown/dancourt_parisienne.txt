@@ -1,6 +1,6 @@
 ---
 identifier: dancourt_parisienne  
-creator: Dancourt Florent CARTON dit  
+creator: Dancourt Florent CARTON dit.  
 date: 1691  
 title: La parisienne. , comédie  
 ---

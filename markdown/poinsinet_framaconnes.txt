@@ -1,6 +1,6 @@
 ---
 identifier: poinsinet_framaconnes  
-creator: Poinsinet Antoine-Alexandre-Henri  
+creator: Poinsinet Antoine-Alexandre-Henri.  
 date: 1754  
 title: Les fra-maÇonnes. , parodie  
 ---

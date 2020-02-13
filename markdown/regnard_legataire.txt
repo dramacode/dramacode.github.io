@@ -1,6 +1,6 @@
 ---
 identifier: regnard_legataire  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: 1704  
 title: Le légataire universel. , comédie  
 ---

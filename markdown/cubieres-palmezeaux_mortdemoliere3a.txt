@@ -1,6 +1,6 @@
 ---
 identifier: cubieres-palmezeaux_mortdemoliere3a  
-creator: Cubières-palmézeaux Michel de  
+creator: Cubières-palmézeaux Michel de.  
 date: 1788  
 title: La mort de molière. , pièce en trois actes, en vers.  
 ---

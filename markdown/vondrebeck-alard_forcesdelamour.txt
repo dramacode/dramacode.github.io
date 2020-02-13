@@ -1,6 +1,6 @@
 ---
 identifier: vondrebeck-alard_forcesdelamour  
-creator: Vondrebeck Maurice et ALARD, Charles  
+creator: Vondrebeck Maurice et ALARD, Charles.  
 date: 1678  
 title: Les forces de l’amour et de la magie. , divertissement  
 ---

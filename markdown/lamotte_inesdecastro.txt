@@ -1,6 +1,6 @@
 ---
 identifier: lamotte_inesdecastro  
-creator: La motte Antoine-Houdard de  
+creator: La motte Antoine-Houdard de.  
 date: 1723  
 title: Inès de castro. , tragédie  
 ---

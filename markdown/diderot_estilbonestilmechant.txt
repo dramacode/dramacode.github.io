@@ -1,6 +1,6 @@
 ---
 identifier: diderot_estilbonestilmechant  
-creator: Diderot Denis  
+creator: Diderot Denis.  
 date: (non  
 title: Est-il bon. , est-il méchant ? comédie.  
 ---

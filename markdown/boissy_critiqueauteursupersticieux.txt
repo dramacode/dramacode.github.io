@@ -1,6 +1,6 @@
 ---
 identifier: boissy_critiqueauteursupersticieux  
-creator: Boissy Louis de  
+creator: Boissy Louis de.  
 date: 1732  
 title: La critique  
 ---

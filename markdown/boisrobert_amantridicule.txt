@@ -1,6 +1,6 @@
 ---
 identifier: boisrobert_amantridicule  
-creator: Boisrobert, François Le Métel de  
+creator: Boisrobert, François Le Métel de.  
 date: 1655  
 title: L’Amant ridicule. , comédie représentée dans le ballet du roi  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: beaunoir_cacophonie  
-creator: Beaunoir Alexandre-Louis-Bertrand Robineau dit de  
+creator: Beaunoir Alexandre-Louis-Bertrand Robineau dit de.  
 date: 1779  
 title: La cacophonie. , comédie  
 ---

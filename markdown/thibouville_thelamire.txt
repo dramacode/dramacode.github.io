@@ -1,6 +1,6 @@
 ---
 identifier: thibouville_thelamire  
-creator: (anonyme)  
+creator: .  
 date: 1739  
 title: Thélamire. , tragédie  
 ---

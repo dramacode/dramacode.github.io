@@ -1,6 +1,6 @@
 ---
 identifier: bohaire_siegedeparis  
-creator: Bohaire-dutheil Nicolas de  
+creator: Bohaire-dutheil Nicolas de.  
 date: (inc  
 title: Le siège de paris. , tragédie  
 ---

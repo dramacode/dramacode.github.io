@@ -1,6 +1,6 @@
 ---
 identifier: magnon_sejanus  
-creator: Magnon Jean  
+creator: Magnon Jean.  
 date: 1645  
 title: Séjanus. , tragédie  
 ---

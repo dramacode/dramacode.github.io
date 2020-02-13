@@ -1,6 +1,6 @@
 ---
 identifier: racine_thebaide  
-creator: Racine, Jean  
+creator: Racine, Jean.  
 date: 1664  
 title: La Thébaïde.  ou les frères ennemis, tragédie.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: marivaux _acteursdebonnefoi  
-creator: MARIVAUX  
+creator: MARIVAUX.  
 date: 1748  
 title: LES ACTEURS DE BONNE FOI, COMÉDIE  
 ---

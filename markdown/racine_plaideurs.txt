@@ -1,6 +1,6 @@
 ---
 identifier: racine_plaideurs  
-creator: Racine, Jean  
+creator: Racine, Jean.  
 date: 1668  
 title: Les Plaideurs. , comédie.  
 ---

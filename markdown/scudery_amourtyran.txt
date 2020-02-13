@@ -1,6 +1,6 @@
 ---
 identifier: scudery_amourtyran  
-creator: Scudéry Georges de  
+creator: Scudéry Georges de.  
 date: 1638  
 title: L’Amour tyrannique. , tragi-comédie  
 ---

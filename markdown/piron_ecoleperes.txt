@@ -1,6 +1,6 @@
 ---
 identifier: piron_ecoleperes  
-creator: Piron Alexis  
+creator: Piron Alexis.  
 date: 1728  
 title: L’école des pères ou les fils ingrats. , comédie  
 ---

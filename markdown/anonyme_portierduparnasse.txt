@@ -1,6 +1,6 @@
 ---
 identifier: anonyme_portierduparnasse  
-creator: Anonyme  
+creator: Anonyme.  
 date: (non  
 title: Le portier du parnasse. , ou les poètes réformés, comédie  
 ---

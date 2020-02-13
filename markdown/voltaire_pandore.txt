@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_pandore  
-creator: Voltaire  
+creator: Voltaire.  
 date: 1767  
 title: Pandore. , opéra en cinq actes  
 ---

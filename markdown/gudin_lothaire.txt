@@ -1,6 +1,6 @@
 ---
 identifier: gudin_lothaire  
-creator: Gudin de la brenellerie Paul-Philippe  
+creator: Gudin de la brenellerie Paul-Philippe.  
 date: 1768  
 title: Lothaire. , roi de lorraine, tragédie  
 ---

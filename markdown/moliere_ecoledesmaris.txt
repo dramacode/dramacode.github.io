@@ -1,6 +1,6 @@
 ---
 identifier: moliere_ecoledesmaris  
-creator: Molière  
+creator: Molière.  
 date: 1661  
 title: L'École des maris. Comédie  
 ---

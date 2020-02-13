@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_triomphedelamour  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1732  
 title: Le triomphe de l’amour. , comédie.  
 ---

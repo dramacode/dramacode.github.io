@@ -1,6 +1,6 @@
 ---
 identifier: fontenelle_endymion  
-creator: Fontenelle Bernard le Bouvier ou le Bouyer de  
+creator: Fontenelle Bernard le Bouvier ou le Bouyer de.  
 date: 1731  
 title: Endymion. , pastorale héroïque  
 ---

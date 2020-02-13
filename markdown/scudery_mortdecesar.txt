@@ -1,6 +1,6 @@
 ---
 identifier: scudery_mortdecesar  
-creator: Scudéry Georges de  
+creator: Scudéry Georges de.  
 date:   
 title: La mort de césar. , tragédie.  
 ---

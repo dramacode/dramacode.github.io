@@ -1,6 +1,6 @@
 ---
 identifier: scarron_ecolierdesalamanque  
-creator: Scarron, Paul  
+creator: Scarron, Paul.  
 date: 1654  
 title: L’Escolier de Salamanque.  ou les généreux ennemis, tragi-comédie  
 ---

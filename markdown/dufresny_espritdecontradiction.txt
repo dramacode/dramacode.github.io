@@ -1,6 +1,6 @@
 ---
 identifier: dufresny_espritdecontradiction  
-creator: Du fresny Charles Rivière  
+creator: Du fresny Charles Rivière.  
 date: 1700  
 title: L’esprit de contradiction. , comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: blanc_druides  
-creator: Blanc Marc Antoine  
+creator: Blanc Marc Antoine.  
 date: 1772  
 title: Les druides. , tragédie.  
 ---

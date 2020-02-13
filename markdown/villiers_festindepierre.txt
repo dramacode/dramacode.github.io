@@ -1,6 +1,6 @@
 ---
 identifier: villiers_festindepierre  
-creator: Villiers, Claude Deschamps de  
+creator: Villiers, Claude Deschamps de.  
 date: 1659  
 title: Le Festin de Pierre.  ou le fils criminel, tragi-comédie.  
 ---

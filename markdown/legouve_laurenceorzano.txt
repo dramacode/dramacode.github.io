@@ -1,6 +1,6 @@
 ---
 identifier: legouve_laurenceorzano  
-creator: Legouvé Gabriel  
+creator: Legouvé Gabriel.  
 date: (inc  
 title: Laurence et orzano. , tragédie.  
 ---

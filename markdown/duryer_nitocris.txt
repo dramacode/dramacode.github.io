@@ -1,6 +1,6 @@
 ---
 identifier: duryer_nitocris  
-creator: Du Ryer Pierre  
+creator: Du Ryer Pierre.  
 date: 1648  
 title: Nitocris. , reine de babylone. tragi-comédie  
 ---

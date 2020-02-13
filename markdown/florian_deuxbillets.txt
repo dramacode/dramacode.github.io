@@ -1,6 +1,6 @@
 ---
 identifier: florian_deuxbillets  
-creator: Florian Jean Pierre Claris de  
+creator: Florian Jean Pierre Claris de.  
 date: 1779  
 title: Les deux billets. , comédie  
 ---

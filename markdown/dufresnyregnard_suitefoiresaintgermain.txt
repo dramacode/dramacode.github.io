@@ -1,6 +1,6 @@
 ---
 identifier: dufresnyregnard_suitefoiresaintgermain  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: 1696  
 title: La suite de la foire saint-germain. , ou les momies d’égypte, comédie  
 ---

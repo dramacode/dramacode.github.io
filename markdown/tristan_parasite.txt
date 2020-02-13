@@ -1,6 +1,6 @@
 ---
 identifier: tristan_parasite  
-creator: Tristan L’Hermite François  
+creator: Tristan L’Hermite François.  
 date: 1653  
 title: Le Parasite. , comédie  
 ---

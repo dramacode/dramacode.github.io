@@ -1,6 +1,6 @@
 ---
 identifier: regnard_sapor  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: (non  
 title: Sapor. , tragédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: colle_alfonse  
-creator: Colle Charles  
+creator: Colle Charles.  
 date: 1737  
 title: Alfonse dit l’impuissant. , tragédie en un acte   
 ---

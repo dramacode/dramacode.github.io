@@ -1,6 +1,6 @@
 ---
 identifier: cyrano_pedantjoue  
-creator: Cyrano de Bergerac  
+creator: Cyrano de Bergerac.  
 date: 1654  
 title: Le Pédant joué. , comédie.  
 ---

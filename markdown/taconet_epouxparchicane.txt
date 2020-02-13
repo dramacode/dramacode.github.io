@@ -1,6 +1,6 @@
 ---
 identifier: taconet_epouxparchicane  
-creator: Taconet Toussaint-Gaspard  
+creator: Taconet Toussaint-Gaspard.  
 date: 1759  
 title: Les époux par chicane. , parodie  
 ---

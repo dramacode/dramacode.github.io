@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_circe  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas.  
 date: 1675  
 title: Circé. , tragédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: dufresny_reconciliationnormande  
-creator: Dufresny Charles  
+creator: Dufresny Charles.  
 date: 1719  
 title: La réconciliation normande. , comédie.  
 ---

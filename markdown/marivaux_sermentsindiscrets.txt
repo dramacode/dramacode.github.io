@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_sermentsindiscrets  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1732  
 title: Les serments indiscrets. , comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: carmontelle_suissedeporte  
-creator: Carmontelle Louis Carrogis, dit Louis de Carmontelle  
+creator: Carmontelle Louis Carrogis, dit Louis de Carmontelle.  
 date: (inc  
 title: Le suisse de porte et le portrait. , comédie  
 ---

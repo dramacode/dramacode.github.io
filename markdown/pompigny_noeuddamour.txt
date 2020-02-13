@@ -1,6 +1,6 @@
 ---
 identifier: pompigny_noeuddamour  
-creator: Pompigny Maurin de  
+creator: Pompigny Maurin de.  
 date: 1779  
 title: Le noeud d’amour. ,Comédie en un acte et en prose.  
 ---

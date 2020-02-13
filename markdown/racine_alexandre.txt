@@ -1,6 +1,6 @@
 ---
 identifier: racine_alexandre  
-creator: Racine, Jean  
+creator: Racine, Jean.  
 date: 1665  
 title: Alexandre le grand. , tragédie.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: durant_abonchatbonrat  
-creator: Durant Catherine  
+creator: Durant Catherine.  
 date: (non  
 title: À bon chat bon rat. , proverbe.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: boissy_plagiaire  
-creator: Boissy Louis de  
+creator: Boissy Louis de.  
 date: 1746  
 title: Le plagiaire. , comédie.  
 ---

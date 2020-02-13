@@ -1,6 +1,6 @@
 ---
 identifier: lafosse_manlius  
-creator: La fosse Antoine d’Aubigny  
+creator: La fosse Antoine d’Aubigny.  
 date: 1698  
 title: Manlius capitolinus. , tragédie  
 ---

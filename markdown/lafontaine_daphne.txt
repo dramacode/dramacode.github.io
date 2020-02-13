@@ -1,6 +1,6 @@
 ---
 identifier: lafontaine_daphne  
-creator: La fontaine Jean de  
+creator: La fontaine Jean de.  
 date: (non  
 title: Daphné. , opéra.  
 ---

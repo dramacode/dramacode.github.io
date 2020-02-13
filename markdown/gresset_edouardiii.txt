@@ -1,6 +1,6 @@
 ---
 identifier: gresset_edouardiii  
-creator: Gresset Jean-Baptiste-Louis  
+creator: Gresset Jean-Baptiste-Louis.  
 date: 1740  
 title: Édouard iii. , tragédie   
 ---

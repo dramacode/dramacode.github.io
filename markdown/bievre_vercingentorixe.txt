@@ -1,6 +1,6 @@
 ---
 identifier: bievre_vercingentorixe  
-creator: Bievre François George Maréchal, marquis de  
+creator: Bievre François George Maréchal, marquis de.  
 date: (non  
 title: Vercingentorixe. , tragédie.  
 ---

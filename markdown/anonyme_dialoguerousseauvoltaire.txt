@@ -1,6 +1,6 @@
 ---
 identifier: anonyme_dialoguerousseauvoltaire  
-creator: Anonyme  
+creator: Anonyme.  
 date: (inc  
 title: Dialogue entre voltaire et rousseau. , comédie  
 ---

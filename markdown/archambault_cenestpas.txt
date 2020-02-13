@@ -1,6 +1,6 @@
 ---
 identifier: archambault_cenestpas  
-creator: Archambault Louis-François  
+creator: Archambault Louis-François.  
 date: 1779  
 title: Ça n’en est pas ou tout ce qui reluit n’est pas or  
 ---

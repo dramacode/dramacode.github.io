@@ -1,6 +1,6 @@
 ---
 identifier: nivelle_prejugealamode  
-creator: Nivelle de la chaussée Pierre  
+creator: Nivelle de la chaussée Pierre.  
 date: 1735  
 title: Le préjugé À la mode. , comédie.  
 ---

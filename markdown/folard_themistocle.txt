@@ -1,6 +1,6 @@
 ---
 identifier: folard_themistocle  
-creator: Folard Melchior de  
+creator: Folard Melchior de.  
 date: 1681  
 title: Thémistocle. , tragédie   
 ---

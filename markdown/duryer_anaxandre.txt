@@ -1,6 +1,6 @@
 ---
 identifier: duryer_anaxandre  
-creator: Du Ryer Pierre  
+creator: Du Ryer Pierre.  
 date: 1654  
 title: Anaxandre. , tragi-comédie  
 ---

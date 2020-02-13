@@ -1,6 +1,6 @@
 ---
 identifier: lesage_arlequinmahomet  
-creator: Lesage Alain-René  
+creator: Lesage Alain-René.  
 date: 1714  
 title: Arlequin mahomet. , comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: guerindebouscal_domquixote  
-creator: Guérin de Bouscal,  Daniel  
+creator: Guérin de Bouscal, Daniel.  
 date: 1639  
 title: Don Quichotte de la Manche. , comédie.  
 ---

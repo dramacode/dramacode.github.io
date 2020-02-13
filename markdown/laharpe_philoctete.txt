@@ -1,6 +1,6 @@
 ---
 identifier: laharpe_philoctete  
-creator: La harpe Jean-François de  
+creator: La harpe Jean-François de.  
 date: 1783  
 title: Philoctète. , tragédie.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: eschyle_eumenides  
-creator: Eschyle  
+creator: Eschyle.  
 date: 1872  
 title: Les euménides. , tragédie.  
 ---

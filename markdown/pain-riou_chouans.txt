@@ -1,6 +1,6 @@
 ---
 identifier: pain-riou_chouans  
-creator: Pain et riou  
+creator: Pain et riou.  
 date: 1795  
 title: Les chouans ou la républicaine de malestroit. , trait historique  
 ---

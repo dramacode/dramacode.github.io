@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_tite  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1670  
 title: Tite et Bérénice. , comédie heroïque  
 ---

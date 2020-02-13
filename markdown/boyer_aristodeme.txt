@@ -1,6 +1,6 @@
 ---
 identifier: boyer_aristodeme  
-creator: Boyer Claude  
+creator: Boyer Claude.  
 date: 1647  
 title: Aristodème  
 ---

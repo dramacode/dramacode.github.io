@@ -1,6 +1,6 @@
 ---
 identifier: quinault_docteurdeverre  
-creator: Quinault Philippe  
+creator: Quinault Philippe.  
 date: 1689  
 title: Le docteur de verre. , comédie  
 ---

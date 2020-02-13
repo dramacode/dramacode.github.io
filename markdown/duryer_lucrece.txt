@@ -1,6 +1,6 @@
 ---
 identifier: duryer_lucrece  
-creator: Du Ryer Pierre  
+creator: Du Ryer Pierre.  
 date: 1636  
 title: Lucrèce. , tragédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: dancourt_charivari  
-creator: Dancourt Florent Carton dit  
+creator: Dancourt Florent Carton dit.  
 date: 1697  
 title: Le charivari. , comédie  
 ---

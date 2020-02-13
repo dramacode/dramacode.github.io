@@ -1,6 +1,6 @@
 ---
 identifier: dufresny_dedit  
-creator: Dufresny Charles  
+creator: Dufresny Charles.  
 date: 1719  
 title: Le dédit. , comédie.  
 ---

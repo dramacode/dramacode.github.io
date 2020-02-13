@@ -1,6 +1,6 @@
 ---
 identifier: crebillon_catilina  
-creator: Crébillon Prosper J. de  
+creator: Crébillon Prosper J. de.  
 date: 1748  
 title: Catilina. , tragédie  
 ---

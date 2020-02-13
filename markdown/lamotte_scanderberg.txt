@@ -1,6 +1,6 @@
 ---
 identifier: lamotte_scanderberg  
-creator: La motte Antoine-Houdard de  
+creator: La motte Antoine-Houdard de.  
 date: 1735  
 title: Scanderberg. , tragédie  
 ---

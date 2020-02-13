@@ -1,6 +1,6 @@
 ---
 identifier: dorimond_festindepierre  
-creator: Dorimond  
+creator: Dorimond.  
 date: 1658  
 title: Le Festin de Pierre. ou le Fils criminel. tragi-comédie  
 ---

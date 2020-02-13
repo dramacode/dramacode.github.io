@@ -1,6 +1,6 @@
 ---
 identifier: restif_jugementdeparis  
-creator: Restif de le bretonne Edme  
+creator: Restif de le bretonne Edme.  
 date: 1773  
 title: Le jugement de pâris. , comédie.  
 ---

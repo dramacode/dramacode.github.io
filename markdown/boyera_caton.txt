@@ -1,6 +1,6 @@
 ---
 identifier: boyera_caton  
-creator: Boyer Abel  
+creator: Boyer Abel.  
 date: (inc  
 title: Caton. , tragédie.  
 ---

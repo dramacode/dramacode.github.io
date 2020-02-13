@@ -1,6 +1,6 @@
 ---
 identifier: lafossem_ecoledelaraison  
-creator: La fosse Antoine d’Aubigny  
+creator: La fosse Antoine d’Aubigny.  
 date: 1739  
 title: L’école de la raison. , comédie  
 ---

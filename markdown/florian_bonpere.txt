@@ -1,6 +1,6 @@
 ---
 identifier: florian_bonpere  
-creator: Florian Jean Pierre Claris de  
+creator: Florian Jean Pierre Claris de.  
 date: 1790  
 title: Le bon père. , comédie  
 ---

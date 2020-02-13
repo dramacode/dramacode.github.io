@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_reuniondesamours  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1731  
 title: La réunion des amours  
 ---

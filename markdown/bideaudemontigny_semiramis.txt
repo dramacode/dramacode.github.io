@@ -1,6 +1,6 @@
 ---
 identifier: bideaudemontigny_semiramis  
-creator: Bideau de montigny Jean Charles François  
+creator: Bideau de montigny Jean Charles François.  
 date: (non  
 title: Sémiramis. , tragédie.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: dancourt_mariretrouve  
-creator: Dancourt Florent Carton dit  
+creator: Dancourt Florent Carton dit.  
 date: 1698  
 title: Le mari retrouvé. , comédie  
 ---

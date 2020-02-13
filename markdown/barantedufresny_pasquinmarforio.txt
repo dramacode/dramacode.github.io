@@ -1,6 +1,6 @@
 ---
 identifier: barantedufresny_pasquinmarforio  
-creator: Barante et dufesny  
+creator: Barante et dufesny.  
 date: 1697  
 title: Pasquin et marforio. médecins des moeurs. comédie en trois actes.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_heraclius  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1646  
 title: Héraclius. , empereur d’orient, tragédie  
 ---

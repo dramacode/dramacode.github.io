@@ -1,6 +1,6 @@
 ---
 identifier: duryer_dynamis  
-creator: Du Ryer Pierre  
+creator: Du Ryer Pierre.  
 date: 1649  
 title: Dynamis. , reine de carie. tragi-comédie  
 ---

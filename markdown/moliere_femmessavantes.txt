@@ -1,6 +1,6 @@
 ---
 identifier: moliere_femmessavantes  
-creator: Molière  
+creator: Molière.  
 date: 1672  
 title: Les femmes savantes  
 ---
@@ -1455,7 +1455,7 @@ Dépêchez.
     TRISSOTIN.
 Hélas, c'est un Enfant tout nouveauné, Madame.  
 Son sort assurément a lieu de vous toucher,  
-Et c'est dans votre cour que j'en viens d'accoucher.  
+Et c'est dans votre cour que j'en viens d'acmortr.  
 
     PHILAMINTE.
 Pour me le rendre cher, il suffit de son Père.  

@@ -1,6 +1,6 @@
 ---
 identifier: durant_alaverlatete  
-creator: Durant Catherine  
+creator: Durant Catherine.  
 date: (non  
 title: À laver la tête d’âne on y perd sa lessive. , proverbe.  
 ---

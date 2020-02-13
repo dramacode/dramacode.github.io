@@ -1,6 +1,6 @@
 ---
 identifier: fuzelierlesage_tableaudumariage  
-creator: Fuzelier Louis et 	LESAGE, Alain-René ; Fuzelier Louis.  
+creator: Fuzelier Louis et LESAGE, Alain-René ; Fuzelier Louis.  
 date: 1716  
 title: Le tableau du mariage. , comédie  
 ---

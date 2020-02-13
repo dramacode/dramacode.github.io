@@ -1,6 +1,6 @@
 ---
 identifier: dancourt_moulindejavelle  
-creator: Dancourt Florent CARTON dit  
+creator: Dancourt Florent CARTON dit.  
 date: 1696  
 title: Le moulin de javelle. , comédie  
 ---

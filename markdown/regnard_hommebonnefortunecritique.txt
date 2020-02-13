@@ -1,6 +1,6 @@
 ---
 identifier: regnard_hommebonnefortunecritique  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: 1690  
 title: La critique de l’homme À bonnes fortunes. , comédie.  
 ---

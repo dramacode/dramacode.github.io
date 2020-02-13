@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_denouementimprevu  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1724  
 title: Le dénouement imprévu. , comédie.  
 ---

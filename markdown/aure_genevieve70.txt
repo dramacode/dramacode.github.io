@@ -1,6 +1,6 @@
 ---
 identifier: aure_genevieve70  
-creator: Aure François d’  
+creator: Aure François d’.  
 date:   
 title: Geneviève ou l’innocence reconnue.  tragédie.  
 ---

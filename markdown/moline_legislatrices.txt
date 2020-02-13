@@ -1,6 +1,6 @@
 ---
 identifier: moline_legislatrices  
-creator: Moline Pierre-Louis  
+creator: Moline Pierre-Louis.  
 date: (non  
 title: Les legislatrices. , comédie, en un acte et en vers libres; mélée d’ariettes.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_orphelindelachine  
-creator: Voltaire  
+creator: Voltaire.  
 date: 1755  
 title: L’orphelin de la chine. , tragédie  
 ---

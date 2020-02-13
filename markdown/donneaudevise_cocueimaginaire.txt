@@ -1,6 +1,6 @@
 ---
 identifier: donneaudevise_cocueimaginaire  
-creator: Donneau de Visé, Jean  
+creator: Donneau de Visé, Jean.  
 date: 1660  
 title: Les Amours d’Alcippe et de Céphise. , la cocue imaginaire, comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: duryer_esther  
-creator: Du Ryer Pierre  
+creator: Du Ryer Pierre.  
 date: 1642  
 title: Esther. , tragédie.  
 ---

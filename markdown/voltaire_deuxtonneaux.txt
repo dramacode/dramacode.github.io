@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_deuxtonneaux  
-creator: Voltaire  
+creator: Voltaire.  
 date: (inc  
 title: Les deux tonneaux. , opéra comique  
 ---

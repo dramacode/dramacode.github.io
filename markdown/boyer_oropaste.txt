@@ -1,6 +1,6 @@
 ---
 identifier: boyer_oropaste  
-creator: Boyer Claude  
+creator: Boyer Claude.  
 date: 1662  
 title: Oropaste.  ou le faux Tonaxare  
 ---

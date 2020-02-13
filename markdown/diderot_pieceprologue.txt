@@ -1,6 +1,6 @@
 ---
 identifier: diderot_pieceprologue  
-creator: Diderot Denis  
+creator: Diderot Denis.  
 date: 1760  
 title: La pièce et le prologue ou celui qui les sert tous et qui n’en contente aucun. , comédie.  
 ---

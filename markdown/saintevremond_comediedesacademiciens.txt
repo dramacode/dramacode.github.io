@@ -1,6 +1,6 @@
 ---
 identifier: saintevremond_comediedesacademiciens  
-creator: Saint-evremond Charles de  
+creator: Saint-evremond Charles de.  
 date: (non  
 title: La comédie des académiciens. , comédie.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_adelaide  
-creator: Voltaire  
+creator: Voltaire.  
 date: 1734  
 title: Adélaïde du guesclin. , tragédie  
 ---

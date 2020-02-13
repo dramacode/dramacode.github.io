@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_pyrrhus  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas.  
 date: 1664  
 title: Pyrrhus. , roi d’épire, tragédie.  
 ---

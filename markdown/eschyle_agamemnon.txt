@@ -1,6 +1,6 @@
 ---
 identifier: eschyle_agamemnon  
-creator: Eschyle  
+creator: Eschyle.  
 date: 1872  
 title: Agamemnon. , tragédie.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: sedaine_richard  
-creator: Sedaine Michel-Jean  
+creator: Sedaine Michel-Jean.  
 date: 1784  
 title: Richard coeur de lion. , comédie-proverbe en un acte et en prose.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: rotrou_venceslas  
-creator: Rotrou, Jean  
+creator: Rotrou, Jean.  
 date: 1647  
 title: Venceslas  
 ---

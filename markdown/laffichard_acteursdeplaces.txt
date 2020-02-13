@@ -1,6 +1,6 @@
 ---
 identifier: laffichard_acteursdeplaces  
-creator: L’affichard Thomas  
+creator: L’affichard Thomas.  
 date: 1735  
 title: Les acteurs déplacés. , ou l’amant comedien  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: racine_andromaque  
-creator: Racine, Jean  
+creator: Racine, Jean.  
 date: 1667  
 title: Andromaque. , tragédie  
 ---

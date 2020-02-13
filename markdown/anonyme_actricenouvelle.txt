@@ -1,6 +1,6 @@
 ---
 identifier: anonyme_actricenouvelle  
-creator: (anonyme)  
+creator: .  
 date:   
 title: L’actrice nouvelle. , comédie  
 ---

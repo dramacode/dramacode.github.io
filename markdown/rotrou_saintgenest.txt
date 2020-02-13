@@ -1,6 +1,6 @@
 ---
 identifier: rotrou_saintgenest  
-creator: Rotrou, Jean  
+creator: Rotrou, Jean.  
 date: 1645  
 title: Le Véritable Saint Genest. , tragédie  
 ---

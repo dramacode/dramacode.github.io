@@ -1,6 +1,6 @@
 ---
 identifier: durant_voyagedecampagne  
-creator: Durant Catherine  
+creator: Durant Catherine.  
 date: (inc  
 title: Voyage de campagne. , proverbe  
 ---

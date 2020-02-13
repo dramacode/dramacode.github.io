@@ -1,6 +1,6 @@
 ---
 identifier: nadal_mariamne  
-creator: Nadal Augustin  
+creator: Nadal Augustin.  
 date: 1725  
 title: Mariamne. , tragédie  
 ---

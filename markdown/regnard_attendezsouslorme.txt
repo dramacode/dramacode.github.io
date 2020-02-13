@@ -1,6 +1,6 @@
 ---
 identifier: regnard_attendezsouslorme  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: 1694  
 title: Attendez-moi sous l’orme. , comédie  
 ---

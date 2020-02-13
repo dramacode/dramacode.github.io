@@ -1,6 +1,6 @@
 ---
 identifier: rousseau_prisonniersdeguerre  
-creator: Rousseau Jean-Jacques  
+creator: Rousseau Jean-Jacques.  
 date: 1747  
 title: Les prisonniers de guerre  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: duryer_alcionee  
-creator: Du Ryer Pierre  
+creator: Du Ryer Pierre.  
 date: 1637  
 title: Alcionée.  ou le combat de l’honneur et de l’amour, tragédie  
 ---

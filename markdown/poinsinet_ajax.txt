@@ -1,6 +1,6 @@
 ---
 identifier: poinsinet_ajax  
-creator: Poinsinet de sivry Louis  
+creator: Poinsinet de sivry Louis.  
 date: 1762  
 title: Ajax. , tragédie.  
 ---

@@ -1,11 +1,21 @@
 ---
 identifier: moliere_melicerte  
-creator: Molière  
+creator: Molière.  
 date: 1682  
 title: Mélicerte  
 ---
 
-< MÉLICERTE ><  >< COMÉDIE ><  >< PASTORALE HÉROÏQUE. ><  >< Par J.B.P. de MOLIÈRE. ><  >< Représentée pour la première fois à S. Germain >< en Laye pour le Roi, au Ballet des >< Muses en Décembre 1666. ><  ><  >< Par la Troupe du ROI. >
+
+MÉLICERTE
+
+COMÉDIE PASTORALE HÉROÏQUE.
+
+Par J.B.P. de MOLIÈRE.
+
+Représentée pour la première fois à S. Germain en Laye pour le Roi, au Ballet des Muses en Décembre 1666.
+
+Par la Troupe du ROI.
+
 
 
 # ACTEUR.
@@ -19,8 +29,8 @@ title: Mélicerte
  – Corinne, Confidente de Mélicerte.
  – Nicandre, Berger.
  – Mopse, Berger, cru Oncle de Mélicerte.
-La Scène est en Thessalie dans la Vallée de Tempé.
 
+La Scène est en Thessalie dans la Vallée de Tempé.
 
 
 # Acte Premier.

@@ -1,6 +1,6 @@
 ---
 identifier: dorat_celibataire  
-creator: Dorat Claude-Joseph  
+creator: Dorat Claude-Joseph.  
 date: 1775  
 title: Le célibataire. , comédie en cinq actes et en vers  
 ---

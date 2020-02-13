@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_theodore  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1645  
 title: Théodore. , vierge et martyre, tragédie chrétienne  
 ---

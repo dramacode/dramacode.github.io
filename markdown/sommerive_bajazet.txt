@@ -1,6 +1,6 @@
 ---
 identifier: sommerive_bajazet  
-creator: Sommerive Comte de  
+creator: Sommerive Comte de.  
 date: 1737  
 title: Bajazet. , cinquième empereur des turcs, tragédie.  
 ---

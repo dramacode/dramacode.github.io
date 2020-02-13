@@ -1,6 +1,6 @@
 ---
 identifier: lacalprenede_edouard  
-creator: La Calprenède Gautier Costes de  
+creator: La Calprenède Gautier Costes de.  
 date: 1638  
 title: Édouard. , tragi-comédie.  
 ---

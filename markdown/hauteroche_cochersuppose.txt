@@ -1,6 +1,6 @@
 ---
 identifier: hauteroche_cochersuppose  
-creator: Hauteroche Noël LEBRETON, sieur de  
+creator: Hauteroche Noël LEBRETON, sieur de.  
 date: 1684  
 title: Le cocher supposé. , comédie.  
 ---

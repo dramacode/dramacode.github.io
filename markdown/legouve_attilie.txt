@@ -1,6 +1,6 @@
 ---
 identifier: legouve_attilie  
-creator: Legouvé Jean-Baptiste  
+creator: Legouvé Jean-Baptiste.  
 date: 1750  
 title: Attilie. , tragédie.  
 ---

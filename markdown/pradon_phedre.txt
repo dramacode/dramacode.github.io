@@ -1,6 +1,6 @@
 ---
 identifier: pradon_phedre  
-creator: Pradon Nicolas  
+creator: Pradon Nicolas.  
 date: 1677  
 title: Phèdre et Hippolyte. , tragédie  
 ---

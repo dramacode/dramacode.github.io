@@ -1,6 +1,6 @@
 ---
 identifier: pugetdelaserre_sacdecarthage  
-creator: Puget de la serre Jean  
+creator: Puget de la serre Jean.  
 date:   
 title: Le sac de carthage. , tragédie  
 ---

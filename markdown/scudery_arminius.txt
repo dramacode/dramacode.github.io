@@ -1,6 +1,6 @@
 ---
 identifier: scudery_arminius  
-creator: Scudéry Georges de  
+creator: Scudéry Georges de.  
 date:   
 title: Arminius ou les frères ennemis.  
 ---

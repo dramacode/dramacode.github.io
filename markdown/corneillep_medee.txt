@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_medee  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1635  
 title: Médée. , tragédie  
 ---

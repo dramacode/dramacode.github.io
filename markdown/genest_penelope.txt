@@ -1,6 +1,6 @@
 ---
 identifier: genest_penelope  
-creator: Genest Claude-Charles  
+creator: Genest Claude-Charles.  
 date: 1684  
 title: Pénélope. , tragédie en cinq actes.  
 ---

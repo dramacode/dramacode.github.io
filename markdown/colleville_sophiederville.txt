@@ -1,6 +1,6 @@
 ---
 identifier: colleville_sophiederville  
-creator: Colleville Anne Hyacinthe Geille de Saint-Léger  
+creator: Colleville Anne Hyacinthe Geille de Saint-Léger.  
 date: 1788  
 title: Sophie et derville. , comédie.  
 ---

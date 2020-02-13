@@ -1,6 +1,6 @@
 ---
 identifier: boissy_apologiedusiecle  
-creator: Boissy Louis de  
+creator: Boissy Louis de.  
 date: 1734  
 title: L’apologie du siècle. , ou momus corrigé, comédie.  
 ---

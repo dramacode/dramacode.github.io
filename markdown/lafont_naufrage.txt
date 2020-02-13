@@ -1,6 +1,6 @@
 ---
 identifier: lafont_naufrage  
-creator: Lafont Joesph de  
+creator: Lafont Joesph de.  
 date: 1710  
 title: Le naufrage. , ou la pompe funèbre de crispin, comédie.  
 ---

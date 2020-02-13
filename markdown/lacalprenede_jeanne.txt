@@ -1,6 +1,6 @@
 ---
 identifier: lacalprenede_jeanne  
-creator: La Calprenède Gautier Costes de  
+creator: La Calprenède Gautier Costes de.  
 date: 1637  
 title: Jeanne. , reine d’angleterre. tragédie.  
 ---

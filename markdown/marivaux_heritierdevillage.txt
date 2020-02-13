@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_heritierdevillage  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1725  
 title: L’héritier de village  
 ---

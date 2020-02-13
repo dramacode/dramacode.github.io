@@ -1,6 +1,6 @@
 ---
 identifier: rosimond_avocatsavetier  
-creator: Rosimond, Jean-Baptiste du Mesnil dit Claude La Rose  
+creator: Rosimond, Jean-Baptiste du Mesnil dit Claude La Rose.  
 date: 1670  
 title: Avocat savetier. , comédie.  
 ---

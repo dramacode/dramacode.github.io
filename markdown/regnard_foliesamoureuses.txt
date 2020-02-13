@@ -1,6 +1,6 @@
 ---
 identifier: regnard_foliesamoureuses  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: 1696  
 title: Les folies amoureuses. , comédie.  
 ---

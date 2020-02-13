@@ -1,6 +1,6 @@
 ---
 identifier: chazetgassicourt_finot  
-creator: Chazet et gassicourt  
+creator: Chazet et gassicourt.  
 date: 1701  
 title: Finot. , ou l’ancien portier de m. de bièvre, proverbe archi-bête, en un acte.  
 ---

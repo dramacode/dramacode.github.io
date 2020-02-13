@@ -1,6 +1,6 @@
 ---
 identifier: dancourt_deroutepharaon  
-creator: Dancourt Florent Carton dit  
+creator: Dancourt Florent Carton dit.  
 date: (non  
 title: La déroute du pharaon. , comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: lamotte_machabees  
-creator: La motte Antoine-Houdard de  
+creator: La motte Antoine-Houdard de.  
 date: 1721  
 title: Les machabées. , tragédie  
 ---

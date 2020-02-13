@@ -1,6 +1,6 @@
 ---
 identifier: campistron_phocion  
-creator: Campistron Jean G. de  
+creator: Campistron Jean G. de.  
 date: 1688  
 title: Phocion. , tragédie  
 ---

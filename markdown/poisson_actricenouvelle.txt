@@ -1,6 +1,6 @@
 ---
 identifier: poisson_actricenouvelle  
-creator: Poisson Philippe  
+creator: Poisson Philippe.  
 date:   
 title: L’actrice nouvelle. , comédie  
 ---

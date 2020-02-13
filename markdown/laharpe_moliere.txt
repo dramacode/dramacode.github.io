@@ -1,6 +1,6 @@
 ---
 identifier: laharpe_moliere  
-creator: La harpe Jean-François de  
+creator: La harpe Jean-François de.  
 date: 1782  
 title: Molière a la nouvelle salle. , ou les audiences de thalie, comédie.  
 ---

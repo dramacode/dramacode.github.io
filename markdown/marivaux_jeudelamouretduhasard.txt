@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_jeudelamouretduhasard  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1730  
 title: Le jeu de l’amour et du hasard. , comédie  
 ---

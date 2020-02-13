@@ -1,6 +1,6 @@
 ---
 identifier: scarron_domjaphetdarmenie  
-creator: Scarron, Paul  
+creator: Scarron, Paul.  
 date: 1647  
 title: Don Japhet d’Arménie. , comédie.  
 ---

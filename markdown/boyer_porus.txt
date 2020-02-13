@@ -1,6 +1,6 @@
 ---
 identifier: boyer_porus  
-creator: Boyer Claude  
+creator: Boyer Claude.  
 date:   
 title: Porus ou la générosité d’alexandre. , tragédie.  
 ---

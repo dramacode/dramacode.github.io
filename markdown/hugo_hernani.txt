@@ -1,6 +1,6 @@
 ---
 identifier: hugo_hernani  
-creator: Hugo Victor  
+creator: Hugo Victor.  
 date: 1830  
 title: Hernani. , ou l’honneur castillan  
 ---

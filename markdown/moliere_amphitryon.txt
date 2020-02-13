@@ -1,6 +1,6 @@
 ---
 identifier: moliere_amphitryon  
-creator: Molière  
+creator: Molière.  
 date: 1668  
 title: Amphitryon. Comédie  
 ---

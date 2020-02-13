@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_oreste  
-creator: Voltaire François-Marie AROUET de  
+creator: Voltaire François-Marie AROUET de.  
 date: 1750  
 title: Oreste. , tragédie  
 ---

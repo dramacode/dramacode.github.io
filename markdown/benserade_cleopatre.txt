@@ -1,6 +1,6 @@
 ---
 identifier: benserade_cleopatre  
-creator: Bensérade Isaac de  
+creator: Bensérade Isaac de.  
 date: 1635  
 title: Cléopâtre. , tragédie  
 ---

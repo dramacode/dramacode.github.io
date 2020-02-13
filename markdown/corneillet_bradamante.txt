@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_bradamante  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas.  
 date: 1695  
 title: Bradamante. , tragédie  
 ---

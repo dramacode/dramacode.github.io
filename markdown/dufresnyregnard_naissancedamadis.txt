@@ -1,6 +1,6 @@
 ---
 identifier: dufresnyregnard_naissancedamadis  
-creator: Regnard et dufresny  
+creator: Regnard et dufresny.  
 date: 1694  
 title: La naissance d’amadis. , comédie en un acte  
 ---

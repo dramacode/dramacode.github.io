@@ -1,6 +1,6 @@
 ---
 identifier: beze_abraham  
-creator: Beze Théodore  
+creator: Beze Théodore.  
 date: 1668  
 title: Abraham sacrifiant. , tragédie.  
 ---

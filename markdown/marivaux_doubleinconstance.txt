@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_doubleinconstance  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1723  
 title: La double inconstance. , comédie.  
 ---

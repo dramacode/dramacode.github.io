@@ -1,6 +1,6 @@
 ---
 identifier: piron_metromanie  
-creator: Piron Alexis  
+creator: Piron Alexis.  
 date: 1733  
 title: La métromanie. , comédie  
 ---

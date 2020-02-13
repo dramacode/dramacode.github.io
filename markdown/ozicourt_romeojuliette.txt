@@ -1,6 +1,6 @@
 ---
 identifier: ozicourt_romeojuliette  
-creator: Ouzicourt M. d’  
+creator: Ouzicourt M. d’.  
 date: (inc  
 title: Roméo et juliette. , drame  
 ---

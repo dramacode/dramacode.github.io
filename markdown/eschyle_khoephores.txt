@@ -1,6 +1,6 @@
 ---
 identifier: eschyle_khoephores  
-creator: Eschyle  
+creator: Eschyle.  
 date: 1872  
 title: Les khoèphores. , tragédie.  
 ---

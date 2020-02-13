@@ -1,6 +1,6 @@
 ---
 identifier: patrat_vengeance  
-creator: Patrat Joseph  
+creator: Patrat Joseph.  
 date: 1798  
 title: La vengeance. , comédie  
 ---

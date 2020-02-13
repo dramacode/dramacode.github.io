@@ -1,6 +1,6 @@
 ---
 identifier: dufresny_malassortis  
-creator: Dufresny Charles  
+creator: Dufresny Charles.  
 date: 1693  
 title: Les mal-assortis. , comédie en deux actes.  
 ---

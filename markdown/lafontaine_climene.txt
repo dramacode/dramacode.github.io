@@ -1,6 +1,6 @@
 ---
 identifier: lafontaine_climene  
-creator: La fontaine Jean de  
+creator: La fontaine Jean de.  
 date: (non  
 title: Climène. , comédie.  
 ---

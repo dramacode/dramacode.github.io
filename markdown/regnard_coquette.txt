@@ -1,6 +1,6 @@
 ---
 identifier: regnard_coquette  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: 1691  
 title: La coquette. , ou l’académie des dames, comédie en trois actes  
 ---

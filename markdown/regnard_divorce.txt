@@ -1,6 +1,6 @@
 ---
 identifier: regnard_divorce  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: 1688  
 title: Le divorce. , comédie.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: dancourt_gazette  
-creator: Dancourt Florent Carton dit  
+creator: Dancourt Florent Carton dit.  
 date: 1693  
 title: La gazette. , comédie  
 ---

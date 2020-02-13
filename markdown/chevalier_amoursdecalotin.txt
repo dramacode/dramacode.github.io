@@ -1,6 +1,6 @@
 ---
 identifier: chevalier_amoursdecalotin  
-creator: Chevalier Jean Simonin dit  
+creator: Chevalier Jean Simonin dit.  
 date: 1663  
 title: Les Amours de Calotin. , comédie  
 ---

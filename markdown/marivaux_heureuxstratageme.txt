@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_heureuxstratageme  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1733  
 title: L’heureux stratagème. , comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_suivante  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1634  
 title: La Suivante. , comédie  
 ---

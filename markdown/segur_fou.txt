@@ -1,6 +1,6 @@
 ---
 identifier: segur_fou  
-creator: Segur Alexandre-Joseph-Pierre, vicomte de  
+creator: Segur Alexandre-Joseph-Pierre, vicomte de.  
 date: 1791  
 title: Le fou par amour. , drame historique  
 ---

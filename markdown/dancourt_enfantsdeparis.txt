@@ -1,6 +1,6 @@
 ---
 identifier: dancourt_enfantsdeparis  
-creator: Dancourt Florent CARTON dit  
+creator: Dancourt Florent CARTON dit.  
 date: 1699  
 title: Les enfants de paris. , comédie  
 ---

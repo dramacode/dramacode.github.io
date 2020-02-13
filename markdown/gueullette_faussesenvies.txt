@@ -1,6 +1,6 @@
 ---
 identifier: gueullette_faussesenvies  
-creator: Gueullette Thomas-Simon  
+creator: Gueullette Thomas-Simon.  
 date: 1740  
 title: Les fausses envies. , parade.  
 ---

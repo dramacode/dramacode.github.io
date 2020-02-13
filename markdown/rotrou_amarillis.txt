@@ -1,6 +1,6 @@
 ---
 identifier: rotrou_amarillis  
-creator: Rotrou, Jean  
+creator: Rotrou, Jean.  
 date: 1652  
 title: Amarillis. , pastorale.  
 ---

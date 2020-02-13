@@ -1,6 +1,6 @@
 ---
 identifier: regnard_carnavaldevenise  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: 1699  
 title: Le carnaval de venise  
 ---

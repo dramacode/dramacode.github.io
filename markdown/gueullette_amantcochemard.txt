@@ -1,6 +1,6 @@
 ---
 identifier: gueullette_amantcochemard  
-creator: Gueullette Thomas-Simon  
+creator: Gueullette Thomas-Simon.  
 date: (inc  
 title: L’amant cochemard. , parade.  
 ---

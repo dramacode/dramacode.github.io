@@ -1,6 +1,6 @@
 ---
 identifier: regnard_souhaits  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: (non  
 title: Les souhaits. , comédie en un acte  
 ---

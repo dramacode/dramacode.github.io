@@ -1,6 +1,6 @@
 ---
 identifier: dufresny_fauxhonnetehomme  
-creator: Dufresny Charles  
+creator: Dufresny Charles.  
 date: 1703  
 title: Le faux honnête homme. , comédie en trois actes.  
 ---

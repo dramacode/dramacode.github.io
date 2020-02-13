@@ -1,6 +1,6 @@
 ---
 identifier: merle_abasmoliere  
-creator: Merle et desessarts  
+creator: Merle et desessarts.  
 date: 1809  
 title: À bas molière. , pièce en un acte.  
 ---

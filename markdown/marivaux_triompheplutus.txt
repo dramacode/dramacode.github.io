@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_triompheplutus  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1728  
 title: Le triomphe de plutus. , comédie  
 ---

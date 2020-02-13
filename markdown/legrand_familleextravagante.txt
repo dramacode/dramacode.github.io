@@ -1,6 +1,6 @@
 ---
 identifier: legrand_familleextravagante  
-creator: Legrand Marc-Antoine  
+creator: Legrand Marc-Antoine.  
 date: 1709  
 title: La famille extravagante. , comédie.  
 ---

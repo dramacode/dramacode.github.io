@@ -1,6 +1,6 @@
 ---
 identifier: carmontelle_abbedeplatre  
-creator: Carmontelle Louis Carrogis, dit Louis de Carmontelle  
+creator: Carmontelle Louis Carrogis, dit Louis de Carmontelle.  
 date: 1779  
 title: L’abbé de plâtre. , comédie  
 ---

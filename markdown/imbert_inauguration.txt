@@ -1,6 +1,6 @@
 ---
 identifier: imbert_inauguration  
-creator: Imbert Barthélémy  
+creator: Imbert Barthélémy.  
 date: 1782  
 title: L’inauguration du théâtre franÇais. , comédie.  
 ---

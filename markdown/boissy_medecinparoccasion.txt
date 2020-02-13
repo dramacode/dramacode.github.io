@@ -1,6 +1,6 @@
 ---
 identifier: boissy_medecinparoccasion  
-creator: Boissy Louis de  
+creator: Boissy Louis de.  
 date: 1745  
 title: Le médecin par occasion. , comédie.  
 ---

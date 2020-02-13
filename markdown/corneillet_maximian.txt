@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_maximian  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas.  
 date: 1662  
 title: Maximian. , tragédie  
 ---

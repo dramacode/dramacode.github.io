@@ -1,6 +1,6 @@
 ---
 identifier: mairet_sophonisbe  
-creator: Mairet Jean  
+creator: Mairet Jean.  
 date: 1634  
 title: Sophonisbe. , tragédie  
 ---

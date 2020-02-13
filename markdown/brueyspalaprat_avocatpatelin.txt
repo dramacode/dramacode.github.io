@@ -1,6 +1,6 @@
 ---
 identifier: brueyspalaprat_avocatpatelin  
-creator: Brueys et palaprat  
+creator: Brueys et palaprat.  
 date: 1706  
 title: L’avocat patelin. , comédie en trois actes et en prose.  
 ---

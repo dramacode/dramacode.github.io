@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_faussesuivante  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1724  
 title: La fausse suivante ou le fourbe puni  
 ---

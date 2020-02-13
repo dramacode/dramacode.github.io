@@ -1,6 +1,6 @@
 ---
 identifier: palissot_barbierdebagdad  
-creator: Palissot de montenoy Charles  
+creator: Palissot de montenoy Charles.  
 date: 1758  
 title: Le barbier de bagdad. , comédie un acte.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: bouilly_descartes  
-creator: Bouilly Jean-Nicolas  
+creator: Bouilly Jean-Nicolas.  
 date: 1796  
 title: René-descartes. , trait historique en deux actes et en prose.  
 ---

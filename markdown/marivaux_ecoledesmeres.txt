@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_ecoledesmeres  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1732  
 title: L’école des mères. , comédie.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: dupaty_arlequintoutseul  
-creator: Dupaty Emmanuel  
+creator: Dupaty Emmanuel.  
 date: 1798  
 title: Arlequin tout seul. , comédie-monologue  
 ---

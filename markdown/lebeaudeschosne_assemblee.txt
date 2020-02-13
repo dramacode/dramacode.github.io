@@ -1,6 +1,6 @@
 ---
 identifier: lebeaudeschosne_assemblee  
-creator: Lebeau de schosme Abbé Auguste-Théodore-Vincent    
+creator: Lebeau de schosme Abbé Auguste-Théodore-Vincent.  
 date: 1773  
 title: L’assemblée. , comédie.  
 ---

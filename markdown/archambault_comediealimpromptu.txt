@@ -1,6 +1,6 @@
 ---
 identifier: archambault_comediealimpromptu  
-creator: Dorvigny Louis François Archambault dit  
+creator: Dorvigny Louis François Archambault dit.  
 date: 1780  
 title: La comédie À l’impromptu ou les dupes. , comédie.  
 ---

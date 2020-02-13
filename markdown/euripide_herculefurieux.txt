@@ -1,6 +1,6 @@
 ---
 identifier: euripide_herculefurieux  
-creator: Euripide  
+creator: Euripide.  
 date: 1880  
 title: Hercule furieux. , tragédie.  
 ---

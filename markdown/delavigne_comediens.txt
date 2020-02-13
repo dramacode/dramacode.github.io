@@ -1,6 +1,6 @@
 ---
 identifier: delavigne_comediens  
-creator: Delavigne Casimir  
+creator: Delavigne Casimir.  
 date: 1820  
 title: Les comédiens. , comédie  
 ---

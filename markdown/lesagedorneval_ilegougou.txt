@@ -1,6 +1,6 @@
 ---
 identifier: lesagedorneval_ilegougou  
-creator: Lesage et dorneval  
+creator: Lesage et dorneval.  
 date: 1720  
 title: L’île du gougou. , comédie  
 ---

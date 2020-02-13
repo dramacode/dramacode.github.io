@@ -1,6 +1,6 @@
 ---
 identifier: urfe_sylvanire  
-creator: d’Urfé Honoré  
+creator: d’Urfé Honoré.  
 date: 1617  
 title: La Sylvanire.  ou la morte vive, fable bocagère  
 ---

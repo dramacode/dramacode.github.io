@@ -1,6 +1,6 @@
 ---
 identifier: chamfort_mustaphazeangir  
-creator: Chamfort Sébatien-Roch-Nicolas de   
+creator: Chamfort Sébatien-Roch-Nicolas de.  
 date: 1777  
 title: Mustapha et zéangir. , tragédie  
 ---

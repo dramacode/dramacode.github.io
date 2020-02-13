@@ -1,6 +1,6 @@
 ---
 identifier: saintaignan_mortlouisxvi  
-creator: Saint-aignan Etienne  
+creator: Saint-aignan Etienne.  
 date: (non  
 title: La mort de louis xvi. , tragédie en trois actes.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: dancourt_foiredebesons  
-creator: Dancourt Florent CARTON dit  
+creator: Dancourt Florent CARTON dit.  
 date: 1695  
 title: La foire de besons. , comédie.  
 ---

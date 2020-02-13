@@ -1,6 +1,6 @@
 ---
 identifier: racine_berenice  
-creator: Racine, Jean  
+creator: Racine, Jean.  
 date: 1670  
 title: Bérénice. , tragédie  
 ---

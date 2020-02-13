@@ -1,6 +1,6 @@
 ---
 identifier: allainval_hiver  
-creator: Soulas d’allainval Abbé Léonor Jean Christine  
+creator: Soulas d’allainval Abbé Léonor Jean Christine.  
 date: 1733  
 title: L’hiver. , comédie.  
 ---

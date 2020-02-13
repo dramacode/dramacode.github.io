@@ -1,6 +1,6 @@
 ---
 identifier: scudery_eudoxe  
-creator: Scudéry Georges de  
+creator: Scudéry Georges de.  
 date: 1640  
 title: Eudoxe. , tragi-comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: fuzelier_scaramouchepedant  
-creator: Fuzelier Louis  
+creator: Fuzelier Louis.  
 date: 1716  
 title: Scaramouche pédant. , divertissement.  
 ---

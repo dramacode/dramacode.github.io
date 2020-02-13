@@ -1,6 +1,6 @@
 ---
 identifier: moliere_etourdi  
-creator: Molière  
+creator: Molière.  
 date: 1655  
 title: L'Étourdi ou Les Contre-temps. Comédie  
 ---
@@ -1674,7 +1674,7 @@ Et qui ?
 Et que lui voulez‑vous ? Vous le voyez ici.  
 
     LE COURRIER.
-Lui rendre seulement la lettre que voici.  < LETTRE. >
+Lui rendre seulement la lettre que voici.   [1]
 
 Le Ciel, dont la bonté prend souci de ma vie,  
 Vient de me faire ouïr par un bruit assez doux,  
@@ -3971,3 +3971,8 @@ J'ai ton fait.
     MASCARILLE.
         Allons donc ; et que les Cieux prospères  
 Nous donnent des enfants dont nous soyons les pères.  < Fin du cinquième et dernier Acte >
+
+-------
+
+
+[1] LETTRE.

@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_petitmaitrecorrige  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1734  
 title: Le petit maître corrigé. , comédie.  
 ---

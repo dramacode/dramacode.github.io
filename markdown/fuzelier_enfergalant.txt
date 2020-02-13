@@ -1,6 +1,6 @@
 ---
 identifier: fuzelier_enfergalant  
-creator: Fuzelier Louis  
+creator: Fuzelier Louis.  
 date: (non  
 title: L’enfer galant. , parodie  
 ---

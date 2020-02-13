@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_cinna  
-creator: Corneille, Pierre, Pierre  
+creator: Corneille, Pierre, Pierre.  
 date: 1642  
 title: Cinna.  ou la clémence d’auguste, tragédie  
 ---

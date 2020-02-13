@@ -1,6 +1,6 @@
 ---
 identifier: archambault_hurlubrelu  
-creator: Archambault Louis-François  
+creator: Archambault Louis-François.  
 date:   
 title: Hurlubrelu ou tout de travers. , comédie  
 ---

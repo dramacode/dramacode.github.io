@@ -1,6 +1,6 @@
 ---
 identifier: boissy_hommedujour  
-creator: Boissy Louis de  
+creator: Boissy Louis de.  
 date: (inc  
 title: L’homme du jour. , comédie  
 ---

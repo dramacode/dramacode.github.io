@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_timocrate  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas.  
 date: 1656  
 title: Timocrate. , tragédie  
 ---

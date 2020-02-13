@@ -1,6 +1,6 @@
 ---
 identifier: archambault_etrennes  
-creator: Archambault Louis-François  
+creator: Archambault Louis-François.  
 date: 1780  
 title: Les étrennes de l’amitié. , de l’amour et de la nature  
 ---

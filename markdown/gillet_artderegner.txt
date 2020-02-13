@@ -1,6 +1,6 @@
 ---
 identifier: gillet_artderegner  
-creator: Gillet de La Tessonerie  
+creator: Gillet de La Tessonerie.  
 date: 1644  
 title: L’Art de régner.  ou le sage gouverneur, tragi-comédie  
 ---

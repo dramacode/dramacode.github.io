@@ -1,6 +1,6 @@
 ---
 identifier: rousseaujb_jason  
-creator: Rousseau Jean Baptiste  
+creator: Rousseau Jean Baptiste.  
 date: 1696  
 title: Jason. , ou la toison-d’or  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: vade_canadienne  
-creator: Vadé Jean-Joseph  
+creator: Vadé Jean-Joseph.  
 date: 1758  
 title: La canadienne  
 ---

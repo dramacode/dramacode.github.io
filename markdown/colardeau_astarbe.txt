@@ -1,6 +1,6 @@
 ---
 identifier: colardeau_astarbe  
-creator: Colardeau Charles-Pierre  
+creator: Colardeau Charles-Pierre.  
 date: 1758  
 title: Astarbé. , tragédie  
 ---

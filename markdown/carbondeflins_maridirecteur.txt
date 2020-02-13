@@ -1,6 +1,6 @@
 ---
 identifier: carbondeflins_maridirecteur  
-creator: Carbon de flins Claude de  
+creator: Carbon de flins Claude de.  
 date: 1791  
 title: Le mari directeur ou le déménagement du couvent. , comédie en un acte et en vers libres.  
 ---

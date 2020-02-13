@@ -1,6 +1,6 @@
 ---
 identifier: gilbert_rodogune  
-creator: Gilbert Gabriel  
+creator: Gilbert Gabriel.  
 date: 1645  
 title: Rodogune. , tragi-comédie.  
 ---

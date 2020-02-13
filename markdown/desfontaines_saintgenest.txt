@@ -1,6 +1,6 @@
 ---
 identifier: desfontaines_saintgenest  
-creator: Desfontaines Nicolas-Marc  
+creator: Desfontaines Nicolas-Marc.  
 date: 1644  
 title: L’Illustre Comédien. , ou le martyre de saint-genest. tragédie.  
 ---

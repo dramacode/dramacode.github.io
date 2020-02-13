@@ -1,6 +1,6 @@
 ---
 identifier: leclerc_iphigenie  
-creator: Leclerc michel  
+creator: Leclerc michel.  
 date:   
 title: Iphigénie. , tragédie.  
 ---

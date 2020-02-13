@@ -1,6 +1,6 @@
 ---
 identifier: moncrif_abderites  
-creator: François-augustin paradis de moncrif  
+creator: François-augustin paradis de moncrif.  
 date: 1732  
 title: Les abderites. , comédie  
 ---

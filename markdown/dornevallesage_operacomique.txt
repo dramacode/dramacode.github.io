@@ -1,6 +1,6 @@
 ---
 identifier: dornevallesage_operacomique  
-creator: Dorneval LESAGE  
+creator: Dorneval LESAGE.  
 date: 1730  
 title: L’opéra comique assiégé. , comédie.  
 ---

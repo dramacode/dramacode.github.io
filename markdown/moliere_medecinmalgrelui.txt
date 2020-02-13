@@ -1,6 +1,6 @@
 ---
 identifier: moliere_medecinmalgrelui  
-creator: Molière  
+creator: Molière.  
 date: 1666  
 title: Le médecin malgré lui  
 ---

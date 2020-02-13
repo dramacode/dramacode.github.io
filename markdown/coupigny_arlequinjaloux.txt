@@ -1,6 +1,6 @@
 ---
 identifier: coupigny_arlequinjaloux  
-creator: Coupigny André-François de  
+creator: Coupigny André-François de.  
 date: 1797  
 title: Arlequin jaloux  
 ---

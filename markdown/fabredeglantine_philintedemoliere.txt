@@ -1,6 +1,6 @@
 ---
 identifier: fabredeglantine_philintedemoliere  
-creator: Fabre d’eglantine Jean-François-Nazaire Fabre dit  
+creator: Fabre d’eglantine Jean-François-Nazaire Fabre dit.  
 date: 1790  
 title: Le philinte de molière. , comédie en cinq actes, en vers.  
 ---

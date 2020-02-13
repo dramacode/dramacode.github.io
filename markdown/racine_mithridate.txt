@@ -1,6 +1,6 @@
 ---
 identifier: racine_mithridate  
-creator: Racine, Jean  
+creator: Racine, Jean.  
 date: 1672  
 title: Mithridate. , tragédie.  
 ---

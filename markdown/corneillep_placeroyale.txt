@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_placeroyale  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1634  
 title: La Place Royale.  ou l’amoureux extravagant, comédie  
 ---

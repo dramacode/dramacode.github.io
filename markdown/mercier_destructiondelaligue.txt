@@ -1,6 +1,6 @@
 ---
 identifier: mercier_destructiondelaligue  
-creator: Mercier Louis-Sébastien  
+creator: Mercier Louis-Sébastien.  
 date: 1782  
 title: La destruction de la ligue. , ou la réduction de paris.  
 ---

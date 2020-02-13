@@ -1,6 +1,6 @@
 ---
 identifier: marmontel_herculemourant  
-creator: Marmontel Jean-François  
+creator: Marmontel Jean-François.  
 date: 1761  
 title: Hercule mourant. , comédie galante.  
 ---

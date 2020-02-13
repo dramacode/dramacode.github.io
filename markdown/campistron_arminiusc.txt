@@ -1,6 +1,6 @@
 ---
 identifier: campistron_arminiusc  
-creator: Campistron Jean G. de  
+creator: Campistron Jean G. de.  
 date: 1684  
 title: Arminus. , tragédie  
 ---

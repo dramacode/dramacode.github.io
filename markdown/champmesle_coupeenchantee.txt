@@ -1,6 +1,6 @@
 ---
 identifier: champmesle_coupeenchantee  
-creator: Champméslé Charles Chevillet dit  
+creator: Champméslé Charles Chevillet dit.  
 date: 1693  
 title: La coupe enchantée. , comédie  
 ---

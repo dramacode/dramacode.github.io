@@ -1,6 +1,6 @@
 ---
 identifier: nadal_paradisterrestre  
-creator: Nadal Augustin  
+creator: Nadal Augustin.  
 date: 1735  
 title: Le paradis terrestre. , divertissement.  
 ---

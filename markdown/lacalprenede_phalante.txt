@@ -1,6 +1,6 @@
 ---
 identifier: lacalprenede_phalante  
-creator: La Calprenède Gautier Costes de  
+creator: La Calprenède Gautier Costes de.  
 date: 1640  
 title: Phalante. , tragédie  
 ---

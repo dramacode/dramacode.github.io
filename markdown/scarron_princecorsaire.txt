@@ -1,6 +1,6 @@
 ---
 identifier: scarron_princecorsaire  
-creator: Scarron, Paul  
+creator: Scarron, Paul.  
 date: 1658  
 title: Le Prince corsaire. , tragi-comédie.  
 ---

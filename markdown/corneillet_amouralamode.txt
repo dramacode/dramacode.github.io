@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_amouralamode  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas.  
 date: 1651  
 title: L’Amour à la mode. , comédie.   
 ---

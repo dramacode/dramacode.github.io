@@ -1,6 +1,6 @@
 ---
 identifier: cubieres-palmezeaux_bracelets  
-creator: Cubières-palmézeaux Michel de  
+creator: Cubières-palmézeaux Michel de.  
 date: (inc  
 title: Les bracelets.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: jacquelinphilidor_pradon  
-creator: Jaquelin et philidor  
+creator: Jaquelin et philidor.  
 date: 1799  
 title: Pradon. , siffle, battu et content, comédie anecdote, en un acte et en vaudevilles.  
 ---

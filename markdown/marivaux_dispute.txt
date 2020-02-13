@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_dispute  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1744  
 title: La dispute. , comédie  
 ---

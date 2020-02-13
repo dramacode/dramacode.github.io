@@ -1,6 +1,6 @@
 ---
 identifier: gueullette_parade2  
-creator: Gueullette Thomas-Simon  
+creator: Gueullette Thomas-Simon.  
 date: 1715  
 title: Deuxième parade. , farce.  
 ---

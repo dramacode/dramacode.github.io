@@ -1,6 +1,6 @@
 ---
 identifier: aristophane_guepes  
-creator: Aristophane  
+creator: Aristophane.  
 date:   
 title: LES GUÊPES, COMÉDIE.  
 ---

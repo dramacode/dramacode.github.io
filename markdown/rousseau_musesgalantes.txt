@@ -1,6 +1,6 @@
 ---
 identifier: rousseau_musesgalantes  
-creator: Rousseau Jean-Jacques  
+creator: Rousseau Jean-Jacques.  
 date: 1744  
 title: Les muses galantes. , ballet.  
 ---

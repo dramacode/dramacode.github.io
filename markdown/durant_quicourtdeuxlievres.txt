@@ -1,6 +1,6 @@
 ---
 identifier: durant_quicourtdeuxlievres  
-creator: Durant Catherine  
+creator: Durant Catherine.  
 date: (non  
 title: Qui court deux lièvres n’en prend point. , proverbe.  
 ---

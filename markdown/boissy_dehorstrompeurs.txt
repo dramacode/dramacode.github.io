@@ -1,6 +1,6 @@
 ---
 identifier: boissy_dehorstrompeurs  
-creator: Boissy Louis de  
+creator: Boissy Louis de.  
 date: 1740  
 title: Les dehors trompeurs ou l’homme du jour. , comédie .  
 ---

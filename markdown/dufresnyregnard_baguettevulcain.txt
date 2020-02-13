@@ -1,6 +1,6 @@
 ---
 identifier: dufresnyregnard_baguettevulcain  
-creator: Regnard et dufresny  
+creator: Regnard et dufresny.  
 date: 1693  
 title: La baguette de vulcain. , comédie en un acte  
 ---

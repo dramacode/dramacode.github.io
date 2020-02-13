@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_mereconfidente  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1735  
 title: La mère confidente. , comédie  
 ---

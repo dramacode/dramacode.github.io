@@ -1,6 +1,6 @@
 ---
 identifier: dufresny_adieuxdesofficiers  
-creator: Dufresny Charles  
+creator: Dufresny Charles.  
 date: 1693  
 title: Les adieux des officiers. , ou vénus justifiée, comédie en trois actes.  
 ---

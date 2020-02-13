@@ -1,6 +1,6 @@
 ---
 identifier: moline_inconnue  
-creator: Moline Pierre-Louis  
+creator: Moline Pierre-Louis.  
 date: 1776  
 title: L’inconnue persécutée. , comédie en deux actes et en prose.  
 ---

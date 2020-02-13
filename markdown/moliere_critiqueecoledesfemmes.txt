@@ -1,6 +1,6 @@
 ---
 identifier: moliere_critiqueecoledesfemmes  
-creator: Molière  
+creator: Molière.  
 date: 1663  
 title: La Critique de l'École des femmes. Comédie  
 ---

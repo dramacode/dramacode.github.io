@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_surprisedelamour  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1722  
 title: La surprise de l’amour. , comédie  
 ---

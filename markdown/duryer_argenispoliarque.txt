@@ -1,6 +1,6 @@
 ---
 identifier: duryer_argenispoliarque  
-creator: Du Ryer,  Pierre  
+creator: Du Ryer, Pierre.  
 date: 1629  
 title: Argenis et Poliarque.  ou théocrine, tragi-comédie  
 ---

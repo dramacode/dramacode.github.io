@@ -1,6 +1,6 @@
 ---
 identifier: deshoulieres_mortdecochon  
-creator: Deshoulières Antoinette du Ligier de la Garde  
+creator: Deshoulières Antoinette du Ligier de la Garde.  
 date: (non  
 title: La mort de cochon  
 ---

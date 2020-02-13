@@ -1,6 +1,6 @@
 ---
 identifier: barante_arlequinmisanthrope  
-creator: Barante Claude Ignace Brugière de  
+creator: Barante Claude Ignace Brugière de.  
 date: 1696  
 title: Arlequin misanthrope. , comédie  
 ---

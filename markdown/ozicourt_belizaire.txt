@@ -1,6 +1,6 @@
 ---
 identifier: ozicourt_belizaire  
-creator: Ouzicourt M. d’  
+creator: Ouzicourt M. d’.  
 date: (inc  
 title: Bélisaire. , drame  
 ---

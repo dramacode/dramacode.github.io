@@ -1,6 +1,6 @@
 ---
 identifier: boursault_medecinvolant  
-creator: Boursault, Edme  
+creator: Boursault, Edme.  
 date: 1694  
 title: Le médecin volant. , comédie.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: carmontelle_seigneurauteur  
-creator: Carmontelle Louis Carrogis, dit Louis de Carmontelle  
+creator: Carmontelle Louis Carrogis, dit Louis de Carmontelle.  
 date: (inc  
 title: Le seigneur auteur. , comédie  
 ---

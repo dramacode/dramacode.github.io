@@ -1,6 +1,6 @@
 ---
 identifier: legrand_nouveaute  
-creator: Legrand Marc-Antoine  
+creator: Legrand Marc-Antoine.  
 date: 1727  
 title: La nouveauté. , comédie.  
 ---

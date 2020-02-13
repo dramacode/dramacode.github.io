@@ -1,6 +1,6 @@
 ---
 identifier: diderot_peredefamille  
-creator: Diderot Denis  
+creator: Diderot Denis.  
 date: 1760  
 title: Le père de famille. , comédie.  
 ---

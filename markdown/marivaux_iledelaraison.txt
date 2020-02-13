@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_iledelaraison  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1727  
 title: L’île de la raison ou les petits hommes. , comédie  
 ---

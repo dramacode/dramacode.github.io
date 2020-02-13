@@ -1,6 +1,6 @@
 ---
 identifier: artaud_centenairemoliere  
-creator: Artaud Jean-Baptiste  
+creator: Artaud Jean-Baptiste.  
 date: 1773  
 title: Le centenaire de molière. , comédie.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: regnard_legatairecritique  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: 1708  
 title: La critique du légataire. , comédie en un acte  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: legouve_eteocle  
-creator: Legouvé Gabriel  
+creator: Legouvé Gabriel.  
 date: 1799  
 title: Étéocle. , tragédie.  
 ---

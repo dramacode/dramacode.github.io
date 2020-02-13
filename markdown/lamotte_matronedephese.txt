@@ -1,6 +1,6 @@
 ---
 identifier: lamotte_matronedephese  
-creator: La motte Antoine-Houdard de  
+creator: La motte Antoine-Houdard de.  
 date: 1723  
 title: La matrone d’éphèse. , comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: chamfort_lajeuneindienne  
-creator: Chamfort Sébatien-Roch-Nicolas de   
+creator: Chamfort Sébatien-Roch-Nicolas de.  
 date: 1764  
 title: La jeune indienne  
 ---

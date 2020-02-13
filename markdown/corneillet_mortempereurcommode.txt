@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_mortempereurcommode  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas.  
 date: 1657  
 title: La Mort de l’empereur Commode. , tragédie  
 ---

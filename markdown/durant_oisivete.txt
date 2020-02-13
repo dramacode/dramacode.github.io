@@ -1,6 +1,6 @@
 ---
 identifier: durant_oisivete  
-creator: Durant Catherine  
+creator: Durant Catherine.  
 date: (inc  
 title: Oisivité est mère de tous les vices. , proverbe.  
 ---

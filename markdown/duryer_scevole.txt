@@ -1,6 +1,6 @@
 ---
 identifier: duryer_scevole  
-creator: Du Ryer Pierre  
+creator: Du Ryer Pierre.  
 date: 1644  
 title: Scévole. , tragédie.  
 ---

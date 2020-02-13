@@ -1,6 +1,6 @@
 ---
 identifier: aigueberre_prologue  
-creator: Aigueberre Jean Dumas d’  
+creator: Aigueberre Jean Dumas d’.  
 date: (non  
 title: Trois spectacles. , prologue  
 ---

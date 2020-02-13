@@ -1,6 +1,6 @@
 ---
 identifier: rousseaujb_ceinturemagique  
-creator: Rousseau Jean Baptiste  
+creator: Rousseau Jean Baptiste.  
 date: 1701  
 title: La ceinture magique  
 ---

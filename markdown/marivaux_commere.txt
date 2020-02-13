@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_commere  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1741  
 title: La commère. , comédie  
 ---

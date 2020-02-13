@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_attila  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1667  
 title: Attila. , roi des huns, tragédie  
 ---

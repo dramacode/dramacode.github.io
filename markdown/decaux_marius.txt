@@ -1,6 +1,6 @@
 ---
 identifier: decaux_marius  
-creator: Caux de montlebert Gilles de  
+creator: Caux de montlebert Gilles de.  
 date: 1715  
 title: Marius. , tragédie.  
 ---

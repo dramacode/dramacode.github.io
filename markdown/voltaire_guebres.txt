@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_guebres  
-creator: Voltaire  
+creator: Voltaire.  
 date: (non  
 title: Les guèbres ou la tolérance . , tragédie  
 ---

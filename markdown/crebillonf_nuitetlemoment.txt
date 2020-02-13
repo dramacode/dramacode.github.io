@@ -1,6 +1,6 @@
 ---
 identifier: crebillonf_nuitetlemoment  
-creator: Crébillon Claude-Prosper Jolyot de, fils  
+creator: Crébillon Claude-Prosper Jolyot de, fils.  
 date: (non  
 title: La nuit et le moment ou les matines de cythère. , dialogue  
 ---

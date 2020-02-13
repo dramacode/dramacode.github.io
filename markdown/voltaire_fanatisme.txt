@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_fanatisme  
-creator: Voltaire  
+creator: Voltaire.  
 date: 1742  
 title: Le fanatisme. , tragédie.  
 ---

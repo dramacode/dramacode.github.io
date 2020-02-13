@@ -1,6 +1,6 @@
 ---
 identifier: anseaume_cendrillon  
-creator: Anseaume Louis  
+creator: Anseaume Louis.  
 date: 1759  
 title: Cendrillon. , opéra-comique.  
 ---

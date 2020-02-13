@@ -1,6 +1,6 @@
 ---
 identifier: poisson_sotvenge  
-creator: Poisson Jean-François  
+creator: Poisson Jean-François.  
 date: 1661  
 title: Le sot vengé. , comédie en un acte  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: romagnesi_rancune  
-creator: Romagnesi Jean Antoine  
+creator: Romagnesi Jean Antoine.  
 date: 1755  
 title: La rancune. , parodie de philoctete.  
 ---

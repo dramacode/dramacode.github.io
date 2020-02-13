@@ -1,6 +1,6 @@
 ---
 identifier: laharpe_melanie  
-creator: La harpe Jean-François de  
+creator: La harpe Jean-François de.  
 date: 1792  
 title: Mélanie ou la religieuse. , drame en trios actes et en vers  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: armand_crinature  
-creator: Armand Huguet Armand dit  
+creator: Armand Huguet Armand dit.  
 date: 1669  
 title: Le Cri de la nature. , comédie en un acte et en vers.  
 ---

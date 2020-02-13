@@ -1,6 +1,6 @@
 ---
 identifier: biancolleli_enfantstrouves  
-creator: Dominique BIANCOLELLI, RICCOBONI  
+creator: Dominique BIANCOLELLI, RICCOBONI.  
 date: 1732  
 title: Les enfants trouvés. , ou le sultan poli par l’amour, parodie de la tragédie de zaïre, de monsieur de voltaire  
 ---

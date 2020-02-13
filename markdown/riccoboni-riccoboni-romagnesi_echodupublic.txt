@@ -1,6 +1,6 @@
 ---
 identifier: riccoboni-riccoboni-romagnesi_echodupublic  
-creator: Riccoboni père RICCOBONI fils, ROMAGNESI  
+creator: Riccoboni père RICCOBONI fils, ROMAGNESI.  
 date: 1741  
 title: L’écho du public. , comédie en vers et en un acte.  
 ---

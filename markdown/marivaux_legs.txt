@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_legs  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1736  
 title: Le legs. , comédie  
 ---

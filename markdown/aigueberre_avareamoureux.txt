@@ -1,6 +1,6 @@
 ---
 identifier: aigueberre_avareamoureux  
-creator: Aigueberre Jean Dumas d’  
+creator: Aigueberre Jean Dumas d’.  
 date: (non  
 title: L’avare amoureux. , comédie  
 ---

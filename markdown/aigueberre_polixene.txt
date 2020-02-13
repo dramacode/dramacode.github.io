@@ -1,6 +1,6 @@
 ---
 identifier: aigueberre_polixene  
-creator: Aigueberre Jean Dumas d’  
+creator: Aigueberre Jean Dumas d’.  
 date: (non  
 title: Polixène. , tragédie  
 ---

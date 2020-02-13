@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_nicomede  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1650  
 title: Nicomède. , tragédie  
 ---

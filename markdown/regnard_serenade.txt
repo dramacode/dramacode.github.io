@@ -1,6 +1,6 @@
 ---
 identifier: regnard_serenade  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: 1694  
 title: La sérénade. , comédie  
 ---

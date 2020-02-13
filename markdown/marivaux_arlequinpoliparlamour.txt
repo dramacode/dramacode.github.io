@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_arlequinpoliparlamour  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1720  
 title: Arlequin poli par l’amour. , comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_illusioncomique  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1636  
 title: L’Illusion comique. , comédie  
 ---

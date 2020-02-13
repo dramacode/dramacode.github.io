@@ -1,6 +1,6 @@
 ---
 identifier: anonyme_clubdesdames  
-creator: (anonyme)  
+creator: .  
 date: (non  
 title: Le club des dames ou le retour de descartes. , comédie  
 ---

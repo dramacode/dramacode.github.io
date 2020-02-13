@@ -1,6 +1,6 @@
 ---
 identifier: anonyme_resurrectionjeninlandore  
-creator: Anonyme  
+creator: Anonyme.  
 date: v.15  
 title: Farce nouvelle très bonne et fort joyeuse de la resurrection de jenin landore. , farce  
 ---

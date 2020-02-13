@@ -1,6 +1,6 @@
 ---
 identifier: viau_pyrame  
-creator: Théophile de Viau  
+creator: Théophile de Viau.  
 date: 1621  
 title: Pyrame et Thisbé. , tragédie  
 ---

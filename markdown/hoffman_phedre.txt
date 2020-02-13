@@ -1,6 +1,6 @@
 ---
 identifier: hoffman_phedre  
-creator: Hoffmann François-Benoît  
+creator: Hoffmann François-Benoît.  
 date: 1786  
 title: Phèdre. , tragédie  
 ---

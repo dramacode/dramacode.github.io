@@ -1,6 +1,6 @@
 ---
 identifier: andrieux_anaximandre  
-creator: Andrieux François Guilaume Jean Stanislas  
+creator: Andrieux François Guilaume Jean Stanislas.  
 date: 1782  
 title: Anaximandre. , comédie.  
 ---

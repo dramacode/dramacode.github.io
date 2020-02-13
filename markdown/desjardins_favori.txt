@@ -1,6 +1,6 @@
 ---
 identifier: desjardins_favori  
-creator: Desjardins Marie-Catherine-Hortense  
+creator: Desjardins Marie-Catherine-Hortense.  
 date: 1665  
 title: Le Favori. , tragicomédie.  
 ---

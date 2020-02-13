@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_donsanche  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1649  
 title: Don Sanche d’Aragon. , comédie héroïque  
 ---

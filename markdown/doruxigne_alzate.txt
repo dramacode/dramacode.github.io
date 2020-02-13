@@ -1,6 +1,6 @@
 ---
 identifier: doruxigne_alzate  
-creator: Gazon-doruxigné Sébastien-Marie-Mathurin  
+creator: Gazon-doruxigné Sébastien-Marie-Mathurin.  
 date: 1749  
 title: Alzate ou le le préjugé détruit  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_dombertrandecigarral  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas.  
 date: 1651  
 title: Don Bertran de Cigarral. , comédie  
 ---

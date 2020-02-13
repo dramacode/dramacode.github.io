@@ -1,6 +1,6 @@
 ---
 identifier: lacalprenede_enfantsdherode  
-creator: La Calprenède Gautier Costes de  
+creator: La Calprenède Gautier Costes de.  
 date: 1638  
 title: La Mort des enfants d’Hérode.  ou suite de Mariane, tragédie.  
 ---

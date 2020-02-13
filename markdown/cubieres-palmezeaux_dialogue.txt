@@ -1,6 +1,6 @@
 ---
 identifier: cubieres-palmezeaux_dialogue  
-creator: Cubières-palmézeaux Michel de  
+creator: Cubières-palmézeaux Michel de.  
 date: 1788  
 title: Dialogue entre l’auteur et un homme de goêt  
 ---

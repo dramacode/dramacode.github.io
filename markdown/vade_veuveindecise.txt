@@ -1,6 +1,6 @@
 ---
 identifier: vade_veuveindecise  
-creator: Vadé Jean-Joseph  
+creator: Vadé Jean-Joseph.  
 date: 1759  
 title: La veuve indécise. , opéra comique  
 ---

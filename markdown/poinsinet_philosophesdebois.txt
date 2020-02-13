@@ -1,6 +1,6 @@
 ---
 identifier: poinsinet_philosophesdebois  
-creator: Poinsinet de sivry Louis  
+creator: Poinsinet de sivry Louis.  
 date: 1760  
 title: Les philosophes de bois. , comédie en un acte et en vers.  
 ---

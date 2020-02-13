@@ -1,6 +1,6 @@
 ---
 identifier: crebillon_idomenee  
-creator: Crébillon Prosper J. de  
+creator: Crébillon Prosper J. de.  
 date: 1705  
 title: Idoménée. , tragédie.  
 ---

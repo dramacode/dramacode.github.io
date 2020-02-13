@@ -1,6 +1,6 @@
 ---
 identifier: regnard_retourimprevu  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: 1700  
 title: Le retour imprévu. , comédie  
 ---

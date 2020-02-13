@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_tancrede  
-creator: Voltaire  
+creator: Voltaire.  
 date: 1765  
 title: Tancrède. , tragédie  
 ---

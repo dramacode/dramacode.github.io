@@ -1,6 +1,6 @@
 ---
 identifier: villiers_critiquedutartuffe  
-creator: Villiers, Claude Deschamps de  
+creator: Villiers, Claude Deschamps de.  
 date: (non  
 title: La critique du tartuffe. , comédie en vers  
 ---

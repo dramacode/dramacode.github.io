@@ -1,6 +1,6 @@
 ---
 identifier: aure_dipne  
-creator: Aure François d’  
+creator: Aure François d’.  
 date:   
 title: Dipné. , infante d’irlande. tragédie.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: lachapelle_zaide  
-creator: La chapelle Jean de  
+creator: La chapelle Jean de.  
 date: 1681  
 title: Zaïde. , tragédie   
 ---

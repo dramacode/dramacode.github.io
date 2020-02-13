@@ -1,6 +1,6 @@
 ---
 identifier: rotrou_antigone  
-creator: Rotrou, Jean  
+creator: Rotrou, Jean.  
 date: 1637  
 title: Antigone. , tragédie  
 ---

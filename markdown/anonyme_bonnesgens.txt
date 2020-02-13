@@ -1,6 +1,6 @@
 ---
 identifier: anonyme_bonnesgens  
-creator: (anonyme)  
+creator: .  
 date: (non  
 title: Les bonnes gens. , petite pièce en un acte, et en vers.  
 ---

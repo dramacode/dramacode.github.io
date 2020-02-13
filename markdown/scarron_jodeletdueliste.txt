@@ -1,6 +1,6 @@
 ---
 identifier: scarron_jodeletdueliste  
-creator: Scarron, Paul  
+creator: Scarron, Paul.  
 date: 1646  
 title: Le Jodelet duelliste. , comédie.  
 ---

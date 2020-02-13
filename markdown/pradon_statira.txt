@@ -1,6 +1,6 @@
 ---
 identifier: pradon_statira  
-creator: Pradon Nicolas  
+creator: Pradon Nicolas.  
 date: 1677  
 title: Statira. , tragédie  
 ---

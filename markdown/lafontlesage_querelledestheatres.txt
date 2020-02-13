@@ -1,6 +1,6 @@
 ---
 identifier: lafontlesage_querelledestheatres  
-creator: Lafont Joseph de ; LESAGE, Alain-René  
+creator: Lafont Joseph de ; LESAGE, Alain-René.  
 date: 1710  
 title: La querelle des théâtres. , prologue.  
 ---

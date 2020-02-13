@@ -1,6 +1,6 @@
 ---
 identifier: laignelot_agis  
-creator: Laignelot Joseph-François  
+creator: Laignelot Joseph-François.  
 date:   
 title: Agis. , tragédie.  
 ---

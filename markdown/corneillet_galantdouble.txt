@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_galantdouble  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas.  
 date: 1659  
 title: Le Galant doublé. , comédie.   
 ---

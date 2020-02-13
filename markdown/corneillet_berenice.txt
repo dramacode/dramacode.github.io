@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_berenice  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas.  
 date: 1657  
 title: Bérénice. , tragédie.  
 ---

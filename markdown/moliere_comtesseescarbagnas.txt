@@ -1,6 +1,6 @@
 ---
 identifier: moliere_comtesseescarbagnas  
-creator: Molière  
+creator: Molière.  
 date: 1672  
 title: La Comtesse d'Escarbagnas  
 ---

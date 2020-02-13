@@ -1,6 +1,6 @@
 ---
 identifier: dufresny_departdescomediens  
-creator: Dufresny Charles  
+creator: Dufresny Charles.  
 date: 1794  
 title: Le départ des comédiens. , comédie.  
 ---

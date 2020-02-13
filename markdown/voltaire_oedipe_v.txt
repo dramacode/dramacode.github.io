@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_oedipe_v  
-creator: Voltaire  
+creator: Voltaire.  
 date: 1718  
 title: Oedipe. , tragédie  
 ---

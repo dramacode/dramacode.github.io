@@ -1,6 +1,6 @@
 ---
 identifier: dorat_regulus  
-creator: Dorat Claude-Joseph  
+creator: Dorat Claude-Joseph.  
 date: (non  
 title: Régulus. , tragédie en trois actes et en vers.  
 ---

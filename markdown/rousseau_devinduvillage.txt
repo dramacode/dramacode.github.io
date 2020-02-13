@@ -1,6 +1,6 @@
 ---
 identifier: rousseau_devinduvillage  
-creator: Rousseau Jean-Jacques  
+creator: Rousseau Jean-Jacques.  
 date: 1752  
 title: Le devin du village  
 ---

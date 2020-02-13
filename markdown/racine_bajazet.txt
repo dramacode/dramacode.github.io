@@ -1,6 +1,6 @@
 ---
 identifier: racine_bajazet  
-creator: Racine, Jean  
+creator: Racine, Jean.  
 date: 1672  
 title: Bajazet. , tragédie  
 ---

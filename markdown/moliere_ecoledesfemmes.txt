@@ -1,6 +1,6 @@
 ---
 identifier: moliere_ecoledesfemmes  
-creator: Molière  
+creator: Molière.  
 date: 1662  
 title: L'École des femmes. Comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_suitementeur  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1644  
 title: La Suite du Menteur. , comédie  
 ---

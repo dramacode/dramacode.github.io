@@ -1,6 +1,6 @@
 ---
 identifier: baptistedumoutier_mascaradefoiresaintgermain  
-creator: Baptiste et du moutier  
+creator: Baptiste et du moutier.  
 date: 1685  
 title: Mascarade de la foire saint-germain  
 ---

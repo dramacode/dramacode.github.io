@@ -1,6 +1,6 @@
 ---
 identifier: sedaine_manteauecarlate  
-creator: Sedaine Michel-Jean  
+creator: Sedaine Michel-Jean.  
 date: 1784  
 title: Le manteau écarlate ou le reve supposé. , comédie-proverbe en un acte et en prose.  
 ---

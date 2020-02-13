@@ -1,6 +1,6 @@
 ---
 identifier: cyrano_lamortdagrippine  
-creator: Cyrano de Bergerac  
+creator: Cyrano de Bergerac.  
 date: 1653  
 title: La Mort d’Agrippine. , veuve de germanicus, tragédie.  
 ---

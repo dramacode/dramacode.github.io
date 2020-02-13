@@ -1,6 +1,6 @@
 ---
 identifier: dornevallesage_amoursdenanterre  
-creator: Dorneval Jacques-Philippe d’ORNEVAL dit  
+creator: Dorneval Jacques-Philippe d’ORNEVAL dit.  
 date: 1718  
 title: Les amours de nanterre. , comèdie.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: plancher_verredeau  
-creator: Plancher de valcour Philippe  
+creator: Plancher de valcour Philippe.  
 date: 1788  
 title: La vengeance. , comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: dupontdeveyle_somnanbule  
-creator: Feriol de pont-de-veyle Antoine de  
+creator: Feriol de pont-de-veyle Antoine de.  
 date: 1739  
 title: Le somnambule. , comédie.  
 ---

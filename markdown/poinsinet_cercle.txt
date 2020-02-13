@@ -1,6 +1,6 @@
 ---
 identifier: poinsinet_cercle  
-creator: Poinsinet de sivry Antoine-Alexandre-Henri  
+creator: Poinsinet de sivry Antoine-Alexandre-Henri.  
 date: 1764  
 title: Le cercle. , ou la soirée a la mode, comédie en un acte et en vers.  
 ---

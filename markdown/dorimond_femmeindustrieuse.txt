@@ -1,6 +1,6 @@
 ---
 identifier: dorimond_femmeindustrieuse  
-creator: Dorimond Nicolas Drouin dit  
+creator: Dorimond Nicolas Drouin dit.  
 date: (inc  
 title: La femme industrieuse. , comédie  
 ---

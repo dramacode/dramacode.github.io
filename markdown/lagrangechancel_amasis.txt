@@ -1,6 +1,6 @@
 ---
 identifier: lagrangechancel_amasis  
-creator: La grange chancel François-Joseph  
+creator: La grange chancel François-Joseph.  
 date: 1701  
 title: Amasis. , tragédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: regnard_filleserrantes  
-creator: Regnard Jean-François  
+creator: Regnard Jean-François.  
 date: 1690  
 title: Les filles errantes. , ou les intrigues des hôtelleries, comédie en trois actes  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: rotrou_agesilan  
-creator: Rotrou, Jean  
+creator: Rotrou, Jean.  
 date: 1635  
 title: Agésilan de Colchos. , tragi-comédie  
 ---

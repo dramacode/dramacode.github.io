@@ -1,6 +1,6 @@
 ---
 identifier: carmontelle_desesperesdelopera  
-creator: Carmontelle Louis Carrogis, dit Louis de Carmontelle  
+creator: Carmontelle Louis Carrogis, dit Louis de Carmontelle.  
 date: (inc  
 title: Les désespérés de l’opéra. , comédie  
 ---

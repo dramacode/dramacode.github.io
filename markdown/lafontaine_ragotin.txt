@@ -1,6 +1,6 @@
 ---
 identifier: lafontaine_ragotin  
-creator: La fontaine Jean de  
+creator: La fontaine Jean de.  
 date: (non  
 title: Ragotin ou le roman comique. , comédie.  
 ---

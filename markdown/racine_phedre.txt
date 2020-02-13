@@ -1,6 +1,6 @@
 ---
 identifier: racine_phedre  
-creator: Racine, Jean  
+creator: Racine, Jean.  
 date: 1677  
 title: Phèdre. , tragédie  
 ---

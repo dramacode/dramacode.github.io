@@ -1,6 +1,6 @@
 ---
 identifier: lafontaine_galatee  
-creator: La fontaine Jean de  
+creator: La fontaine Jean de.  
 date: (non  
 title: Galatée. , opéra.  
 ---

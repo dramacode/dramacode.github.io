@@ -1,6 +1,6 @@
 ---
 identifier: moliere_psyche  
-creator: Molière  
+creator: Molière.  
 date: 1671  
 title: Psyché  
 ---

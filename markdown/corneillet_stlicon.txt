@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_stlicon  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas.  
 date: 1660  
 title: Stilicon. , tragédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_toison  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1660  
 title: La Conquête de la Toison d’or. , tragédie  
 ---

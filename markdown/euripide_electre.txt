@@ -1,6 +1,6 @@
 ---
 identifier: euripide_electre  
-creator: Euripide  
+creator: Euripide.  
 date: 1880  
 title: Électre. , tragédie.  
 ---

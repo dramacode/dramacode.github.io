@@ -1,6 +1,6 @@
 ---
 identifier: piron_arlequindecalion  
-creator: Piron Alexis  
+creator: Piron Alexis.  
 date: 1722  
 title: Arlequin deucalion. , comédie  
 ---

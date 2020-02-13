@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_femmefidele  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1750  
 title: La femme fidèle  
 ---

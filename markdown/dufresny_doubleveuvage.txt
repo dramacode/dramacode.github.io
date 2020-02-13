@@ -1,6 +1,6 @@
 ---
 identifier: dufresny_doubleveuvage  
-creator: Dufresny Charles  
+creator: Dufresny Charles.  
 date: 1702  
 title: Le double veuvage. , comédie en trois actes.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: florian_bonmenage  
-creator: Florian Jean Pierre Claris de  
+creator: Florian Jean Pierre Claris de.  
 date: 1782  
 title: Le bon ménage. , comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: scarron_jodelet  
-creator: Scarron, Paul  
+creator: Scarron, Paul.  
 date: 1643  
 title: Le Jodelet.  ou le maître valet, comédie.  
 ---

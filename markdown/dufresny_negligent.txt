@@ -1,6 +1,6 @@
 ---
 identifier: dufresny_negligent  
-creator: Dufresny Charles  
+creator: Dufresny Charles.  
 date: 1692  
 title: Le négligent. , comédie en trois actes, avec un prologue.  
 ---

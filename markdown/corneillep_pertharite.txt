@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_pertharite  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1651  
 title: Pertharite.  roi des Lombards, tragédie  
 ---

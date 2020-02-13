@@ -1,6 +1,6 @@
 ---
 identifier: durant_pourunplaisirmilledouleurs  
-creator: Durant Catherine  
+creator: Durant Catherine.  
 date: (inc  
 title: Pour un plaisir mille douleurs. , proverbe.  
 ---

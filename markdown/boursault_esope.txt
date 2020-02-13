@@ -1,6 +1,6 @@
 ---
 identifier: boursault_esope  
-creator: Boursault, Edme  
+creator: Boursault, Edme.  
 date: 1701  
 title: Ésope À la cour. , comédie héroïque  
 ---

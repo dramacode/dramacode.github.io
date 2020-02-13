@@ -1,6 +1,6 @@
 ---
 identifier: durant_telmaitretelvalet  
-creator: Durant Catherine  
+creator: Durant Catherine.  
 date: (non  
 title: Tel maître. , tel valet, proverbe.  
 ---

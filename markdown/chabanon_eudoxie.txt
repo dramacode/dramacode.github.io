@@ -1,6 +1,6 @@
 ---
 identifier: chabanon_eudoxie  
-creator: Chabanon Michel Paul Guy de  
+creator: Chabanon Michel Paul Guy de.  
 date: (inc  
 title: Eudoxie. , tragédie.  
 ---

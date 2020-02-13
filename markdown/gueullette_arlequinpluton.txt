@@ -1,6 +1,6 @@
 ---
 identifier: gueullette_arlequinpluton  
-creator: Gueullette Thomas-Simon  
+creator: Gueullette Thomas-Simon.  
 date: 1719  
 title: Arlequin-pluton. , comédie inédite en trois actes  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: boucher_champagnelecoiffeur  
-creator: Boucher Pierre  
+creator: Boucher Pierre.  
 date: 1662  
 title: Champagne le coiffeur. , comédie  
 ---

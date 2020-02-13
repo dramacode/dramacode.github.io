@@ -1,6 +1,6 @@
 ---
 identifier: biancolelli_ecolegalante  
-creator: Biancolelli Pierre François  
+creator: Biancolelli Pierre François.  
 date: 1710  
 title: L’école galante ou l’art d’aimer. , comédie  
 ---

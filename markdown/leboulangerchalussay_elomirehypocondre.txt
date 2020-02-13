@@ -1,6 +1,6 @@
 ---
 identifier: leboulangerchalussay_elomirehypocondre  
-creator: Le boulanger de chalussay  
+creator: Le boulanger de chalussay.  
 date:   
 title: Elomire hypocondre ou les médecins vengés. , comédie  
 ---

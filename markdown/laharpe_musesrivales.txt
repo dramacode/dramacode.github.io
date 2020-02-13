@@ -1,6 +1,6 @@
 ---
 identifier: laharpe_musesrivales  
-creator: La harpe Jean-François de  
+creator: La harpe Jean-François de.  
 date: 1779  
 title: Les muses rivales. , comédie.  
 ---

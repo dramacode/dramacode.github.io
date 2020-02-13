@@ -1,6 +1,6 @@
 ---
 identifier: moliere_monsieurpourceaugnac  
-creator: Molière  
+creator: Molière.  
 date: 1669  
 title: Monsieur De Pourceaugnac  
 ---

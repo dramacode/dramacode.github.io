@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_irene  
-creator: Voltaire  
+creator: Voltaire.  
 date:   
 title: Irène. , tragédie  
 ---

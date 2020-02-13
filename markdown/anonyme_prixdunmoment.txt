@@ -1,6 +1,6 @@
 ---
 identifier: anonyme_prixdunmoment  
-creator: (anonyme)  
+creator: .  
 date: (non  
 title: Le prix d’un moment. , petite pièce en un acte et en prose, melée d’airs.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: vade_impromptuducoeur  
-creator: Vadé Jean-Joseph  
+creator: Vadé Jean-Joseph.  
 date: 1757  
 title: L’impromptu du coeur  
 ---

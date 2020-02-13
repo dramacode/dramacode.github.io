@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_mortpompee  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1644  
 title: La Mort de Pompée. , tragédie  
 ---

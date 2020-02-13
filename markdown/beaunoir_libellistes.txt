@@ -1,6 +1,6 @@
 ---
 identifier: beaunoir_libellistes  
-creator: Beaunoir Alexandre-Louis-Bertrand Robineau dit de  
+creator: Beaunoir Alexandre-Louis-Bertrand Robineau dit de.  
 date: 1779  
 title: Les libellistes. , drame en quatre actes.  
 ---

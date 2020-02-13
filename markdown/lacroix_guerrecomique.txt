@@ -1,6 +1,6 @@
 ---
 identifier: lacroix_guerrecomique  
-creator: La croix Jean de  
+creator: La croix Jean de.  
 date: (non  
 title: La guerre comique ou la défense de l’école des femmes. , comédie  
 ---

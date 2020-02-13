@@ -1,6 +1,6 @@
 ---
 identifier: rousseaujb_cafe  
-creator: Rousseau Jean Baptiste  
+creator: Rousseau Jean Baptiste.  
 date: 1694  
 title: Le café. , comédie en un acte  
 ---

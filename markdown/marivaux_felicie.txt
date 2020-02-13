@@ -1,6 +1,6 @@
 ---
 identifier: marivaux_felicie  
-creator: Marivaux  
+creator: Marivaux.  
 date: 1750  
 title: Félicie. , comédie  
 ---

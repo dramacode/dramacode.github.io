@@ -1,6 +1,6 @@
 ---
 identifier: corneillep_menteur  
-creator: Corneille, Pierre  
+creator: Corneille, Pierre.  
 date: 1644  
 title: Le Menteur. , comédie  
 ---

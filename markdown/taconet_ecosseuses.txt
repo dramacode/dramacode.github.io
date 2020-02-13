@@ -1,6 +1,6 @@
 ---
 identifier: taconet_ecosseuses  
-creator: Taconet Toussaint-Gaspard  
+creator: Taconet Toussaint-Gaspard.  
 date: 1767  
 title: Les écosseuses de la halle. , ambigu-poissard.  
 ---

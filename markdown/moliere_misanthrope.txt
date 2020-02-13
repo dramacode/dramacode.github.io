@@ -1,6 +1,6 @@
 ---
 identifier: moliere_misanthrope  
-creator: Molière  
+creator: Molière.  
 date: 1666  
 title: Le Misanthrope. Comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: legrand_usuriergentilhomme  
-creator: Legrand Marc-Antoine  
+creator: Legrand Marc-Antoine.  
 date: 1713  
 title: L’usurier gentilhomme. , comédie.  
 ---

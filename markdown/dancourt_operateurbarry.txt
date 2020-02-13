@@ -1,6 +1,6 @@
 ---
 identifier: dancourt_operateurbarry  
-creator: Dancourt Florent Carton dit  
+creator: Dancourt Florent Carton dit.  
 date: 1702  
 title: L’opérateur barry. , comédie  
 ---

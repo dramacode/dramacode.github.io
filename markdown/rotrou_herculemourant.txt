@@ -1,6 +1,6 @@
 ---
 identifier: rotrou_herculemourant  
-creator: Rotrou, Jean  
+creator: Rotrou, Jean.  
 date: 1634  
 title: Hercule mourant. , tragédie  
 ---

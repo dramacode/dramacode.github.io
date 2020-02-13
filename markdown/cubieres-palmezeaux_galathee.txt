@@ -1,6 +1,6 @@
 ---
 identifier: cubieres-palmezeaux_galathee  
-creator: Cubières-palmézeaux Michel de  
+creator: Cubières-palmézeaux Michel de.  
 date: 1777  
 title: Galathée. , comédie  
 ---

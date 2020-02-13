@@ -1,6 +1,6 @@
 ---
 identifier: jodelle_didon  
-creator: Jodelle, Étienne  
+creator: Jodelle, Étienne.  
 date: 1574  
 title: DIDON SE SACRIFIANT, TRAGÉDIE.  
 ---

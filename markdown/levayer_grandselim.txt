@@ -1,6 +1,6 @@
 ---
 identifier: levayer_grandselim  
-creator: Le Vayer de Boutigny Roland  
+creator: Le Vayer de Boutigny Roland.  
 date: 1644  
 title: Le Grand Sélim.  ou le couronnement tragique, tragédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: archambault_onfaitcequonpeut  
-creator: Dorvigny Louis François Archambault dit  
+creator: Dorvigny Louis François Archambault dit.  
 date: 1779  
 title: On fait ce qu’on peut. , non pas ce qu’on veut, comé‰die proverbe.  
 ---

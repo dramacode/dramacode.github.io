@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_envieux  
-creator: Voltaire  
+creator: Voltaire.  
 date: (non  
 title: L’envieux. , comédie  
 ---

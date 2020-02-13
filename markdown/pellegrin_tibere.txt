@@ -1,6 +1,6 @@
 ---
 identifier: pellegrin_tibere  
-creator: Pellegrin Simon-Joseph, Abbé  
+creator: Pellegrin Simon-Joseph, Abbé.  
 date: 1726  
 title: Tibère. , tragédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_geolierdesoismeme  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas.  
 date: 1655  
 title: Le Geôlier de soi-même. , comédie.  
 ---

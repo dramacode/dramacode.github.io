@@ -1,6 +1,6 @@
 ---
 identifier: laforge_joueusedupee  
-creator: La Forge Jean de  
+creator: La Forge Jean de.  
 date: 1664  
 title: La Joueuse dupée. , comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_enfantprodigue  
-creator: Voltaire  
+creator: Voltaire.  
 date: 1736  
 title: L’enfant prodigue. , comédie en cinq actes  
 ---

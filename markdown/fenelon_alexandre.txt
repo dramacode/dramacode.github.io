@@ -1,6 +1,6 @@
 ---
 identifier: fenelon_alexandre  
-creator: Fénelon Francois-Louis de Salignac de La Mothe de  
+creator: Fénelon Francois-Louis de Salignac de La Mothe de.  
 date:   
 title: Alexandre. , tragédie.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: voisenon_hilasetzelis  
-creator: Voisenon Claude-Henri de Fusée de (1708-1775)  
+creator: Voisenon Claude-Henri de Fusée de.  
 date: 1762  
 title: Hilas et zélis. , pastorale en un acte.  
 ---

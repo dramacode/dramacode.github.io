@@ -1,6 +1,6 @@
 ---
 identifier: mathieu_magicienneetrangere  
-creator: Mathieu Pierre  
+creator: Mathieu Pierre.  
 date: (non  
 title: La magicienne étrangère. , tragédie.  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: anonyme_voilabienlediable  
-creator: (anonyme)  
+creator: .  
 date: (non  
 title: Oh ! voilÀ bien le diable ! comédie  
 ---

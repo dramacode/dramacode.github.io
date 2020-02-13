@@ -1,6 +1,6 @@
 ---
 identifier: scudery_princedeguise  
-creator: Scudéry Georges de  
+creator: Scudéry Georges de.  
 date: 1635  
 title: Le Prince déguisé. , tragi-comédie  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: alainlegrand_epreuvereciproque  
-creator: Alain Robert  
+creator: Alain Robert.  
 date: 1711  
 title: L’épreuve réciproque. , comédie  
 ---

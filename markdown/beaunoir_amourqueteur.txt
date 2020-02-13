@@ -1,6 +1,6 @@
 ---
 identifier: beaunoir_amourqueteur  
-creator: Beaunoir Alexandre-Louis-Bertrand Robineau dit de  
+creator: Beaunoir Alexandre-Louis-Bertrand Robineau dit de.  
 date: 1777  
 title: L’amour quêteur. , comédie  
 ---
