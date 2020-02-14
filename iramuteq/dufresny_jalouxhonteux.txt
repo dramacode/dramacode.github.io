@@ -1,6 +1,6 @@
 
 
-**** *creator_dufresny *book_dufresny_jalouxhonteux *style_prose *genre_comedy *dist1_dufresny_prose_comedy_jalouxhonteux *dist2_dufresny_prose_comedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepresident
+**** *creator_dufresny *book_dufresny_jalouxhonteux *style_prose *genre_comedy *dist1_dufresny_prose_comedy_jalouxhonteux *dist2_dufresny_prose_comedy *id_LEPRESIDENT *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepresident
 
 Ha, ha, ha ! Je vous demande pardon, Madame, laissez-moi rire de vos questions, avant que d'y répondre sérieusement. Ha, ha, ha !
 
@@ -325,7 +325,7 @@ Gardez-moi tous le secret, je vous en conjure ; j'avoue mon faible, je me croir
 Oui, je veux l'ôter à Thibaut, afin qu'il n'y ait plus chez moi de mari jaloux.
 
 
-**** *creator_dufresny *book_dufresny_jalouxhonteux *style_prose *genre_comedy *dist1_dufresny_prose_comedy_jalouxhonteux *dist2_dufresny_prose_comedy *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lapresidente
+**** *creator_dufresny *book_dufresny_jalouxhonteux *style_prose *genre_comedy *dist1_dufresny_prose_comedy_jalouxhonteux *dist2_dufresny_prose_comedy *id_LAPRESIDENTE *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lapresidente
 
 J'allais à votre appartement, ma chère amie.
 
@@ -471,7 +471,7 @@ Hé, remettez-vous un peu.
 Hé bien êtes-vous désabusé ?
 
 
-**** *creator_dufresny *book_dufresny_jalouxhonteux *style_prose *genre_comedy *dist1_dufresny_prose_comedy_jalouxhonteux *dist2_dufresny_prose_comedy *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucie
+**** *creator_dufresny *book_dufresny_jalouxhonteux *style_prose *genre_comedy *dist1_dufresny_prose_comedy_jalouxhonteux *dist2_dufresny_prose_comedy *id_LUCIE *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucie
 
 Dis-moi, Lisette, crois-tu que la Présidente soit éveillée ? Son appartement est-il ouvert ?
 
@@ -644,7 +644,7 @@ Nous sommes tous disposés à le cacher.
 Vos bontés...
 
 
-**** *creator_dufresny *book_dufresny_jalouxhonteux *style_prose *genre_comedy *dist1_dufresny_prose_comedy_jalouxhonteux *dist2_dufresny_prose_comedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
+**** *creator_dufresny *book_dufresny_jalouxhonteux *style_prose *genre_comedy *dist1_dufresny_prose_comedy_jalouxhonteux *dist2_dufresny_prose_comedy *id_DAMIS *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
 
 Dites-moi, je vous prie, la belle enfant, ne pourrais-je point parler à Lisette ? Je viens de l'appartement de Monsieur le Président, on m'a renvoyé à celui-ci.
 
@@ -784,7 +784,7 @@ Mon désespoir l'aurait peut-être emporté, sur la considération que j'ai pour
 Ma reconnaissance...
 
 
-**** *creator_dufresny *book_dufresny_jalouxhonteux *style_prose *genre_comedy *dist1_dufresny_prose_comedy_jalouxhonteux *dist2_dufresny_prose_comedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurargan
+**** *creator_dufresny *book_dufresny_jalouxhonteux *style_prose *genre_comedy *dist1_dufresny_prose_comedy_jalouxhonteux *dist2_dufresny_prose_comedy *id_MONSIEURARGAN *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurargan
 
 Ce Château-ci me paraît assez beau ; je ne m'étonne pas si Monsieur le Président aime mieux y loger qu'à la Ville.
 
@@ -837,7 +837,7 @@ Je vais toujours disposer mes amis à soutenir mes droits ; je laisse ici Front
 Je te laisse ici à dessein, pour achever d'irriter la jalousie du Président contre Damis.
 
 
-**** *creator_dufresny *book_dufresny_jalouxhonteux *style_prose *genre_comedy *dist1_dufresny_prose_comedy_jalouxhonteux *dist2_dufresny_prose_comedy *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_dufresny *book_dufresny_jalouxhonteux *style_prose *genre_comedy *dist1_dufresny_prose_comedy_jalouxhonteux *dist2_dufresny_prose_comedy *id_LISETTE *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Qui appelle là l'aimable Lisette ? Ah ! C'est un homme qui n'est pas trop aimable, lui.
 
@@ -1028,7 +1028,7 @@ Il voit deux femmes pour une.
 La bizarrerie des événements, prouve bien qu'il ne faut rien croire sur les apparences.
 
 
-**** *creator_dufresny *book_dufresny_jalouxhonteux *style_prose *genre_comedy *dist1_dufresny_prose_comedy_jalouxhonteux *dist2_dufresny_prose_comedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thibaut
+**** *creator_dufresny *book_dufresny_jalouxhonteux *style_prose *genre_comedy *dist1_dufresny_prose_comedy_jalouxhonteux *dist2_dufresny_prose_comedy *id_THIBAUT *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thibaut
 
 Monsieur !
 
@@ -1166,7 +1166,7 @@ Vous êtes bien insolent, vous !
 C'est ste coquine-là qui est cause que je serai querellé ; j'entage.
 
 
-**** *creator_dufresny *book_dufresny_jalouxhonteux *style_prose *genre_comedy *dist1_dufresny_prose_comedy_jalouxhonteux *dist2_dufresny_prose_comedy *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hortence
+**** *creator_dufresny *book_dufresny_jalouxhonteux *style_prose *genre_comedy *dist1_dufresny_prose_comedy_jalouxhonteux *dist2_dufresny_prose_comedy *id_HORTENCE *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hortence
 
 Je ne suis pas une importune ; c'est que je vous viens dire qu'il y a là-bas un Monsieur, qui dit qu'il s'appelle Monsieur Damis.
 
@@ -1300,7 +1300,7 @@ Arrêtez à st'heure, car le voilà qui vient.
 Ah ! Le méchant.
 
 
-**** *creator_dufresny *book_dufresny_jalouxhonteux *style_prose *genre_comedy *dist1_dufresny_prose_comedy_jalouxhonteux *dist2_dufresny_prose_comedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+**** *creator_dufresny *book_dufresny_jalouxhonteux *style_prose *genre_comedy *dist1_dufresny_prose_comedy_jalouxhonteux *dist2_dufresny_prose_comedy *id_FRONTIN *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
 
 C'est comme s'il logeait à la Ville ; il n'y a qu'un quart de lieue de la Ville de Rennes, à ce Château-ci.
 

@@ -1,6 +1,6 @@
 
 
-**** *creator_lesage *book_lesage_arlequinmahomet *style_verse *genre_comedy *dist1_lesage_verse_comedy_arlequinmahomet *dist2_lesage_verse_comedy *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_lesage *book_lesage_arlequinmahomet *style_verse *genre_comedy *dist1_lesage_verse_comedy_arlequinmahomet *dist2_lesage_verse_comedy *id_ARLEQUIN *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Ô Sort ! Ô Devins ennemis !
 Dans quel état m'avez-vous mis :
@@ -160,7 +160,7 @@ Tu me serviras de Houri.
 Tarelire, talaleri, talalerire.
 
 
-**** *creator_lesage *book_lesage_arlequinmahomet *style_verse *genre_comedy *dist1_lesage_verse_comedy_arlequinmahomet *dist2_lesage_verse_comedy *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laprincesse
+**** *creator_lesage *book_lesage_arlequinmahomet *style_verse *genre_comedy *dist1_lesage_verse_comedy_arlequinmahomet *dist2_lesage_verse_comedy *id_LAPRINCESSE *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laprincesse
 
 Cependant, le Roi mon père
 Craint ce que l'on a prédit ;

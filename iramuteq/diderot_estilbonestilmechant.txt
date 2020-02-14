@@ -1,6 +1,6 @@
 
 
-**** *creator_diderot *book_diderot_estilbonestilmechant *style_prose *genre_comedy *dist1_diderot_prose_comedy_estilbonestilmechant *dist2_diderot_prose_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedechepy
+**** *creator_diderot *book_diderot_estilbonestilmechant *style_prose *genre_comedy *dist1_diderot_prose_comedy_estilbonestilmechant *dist2_diderot_prose_comedy *id_MADAMEDECHEPY *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedechepy
 
 Picard. Écoutez-moi. Je vous défends d'ici à huit jours d'aller chez votre femme.
 
@@ -194,7 +194,7 @@ Ce que le juge ordonne, et ce que votre coeur vous dit.
 Est-il bon ? Est-il méchant ?
 
 
-**** *creator_diderot *book_diderot_estilbonestilmechant *style_prose *genre_comedy *dist1_diderot_prose_comedy_estilbonestilmechant *dist2_diderot_prose_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedevertillac
+**** *creator_diderot *book_diderot_estilbonestilmechant *style_prose *genre_comedy *dist1_diderot_prose_comedy_estilbonestilmechant *dist2_diderot_prose_comedy *id_MADAMEDEVERTILLAC *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedevertillac
 
 À quoi vous serais-je bonne ?
 
@@ -415,7 +415,7 @@ Plus, plus de confiance en celui qui peut feindre avec tant de vérité. Quand j
 Comme vous, comme moi, comme tout le monde.
 
 
-**** *creator_diderot *book_diderot_estilbonestilmechant *style_prose *genre_comedy *dist1_diderot_prose_comedy_estilbonestilmechant *dist2_diderot_prose_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoiselledevertillac
+**** *creator_diderot *book_diderot_estilbonestilmechant *style_prose *genre_comedy *dist1_diderot_prose_comedy_estilbonestilmechant *dist2_diderot_prose_comedy *id_MADEMOISELLEDEVERTILLAC *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoiselledevertillac
 
 Ah ciel. Je suis prête à me trouver mal.
 
@@ -440,7 +440,7 @@ Rassurez-vous, maman. C'est une calomnie ; c'est une insigne calomnie.
 Non, maman.
 
 
-**** *creator_diderot *book_diderot_estilbonestilmechant *style_prose *genre_comedy *dist1_diderot_prose_comedy_estilbonestilmechant *dist2_diderot_prose_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamebertrand
+**** *creator_diderot *book_diderot_estilbonestilmechant *style_prose *genre_comedy *dist1_diderot_prose_comedy_estilbonestilmechant *dist2_diderot_prose_comedy *id_MADAMEBERTRAND *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamebertrand
 
 Permettez, monsieur que je m'asseye. Je suis excédée de fatigue ; j'ai fait aujourd'hui les quatre coins de Paris ; et j'ai vu, je crois, toute la terre.
 
@@ -613,7 +613,7 @@ Me voilà réhabilitée dans votre esprit ; mais le ministre ? Mais sa femme ?
 Et je n'ai point à rougir...
 
 
-**** *creator_diderot *book_diderot_estilbonestilmechant *style_prose *genre_comedy *dist1_diderot_prose_comedy_estilbonestilmechant *dist2_diderot_prose_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellebeaulieu
+**** *creator_diderot *book_diderot_estilbonestilmechant *style_prose *genre_comedy *dist1_diderot_prose_comedy_estilbonestilmechant *dist2_diderot_prose_comedy *id_MADEMOISELLEBEAULIEU *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellebeaulieu
 
 Non, Madame ; c'est dans quatre.
 
@@ -725,7 +725,7 @@ Ne voilà-t-il pas que vous me brouillez et que je ne sais plus où j'en suis.
 L'un après l'autre.
 
 
-**** *creator_diderot *book_diderot_estilbonestilmechant *style_prose *genre_comedy *dist1_diderot_prose_comedy_estilbonestilmechant *dist2_diderot_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurhardouin
+**** *creator_diderot *book_diderot_estilbonestilmechant *style_prose *genre_comedy *dist1_diderot_prose_comedy_estilbonestilmechant *dist2_diderot_prose_comedy *id_MONSIEURHARDOUIN *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurhardouin
 
 Si ma porte eût résisté, il était mort.
 
@@ -1393,7 +1393,7 @@ Et vous donnez dans cette confidence.
 C'est qu'elle ne s'est point faite.
 
 
-**** *creator_diderot *book_diderot_estilbonestilmechant *style_prose *genre_comedy *dist1_diderot_prose_comedy_estilbonestilmechant *dist2_diderot_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdesrenardeaux
+**** *creator_diderot *book_diderot_estilbonestilmechant *style_prose *genre_comedy *dist1_diderot_prose_comedy_estilbonestilmechant *dist2_diderot_prose_comedy *id_MONSIEURDESRENARDEAUX *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdesrenardeaux
 
 Je vous le pardonne ; car elle est, ma foi, charmante.
 
@@ -1561,7 +1561,7 @@ Tant pis pour elle.
 C'est sa mine hypocrite, qu'il fallait voir ; c'est son ton pathétique qu'il fallait entendre, lorsqu'il s'affligeait de la mort de sa soeur !
 
 
-**** *creator_diderot *book_diderot_estilbonestilmechant *style_prose *genre_comedy *dist1_diderot_prose_comedy_estilbonestilmechant *dist2_diderot_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdecrancey
+**** *creator_diderot *book_diderot_estilbonestilmechant *style_prose *genre_comedy *dist1_diderot_prose_comedy_estilbonestilmechant *dist2_diderot_prose_comedy *id_MONSIEURDECRANCEY *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdecrancey
 
 On a une peine à diable à pénétrer jusqu'à vous. C'est pis que chez un ministre ou son premier commis. Savez-vous qu'il y a deux heures que j'écume de rage dans cette antichambre. Avez-vous reçu ma lettre.
 
@@ -1679,7 +1679,7 @@ Cela ne me coûtera rien.
 Monsieur le juge, je ne me plains de rien.
 
 
-**** *creator_diderot *book_diderot_estilbonestilmechant *style_prose *genre_comedy *dist1_diderot_prose_comedy_estilbonestilmechant *dist2_diderot_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurpoultier
+**** *creator_diderot *book_diderot_estilbonestilmechant *style_prose *genre_comedy *dist1_diderot_prose_comedy_estilbonestilmechant *dist2_diderot_prose_comedy *id_MONSIEURPOULTIER *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurpoultier
 
 Vous êtes un indigne. Je ne devrais pas vous apercevoir. Y a-t-il deux ans que vous me promettez, de semaine en semaine, de venir dîner avec nous ? Il est vrai qu'on m'a dit que c'était par cette raison qu'il n'y fallait pas compter. Mais, rancune tenante, que me voulez-vous ?
 
@@ -1794,7 +1794,7 @@ Le scélérat ! L'insigne scélérat ! Je croyais m'amuser de lui, et c'est lui 
 Non, non, madame.... Mais je venais partager votre joie et je crains de l'avoir troublée.
 
 
-**** *creator_diderot *book_diderot_estilbonestilmechant *style_prose *genre_comedy *dist1_diderot_prose_comedy_estilbonestilmechant *dist2_diderot_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquisdetourvelle
+**** *creator_diderot *book_diderot_estilbonestilmechant *style_prose *genre_comedy *dist1_diderot_prose_comedy_estilbonestilmechant *dist2_diderot_prose_comedy *id_LEMARQUISDETOURVELLE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquisdetourvelle
 
 Les temps sont bien changés. Mon cher, j'ai été jeune comme vous, le tourbillon m'emportait comme vous, mais je m'en suis tiré ; j'ai connu la vanité de tous ces amusements ; vous la connaîtrez, et vous vous en tirerez comme moi. Madame de Malves y est-elle ?
 

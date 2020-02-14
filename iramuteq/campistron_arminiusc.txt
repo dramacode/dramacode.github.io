@@ -1,6 +1,6 @@
 
 
-**** *creator_campistron *book_campistron_arminiusc *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_arminiusc *dist2_campistron_verse_tragedy *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_varus
+**** *creator_campistron *book_campistron_arminiusc *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_arminiusc *dist2_campistron_verse_tragedy *id_VARUS *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_varus
 
       Vous vous troublez, Madame ;
 Je connais les raisons : on veut vous arracher
@@ -191,7 +191,7 @@ Faut-il...
 De ce jeune orgueilleux qui court à sa disgrâce.
 
 
-**** *creator_campistron *book_campistron_arminiusc *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_arminiusc *dist2_campistron_verse_tragedy *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_segeste
+**** *creator_campistron *book_campistron_arminiusc *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_arminiusc *dist2_campistron_verse_tragedy *id_SEGESTE *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_segeste
 
 Oui, Sunnon, je le veux? je l'attends de ton zèle,
 Parle, trace à mes yeux la peinture fidèle
@@ -628,7 +628,7 @@ Ma honte et ma douleur croissent à tous moments
 Laissez-moi dévorer le chagrin qui me tue.
 
 
-**** *creator_campistron *book_campistron_arminiusc *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_arminiusc *dist2_campistron_verse_tragedy *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arminius
+**** *creator_campistron *book_campistron_arminiusc *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_arminiusc *dist2_campistron_verse_tragedy *id_ARMINIUS *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arminius
 
 Madame, malgré vous, malgré votre défense,
 J'ose jusqu'en ces lieux chercher votre présence,
@@ -996,7 +996,7 @@ De mes libérateurs reconnaissons le zèle,
 Et consacrons à Rome une haine immortelle.
 
 
-**** *creator_campistron *book_campistron_arminiusc *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_arminiusc *dist2_campistron_verse_tragedy *date_1684 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_sigismond
+**** *creator_campistron *book_campistron_arminiusc *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_arminiusc *dist2_campistron_verse_tragedy *id_SIGISMOND *date_1684 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_sigismond
 
 Quel est votre dessein ? Venez-vous dans ces lieux,
 Madame, pour cacher vos plaintes à mes yeux ?
@@ -1124,7 +1124,7 @@ Hélas, Madame !
       Ah Seigneur quel dessein ? Quelle envie ?
 
 
-**** *creator_campistron *book_campistron_arminiusc *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_arminiusc *dist2_campistron_verse_tragedy *date_1684 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_ismenie
+**** *creator_campistron *book_campistron_arminiusc *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_arminiusc *dist2_campistron_verse_tragedy *id_ISMENIE *date_1684 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_ismenie
 
 De votre art, Seigneur, on est venu me dire
 Que vous aviez ici quelque ordre à me prescrire.
@@ -1447,7 +1447,7 @@ Arrêtez...
 Permettez...
 
 
-**** *creator_campistron *book_campistron_arminiusc *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_arminiusc *dist2_campistron_verse_tragedy *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_polixene
+**** *creator_campistron *book_campistron_arminiusc *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_arminiusc *dist2_campistron_verse_tragedy *id_POLIXENE *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_polixene
 
 Apprends-moi donc, Barsine, où l'on garde mon frère,
 Que j'aille lui prouver une amitié sincère.
@@ -1598,7 +1598,7 @@ Cher prince, notre sort est plus doux qu'il ne semble,
 Nous mourrons l'un pour l'autre, et nous mourrons ensemble.
 
 
-**** *creator_campistron *book_campistron_arminiusc *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_arminiusc *dist2_campistron_verse_tragedy *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_barsine
+**** *creator_campistron *book_campistron_arminiusc *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_arminiusc *dist2_campistron_verse_tragedy *id_BARSINE *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_barsine
 
       Quoi donc ?
 
@@ -1671,7 +1671,7 @@ Et que l'injuste sort secondant ses desseins,
 Se déclarait, Madame, en faveur des Romains.
 
 
-**** *creator_campistron *book_campistron_arminiusc *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_arminiusc *dist2_campistron_verse_tragedy *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tullus
+**** *creator_campistron *book_campistron_arminiusc *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_arminiusc *dist2_campistron_verse_tragedy *id_TULLUS *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tullus
 
       Seigneur, l'Empereur vous écrit,
 Des ordres de César instruisez-vous vous-même.
@@ -1724,7 +1724,7 @@ Et ce oup à jamais consacrant sa mémoire
 Dans la défaite même il se couvre de gloire.
 
 
-**** *creator_campistron *book_campistron_arminiusc *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_arminiusc *dist2_campistron_verse_tragedy *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sunnon
+**** *creator_campistron *book_campistron_arminiusc *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_arminiusc *dist2_campistron_verse_tragedy *id_SUNNON *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sunnon
 
 Seigneur...
 
@@ -1817,7 +1817,7 @@ Mille périls divers s'offrir à mes regards,
 La fuite de ce camp paraît si difficile...
 
 
-**** *creator_campistron *book_campistron_arminiusc *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_arminiusc *dist2_campistron_verse_tragedy *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sinorix
+**** *creator_campistron *book_campistron_arminiusc *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_arminiusc *dist2_campistron_verse_tragedy *id_SINORIX *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sinorix
 
       Apprenez une heureuse nouvelle,
 Madame, Arminius va paraître à vos yeux,

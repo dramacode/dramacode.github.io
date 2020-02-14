@@ -1,6 +1,6 @@
 
 
-**** *creator_boissy *book_boissy_frivolite *style_verse *genre_comedy *dist1_boissy_verse_comedy_frivolite *dist2_boissy_verse_comedy *date_1753 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lafrivolite
+**** *creator_boissy *book_boissy_frivolite *style_verse *genre_comedy *dist1_boissy_verse_comedy_frivolite *dist2_boissy_verse_comedy *id_LAFRIVOLITE *date_1753 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lafrivolite
 
 C'est vous, mon bel Hiver ! Votre retour m'enchante :
 Vous voilà mis d'un goût divin.
@@ -303,7 +303,7 @@ Que la Vielle, Instrument de ma gloire,
 La flûte, le Basson célèbrent ma victoire.
 
 
-**** *creator_boissy *book_boissy_frivolite *style_verse *genre_comedy *dist1_boissy_verse_comedy_frivolite *dist2_boissy_verse_comedy *date_1753 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lhiver
+**** *creator_boissy *book_boissy_frivolite *style_verse *genre_comedy *dist1_boissy_verse_comedy_frivolite *dist2_boissy_verse_comedy *id_LHIVER *date_1753 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lhiver
 
 En Hiver de Paris, qui te pare à dessein,
 Pour vous faire sa cour, Frivolité charmante.
@@ -351,7 +351,7 @@ Et je reviens après signaler mon retour,
 Par un bal singulier, dont vous serez la Reine,
 
 
-**** *creator_boissy *book_boissy_frivolite *style_verse *genre_comedy *dist1_boissy_verse_comedy_frivolite *dist2_boissy_verse_comedy *date_1753 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurfauster
+**** *creator_boissy *book_boissy_frivolite *style_verse *genre_comedy *dist1_boissy_verse_comedy_frivolite *dist2_boissy_verse_comedy *id_MONSIEURFAUSTER *date_1753 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurfauster
 
 Je donne le bonjour à tous vos agréments.
 Madame, vous voyez un Socrate moderne,
@@ -615,7 +615,7 @@ Le beau sexe surtout est son grand partisan.
 Je vous félicite. Adieu. Bonjour, bon an.
 
 
-**** *creator_boissy *book_boissy_frivolite *style_verse *genre_comedy *dist1_boissy_verse_comedy_frivolite *dist2_boissy_verse_comedy *date_1753 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_missblar
+**** *creator_boissy *book_boissy_frivolite *style_verse *genre_comedy *dist1_boissy_verse_comedy_frivolite *dist2_boissy_verse_comedy *id_MISSBLAR *date_1753 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_missblar
 
 Vous faites aujourd'hui les honneurs de la France,
 Recevez donc ma révérence.
@@ -849,7 +849,7 @@ Comme on outre le jeu, l'on charge la Musique,
 Et tout Paris n'est plus qu'un Opéra Comique.
 
 
-**** *creator_boissy *book_boissy_frivolite *style_verse *genre_comedy *dist1_boissy_verse_comedy_frivolite *dist2_boissy_verse_comedy *date_1753 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+**** *creator_boissy *book_boissy_frivolite *style_verse *genre_comedy *dist1_boissy_verse_comedy_frivolite *dist2_boissy_verse_comedy *id_LEMARQUIS *date_1753 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
 
 Je viens verser ma joie en votre sein ;
 Madame, elle est immense, et rien ne peut la rendre :
@@ -961,7 +961,7 @@ Madame, et des ballets tudesques.
 Nous y parodions chacun un instrument.
 
 
-**** *creator_boissy *book_boissy_frivolite *style_verse *genre_comedy *dist1_boissy_verse_comedy_frivolite *dist2_boissy_verse_comedy *date_1753 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_boissy *book_boissy_frivolite *style_verse *genre_comedy *dist1_boissy_verse_comedy_frivolite *dist2_boissy_verse_comedy *id_ARLEQUIN *date_1753 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Ouf ! Madame, pardon. Souffrez que je respire.
 Je n'en puis plus, je viens d'être le spectateur

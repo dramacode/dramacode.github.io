@@ -1,6 +1,6 @@
 
 
-**** *creator_boissy *book_boissy_apologiedusiecle *style_verse *genre_comedy *dist1_boissy_verse_comedy_apologiedusiecle *dist2_boissy_verse_comedy *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
+**** *creator_boissy *book_boissy_apologiedusiecle *style_verse *genre_comedy *dist1_boissy_verse_comedy_apologiedusiecle *dist2_boissy_verse_comedy *id_MOMUS *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
 
 Ce changement vous notifie,
 Qu'à fronder désormais je ne suis plus enclin.
@@ -282,7 +282,7 @@ Soutenant jusqu'au bout mon heureux changement,
 J'applaudis, sans le voir, le Divertissement.
 
 
-**** *creator_boissy *book_boissy_apologiedusiecle *style_verse *genre_comedy *dist1_boissy_verse_comedy_apologiedusiecle *dist2_boissy_verse_comedy *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philinte
+**** *creator_boissy *book_boissy_apologiedusiecle *style_verse *genre_comedy *dist1_boissy_verse_comedy_apologiedusiecle *dist2_boissy_verse_comedy *id_PHILINTE *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philinte
 
 Seigneur, je viens pour vous prier
 De me venger.
@@ -428,7 +428,7 @@ Et faire aimer la probité
 Sous les traits de la politesse.
 
 
-**** *creator_boissy *book_boissy_apologiedusiecle *style_verse *genre_comedy *dist1_boissy_verse_comedy_apologiedusiecle *dist2_boissy_verse_comedy *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lindifferent
+**** *creator_boissy *book_boissy_apologiedusiecle *style_verse *genre_comedy *dist1_boissy_verse_comedy_apologiedusiecle *dist2_boissy_verse_comedy *id_LINDIFFERENT *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lindifferent
 
 Je viens d'entendre vos discours,
 Seigneur Momus, qu'ils m'ont fait rire !
@@ -524,7 +524,7 @@ Et je m'en tiens à ce dernier parti,
 Sans vous en dire davantage.
 
 
-**** *creator_boissy *book_boissy_apologiedusiecle *style_verse *genre_comedy *dist1_boissy_verse_comedy_apologiedusiecle *dist2_boissy_verse_comedy *date_1734 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_terpsicore
+**** *creator_boissy *book_boissy_apologiedusiecle *style_verse *genre_comedy *dist1_boissy_verse_comedy_apologiedusiecle *dist2_boissy_verse_comedy *id_TERPSICORE *date_1734 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_terpsicore
 
 Seigneur, la Muse de la Danse
 Vous fait son humble révérence.

@@ -1,6 +1,6 @@
 
 
-**** *creator_viau *book_viau_pyrame *style_verse *genre_tragedy *dist1_viau_verse_tragedy_pyrame *dist2_viau_verse_tragedy *date_1621 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thisbe
+**** *creator_viau *book_viau_pyrame *style_verse *genre_tragedy *dist1_viau_verse_tragedy_pyrame *dist2_viau_verse_tragedy *id_THISBE *date_1621 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thisbe
 
 Du bruit et des fâcheux aujourd'hui séparée,
 Ma seule fantaisie avec moi retirée,
@@ -325,7 +325,7 @@ Je ne pouvais mourir d'un coup plus gracieux,
 Ni pour un autre objet haïr celui des Cieux.
 
 
-**** *creator_viau *book_viau_pyrame *style_verse *genre_tragedy *dist1_viau_verse_tragedy_pyrame *dist2_viau_verse_tragedy *date_1621 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pyrame
+**** *creator_viau *book_viau_pyrame *style_verse *genre_tragedy *dist1_viau_verse_tragedy_pyrame *dist2_viau_verse_tragedy *id_PYRAME *date_1621 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pyrame
 
 Je sais bien, cher ami, que ton sage dessein
 Est de m'ôter la flamme et la mort hors du sein,
@@ -779,7 +779,7 @@ Encore un coup, Thisbé, par la dernière plaie,
 Regarde là-dedans si ma douleur est vraie.
 
 
-**** *creator_viau *book_viau_pyrame *style_verse *genre_tragedy *dist1_viau_verse_tragedy_pyrame *dist2_viau_verse_tragedy *date_1621 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_bersiane
+**** *creator_viau *book_viau_pyrame *style_verse *genre_tragedy *dist1_viau_verse_tragedy_pyrame *dist2_viau_verse_tragedy *id_BERSIANE *date_1621 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_bersiane
 
 Comment vous être ainsi de nous tous éloignée !
 Osez-vous bien aller sans être accompagnée ?
@@ -817,7 +817,7 @@ J'espère en peu de jours que nous viendrons à bout
 De cette confidence, et que nous saurons tout.
 
 
-**** *creator_viau *book_viau_pyrame *style_verse *genre_tragedy *dist1_viau_verse_tragedy_pyrame *dist2_viau_verse_tragedy *date_1621 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_narbal
+**** *creator_viau *book_viau_pyrame *style_verse *genre_tragedy *dist1_viau_verse_tragedy_pyrame *dist2_viau_verse_tragedy *id_NARBAL *date_1621 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_narbal
 
 Malgré moi persister en ce funeste amour !
 Après les droits du Ciel l'ingrat me doit le jour.
@@ -864,7 +864,7 @@ Mon pouvoir absolu rompra cette entreprise
 Et mon autorité lui fera lâcher prise.
 
 
-**** *creator_viau *book_viau_pyrame *style_verse *genre_tragedy *dist1_viau_verse_tragedy_pyrame *dist2_viau_verse_tragedy *date_1621 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lidias
+**** *creator_viau *book_viau_pyrame *style_verse *genre_tragedy *dist1_viau_verse_tragedy_pyrame *dist2_viau_verse_tragedy *id_LIDIAS *date_1621 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lidias
 
 Vous en avez depuis perdu le souvenir,
 Mais si les mêmes ans pouvaient vous revenir,
@@ -914,7 +914,7 @@ Tous nos efforts ne sont que d'un pouvoir humain ;
 Qui tend à l'impossible il se travaille en vain.
 
 
-**** *creator_viau *book_viau_pyrame *style_verse *genre_tragedy *dist1_viau_verse_tragedy_pyrame *dist2_viau_verse_tragedy *date_1621 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
+**** *creator_viau *book_viau_pyrame *style_verse *genre_tragedy *dist1_viau_verse_tragedy_pyrame *dist2_viau_verse_tragedy *id_LEROI *date_1621 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
 
 C'est trop faire de voeux, c'est trop verser de larmes,
 Il faut avoir recours à des meilleures armes ;
@@ -1043,7 +1043,7 @@ Controuve quelque crime afin de l'accuser :
 En mon nom tu pourras tout dire et tout oser.
 
 
-**** *creator_viau *book_viau_pyrame *style_verse *genre_tragedy *dist1_viau_verse_tragedy_pyrame *dist2_viau_verse_tragedy *date_1621 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_syllar
+**** *creator_viau *book_viau_pyrame *style_verse *genre_tragedy *dist1_viau_verse_tragedy_pyrame *dist2_viau_verse_tragedy *id_SYLLAR *date_1621 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_syllar
 
       Son semblable lui plaît.
 
@@ -1179,7 +1179,7 @@ Que tout leur fasse joug. En ce cruel désir
 S'il se servait d'un autre il me ferait plaisir.
 
 
-**** *creator_viau *book_viau_pyrame *style_verse *genre_tragedy *dist1_viau_verse_tragedy_pyrame *dist2_viau_verse_tragedy *date_1621 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_disarque
+**** *creator_viau *book_viau_pyrame *style_verse *genre_tragedy *dist1_viau_verse_tragedy_pyrame *dist2_viau_verse_tragedy *id_DISARQUE *date_1621 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_disarque
 
       Mon Dieu, quelle furie !
 
@@ -1216,7 +1216,7 @@ Vous êtes épiés, et de loin et de près,
 Par des yeux vigilants qu'on y commet exprès.
 
 
-**** *creator_viau *book_viau_pyrame *style_verse *genre_tragedy *dist1_viau_verse_tragedy_pyrame *dist2_viau_verse_tragedy *date_1621 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_deuxis
+**** *creator_viau *book_viau_pyrame *style_verse *genre_tragedy *dist1_viau_verse_tragedy_pyrame *dist2_viau_verse_tragedy *id_DEUXIS *date_1621 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_deuxis
 
 Syllar, je suis troublé d'un funeste présage,
 Un glaçon de frayeur m'étreint tout le courage,
@@ -1322,7 +1322,7 @@ Voyez de vous conduire en cela sagement ;
 Maintenant je trépasse avec allégement.
 
 
-**** *creator_viau *book_viau_pyrame *style_verse *genre_tragedy *dist1_viau_verse_tragedy_pyrame *dist2_viau_verse_tragedy *date_1621 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laconfidente
+**** *creator_viau *book_viau_pyrame *style_verse *genre_tragedy *dist1_viau_verse_tragedy_pyrame *dist2_viau_verse_tragedy *id_LACONFIDENTE *date_1621 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laconfidente
 
       Ce n'est qu'illusion.
 

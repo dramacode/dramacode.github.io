@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philis
+**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_PHILIS *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philis
 
 Sensible aux maux de l'univers,
 Il ne jetait sur lui ses regards qu'avec peine,
@@ -36,7 +36,7 @@ Chacun déserte Paris
 Pour venir rire à Suresnes.
 
 
-**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thersandre
+**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_THERSANDRE *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thersandre
 
 Depuis que les Dieux sur la terre
 Ont éteint le feu de la guerre,
@@ -71,7 +71,7 @@ Invite à quitter Paris
 Pour venir rire à Suresnes.
 
 
-**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bacchus
+**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_BACCHUS *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bacchus
 
 Quoi donc la Folie sans l'Amour.
 
@@ -187,7 +187,7 @@ Morbleu, quittez tous Paris,
 Venez habiter Suresnes.
 
 
-**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
+**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_LAMOUR *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
 
 Mais où m'emmenez-vous, s'il vous plaît ? Madame la Folie ?
 
@@ -262,7 +262,7 @@ Aucun fâcheux n'est admis
 Dans les plaisirs de Suresnes.
 
 
-**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_silene
+**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_SILENE *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_silene
 
 Ne vous emportez point, mon ami, un peu de douceur et de tranquillité, il n'y aura point de désordre, je vous en réponds. Moi, je suis le père de Silène. Bacchus m'a donné ordre de faire garder la porte pour éviter les inconvénients ; la pratique donne bien, comme vous voyez, la maison ne désemplit point, on se bat pour entrer.
 
@@ -289,7 +289,7 @@ Surtout quand la Folie s'en mêle.
 Il n'y a point d'appel, mon bon ami, ce sont des Arrêts de guinguette, qui s'exécutent toujours par provision.
 
 
-**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_foret
+**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_FORET *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_foret
 
 Puissant Dieu des buveurs, pouvais-je mieux marquer mon respect pour vous et pour votre divine liqueur, qu'en la conservant chèrement comme j'ai fait.
 
@@ -401,7 +401,7 @@ Et nous font quitter Paris
 Pour venir boire à Suresnes.
 
 
-**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_CLITANDRE *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
 
 Que vient-on de m'apprendre, ma chère Nérine ?
 
@@ -428,7 +428,7 @@ Les Dieux se mêlent de nos affaires, en pouvons-nous craindre l'événement ?
 Cela est inutile, c'est une chose réglée dans le conseil que l'on vient de tenir à table.
 
 
-**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_ERASTE *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
 
 Savez-vous bien, ma chère Lucile, que vous me mettez au désespoir ?
 
@@ -475,7 +475,7 @@ Pour posséder la charmante Lucile.
 Nous vous le promettons.
 
 
-**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_kerpinot
+**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_KERPINOT *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_kerpinot
 
 Holà, ho, quelqu'un, du vin, de la glace, et de l'eau cordiale !
 
@@ -520,7 +520,7 @@ Non, comme j'ai commencé la semaine
 Avec Bacchus je la finis.
 
 
-**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_LECHEVALIER *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
 
 Hé, comment donc, la première ici ? Oh pour le coup, je suis un fat, belle personne, et vous n'êtes pas faite pour attendre.
 
@@ -549,7 +549,7 @@ Cadédis, oui, je vous en réponds.
 Volontiers, je suis sans façons, et ne refuse ni partie d'amour, ni partie de table, ce sont mes centres.
 
 
-**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lafolie
+**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_LAFOLIE *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lafolie
 
 Est-ce pour vous une nouveauté, Seigneur Bacchus ? Il est bien vrai que l'Amour ne va jamais sans la Folie ; mais je vais souvent sans l'Amour.
 
@@ -745,7 +745,7 @@ Si nous avons à Paris
 Même foule qu'à Suresnes.
 
 
-**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laveuve
+**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_LAVEUVE *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laveuve
 
 C'est ici le lieu du rendez-vous, et le Chevalier n'y est point encore.
 
@@ -786,7 +786,7 @@ Mais les aînés chez vous n'ont-ils pas tout le bien ?
 Allons, mon cher Chevalier, je me trouve bien partout où vous êtes.
 
 
-**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
+**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_NERINE *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
 
 Qu'est-ce que c'est, mes enfants, qu'y a-t-il de nouveau ? Vous voilà dans les réflexions dans les grandes phrases, poussez-vous les beaux sentiments ?
 
@@ -843,7 +843,7 @@ Ni mon oncle de grâce.
 Ne suffit-il pas de celui de Bacchus et de l'Amour ?
 
 
-**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamepinterelle
+**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_MADAMEPINTERELLE *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamepinterelle
 
 Holà donc, doucement, tenez-vous, petit badin, ces sortes d'empressements-là sont trop marqués, un peu de modestie.
 
@@ -862,7 +862,7 @@ Je défère beaucoup à vos conseils.
 L'Amour et le Dieu du vin, voilà bonne compagnie.
 
 
-**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucile
+**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_LUCILE *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucile
 
 Je plains fort l'état où vous êtes. Ma situation n'est pas meilleure.
 
@@ -924,7 +924,7 @@ Et sort exprès de Paris
 Pour venir rire à Suresnes.
 
 
-**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_claudine
+**** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_CLAUDINE *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_claudine
 
 Hé vite, Monsieu, dépêchez-vous.
 

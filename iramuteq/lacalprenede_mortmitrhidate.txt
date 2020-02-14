@@ -1,6 +1,6 @@
 
 
-**** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pompee
+**** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *id_POMPEE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pompee
 
 Puisque vos repentirs ont fait mourir sa haine,
 Que vous êtes certain de l'amitié Romaine,
@@ -108,7 +108,7 @@ Surtout souvenez-vous en cette affaire ici,
 Que Rome fait les Rois, et les défait aussi.
 
 
-**** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pharnace
+**** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *id_PHARNACE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pharnace
 
 Je ne me flatte point d'une louange vaine,
 Que la seule vertu soit cause de ma haine,
@@ -597,7 +597,7 @@ Pompée à son départ vous a-il ordonné,
 De me traiter en serf, lui qui m'a couronné ?
 
 
-**** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mithridate
+**** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *id_MITHRIDATE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mithridate
 
 Toi qui dans mes combats compagne inséparable,
 M'accompagnes aussi dans mon sort déplorable,
@@ -1206,7 +1206,7 @@ Conserve dans ma mort ma dignité première,
 Mais je perds la parole en perdant la lumière.
 
 
-**** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_menandre
+**** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *id_MENANDRE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_menandre
 
 Vous avez à vos murs la puissance Romaine :
 Mille étendards volants font ombrage à la plaine.
@@ -1249,7 +1249,7 @@ Par le poison vos soeurs, la Reine et votre femme :
 Et le Roi par le fer.
 
 
-**** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_emile
+**** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *id_EMILE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_emile
 
 Et quoi vous n'êtes donc résolu qu'à demi.
 
@@ -1326,7 +1326,7 @@ Mais délivrons ses yeux de l'horreur de ces morts,
 Et pour les inhumer qu'on enlève ces corps.
 
 
-**** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hypsicratee
+**** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *id_HYPSICRATEE *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hypsicratee
 
       S'il est permis à ma fidélité
 D'accuser vos transports d'un peu de lâcheté,
@@ -1542,7 +1542,7 @@ Mes yeux sont obscurcis, à peine je te vois,
 Par ce dernier baiser prends un congé de moi.
 
 
-**** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_berenice
+**** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *id_BERENICE *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_berenice
 
 Si je ne suis coupable ainsi que mon époux,
 Et si je puis encor embrasser vos genoux,
@@ -1798,7 +1798,7 @@ S'il m'est encor permis de toucher votre main,
 Je mourrai satisfaite.
 
 
-**** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mithridatie
+**** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *id_MITHRIDATIE *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mithridatie
 
 Allez où la fureur aveuglement vous porte :
 Je ne vous verrai plus, mon espérance est morte :
@@ -1908,7 +1908,7 @@ Ouvre encore tes yeux, vois ta soeur qui te suit,
 Et qui perd la clarté du soleil qui la fuit.
 
 
-**** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nise
+**** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *id_NISE *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nise
 
 Ô par dessus le sexe heureuse Hypsicratée ;
 Ayant reçu du Ciel une force indomptée,

@@ -1,6 +1,6 @@
 
 
-**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brute
+**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *id_brute *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brute
 
 Pourquoy mal à propos, image triste, et noire,
 Troubles tu sans respect mon repos, et ma gloire ?
@@ -412,7 +412,7 @@ Nos efforts seront vains, mais nostre désespoir
 Ne doit pas attenter⁎ dessus nostre devoir.
 
 
-**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maxime
+**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *id_maxime *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maxime
 
       Seigneur,
 
@@ -596,7 +596,7 @@ Goûter avec loisir, le plaisir de la mort.
 Voilà, voilà Seigneur, le sujet de sa fuite.
 
 
-**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cassie
+**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *id_cassie *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cassie
 
 Brute je suis Romain, cognoissez mieux Cassie:
 Je crains pour nostre Rome, et non pas pour ma vie.
@@ -802,7 +802,7 @@ Et Rome veut qu'enfin par un coup digne d'elle,
 J'aprene aux vrais Romains à faire leur devoir.
 
 
-**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_porcie
+**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *id_porcie *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_porcie
 
 Quoy !Vous me renvoyez ; Brute bannit sa femme :
 Et ce cruel divorce est l'effet de sa flâme !
@@ -1439,7 +1439,7 @@ Par des sanglants efforts vange la liberté.
 Accepte et crains toujours ce présage funeste
 
 
-**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *id_julie *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
 
 Vous vous emportez trop à d'inutiles plaintes :
 Nous-mesme, non les Dieux, faisons toutes nos craintes.
@@ -1510,7 +1510,7 @@ Semble prendre plaisir à se tromper soy-mème.
 Je l'aperçoy, Madame.
 
 
-**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philipe
+**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *id_philipe *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philipe
 
 Non, Seigneur, je l'ay veu tomber en ma présence
 Par sa propre valeur, et par sa résistance ;
@@ -1605,7 +1605,7 @@ Il meurt, et si j'ay deu malgré moy le survivre,
 Il vous quitte, Madame, et je parts pour le suivre.
 
 
-**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octave
+**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *id_octave *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octave
 
 Hé ! Bien qu'est devenu ce lasche parricide,
 Que tant de trahisons ont rendu si timide ?
@@ -1696,7 +1696,7 @@ Qu'on délivre Maxime, et que sa délivrance
 Après tant de rigueur signale ma clémence.
 
 
-**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+**** *creator_boyer *book_boyer_porcieromaine *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porcieromaine *dist2_boyer_verse_tragedy *id_valere *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
 
 Seigneur, il est perdu, sa fuite est inutile.
 Aprés l'avoir réduit dans cet apartement,

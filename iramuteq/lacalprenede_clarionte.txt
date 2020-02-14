@@ -1,6 +1,6 @@
 
 
-**** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clarionte
+**** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *id_CLARIONTE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clarionte
 
 Que j'attire des Dieux la colère équitable,
 Et que leur main punisse une tête coupable,
@@ -563,7 +563,7 @@ Puis nous nous remettrons à la merci des eaux,
 Et vous et votre soeur viendrez dans nos vaisseaux.
 
 
-**** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fidamant
+**** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *id_FIDAMANT *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fidamant
 
 Le Cerf trouve en ce fort son asile assuré :
 Mais en le poursuivant, je me suis égaré.
@@ -999,7 +999,7 @@ J'en suis si glorieux que je me méconnais,
 Déjà puisqu'il vous plaît je lui donne ma foi.
 
 
-**** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
+**** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *id_LEROI *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
 
 Ces pleurs sur mon esprit n'ont plus assez de charmes.
 Enfin un tel discours ne se peut pardonner,
@@ -1255,7 +1255,7 @@ Que la cruelle loi pour jamais s'abolisse,
 Et que l'on fasse aux Dieux un autre Sacrifice.
 
 
-**** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosimene
+**** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *id_ROSIMENE *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosimene
 
 Ne me reproche point chère âme de mon âme,
 Qu'un déluge de pleurs a démenti ma flamme,
@@ -1835,7 +1835,7 @@ Et de votre rapport.
 Je vous retirerai l'un et l'autre de doute.
 
 
-**** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melie
+**** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *id_MELIE *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melie
 
       Que faut-il que j'excuse,
 Ou que dois-je espérer d'un ingrat qui m'abuse,
@@ -2107,7 +2107,7 @@ Et pour moi je l'accepte avec autant d'honneur
 Que son affection me comble de bonheur.
 
 
-**** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_calliante
+**** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *id_CALLIANTE *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_calliante
 
 Où courez-vous ainsi d'un pas précipité,
 Toujours à mon abord quelque affaire vous presse,
@@ -2220,7 +2220,7 @@ Moi-même je rougis d'être de même sang.
 Ô Ciel vit-on jamais un rencontre pareil.
 
 
-**** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_flamidore
+**** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *id_FLAMIDORE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_flamidore
 
 Vois que ce peuple vil ne s'est pas défendu,
 Ses crimes font horreur, il faut que tout périsse,
@@ -2285,7 +2285,7 @@ N'en parlons plus de grâce et recevez un frère,
 Qui vient jusqu'à la mort vous servit et vous plaire.
 
 
-**** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesacrificateur
+**** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *id_LESACRIFICATEUR *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesacrificateur
 
 Vous y serez, servi comme vous souhaitez,
 Et le Ciel qui connaît vos bonnes volontés,
@@ -2371,7 +2371,7 @@ Promet à ce pays un éternel repos :
 Voyez-en le succès, ce sont ses propres mots.
 
 
-**** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_soldat
+**** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *id_SOLDAT *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_soldat
 
 Si le Ciel n'y pourvoit notre perte est prochaine,
 Seigneur à la faveur d'une si sombre nuit,

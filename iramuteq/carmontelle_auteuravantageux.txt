@@ -1,6 +1,6 @@
 
 
-**** *creator_carmontelle *book_carmontelle_auteuravantageux *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_auteuravantageux *dist2_carmontelle_prose_proverbe *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_labbe
+**** *creator_carmontelle *book_carmontelle_auteuravantageux *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_auteuravantageux *dist2_carmontelle_prose_proverbe *id_LABBE *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_labbe
 
 Il est vrai, et j'en suis pour le moins aussi fâché que vous ; mais j'ai eu beaucoup d'affaires.
 
@@ -59,7 +59,7 @@ Hé, Messieurs, qu'est-ce que je vous ai fait ?
 C'est un persiflage que tout cela. Adieu.
 
 
-**** *creator_carmontelle *book_carmontelle_auteuravantageux *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_auteuravantageux *dist2_carmontelle_prose_proverbe *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+**** *creator_carmontelle *book_carmontelle_auteuravantageux *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_auteuravantageux *dist2_carmontelle_prose_proverbe *id_LECHEVALIER *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
 
 Ah, l'Abbé, je suis enchanté de vous rencontrer ; il y a mille ans que nous ne nous sommes vus nulle-part.
 
@@ -143,7 +143,7 @@ Il voulait corriger nos meilleures tragédies.
 Adieu, adieu, l'Abbé : vous entendrez parler de moi.
 
 
-**** *creator_carmontelle *book_carmontelle_auteuravantageux *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_auteuravantageux *dist2_carmontelle_prose_proverbe *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomedien
+**** *creator_carmontelle *book_carmontelle_auteuravantageux *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_auteuravantageux *dist2_carmontelle_prose_proverbe *id_LECOMEDIEN *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomedien
 
 Monsieur le Chevalier, je vous demande bien pardon, je revois...
 

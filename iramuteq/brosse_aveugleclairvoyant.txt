@@ -1,6 +1,6 @@
 
 
-**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *date_1650 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_cleanthe
+**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *id_cleanthe *date_1650 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_cleanthe
 
 Quoy contre mon vouloir & contre ma defense
 Admettre en ma maison, Thelame en mon absence ?
@@ -724,7 +724,7 @@ Vostre suivante a pris mon valet par les yeux,
 Madame consentez à ce beau mariage.
 
 
-**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *date_1650 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_olimpe
+**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *id_olimpe *date_1650 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_olimpe
 
 Non, apprends d'un recit veritable & succinct
 La nature du mal dont mon cœur est atteint,
@@ -1052,7 +1052,7 @@ Dittes-nous quel remede a pû vous en guerir.
 J'y consens.
 
 
-**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lidamas
+**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *id_lidamas *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lidamas
 
 Mon pere est arrivé Madame, & sa paupiere
 Ne void plus les beautez qu'enfante la lumiere,
@@ -1343,7 +1343,7 @@ Qui vous obligera d'avouer en l'oyant,
 Que nous avons joüé⁎, l'Aveugle Clair-voyant.
 
 
-**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melice
+**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *id_melice *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melice
 
 Ceux qui de ce rapport⁎ m'ont vers vous desservie,
 Sont portez contre moy de depit ou d'envie,
@@ -1588,7 +1588,7 @@ Le fils de Parménon est arrivé, Monsieur,
 Et le voicy qui vient vous offrir son service.
 
 
-**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thelame
+**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *id_thelame *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thelame
 
 Mon espoir me trahit, & ma raison s'égare
 D'esperer de flechir ce naturel avare,
@@ -1660,7 +1660,7 @@ Je ne puis recevoir plus d'honneur en ma vie.
 Que puissions-nous mourir, si nous le declarons.
 
 
-**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *date_1650 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_nerine
+**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *id_nerine *date_1650 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_nerine
 
 Quoy ma discretion vous est-elle suspecte ?
 Ignorez-vous encor combien je vous respecte ?
@@ -1758,7 +1758,7 @@ Mais j'apperçoy quelqu'un qui pourroit écouter,
 Venez ailleurs qu'icy l'entendre raconter.
 
 
-**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *date_1650 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lucille
+**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *id_lucille *date_1650 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lucille
 
 Ouy je l'ay rencontré cet Amant deplorable⁎
 Maudissant les rigueurs d'un pere inexorable,
@@ -1823,7 +1823,7 @@ Comme je l'ay preveu l'affaire a reüssi,
 Mes yeux se sont trompez, ou c'est lui que voici.
 
 
-**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *date_1650 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_sylvestre
+**** *creator_brosse *book_brosse_aveugleclairvoyant *style_verse *genre_comedy *dist1_brosse_verse_comedy_aveugleclairvoyant *dist2_brosse_verse_comedy *id_sylvestre *date_1650 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_sylvestre
 
 Quand je vous obeïs, je suis dedans mon centre,
 Si je ments d'un seul mot battez-moy dos & ventre,

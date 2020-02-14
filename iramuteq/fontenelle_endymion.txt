@@ -1,6 +1,6 @@
 
 
-**** *creator_fontenelle *book_fontenelle_endymion *style_verse *genre_pastorale heroique *dist1_fontenelle_verse_pastorale heroique_endymion *dist2_fontenelle_verse_pastorale heroique *date_1731 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_diane
+**** *creator_fontenelle *book_fontenelle_endymion *style_verse *genre_pastorale heroique *dist1_fontenelle_verse_pastorale heroique_endymion *dist2_fontenelle_verse_pastorale heroique *id_DIANE *date_1731 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_diane
 
 Laissons à cet Amant une audace si vaine,
 Elle aura le succès qu'elle peut mériter.
@@ -257,7 +257,7 @@ Bannit d'une âme
 Le souvenir de ses tourments.
 
 
-**** *creator_fontenelle *book_fontenelle_endymion *style_verse *genre_pastorale heroique *dist1_fontenelle_verse_pastorale heroique_endymion *dist2_fontenelle_verse_pastorale heroique *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pan
+**** *creator_fontenelle *book_fontenelle_endymion *style_verse *genre_pastorale heroique *dist1_fontenelle_verse_pastorale heroique_endymion *dist2_fontenelle_verse_pastorale heroique *id_PAN *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pan
 
 La froideur et l'indifférence
 Ne sont qu'une fausse apparence
@@ -329,7 +329,7 @@ D'un coeur qui se livre à la rage.
 J'approuve tes conseils, j'éteins d'indignes feux.
 
 
-**** *creator_fontenelle *book_fontenelle_endymion *style_verse *genre_pastorale heroique *dist1_fontenelle_verse_pastorale heroique_endymion *dist2_fontenelle_verse_pastorale heroique *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_endymion
+**** *creator_fontenelle *book_fontenelle_endymion *style_verse *genre_pastorale heroique *dist1_fontenelle_verse_pastorale heroique_endymion *dist2_fontenelle_verse_pastorale heroique *id_ENDYMION *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_endymion
 
 Quel jour, quel heureux jour, je vais voir célébrer !
 Nos Bergers pour Diane ont secondé mon zèle ;
@@ -510,7 +510,7 @@ Sans vous, j'étais insensible ;
 Sans vous, je n'eusse point aimé.
 
 
-**** *creator_fontenelle *book_fontenelle_endymion *style_verse *genre_pastorale heroique *dist1_fontenelle_verse_pastorale heroique_endymion *dist2_fontenelle_verse_pastorale heroique *date_1731 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismene
+**** *creator_fontenelle *book_fontenelle_endymion *style_verse *genre_pastorale heroique *dist1_fontenelle_verse_pastorale heroique_endymion *dist2_fontenelle_verse_pastorale heroique *id_ISMENE *date_1731 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismene
 
 Déesse, à vos genoux qu'avec respect j'embrasse,
 Puis-je espérer obtenir une grâce ?
@@ -565,7 +565,7 @@ A suivre d'autres lois si l'amour me convie,
 L'Amour sans votre aveu ne peut plus rien sur moi.
 
 
-**** *creator_fontenelle *book_fontenelle_endymion *style_verse *genre_pastorale heroique *dist1_fontenelle_verse_pastorale heroique_endymion *dist2_fontenelle_verse_pastorale heroique *date_1731 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lycoris
+**** *creator_fontenelle *book_fontenelle_endymion *style_verse *genre_pastorale heroique *dist1_fontenelle_verse_pastorale heroique_endymion *dist2_fontenelle_verse_pastorale heroique *id_LYCORIS *date_1731 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lycoris
 
 Cessez, cessez d'être amant d'une ingrate.
 
@@ -628,7 +628,7 @@ Plus cet effort est difficile,
 Moins vous devez le différer.
 
 
-**** *creator_fontenelle *book_fontenelle_endymion *style_verse *genre_pastorale heroique *dist1_fontenelle_verse_pastorale heroique_endymion *dist2_fontenelle_verse_pastorale heroique *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eurilas
+**** *creator_fontenelle *book_fontenelle_endymion *style_verse *genre_pastorale heroique *dist1_fontenelle_verse_pastorale heroique_endymion *dist2_fontenelle_verse_pastorale heroique *id_EURILAS *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eurilas
 
 Cachez moins un amour fidèle ;
 Vous n'êtes qu'un Berger,
@@ -672,7 +672,7 @@ La vengeance est inutile,
 C'est assez de se guérir.
 
 
-**** *creator_fontenelle *book_fontenelle_endymion *style_verse *genre_pastorale heroique *dist1_fontenelle_verse_pastorale heroique_endymion *dist2_fontenelle_verse_pastorale heroique *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
+**** *creator_fontenelle *book_fontenelle_endymion *style_verse *genre_pastorale heroique *dist1_fontenelle_verse_pastorale heroique_endymion *dist2_fontenelle_verse_pastorale heroique *id_LAMOUR *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
 
 Non, je ne consens point à perdre ainsi ma gloire.
 

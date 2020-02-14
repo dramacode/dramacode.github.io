@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillet *book_corneillet_illustresennemis *style_verse *genre_comedy *dist1_corneillet_verse_comedy_illustresennemis *dist2_corneillet_verse_comedy *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dlope
+**** *creator_corneillet *book_corneillet_illustresennemis *style_verse *genre_comedy *dist1_corneillet_verse_comedy_illustresennemis *dist2_corneillet_verse_comedy *id_dlope *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dlope
 
 Ouy, Madame, et chez vous si j'ose ainsi paroistre,
 Ne me soupçonnez point d'estre parjure ou traistre.
@@ -706,7 +706,7 @@ Recevoir tout ensemble et son coeur et sa foy⁎ ?
 Je ne m'engage à rien que Fernand n'authorise.
 
 
-**** *creator_corneillet *book_corneillet_illustresennemis *style_verse *genre_comedy *dist1_corneillet_verse_comedy_illustresennemis *dist2_corneillet_verse_comedy *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_enrique
+**** *creator_corneillet *book_corneillet_illustresennemis *style_verse *genre_comedy *dist1_corneillet_verse_comedy_illustresennemis *dist2_corneillet_verse_comedy *id_enrique *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_enrique
 
 Quoy ! j'aurois plus long-temps souffert⁎ son insolence,
 Et qu'au sang des Guzmans on osast reprocher
@@ -781,7 +781,7 @@ Moy-mesme elle me touche, et je la veux cognoistre⁎.
 Voicy, voicy par où je le sçauray forcer.
 
 
-**** *creator_corneillet *book_corneillet_illustresennemis *style_verse *genre_comedy *dist1_corneillet_verse_comedy_illustresennemis *dist2_corneillet_verse_comedy *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alonse
+**** *creator_corneillet *book_corneillet_illustresennemis *style_verse *genre_comedy *dist1_corneillet_verse_comedy_illustresennemis *dist2_corneillet_verse_comedy *id_alonse *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alonse
 
 Quoy, sans aucun respect, pour un leger outrage
 Accabler d'infamie un homme de son âge,
@@ -959,7 +959,7 @@ Que la nuit n'eut jamais si peu d'obscurité.
 Ne vous exposez point si vous m'en voulez croire.
 
 
-**** *creator_corneillet *book_corneillet_illustresennemis *style_verse *genre_comedy *dist1_corneillet_verse_comedy_illustresennemis *dist2_corneillet_verse_comedy *date_1657 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_dsanche
+**** *creator_corneillet *book_corneillet_illustresennemis *style_verse *genre_comedy *dist1_corneillet_verse_comedy_illustresennemis *dist2_corneillet_verse_comedy *id_dsanche *date_1657 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_dsanche
 
 Quel funeste conseil vous voulez que j'embrasse⁎ !
 Consentir qu'il me voye, et qu'il me satisfasse !
@@ -1240,7 +1240,7 @@ Et souvent de ses soins⁎ l'infaillible ressort
 Se plaist par le naufrage à nous conduire au port.
 
 
-**** *creator_corneillet *book_corneillet_illustresennemis *style_verse *genre_comedy *dist1_corneillet_verse_comedy_illustresennemis *dist2_corneillet_verse_comedy *date_1657 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_dalvar
+**** *creator_corneillet *book_corneillet_illustresennemis *style_verse *genre_comedy *dist1_corneillet_verse_comedy_illustresennemis *dist2_corneillet_verse_comedy *id_dalvar *date_1657 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_dalvar
 
       Ah, ma soeur, qui vous met en ces lieux ?
 Vous trouver à Madrid, et vous croire à Tolede !
@@ -1816,7 +1816,7 @@ Consentez-vous, Madame, à mon bonheur extrême ?
 O favorable arrest !
 
 
-**** *creator_corneillet *book_corneillet_illustresennemis *style_verse *genre_comedy *dist1_corneillet_verse_comedy_illustresennemis *dist2_corneillet_verse_comedy *date_1657 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_d.ramire
+**** *creator_corneillet *book_corneillet_illustresennemis *style_verse *genre_comedy *dist1_corneillet_verse_comedy_illustresennemis *dist2_corneillet_verse_comedy *id_d.-ramire *date_1657 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_d.ramire
 
 Enfin instruit d'un nom que vous brûliez d'apprendre,
 D'un ennemy secret vous allez faire un gendre ?
@@ -1862,7 +1862,7 @@ Ainsi par un billet que je feray tenir,
 Sur un affront receu, pressez-le de venir.
 
 
-**** *creator_corneillet *book_corneillet_illustresennemis *style_verse *genre_comedy *dist1_corneillet_verse_comedy_illustresennemis *dist2_corneillet_verse_comedy *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cassandre
+**** *creator_corneillet *book_corneillet_illustresennemis *style_verse *genre_comedy *dist1_corneillet_verse_comedy_illustresennemis *dist2_corneillet_verse_comedy *id_cassandre *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cassandre
 
 Sa resolution merite qu'on l'estime,
 Et son coeur par l'amour vainement combattu
@@ -2215,7 +2215,7 @@ Voir vos voeux tout à coup par un frere exaucez,
 Et n'y resister point, c'est m'expliquer assez.
 
 
-**** *creator_corneillet *book_corneillet_illustresennemis *style_verse *genre_comedy *dist1_corneillet_verse_comedy_illustresennemis *dist2_corneillet_verse_comedy *date_1657 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_jacinte
+**** *creator_corneillet *book_corneillet_illustresennemis *style_verse *genre_comedy *dist1_corneillet_verse_comedy_illustresennemis *dist2_corneillet_verse_comedy *id_jacinte *date_1657 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_jacinte
 
 Qui parloit avec vous, Blanche ?
 
@@ -2663,7 +2663,7 @@ Dans une passion dont je suis la maistresse.
 C'est vostre interest seul qui plus fort que le mien...
 
 
-**** *creator_corneillet *book_corneillet_illustresennemis *style_verse *genre_comedy *dist1_corneillet_verse_comedy_illustresennemis *dist2_corneillet_verse_comedy *date_1657 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_blanche
+**** *creator_corneillet *book_corneillet_illustresennemis *style_verse *genre_comedy *dist1_corneillet_verse_comedy_illustresennemis *dist2_corneillet_verse_comedy *id_blanche *date_1657 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_blanche
 
 Vous l'eussiez rencontré quelques momens plustost,
 Tout à l'heure...
@@ -2733,7 +2733,7 @@ Il escortoit D. Lope, il sçait le rendez-vous.
 Luy mesme.
 
 
-**** *creator_corneillet *book_corneillet_illustresennemis *style_verse *genre_comedy *dist1_corneillet_verse_comedy_illustresennemis *dist2_corneillet_verse_comedy *date_1657 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_flore
+**** *creator_corneillet *book_corneillet_illustresennemis *style_verse *genre_comedy *dist1_corneillet_verse_comedy_illustresennemis *dist2_corneillet_verse_comedy *id_flore *date_1657 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_flore
 
 Ah ! Madame.
 
@@ -2768,7 +2768,7 @@ Nous ne les voyons plus, ils s'éloignent toûjours,
 Mais D. Lope…
 
 
-**** *creator_corneillet *book_corneillet_illustresennemis *style_verse *genre_comedy *dist1_corneillet_verse_comedy_illustresennemis *dist2_corneillet_verse_comedy *date_1657 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_braves
+**** *creator_corneillet *book_corneillet_illustresennemis *style_verse *genre_comedy *dist1_corneillet_verse_comedy_illustresennemis *dist2_corneillet_verse_comedy *id_braves *date_1657 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_braves
 
       Ta mort suivra la sienne.
 

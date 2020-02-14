@@ -1,6 +1,6 @@
 
 
-**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorilas
+**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *id_DORILAS *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorilas
 
 Climène, vous voyez par ces marques de joie
 Comme on sent le bonheur que le Ciel nous envoie.
@@ -96,7 +96,7 @@ Trop heureuses larmes,
 Que finit l'Amour !
 
 
-**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_climene
+**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *id_CLIMENE *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_climene
 
 Ainsi notre amitié si longue et si fidèle,
 Rendra par cet Hymen sa durée immortelle,
@@ -237,7 +237,7 @@ Je vois bien que les Dieux n'ont fait cet embarras
 Que pour rompre des noeuds qui ne leur plaisaient pas.
 
 
-**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *date_1695 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_silene
+**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *id_SILENE *date_1695 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_silene
 
 Quoi, vous ne dites rien ? Cependant votre main
 S'est engagée à moi pour m'épouser demain.
@@ -562,7 +562,7 @@ Je n'ai rien oublié pour avoir ma Bergère.
 Me refuserez-vous, mon Père, ce que j'aime ?
 
 
-**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *date_1695 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_ergaste
+**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *id_ERGASTE *date_1695 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_ergaste
 
 Quoi, se peut-il, ma Soeur, qu'encor je vous revoie ?
 Je sens presque mes maux suspendus par ma joie :
@@ -847,7 +847,7 @@ Me pardonnerez-vous l'amoureux stratagème ?
 Le voilà devant vous.
 
 
-**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *date_1695 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lisimene
+**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *id_LISIMENE *date_1695 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lisimene
 
 Hé quoi, n'êtes-vous pas aussi muet que moi ?
 On me marie, hé bien je vous donne ma foi.
@@ -1382,7 +1382,7 @@ Ce que vous devez être, afin de me le rendre.
 Ergaste...
 
 
-**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *date_1695 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_telamire
+**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *id_TELAMIRE *date_1695 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_telamire
 
 Sous le nom de Licaste, et sous ce vêtement,
 Je viens pour voir Silène auprès de Lisimène.
@@ -1586,7 +1586,7 @@ C'est lui-même.
 C'est Télamire ; ainsi nous nous trompions tous deux.
 
 
-**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_silvanire
+**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *id_SILVANIRE *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_silvanire
 
       C'est mon frère.
 
@@ -1990,7 +1990,7 @@ Que vous m'avez coûté de pleurs, belle Bergère.
 Damis, je suis à vous, si j'ai l'aveu d'un Père.
 
 
-**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *date_1695 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_philis
+**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *id_PHILIS *date_1695 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_philis
 
 Voici ce pauvre Ergaste.
 
@@ -2033,7 +2033,7 @@ Hé de grâce, fuyez.
 Et c'est ce qu'en fuyant il vous faut éviter.
 
 
-**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_palemon
+**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *id_PALEMON *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_palemon
 
       Quel caprice étrange
 Sur un Hymen conclu vous fait prendre le change ?
@@ -2104,7 +2104,7 @@ Mais quelque autre Bergère aura plus de bonté.
 Vous l'épouserez donc pour empêcher sa mort ?
 
 
-**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
+**** *creator_boyer *book_boyer_lisimene *style_verse *genre_pastorale *dist1_boyer_verse_pastorale_lisimene *dist2_boyer_verse_pastorale *id_DAMIS *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
 
 Je viens de voir, ô Dieux !...
 

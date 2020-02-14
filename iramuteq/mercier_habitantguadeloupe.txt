@@ -1,6 +1,6 @@
 
 
-**** *creator_mercier *book_mercier_habitantguadeloupe *style_prose *genre_drame *dist1_mercier_prose_drame_habitantguadeloupe *dist2_mercier_prose_drame *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedortigni
+**** *creator_mercier *book_mercier_habitantguadeloupe *style_prose *genre_drame *dist1_mercier_prose_drame_habitantguadeloupe *dist2_mercier_prose_drame *id_MADAMEDORTIGNI *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedortigni
 
 Que vous êtes maussade !... Vous ne tenez pas compte des jours où je gagne.
 
@@ -239,7 +239,7 @@ Pourrai-je me vaincre ?... Essayons. Ah !
 Dieu ! Je n'en puis plus... Je me meurs...
 
 
-**** *creator_mercier *book_mercier_habitantguadeloupe *style_prose *genre_drame *dist1_mercier_prose_drame_habitantguadeloupe *dist2_mercier_prose_drame *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamemilville
+**** *creator_mercier *book_mercier_habitantguadeloupe *style_prose *genre_drame *dist1_mercier_prose_drame_habitantguadeloupe *dist2_mercier_prose_drame *id_MADAMEMILVILLE *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamemilville
 
 Il n'y a point de honte, ma chère Brigitte, à travailler pour jeter un peu plus d'aisance dans sa maison, surtout lorsqu'on est mère de famille... Mais tu me feras plaisir de te charger toujours du soin de la vente... C'est un égard que je dois à la mémoire d'un époux qui ne croyait pas, hélas ! Me laisser dans une pareille situation.
 
@@ -467,7 +467,7 @@ Est-il possible !... Il faut du secours.
 Elle ne revient point.
 
 
-**** *creator_mercier *book_mercier_habitantguadeloupe *style_prose *genre_drame *dist1_mercier_prose_drame_habitantguadeloupe *dist2_mercier_prose_drame *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_vanglenne
+**** *creator_mercier *book_mercier_habitantguadeloupe *style_prose *genre_drame *dist1_mercier_prose_drame_habitantguadeloupe *dist2_mercier_prose_drame *id_VANGLENNE *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_vanglenne
 
 Dieu soit loué, mon cher cousin ! Que j'ai de joie à vous revoir ! M'auriez-vous entièrement oublié ?
 
@@ -829,7 +829,7 @@ Qu'on la transporte.
 Femme cruelle et lâche ! Tu n'étais pas même digne de ma vengeance... Je la regrette... Oublions, dans le sein de l'amitié, qu'il existe des coeurs à ce point insensibles et envieux.
 
 
-**** *creator_mercier *book_mercier_habitantguadeloupe *style_prose *genre_drame *dist1_mercier_prose_drame_habitantguadeloupe *dist2_mercier_prose_drame *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mulson
+**** *creator_mercier *book_mercier_habitantguadeloupe *style_prose *genre_drame *dist1_mercier_prose_drame_habitantguadeloupe *dist2_mercier_prose_drame *id_MULSON *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mulson
 
 En croirai-je mes yeux ? Dourville à Paris.
 
@@ -949,7 +949,7 @@ Bon, tout va bien.
 Quand je me mêle de quelque chose, cela réussit toujours.
 
 
-**** *creator_mercier *book_mercier_habitantguadeloupe *style_prose *genre_drame *dist1_mercier_prose_drame_habitantguadeloupe *dist2_mercier_prose_drame *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brigitte
+**** *creator_mercier *book_mercier_habitantguadeloupe *style_prose *genre_drame *dist1_mercier_prose_drame_habitantguadeloupe *dist2_mercier_prose_drame *id_BRIGITTE *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brigitte
 
 Ma chère maîtresse, voici le produit de nos petits travaux. J'ai rencontré un marchand qui a trouvé votre ouvrage d'une délicatesse exquise, surprenante, et qui m'a promis de le bien payer chaque fois que je lui en apporterais.... Tenez, serrez cela.
 

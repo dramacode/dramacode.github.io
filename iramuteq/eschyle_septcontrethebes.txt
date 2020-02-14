@@ -1,6 +1,6 @@
 
 
-**** *creator_eschyle *book_eschyle_septcontrethebes *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_septcontrethebes *dist2_eschyle_prose_tragedy *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_eteocle
+**** *creator_eschyle *book_eschyle_septcontrethebes *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_septcontrethebes *dist2_eschyle_prose_tragedy *id_ETEOCLE *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_eteocle
 
 Hommes de Cadmos, il doit parler selon le temps, celui qui veille sur la chose publique, à la poupe de la ville, tenant la barre et défendant ses paupières contre le sommeil. En effet, si nous agissons bien, c'est à un Dieu que nous le devons ; mais, si quelque malheur arrive, — que cela ne soit pas ! — Étéocle seul sera en proie aux mille clameurs de la ville et aux accusations tumultueuses des citoyens. Que Zeus Préservateur, digne de ce nom, vienne en aide à la ville des Cadmiones ! Maintenant, il faut que chacun de vous, celui qui est encore dans la fleur de la jeunesse et celui qui est mûr par les années, montre l'accroissement de ses forces et fasse tout pour défendre, comme il est juste, la ville et les autels de nos Dieux, afin que ceux-ci ne soient point privés de leurs honneurs, et nos enfants, et cette terre maternelle, notre très chère nourrice. En effet, c'est elle qui a porté le poids de votre enfance, tandis que vous rampiez tout petits sur son sein, et qui vous a nourris pour être des guerriers dévoués et la défendre dans ce danger. Jusqu'à ce jour un Dieu nous a favorisés, et depuis que nous sommes assiégés, la guerre vous a été bonne par l'aide des Dieux. Mais voici qu'il a parlé, le divinateur, le berger des oiseaux, qui entend des oreilles et de l'esprit, sans le secours du feu et par un art infaillible, les oiseaux fatidiques. Ce dispensateur d'augures dit qu'un grand assaut des Argiens se prépare contre la ville dans les embûches de la nuit. Donc, tous, hâtez-vous aux créneaux et aux portes des murailles. Armés, couverts de cuirasses, debout sur le faîte des tours, au seuil des portes, soyez fermes et ne craignez point la foule des assiégeants. Un Dieu nous donnera le dessus. J'ai envoyé des espions et des éclaireurs du côté de l'ennemi. Je suis certain qu'ils ne se tromperont point de route, et, dès que je les aurai entendus, je serai à l'abri des surprises.
 
@@ -76,7 +76,7 @@ Il ne convient pas que ceci soit dit à un hoplite.
 Avec l'aide des Dieux, il n'évitera point la mort.
 
 
-**** *creator_eschyle *book_eschyle_septcontrethebes *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_septcontrethebes *dist2_eschyle_prose_tragedy *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_leclaireur
+**** *creator_eschyle *book_eschyle_septcontrethebes *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_septcontrethebes *dist2_eschyle_prose_tragedy *id_LECLAIREUR *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_leclaireur
 
 Étéocle, très excellent roi des Cadmiones, me voici, ayant de sûres nouvelles de l'armée ennemie. J'ai vu tous leurs préparatifs. Sept guerriers, chefs farouches, recevant dans un noir bouclier le sang d'un boeuf égorgé, les mains teintes de sang, ont juré par Arès, Ényô et Phobos altéré de sang, de dévaster la ville et de renverser la citadelle des Cadmiones par la force, ou de mourir en arrosant cette terre de leur sang. Puis de leurs mains, ils ont suspendu au char d'Adrastos les souvenirs qui seront envoyés à leurs parents dans leurs demeures ; et ils ont versé des larmes, mais sans nulle pitié dans leur bouche. Leur âme de fer, ardente et furieuse, brûlait de la rage de lions qui se jettent les uns sur les autres. Tu sais sans retard ce qu'ils ont fait. Je les ai laissés tirant au sort les portes où chacun d'eux conduirait sa troupe. C'est pourquoi, choisis les meilleurs guerriers de la ville, et place-les comme chefs aux seuils des portes, promptement. Déjà l'armée des Argiens approche et marche à travers la poussière, et la blanche écume qui tombe par flocons des naseaux des chevaux souille la plaine. Mais toi, comme un habile pilote de nef, fortifie la ville avant que les tourbillons d'Arès se ruent. En effet, la mer terrestre des guerriers pousse des cris. Fais promptement tout ce qu'il faut contre elle. Moi, je veillerai fidèlement tout le jour, afin que tu apprennes clairement ce qui se passe au dehors, et que tu ne sois point surpris.
 
@@ -95,7 +95,7 @@ Je dirai le sixième, homme très sage et très brave, un divinateur, le vigoure
 Je dirai le septième, celui qui se tient devant la septième porte, ton propre frère qui jette ses imprécations et ses voeux contre la ville. Il veut, ayant pénétré dans nos murailles, proclamé par le héraut, chanter le Paian de la destruction, courir sur toi, et après t'avoir tué, tomber sur ton cadavre ; ou, si tu survis au combat, t'infliger l'ignominie de l'exil, dont tu l'as frappé toi-même en le chassant de cette terre. Telles sont les clameurs du robuste Polynice. Il invoque tous les Dieux de la patrie, afin qu'ils le vengent en accomplissant tous ses voeux. Il porte un riche bouclier récemment fait. Un double emblème y est figuré : un homme en or, d'un aspect guerrier, que précède une femme majestueuse. Elle dit, selon les paroles inscrites, qu'elle est la Justice : – Je ramènerai cet homme et lui rendrai sa ville, et il commandera dans la demeure paternelle. – C'est ainsi qu'ils sont tous rangés. Vois qui tu opposeras à celui-ci. Tu n'auras point à me reprocher des rapports infidèles. Maintenant, c'est à toi de gouverner la ville.
 
 
-**** *creator_eschyle *book_eschyle_septcontrethebes *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_septcontrethebes *dist2_eschyle_prose_tragedy *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lemessager
+**** *creator_eschyle *book_eschyle_septcontrethebes *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_septcontrethebes *dist2_eschyle_prose_tragedy *id_LEMESSAGER *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lemessager
 
 Reprenez courage, enfants nourries par vos mères. Cette ville est sauvée du joug de la servitude. Les menaces orgueilleuses de ces hommes farouches sont tombées ; la ville est tranquille, et la nef a résisté aux coups multipliés des flots. Nos murailles nous protègent et nous avons fortifié nos portes de guerriers irréprochables. À six d'entre elles nous l'avons emporté, mais, à la septième, le roi Apollon, le vénérable, a puni, sur la race d'Oedipe, l'antique faute de Laïus.
 
@@ -112,7 +112,7 @@ Certes, tous deux sont morts.
 Un même destin a détruit la malheureuse race d'Oedipe. Il faut en gémir et s'en réjouir, car la ville est sauvée ; mais les chefs, les deux princes, avec le fer scythique forgé par le marteau, ont fait le partage des biens paternels. Ils en posséderont tout ce qui suffira pour leur sépulture, poussés à leur ruine par les terribles exécrations de leur père. La ville est sauvée ; mais, par un meurtre mutuel, la terre a bu le sang des Rois qu'un même père a engendrés.
 
 
-**** *creator_eschyle *book_eschyle_septcontrethebes *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_septcontrethebes *dist2_eschyle_prose_tragedy *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_leheraut
+**** *creator_eschyle *book_eschyle_septcontrethebes *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_septcontrethebes *dist2_eschyle_prose_tragedy *id_LEHERAUT *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_leheraut
 
 Il me faut annoncer ce qu'ont voulu et décrété les chefs du peuple de cette ville de Cadmos. Il leur plaît qu'Étéocle, à cause de son amour pour la patrie, soit enseveli dans cette terre vénérée. Il a reçu la mort en repoussant l'ennemi de la ville. Irréprochablement dévoué aux Dieux de ses pères, il est tombé là où il est beau aux jeunes hommes de tomber. Voilà ce qu'on m'a ordonné de vous dire. Maintenant, il leur plaît que le cadavre de son frère Polynice soit jeté hors la ville, sans sépulture et livré aux chiens, car il eût dévasté la terre des Cadmiones si un Dieu ne se fût opposé à sa lance. Mort, il gardera cette souillure. Malgré les Dieux paternels, il leur a fait cet outrage d'avoir voulu s'emparer de la ville en menant contre elle une armée étrangère.
 C'est pourquoi, en châtiment de son crime, les oiseaux carnassiers seront son immonde tombeau. Il n'y aura point de libations versées sur ses cendres, ni gémissements, ni lamentations sacrées, et il sera privé du cortège de ses amis, ce funèbre honneur. Telle est la volonté des chefs Cadmiones.
@@ -130,7 +130,7 @@ Il a combattu contre tous pour se venger d'un seul.
 Agis comme il te convient. Moi, je t'ai avertie.
 
 
-**** *creator_eschyle *book_eschyle_septcontrethebes *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_septcontrethebes *dist2_eschyle_prose_tragedy *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_ismene
+**** *creator_eschyle *book_eschyle_septcontrethebes *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_septcontrethebes *dist2_eschyle_prose_tragedy *id_ISMENE *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_ismene
 
 Tu as tué et tu as été tué !
 
@@ -181,7 +181,7 @@ Hélas ! Où les ensevelir ?
 Hélas ! Leur misère sera réunie à leur père.
 
 
-**** *creator_eschyle *book_eschyle_septcontrethebes *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_septcontrethebes *dist2_eschyle_prose_tragedy *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_antigone
+**** *creator_eschyle *book_eschyle_septcontrethebes *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_septcontrethebes *dist2_eschyle_prose_tragedy *id_ANTIGONE *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_antigone
 
 Frappé, tu as frappé !
 
@@ -244,7 +244,7 @@ Il a rendu le mal pour le mal.
 La divine Éris parle toujours la dernière. Moi, j'ensevelirai celui-ci. N'en dis pas davantage.
 
 
-**** *creator_eschyle *book_eschyle_septcontrethebes *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_septcontrethebes *dist2_eschyle_prose_tragedy *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lechoeurdesvierges
+**** *creator_eschyle *book_eschyle_septcontrethebes *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_septcontrethebes *dist2_eschyle_prose_tragedy *id_LECHOEURDESVIERGES *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lechoeurdesvierges
 
 Épouvantée, je crie, en proie à de grandes et terribles afflictions. L'armée se rue hors du camp. L'immense foule des cavaliers abonde et se précipite. La poussière aérienne m'apparaît, muet et véridique messager. Le trépignement des sabots frappant la plaine approche et vole ; il retentit comme l'irrésistible torrent qui roule du haut des montagnes.
 Hélas, hélas ! Dieux et Déesses, détournez le malheur qui se rue ! L'armée aux boucliers blancs, avec une clameur qui franchit nos murailles, s'avance en ordre de bataille et se jette impétueusement sur la ville. Qui donc nous protégera ? Qui nous viendra en aide, des Dieux ou des Déesses ? Devant laquelle des images des démons me prosternerai-je ? Ô bienheureux, honorés de sièges splendides, c'est l'instant suprême où nous devons embrasser vos images ! Que tardons-nous, nous qui gémissons si profondément ? Entendez-vous, ou n'entendez-vous pas le bruit strident des boucliers ? Quand donc, si ce n'est maintenant, supplierons-nous avec des voiles et des couronnes ?

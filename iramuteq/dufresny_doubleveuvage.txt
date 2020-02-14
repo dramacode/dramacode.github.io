@@ -1,6 +1,6 @@
 
 
-**** *creator_dufresny *book_dufresny_doubleveuvage *style_prose *genre_comedy *dist1_dufresny_prose_comedy_doubleveuvage *dist2_dufresny_prose_comedy *date_1702 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+**** *creator_dufresny *book_dufresny_doubleveuvage *style_prose *genre_comedy *dist1_dufresny_prose_comedy_doubleveuvage *dist2_dufresny_prose_comedy *id_LEMARQUIS *date_1702 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
 
 Je n'aime point à fatiguer un ami de mes chagrins, n'en parlons point.
 
@@ -69,7 +69,7 @@ Dans les foyers pour bien entendre !
 On ne laisse pas d'avoir souvent dans les foyers, des scènes aussi comiques que sur le Théâtre.
 
 
-**** *creator_dufresny *book_dufresny_doubleveuvage *style_prose *genre_comedy *dist1_dufresny_prose_comedy_doubleveuvage *dist2_dufresny_prose_comedy *date_1702 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+**** *creator_dufresny *book_dufresny_doubleveuvage *style_prose *genre_comedy *dist1_dufresny_prose_comedy_doubleveuvage *dist2_dufresny_prose_comedy *id_LECHEVALIER *date_1702 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
 
 Hé bonjour, mon cher Marquis.
 Mon cher ami, je me suis bien affligé pour toi ; on m'a dit que tu as perdu un procès qui te ruine, que ton fils unique est mort, que tu as encore des affaires affligeantes ; tu sais comme je partage tes chagrins, et avec quelle tendresse...
@@ -140,7 +140,7 @@ Où je me place d'ordinaire, dans les foyers.
 Ce n'est pas pour cela ; mais on y est à son aise, et on s'avance, quand on entend rire : je m'y en vais, tu m'appelleras aux chansons.
 
 
-**** *creator_dufresny *book_dufresny_doubleveuvage *style_prose *genre_comedy *dist1_dufresny_prose_comedy_doubleveuvage *dist2_dufresny_prose_comedy *date_1702 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+**** *creator_dufresny *book_dufresny_doubleveuvage *style_prose *genre_comedy *dist1_dufresny_prose_comedy_doubleveuvage *dist2_dufresny_prose_comedy *id_LACOMTESSE *date_1702 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
 
 Hé bien, Thérèse, je travaille à vous marier, n'êtes-vous pas ravie ?
 
@@ -239,7 +239,7 @@ Ah ! Je suis ravie de m'être trompée dans mes soupçons ; puisque je vois le
 C'est donc un mariage fait, donnez-vous la main.
 
 
-**** *creator_dufresny *book_dufresny_doubleveuvage *style_prose *genre_comedy *dist1_dufresny_prose_comedy_doubleveuvage *dist2_dufresny_prose_comedy *date_1702 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lintendant
+**** *creator_dufresny *book_dufresny_doubleveuvage *style_prose *genre_comedy *dist1_dufresny_prose_comedy_doubleveuvage *dist2_dufresny_prose_comedy *id_LINTENDANT *date_1702 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lintendant
 
 Ouais ! Que signifie donc tout ceci ? J'ai beau questionner tous nos gens, chacun me tourne le dos sans me répondre... Que vois-je ! Tous trois en deuil ! Mon Neveu, de qui portez-vous ce deuil-là ?
 
@@ -432,7 +432,7 @@ Oui, Madame, et je veux garder aussi tout le mien à mon épouse.
 Ce qui me détermine, c'est la peur... de déplaire à ma femme.
 
 
-**** *creator_dufresny *book_dufresny_doubleveuvage *style_prose *genre_comedy *dist1_dufresny_prose_comedy_doubleveuvage *dist2_dufresny_prose_comedy *date_1702 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laveuve
+**** *creator_dufresny *book_dufresny_doubleveuvage *style_prose *genre_comedy *dist1_dufresny_prose_comedy_doubleveuvage *dist2_dufresny_prose_comedy *id_LAVEUVE *date_1702 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laveuve
 
 Hélas !
 
@@ -602,7 +602,7 @@ Madame, c'est que ayant destiné mon bien à un époux que j'aime...
 La crainte que j'ai de... de fâcher mon mari.
 
 
-**** *creator_dufresny *book_dufresny_doubleveuvage *style_prose *genre_comedy *dist1_dufresny_prose_comedy_doubleveuvage *dist2_dufresny_prose_comedy *date_1702 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gusmand
+**** *creator_dufresny *book_dufresny_doubleveuvage *style_prose *genre_comedy *dist1_dufresny_prose_comedy_doubleveuvage *dist2_dufresny_prose_comedy *id_GUSMAND *date_1702 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gusmand
 
 La, la, la, la, cela ne vaut rien, morbleu : ne trouverai-je point quelque idée toute neuve...
 La, la, la, la, la, non ce début-là est dans Lulli... La, la, la, la, la, la... Lulli encore... La, la, la, la... Encore Lulli, quoi Lulli partout... De quelque côté que je me tourne... Je suis bien malheureux de n'être venu qu'après lui, car parce que j'ai dans la tête tout ce qu'il a fait de beau, on dit que je le pille.... La, la, la, la, la... Fort bien cela. La, la, la, la, la, la. Admirable. La, la, la. Merveilleux.
@@ -889,7 +889,7 @@ Que vous dirai-je enfin : Tous les traits les plus beaux,
 Des Opéra nouveaux.
 
 
-**** *creator_dufresny *book_dufresny_doubleveuvage *style_prose *genre_comedy *dist1_dufresny_prose_comedy_doubleveuvage *dist2_dufresny_prose_comedy *date_1702 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+**** *creator_dufresny *book_dufresny_doubleveuvage *style_prose *genre_comedy *dist1_dufresny_prose_comedy_doubleveuvage *dist2_dufresny_prose_comedy *id_DORANTE *date_1702 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
 
 Bonjour, Frosine, bonjour.
 
@@ -1016,7 +1016,7 @@ Juste Ciel ! Que deviendrai-je !
 Madame, empêchez qu'on ne m'éloigne.
 
 
-**** *creator_dufresny *book_dufresny_doubleveuvage *style_prose *genre_comedy *dist1_dufresny_prose_comedy_doubleveuvage *dist2_dufresny_prose_comedy *date_1702 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_therese
+**** *creator_dufresny *book_dufresny_doubleveuvage *style_prose *genre_comedy *dist1_dufresny_prose_comedy_doubleveuvage *dist2_dufresny_prose_comedy *id_THERESE *date_1702 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_therese
 
 Là, là, là. Là, là. Là, là, là, là, là.
 
@@ -1116,7 +1116,7 @@ Hélas que pourra produire tout ceci ?
 Monsieur, souffririez-vous qu'on me marie en Province ?
 
 
-**** *creator_dufresny *book_dufresny_doubleveuvage *style_prose *genre_comedy *dist1_dufresny_prose_comedy_doubleveuvage *dist2_dufresny_prose_comedy *date_1702 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_frosine
+**** *creator_dufresny *book_dufresny_doubleveuvage *style_prose *genre_comedy *dist1_dufresny_prose_comedy_doubleveuvage *dist2_dufresny_prose_comedy *id_FROSINE *date_1702 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_frosine
 
 Je suis ravie de vous voir de retour, Monsieur ; il y a une heure que je vous cherche dans le Château, dans les jardins ; partout enfin.
 
@@ -1309,7 +1309,7 @@ Madame voudrait bien qu'on n'éloignât point... sa nièce unique.
 Ce mariage punira votre mari, et vous verrez toujours Dorante.
 
 
-**** *creator_dufresny *book_dufresny_doubleveuvage *style_prose *genre_comedy *dist1_dufresny_prose_comedy_doubleveuvage *dist2_dufresny_prose_comedy *date_1702 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesuisse
+**** *creator_dufresny *book_dufresny_doubleveuvage *style_prose *genre_comedy *dist1_dufresny_prose_comedy_doubleveuvage *dist2_dufresny_prose_comedy *id_LESUISSE *date_1702 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesuisse
 
 Mondeme, Mondeme.
 
@@ -1371,7 +1371,7 @@ Pendant qu'il fera le gille,
 Je lui boirai tout son bien.
 
 
-**** *creator_dufresny *book_dufresny_doubleveuvage *style_prose *genre_comedy *dist1_dufresny_prose_comedy_doubleveuvage *dist2_dufresny_prose_comedy *date_1702 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lasuissesse
+**** *creator_dufresny *book_dufresny_doubleveuvage *style_prose *genre_comedy *dist1_dufresny_prose_comedy_doubleveuvage *dist2_dufresny_prose_comedy *id_LASUISSESSE *date_1702 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lasuissesse
 
 Réjouissez-vous Madame, mon mari vient d'arriver des Eaux.
 

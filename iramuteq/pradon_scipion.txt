@@ -1,6 +1,6 @@
 
 
-**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scipion
+**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *id_scipion *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scipion
 
 Est-il donc vray, Seigneur, ce qu'on vient de m'apprendre,
 Que le grand Annibal cherche à m'entretenir ?
@@ -557,7 +557,7 @@ Triompher d'Annibal une seconde fois.
 Adieu, vivez heureux.
 
 
-**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *date_1697 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_annibal
+**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *id_annibal *date_1697 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_annibal
 
       Si j'ay paru surpris à vôtre aspect⁎,
 Et si quelques momens j'ay gardé le silence,
@@ -803,7 +803,7 @@ Vous l'allez voir, sur tout songez que je le veux.
 SCENE VI.
 
 
-**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *date_1697 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lucejus
+**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *id_lucejus *date_1697 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_lucejus
 
       N'en doutez plus,
 Madame, & connoissez⁎ aujourd'huy Lucejus :
@@ -934,7 +934,7 @@ Le plus parfait Heros qu'ait jamais produit Rome.
 FIN.
 
 
-**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *date_1697 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_isperie
+**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *id_isperie *date_1697 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_isperie
 
 Languirais⁎-je toujours en des craintes mortelles⁎ ?
 Du Prince Lucejus on n'a point de nouvelles,
@@ -1297,7 +1297,7 @@ SCENE V.
 Au nom des Dieux, Seigneur, secondez ce beau zele .
 
 
-**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *date_1697 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_erixene
+**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *id_erixene *date_1697 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_erixene
 
 On nous vient d'annoncer une grande nouvelle,
 Annibal en Affrique est enfin de retour.
@@ -1486,7 +1486,7 @@ J'aperçois Scipion, armez-vous de courage,
 Je vous laisse, et ne puis vous en dire davantage.
 
 
-**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *date_1697 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_aurilcar
+**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *id_aurilcar *date_1697 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_aurilcar
  
 Oüy, Seigneur, Annibal souhaite une entreveuë,
 Je viens la demander, c'est son intention
@@ -1574,7 +1574,7 @@ Hé quel ôtage peut remplacer Annibal ?
 Seigneur, c'en est assez.
 
 
-**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *date_1697 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lepide
+**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *id_lepide *date_1697 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lepide
 
 Seigneur, en attendant que Scipion vous voye,
 Je me tiens honoré de l'ordre qu'il m'envoye,
@@ -1699,7 +1699,7 @@ Scipion est vainqueur, & je perds Isperie ;
 Lelius le console, & d'un soin⁎ genereux⁎…
 
 
-**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *date_1697 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_ermilie
+**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *id_ermilie *date_1697 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_ermilie
  
 Eh ? pouvez-vous douter que ce Prince vous aime,
 Madame, rapellez son desespoir extrême,
@@ -1737,7 +1737,7 @@ Sans doute⁎, & Scipion n'est pas encor vainqueur,
 Les Dieux pouront… Mais quoy ? j'aperçois Erixene.
 
 
-**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *date_1697 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_barce
+**** *creator_pradon *book_pradon_scipion *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_scipion *dist2_pradon_verse_tragedy *id_barce *date_1697 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_barce
 
 Tandis que Scipion fait ranger son armée,
 Que pour en soûtenir l'éclat, la renommée,

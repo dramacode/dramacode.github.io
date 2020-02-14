@@ -1,6 +1,6 @@
 
 
-**** *creator_dornevallesage *book_dornevallesage_operacomique *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_operacomique *dist2_dornevallesage_verse_opera comique *date_1730 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomediefrancaise
+**** *creator_dornevallesage *book_dornevallesage_operacomique *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_operacomique *dist2_dornevallesage_verse_opera comique *id_LACOMEDIEFRANCAISE *date_1730 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomediefrancaise
 
 Eh quoi ? La Troupe Romaine
 Ne détruira jamais le Comique-Qpéra !
@@ -129,7 +129,7 @@ Il y a de 1a franchise dans cet aveu.
 La Traîtresse !
 
 
-**** *creator_dornevallesage *book_dornevallesage_operacomique *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_operacomique *dist2_dornevallesage_verse_opera comique *date_1730 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomedieitalienne
+**** *creator_dornevallesage *book_dornevallesage_operacomique *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_operacomique *dist2_dornevallesage_verse_opera comique *id_LACOMEDIEITALIENNE *date_1730 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomedieitalienne
 
 Quoi donc ? L'Italienne,
 Faridondaine,
@@ -236,7 +236,7 @@ Et de la vérité. Je voudrais qu'il n'y eût à Paris que notre troupe.
 Ne perdons point de temps, expédiez les l'un et l'autre.
 
 
-**** *creator_dornevallesage *book_dornevallesage_operacomique *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_operacomique *dist2_dornevallesage_verse_opera comique *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mezzetin
+**** *creator_dornevallesage *book_dornevallesage_operacomique *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_operacomique *dist2_dornevallesage_verse_opera comique *id_MEZZETIN *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mezzetin
 
 Vole à nous, Cousin l'Opéra ?
 Contre ces vilains : monstres-là
@@ -254,7 +254,7 @@ Nous avons pour notre Chef
 Le courageux Fils d'Ulysse.
 
 
-**** *creator_dornevallesage *book_dornevallesage_operacomique *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_operacomique *dist2_dornevallesage_verse_opera comique *date_1730 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_callisthene
+**** *creator_dornevallesage *book_dornevallesage_operacomique *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_operacomique *dist2_dornevallesage_verse_opera comique *id_CALLISTHENE *date_1730 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_callisthene
 
 Madame, vous voyez le bouillant Callisthéne.
 En Chevalier Errant ,touché de votre peine,
@@ -292,7 +292,7 @@ C'en est fait, je me meurs. Âme double et sans foi !
 Bientôt ton imprimeur me vengera de toi.
 
 
-**** *creator_dornevallesage *book_dornevallesage_operacomique *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_operacomique *dist2_dornevallesage_verse_opera comique *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_samson
+**** *creator_dornevallesage *book_dornevallesage_operacomique *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_operacomique *dist2_dornevallesage_verse_opera comique *id_SAMSON *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_samson
 
 Où sont-ils,
 Ces Forains maudits ?

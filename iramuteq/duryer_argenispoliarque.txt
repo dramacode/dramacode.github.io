@@ -1,6 +1,6 @@
 
 
-**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_licogene
+**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_LICOGENE *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_licogene
 
 Je ne reconnais plus tous ces desseins guerriers
 Qui dressent nos tombeaux dans un bois de lauriers,
@@ -337,7 +337,7 @@ Et que dans peu de temps, ses effets journaliers
 Me rendront inconnus tant de maux familiers.
 
 
-**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oloodeme
+**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_OLOODEME *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oloodeme
 
 Prince à qui la vertu communique des charmes
 Qui domptent la fortune, et qui brisent ses armes,
@@ -411,7 +411,7 @@ Et dedans ce désir, nous nous plaignons souvent
 De n'avoir qu'une vie à perdre en vous servant.
 
 
-**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eristene
+**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_ERISTENE *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eristene
 
 Généreux confidents des secrets de mon âme,
 Qui se découvre à vous sur un coeur tout de flamme,
@@ -481,7 +481,7 @@ Au service adoré de vos saintes amours ;
 Mais...
 
 
-**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_poliarque
+**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_POLIARQUE *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_poliarque
 
 Confesse avec moi, qu'une si belle image
 A mérité l'encens d'un éternel hommage,
@@ -1122,7 +1122,7 @@ Mais allons dire au roi, que ses vues entendues
 Nous ont fait obtenir les lauriers attendus.
 
 
-**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gelanore
+**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_GELANORE *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gelanore
 
 Bien qu'il soit assuré qu'un portrait de la sorte
 Puisse ressusciter une personne morte,
@@ -1273,7 +1273,7 @@ Ce témoignage seul n'empêche le discours,
 Et me fait à la fin approuver vos amours.
 
 
-**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_meleandre
+**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_MELEANDRE *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_meleandre
 
 Il est vrai que la loi d'un heureux hyménée
 Fait revivre les rois dont la gloire est bornée,
@@ -1536,7 +1536,7 @@ Et renvoyez les traits injustement lancés
 Contre le flanc de ceux, qui nous les ont poussés.
 
 
-**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eurimede
+**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_EURIMEDE *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eurimede
 
 Sire vos sentiments sont des oracles mêmes,
 La prudence établit le bien des diadèmes,
@@ -1620,7 +1620,7 @@ Elle a toujours fait voir que ses moindres guerriers
 Arracheraient à Mars ses plus riches lauriers.
 
 
-**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *date_1629 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_selenisse
+**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_SELENISSE *date_1629 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_selenisse
 
 Vous qui marchez toujours au dessus du soleil,
 Qui jouissez d'un bien sans fin et sans pareil,
@@ -1797,7 +1797,7 @@ Puisque vous le voulez mais le roi vient à nous
 Tout étonné du bruit, qui s'est fait parmi nous !
 
 
-**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *date_1629 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_argenis
+**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_ARGENIS *date_1629 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_argenis
 
 Nous venons du jardin où la voix de Florice
 A mis tous les oiseaux dans un même exercice,
@@ -1989,7 +1989,7 @@ Généreux cavalier, que la victoire attend,
 Soyez tout assuré que Pallas vous entend.
 
 
-**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_menocrite
+**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_MENOCRITE *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_menocrite
 
 Monsieur que faites-vous ? Quel excès de manie
 Exerce dessus vous sa dure tyrannie ?
@@ -2024,7 +2024,7 @@ Mais bien qu'elle s'obstine à vaincre les plus forts,
 La vertu ne craint point ses funestes efforts.
 
 
-**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anaximandre
+**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_ANAXIMANDRE *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anaximandre
 
 Nous ne pouvons trouver sur terre qu'une vie,
 Qui ne se file plus, alors qu'elle est ravie,

@@ -1,6 +1,6 @@
 
 
-**** *creator_saintaignan *book_saintaignan_martyremarieantoinette *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_martyremarieantoinette *dist2_saintaignan_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_danton
+**** *creator_saintaignan *book_saintaignan_martyremarieantoinette *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_martyremarieantoinette *dist2_saintaignan_verse_tragedy *id_DANTON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_danton
 
 Ah ? Citoyens, contre nous tout conspire...
 Oui, tout : même Wimphen méconnaît notre empire.
@@ -42,7 +42,7 @@ Dans votre fausseté rendez-vous plus croyable.
 Il est vrai.
 
 
-**** *creator_saintaignan *book_saintaignan_martyremarieantoinette *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_martyremarieantoinette *dist2_saintaignan_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_robespierre
+**** *creator_saintaignan *book_saintaignan_martyremarieantoinette *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_martyremarieantoinette *dist2_saintaignan_verse_tragedy *id_ROBESPIERRE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_robespierre
 
       À Frédéric Mayence
 Vient de rendre ses clés, malgré notre défense.
@@ -361,7 +361,7 @@ Suffit. Le tribunal instruit peut condamner,
 Et laisser avec elle un pédant converser.
 
 
-**** *creator_saintaignan *book_saintaignan_martyremarieantoinette *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_martyremarieantoinette *dist2_saintaignan_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_barrere
+**** *creator_saintaignan *book_saintaignan_martyremarieantoinette *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_martyremarieantoinette *dist2_saintaignan_verse_tragedy *id_BARRERE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_barrere
 
       Sur nos têtes, l'orage...
 Autour de nous, la mort... dans nos coeurs, le courage.
@@ -662,7 +662,7 @@ Sur des débris sanglants, assure notre empire ?
 Je suis.
 
 
-**** *creator_saintaignan *book_saintaignan_martyremarieantoinette *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_martyremarieantoinette *dist2_saintaignan_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
+**** *creator_saintaignan *book_saintaignan_martyremarieantoinette *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_martyremarieantoinette *dist2_saintaignan_verse_tragedy *id_LEROI *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
 
 Ô ma tendre maman ?
 
@@ -683,7 +683,7 @@ Je porte dans mon coeur les avis de mon père,
 Et je suis enrichi des vertus de ma mère.
 
 
-**** *creator_saintaignan *book_saintaignan_martyremarieantoinette *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_martyremarieantoinette *dist2_saintaignan_verse_tragedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lareine
+**** *creator_saintaignan *book_saintaignan_martyremarieantoinette *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_martyremarieantoinette *dist2_saintaignan_verse_tragedy *id_LAREINE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lareine
 
 Approchez mes enfants : voyez dans votre mère
 Les restes languissants d'une affreuse misère.
@@ -1255,7 +1255,7 @@ Est le seul douloureux.
 Entre tes mains, mon Dieu, je dépose mon âme.
 
 
-**** *creator_saintaignan *book_saintaignan_martyremarieantoinette *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_martyremarieantoinette *dist2_saintaignan_verse_tragedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameroyale
+**** *creator_saintaignan *book_saintaignan_martyremarieantoinette *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_martyremarieantoinette *dist2_saintaignan_verse_tragedy *id_MADAMEROYALE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameroyale
 
 Ah ? Maman ? Ah vivez ? Vous aurez notre amour
 
@@ -1270,7 +1270,7 @@ Hélas ?... Jamais... Jamais... jJ ne verrai ma mère ?
 Ne m'abandonnez pas.
 
 
-**** *creator_saintaignan *book_saintaignan_martyremarieantoinette *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_martyremarieantoinette *dist2_saintaignan_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_simon
+**** *creator_saintaignan *book_saintaignan_martyremarieantoinette *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_martyremarieantoinette *dist2_saintaignan_verse_tragedy *id_SIMON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_simon
 
 Hé ? Pourquoi souffrez-vous ces chauds embrassements
 Réservés, dans nos lois, à deux tendres amants ?
@@ -1311,7 +1311,7 @@ Pour être de l'État le sublime vengeur,
 Je puis témoigner faux, et n'être pas menteur.
 
 
-**** *creator_saintaignan *book_saintaignan_martyremarieantoinette *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_martyremarieantoinette *dist2_saintaignan_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_santerre
+**** *creator_saintaignan *book_saintaignan_martyremarieantoinette *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_martyremarieantoinette *dist2_saintaignan_verse_tragedy *id_SANTERRE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_santerre
 
       J'ai battu les brigands :
 Ma troupe, sans effort, a culbuté les rangs.
@@ -1358,7 +1358,7 @@ J'en jure par ce fer, par l'ombre de Marat.
 Par ordre du Sénat, livrez-nous cette infâme.
 
 
-**** *creator_saintaignan *book_saintaignan_martyremarieantoinette *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_martyremarieantoinette *dist2_saintaignan_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_legeolier
+**** *creator_saintaignan *book_saintaignan_martyremarieantoinette *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_martyremarieantoinette *dist2_saintaignan_verse_tragedy *id_LEGEOLIER *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_legeolier
 
       Tout est plein.
 
@@ -1447,7 +1447,7 @@ De ces horribles lieux, imprudent, sauve-toi.
 Je vais les prévenir.
 
 
-**** *creator_saintaignan *book_saintaignan_martyremarieantoinette *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_martyremarieantoinette *dist2_saintaignan_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tronson
+**** *creator_saintaignan *book_saintaignan_martyremarieantoinette *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_martyremarieantoinette *dist2_saintaignan_verse_tragedy *id_TRONSON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tronson
 
       N'espérons point. La voix de l'innocence
 Est proscrite : et devient un crime en leur présence.

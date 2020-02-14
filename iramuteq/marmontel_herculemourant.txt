@@ -1,6 +1,6 @@
 
 
-**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *date_1761 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hercule
+**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *id_HERCULE *date_1761 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hercule
 
 Trompeuse image de ma gloire,
 Cachez ma honte à l'univers.
@@ -140,7 +140,7 @@ Princesse, embellissez la terre par vos charmes ;
 Mais tournez quelquefois vos regards vers les cieux.
 
 
-**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *date_1761 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dejanire
+**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *id_DEJANIRE *date_1761 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dejanire
 
 Dircé, voici le jour où mon sort se décide,
 Le jour qui doit me rendre Alcide,
@@ -297,7 +297,7 @@ Peins-lui le désespoir de ta coupable mère ;
 Et dis-lui que mon coeur l'a toujours adoré.
 
 
-**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *date_1761 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_hilus
+**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *id_HILUS *date_1761 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_hilus
 
 Il revient ; Junon même à ce vainqueur rapide
 Se lasse d'opposer d'inutiles efforts.
@@ -439,7 +439,7 @@ Les dieux me puniraient si je n'étais parjure.
 Mon père !
 
 
-**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *date_1761 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philoctete
+**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *id_PHILOCTETE *date_1761 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philoctete
 
 Au pied du monte Olympe, une illustre jeunesse
 Vient célébrer les jeux que tu fais publier.
@@ -480,7 +480,7 @@ Alcide !... Quels gémissements !
       Alcide.
 
 
-**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *date_1761 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iole
+**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *id_IOLE *date_1761 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iole
 
 Quelle voix suspend mes alarmes ?
 Quel Dieu vient adoucir la rigueur de mes fers ?
@@ -552,7 +552,7 @@ Elle vient d'expirer, en demandant aux dieux
 D'épuiser leur rigueur sur elle.
 
 
-**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *date_1761 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dirce
+**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *id_DIRCE *date_1761 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dirce
 
 Junon le tient sous sa puissance,
 Elle a prolongé ses travaux.
@@ -584,7 +584,7 @@ Nessus vous l'a prédit expirant à vos yeux.
 Reine, qui peut vous alarmer ?
 
 
-**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *date_1761 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lajalousie
+**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *id_LAJALOUSIE *date_1761 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lajalousie
 
 Non, non, dans la nature entière
 Tous les heureux sont mes rivaux.

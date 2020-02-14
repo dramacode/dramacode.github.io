@@ -1,6 +1,6 @@
 
 
-**** *creator_favart *book_favart_anglaisdebordeaux *style_verse *genre_comedy *dist1_favart_verse_comedy_anglaisdebordeaux *dist2_favart_verse_comedy *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_darmant
+**** *creator_favart *book_favart_anglaisdebordeaux *style_verse *genre_comedy *dist1_favart_verse_comedy_anglaisdebordeaux *dist2_favart_verse_comedy *id_DARMANT *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_darmant
 
 Ma sour, je suis piqué ; mais piqué jusqu'au vif ;
 L'amitié du Milord me serait précieuse :
@@ -305,7 +305,7 @@ Ce double hymen ne laisserait
 Aucun soupçon d'antipathie.
 
 
-**** *creator_favart *book_favart_anglaisdebordeaux *style_verse *genre_comedy *dist1_favart_verse_comedy_anglaisdebordeaux *dist2_favart_verse_comedy *date_1763 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_clarice
+**** *creator_favart *book_favart_anglaisdebordeaux *style_verse *genre_comedy *dist1_favart_verse_comedy_anglaisdebordeaux *dist2_favart_verse_comedy *id_CLARICE *date_1763 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_clarice
 
 Madame, j'ai recours à vous.
 Mon père s'abandonne à la mélancolie.
@@ -458,7 +458,7 @@ Ce spectacle est charmant, j'en serais attendrie.
 Ah ! Mon père.
 
 
-**** *creator_favart *book_favart_anglaisdebordeaux *style_verse *genre_comedy *dist1_favart_verse_comedy_anglaisdebordeaux *dist2_favart_verse_comedy *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sudmer
+**** *creator_favart *book_favart_anglaisdebordeaux *style_verse *genre_comedy *dist1_favart_verse_comedy_anglaisdebordeaux *dist2_favart_verse_comedy *id_SUDMER *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sudmer
 
 Vive, vive, Mylord ! Ah ! Quel heureux moment !
 Je vous retrouve et ma joie est si grande....
@@ -719,7 +719,7 @@ Et Paix, Paix.
 Messieurs, la paix.
 
 
-**** *creator_favart *book_favart_anglaisdebordeaux *style_verse *genre_comedy *dist1_favart_verse_comedy_anglaisdebordeaux *dist2_favart_verse_comedy *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_robinson
+**** *creator_favart *book_favart_anglaisdebordeaux *style_verse *genre_comedy *dist1_favart_verse_comedy_anglaisdebordeaux *dist2_favart_verse_comedy *id_ROBINSON *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_robinson
 
       Bonjour, Monsieur ;
 Bonjour, Madame. Ah ! Le bon frère

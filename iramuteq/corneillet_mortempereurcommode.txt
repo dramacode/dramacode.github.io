@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillet *book_corneillet_mortempereurcommode *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortempereurcommode *dist2_corneillet_verse_tragedy *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_commode
+**** *creator_corneillet *book_corneillet_mortempereurcommode *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortempereurcommode *dist2_corneillet_verse_tragedy *id_COMMODE *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_commode
 
 Quoi, Rome veut de moi cette indigne contrainte ?
 J'en dois fuir le murmure, et respecter la plainte,
@@ -421,7 +421,7 @@ J'aime à l'abandonner pour ne leur devoir rien.
 Qu'on m'emporte d'ici.
 
 
-**** *creator_corneillet *book_corneillet_mortempereurcommode *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortempereurcommode *dist2_corneillet_verse_tragedy *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_electus
+**** *creator_corneillet *book_corneillet_mortempereurcommode *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortempereurcommode *dist2_corneillet_verse_tragedy *id_ELECTUS *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_electus
 
 Seigneur, mon zèle ici les a laissé paraître
 Avec tout le respect que je dois à mon Maître,
@@ -764,7 +764,7 @@ D'un indigne soupçon n'a pu forcer l'injure.
 Pour toucher votre coeur ai-je assez entrepris.
 
 
-**** *creator_corneillet *book_corneillet_mortempereurcommode *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortempereurcommode *dist2_corneillet_verse_tragedy *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laetus
+**** *creator_corneillet *book_corneillet_mortempereurcommode *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortempereurcommode *dist2_corneillet_verse_tragedy *id_LAETUS *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laetus
 
 Quoi, Madame, est-ce moi que vous fuyez ainsi,
 Et tandis que mon coeur, ennemi de la feinte,
@@ -1033,7 +1033,7 @@ Quand elle touche au Trône, oserais-je y prétendre ?
 Ô glorieux arrêt qui remplit mon espoir !
 
 
-**** *creator_corneillet *book_corneillet_mortempereurcommode *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortempereurcommode *dist2_corneillet_verse_tragedy *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marcia
+**** *creator_corneillet *book_corneillet_mortempereurcommode *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortempereurcommode *dist2_corneillet_verse_tragedy *id_MARCIA *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marcia
 
 C'en est trop, et j'ai lieu d'accuser votre zèle
 S'il condamne la gloire où le Destin m'appelle,
@@ -1621,7 +1621,7 @@ Et mériter qu'en vous il honore aujourd'hui
 La vertu que les Dieux ont couronnée en lui.
 
 
-**** *creator_corneillet *book_corneillet_mortempereurcommode *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortempereurcommode *dist2_corneillet_verse_tragedy *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_helvie
+**** *creator_corneillet *book_corneillet_mortempereurcommode *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortempereurcommode *dist2_corneillet_verse_tragedy *id_HELVIE *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_helvie
 
 Je l'avouerai, ma soeur ; c'est vous faire justice
 Que de vous élever au rang d'Impératrice,
@@ -2138,7 +2138,7 @@ Et votre amour du mien doit flatter sa constance,
 S'il peut dans mon devoir en trouver l'assurance.
 
 
-**** *creator_corneillet *book_corneillet_mortempereurcommode *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortempereurcommode *dist2_corneillet_verse_tragedy *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_flavian
+**** *creator_corneillet *book_corneillet_mortempereurcommode *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortempereurcommode *dist2_corneillet_verse_tragedy *id_FLAVIAN *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_flavian
 
 Seigneur, on vous attend pour la Cérémonie.
 
@@ -2271,7 +2271,7 @@ Et la moindre vertu dans toutes ses maximes
 Établit le refus de commettre des crimes.
 
 
-**** *creator_corneillet *book_corneillet_mortempereurcommode *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortempereurcommode *dist2_corneillet_verse_tragedy *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucie
+**** *creator_corneillet *book_corneillet_mortempereurcommode *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortempereurcommode *dist2_corneillet_verse_tragedy *id_LUCIE *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucie
 
 Elle est noble, elle est haute, et je doute qu'Helvie
 Ne la condamne en vous par un motif d'envie.
@@ -2306,7 +2306,7 @@ Mais sitôt qu'on y songe, on commence d'aimer.
 Vous l'avez maltraité.
 
 
-**** *creator_corneillet *book_corneillet_mortempereurcommode *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortempereurcommode *dist2_corneillet_verse_tragedy *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+**** *creator_corneillet *book_corneillet_mortempereurcommode *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortempereurcommode *dist2_corneillet_verse_tragedy *id_JULIE *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
 
 Madame, tout d'un coup quelle est cette tristesse ?
 

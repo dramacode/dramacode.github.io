@@ -1,6 +1,6 @@
 
 
-**** *creator_regnard *book_regnard_carnavaldevenise *style_verse *genre_ballet *dist1_regnard_verse_ballet_carnavaldevenise *dist2_regnard_verse_ballet *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_minerve
+**** *creator_regnard *book_regnard_carnavaldevenise *style_verse *genre_ballet *dist1_regnard_verse_ballet_carnavaldevenise *dist2_regnard_verse_ballet *id_MINERVE *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_minerve
 
 Je quitte sans regret la demeure immortelle,
 Pour venir en ce jour,
@@ -38,7 +38,7 @@ Tout ce que Venise a de jeux
 Dans la saison la plus charmante.
 
 
-**** *creator_regnard *book_regnard_carnavaldevenise *style_verse *genre_ballet *dist1_regnard_verse_ballet_carnavaldevenise *dist2_regnard_verse_ballet *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pluton
+**** *creator_regnard *book_regnard_carnavaldevenise *style_verse *genre_ballet *dist1_regnard_verse_ballet_carnavaldevenise *dist2_regnard_verse_ballet *id_PLUTON *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pluton
 
 Dieux des enfers, aux armes !
 
@@ -81,7 +81,7 @@ Qu'on ne parle plus de tristesse
 Où brille le flambeau d'Amour.
 
 
-**** *creator_regnard *book_regnard_carnavaldevenise *style_verse *genre_ballet *dist1_regnard_verse_ballet_carnavaldevenise *dist2_regnard_verse_ballet *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orphee
+**** *creator_regnard *book_regnard_carnavaldevenise *style_verse *genre_ballet *dist1_regnard_verse_ballet_carnavaldevenise *dist2_regnard_verse_ballet *id_ORPHEE *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orphee
 
 Puissant maître des Ombres,
 À ton trône enflammé l'Amour conduit mes pas :

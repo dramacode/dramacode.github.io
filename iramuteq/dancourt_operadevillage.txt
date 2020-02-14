@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_operadevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operadevillage *dist2_dancourt_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thibaut
+**** *creator_dancourt *book_dancourt_operadevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operadevillage *dist2_dancourt_prose_comedy *id_THIBAUT *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thibaut
 
 Il vient de m'envoyer prier de passer cheux lui, notre Bailli, et ce pourrait bian être pour ça. Oui, mon neveu Colin, ce grand Piarrot-là est bian assotté de notre fille Louison.
 
@@ -166,7 +166,7 @@ Tope.
 Ça n'est peut-être pas trop biau, mais c'est à ce factotum de Monsieur Galoche qu'il faut s'en prendre.
 
 
-**** *creator_dancourt *book_dancourt_operadevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operadevillage *dist2_dancourt_prose_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_louison
+**** *creator_dancourt *book_dancourt_operadevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operadevillage *dist2_dancourt_prose_comedy *id_LOUISON *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_louison
 
 Je ne m'en souviens pas tout à fait, mon père, je sais seulement que j'ai rêvé des choses qui m'ont fait beaucoup plaisir.
 
@@ -233,7 +233,7 @@ Il faut donc que nous demeurions, car nous en sommes.
 Au moins venez le plus tôt que vous pourrez, mon cousin.
 
 
-**** *creator_dancourt *book_dancourt_operadevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operadevillage *dist2_dancourt_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colin
+**** *creator_dancourt *book_dancourt_operadevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operadevillage *dist2_dancourt_prose_comedy *id_COLIN *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colin
 
 Palsangoi, mon oncle, il n'en faut pas faire à deux fois. Notre nouveau Seigneur arrive aujourd'hui ; Hé morgué, que la petite réjouissance que je l'y voulons bailler, serve aux fiançailles de ma cousine Louison, avec ce grand Nicodème de Piarrot. M'est avis que son père, notre Bailli, se porte un tantinet mieux que de coutume ; et si vous l'y marmuriez queuque chose de ce mariage, je crois, Dieu me pardonne, que ce serait une affaire bientôt bâtie.
 
@@ -266,7 +266,7 @@ Je leur ai demandé où alles allions : au-devant de Monsieur le Marquis, m'ont
 Attendez. Vela ma soeur Martine.
 
 
-**** *creator_dancourt *book_dancourt_operadevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operadevillage *dist2_dancourt_prose_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_martine
+**** *creator_dancourt *book_dancourt_operadevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operadevillage *dist2_dancourt_prose_comedy *id_MARTINE *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_martine
 
 Ah, ma cousine, je t'apporte une bonne nouvelle !
 
@@ -311,7 +311,7 @@ Mais mon frère Colin est allé au-devant de Monsieur le Marquis, s'il nous trou
 Ne vous alarmez point, mon oncle, ce Monsieur qui enlevait ma cousine, ne l'enlevait que pour l'épouser : c'est un des meilleurs amis de notte Monsieur le Marquis, et son neveu, je pense. Ils viennent tous d'entrer au Château, où ils disent que vous alliez les trouver, pour leur donner ce petit divertissement que vous avez préparé.
 
 
-**** *creator_dancourt *book_dancourt_operadevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operadevillage *dist2_dancourt_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafleche
+**** *creator_dancourt *book_dancourt_operadevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operadevillage *dist2_dancourt_prose_comedy *id_LAFLECHE *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafleche
 
 Où allez-vous donc, Monsieur Thibaut ?
 
@@ -448,7 +448,7 @@ Je n'ai point trop mal fait de demeurer.
 Ma foi, vivat, monsieur Thibaut.
 
 
-**** *creator_dancourt *book_dancourt_operadevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operadevillage *dist2_dancourt_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_galoche
+**** *creator_dancourt *book_dancourt_operadevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operadevillage *dist2_dancourt_prose_comedy *id_GALOCHE *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_galoche
 
 Serviteur à Monsieur Thibaut, et à Monsieur Colin.
 
@@ -519,7 +519,7 @@ Vous avez là encore une symphonie des plus complète ; et à moins que vous ne
 Je vais donc avertir mon associé.
 
 
-**** *creator_dancourt *book_dancourt_operadevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operadevillage *dist2_dancourt_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+**** *creator_dancourt *book_dancourt_operadevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operadevillage *dist2_dancourt_prose_comedy *id_PIERROT *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
 
 La bonne chose que le vin !
 Morgué, se peut-il qu'on s'en lasse ?

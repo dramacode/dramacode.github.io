@@ -1,6 +1,6 @@
 
 
-**** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_herode
+**** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *id_HERODE *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_herode
 
 Que vois-je, mes enfants ? Qu'ai-je entendu, ma fille ?
 Quel désordre nouveau divise ma famille ?
@@ -411,7 +411,7 @@ Il est sacré pour toi ; n'en souille point ton bras,
 Et laisse à ma fureur le soin de mon trépas.
 
 
-**** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alexandre
+**** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *id_ALEXANDRE *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alexandre
 
 Que fait le Roi ?
 
@@ -852,7 +852,7 @@ Prêt à bénir la main...
 Vous allez être instruit, Seigneur, de tous mes crimes.
 
 
-**** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antipater
+**** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *id_ANTIPATER *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antipater
 
       Madame, c'en est fait,
 De vos bontés pour moi je n'attends plus l'effet,
@@ -960,7 +960,7 @@ Arbitre de ses jours...
 Adieu, Madame.
 
 
-**** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *date_1709 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_glaphira
+**** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *id_GLAPHIRA *date_1709 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_glaphira
 
 Phénice, connais mieux sa cruelle ennemie.
 Les caresses du Roi, l'appui de l'Empereur,
@@ -1118,7 +1118,7 @@ Il est à ton amour un obstacle fatal :
 Mais il n'est pas le seul ... Hérode est ton rival.
 
 
-**** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *date_1709 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_salome
+**** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *id_SALOME *date_1709 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_salome
 
 Oui, des desseins qu'enfante un trop juste courroux,
 Ma prudence, Philon, se repose sur vous.
@@ -1508,7 +1508,7 @@ Adieu. De tant d'horreurs si j'ai rempli ton sort,
 Je te laisse du moins l'exemple de ma mort.
 
 
-**** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thirron
+**** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *id_THIRRON *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thirron
 
 Arrête ici, Thirron. Alexandre en ces lieux,
 En entrant chez le Roi, va s'offrir à tes yeux.
@@ -1704,7 +1704,7 @@ Tu peux punir l'audace où j'ose recourir :
 Mais qui brave un Tyran ne craint point de mourir.
 
 
-**** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philon
+**** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *id_PHILON *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philon
 
 Madame, je ferai tout ce que j'ai promis.
 
@@ -1828,7 +1828,7 @@ Laissez-moi partager le péril et la fuite.
 Quel qu'en soit le succès heureux, ou malheureux...
 
 
-**** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achas
+**** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *id_ACHAS *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achas
 
 Seigneur, je viens savoir vos volontés dernières
 Le Conseil les attend, tout prêt à prononcer.
@@ -1870,7 +1870,7 @@ Et de sa part Thirron vous demande audience.
 Juste Ciel !
 
 
-**** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *date_1709 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phedime
+**** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *id_PHEDIME *date_1709 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phedime
 
 Ô Ciel ! Que faites-vous, Madame, en quelles mains
 Osez-vous confier de semblables desseins ?

@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcandre
+**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_ALCANDRE *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcandre
 
 L'admirable rencontre à mon âme ravie,
 De voir que deux amants s'entre-doivent la vie,
@@ -166,7 +166,7 @@ Et nous verrons alors cueillir en même jour
 À deux couples d'amants les fruits de leur amour.
 
 
-**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_floridan
+**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_FLORIDAN *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_floridan
 
 Ce cheval trop fougueux m'incommode à la chasse ;
 Tiens-m'en un autre prêt, tandis qu'en cette place,
@@ -377,7 +377,7 @@ Vers un si beau sujet d'autant mieux adressées,
 Que je lui veux céder ce qui m'en appartient.
 
 
-**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rosidor
+**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_ROSIDOR *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rosidor
 
 Ce devoir, ou plutôt cette importunité,
 Au lieu de m'assurer de ta fidélité,
@@ -645,7 +645,7 @@ Je l'employai dès lors contre votre colère.
 En moi dorénavant faites état d'un frère.
 
 
-**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_CLITANDRE *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
 
 Ce récit ennuyeux de ma triste langueur,
 Mon prince, ne vaut pas le tirer en longueur ;
@@ -837,7 +837,7 @@ En moi, d'un serviteur dont l'amour éperdu
 Ne vous conteste plus un prix qui vous est dû.
 
 
-**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pymante
+**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_PYMANTE *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pymante
 
       Au lieu de me flatter,
 Voyons si le projet ne saurait avorter,
@@ -1285,7 +1285,7 @@ Vous pleureriez le prince et souffririez Pymante.
 Mais que tardez-vous plus ? J'ai tout dit : punissez.
 
 
-**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *date_1631 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_caliste
+**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_CALISTE *date_1631 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_caliste
 
 N'en doute plus, mon coeur, un amant hypocrite,
 Feignant de m'adorer, brûle pour Hippolyte :
@@ -1502,7 +1502,7 @@ En le remerciant parle au nom de tous deux.
 Si tu crois que je puisse encor m'en souvenir.
 
 
-**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *date_1631 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorise
+**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_DORISE *date_1631 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorise
 
 Modère ces bouillons d'une âme colérée,
 Ils sont trop violents pour être de durée ;
@@ -1778,7 +1778,7 @@ Si le pardon du roi me peut donner le vôtre,
 Si mon crime…
 
 
-**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lysarque
+**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_LYSARQUE *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lysarque
 
 Cette inclination, qui jusqu'ici vous mène,
 À me la déguiser vous donne trop de peine.
@@ -1853,7 +1853,7 @@ Suivons-les au hasard. Vous autres, enlevez
 Promptement ces deux corps que nous avons trouvés.
 
 
-**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *date_1631 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_geronte
+**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_GERONTE *date_1631 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_geronte
 
 En ce déguisement on ne peut nous connaître,
 Et sans doute bientôt le jour qui vient de naître
@@ -1882,7 +1882,7 @@ Lui-même, et le voici qui s'avance vers nous :
 À force de courir il s'est mis hors d'haleine.
 
 
-**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleon
+**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_CLEON *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleon
 
 Réserve à d'autres temps cette ardeur de courage
 Qui rend de ta valeur un si grand témoignage.
@@ -1914,7 +1914,7 @@ Vos veneurs ont conduit Pymante, et moi Dorise ;
 Et je viens seulement prendre un ordre nouveau.
 
 
-**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_geolier
+**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_GEOLIER *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_geolier
 
 Permettez que ma main de ces fers vous détache.
 

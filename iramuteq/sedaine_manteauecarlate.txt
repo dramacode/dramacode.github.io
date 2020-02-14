@@ -1,6 +1,6 @@
 
 
-**** *creator_sedaine *book_sedaine_manteauecarlate *style_prose *genre_proverbe *dist1_sedaine_prose_proverbe_manteauecarlate *dist2_sedaine_prose_proverbe *date_1784 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
+**** *creator_sedaine *book_sedaine_manteauecarlate *style_prose *genre_proverbe *dist1_sedaine_prose_proverbe_manteauecarlate *dist2_sedaine_prose_proverbe *id_MARTON *date_1784 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
 
 Qui frappe ?
 
@@ -103,7 +103,7 @@ Madame a raison. Vous êtes tout de feu lorsque vous faites des reproches, et to
 Mon cher maître !
 
 
-**** *creator_sedaine *book_sedaine_manteauecarlate *style_prose *genre_proverbe *dist1_sedaine_prose_proverbe_manteauecarlate *dist2_sedaine_prose_proverbe *date_1784 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorimene
+**** *creator_sedaine *book_sedaine_manteauecarlate *style_prose *genre_proverbe *dist1_sedaine_prose_proverbe_manteauecarlate *dist2_sedaine_prose_proverbe *id_DORIMENE *date_1784 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorimene
 
 Amie.
 
@@ -187,7 +187,7 @@ Eh bien ! Défendez-vous. Voilà mes armes.
 Eh bien ! Monsieur le jaloux...
 
 
-**** *creator_sedaine *book_sedaine_manteauecarlate *style_prose *genre_proverbe *dist1_sedaine_prose_proverbe_manteauecarlate *dist2_sedaine_prose_proverbe *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gerault
+**** *creator_sedaine *book_sedaine_manteauecarlate *style_prose *genre_proverbe *dist1_sedaine_prose_proverbe_manteauecarlate *dist2_sedaine_prose_proverbe *id_GERAULT *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gerault
 
 Oh ! Pour ce qui est de ça...
 

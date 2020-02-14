@@ -1,6 +1,6 @@
 
 
-**** *creator_quinault *book_quinault_amadis *style_verse *genre_show *dist1_quinault_verse_show_amadis *dist2_quinault_verse_show *date_1684 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_amadis
+**** *creator_quinault *book_quinault_amadis *style_verse *genre_show *dist1_quinault_verse_show_amadis *dist2_quinault_verse_show *id_AMADIS *date_1684 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_amadis
 
 J'aime, hélas ! c'est assez pour être malheureux.
 
@@ -121,7 +121,7 @@ Ah ! Ne reprenez plus votre fatal courroux,
 Si vous souhaitez que je vive.
 
 
-**** *creator_quinault *book_quinault_amadis *style_verse *genre_show *dist1_quinault_verse_show_amadis *dist2_quinault_verse_show *date_1684 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_oriane
+**** *creator_quinault *book_quinault_amadis *style_verse *genre_show *dist1_quinault_verse_show_amadis *dist2_quinault_verse_show *id_ORIANE *date_1684 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_oriane
 
 Ah, qu'il est beau d'aimer d'une amour éternelle !
 
@@ -245,7 +245,7 @@ Tout vous a dit
 Que je vous aime.
 
 
-**** *creator_quinault *book_quinault_amadis *style_verse *genre_show *dist1_quinault_verse_show_amadis *dist2_quinault_verse_show *date_1684 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_florestan
+**** *creator_quinault *book_quinault_amadis *style_verse *genre_show *dist1_quinault_verse_show_amadis *dist2_quinault_verse_show *id_FLORESTAN *date_1684 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_florestan
 
 Je reviens dans ces lieux pour y voir ce que j'aime ;
 Mais au sang qui nousjoint, je fais ce que je dois :
@@ -325,7 +325,7 @@ Sortons d'esclavage.
 Aimons-nous, livrons-nous au bonheur de nous voir.
 
 
-**** *creator_quinault *book_quinault_amadis *style_verse *genre_show *dist1_quinault_verse_show_amadis *dist2_quinault_verse_show *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_corisande
+**** *creator_quinault *book_quinault_amadis *style_verse *genre_show *dist1_quinault_verse_show_amadis *dist2_quinault_verse_show *id_CORISANDE *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_corisande
 
 Florestan !
 
@@ -390,7 +390,7 @@ Trouve ne tes chaînes
 Le parfait bonheur.
 
 
-**** *creator_quinault *book_quinault_amadis *style_verse *genre_show *dist1_quinault_verse_show_amadis *dist2_quinault_verse_show *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcalaus
+**** *creator_quinault *book_quinault_amadis *style_verse *genre_show *dist1_quinault_verse_show_amadis *dist2_quinault_verse_show *id_ARCALAUS *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcalaus
 
 Ma soeur, qui peut causer votre sombre tristesse ?
 Le silence des bois sert à l'entretenir.
@@ -494,7 +494,7 @@ Le ministre de notre haine.
 Qui peut conduire ici ce rocher enflammé.
 
 
-**** *creator_quinault *book_quinault_amadis *style_verse *genre_show *dist1_quinault_verse_show_amadis *dist2_quinault_verse_show *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_arcabonne
+**** *creator_quinault *book_quinault_amadis *style_verse *genre_show *dist1_quinault_verse_show_amadis *dist2_quinault_verse_show *id_ARCABONNE *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_arcabonne
 
 
 
@@ -641,7 +641,7 @@ Et qu'il pleure Oriane morte....
 Mais pour eux contre nous, quel pouvoir s'est armé ?
 
 
-**** *creator_quinault *book_quinault_amadis *style_verse *genre_show *dist1_quinault_verse_show_amadis *dist2_quinault_verse_show *date_1684 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_demons
+**** *creator_quinault *book_quinault_amadis *style_verse *genre_show *dist1_quinault_verse_show_amadis *dist2_quinault_verse_show *id_DEMONS *date_1684 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_demons
 
 Que des plaisirs enchanteurs
 Vous s'empresser sur vos traces !
@@ -669,7 +669,7 @@ Quel vainqueur a résisté,
 Au charme de la beauté ?
 
 
-**** *creator_quinault *book_quinault_amadis *style_verse *genre_show *dist1_quinault_verse_show_amadis *dist2_quinault_verse_show *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_urgande
+**** *creator_quinault *book_quinault_amadis *style_verse *genre_show *dist1_quinault_verse_show_amadis *dist2_quinault_verse_show *id_URGANDE *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_urgande
 
 Les plaisirs nous suivront désormais ;
 Nous allons voir nos désirs satisfaits.

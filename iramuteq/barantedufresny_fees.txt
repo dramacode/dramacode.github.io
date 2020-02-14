@@ -1,6 +1,6 @@
 
 
-**** *creator_barantedufresny *book_barantedufresny_fees *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_fees *dist2_barantedufresny_verse_comedy *date_1697 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_ismenie
+**** *creator_barantedufresny *book_barantedufresny_fees *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_fees *dist2_barantedufresny_verse_comedy *id_ISMENIE *date_1697 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_ismenie
 
 Ô mort, funeste mort, ne viendras-tu pas finir le triste cours de mes infortunes ? Mais que vois-je, Octave ? Ah ! Octave, mon cher Prince, est-ce vous ?
 
@@ -21,7 +21,7 @@ Ah, mon Prince !
 C'est mon père.
 
 
-**** *creator_barantedufresny *book_barantedufresny_fees *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_fees *dist2_barantedufresny_verse_comedy *date_1697 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_octave
+**** *creator_barantedufresny *book_barantedufresny_fees *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_fees *dist2_barantedufresny_verse_comedy *id_OCTAVE *date_1697 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_octave
 
 Adieu, mon enfant, je te remercie.
 
@@ -42,7 +42,7 @@ Ah, ma Princesse !
 Mais il faudrait le consentement du Roi Croquignolet son père.
 
 
-**** *creator_barantedufresny *book_barantedufresny_fees *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_fees *dist2_barantedufresny_verse_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_barantedufresny *book_barantedufresny_fees *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_fees *dist2_barantedufresny_verse_comedy *id_ARLEQUIN *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Ohimé ! Je ne sais où je suis ? Je viens de rouler de ce Rocher en bas ; où trouverai-je mon Maître ?
 
@@ -143,7 +143,7 @@ En bonnes pistoles
 Nos gaies chansons.
 
 
-**** *creator_barantedufresny *book_barantedufresny_fees *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_fees *dist2_barantedufresny_verse_comedy *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lafee
+**** *creator_barantedufresny *book_barantedufresny_fees *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_fees *dist2_barantedufresny_verse_comedy *id_LAFEE *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lafee
 
 Arrêtez, malheureux, arrêtez.
 
@@ -192,7 +192,7 @@ Les vieilles Coquettes
 En jeunes tendrons.
 
 
-**** *creator_barantedufresny *book_barantedufresny_fees *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_fees *dist2_barantedufresny_verse_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+**** *creator_barantedufresny *book_barantedufresny_fees *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_fees *dist2_barantedufresny_verse_comedy *id_PIERROT *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
 
 Hé bien, Monsieur, ne vous ai-je pas bien conduit ? La Fée qui m'a chargée de vous mener, m'a ordonné de vous laisser ici. Vous y serez fort bien, et vous n'y manquerez que de quoi boire et manger ; mais vous faites métier de Héros de Roman, et vous savez bien qu'il n'y a jamais eu d'Étape pour la nourriture des héros de Roman. Adieu, Monsieur.
 

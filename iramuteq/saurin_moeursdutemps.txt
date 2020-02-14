@@ -1,6 +1,6 @@
 
 
-**** *creator_saurin *book_saurin_moeursdutemps *style_prose *genre_comedy *dist1_saurin_prose_comedy_moeursdutemps *dist2_saurin_prose_comedy *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_geronte
+**** *creator_saurin *book_saurin_moeursdutemps *style_prose *genre_comedy *dist1_saurin_prose_comedy_moeursdutemps *dist2_saurin_prose_comedy *id_GERONTE *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_geronte
 
 J'ai moi-même fait ajuster la salle, et avec goût, j'ose m'en vanter. Je ne vous parle point de la dépense ; mais, en vérité, ma soeur, je voudrais bien que, pour l'intérêt de votre santé, vous prissiez des plaisirs moins fatigants ! Dites-moi donc quel charme vous trouvez à veiller toute la nuit, pour dormir tout le jour ? Est-ce que le plaisir d'un beau soleil...
 
@@ -55,7 +55,7 @@ C'est bien dit... Continuons le bal... Je n'aime pas la danse ; mais je suis si 
 Et vous, mes enfants, donnez-vous la main, et aimez-vous bien, tous deux, en dépit de la mode, et des moeurs du temps !
 
 
-**** *creator_saurin *book_saurin_moeursdutemps *style_prose *genre_comedy *dist1_saurin_prose_comedy_moeursdutemps *dist2_saurin_prose_comedy *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+**** *creator_saurin *book_saurin_moeursdutemps *style_prose *genre_comedy *dist1_saurin_prose_comedy_moeursdutemps *dist2_saurin_prose_comedy *id_LACOMTESSE *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
 
 Ah ! Vous voilà, Marquis !...
 Tenez, vous autres, apportez ici ma toilette...
@@ -192,7 +192,7 @@ Celle dont vous faites un si beau portrait, monstre que vous êtes !
 Oui, monsieur ; mariez votre fille avec Dorante ! J'abjure, à jamais, le Marquis et ses semblables !
 
 
-**** *creator_saurin *book_saurin_moeursdutemps *style_prose *genre_comedy *dist1_saurin_prose_comedy_moeursdutemps *dist2_saurin_prose_comedy *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lemarquis
+**** *creator_saurin *book_saurin_moeursdutemps *style_prose *genre_comedy *dist1_saurin_prose_comedy_moeursdutemps *dist2_saurin_prose_comedy *id_LEMARQUIS *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lemarquis
 
 Courage ! Mon petit parent, il me semble que tes affaires ne vont pas mal ?
 
@@ -295,7 +295,7 @@ Que vois-je ?
 Monsieur... je vous baise les mains !
 
 
-**** *creator_saurin *book_saurin_moeursdutemps *style_prose *genre_comedy *dist1_saurin_prose_comedy_moeursdutemps *dist2_saurin_prose_comedy *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+**** *creator_saurin *book_saurin_moeursdutemps *style_prose *genre_comedy *dist1_saurin_prose_comedy_moeursdutemps *dist2_saurin_prose_comedy *id_JULIE *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
 
 Ah !... Quoi ! Madame ; c'est vous !
 
@@ -354,7 +354,7 @@ Souffrez, mon père, que Dorante et moi nous embrassions vos genoux !
 Ah ! Mon père, quels remerciements !...
 
 
-**** *creator_saurin *book_saurin_moeursdutemps *style_prose *genre_comedy *dist1_saurin_prose_comedy_moeursdutemps *dist2_saurin_prose_comedy *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cidalise
+**** *creator_saurin *book_saurin_moeursdutemps *style_prose *genre_comedy *dist1_saurin_prose_comedy_moeursdutemps *dist2_saurin_prose_comedy *id_CIDALISE *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cidalise
 
 Monsieur le Baron, il y a quelque chose là-dessous qui n'est pas naturel !
 
@@ -473,7 +473,7 @@ N'ai-je pas entendu quelque bruit ?...
 Vous mériteriez bien aussi quelque épithète de ma part ; mais je m'en tiens au mépris.
 
 
-**** *creator_saurin *book_saurin_moeursdutemps *style_prose *genre_comedy *dist1_saurin_prose_comedy_moeursdutemps *dist2_saurin_prose_comedy *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+**** *creator_saurin *book_saurin_moeursdutemps *style_prose *genre_comedy *dist1_saurin_prose_comedy_moeursdutemps *dist2_saurin_prose_comedy *id_DORANTE *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
 
 Mais, madame, concevez-vous quelque chose à ce changement ? Géronte m'amène à sa maison de campagne : il me laisse espérer qu'il me donnera Julie ; et lorsque je lui fais parler, sa réponse est équivoque, incertaine, et je vois tout à craindre pour mon amour !
 
@@ -552,7 +552,7 @@ Ah ! Mademoiselle, ce n'est pas mon intérêt qui m'anime ; c'est le vôtre. Si 
 Ah ! Monsieur, quelles grâces !...
 
 
-**** *creator_saurin *book_saurin_moeursdutemps *style_prose *genre_comedy *dist1_saurin_prose_comedy_moeursdutemps *dist2_saurin_prose_comedy *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_finette
+**** *creator_saurin *book_saurin_moeursdutemps *style_prose *genre_comedy *dist1_saurin_prose_comedy_moeursdutemps *dist2_saurin_prose_comedy *id_FINETTE *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_finette
 
 Qui, madame ?
 

@@ -1,6 +1,6 @@
 
 
-**** *creator_beaunoir *book_beaunoir_princeramoneur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_princeramoneur *dist2_beaunoir_prose_comedy *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_doncesar
+**** *creator_beaunoir *book_beaunoir_princeramoneur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_princeramoneur *dist2_beaunoir_prose_comedy *id_DONCESAR *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_doncesar
 
 Aurait il découvert ?
 
@@ -38,7 +38,7 @@ Où a-t-il la tête aujourd'hui ?
 Mon Prince...
 
 
-**** *creator_beaunoir *book_beaunoir_princeramoneur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_princeramoneur *dist2_beaunoir_prose_comedy *date_1784 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_donasancha
+**** *creator_beaunoir *book_beaunoir_princeramoneur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_princeramoneur *dist2_beaunoir_prose_comedy *id_DONASANCHA *date_1784 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_donasancha
 
 Laissez-moi faire.
 
@@ -88,7 +88,7 @@ C'est donc là ce Monseigneur qui m'a fait la grâce de me presser si fort ?
 Je ne m'étonne plus que les mains de son Altesse fussent si rudes.
 
 
-**** *creator_beaunoir *book_beaunoir_princeramoneur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_princeramoneur *dist2_beaunoir_prose_comedy *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_postichi
+**** *creator_beaunoir *book_beaunoir_princeramoneur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_princeramoneur *dist2_beaunoir_prose_comedy *id_POSTICHI *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_postichi
 
 C'est senz' altre à son Altesse Serenissime Monsignor le Prince d'Oresca à qui j'ai l'honnor di parler.
 
@@ -127,7 +127,7 @@ Ahi ! ahi ! ahi !
 Per Dio ! Non posso piou. Ahi ! ahi ! ahi !
 
 
-**** *creator_beaunoir *book_beaunoir_princeramoneur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_princeramoneur *dist2_beaunoir_prose_comedy *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donlope
+**** *creator_beaunoir *book_beaunoir_princeramoneur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_princeramoneur *dist2_beaunoir_prose_comedy *id_DONLOPE *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donlope
 
 Je pense bien qu'à l'heure qu'il est.... Et puis les grands Seigneurs ne sont pas comme nous autres Bourgeois. Voici un nouvel habit que je lui apporte.
 
@@ -154,7 +154,7 @@ Et moi aux vôtres, Seigneur Gusman. Serviteur.
 Voilà le moins fripon de tous les valets.
 
 
-**** *creator_beaunoir *book_beaunoir_princeramoneur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_princeramoneur *dist2_beaunoir_prose_comedy *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gusman
+**** *creator_beaunoir *book_beaunoir_princeramoneur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_princeramoneur *dist2_beaunoir_prose_comedy *id_GUSMAN *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gusman
 
 Entrez ici, le Prince n'est pas encore levé.
 
@@ -252,7 +252,7 @@ Ah ! Ah ! Ah ! C'est le Prince. Ah ! Ah ! Ah !
 Si bien que c'est-là le Prince qui a bu le chocolat.
 
 
-**** *creator_beaunoir *book_beaunoir_princeramoneur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_princeramoneur *dist2_beaunoir_prose_comedy *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_milescas
+**** *creator_beaunoir *book_beaunoir_princeramoneur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_princeramoneur *dist2_beaunoir_prose_comedy *id_MILESCAS *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_milescas
 
 Voici la perruque in-solio de Monseigneur.
 
@@ -323,7 +323,7 @@ Ah ! Ah ! Ah ! C'est Son Altesse. Ah ! Ah ! Ha !
 Et par conséquent, c'est aussi Son Altesse qui s'était débarbouillée à la serviette en question ?
 
 
-**** *creator_beaunoir *book_beaunoir_princeramoneur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_princeramoneur *dist2_beaunoir_prose_comedy *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_barogo
+**** *creator_beaunoir *book_beaunoir_princeramoneur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_princeramoneur *dist2_beaunoir_prose_comedy *id_BAROGO *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_barogo
 
 Ouf ! Le chien de métier ! Qu'on y a de mal et peu de profit !
 Qu'est-ce que ceci ? Ah ! Les belles glaces ! Les belles dorures ! Est-il possible qu'il y ait de si belles choses que ça au monde ! Ma foi, je ne m'en serais pas douté... Mon Dieu ! Mon Dieu ! Que c'est donc beau ! Je n'en reviens pas !

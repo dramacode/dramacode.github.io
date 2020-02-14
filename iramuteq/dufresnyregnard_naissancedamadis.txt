@@ -1,6 +1,6 @@
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_naissancedamadis *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_naissancedamadis *dist2_dufresnyregnard_verse_comedy *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elizene
+**** *creator_dufresnyregnard *book_dufresnyregnard_naissancedamadis *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_naissancedamadis *dist2_dufresnyregnard_verse_comedy *id_ELIZENE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elizene
 
 Ma pauvre Dariolette, je tremble comme la feuille. Mais dis-moi, un homme n'est-il pas bien fort, quand il est seul avec une personne dont il est aimé ?
 
@@ -19,7 +19,7 @@ Excusez, seigneur, si la pudeur m'empêche de parler.
 J'aimerais mieux être morte que d'avoir failli et prévariqué.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_naissancedamadis *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_naissancedamadis *dist2_dufresnyregnard_verse_comedy *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_perion
+**** *creator_dufresnyregnard *book_dufresnyregnard_naissancedamadis *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_naissancedamadis *dist2_dufresnyregnard_verse_comedy *id_PERION *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_perion
 
 Ouf !
 
@@ -163,7 +163,7 @@ Sans trop médire, il est en France
 Encore bien des Amadis.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_naissancedamadis *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_naissancedamadis *dist2_dufresnyregnard_verse_comedy *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_galaor
+**** *creator_dufresnyregnard *book_dufresnyregnard_naissancedamadis *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_naissancedamadis *dist2_dufresnyregnard_verse_comedy *id_GALAOR *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_galaor
 
 En vérité, seigneur, je vous trouve dans un bien triste et moult piteux état, depuis que vous êtes en ce diable de pays-ci. Pourquoi quitter votre royaume pour venir faire le juif-errant dans les Gaules, et ne vous occuper qu'à occire des géants et venger l'honneur des pucelles ? Vous n'aurez jamais fait à ce métier-là.
 
@@ -231,7 +231,7 @@ N'est-il pas temps que ma mazette
 Tire enfin à ton râtelier ?
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_naissancedamadis *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_naissancedamadis *dist2_dufresnyregnard_verse_comedy *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dariolette
+**** *creator_dufresnyregnard *book_dufresnyregnard_naissancedamadis *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_naissancedamadis *dist2_dufresnyregnard_verse_comedy *id_DARIOLETTE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dariolette
 
 La princesse Élizène, ma tant bonne maîtresse, m'envoie vers vous, son seigneur ; elle est navrée à votre sujet, d'une blessure tant profonde qu'elle n'en guérira jamais, si vous n'y mettez la main.
 

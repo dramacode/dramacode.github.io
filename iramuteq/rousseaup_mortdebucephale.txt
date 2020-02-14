@@ -1,6 +1,6 @@
 
 
-**** *creator_rousseaup *book_rousseaup_mortdebucephale *style_verse *genre_parodie *dist1_rousseaup_verse_parodie_mortdebucephale *dist2_rousseaup_verse_parodie *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alexandre
+**** *creator_rousseaup *book_rousseaup_mortdebucephale *style_verse *genre_parodie *dist1_rousseaup_verse_parodie_mortdebucephale *dist2_rousseaup_verse_parodie *id_ALEXANDRE *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alexandre
 
 Gardes : qu'on se retire, et qu'on nous laisse ici :
 Demeurez Aridée, et toi, Philippe aussi.
@@ -232,7 +232,7 @@ Passerai-je mon temps en regrets superflus !
 Je succombe et me meurs d'un cholera-morbus.
 
 
-**** *creator_rousseaup *book_rousseaup_mortdebucephale *style_verse *genre_parodie *dist1_rousseaup_verse_parodie_mortdebucephale *dist2_rousseaup_verse_parodie *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aridee
+**** *creator_rousseaup *book_rousseaup_mortdebucephale *style_verse *genre_parodie *dist1_rousseaup_verse_parodie_mortdebucephale *dist2_rousseaup_verse_parodie *id_ARIDEE *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aridee
 
 En Espagne, Seigneur ! Qui l'aurait pû penser !
 Quand Darius vaincu vous permet d'avancer,
@@ -473,7 +473,7 @@ Mais Philippe bientôt...
       Je me meurs.
 
 
-**** *creator_rousseaup *book_rousseaup_mortdebucephale *style_verse *genre_parodie *dist1_rousseaup_verse_parodie_mortdebucephale *dist2_rousseaup_verse_parodie *date_1748 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_statire
+**** *creator_rousseaup *book_rousseaup_mortdebucephale *style_verse *genre_parodie *dist1_rousseaup_verse_parodie_mortdebucephale *dist2_rousseaup_verse_parodie *id_STATIRE *date_1748 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_statire
 
 Ne vous étonnez point, Seigneur, qu'on m'ait choisie ;
 Pour traiter avec vous du destin de l'Asie ;
@@ -541,7 +541,7 @@ Et je vous permettrai, Seigneur... vous m'entendez,
 Je vous laisse avec lui.
 
 
-**** *creator_rousseaup *book_rousseaup_mortdebucephale *style_verse *genre_parodie *dist1_rousseaup_verse_parodie_mortdebucephale *dist2_rousseaup_verse_parodie *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ephestion
+**** *creator_rousseaup *book_rousseaup_mortdebucephale *style_verse *genre_parodie *dist1_rousseaup_verse_parodie_mortdebucephale *dist2_rousseaup_verse_parodie *id_EPHESTION *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ephestion
 
 Je dois vous faire part d'un coup inopiné,
 Dont comme moi, Seigneur, vous serez étonné.
@@ -611,7 +611,7 @@ Hélas d'un coup de pied donné d'une main sûre,
 Lui fait dans le diaphragme une large blessure.
 
 
-**** *creator_rousseaup *book_rousseaup_mortdebucephale *style_verse *genre_parodie *dist1_rousseaup_verse_parodie_mortdebucephale *dist2_rousseaup_verse_parodie *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philippe
+**** *creator_rousseaup *book_rousseaup_mortdebucephale *style_verse *genre_parodie *dist1_rousseaup_verse_parodie_mortdebucephale *dist2_rousseaup_verse_parodie *id_PHILIPPE *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philippe
 
 Bucéphale, grands dieux !
 

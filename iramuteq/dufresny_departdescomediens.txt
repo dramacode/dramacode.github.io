@@ -1,6 +1,6 @@
 
 
-**** *creator_dufresny *book_dufresny_departdescomediens *style_verse *genre_comedy *dist1_dufresny_verse_comedy_departdescomediens *dist2_dufresny_verse_comedy *date_1794 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_dufresny *book_dufresny_departdescomediens *style_verse *genre_comedy *dist1_dufresny_verse_comedy_departdescomediens *dist2_dufresny_verse_comedy *id_ARLEQUIN *date_1794 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Déserts, affreux déserts, sombres loges, parterre,
 Balcons inhabités, théâtre solitaire ;
@@ -188,7 +188,7 @@ Si notre adieu vous fait pleurer,
 Votre argent nous fera bien rire.
 
 
-**** *creator_dufresny *book_dufresny_departdescomediens *style_verse *genre_comedy *dist1_dufresny_verse_comedy_departdescomediens *dist2_dufresny_verse_comedy *date_1794 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octave
+**** *creator_dufresny *book_dufresny_departdescomediens *style_verse *genre_comedy *dist1_dufresny_verse_comedy_departdescomediens *dist2_dufresny_verse_comedy *id_OCTAVE *date_1794 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octave
 
 Moi ? Rien.
 
@@ -210,7 +210,7 @@ On n'a que faire d'enseigne, quand on est bien achalandé.
 Va, va, je n'ai que faire de ta société ; je trouverai bien dans Paris quelque illustre associé qui m'apprendra le fin du commerce.
 
 
-**** *creator_dufresny *book_dufresny_departdescomediens *style_verse *genre_comedy *dist1_dufresny_verse_comedy_departdescomediens *dist2_dufresny_verse_comedy *date_1794 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+**** *creator_dufresny *book_dufresny_departdescomediens *style_verse *genre_comedy *dist1_dufresny_verse_comedy_departdescomediens *dist2_dufresny_verse_comedy *id_LEANDRE *date_1794 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
 
 Fasse son métier qui le saura.
 Jeune fille trop sévère,
@@ -237,7 +237,7 @@ Adieu fillettes et garçons,
 Plus assidus que père et mère.
 
 
-**** *creator_dufresny *book_dufresny_departdescomediens *style_verse *genre_comedy *dist1_dufresny_verse_comedy_departdescomediens *dist2_dufresny_verse_comedy *date_1794 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mezzetin
+**** *creator_dufresny *book_dufresny_departdescomediens *style_verse *genre_comedy *dist1_dufresny_verse_comedy_departdescomediens *dist2_dufresny_verse_comedy *id_MEZZETIN *date_1794 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mezzetin
 
 Oui, monsieur. Voyant qu'il n'y a plus rien à faire à la comédie, nous nous en allons jouer un opéra à la campagne. Si vous voulez vous associer à nous, tenez, voilà toutes nos machines.
 
@@ -263,7 +263,7 @@ Adieu femmes, dont les maris
 Trouvaient ici leurs places franches.
 
 
-**** *creator_dufresny *book_dufresny_departdescomediens *style_verse *genre_comedy *dist1_dufresny_verse_comedy_departdescomediens *dist2_dufresny_verse_comedy *date_1794 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colombine
+**** *creator_dufresny *book_dufresny_departdescomediens *style_verse *genre_comedy *dist1_dufresny_verse_comedy_departdescomediens *dist2_dufresny_verse_comedy *id_COLOMBINE *date_1794 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colombine
 
 À quoi diantre s'amuse Arlequin, pendant que la troupe tient conseil sur les affaires présentes ?
 
@@ -315,7 +315,7 @@ Dieu bons bourgeois de Paris
 Qui veniez nous voir le dimanche.
 
 
-**** *creator_dufresny *book_dufresny_departdescomediens *style_verse *genre_comedy *dist1_dufresny_verse_comedy_departdescomediens *dist2_dufresny_verse_comedy *date_1794 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+**** *creator_dufresny *book_dufresny_departdescomediens *style_verse *genre_comedy *dist1_dufresny_verse_comedy_departdescomediens *dist2_dufresny_verse_comedy *id_PIERROT *date_1794 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
 
 Que la comédie aille comme elle pourra, pour moi je serai toujours recherché des femmes pour mon bel esprit.
 

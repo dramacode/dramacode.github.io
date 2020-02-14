@@ -1,6 +1,6 @@
 
 
-**** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pyrrhus
+**** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *id_PYRRHUS *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pyrrhus
 
 Ô Troie, ô murs tombés sous mes mains triomphantes,
 D'une ville fameuse ô ruines sanglantes,
@@ -423,7 +423,7 @@ Trop heureux, si je puis, légitimant ma gloire,
 Forcer sa haine enfin d'absoudre ma victoire !
 
 
-**** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulysse
+**** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *id_ULYSSE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulysse
 
       La Grèce
 Demande encor, Seigneur, votre vaillante main ;
@@ -682,7 +682,7 @@ Et combattre Pyrrhus, et le vaincre, ou mourir.
 Que vois-je ? Vous, Calchas !
 
 
-**** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phenix
+**** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *id_PHENIX *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phenix
 
 Enfin Pâris, sous vous tombant avec vingt rois,
 Ménélas et l'hymen vengés par vos exploits,
@@ -773,7 +773,7 @@ Agamemnon, Calchas, les guident, les excitent ;
 Votre nom remplit l'air, je vole, et mon secours...
 
 
-**** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hecube
+**** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *id_HECUBE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hecube
 
 Ô fille de Priam, ô soeur du grand Hector,
 Ma fille, je puis donc t'entretenir encor.
@@ -1131,7 +1131,7 @@ C'en est fait, et j'attends au séjour du trépas
 Tous les Grecs, qui bientôt y viendront sur mes pas.
 
 
-**** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_polixene
+**** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *id_POLIXENE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_polixene
 
 Abjurez ce souhait à mes désirs contraire.
 Ah ! Puisque je survis à ma famille entière,
@@ -1421,7 +1421,7 @@ Donne le fer, je meurs.
 Ma mère, je meurs libre, et je meurs dans vos bras.
 
 
-**** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_calchas
+**** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *id_CALCHAS *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_calchas
 
 Rois, vainqueurs d'Ilion aux feux abandonné,
 Fiers vengeurs de l'hymen par Pâris profané,

@@ -1,6 +1,6 @@
 
 
-**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aristione
+**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_aristione *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aristione
 
 Prince, je ne puis me lasser de le dire, il n'est point de spectacle au monde qui puisse le disputer en magnificence à celui que vous venez de nous donner. Cette Fête a eu des ornements qui l'emportent sans doute sur tout ce que l'on saurait voir, et elle vient de produire à nos yeux quelque chose de si noble, de si grand, et de si majestueux, que le Ciel même ne saurait aller au delà, et je puis dire assurément qu'il n'y a rien dans l'Univers qui s'y puisse égaler.
 
@@ -89,7 +89,7 @@ Prince, je ne veux pas me brouiller avec une personne qui m'a fait tant de grâc
 Je pardonne toutes ces menaces, aux chagrins d'un amour qui se croit offensé, et nous n'en verrons pas avec moins de tranquillité la Fête des jeux Pythiens. Allons-y de ce pas, et couronnons par ce pompeux spectacle cette merveilleuse journée.
 
 
-**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *date_1670 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_eriphile
+**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_eriphile *date_1670 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_eriphile
 
 Ah ! qu'aux personnes comme nous qui sommes toujours accablées de tant de gens, un peu de solitude est parfois agréable, et qu'après mille impertinents entretiens, il est doux de s'entretenir avec ses pensées. Qu'on me laisse ici promener toute seule.
 
@@ -230,7 +230,7 @@ Ah ! Clitidas, pouvais-tu m'en donner une qui me pût être plus agréable ?
 Et de la main des Dieux, et de la vôtre, Madame, je ne puis rien recevoir qui ne me soit fort agréable.
 
 
-**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *date_1670 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cleonice
+**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_cleonice *date_1670 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cleonice
 
 On trouvera étrange, Madame, que vous vous soyez ainsi écartée de tout le monde.
 
@@ -253,7 +253,7 @@ Madame, je vous vois l'esprit tout chagrin, vous plaît-il que vos danseurs, qui
 Madame, je viens vous dire qu'Anaxarque a jusqu'ici abusé, l'un et l'autre Prince, par l'espérance de ce choix qu'ils poursuivent depuis longtemps, et qu'au bruit qui s'est répandu de votre aventure, ils ont fait éclater tous deux leur ressentiment contre lui, jusque-là, que de paroles en paroles, les choses se sont échauffées, et il en a reçu quelques blessures dont on ne sait pas bien ce qui arrivera. Mais les voici.
 
 
-**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *date_1670 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_iphicrate
+**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_iphicrate *date_1670 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_iphicrate
 
 Sostrate est de ces gens, Madame, qui croient qu'il ne sied pas bien d'être curieux comme les autres, et il est beau d'affecter de ne pas courir où tout le monde court.
 
@@ -308,7 +308,7 @@ Oui, Madame, il importe, c'est quelque consolation de se voir préférer un homm
 Oui, oui, Madame, nous nous en souviendrons, mais peut-être aussi vous souviendrez-vous, que deux Princes outragés ne sont pas deux ennemis peu redoutables.
 
 
-**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *date_1670 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_timocles
+**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_timocles *date_1670 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_timocles
 
 Ce sont des ornements dont on ne peut pas espérer que toutes les Fêtes soient embellies, et je dois fort trembler, Madame, pour la simplicité du petit divertissement que je m'apprête à vous donner dans le Bois de Diane.
 
@@ -347,7 +347,7 @@ Oui, Madame, nous nous sommes soumis à ce qu'ils pourraient décider, entre le 
 Peut-être, Madame, qu'on ne goûtera pas longtemps la joie du mépris que l'on fait de nous.
 
 
-**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sostrate
+**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_sostrate *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sostrate
 
 Non, Sostrate, je ne vois rien où tu puisses avoir recours, et tes maux sont d'une nature à ne te laisser nulle espérance d'en sortir.
 
@@ -458,7 +458,7 @@ Ah ! Madame, si votre repos...
 Ciel ! n'est-ce point ici quelque songe, tout plein de gloire, dont les Dieux me veuillent flatter, et quelque réveil malheureux ne me replongera-t-il point dans la bassesse de ma fortune ?
 
 
-**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_clitidas
+**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_clitidas *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_clitidas
 
 Il est attaché à ses pensées ?
 
@@ -609,7 +609,7 @@ Ma foi, c'est promptement de vrai que j'achèverai, car un peu de poltronnerie m
 Voilà qu'on vient vous trouver.
 
 
-**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anaxarque
+**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_anaxarque *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anaxarque
 
 Je remarque une chose, que Clitidas n'aurait rien à dire s'il ne parlait de moi.
 
@@ -634,7 +634,7 @@ Attendons que sa Fille soit séparée d'elle, c'est un esprit que je redoute, et
 Tous deux ont recherché mon assistance, et je leur promets à tous deux la faveur de mon art ; mais les présents du Prince Iphicrate, et les promesses qu'il m'a faites, l'emportent de beaucoup sur tout ce qu'a pu faire l'autre. Ainsi ce sera lui qui recevra les effets favorables de tous les ressorts que je fais jouer ; et comme son ambition me devra toute chose, voilà mon fils notre fortune faite. Je vais prendre mon temps pour affermir dans son erreur l'esprit de la Princesse, pour la mieux prévenir encore par le rapport que je lui ferai voir adroitement des paroles de Vénus, avec les prédictions des figures Célestes, que je lui dis que j'ai jetées. Va-t'en tenir la main au reste de l'ouvrage, préparer nos six hommes à se bien cacher dans leur barque derrière le Rocher ; à posément attendre le temps que la Princesse Aristione vient tous les soirs se promener seule sur le rivage, à se jeter bien à propos sur elle, ainsi que des Corsaires, et donner lieu au Prince Iphicrate de lui apporter ce secours, qui sur les paroles du Ciel doit mettre entre ses mains la Princesse Ériphile. Ce Prince est averti par moi, et sur la foi de ma prédiction il doit se tenir dans ce petit Bois qui borde le rivage. Mais sortons de cette Grotte, je te dirai en marchant toutes les choses qu'il faut bien observer. Voilà la Princesse Ériphile, évitons sa rencontre.
 
 
-**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tircis
+**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_tircis *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tircis
 
 Vous chantez sous ces feuillages,
 Doux rossignols pleins d'amour,
@@ -693,7 +693,7 @@ Caliste ! ah je suis hors de moi !
 Si l'on meurt de plaisir je dois perdre la vie.
 
 
-**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lycaste
+**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_lycaste *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lycaste
 
 Hé quoi toujours languissant, sombre et triste ?
 
@@ -724,7 +724,7 @@ Il sied bien d'être tendre.
 Digne prix de ta foi.
 
 
-**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_menandre
+**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_menandre *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_menandre
 
 Hé quoi toujours aux pleurs abandonné ?
 
@@ -739,7 +739,7 @@ Et font d'heureux Amants.
 Ô sort digne d'envie !
 
 
-**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_caliste
+**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_caliste *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_caliste
 
 
 Ah que sur notre cœur
@@ -791,7 +791,7 @@ Le destin le veut ainsi,
 Prenez tous deux patience.
 
 
-**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_climene
+**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_climene *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_climene
 
 Lorsqu'à toute autre personne
 Me préférait ton ardeur,
@@ -812,7 +812,7 @@ Avec toi, je le confesse,
 Je voudrais vivre et mourir.
 
 
-**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philinte
+**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_philinte *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philinte
 
 Quand je plaisais à tes yeux
 J'étais content de ma vie,
@@ -833,7 +833,7 @@ Chassait Cloris de mon cœur
 Pour te remettre en sa place...
 
 
-**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *date_1670 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_choeur
+**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_choeur *date_1670 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_choeur
 
 Allons tous au-devant de ces Divinités,
 Et rendons par nos chants hommage à leurs beautés.

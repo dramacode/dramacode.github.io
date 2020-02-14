@@ -1,6 +1,6 @@
 
 
-**** *creator_boissy *book_boissy_francaisalondres *style_prose *genre_comedy *dist1_boissy_prose_comedy_francaisalondres *dist2_boissy_prose_comedy *date_1727 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_finette
+**** *creator_boissy *book_boissy_francaisalondres *style_prose *genre_comedy *dist1_boissy_prose_comedy_francaisalondres *dist2_boissy_prose_comedy *id_FINETTE *date_1727 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_finette
 
 Madame, voilà une lettre qu'on a oublié de vous remettre hier au soir.
 

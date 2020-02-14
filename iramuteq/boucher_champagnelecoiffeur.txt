@@ -1,6 +1,6 @@
 
 
-**** *creator_boucher *book_boucher_champagnelecoiffeur *style_verse *genre_comedy *dist1_boucher_verse_comedy_champagnelecoiffeur *dist2_boucher_verse_comedy *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_boniface
+**** *creator_boucher *book_boucher_champagnelecoiffeur *style_verse *genre_comedy *dist1_boucher_verse_comedy_champagnelecoiffeur *dist2_boucher_verse_comedy *id_BONIFACE *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_boniface
 
 Ma fille, ma fille, Lisette !
 Elles ont plié la toilette :
@@ -308,7 +308,7 @@ Mais vous étiez tantôt Champagne.
 Hé bien donc, je consens à tout.
 
 
-**** *creator_boucher *book_boucher_champagnelecoiffeur *style_verse *genre_comedy *dist1_boucher_verse_comedy_champagnelecoiffeur *dist2_boucher_verse_comedy *date_1662 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_elise
+**** *creator_boucher *book_boucher_champagnelecoiffeur *style_verse *genre_comedy *dist1_boucher_verse_comedy_champagnelecoiffeur *dist2_boucher_verse_comedy *id_ELISE *date_1662 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_elise
 
 Monsieur, je m'expose au reproche,
 Et peut-être à pis, pour vous voir.
@@ -384,7 +384,7 @@ Comment sortir de ces alarmes ?
 Mon cher père, pardonnez-nous.
 
 
-**** *creator_boucher *book_boucher_champagnelecoiffeur *style_verse *genre_comedy *dist1_boucher_verse_comedy_champagnelecoiffeur *dist2_boucher_verse_comedy *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisette
+**** *creator_boucher *book_boucher_champagnelecoiffeur *style_verse *genre_comedy *dist1_boucher_verse_comedy_champagnelecoiffeur *dist2_boucher_verse_comedy *id_LISETTE *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisette
 
 Mon cher Guillot, je te rencontre !
 
@@ -470,7 +470,7 @@ Mais je crains de faire du bruit.
       Tu folâtres.
 
 
-**** *creator_boucher *book_boucher_champagnelecoiffeur *style_verse *genre_comedy *dist1_boucher_verse_comedy_champagnelecoiffeur *dist2_boucher_verse_comedy *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleandre
+**** *creator_boucher *book_boucher_champagnelecoiffeur *style_verse *genre_comedy *dist1_boucher_verse_comedy_champagnelecoiffeur *dist2_boucher_verse_comedy *id_CLEANDRE *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleandre
 
 Guillot, l'agréable nouvelle
 Que m'apportes-tu de ma belle !
@@ -659,7 +659,7 @@ Champagne est mon nom de campagne.
 Acceptez-moi pour son époux.
 
 
-**** *creator_boucher *book_boucher_champagnelecoiffeur *style_verse *genre_comedy *dist1_boucher_verse_comedy_champagnelecoiffeur *dist2_boucher_verse_comedy *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillot
+**** *creator_boucher *book_boucher_champagnelecoiffeur *style_verse *genre_comedy *dist1_boucher_verse_comedy_champagnelecoiffeur *dist2_boucher_verse_comedy *id_GUILLOT *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillot
 
 Pour ce coup votre affaire est faite ;
 Monsieur, je viens de voir Lisette,

@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_etedescoquettes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_etedescoquettes *dist2_dancourt_prose_comedy *date_1690 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+**** *creator_dancourt *book_dancourt_etedescoquettes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_etedescoquettes *dist2_dancourt_prose_comedy *id_ANGELIQUE *date_1690 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
 Oh, ma chère enfant, laisse-moi en repos, je te prie ; le seul mot de raison me fait mourir à mon âge. Faite comme je suis, je passerais pour folle dans le monde, si l'on me soupçonnait seulement de savoir ce que c'est que la raison.
 
@@ -332,7 +332,7 @@ Allons nous mettre à table, nos différents s'y termineront mieux qu'ici, et no
 Donnez la main à la Comtesse, vous avez intérêt à la ménager.
 
 
-**** *creator_dancourt *book_dancourt_etedescoquettes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_etedescoquettes *dist2_dancourt_prose_comedy *date_1690 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_dancourt *book_dancourt_etedescoquettes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_etedescoquettes *dist2_dancourt_prose_comedy *id_LISETTE *date_1690 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Oh çà, Madame ; parlons un peu raison, s'il nous est possible.
 
@@ -495,7 +495,7 @@ Allons, ferme, Monsieur, il faut sauter le fossé.
 Ma foi, vivent les femmes de bon esprit toutes les saisons leur sont égales, rien ne les chagrine ; et jusqu'aux moindres bagatelles tout leur fait plaisir.
 
 
-**** *creator_dancourt *book_dancourt_etedescoquettes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_etedescoquettes *dist2_dancourt_prose_comedy *date_1690 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cidalise
+**** *creator_dancourt *book_dancourt_etedescoquettes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_etedescoquettes *dist2_dancourt_prose_comedy *id_CIDALISE *date_1690 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cidalise
 
 J'aurai tout le temps de vous le dire ; je viens passer avec vous toute la journée.
 
@@ -651,7 +651,7 @@ Il est brutal, et n'aime pas qu'on le plaisante.
 On prendra soin de le retenir, Madame.
 
 
-**** *creator_dancourt *book_dancourt_etedescoquettes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_etedescoquettes *dist2_dancourt_prose_comedy *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dessoupirs
+**** *creator_dancourt *book_dancourt_etedescoquettes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_etedescoquettes *dist2_dancourt_prose_comedy *id_DESSOUPIRS *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dessoupirs
 
 Je me suis donné un carrosse depuis quelques jours, Madame.
 
@@ -723,7 +723,7 @@ Avez-vous bien tué des allemands, Monsieur ?
 Il avait tort.
 
 
-**** *creator_dancourt *book_dancourt_etedescoquettes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_etedescoquettes *dist2_dancourt_prose_comedy *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurpatin
+**** *creator_dancourt *book_dancourt_etedescoquettes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_etedescoquettes *dist2_dancourt_prose_comedy *id_MONSIEURPATIN *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurpatin
 
 Vous ne m'attendiez que ce soir, Madame ; mais, je me dérobe à mes affaires pour me donner tout entier au plaisir d'être auprès de vous.
 
@@ -752,7 +752,7 @@ Hé bonjour, Monsieur, serviteur.
 Hé bien, vous revenez de l'armée ; quelle nouvelle ?
 
 
-**** *creator_dancourt *book_dancourt_etedescoquettes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_etedescoquettes *dist2_dancourt_prose_comedy *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+**** *creator_dancourt *book_dancourt_etedescoquettes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_etedescoquettes *dist2_dancourt_prose_comedy *id_CLITANDRE *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
 
 Il m'était impossible de vivre plus longtemps sans vous voir. Un mois entier éloigné de vous ! Si vous saviez avec quelle impatience l'amour m'a fait voler ici... Que vous dirai-je, Madame, il semblait qu'il m'eût prêté ses ailes, et j'ai fait une diligence incroyable.
 
@@ -807,7 +807,7 @@ Vous êtes bonne, Madame, et je connais votre sincérité ; je la reconnaîtrai
 Sans rancune, Madame.
 
 
-**** *creator_dancourt *book_dancourt_etedescoquettes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_etedescoquettes *dist2_dancourt_prose_comedy *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jasmin
+**** *creator_dancourt *book_dancourt_etedescoquettes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_etedescoquettes *dist2_dancourt_prose_comedy *id_JASMIN *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jasmin
 
 De la part de Monsieur Patin, Madame.
 

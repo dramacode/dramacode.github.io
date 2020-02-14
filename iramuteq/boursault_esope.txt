@@ -1,6 +1,6 @@
 
 
-**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tirrene
+**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *id_TIRRENE *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tirrene
 
 Non, je ne puis garder plus longtemps le silence,
 Ma haine pour Ésope a trop de violence.
@@ -114,7 +114,7 @@ De la bonté d'Ésope étonnés et confus,
 Nous ne pouvons tenir contre tant de vertus.
 
 
-**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trasibule
+**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *id_TRASIBULE *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trasibule
 
       Moi ?
 
@@ -222,7 +222,7 @@ C'est à lui justement qu'appartient tout le nôtre.
 Vous avez fait la loi, nous y sommes soumis.
 
 
-**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_esope
+**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *id_ESOPE *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_esope
 
 Seigneur, vous obéir est ma plus forte envie.
 C'est à vous que mon zèle a consacré ma vie ;
@@ -1762,7 +1762,7 @@ Et puissent vos enfants, aimés et craints de tous,
 Voir un jour naître d'eux d'aussi grands rois que vous.
 
 
-**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *date_1701 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_cleon
+**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *id_CLEON *date_1701 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_cleon
 
       Eh ! Bonjour, mon patron.
 Baisez-moi, je vous prie... encore une fois... bon.
@@ -1837,7 +1837,7 @@ Je suis bon colonel, et qui sert bien l'État.
 Adieu, monsieur. Bientôt... je ne m'explique pas.
 
 
-**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *date_1701 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_iphis
+**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *id_IPHIS *date_1701 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_iphis
 
 Eh ! Seigneur, se peut-il qu'après tant de
 Bontés ?...
@@ -1895,7 +1895,7 @@ Puisqu'après avoir bu je rends si bien justice.
 Retirez-vous. "
 
 
-**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cresus
+**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *id_CRESUS *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cresus
 
 Trouvez-vous au conseil à l'heure accoutumée.
 allez... demeure, Ésope...
@@ -2255,7 +2255,7 @@ Du jour de ton hymen je te laisse le maître ;
 Mais pour moi c'est un terme assez long que demain.
 
 
-**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lais
+**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *id_LAIS *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lais
 
 Il a raison, madame, et je ne puis m'en taire.
 Vous n'avez pas au monde un ami plus sincère,
@@ -2361,7 +2361,7 @@ S'il vous faut, comme un autre, éprouver ce supplice,
 Je vous honore trop pour en être complice.
 
 
-**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *date_1701 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_plexipe
+**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *id_PLEXIPE *date_1701 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_plexipe
 
 Ah ! Monsieur, que de joie, après six mois d'absence,
 Dans les murs de Sardis cause votre présence !
@@ -2397,7 +2397,7 @@ Ce qui me peut manquer.
 J'attendais de mon zèle une autre récompense.
 
 
-**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *date_1701 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_arsinoe
+**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *id_ARSINOE *date_1701 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_arsinoe
 
 Quoi ! Le seigneur Ésope en croit donc être quitte,
 Pour m'avoir en passant daigné rendre visite ?
@@ -2487,7 +2487,7 @@ D'Ésope, à qui je dois cet important service,
 Faites que la fortune arrive au plus haut point.
 
 
-**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rhodope
+**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *id_RHODOPE *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rhodope
 
       Et moi, j'ai les miennes aussi
 Pour ne me pas résoudre à vous quitter ainsi.
@@ -2628,7 +2628,7 @@ Et pour faire encor mieux, tarissez-en la source.
 Vous avez le pouvoir ; décidez, ordonnez.
 
 
-**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_iphicrate
+**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *id_IPHICRATE *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_iphicrate
 
 "Monsieur, de vos vertus le bruit s'étend si loin,
 Qu'on ne peut pour vous voir se donner trop de soin.
@@ -2754,7 +2754,7 @@ Précipitez l'honneur que vous voulez me faire.
 Adieu.
 
 
-**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_griffet
+**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *id_GRIFFET *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_griffet
 
 Vous voyez un vieillard d'une assez bonne pâte,
 Qui va voir ses aïeux, sans pourtant avoir hâte,
@@ -2876,7 +2876,7 @@ Plus elle durera, plus j'aurai de plaisir.
 Une fable un peu longue est une double grâce.
 
 
-**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leonide
+**** *creator_boursault *book_boursault_esope *style_verse *genre_comedy *dist1_boursault_verse_comedy_esope *dist2_boursault_verse_comedy *id_LEONIDE *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leonide
 
 Bonjour, monsieur.
 

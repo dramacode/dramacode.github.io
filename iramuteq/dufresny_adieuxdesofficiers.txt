@@ -1,6 +1,6 @@
 
 
-**** *creator_dufresny *book_dufresny_adieuxdesofficiers *style_verse *genre_comedy *dist1_dufresny_verse_comedy_adieuxdesofficiers *dist2_dufresny_verse_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
+**** *creator_dufresny *book_dufresny_adieuxdesofficiers *style_verse *genre_comedy *dist1_dufresny_verse_comedy_adieuxdesofficiers *dist2_dufresny_verse_comedy *id_VENUS *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
 
 Hélas, je suis bien plus à plaindre que vous ! J'ai tout à craindre de votre inconstance ; et une campagne endurcit bien le coeur d'un guerrier.
 
@@ -106,7 +106,7 @@ S'il te revient quelque fâcheux présage,
 Va chez Bacchus, il me justifiera.
 
 
-**** *creator_dufresny *book_dufresny_adieuxdesofficiers *style_verse *genre_comedy *dist1_dufresny_verse_comedy_adieuxdesofficiers *dist2_dufresny_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mars
+**** *creator_dufresny *book_dufresny_adieuxdesofficiers *style_verse *genre_comedy *dist1_dufresny_verse_comedy_adieuxdesofficiers *dist2_dufresny_verse_comedy *id_MARS *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mars
 
 Mon devoir m'arrache d'auprès de vous, charmante Vénus, il faut vous quitter dans le temps que votre coeur commençait à s'ébranler pour moi ; quel contretemps !
 
@@ -144,7 +144,7 @@ Hai ! Au moins je vous recommande de veiller un peu à la conduite de madame vo
 Monsieur mon compère, ne prenez pas la peine...
 
 
-**** *creator_dufresny *book_dufresny_adieuxdesofficiers *style_verse *genre_comedy *dist1_dufresny_verse_comedy_adieuxdesofficiers *dist2_dufresny_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_vulcain
+**** *creator_dufresny *book_dufresny_adieuxdesofficiers *style_verse *genre_comedy *dist1_dufresny_verse_comedy_adieuxdesofficiers *dist2_dufresny_verse_comedy *id_VULCAIN *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_vulcain
 
 Le ciel soit loué ! Voilà Bellone qui va délivrer ma maison de ce grand pendard de Mars. C'est le plus grand maraud ! Cependant, parce qu'il a de la bravoure, et que je suis naturellement poltron, j'ai mille complaisances pour lui. Il me prend pourtant envie de venger mon front sur le sien.
 Mais, non, c'est un brutal qui n'entend pas raillerie, différons la vengeance jusqu'à ce qu'il soit parti. Il aime tendrement ma femme, et je ne puis mieux me venger de lui, qu'en rossant ce qu'il aime. Pour le présent, le plus sûr est de travailler comme si de rien n'était.
@@ -294,7 +294,7 @@ On blanchirait l'épicière accusée,
 Si l'on pouvait enivrer l'épicier.
 
 
-**** *creator_dufresny *book_dufresny_adieuxdesofficiers *style_verse *genre_comedy *dist1_dufresny_verse_comedy_adieuxdesofficiers *dist2_dufresny_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+**** *creator_dufresny *book_dufresny_adieuxdesofficiers *style_verse *genre_comedy *dist1_dufresny_verse_comedy_adieuxdesofficiers *dist2_dufresny_verse_comedy *id_MERCURE *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
 
 Seigneur Vulcain, j'ai exécuté vos ordres ; je viens d'avertir les dieux de se trouver dans la salle de l'audience, ils sont déjà à la buvette.
 
@@ -312,7 +312,7 @@ C'est un petit accès de pudeur qui lui vient de prendre. Elle dit que vous plai
 Les lauriers de ce triomphe là seront bien secs ; je crains bien que leurs feuilles ne tombent par terre, et qu'il ne vous en reste que le bois sur la tête. Mais j'entends messieurs qui commencent à tousser, le procès est à moitié jugé. La porte de l'audience s'ouvre.
 
 
-**** *creator_dufresny *book_dufresny_adieuxdesofficiers *style_verse *genre_comedy *dist1_dufresny_verse_comedy_adieuxdesofficiers *dist2_dufresny_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
+**** *creator_dufresny *book_dufresny_adieuxdesofficiers *style_verse *genre_comedy *dist1_dufresny_verse_comedy_adieuxdesofficiers *dist2_dufresny_verse_comedy *id_JUPITER *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
 
 Les mortels ne sont pas si sots que de se plaindre, ils passent ces sortes d'affaires sous silence.
 
@@ -335,7 +335,7 @@ En buvant quatre coups davantage,
 Tu seras plus fort pour le porter.
 
 
-**** *creator_dufresny *book_dufresny_adieuxdesofficiers *style_verse *genre_comedy *dist1_dufresny_verse_comedy_adieuxdesofficiers *dist2_dufresny_verse_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junon
+**** *creator_dufresny *book_dufresny_adieuxdesofficiers *style_verse *genre_comedy *dist1_dufresny_verse_comedy_adieuxdesofficiers *dist2_dufresny_verse_comedy *id_JUNON *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junon
 
 Quelle honte est-ce là, messieurs ? On ne veut pas se donner la peine d'entendre Vulcain ? Si vus vous moquez d'un dieu qui se plaint de sa femme, que ferez-vous donc à un simple mortel ?
 
@@ -362,7 +362,7 @@ Il ne fait qu'allumer dans son âme
 Le feu d'une jalouse fureur.
 
 
-**** *creator_dufresny *book_dufresny_adieuxdesofficiers *style_verse *genre_comedy *dist1_dufresny_verse_comedy_adieuxdesofficiers *dist2_dufresny_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cupidon
+**** *creator_dufresny *book_dufresny_adieuxdesofficiers *style_verse *genre_comedy *dist1_dufresny_verse_comedy_adieuxdesofficiers *dist2_dufresny_verse_comedy *id_CUPIDON *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cupidon
 
 On a bien de la peine à trouver le moment
 De vous dire un mot seulement.
@@ -428,7 +428,7 @@ J'ai fait ces trahisons à des femmes d'honneur,
 Qui ne m'ont point puni de les avoir trahies.
 
 
-**** *creator_dufresny *book_dufresny_adieuxdesofficiers *style_verse *genre_comedy *dist1_dufresny_verse_comedy_adieuxdesofficiers *dist2_dufresny_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cupidon
+**** *creator_dufresny *book_dufresny_adieuxdesofficiers *style_verse *genre_comedy *dist1_dufresny_verse_comedy_adieuxdesofficiers *dist2_dufresny_verse_comedy *id_CUPIDON *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cupidon
 
 On a bien de la peine à trouver le moment
 De vous dire un mot seulement.
@@ -494,7 +494,7 @@ J'ai fait ces trahisons à des femmes d'honneur,
 Qui ne m'ont point puni de les avoir trahies.
 
 
-**** *creator_dufresny *book_dufresny_adieuxdesofficiers *style_verse *genre_comedy *dist1_dufresny_verse_comedy_adieuxdesofficiers *dist2_dufresny_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
+**** *creator_dufresny *book_dufresny_adieuxdesofficiers *style_verse *genre_comedy *dist1_dufresny_verse_comedy_adieuxdesofficiers *dist2_dufresny_verse_comedy *id_MOMUS *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
 
 L'époux
 Jaloux

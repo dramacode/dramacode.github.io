@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillep *book_corneillep_theodore *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_theodore *dist2_corneillep_verse_tragedy *date_1645 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_valens
+**** *creator_corneillep *book_corneillep_theodore *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_theodore *dist2_corneillep_verse_tragedy *id_VALENS *date_1645 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_valens
 
 Plût aux dieux que mon sang eût de quoi satisfaire
 Et l'amour de la fille et l'espoir de la mère,
@@ -235,7 +235,7 @@ Et vous autres, allez prendre souci des morts,
 Tandis que j'aurai soin de calmer ses transports.
 
 
-**** *creator_corneillep *book_corneillep_theodore *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_theodore *dist2_corneillep_verse_tragedy *date_1645 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_placide
+**** *creator_corneillep *book_corneillep_theodore *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_theodore *dist2_corneillep_verse_tragedy *id_PLACIDE *date_1645 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_placide
 
 Il est vrai, Cléobule, et je veux l'avouer,
 La fortune me flatte assez pour m'en louer :
@@ -852,7 +852,7 @@ Pour le moins en mourant te blesser par les yeux.
 Daigne ce juste ciel…
 
 
-**** *creator_corneillep *book_corneillep_theodore *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_theodore *dist2_corneillep_verse_tragedy *date_1645 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_cleobule
+**** *creator_corneillep *book_corneillep_theodore *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_theodore *dist2_corneillep_verse_tragedy *id_CLEOBULE *date_1645 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_cleobule
 
 Quoique pour vous Marcelle ait le nom de marâtre,
 Considérez, seigneur, qu'elle vous idolâtre :
@@ -1041,7 +1041,7 @@ Non, seigneur, je l'entends encore qui soupire ;
 Ce n'est que la douleur qui lui coupe la voix.
 
 
-**** *creator_corneillep *book_corneillep_theodore *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_theodore *dist2_corneillep_verse_tragedy *date_1645 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_didyme
+**** *creator_corneillep *book_corneillep_theodore *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_theodore *dist2_corneillep_verse_tragedy *id_DIDYME *date_1645 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_didyme
 
 Ah ! Seigneur, traitez mieux une vertu parfaite.
 
@@ -1188,7 +1188,7 @@ Oui, madame, on exauce et vos voeux et les miens :
 Dieu…
 
 
-**** *creator_corneillep *book_corneillep_theodore *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_theodore *dist2_corneillep_verse_tragedy *date_1645 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_paulin
+**** *creator_corneillep *book_corneillep_theodore *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_theodore *dist2_corneillep_verse_tragedy *id_PAULIN *date_1645 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_paulin
 
 Seigneur, j'en suis confus, mais vous le méritez :
 Au lieu d'y résister, vous vous y soumettez.
@@ -1422,7 +1422,7 @@ Mais que vois-je ? Peut-être il est déjà trop tard.
 Stéphanie entre ici, de pleurs toute trempée.
 
 
-**** *creator_corneillep *book_corneillep_theodore *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_theodore *dist2_corneillep_verse_tragedy *date_1645 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lycante
+**** *creator_corneillep *book_corneillep_theodore *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_theodore *dist2_corneillep_verse_tragedy *id_LYCANTE *date_1645 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lycante
 
       Jugez-en mieux, seigneur :
 Marcelle vous renvoie et la joie et l'honneur ;
@@ -1450,7 +1450,7 @@ Je ne mets point d'obstacle à vos derniers secrets ;
 Mais tranchez promptement d'inutiles regrets.
 
 
-**** *creator_corneillep *book_corneillep_theodore *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_theodore *dist2_corneillep_verse_tragedy *date_1645 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_marcelle
+**** *creator_corneillep *book_corneillep_theodore *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_theodore *dist2_corneillep_verse_tragedy *id_MARCELLE *date_1645 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_marcelle
 
 Ce mauvais conseiller toujours vous entretient ?
 
@@ -1894,7 +1894,7 @@ Et ne prenez souci que de vos intérêts.
 Amenez-les tous deux.
 
 
-**** *creator_corneillep *book_corneillep_theodore *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_theodore *dist2_corneillep_verse_tragedy *date_1645 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_theodore
+**** *creator_corneillep *book_corneillep_theodore *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_theodore *dist2_corneillep_verse_tragedy *id_THEODORE *date_1645 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_theodore
 
 Vous m'obligerez fort d'en prendre le souci,
 Et de lui témoigner avec quelle franchise
@@ -2228,7 +2228,7 @@ Ainsi de ce combat que la vertu nous donne,
 Nous sortirons tous deux avec une couronne.
 
 
-**** *creator_corneillep *book_corneillep_theodore *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_theodore *dist2_corneillep_verse_tragedy *date_1645 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_stephanie
+**** *creator_corneillep *book_corneillep_theodore *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_theodore *dist2_corneillep_verse_tragedy *id_STEPHANIE *date_1645 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_stephanie
 
 Je tremble encor de voir où sa rage l'emporte.
 

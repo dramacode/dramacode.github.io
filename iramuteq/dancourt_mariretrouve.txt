@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_mariretrouve *style_prose *genre_comedy *dist1_dancourt_prose_comedy_mariretrouve *dist2_dancourt_prose_comedy *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_julien
+**** *creator_dancourt *book_dancourt_mariretrouve *style_prose *genre_comedy *dist1_dancourt_prose_comedy_mariretrouve *dist2_dancourt_prose_comedy *id_JULIEN *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_julien
 
 Palsanguenne, il faut jouer de notre reste : allons, bonne meine et mauvais jeu.
 
@@ -111,7 +111,7 @@ Je le veux bian vela qui est fini, Monsieu Clitandre.
 Je ferons bian les choses, ne vous boutez pas en peine. Touche-là Julianne. Avec les fiançailles de Colette, j'allons faire notre remariage. Allons palsangué, que tout le monde vianne, et que tous les Ménétriers jouions queuque drôlerie qui fasse un peu trémousser ces jeunes filles.
 
 
-**** *creator_dancourt *book_dancourt_mariretrouve *style_prose *genre_comedy *dist1_dancourt_prose_comedy_mariretrouve *dist2_dancourt_prose_comedy *date_1698 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julienne
+**** *creator_dancourt *book_dancourt_mariretrouve *style_prose *genre_comedy *dist1_dancourt_prose_comedy_mariretrouve *dist2_dancourt_prose_comedy *id_JULIENNE *date_1698 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julienne
 
 Votre sarvante, Monsieu Clitandre. Hé bian, qu'est-ce ? Êtes-vous toujours bian amoureux de ma nièce ? Terminerons-je cette affaire-là ? Il ne faut point tant barguigner, je ferons le contrat quand vous voudrez. À quand la noce ? Que j'y danserai de bon cœur ! Je ne me suis jamais tant sentie si fort en joie.
 
@@ -230,7 +230,7 @@ Et je nous gaussons du procès-verbal.
 Oui, Julian, et si u n'y bailles pas ton consentement, je recommencerons à quereller, mon enfant, tu n'as qu'à dire.
 
 
-**** *creator_dancourt *book_dancourt_mariretrouve *style_prose *genre_comedy *dist1_dancourt_prose_comedy_mariretrouve *dist2_dancourt_prose_comedy *date_1698 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colette
+**** *creator_dancourt *book_dancourt_mariretrouve *style_prose *genre_comedy *dist1_dancourt_prose_comedy_mariretrouve *dist2_dancourt_prose_comedy *id_COLETTE *date_1698 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colette
 
 Bonjour, Charlot.
 
@@ -281,7 +281,7 @@ Clitandre ?
 Voilà ce vilain Bailli avec toute sa séquelle, ma tante.
 
 
-**** *creator_dancourt *book_dancourt_mariretrouve *style_prose *genre_comedy *dist1_dancourt_prose_comedy_mariretrouve *dist2_dancourt_prose_comedy *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+**** *creator_dancourt *book_dancourt_mariretrouve *style_prose *genre_comedy *dist1_dancourt_prose_comedy_mariretrouve *dist2_dancourt_prose_comedy *id_CLITANDRE *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
 
 Que veux-tu que je fasse, mon pauvre Lépine ? Il ne dépend pas de moi de résister aux charmes de l'aimable Colette, et son mérite et sa beauté me paraissent dignes d'une fortune plus considérable que celle que je puis lui faire.
 
@@ -354,7 +354,7 @@ Pour me faire pendre ? Tu as eu ce cœur-là, cher petit mari ?
 Vous n'aurez pas lieu de vous reprocher cette complaisance.
 
 
-**** *creator_dancourt *book_dancourt_mariretrouve *style_prose *genre_comedy *dist1_dancourt_prose_comedy_mariretrouve *dist2_dancourt_prose_comedy *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepine
+**** *creator_dancourt *book_dancourt_mariretrouve *style_prose *genre_comedy *dist1_dancourt_prose_comedy_mariretrouve *dist2_dancourt_prose_comedy *id_LEPINE *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepine
 
 Ma foi, Monsieur, c'est une sotte chose que l'amour ! Convenez-en de bonne foi. Tant que vous n'avez été que libertin, vous avez vécu le plus heureux du monde : pourquoi diantre changer des manières dont vous vous êtes si bien trouvé ?
 
@@ -577,7 +577,7 @@ Ne vous emportez point, Monsieur, ceci n'aura pas de suites. Laissez-moi faire s
 Tirez, tirez, Monsieur le Bailli, et rengaignez vos procédures ; le défunt n'est pas mort, le voilà que je vous amène.
 
 
-**** *creator_dancourt *book_dancourt_mariretrouve *style_prose *genre_comedy *dist1_dancourt_prose_comedy_mariretrouve *dist2_dancourt_prose_comedy *date_1698 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameagathe
+**** *creator_dancourt *book_dancourt_mariretrouve *style_prose *genre_comedy *dist1_dancourt_prose_comedy_mariretrouve *dist2_dancourt_prose_comedy *id_MADAMEAGATHE *date_1698 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameagathe
 
 Bonjour, Monsieur de Lépine, comment vous en va ?
 
@@ -696,7 +696,7 @@ Et la France, faute d'époux,
 N'en serait pas moins peuplée.
 
 
-**** *creator_dancourt *book_dancourt_mariretrouve *style_prose *genre_comedy *dist1_dancourt_prose_comedy_mariretrouve *dist2_dancourt_prose_comedy *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_charlot
+**** *creator_dancourt *book_dancourt_mariretrouve *style_prose *genre_comedy *dist1_dancourt_prose_comedy_mariretrouve *dist2_dancourt_prose_comedy *id_CHARLOT *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_charlot
 
 L'amour et la jalousie me feront devenir fou, moi qui sis si sage et si raisonnable.
 
@@ -884,7 +884,7 @@ Pargué, c'est être bian malin,
 De détourner l'iau d'un moulin.
 
 
-**** *creator_dancourt *book_dancourt_mariretrouve *style_prose *genre_comedy *dist1_dancourt_prose_comedy_mariretrouve *dist2_dancourt_prose_comedy *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebailli
+**** *creator_dancourt *book_dancourt_mariretrouve *style_prose *genre_comedy *dist1_dancourt_prose_comedy_mariretrouve *dist2_dancourt_prose_comedy *id_LEBAILLI *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebailli
 
 Bonjour, Monsieur Charlot, bonjour.
 

@@ -1,6 +1,6 @@
 
 
-**** *creator_quinault *book_quinault_docteurdeverre *style_verse *genre_comedy *dist1_quinault_verse_comedy_docteurdeverre *dist2_quinault_verse_comedy *date_1689 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+**** *creator_quinault *book_quinault_docteurdeverre *style_verse *genre_comedy *dist1_quinault_verse_comedy_docteurdeverre *dist2_quinault_verse_comedy *id_ISABELLE *date_1689 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
 
 Ma lettre est achevée, et c'est à toi de prendre
 Le soin de la donner en main propre à Tersandre.
@@ -50,7 +50,7 @@ Mais s'il avait pour moi le même sentiment,
 Lui serais-je accordée?
 
 
-**** *creator_quinault *book_quinault_docteurdeverre *style_verse *genre_comedy *dist1_quinault_verse_comedy_docteurdeverre *dist2_quinault_verse_comedy *date_1689 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marine
+**** *creator_quinault *book_quinault_docteurdeverre *style_verse *genre_comedy *dist1_quinault_verse_comedy_docteurdeverre *dist2_quinault_verse_comedy *id_MARINE *date_1689 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marine
 
 Il suffit ; j'ai su l'art, dès mes plus jeunes ans,
 D'en donner à garder aux vieillards défiants.
@@ -185,7 +185,7 @@ Plutôt que de l'entendre, il le faudrait chasser.
 Madame, sauvez-moi de ce fol furieux !
 
 
-**** *creator_quinault *book_quinault_docteurdeverre *style_verse *genre_comedy *dist1_quinault_verse_comedy_docteurdeverre *dist2_quinault_verse_comedy *date_1689 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_panfile
+**** *creator_quinault *book_quinault_docteurdeverre *style_verse *genre_comedy *dist1_quinault_verse_comedy_docteurdeverre *dist2_quinault_verse_comedy *id_PANFILE *date_1689 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_panfile
 
 Marine, écoute un mot.
 
@@ -394,7 +394,7 @@ Mais je suis fort surpris d'un si grand changement ;
 Venez m'en éclaircir dans votre appartement.
 
 
-**** *creator_quinault *book_quinault_docteurdeverre *style_verse *genre_comedy *dist1_quinault_verse_comedy_docteurdeverre *dist2_quinault_verse_comedy *date_1689 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tersandre
+**** *creator_quinault *book_quinault_docteurdeverre *style_verse *genre_comedy *dist1_quinault_verse_comedy_docteurdeverre *dist2_quinault_verse_comedy *id_TERSANDRE *date_1689 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tersandre
 
       Beauté, qui pouvez tout toucher,
 Ayant l'heur de vous voir, je n'ai rien à chercher.
@@ -448,7 +448,7 @@ Dominé, n'ayez point une anime inclémente.
 Tersandre à vos genoux vous la demande encore.
 
 
-**** *creator_quinault *book_quinault_docteurdeverre *style_verse *genre_comedy *dist1_quinault_verse_comedy_docteurdeverre *dist2_quinault_verse_comedy *date_1689 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ragotin
+**** *creator_quinault *book_quinault_docteurdeverre *style_verse *genre_comedy *dist1_quinault_verse_comedy_docteurdeverre *dist2_quinault_verse_comedy *id_RAGOTIN *date_1689 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ragotin
 
       Vient.
 
@@ -480,7 +480,7 @@ Je vivrai, désormais, respectueusement,
 Et répondrai toujours polisillabement.
 
 
-**** *creator_quinault *book_quinault_docteurdeverre *style_verse *genre_comedy *dist1_quinault_verse_comedy_docteurdeverre *dist2_quinault_verse_comedy *date_1689 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledocteur
+**** *creator_quinault *book_quinault_docteurdeverre *style_verse *genre_comedy *dist1_quinault_verse_comedy_docteurdeverre *dist2_quinault_verse_comedy *id_LEDOCTEUR *date_1689 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledocteur
 
 Future épouse, et vous, beau-père proposé,
 Sachez que tout mon corps est métamorphosé ;

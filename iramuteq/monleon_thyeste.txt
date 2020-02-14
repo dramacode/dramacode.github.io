@@ -1,6 +1,6 @@
 
 
-**** *creator_monleon *book_monleon_thyeste *style_verse *dist1_monleon_verse__thyeste *dist2_monleon_verse_ *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_atree
+**** *creator_monleon *book_monleon_thyeste *style_verse *id_atree *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_atree
 
 Qu'on estouffe⁎ à mes yeux ces objets⁎ de ma rage :
 Je veus manquer de foy⁎ plustot que de courage.
@@ -926,7 +926,7 @@ Je laisse à tes enfans à te punir toy-mesme.
 FIN
 
 
-**** *creator_monleon *book_monleon_thyeste *style_verse *dist1_monleon_verse__thyeste *dist2_monleon_verse_ *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_thyeste
+**** *creator_monleon *book_monleon_thyeste *style_verse *id_thyeste *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_thyeste
 
 Apres les longs travaux⁎ d'un exil rigoureux,
 Où mon crime & le sort me rendoient malheureux :
@@ -1332,7 +1332,7 @@ Dieux qui voyez l'horreur d'un crime si nouveau,
 Je vous laisse à punir cet infâme bourreau.
 
 
-**** *creator_monleon *book_monleon_thyeste *style_verse *dist1_monleon_verse__thyeste *dist2_monleon_verse_ *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_merope
+**** *creator_monleon *book_monleon_thyeste *style_verse *id_merope *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_merope
 
 Vous faites son destin, Monarque genereux⁎,
 Il peut vivre contant, ou vivre malheureus,
@@ -1589,7 +1589,7 @@ Et vous augmenterez l'horreur de son supplice.
 Fin du troisiesme Acte.
 
 
-**** *creator_monleon *book_monleon_thyeste *style_verse *dist1_monleon_verse__thyeste *dist2_monleon_verse_ *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_melinthe
+**** *creator_monleon *book_monleon_thyeste *style_verse *id_melinthe *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_melinthe
 
 Tous les maus où me peut condamner sa justice,
 Et tout ce qu'a l'enfer d'horreur & de supplice.
@@ -1773,7 +1773,7 @@ Melinthe cependant sera-t-elle inutile ?
 Où dois-je donc aller ?
 
 
-**** *creator_monleon *book_monleon_thyeste *style_verse *dist1_monleon_verse__thyeste *dist2_monleon_verse_ *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_criton
+**** *creator_monleon *book_monleon_thyeste *style_verse *id_criton *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_criton
 
 Quel trouble furieux⁎ agite un si grand Roy ?
 
@@ -2131,7 +2131,7 @@ Luy dise qu'on ne peut vous voir encore icy :
 Si vous le permettez,
 
 
-**** *creator_monleon *book_monleon_thyeste *style_verse *dist1_monleon_verse__thyeste *dist2_monleon_verse_ *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lycostene
+**** *creator_monleon *book_monleon_thyeste *style_verse *id_lycostene *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lycostene
 
 Que j'arrive à propos en ces lieus désirés,
 Criton.
@@ -2244,7 +2244,7 @@ C'est un prince trahy.
 Pour le faire abhorrer ce crime est ainsi feint⁎.
 
 
-**** *creator_monleon *book_monleon_thyeste *style_verse *dist1_monleon_verse__thyeste *dist2_monleon_verse_ *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_theombre
+**** *creator_monleon *book_monleon_thyeste *style_verse *id_theombre *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_theombre
 
 Grand Roy, c'est le depost que Thyeste vous donne
 Pour monstrer que jamais contre vostre coronne
@@ -2264,7 +2264,7 @@ Vous l'auré dans ces lieux au plus tard dans une heure.
       Courez icy Madame !
 
 
-**** *creator_monleon *book_monleon_thyeste *style_verse *dist1_monleon_verse__thyeste *dist2_monleon_verse_ *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_oronte
+**** *creator_monleon *book_monleon_thyeste *style_verse *id_oronte *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_oronte
 
 Deux Princes arrivez en toute diligence,
 Vous viennent (ô grand Roy) faire la révérence,

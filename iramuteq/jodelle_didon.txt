@@ -1,6 +1,6 @@
 
 
-**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *date_1574 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_achate
+**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *id_ACHATE *date_1574 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_achate
 
 Quel jour sombre, quel trouble, avec ce jour te roulent
 Tes destins, ô Carthage ? Et pourquoi ne se souillent
@@ -170,7 +170,7 @@ De sang et de corps morts hideusement souillées.
 Partons donc au plus tôt.
 
 
-**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *date_1574 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_enee
+**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *id_ENEE *date_1574 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_enee
 
 Du fer, du sang, du feu, des flots, et de l'orage
 Je n'ai point eu d'effroi, et je l'ai d'un visage,
@@ -640,7 +640,7 @@ Pauvre Didon, hélas ! Mettras-tu l'assurance
 Sur les vaisseaux marins, qui n'ont point de constance ?
 
 
-**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *date_1574 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lechoeur
+**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *id_LECHOEUR *date_1574 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lechoeur
 
 Les Dieux des humains se soucient,
 Et leurs yeux sur nous arrêtés,
@@ -1056,7 +1056,7 @@ L'heur de Carthage, il faut, ô peuple, qu'on la pense
 Malheureuse à jamais.
 
 
-**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *date_1574 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_didon
+**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *id_DIDON *date_1574 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_didon
 
 Dieux, qu'ai-je soupçonné ? Dieux, grands Dieux qu'ai-je su ?
 Mais qu'ai-je de mes yeux moi-mêmes aperçu ?
@@ -1882,7 +1882,7 @@ Allons et redisons sur le bois la harangue,
 Arrêtant tout d'un coup et l'esprit et la langue.
 
 
-**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *date_1574 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_anne
+**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *id_ANNE *date_1574 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_anne
 
       Quand l'innocente
 Fléchit sous le coupable, et plus forte lamente
@@ -2283,7 +2283,7 @@ Non pas de cents couleurs, comme elle soulait, peinte.
 Sois pour nous, et prospère en tout ce sacrifice.
 
 
-**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *date_1574 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_barce
+**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *id_BARCE *date_1574 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_barce
 
 J'ai trop d'étonnement, je n'ai que trop d'horreurs,
 Trop de plaints en la bouche, et trop aux yeux de pleurs :

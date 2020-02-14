@@ -1,6 +1,6 @@
 
 
-**** *creator_laharpe *book_laharpe_melanie *style_verse *genre_drame *dist1_laharpe_verse_drame_melanie *dist2_laharpe_verse_drame *date_1792 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melanie
+**** *creator_laharpe *book_laharpe_melanie *style_verse *genre_drame *dist1_laharpe_verse_drame_melanie *dist2_laharpe_verse_drame *id_MELANIE *date_1792 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melanie
 
 Ô ! Dieu ! Changez mon coeur ou bien changez mon sort !
 Dieu ! Fléchissez mon père ou m'envoyez la mort !
@@ -464,7 +464,7 @@ Et s'il t'ose implorer au jour de son trépas,
 Rejette sa prière et ne pardonne pas.
 
 
-**** *creator_laharpe *book_laharpe_melanie *style_verse *genre_drame *dist1_laharpe_verse_drame_melanie *dist2_laharpe_verse_drame *date_1792 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monval
+**** *creator_laharpe *book_laharpe_melanie *style_verse *genre_drame *dist1_laharpe_verse_drame_melanie *dist2_laharpe_verse_drame *id_MONVAL *date_1792 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monval
 
       Et pourquoi me contraindre ?
 Qui n'a plus rien à perdre a-t-il encore à craindre ?
@@ -678,7 +678,7 @@ Tigre, d'un tel objet viens te rassasier ;
 Contemple tous tes coups, et jouis du dernier.
 
 
-**** *creator_laharpe *book_laharpe_melanie *style_verse *genre_drame *dist1_laharpe_verse_drame_melanie *dist2_laharpe_verse_drame *date_1792 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecure
+**** *creator_laharpe *book_laharpe_melanie *style_verse *genre_drame *dist1_laharpe_verse_drame_melanie *dist2_laharpe_verse_drame *id_LECURE *date_1792 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecure
 
       Je sais ce qu'ici je dois faire
 Et je ne trahirai vous ni mon ministère.

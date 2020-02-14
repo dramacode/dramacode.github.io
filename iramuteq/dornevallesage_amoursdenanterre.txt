@@ -1,6 +1,6 @@
 
 
-**** *creator_dornevallesage *book_dornevallesage_amoursdenanterre *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_amoursdenanterre *dist2_dornevallesage_verse_opera comique *date_1718 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamethomas
+**** *creator_dornevallesage *book_dornevallesage_amoursdenanterre *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_amoursdenanterre *dist2_dornevallesage_verse_opera comique *id_MADAMETHOMAS *date_1718 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamethomas
 
 Bonjour, ma Nièce.
 
@@ -215,7 +215,7 @@ Puisqu'on ne peut s'en tirer autrement, je vous accorde donc ma fille.
 Que tous ceux que j'avais invités à mes noces viennent célébrer ce double mariage.
 
 
-**** *creator_dornevallesage *book_dornevallesage_amoursdenanterre *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_amoursdenanterre *dist2_dornevallesage_verse_opera comique *date_1718 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colette
+**** *creator_dornevallesage *book_dornevallesage_amoursdenanterre *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_amoursdenanterre *dist2_dornevallesage_verse_opera comique *id_COLETTE *date_1718 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colette
 
 Tu ne le vois que trop, friponne.
 Qu'une fille à vingt ans
@@ -414,7 +414,7 @@ Ma chère mère, épargnez votre argent.
 Ma chère mère !...
 
 
-**** *creator_dornevallesage *book_dornevallesage_amoursdenanterre *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_amoursdenanterre *dist2_dornevallesage_verse_opera comique *date_1718 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mathurine
+**** *creator_dornevallesage *book_dornevallesage_amoursdenanterre *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_amoursdenanterre *dist2_dornevallesage_verse_opera comique *id_MATHURINE *date_1718 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mathurine
 
 Qu'as-tu donc, ma chère Colette ?
 Tu parais chagrine, inquiète.
@@ -529,7 +529,7 @@ Il fait déjà son tracas ;
 Il est fait à son ménage.
 
 
-**** *creator_dornevallesage *book_dornevallesage_amoursdenanterre *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_amoursdenanterre *dist2_dornevallesage_verse_opera comique *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgriffart
+**** *creator_dornevallesage *book_dornevallesage_amoursdenanterre *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_amoursdenanterre *dist2_dornevallesage_verse_opera comique *id_MONSIEURGRIFFART *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgriffart
 
 Je me rends à vos raisons. Mon ressentiment s'éteint ; et je suis prêt à vivre en bonne union avec Madame Thomas, si elle le veut.
 
@@ -553,7 +553,7 @@ Vous croyez parler encore à votre benêt de mari. Vous êtes une extravagante.
 Allez. Vous êtes une... Vous êtes une... Vous êtes une femme.
 
 
-**** *creator_dornevallesage *book_dornevallesage_amoursdenanterre *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_amoursdenanterre *dist2_dornevallesage_verse_opera comique *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+**** *creator_dornevallesage *book_dornevallesage_amoursdenanterre *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_amoursdenanterre *dist2_dornevallesage_verse_opera comique *id_VALERE *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
 
 Ah ! Colette, c'est vous !
 Permettez-moi, ma chère,
@@ -612,7 +612,7 @@ Madame, vous m'en offririez cent mille inutilement.
 Madame, vous me rendez le plus heureux de tous les hommes.
 
 
-**** *creator_dornevallesage *book_dornevallesage_amoursdenanterre *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_amoursdenanterre *dist2_dornevallesage_verse_opera comique *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucas
+**** *creator_dornevallesage *book_dornevallesage_amoursdenanterre *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_amoursdenanterre *dist2_dornevallesage_verse_opera comique *id_LUCAS *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucas
 
 Qu'y a-t-il donc, notre Maîtresse ? Il semble que vous soyez en rogne.
 
@@ -812,7 +812,7 @@ Madame Thomas. Eh ! Bâillez-li votre fille !
 Vivat. Mon enroullement a fait marveilles.
 
 
-**** *creator_dornevallesage *book_dornevallesage_amoursdenanterre *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_amoursdenanterre *dist2_dornevallesage_verse_opera comique *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemagister
+**** *creator_dornevallesage *book_dornevallesage_amoursdenanterre *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_amoursdenanterre *dist2_dornevallesage_verse_opera comique *id_LEMAGISTER *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemagister
 
 Cela suffit, belle Colette ;
 J'entreprends l'accommodement.
@@ -879,7 +879,7 @@ Hélas! Ils font, les Belles ,
 Plus divisés que jamais.
 
 
-**** *creator_dornevallesage *book_dornevallesage_amoursdenanterre *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_amoursdenanterre *dist2_dornevallesage_verse_opera comique *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_dornevallesage *book_dornevallesage_amoursdenanterre *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_amoursdenanterre *dist2_dornevallesage_verse_opera comique *id_ARLEQUIN *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Si des Vilageoises,
 Avec leur fierté !

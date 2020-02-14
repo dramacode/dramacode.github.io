@@ -1,6 +1,6 @@
 
 
-**** *creator_carmontelle *book_carmontelle_recommandation *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_recommandation *dist2_carmontelle_prose_proverbe *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdelabruyere
+**** *creator_carmontelle *book_carmontelle_recommandation *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_recommandation *dist2_carmontelle_prose_proverbe *id_MONSIEURDELABRUYERE *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdelabruyere
 
 Dans quel état vous voilà ?
 
@@ -120,7 +120,7 @@ Un peu tard, et je vous remmènerai.
 Vous êtes bien contente.
 
 
-**** *creator_carmontelle *book_carmontelle_recommandation *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_recommandation *dist2_carmontelle_prose_proverbe *date_1768 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedelabruyere
+**** *creator_carmontelle *book_carmontelle_recommandation *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_recommandation *dist2_carmontelle_prose_proverbe *id_MADAMEDELABRUYERE *date_1768 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedelabruyere
 
 Qui est là ?... Ah, c'est vous, Monsieur.
 
@@ -252,7 +252,7 @@ En ce cas-là, je renverrai mes chevaux. À ce soir, je vais m'habiller. Adieu, 
 Oh pour cela oui.
 
 
-**** *creator_carmontelle *book_carmontelle_recommandation *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_recommandation *dist2_carmontelle_prose_proverbe *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdumont
+**** *creator_carmontelle *book_carmontelle_recommandation *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_recommandation *dist2_carmontelle_prose_proverbe *id_MONSIEURDUMONT *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdumont
 
 Oui, Monsieur.
 

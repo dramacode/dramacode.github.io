@@ -1,6 +1,6 @@
 
 
-**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamehilaire
+**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *id_MADAMEHILAIRE *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamehilaire
 
 J'accours : j'ai entendu sa voix. Vous avez bien fait d'ouvrir à cette chère enfant. Je l'ai toujours aimée ; et tant que j'aurai quelque crédit, elle ne sera jamais regardée ici comme étrangère.
 
@@ -93,7 +93,7 @@ Mon enfant !...
 Jour mille fois heureux qui nous réunit !
 
 
-**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *date_1782 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_madamehilaire
+**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *id_MADAMEHILAIRE *date_1782 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_madamehilaire
 
 J'accours : j'ai entendu sa voix. Vous avez bien fait d'ouvrir à cette chère enfant. Je l'ai toujours aimée ; et tant que j'aurai quelque crédit, elle ne sera jamais regardée ici comme étrangère.
 
@@ -186,7 +186,7 @@ Mon enfant !...
 Jour mille fois heureux qui nous réunit !
 
 
-**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lancy
+**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *id_LANCY *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lancy
 
 Quelle désolation répandue dans cette ville !... Encore personne ici !... Plus de parents !... Plus d'amis ! Tous les liens de la tendresse et de l'amitié sont rompus... J'ai parcouru tous les lieux où je pouvais la rencontrer... Vaines recherches ! Grand dieu, n'est-elle plus ! Voici la vingtième maison que je visite : et qu'ai-je vu ? Quel spectacle d'horreur ! Des couleuvres et des serpents engendrés dans les décombres de ces demeures désertes, et qui rongent les cadavres restés sans sépulture... Ceux qui vivent, ressemblent à des spectres. N'avons-nous pas traversé des rues où des infortunés couchés sur le ventre, broutaient l'herbe rare, à l'exemple des animaux ? Quel courage ou quelle opiniâtreté anime donc ce malheureux peuple ?
 
@@ -250,7 +250,7 @@ Pouvait-elle commencer sous de plus heureux auspices ?
 Allons mêler nos voix à ces acclamations universelles. Le règne d'un héros qui a connu le malheur, est fait pour accomplir la félicité de son peuple.
 
 
-**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mademoisellelancy
+**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *id_MADEMOISELLELANCY *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mademoisellelancy
 
 Mon cher parrain, ayez pitié de moi...
 
@@ -315,7 +315,7 @@ Cher Hilaire !...
 Du moment que je vous ai revu, mon père, mon âme est en prières et loue le maître suprême des événements. Ce qu'Hilaire vient de nous exposer m'a vivement touchée, et chaque mot qu'il a prononcé élevait un hymne au fond de mon coeur. Ô mon dieu ! Oui, j'aurai toujours confiance en votre miséricorde... Je retrouve en un moment tout ce que j'avais perdu...
 
 
-**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guincestre
+**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *id_GUINCESTRE *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guincestre
 
 Salut au bon fidèle Hilaire, vrai catholique, zélé pour la religion, charitable ennemi des huguenots, et que le ciel, conséquemment, ne laissera point ici-bas, sans ouvrir sur lui les trésors infinis de ses miséricordes.
 
@@ -397,7 +397,7 @@ J'entends la hache qui enfonce les portes...
 Détestable Navarrais, je voue à toi et à ta race une haine éternelle !
 
 
-**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_varade
+**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *id_VARADE *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_varade
 
 Mais, quoi ! Vous semblez tous bien émus. Pourquoi vos visages sont-ils altérés à ce point ?... Qu'avez-vous donc ?
 
@@ -438,7 +438,7 @@ Ce n'est point là une ressource... Est-ce un sang vil qu'il faut s'amuser à r�
 Le poignard. Venez.
 
 
-**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aubry
+**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *id_AUBRY *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aubry
 
 Vous étiez tous deux prêts à sortir ; c'était sans doute pour aller dans les temples, invoquer la foudre sur la tête du relaps hérétique... Allez, mes amis, le tonnerre ne tardera pas à tomber sur lui.
 
@@ -552,7 +552,7 @@ Si nous égorgions nos prisonniers ?
 Eh ! Que lui fait notre haine ? Que nous reste-t-il contre lui ?
 
 
-**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sully
+**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *id_SULLY *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sully
 
 Sire, le moyen de rendre vains tous les foudres du Vatican, c'est de vaincre : alors vous obtiendrez aisément votre absolution. Mais si vous n'êtes pas victorieux, vous demeurerez toujours excommunié.
 
@@ -587,7 +587,7 @@ Généreux prince, ayez constamment le courage de faire le bien ; car il est tou
 Sire, je vous prouverai mon dévouement absolu, en ne vous déguisant jamais rien de ce qui pourra intéresser votre gloire ou le bonheur de vos peuples.
 
 
-**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_biron
+**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *id_BIRON *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_biron
 
 Sire, je ne puis qu'approuver ces sentiments si rares dans un roi ; mais cependant que votre majesté considère que les deux bateaux de farine qu'elle m'ordonne de faire entrer, produiront un effet dangereux pour ses intérêts et pour la ville même. Les assiégés vont croire que ces vivres leur arrivent d'une main amie ; que c'est un bienfait des espagnols ; qu'il leur en arrivera de plus considérables. Les ligueurs en profiteront pour accroître l'opiniâtreté du peuple : et qu'en arrivera-t-il ? Le trépas d'un plus grand nombre.
 
@@ -610,7 +610,7 @@ Pauvre patrie !... L'humanité sainte a déserté les autels ; où s'est-elle r�
 Sire, je ne suis pas encore revenu de mon étonnement ; mais il faut qu'il soit né quelqu'un.
 
 
-**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_langlois
+**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *id_LANGLOIS *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_langlois
 
 Sire, je n'en ai point.
 
@@ -647,7 +647,7 @@ Henri sera toujours le héros de la France ; et mon premier devoir est de mourir
 J'échapperai.
 
 
-**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_louchard
+**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *id_LOUCHARD *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_louchard
 
 J'ai exhorté tout le monde à faire un massacre général des royalistes, et à dire que le paradis serait ouvert à tous les exécuteurs de cette bonne oeuvre ; mais chaque jour il y a du relâchement dans la foi... Il fut un temps où l'on aurait servi avec plus de zèle la sainte union . Qu'en dis-tu, Anroux ?
 
@@ -658,7 +658,7 @@ Oui, oui, pitié de vous, misérables huguenots ! Crevez, crevez ; allez à tous
 Mais, messieurs, voici l'heure d'aller entendre à Saint-Merry le curé de Saint-Benoît. C'est un bien habile homme que ce prédicateur. Quel foudre d'éloquence ! Comme il tonne contre les royalistes ! Comme il terrasse l'hérésie ! Comme il défend la cause de Dieu ! Il a prouvé au doigt et à l'oeil que la conversion du Béarnais n'était que feintise, hypocrisie, et que son absolution le rendait encore plus damnable qu'auparavant. C'est avec des traits tirés des saintes écritures, qu'il rapproche les temps et les lieux ; et les exemples héroïques qu'il offre à la multitude, sont bien choisis, vous en conviendrez. Ah ! Que n'est-il plusieurs auditeurs comme Barrière, qui sut mettre à profit toutes ces saintes exhortations ! On ne saisit pas si bien aujourd'hui le sens des divines écritures ; elles ordonnent manifestement la mort des impies. Si le succès n'a pas suivi l'acte méritoire de celui qui s'était dévoué pour la cause commune, son âme, mes amis, n'en est pas moins devant Dieu ; et c'est du haut du ciel qu'il nous exhorte aujourd'hui à l'imiter.
 
 
-**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bussyleclerc
+**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *id_BUSSYLECLERC *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bussyleclerc
 
 Présentement que vous avez repris des forces, retournez tous à vos postes... Espionnez les discours, devinez les regards, et interprétez jusqu'au silence. Au moindre soupçon, amenez ici pêle-mêle et sans distinction, ceux dont la physionomie serait équivoque. Il vaut mieux arrêter dix personnes, que de laisser échapper un hérétique... Allez, il y aura de la place pour tout le monde... Je fais creuser quelques cachots de plus, et ce sera bientôt fait... Parlez avec emphase de nos partisans ; exagérez leur nombre et leur force, et venez me rendre compte de tout.
 Faites surtout comme si vous étiez exténués par la famine ; et quand vous serez auprès de quelque bon catholique prêt à rendre l'âme d'inanition, prenez garde que votre son de voix ne trahisse le bon repas que vous avez fait.
@@ -690,7 +690,7 @@ Mais nous pouvons tenir quelque temps dans cette forteresse, canonner la ville ;
 Puisqu'il faut céder pour le moment, cédons. Venez, suivez-moi tous... Je vous mènerai par les détours d'un souterrain qui nous conduira d'un côté favorable : notre retraite sera dans l'armée de Mayenne ; et de-là, plus furieux, plus intrépides, nous lui susciterons de nouveaux ennemis.
 
 
-**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_montalio
+**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *id_MONTALIO *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_montalio
 
 Mais, messieurs, aurait-on jamais pu s'imaginer que le Navarrais eût résisté si longtemps à cette foule d'ennemis, à l'or des espagnols, au glaive de Mayenne, aux foudres de Rome, à l'enthousiasme frénétique de tout un peuple ? Rien n'a pu l'intimider. Cet homme-là est d'une intrépidité qui me fait toujours frémir. Nous ne serons jamais tranquilles tant qu'il vivra.
 
@@ -707,7 +707,7 @@ Et pourquoi pas ?
 Oh ! Cela irait sans difficulté.
 
 
-**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_turiaf
+**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *id_TURIAF *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_turiaf
 
 Rassurez-vous ; tout est tranquille et dans l'ordre : nos craintes étaient vaines. Brissac, observé de toutes parts, n'a laissé échapper aucun signe de trahison ; mais on ne saurait jamais pécher par excès de vigilance. Nous avons épié ses moindres actions ; nous avons suivi tous les mouvements qu'il s'est donnés et qui nous inquiétaient. Tous sont favorables à la défense de la ville. Il n'y a eu aucune sorte de communication entre lui et l'armée ennemie ; ses dispositions y sont même contraires. Nous vous avions promis de ne pas le quitter de vue qu'il ne fût rentré chez lui ; il est présentement dans son hôtel, et va prendre du repos. Mais quatre espions veilleront à sa porte. Nous allons profiter du moment où il sommeillera, pour fermer un peu l'oeil ; car nous tombons de lassitude... Il n'y a rien à craindre pour cette nuit, nous en sommes garants.
 
@@ -720,7 +720,7 @@ Mais ce ne peut être que l'armée que l'on attendait... Remettez-vous...
 Ô fureur ! Malheureux que je suis !... Mon poignard était si près de son coeur ; pourquoi ai-je différé de frapper !
 
 
-**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *date_1782 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lepeuple
+**** *creator_mercier *book_mercier_destructiondelaligue *style_prose *genre_drame *dist1_mercier_prose_drame_destructiondelaligue *dist2_mercier_prose_drame *id_LEPEUPLE *date_1782 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lepeuple
 
 Sire, ayez pitié de nous, ayez pitié de nous, sire !...
 

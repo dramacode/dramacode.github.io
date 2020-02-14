@@ -1,6 +1,6 @@
 
 
-**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_JUPITER *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
 
 Vous, qui voulez qu'à la fureur de l'onde
 Jupiter mette un frein, et repeuple ces lieux,
@@ -32,7 +32,7 @@ Mars lui promet en apanage
 La grandeur d'âme et de courage.
 
 
-**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_VENUS *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
 
 Charmante oisiveté, repos délicieux !
 
@@ -93,7 +93,7 @@ Allez de toutes parts, courez, Amours et Jeux ;
 Rendez l'Univers amoureux
 
 
-**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_minerve
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_MINERVE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_minerve
 
 Ou plutôt, repos ennuyeux !
 
@@ -116,7 +116,7 @@ C'est le plus beau des diadèmes.
 Moi, la vertu.
 
 
-**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_MOMUS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
 
 Ne vous faites point tant d'affaires.
 
@@ -222,7 +222,7 @@ Tu sais boire, et je sais médire :
 Voilà de quoi passer partout.
 
 
-**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_promethee
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_PROMETHEE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_promethee
 
 Que me veut Jupiter ?
 
@@ -240,7 +240,7 @@ Machine, on veut voir vos ressorts ;
 Quittez tous ces trompeurs dehors.
 
 
-**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_choeur
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_CHOEUR *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_choeur
 
 Que vaut la peine de vivre,
 Sans le doux plaisir d'aimer ?
@@ -254,7 +254,7 @@ Comment faire
 Pour se taire ?
 
 
-**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_APOLLON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
 
 Voici Tempé, cette vallée
 Dont on vante partout l'ombrage et les beautés ;
@@ -362,7 +362,7 @@ Et veux qu'à l'avenir on ceigne de lauriers
 Le front de mes sujets et celui des guerriers.
 
 
-**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_penee
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_PENEE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_penee
 
 Dieux tributaires de mon onde,
 Je veux, par les beautés de ce moite séjour,
@@ -423,7 +423,7 @@ Moi, je perdrais Daphné ! qu'ai-je à conserver qu'elle ?
 L'hymen m'a-t-il fait d'autres dons ?
 
 
-**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_daphne
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_DAPHNE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_daphne
 
 Amour, n'approche point de nos ombrages doux,
 De nos prés, de nos fontaines ;
@@ -614,7 +614,7 @@ Sans vous laisser toucher le coeur ?
 Ô dieux ! Consentez-vous à cette violence ?
 
 
-**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leucippe
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_LEUCIPPE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leucippe
 
 Puis-je interrompre le silence
 Qu'en ces paisibles lieux peut-être vous cherchez ?
@@ -706,7 +706,7 @@ Je ne suis plus le misérable.
 Mes amours sont mes dieux.
 
 
-**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tharsis
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_THARSIS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tharsis
 
 Que je dois au Destin de m'avoir arrête
 En des lieux ou l'on voit briller votre présence !
@@ -751,7 +751,7 @@ Si je parlais au sort ?
 Je vais le consulter. Attends ici Tharsis.
 
 
-**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_telamon
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_TELAMON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_telamon
 
 Ceci vous trouble et vous étonne.
 
@@ -797,7 +797,7 @@ Adieu, Nymphe cruelle.
       Changera-t-il son âme ?
 
 
-**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amphrise
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_AMPHRISE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amphrise
 
 Ces plaisirs passeront : tout passe dans la vie ;
 De différents désirs elle est entre-suivie ;
@@ -822,7 +822,7 @@ Il a tout l'air d'un dieu ; l'on dirait à le voir,
 Que l'Olympe est sa patrie.
 
 
-**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_meroe
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_MEROE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_meroe
 
 Moi, les plus vives en couleur.
 
@@ -842,7 +842,7 @@ Télamon corrompra cette troupe innocente.
 Me faudra-t-il aussi souffrir la raillerie ?
 
 
-**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_chloris
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_CHLORIS *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_chloris
 
 Viens, ma soeur.
 

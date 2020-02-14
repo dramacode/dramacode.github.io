@@ -1,6 +1,6 @@
 
 
-**** *creator_barantedufresny *book_barantedufresny_pasquinmarforio *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_pasquinmarforio *dist2_barantedufresny_verse_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledocteur
+**** *creator_barantedufresny *book_barantedufresny_pasquinmarforio *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_pasquinmarforio *dist2_barantedufresny_verse_comedy *id_LEDOCTEUR *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledocteur
 
 C'est une profession bien fatigante que celle d'un médecin, il est toujours embarrassé pour les affaires des autres, et n'a pas le temps de veiller aux siennes. Voilà une lettre que j'ai reçu de mon gendre futur, je vais avertir Angélique de se disposer à le recevoir. Angélique, Angélique ?
 
@@ -87,7 +87,7 @@ Mais ne saurait-on pas la guérir de sa manie chantante ?
 Puisque vous m'assurez que le mariage la guérira, je consens qu'elle épouse Léandre.
 
 
-**** *creator_barantedufresny *book_barantedufresny_pasquinmarforio *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_pasquinmarforio *dist2_barantedufresny_verse_comedy *date_1697 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_angelique
+**** *creator_barantedufresny *book_barantedufresny_pasquinmarforio *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_pasquinmarforio *dist2_barantedufresny_verse_comedy *id_ANGELIQUE *date_1697 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_angelique
 
 Ah mon père ! Que vous êtes injuste et incommode, d'interrompre le seul plaisir auquel je sois sensible. Je ne me suis encore regardée que deux heures, et j'ai trouvé une manière de sourire toute nouvelle, dont je ne m'étais pas encore avisée.
 
@@ -132,7 +132,7 @@ Et bien, s'il ne faut que de la coquetterie pour plaire, je deviendrai coquette.
 Mais de grâce dites-moi comment vous me trouvez ?
 
 
-**** *creator_barantedufresny *book_barantedufresny_pasquinmarforio *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_pasquinmarforio *dist2_barantedufresny_verse_comedy *date_1697 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_julie
+**** *creator_barantedufresny *book_barantedufresny_pasquinmarforio *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_pasquinmarforio *dist2_barantedufresny_verse_comedy *id_JULIE *date_1697 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_julie
 
 La la la lire lire la.
 
@@ -167,7 +167,7 @@ Craignez, Pères, craignez les périls du fillage,
 Ah mon père !
 
 
-**** *creator_barantedufresny *book_barantedufresny_pasquinmarforio *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_pasquinmarforio *dist2_barantedufresny_verse_comedy *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonor
+**** *creator_barantedufresny *book_barantedufresny_pasquinmarforio *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_pasquinmarforio *dist2_barantedufresny_verse_comedy *id_LEONOR *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonor
 
 Ah ma Cousine ! Sauvons-nous, sauvons-nous. Qu'on mette les chevaux au carrosse.
 
@@ -214,7 +214,7 @@ Plus je deviens folle, et plus je veux parler.
 Non foemina, Medicus sum, quo fugiam ?
 
 
-**** *creator_barantedufresny *book_barantedufresny_pasquinmarforio *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_pasquinmarforio *dist2_barantedufresny_verse_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octave
+**** *creator_barantedufresny *book_barantedufresny_pasquinmarforio *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_pasquinmarforio *dist2_barantedufresny_verse_comedy *id_OCTAVE *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octave
 
 Hé bien, mon pauvre Pasquin, songeras-tu à nos affaires ?
 
@@ -229,7 +229,7 @@ Un peu trop.
 Je vous laisse. Je souffrirais trop des duretés que vous allez dire à Angélique. Adieu.
 
 
-**** *creator_barantedufresny *book_barantedufresny_pasquinmarforio *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_pasquinmarforio *dist2_barantedufresny_verse_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+**** *creator_barantedufresny *book_barantedufresny_pasquinmarforio *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_pasquinmarforio *dist2_barantedufresny_verse_comedy *id_PIERROT *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
 
 Que diantre, Monsieur, faites donc taire votre fille ? Elle veut que je la serve en Musique ; elle me chante toujours aux oreilles :
 Pierrot, je veux sortir, Baille-moi mon écharpe.
@@ -269,7 +269,7 @@ Quoi ? Le changement de nom fait faire fortune ? Je vous déclare, Monsieur, q
 Monsieur, voilà le rondeau, guérissez-la.
 
 
-**** *creator_barantedufresny *book_barantedufresny_pasquinmarforio *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_pasquinmarforio *dist2_barantedufresny_verse_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pasquin
+**** *creator_barantedufresny *book_barantedufresny_pasquinmarforio *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_pasquinmarforio *dist2_barantedufresny_verse_comedy *id_PASQUIN *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pasquin
 
 Ah fortune, fortune ! Feras-tu toujours faire la pirouette aux pasquinades du malheureux Pasquin, et n'embourberas-tu jamais la roue de ton inconstance dans l'ornière de mon mérite ? Partito di Roma à coups de pieds au cul, Son venuto trenando la savate d'hôtellerie en hôtellerie, n'ayant d'autre monnaie pour payer mon écot, que de médire libéralement de ceux qui me donnaient à manger. Enfin, j'arrive ici sans argent, mais avec une faim canine, sans pouvoir apaiser les murmures affamés de mes languissants boyaux. Ô vous, Cara Oliveta, ma chère maîtresse, dont les gentillesses et les minauderies coquettes me faisaient si souvent crédit dans les hôtelleries, vous deviez rétablir ma fortune ; mais comme tout est variable, votre beauté ne faisant plus que blanchir auprès de l'inhumanité des hôteliers, j'ai été obligé de vous laisser là pour les gages. Que diriez-vous, belle abandonnée, si vous voyiez le tendre Pasquin le ventre aussi creux que la bourse, vous qui l'avez trouvé cent fois regorgeant de vin sur le pas de votre porte, comme sur un lit mollet dont les Amours auraient remué la paillasse ? C'est là qu'en venant me relever, vous saviez distinguer avec tant d'adresse, les hoquets de ma plénitude vineuse, d'avec les soupirs de mon ardent amour. Ouf ! Cuisine, retraite charmante et délicieuse ! Asile favorable autrefois à mon appétit ; vous qui faites le séjour ordinaire de ma charmante Olivette ! Heureuses et tranquilles marmites qui étaient écurées par ses belles mains ! Broches, chaudrons, poêles, et lèchefrites, instruments guerriers de la mâchoire, qui servez de trophée ordinaire à ma belle maîtresse ! Hélas ! Per pietà révoltez-vous contre tous les rôtis, et les ragoûts dont vous êtes les causes secondes ; et par un cliquetis universel et harmonieusement funèbre, apprenez alla mia cara Olivetta, qu'une faim désespérée est prête à rompre les ressorts du tournebroche de ses inclinations. Mais la perte de ma maîtresse m'est encore moins sensible que celle de mon cher Camarade Marforio. Ses prudents conseils et son ingénieuse industrie seraient capables de me tirer de la misère où je suis. Mais la fortune qui a résolu ma perte, l'a fait noyer dans le naufrage que nous avons fait sur mer. Si je trouvais encore quelque compagnon dans cette Ville, je me consolerais de ma mauvaise fortune ; car, comme dit le Philosophe : Solatium est miseris socios habere poenarum.
 
@@ -644,7 +644,7 @@ Nous irons boire à vos dépens,
 Du bon sirop de Mante
 
 
-**** *creator_barantedufresny *book_barantedufresny_pasquinmarforio *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_pasquinmarforio *dist2_barantedufresny_verse_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marforio
+**** *creator_barantedufresny *book_barantedufresny_pasquinmarforio *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_pasquinmarforio *dist2_barantedufresny_verse_comedy *id_MARFORIO *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marforio
 
 Vous avez entendu l'ordre, Monsieur, le Cuisinier ? C'est nous que vous devez régaler.
 
@@ -848,7 +848,7 @@ Le beau nom de Pilor Bouffi,
 Grand Usurier de Mante.
 
 
-**** *creator_barantedufresny *book_barantedufresny_pasquinmarforio *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_pasquinmarforio *dist2_barantedufresny_verse_comedy *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laverite
+**** *creator_barantedufresny *book_barantedufresny_pasquinmarforio *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_pasquinmarforio *dist2_barantedufresny_verse_comedy *id_LAVERITE *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laverite
 
 Des hommes d'aujourd'hui je serais mal reçue,
 Et s'ils aiment la nudité,
@@ -904,7 +904,7 @@ Je l'entends, elle vient me faire une querelle.
 Je suis, si tu l'en crois, bien plus méchante qu'elle.
 
 
-**** *creator_barantedufresny *book_barantedufresny_pasquinmarforio *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_pasquinmarforio *dist2_barantedufresny_verse_comedy *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamedisance
+**** *creator_barantedufresny *book_barantedufresny_pasquinmarforio *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_pasquinmarforio *dist2_barantedufresny_verse_comedy *id_LAMEDISANCE *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamedisance
 
 Non, ce n'est point la Médisance ;
 C'est la Vérité qui nous offense.

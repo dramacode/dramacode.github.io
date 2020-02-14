@@ -1,6 +1,6 @@
 
 
-**** *creator_jacquelinphilidor *book_jacquelinphilidor_pradon *style_verse *genre_comedy *dist1_jacquelinphilidor_verse_comedy_pradon *dist2_jacquelinphilidor_verse_comedy *date_1799 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pradon
+**** *creator_jacquelinphilidor *book_jacquelinphilidor_pradon *style_verse *genre_comedy *dist1_jacquelinphilidor_verse_comedy_pradon *dist2_jacquelinphilidor_verse_comedy *id_PRADON *date_1799 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pradon
 
 Ah ! Mon cher Chapelain, je tremble, c'est aujourd'hui le grand jour; c'est aujourd'hui qu'Electre venge la mort de son père.
 
@@ -147,7 +147,7 @@ Car, ce n'est jamais par lui-même.
 Que l'on voit un auteur sifflé.
 
 
-**** *creator_jacquelinphilidor *book_jacquelinphilidor_pradon *style_verse *genre_comedy *dist1_jacquelinphilidor_verse_comedy_pradon *dist2_jacquelinphilidor_verse_comedy *date_1799 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angeline
+**** *creator_jacquelinphilidor *book_jacquelinphilidor_pradon *style_verse *genre_comedy *dist1_jacquelinphilidor_verse_comedy_pradon *dist2_jacquelinphilidor_verse_comedy *id_ANGELINE *date_1799 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angeline
 
 Puis-je espérer qu'il m'unira à Valcour, à ce jeune officier que j'aime depuis si longtemps, lorsque son engouement pour Chapelain, se fortifie de jour en jour.
 
@@ -282,7 +282,7 @@ Aujourd'hui, grâce à l'indulgence.
 Espèrent n'être que contents.
 
 
-**** *creator_jacquelinphilidor *book_jacquelinphilidor_pradon *style_verse *genre_comedy *dist1_jacquelinphilidor_verse_comedy_pradon *dist2_jacquelinphilidor_verse_comedy *date_1799 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valcour
+**** *creator_jacquelinphilidor *book_jacquelinphilidor_pradon *style_verse *genre_comedy *dist1_jacquelinphilidor_verse_comedy_pradon *dist2_jacquelinphilidor_verse_comedy *id_VALCOUR *date_1799 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valcour
 
 Pardon, monsieur, je croyais trouver ici monsieur Dutremblet ; mais ne seriez-vous pas monsieur Pradon ?
 
@@ -360,7 +360,7 @@ Souvent nous attend la victoire.
 Après avoir été battu.
 
 
-**** *creator_jacquelinphilidor *book_jacquelinphilidor_pradon *style_verse *genre_comedy *dist1_jacquelinphilidor_verse_comedy_pradon *dist2_jacquelinphilidor_verse_comedy *date_1799 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_dutremblet
+**** *creator_jacquelinphilidor *book_jacquelinphilidor_pradon *style_verse *genre_comedy *dist1_jacquelinphilidor_verse_comedy_pradon *dist2_jacquelinphilidor_verse_comedy *id_DUTREMBLET *date_1799 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_dutremblet
 
 Tranquillisez-vous, Angéline, votre père va rentrer, et je ne doute pas que mes sollicitations ne fassent sur lui ce que n'ont pu faire les vôtres.
 
@@ -530,7 +530,7 @@ Est l'amant de ton Angéline, qui le paie du plus tendre retour.
 Ma foi ! Pradon tu m'enchantes doublement aujourd'hui tu as fait le bonheur de ta fille, et une action digne de passer à la prospérité.
 
 
-**** *creator_jacquelinphilidor *book_jacquelinphilidor_pradon *style_verse *genre_comedy *dist1_jacquelinphilidor_verse_comedy_pradon *dist2_jacquelinphilidor_verse_comedy *date_1799 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chapelain
+**** *creator_jacquelinphilidor *book_jacquelinphilidor_pradon *style_verse *genre_comedy *dist1_jacquelinphilidor_verse_comedy_pradon *dist2_jacquelinphilidor_verse_comedy *id_CHAPELAIN *date_1799 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chapelain
 
 Pradon ; une chute, je suis loin de croire que cela lui arrive... Cependant, mon cher Pradon, le public m'effraye pour toi.
 Je puis te parler en ami,

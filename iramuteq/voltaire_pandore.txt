@@ -1,6 +1,6 @@
 
 
-**** *creator_voltaire *book_voltaire_pandore *style_verse *genre_opera *dist1_voltaire_verse_opera_pandore *dist2_voltaire_verse_opera *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_promethee
+**** *creator_voltaire *book_voltaire_pandore *style_verse *genre_opera *dist1_voltaire_verse_opera_pandore *dist2_voltaire_verse_opera *id_PROMETHEE *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_promethee
 
 Prodige de mes mains, charmes que j'ai fait naître,
 Je vous appelle en vain, vous ne m'entendez pas :
@@ -183,7 +183,7 @@ Quoi ! Malgré ma prière, et malgré vos serments,
 Vous avez donc ouvert cette boîte odieuse ?
 
 
-**** *creator_voltaire *book_voltaire_pandore *style_verse *genre_opera *dist1_voltaire_verse_opera_pandore *dist2_voltaire_verse_opera *date_1767 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pandore
+**** *creator_voltaire *book_voltaire_pandore *style_verse *genre_opera *dist1_voltaire_verse_opera_pandore *dist2_voltaire_verse_opera *id_PANDORE *date_1767 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pandore
 
 Où suis-je ?et qu'est-ce que je vois ?
 Je n'ai jamais été : quel pouvoir m'a fait naître ?
@@ -374,7 +374,7 @@ Nous serons au bord des précipices,
 Mais l'Amour les couvrira de fleurs.
 
 
-**** *creator_voltaire *book_voltaire_pandore *style_verse *genre_opera *dist1_voltaire_verse_opera_pandore *dist2_voltaire_verse_opera *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
+**** *creator_voltaire *book_voltaire_pandore *style_verse *genre_opera *dist1_voltaire_verse_opera_pandore *dist2_voltaire_verse_opera *id_JUPITER *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
 
 Je l'ai vu cet objet sur la terre animé :
 Je l'ai vu, j'ai senti des transports qui m'étonnent :
@@ -448,7 +448,7 @@ Que cet instant commence
 Le divorce éternel de la terre et des cieux.
 
 
-**** *creator_voltaire *book_voltaire_pandore *style_verse *genre_opera *dist1_voltaire_verse_opera_pandore *dist2_voltaire_verse_opera *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+**** *creator_voltaire *book_voltaire_pandore *style_verse *genre_opera *dist1_voltaire_verse_opera_pandore *dist2_voltaire_verse_opera *id_MERCURE *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
 
 Un héros téméraire a pris le feu céleste :
 Pour expier ce vol audacieux,
@@ -482,7 +482,7 @@ Déjà leur foule impitoyable
 Approche de ces lieux.
 
 
-**** *creator_voltaire *book_voltaire_pandore *style_verse *genre_opera *dist1_voltaire_verse_opera_pandore *dist2_voltaire_verse_opera *date_1767 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nemesis
+**** *creator_voltaire *book_voltaire_pandore *style_verse *genre_opera *dist1_voltaire_verse_opera_pandore *dist2_voltaire_verse_opera *id_NEMESIS *date_1767 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nemesis
 
 Les ondes du Léthé, les flammes du Tartare
 Doivent tout ravager.
@@ -536,7 +536,7 @@ Fuyons de la terre et des airs.
 Jupiter est vengé, rentrons dans les enfers.
 
 
-**** *creator_voltaire *book_voltaire_pandore *style_verse *genre_opera *dist1_voltaire_verse_opera_pandore *dist2_voltaire_verse_opera *date_1767 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nymphes
+**** *creator_voltaire *book_voltaire_pandore *style_verse *genre_opera *dist1_voltaire_verse_opera_pandore *dist2_voltaire_verse_opera *id_NYMPHES *date_1767 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nymphes
 
 Quelle douce aurore
 Se lève sur nous !
@@ -585,7 +585,7 @@ L'excès de sa fragilité
 Ne saurait égaler ses charmes.
 
 
-**** *creator_voltaire *book_voltaire_pandore *style_verse *genre_opera *dist1_voltaire_verse_opera_pandore *dist2_voltaire_verse_opera *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_titans
+**** *creator_voltaire *book_voltaire_pandore *style_verse *genre_opera *dist1_voltaire_verse_opera_pandore *dist2_voltaire_verse_opera *id_TITANS *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_titans
 
 Cédez, tyrans de l'univers :
 Soyez punis de vos fureurs cruelles :
@@ -598,7 +598,7 @@ Lançons nos traits.
 Renversons les dieux.
 
 
-**** *creator_voltaire *book_voltaire_pandore *style_verse *genre_opera *dist1_voltaire_verse_opera_pandore *dist2_voltaire_verse_opera *date_1767 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_dieux
+**** *creator_voltaire *book_voltaire_pandore *style_verse *genre_opera *dist1_voltaire_verse_opera_pandore *dist2_voltaire_verse_opera *id_DIEUX *date_1767 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_dieux
 
 Que les astres se réjouissent !
 Que tous les dieux applaudissent

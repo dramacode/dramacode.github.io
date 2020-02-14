@@ -1,6 +1,6 @@
 
 
-**** *creator_moncrif *book_moncrif_abderites *style_verse *genre_comedy *dist1_moncrif_verse_comedy_abderites *dist2_moncrif_verse_comedy *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicandre
+**** *creator_moncrif *book_moncrif_abderites *style_verse *genre_comedy *dist1_moncrif_verse_comedy_abderites *dist2_moncrif_verse_comedy *id_NICANDRE *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicandre
 
 Adieu Lisis.
 
@@ -191,7 +191,7 @@ L'état le plus dupe en amour,
 Est de jouer la comédie.
 
 
-**** *creator_moncrif *book_moncrif_abderites *style_verse *genre_comedy *dist1_moncrif_verse_comedy_abderites *dist2_moncrif_verse_comedy *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anaximene
+**** *creator_moncrif *book_moncrif_abderites *style_verse *genre_comedy *dist1_moncrif_verse_comedy_abderites *dist2_moncrif_verse_comedy *id_ANAXIMENE *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anaximene
 
 Sans la frivolité, sans l'erreur qui l'agite,
 D'accroître ses honneurs, ses titres et son bien,
@@ -243,7 +243,7 @@ Prête déjà ?
 À peine arrivez-vous et pour ce soin pénible...
 
 
-**** *creator_moncrif *book_moncrif_abderites *style_verse *genre_comedy *dist1_moncrif_verse_comedy_abderites *dist2_moncrif_verse_comedy *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phorbas
+**** *creator_moncrif *book_moncrif_abderites *style_verse *genre_comedy *dist1_moncrif_verse_comedy_abderites *dist2_moncrif_verse_comedy *id_PHORBAS *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phorbas
 
       Fort bien ! Très bien !
 Du mérite ; il est vrai : mérite et citoyen.
@@ -287,7 +287,7 @@ Que Nicandre connaît les coeurs!
 Oui, les rigueurs on les publie.
 
 
-**** *creator_moncrif *book_moncrif_abderites *style_verse *genre_comedy *dist1_moncrif_verse_comedy_abderites *dist2_moncrif_verse_comedy *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mirto
+**** *creator_moncrif *book_moncrif_abderites *style_verse *genre_comedy *dist1_moncrif_verse_comedy_abderites *dist2_moncrif_verse_comedy *id_MIRTO *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mirto
 
 J'ai bien à vous conter fans doute ;
 Vous arrivez apparemment ?
@@ -430,7 +430,7 @@ Joyeusement, fidèlement.
       Oh le gendre charmant !
 
 
-**** *creator_moncrif *book_moncrif_abderites *style_verse *genre_comedy *dist1_moncrif_verse_comedy_abderites *dist2_moncrif_verse_comedy *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_carite
+**** *creator_moncrif *book_moncrif_abderites *style_verse *genre_comedy *dist1_moncrif_verse_comedy_abderites *dist2_moncrif_verse_comedy *id_CARITE *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_carite
 
 Maman, c'est Lisis ! Je le vois.
 
@@ -493,7 +493,7 @@ Ah que d'aimer bien tendrement,
 Est une douce comédie !
 
 
-**** *creator_moncrif *book_moncrif_abderites *style_verse *genre_comedy *dist1_moncrif_verse_comedy_abderites *dist2_moncrif_verse_comedy *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisis
+**** *creator_moncrif *book_moncrif_abderites *style_verse *genre_comedy *dist1_moncrif_verse_comedy_abderites *dist2_moncrif_verse_comedy *id_LISIS *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisis
 
 Mais Dromon, es-tu fou ?
 
@@ -709,7 +709,7 @@ Pour les sots, peut-on faire mieux
 Que de jouer la comédie.
 
 
-**** *creator_moncrif *book_moncrif_abderites *style_verse *genre_comedy *dist1_moncrif_verse_comedy_abderites *dist2_moncrif_verse_comedy *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aristeme
+**** *creator_moncrif *book_moncrif_abderites *style_verse *genre_comedy *dist1_moncrif_verse_comedy_abderites *dist2_moncrif_verse_comedy *id_ARISTEME *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aristeme
 
 L'annonce a dû vous troubler,
 Il n'en est pas moins croyable.
@@ -784,7 +784,7 @@ Il est peu d'acteurs dans la vie
 Qui d'un rôle éternel, s'acquittent toujours bien.
 
 
-**** *creator_moncrif *book_moncrif_abderites *style_verse *genre_comedy *dist1_moncrif_verse_comedy_abderites *dist2_moncrif_verse_comedy *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tergalion
+**** *creator_moncrif *book_moncrif_abderites *style_verse *genre_comedy *dist1_moncrif_verse_comedy_abderites *dist2_moncrif_verse_comedy *id_TERGALION *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tergalion
 
 Que vois-je ! Suis-je au Sénat !
 C'est vous qui régissez l'État ?
@@ -818,7 +818,7 @@ On ne peut faire avec eux,
 Qu'un commerce d'extravagances.
 
 
-**** *creator_moncrif *book_moncrif_abderites *style_verse *genre_comedy *dist1_moncrif_verse_comedy_abderites *dist2_moncrif_verse_comedy *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dromon
+**** *creator_moncrif *book_moncrif_abderites *style_verse *genre_comedy *dist1_moncrif_verse_comedy_abderites *dist2_moncrif_verse_comedy *id_DROMON *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dromon
 
       J'en ai tout l'air, d'accord ;
 Mon discours; j'en conviens, a l'entière apparence,

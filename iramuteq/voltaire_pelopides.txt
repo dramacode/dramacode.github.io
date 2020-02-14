@@ -1,6 +1,6 @@
 
 
-**** *creator_voltaire *book_voltaire_pelopides *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_pelopides *dist2_voltaire_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_atree
+**** *creator_voltaire *book_voltaire_pelopides *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_pelopides *dist2_voltaire_verse_tragedy *id_ATREE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_atree
 
 Idas, autour du temple étendez vos cohortes ;
 Vous, gardez ce parvis ; vous, veillez à ces portes.
@@ -268,7 +268,7 @@ Je suis digue de toi ; tu dois me reconnaître ;
 Et mes derniers neveux m'égaleront peut-être.
 
 
-**** *creator_voltaire *book_voltaire_pelopides *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_pelopides *dist2_voltaire_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thyeste
+**** *creator_voltaire *book_voltaire_pelopides *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_pelopides *dist2_voltaire_verse_tragedy *id_THYESTE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thyeste
 
 J'y viens... Chercher la paix, s'il en est pour Atrée,
 S'il en est pour mon âme au désespoir livrée ;
@@ -461,7 +461,7 @@ Je ne puis t'arracher ta vie abominable.
 Va, je finis la mienne.
 
 
-**** *creator_voltaire *book_voltaire_pelopides *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_pelopides *dist2_voltaire_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_erope
+**** *creator_voltaire *book_voltaire_pelopides *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_pelopides *dist2_voltaire_verse_tragedy *id_EROPE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_erope
 
 Va, te dis-je, Mégare, et cache à tous les yeux
 Dans ces antres secrets ce dépôt précieux.
@@ -796,7 +796,7 @@ Dieux ! quels maux je ressens ! Ô ma mère ! Ô mon fils !...
 Je meurs !
 
 
-**** *creator_voltaire *book_voltaire_pelopides *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_pelopides *dist2_voltaire_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hippodamie
+**** *creator_voltaire *book_voltaire_pelopides *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_pelopides *dist2_voltaire_verse_tragedy *id_HIPPODAMIE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hippodamie
 
 Voilà donc tout le fruit de tes soins vigilants !
 Tu vois si le sang parle au cœur de mes enfants.
@@ -1168,7 +1168,7 @@ Monstres, sur votre mère épuisez vos fureurs :
 Mon sein vous a portés, je suis la plus coupable.
 
 
-**** *creator_voltaire *book_voltaire_pelopides *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_pelopides *dist2_voltaire_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polemon
+**** *creator_voltaire *book_voltaire_pelopides *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_pelopides *dist2_voltaire_verse_tragedy *id_POLEMON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polemon
 
       Espérez un plus doux avenir.
 Deux frères divisés pourraient se réunir.
@@ -1462,7 +1462,7 @@ Où vous allez tous trois prononcer les serments.
       Affreux soupçons, vous êtes éclaircis.
 
 
-**** *creator_voltaire *book_voltaire_pelopides *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_pelopides *dist2_voltaire_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_megare
+**** *creator_voltaire *book_voltaire_pelopides *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_pelopides *dist2_voltaire_verse_tragedy *id_MEGARE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_megare
 
 Princesse... les deux rois...
 
@@ -1516,7 +1516,7 @@ Les dieux que j'attestais m'ont laissée expirante.
 Craignez tout.
 
 
-**** *creator_voltaire *book_voltaire_pelopides *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_pelopides *dist2_voltaire_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_idas
+**** *creator_voltaire *book_voltaire_pelopides *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_pelopides *dist2_voltaire_verse_tragedy *id_IDAS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_idas
 
 Tel est souvent des cours le manège perfide ;
 La vérité les fuit, l'imposture y réside :

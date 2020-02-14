@@ -1,6 +1,6 @@
 
 
-**** *creator_delavigne *book_delavigne_comediens *style_verse *genre_comedy *dist1_delavigne_verse_comedy_comediens *dist2_delavigne_verse_comedy *date_1820 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_victor
+**** *creator_delavigne *book_delavigne_comediens *style_verse *genre_comedy *dist1_delavigne_verse_comedy_comediens *dist2_delavigne_verse_comedy *id_VICTOR *date_1820 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_victor
 
 Non, ne le croyez pas, je me tiendrais infâme
 Si ce honteux espoir avait séduit mon âme.
@@ -645,7 +645,7 @@ Monsieur !
       Eh ! De grâce, un moment.
 
 
-**** *creator_delavigne *book_delavigne_comediens *style_verse *genre_comedy *dist1_delavigne_verse_comedy_comediens *dist2_delavigne_verse_comedy *date_1820 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_floridore
+**** *creator_delavigne *book_delavigne_comediens *style_verse *genre_comedy *dist1_delavigne_verse_comedy_comediens *dist2_delavigne_verse_comedy *id_FLORIDORE *date_1820 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_floridore
 
 Deux vestes à fleurs d'or et deux habits complets.
 Vous m'entendez, allez. Voici vos dix billets :
@@ -881,7 +881,7 @@ Monsieur est inspecteur ?
 Que n'ai-je su plus tôt !
 
 
-**** *creator_delavigne *book_delavigne_comediens *style_verse *genre_comedy *dist1_delavigne_verse_comedy_comediens *dist2_delavigne_verse_comedy *date_1820 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_belrose
+**** *creator_delavigne *book_delavigne_comediens *style_verse *genre_comedy *dist1_delavigne_verse_comedy_comediens *dist2_delavigne_verse_comedy *id_BELROSE *date_1820 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_belrose
 
 Lebrun, pour un artiste, est un nom trop commun ;
 Je m'appelle Belrose.
@@ -1375,7 +1375,7 @@ Bornons-nous à l'Europe ; et, s'il en fait le tour,
 Que dans un bon fauteuil il dorme à son retour !
 
 
-**** *creator_delavigne *book_delavigne_comediens *style_verse *genre_comedy *dist1_delavigne_verse_comedy_comediens *dist2_delavigne_verse_comedy *date_1820 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blinval
+**** *creator_delavigne *book_delavigne_comediens *style_verse *genre_comedy *dist1_delavigne_verse_comedy_comediens *dist2_delavigne_verse_comedy *id_BLINVAL *date_1820 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blinval
 
 « Fuyez donc, retournez dans votre Thessalie. »
 
@@ -1525,7 +1525,7 @@ Si votre dénouement m'inspire de l'effroi ?
 Vous vous fâchez.
 
 
-**** *creator_delavigne *book_delavigne_comediens *style_verse *genre_comedy *dist1_delavigne_verse_comedy_comediens *dist2_delavigne_verse_comedy *date_1820 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bernard
+**** *creator_delavigne *book_delavigne_comediens *style_verse *genre_comedy *dist1_delavigne_verse_comedy_comediens *dist2_delavigne_verse_comedy *id_BERNARD *date_1820 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bernard
 
 Au bureau, m'a-t-on dit, où j'arrive un peu tard,
 Un gentilhomme anglais cherchait monsieur Bernard.
@@ -1611,7 +1611,7 @@ Prenez, vous saurez tout, j'ai vu le testament.
 Il se fera prier pour être légataire !
 
 
-**** *creator_delavigne *book_delavigne_comediens *style_verse *genre_comedy *dist1_delavigne_verse_comedy_comediens *dist2_delavigne_verse_comedy *date_1820 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameblinval
+**** *creator_delavigne *book_delavigne_comediens *style_verse *genre_comedy *dist1_delavigne_verse_comedy_comediens *dist2_delavigne_verse_comedy *id_MADAMEBLINVAL *date_1820 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameblinval
 
 Pour qui ?
 
@@ -1740,7 +1740,7 @@ Je cours à ma toilette.
 Je me sens inspirée.
 
 
-**** *creator_delavigne *book_delavigne_comediens *style_verse *genre_comedy *dist1_delavigne_verse_comedy_comediens *dist2_delavigne_verse_comedy *date_1820 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucile
+**** *creator_delavigne *book_delavigne_comediens *style_verse *genre_comedy *dist1_delavigne_verse_comedy_comediens *dist2_delavigne_verse_comedy *id_LUCILE *date_1820 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucile
 
       Qui vous a donc fâchés ?
 Qu'avez-vous fait ?

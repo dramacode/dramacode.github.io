@@ -1,6 +1,6 @@
 
 
-**** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clytemnestre
+**** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *id_CLYTEMNESTRE *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clytemnestre
 
 Dieux puissants, dissipez mon trouble et mon effroi ;
 Et chassez ces horreurs loin d'Égisthe et de moi.
@@ -108,7 +108,7 @@ Pour l'en voir digne au gré de mes voeux et des tiens,
 Je lui laisse un forfait qui passe tous les miens.
 
 
-**** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oreste
+**** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *id_ORESTE *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oreste
 
 Oreste, moi, Seigneur ! Dieux ! Qu'entends je ?
 
@@ -263,7 +263,7 @@ J'éprouve cependant des tourments infinis.
 Dieux ! Les plus criminels seraient-ils plus punis ?
 
 
-**** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_electre
+**** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *id_ELECTRE *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_electre
 
 Témoin du crime affreux que poursuit ma vengeance,
 Ô nuit, dont tant de fois j'ai troublé le silence,
@@ -732,7 +732,7 @@ N'ai-je donc pas assez de ma propre douleur ?
 Voulez-vous me donner la mort, mon cher Oreste ?
 
 
-**** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_egisthe
+**** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *id_EGISTHE *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_egisthe
 
 Madame, quel malheur, troublant votre sommeil,
 Vous a fait de si loin devancer le soleil ?
@@ -867,7 +867,7 @@ Si sur ce choix votre âme est encore incertaine,
 Je vous laisse y penser, et je cours chez la reine.
 
 
-**** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_itys
+**** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *id_ITYS *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_itys
 
 Madame, pardonnez à l'innocente erreur
 Qui vous offre un amant guidé par sa douleur.
@@ -983,7 +983,7 @@ Quoi ! Vous m'abandonnez à mes cruels transports !
 On assassine Ëgisthe ! Ah cruelle princesse !
 
 
-**** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iphianasse
+**** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *id_IPHIANASSE *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iphianasse
 
 On dit qu'un noir présage, un songe plein d'horreur,
 Madame, cette nuit a troublé votre coeur.
@@ -1112,7 +1112,7 @@ Celui que j'implorais est Oreste.
 Oui ; mais je n'eus point part à la perte du tien.
 
 
-**** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_palamede
+**** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *id_PALAMEDE *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_palamede
 
 Embrassez-moi, mon fils : après tant de malheurs,
 Qu'il m'est doux de revoir l'objet de tant de pleurs !
@@ -1400,7 +1400,7 @@ Fait couler tout le sang dont ils vous firent naître.
       Ah seigneur !
 
 
-**** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antenor
+**** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *id_ANTENOR *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antenor
 
       Vous, Seigneur, en ces lieux,
 Parmi des ennemis défiants, furieux !

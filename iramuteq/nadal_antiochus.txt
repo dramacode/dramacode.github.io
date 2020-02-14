@@ -1,6 +1,6 @@
 
 
-**** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antiochus
+**** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *id_ANTIOCHUS *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antiochus
 
 Peuples, écoutez-moi. Suspendez vos alarmes.
 Le Ciel, vous le voyez, favorise mes armes,
@@ -536,7 +536,7 @@ Où me réduit l'éclat de ton pouvoir immense ?
 Grand Dieu ! Sans l'espérer j'implore ta clémence.
 
 
-**** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *date_1722 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_salmone
+**** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *id_SALMONE *date_1722 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_salmone
 
 N'en doutez point, mon fils, votre mère est contente ;
 D'un Peuple tout entier, vous remplissez l'attente.
@@ -814,7 +814,7 @@ Allons, mon fils, allons.
 C'est toi qui me soutiens par un si beau transport.
 
 
-**** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maccabee
+**** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *id_MACCABEE *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maccabee
 
 Je sais quel prix sa main attache à ses rigueurs :
 Et l'espoir ne doit point expirer dans nos coeurs.
@@ -1023,7 +1023,7 @@ Elle couvre mon sang d'une immortelle gloire.
 C'est courir au triomphe, et non pas à la mort.
 
 
-**** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *date_1722 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_zoraide
+**** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *id_ZORAIDE *date_1722 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_zoraide
 
 Sans discuter les droits d'un Vainqueur en courroux,
 C'est déjà trop pour moi de m'offrir devant vous.
@@ -1332,7 +1332,7 @@ Seigneur, dans les vrais biens que sa main nous dispense,
 Puisse votre vertu, trouver sa récompense !
 
 
-**** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_azael
+**** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *id_AZAEL *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_azael
 
 Où suis-je, Dieu puissant ?
 
@@ -1434,7 +1434,7 @@ Qui vécut en tyran, ne peut mourir en Roi.
 C'est à vous que je dois et ma vie et ma mort.
 
 
-**** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phostime
+**** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *id_PHOSTIME *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phostime
 
 Quelques horreurs, Seigneur, que ce grand jour entraîne,
 Et qu'étalent ici la discorde et la haine,
@@ -1530,7 +1530,7 @@ Venez ; et sans tarder, y conduisant vos pas,
 J'y veux rendre avec vous grâce au Dieu des combats.
 
 
-**** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_menelaus
+**** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *id_MENELAUS *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_menelaus
 
 Non, tout cet appareil ne doit point te surprendre,
 Alcime. Dans ces lieux, le vainqueur va se rendre ;
@@ -1650,7 +1650,7 @@ Que chacun dans ce jour attend en cette place,
 À déjà contre vous, rallumé leur audace.
 
 
-**** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achas
+**** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *id_ACHAS *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achas
 
 L'Ambassadeur d'Égypte attend son audience,
 Seigneur, daignez répondre à son impatience,

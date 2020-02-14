@@ -1,6 +1,6 @@
 
 
-**** *creator_desfontaines *book_desfontaines_perside *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_perside *dist2_desfontaines_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_soliman
+**** *creator_desfontaines *book_desfontaines_perside *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_perside *dist2_desfontaines_verse_tragedy *id_soliman *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_soliman
 
 Tu me faits tort Eraste, et ton respect m'offence
 Si retournant vainqueur de l'effroy de Bizance,
@@ -582,7 +582,7 @@ De cet unique espoir mon Esprit se console,
 Mais ma force me laisse, et mon ame s'envole.
 
 
-**** *creator_desfontaines *book_desfontaines_perside *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_perside *dist2_desfontaines_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+**** *creator_desfontaines *book_desfontaines_perside *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_perside *dist2_desfontaines_verse_tragedy *id_eraste *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
 
 En quel estat, Seigneur, faut-il que je paroisse ?
 Quel rang dois-je tenir aupres de ta Hautesse ?
@@ -926,7 +926,7 @@ Quel estoit ton Eraste, et quel est ton amour.
 Et mesme si tu veux nous irons au trépas.
 
 
-**** *creator_desfontaines *book_desfontaines_perside *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_perside *dist2_desfontaines_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achmat
+**** *creator_desfontaines *book_desfontaines_perside *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_perside *dist2_desfontaines_verse_tragedy *id_achmat *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achmat
 
 Ah Seigneur que faits-tu ? Quoy Soliman s'abaisse !
 Ah cet abaissement⁎ offence ta Hautesse,
@@ -1193,7 +1193,7 @@ Ce brazier est esteint, Eraste est au tombeau.
 O destins ! ah je meurs ! ce coup m'oste le jour.
 
 
-**** *creator_desfontaines *book_desfontaines_perside *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_perside *dist2_desfontaines_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pyrrhus
+**** *creator_desfontaines *book_desfontaines_perside *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_perside *dist2_desfontaines_verse_tragedy *id_pyrrhus *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pyrrhus
 
 Je te viens advertir qu'Achmat vient d'arriver
 Il demande à te voir
@@ -1247,7 +1247,7 @@ Quoy manquer de respect pour toy son Empereur,
 Je creve de depit.
 
 
-**** *creator_desfontaines *book_desfontaines_perside *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_perside *dist2_desfontaines_verse_tragedy *date_1644 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_haly
+**** *creator_desfontaines *book_desfontaines_perside *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_perside *dist2_desfontaines_verse_tragedy *id_haly *date_1644 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_haly
 
 Tu te devrois Seigneur rendre plus absolu
 Cet excés de bonté qui nuict à ta Hautesse
@@ -1282,7 +1282,7 @@ Suivez tout de ce pas je m'en vais le trouver,
       Il en tient, il est mort
 
 
-**** *creator_desfontaines *book_desfontaines_perside *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_perside *dist2_desfontaines_verse_tragedy *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_perside
+**** *creator_desfontaines *book_desfontaines_perside *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_perside *dist2_desfontaines_verse_tragedy *id_perside *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_perside
 
 Après avoir senty la fureur de tes armes
 Tes faveurs Soliman ont pour moi peu de charmes
@@ -1703,7 +1703,7 @@ Reçoy-la cher Eraste au partir de ces lieux
 Et prens....
 
 
-**** *creator_desfontaines *book_desfontaines_perside *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_perside *dist2_desfontaines_verse_tragedy *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_herminie
+**** *creator_desfontaines *book_desfontaines_perside *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_perside *dist2_desfontaines_verse_tragedy *id_herminie *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_herminie
 
 Je me connois Seigneur, et j'atteste les Dieux,
 Que ce que ta hautesse a pris pour errogance⁎
@@ -1995,7 +1995,7 @@ Accorde à ma perseverance.
 Apres tant de malheurs un succés plus heureux.
 
 
-**** *creator_desfontaines *book_desfontaines_perside *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_perside *dist2_desfontaines_verse_tragedy *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alcomire
+**** *creator_desfontaines *book_desfontaines_perside *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_perside *dist2_desfontaines_verse_tragedy *id_alcomire *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alcomire
 
 Et vous pour l'advouer, vous estes trop discrette.
 
@@ -2131,7 +2131,7 @@ Ce n'est point lacheté que de trahir un traitre.
 Va c'en est faict, adieu vange-moy promptement.
 
 
-**** *creator_desfontaines *book_desfontaines_perside *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_perside *dist2_desfontaines_verse_tragedy *date_1644 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_ormane
+**** *creator_desfontaines *book_desfontaines_perside *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_perside *dist2_desfontaines_verse_tragedy *id_ormane *date_1644 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_ormane
 
       Arrestez . Où courez-vous Madame,
 

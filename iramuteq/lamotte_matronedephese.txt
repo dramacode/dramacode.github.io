@@ -1,6 +1,6 @@
 
 
-**** *creator_lamotte *book_lamotte_matronedephese *style_prose *genre_comedy *dist1_lamotte_prose_comedy_matronedephese *dist2_lamotte_prose_comedy *date_1723 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_euphemie
+**** *creator_lamotte *book_lamotte_matronedephese *style_prose *genre_comedy *dist1_lamotte_prose_comedy_matronedephese *dist2_lamotte_prose_comedy *id_EUPHEMIE *date_1723 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_euphemie
 
 Hélas !
 
@@ -67,7 +67,7 @@ Ah Chrisante, que me demandez vous ! Trahir mon devoir avec tant d'indignité !
 Hélas, Sostrate ! À quelle extrémité suis-je réduite !
 
 
-**** *creator_lamotte *book_lamotte_matronedephese *style_prose *genre_comedy *dist1_lamotte_prose_comedy_matronedephese *dist2_lamotte_prose_comedy *date_1723 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_frosine
+**** *creator_lamotte *book_lamotte_matronedephese *style_prose *genre_comedy *dist1_lamotte_prose_comedy_matronedephese *dist2_lamotte_prose_comedy *id_FROSINE *date_1723 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_frosine
 
 Viens ça, Licas, tandis que ton maître se tue à résoudre ma maîtresse à vivre respirons ici un peu de bon air.
 
@@ -162,7 +162,7 @@ Ma chère Maîtresse !
 De grâce, de grâce ! Eh mort de ma vie, ne sauriez-vous entendre Madame, sans qu'elle parle ? C'est à elle à pleurer, et à nous d'agir ; laissez moi faire, je prends la vie de Sostrate sur mon compte ; et j'en réponds corps pour corps.
 
 
-**** *creator_lamotte *book_lamotte_matronedephese *style_prose *genre_comedy *dist1_lamotte_prose_comedy_matronedephese *dist2_lamotte_prose_comedy *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sostrate
+**** *creator_lamotte *book_lamotte_matronedephese *style_prose *genre_comedy *dist1_lamotte_prose_comedy_matronedephese *dist2_lamotte_prose_comedy *id_SOSTRATE *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sostrate
 
 Mon coquin de Valet ce fera enivré quelque part !
 
@@ -292,7 +292,7 @@ Non, non, je ne fuirai point, je craindrais trop d'être surpris : je sais un mo
 Ah de grâce, mon père, sauvez-moi plutôt l'honneur ! Je ne puis songer sans horreur, à l'ignominie dont je suis menacé !
 
 
-**** *creator_lamotte *book_lamotte_matronedephese *style_prose *genre_comedy *dist1_lamotte_prose_comedy_matronedephese *dist2_lamotte_prose_comedy *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_straton
+**** *creator_lamotte *book_lamotte_matronedephese *style_prose *genre_comedy *dist1_lamotte_prose_comedy_matronedephese *dist2_lamotte_prose_comedy *id_STRATON *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_straton
 
 Notre lumière est éteinte ; je meurs de peur : la nuit est terriblement noire !
 
@@ -428,7 +428,7 @@ Ce n'est qu'une bagatelle, Madame, laissez-vous fléchir ?
 Vivat ! Ah mon cher Maître a que je vous embrasse ! Vous voilà, morbleu, revenu de bien loin !
 
 
-**** *creator_lamotte *book_lamotte_matronedephese *style_prose *genre_comedy *dist1_lamotte_prose_comedy_matronedephese *dist2_lamotte_prose_comedy *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chrisante
+**** *creator_lamotte *book_lamotte_matronedephese *style_prose *genre_comedy *dist1_lamotte_prose_comedy_matronedephese *dist2_lamotte_prose_comedy *id_CHRISANTE *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chrisante
 
 Ah, ma pauvre Frosine ! Ah mon pauvre Licas !
 
@@ -483,7 +483,7 @@ Eh quoi, Madame, quel vain scrupule vous arrête ?
 N'hésitez plus, Madame ; je consens que Sostrate s'unisse avec vous pour jamais son intérêt devient vôtre premier devoir : conservez un époux ; et rendez moi mon fils, de grâce.
 
 
-**** *creator_lamotte *book_lamotte_matronedephese *style_prose *genre_comedy *dist1_lamotte_prose_comedy_matronedephese *dist2_lamotte_prose_comedy *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_licas
+**** *creator_lamotte *book_lamotte_matronedephese *style_prose *genre_comedy *dist1_lamotte_prose_comedy_matronedephese *dist2_lamotte_prose_comedy *id_LICAS *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_licas
 
 C'est bien dit, Madame Frosine : ce tombeau me chagrine l'imagination ; il me semble morgué que je suis plus en vie ici que là-dedans.
 

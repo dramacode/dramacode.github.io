@@ -1,6 +1,6 @@
 
 
-**** *creator_somaize *book_somaize_procesprecieuses *style_verse *genre_comedy *dist1_somaize_verse_comedy_procesprecieuses *dist2_somaize_verse_comedy *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ribercour
+**** *creator_somaize *book_somaize_procesprecieuses *style_verse *genre_comedy *dist1_somaize_verse_comedy_procesprecieuses *dist2_somaize_verse_comedy *id_ribercour *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ribercour
 
 Les Nobles du Mant par bonté
 M'ayant dans Paris, deputé
@@ -490,7 +490,7 @@ Tirer raison de cette injure,
 Et vais…….
 
 
-**** *creator_somaize *book_somaize_procesprecieuses *style_verse *genre_comedy *dist1_somaize_verse_comedy_procesprecieuses *dist2_somaize_verse_comedy *date_1660 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_roguespine
+**** *creator_somaize *book_somaize_procesprecieuses *style_verse *genre_comedy *dist1_somaize_verse_comedy_procesprecieuses *dist2_somaize_verse_comedy *id_roguespine *date_1660 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_roguespine
 
 Parbieu c'est bien avoir mon maistre,
 De plaider la demanjaison,
@@ -1075,7 +1075,7 @@ D'un si favorable Procez.
 FIN.
 
 
-**** *creator_somaize *book_somaize_procesprecieuses *style_verse *genre_comedy *dist1_somaize_verse_comedy_procesprecieuses *dist2_somaize_verse_comedy *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_theocrite
+**** *creator_somaize *book_somaize_procesprecieuses *style_verse *genre_comedy *dist1_somaize_verse_comedy_procesprecieuses *dist2_somaize_verse_comedy *id_theocrite *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_theocrite
 
 Vos civilitez sont plus grandes
 Que n'ont pas esté vos demandes,
@@ -1322,7 +1322,7 @@ Et si Monsieur, le deputé
 A force Ducats apporté.
 
 
-**** *creator_somaize *book_somaize_procesprecieuses *style_verse *genre_comedy *dist1_somaize_verse_comedy_procesprecieuses *dist2_somaize_verse_comedy *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pancrace
+**** *creator_somaize *book_somaize_procesprecieuses *style_verse *genre_comedy *dist1_somaize_verse_comedy_procesprecieuses *dist2_somaize_verse_comedy *id_pancrace *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pancrace
 
 Cher amy, que je suis joyeux
 De vous rencontrer en ces lieux :
@@ -1442,7 +1442,7 @@ Que ce n'est que vous qu'on balotte
 Et qu'on fait servir de marotte.
 
 
-**** *creator_somaize *book_somaize_procesprecieuses *style_verse *genre_comedy *dist1_somaize_verse_comedy_procesprecieuses *dist2_somaize_verse_comedy *date_1660 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_ergaste
+**** *creator_somaize *book_somaize_procesprecieuses *style_verse *genre_comedy *dist1_somaize_verse_comedy_procesprecieuses *dist2_somaize_verse_comedy *id_ergaste *date_1660 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_ergaste
 
 Je viens vous prier d'une grace.
 
@@ -1500,7 +1500,7 @@ Mais Monsieur, s'il vous plaist de prendre.
 Adieu jusqu'au revoir Monsieur.
 
 
-**** *creator_somaize *book_somaize_procesprecieuses *style_verse *genre_comedy *dist1_somaize_verse_comedy_procesprecieuses *dist2_somaize_verse_comedy *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_patrice
+**** *creator_somaize *book_somaize_procesprecieuses *style_verse *genre_comedy *dist1_somaize_verse_comedy_procesprecieuses *dist2_somaize_verse_comedy *id_patrice *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_patrice
 
 Ma foy, je ne vous voyois pas,
 Et j'allois chez vous pour vous dire,
@@ -1577,7 +1577,7 @@ Et qu'il soit mesmement placé
 Sans estre du tout exaucé.
 
 
-**** *creator_somaize *book_somaize_procesprecieuses *style_verse *genre_comedy *dist1_somaize_verse_comedy_procesprecieuses *dist2_somaize_verse_comedy *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_epicarie
+**** *creator_somaize *book_somaize_procesprecieuses *style_verse *genre_comedy *dist1_somaize_verse_comedy_procesprecieuses *dist2_somaize_verse_comedy *id_epicarie *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_epicarie
 
 Hem, ou courez-vous de ce pas ?
 
@@ -1716,7 +1716,7 @@ Qui sans trop bien sçavoir pourquoy
 Vient de prononcer contre moy.
 
 
-**** *creator_somaize *book_somaize_procesprecieuses *style_verse *genre_comedy *dist1_somaize_verse_comedy_procesprecieuses *dist2_somaize_verse_comedy *date_1660 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_rodogine
+**** *creator_somaize *book_somaize_procesprecieuses *style_verse *genre_comedy *dist1_somaize_verse_comedy_procesprecieuses *dist2_somaize_verse_comedy *id_rodogine *date_1660 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_rodogine
 
 Le beau debut que voila !
 Que vous avez l'ame grossiere,

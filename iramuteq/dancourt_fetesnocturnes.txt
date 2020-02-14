@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_fetesnocturnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetesnocturnes *dist2_dancourt_prose_comedy *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
+**** *creator_dancourt *book_dancourt_fetesnocturnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetesnocturnes *dist2_dancourt_prose_comedy *id_ORONTE *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
 
 Je ne sais pas, Madame, quel gré vous me saurez de la Mascarade ; mis il faut que vous ayez bien du pouvoir sur moi, pour m'engager à venir passer la nuit au Cours dans l'équipage où me voilà.
 
@@ -43,7 +43,7 @@ Cidalise et Lucile, sans doute ?
 Oh bien ! Ton maître est un impertinent, d'avoir fait cette partie-là ; elle pourrait bien lui faire manquer le mariage de Célide. Sans adieu, l'Olive.
 
 
-**** *creator_dancourt *book_dancourt_fetesnocturnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetesnocturnes *dist2_dancourt_prose_comedy *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+**** *creator_dancourt *book_dancourt_fetesnocturnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetesnocturnes *dist2_dancourt_prose_comedy *id_CLITANDRE *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
 
 Je ne puis reconnaître personne sous le masque. Est-ce toi, l'Olive ?
 
@@ -150,7 +150,7 @@ Que vois-je ! Quelle surprise ! C'est vous, Madame Célide ? Dans le même d�
 Par quelle heureuse aventure, Madame ?…
 
 
-**** *creator_dancourt *book_dancourt_fetesnocturnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetesnocturnes *dist2_dancourt_prose_comedy *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lolive
+**** *creator_dancourt *book_dancourt_fetesnocturnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetesnocturnes *dist2_dancourt_prose_comedy *id_LOLIVE *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lolive
 
 En attendant le réveillon,
 Je viens de prendre mon bouillon
@@ -231,7 +231,7 @@ Il le prend bien. Allons, courage.
 On vous tendait un panneau, Monsieur ; Mais la force de la vérité a de grandes prérogatives.
 
 
-**** *creator_dancourt *book_dancourt_fetesnocturnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetesnocturnes *dist2_dancourt_prose_comedy *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celide
+**** *creator_dancourt *book_dancourt_fetesnocturnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetesnocturnes *dist2_dancourt_prose_comedy *id_CELIDE *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celide
 
 Vous y trouverez peut-être Lucile, et vous n'êtes pas si fort ennemi des plaisirs que vous le voulez paraître, Monsieur Oronte. Je sais vos affaires…
 
@@ -296,7 +296,7 @@ Cela ne vous sera pas difficile, Clitandre.
 Vous vous reprochez d'avoir donné des soupçons à Célide ; Célide se reproche d'en avoir eu. Je ne puis vous cacher que je vous aime : redites-moi que vous m'aimez, Clitandre, et ne me trompez pas, je vous en conjure.
 
 
-**** *creator_dancourt *book_dancourt_fetesnocturnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetesnocturnes *dist2_dancourt_prose_comedy *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_araminte
+**** *creator_dancourt *book_dancourt_fetesnocturnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetesnocturnes *dist2_dancourt_prose_comedy *id_ARAMINTE *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_araminte
 
 Voilà le plus heureux présage du monde, en arrivant on nous promet que l'Amour et les Dieux s'intéressent pour nous : la partie ne saurait manquer d'être heureuse.
 
@@ -331,7 +331,7 @@ Le vilain masque avec sa méprise !
 J'ai bien compté là-dessus, et je vous recommande mes intérêts.
 
 
-**** *creator_dancourt *book_dancourt_fetesnocturnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetesnocturnes *dist2_dancourt_prose_comedy *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucile
+**** *creator_dancourt *book_dancourt_fetesnocturnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetesnocturnes *dist2_dancourt_prose_comedy *id_LUCILE *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucile
 
 La foule paraît si grande qu'on n'y peut aborder, et si par hasard ils y étaient, nous aurions de la peine à les joindre.
 
@@ -352,7 +352,7 @@ C'est quelquefois ce qui le diminue, l'amour ne plaît qu'autant qu'il est jeune
 Qu'y a-t-il donc, Madame ?
 
 
-**** *creator_dancourt *book_dancourt_fetesnocturnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetesnocturnes *dist2_dancourt_prose_comedy *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
+**** *creator_dancourt *book_dancourt_fetesnocturnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetesnocturnes *dist2_dancourt_prose_comedy *id_MARTON *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
 
 Hé mort de ma vie, pourquoi tant tarder à conclure votre mariage ? Ce devrait être une chose faite.
 
@@ -611,7 +611,7 @@ Il y a d'heureux moments dans la vie, comme vous voyez.
 Tout le monde s'en flatte ; mais voici une bande de violons et quelques Masques qui s'approchent.
 
 
-**** *creator_dancourt *book_dancourt_fetesnocturnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetesnocturnes *dist2_dancourt_prose_comedy *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_finette
+**** *creator_dancourt *book_dancourt_fetesnocturnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetesnocturnes *dist2_dancourt_prose_comedy *id_FINETTE *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_finette
 
 Il n'y a personne d'arrivé à Chaillot que le Fiacre, deux Cuisiniers, et la provision ; mais Clitandre ni l'Olive n'y sont point encore.
 

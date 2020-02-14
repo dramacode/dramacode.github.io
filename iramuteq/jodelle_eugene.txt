@@ -1,6 +1,6 @@
 
 
-**** *creator_jodelle *book_jodelle_eugene *style_verse *genre_comedy *dist1_jodelle_verse_comedy_eugene *dist2_jodelle_verse_comedy *date_1574 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eugene
+**** *creator_jodelle *book_jodelle_eugene *style_verse *genre_comedy *dist1_jodelle_verse_comedy_eugene *dist2_jodelle_verse_comedy *id_EUGENE *date_1574 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eugene
 
 La vie aux humains ordonnée
 Pour être si tôt terminée,
@@ -499,7 +499,7 @@ Doublent au Ciel leur saint breuvage.
 Adieu, et applaudissez.
 
 
-**** *creator_jodelle *book_jodelle_eugene *style_verse *genre_comedy *dist1_jodelle_verse_comedy_eugene *dist2_jodelle_verse_comedy *date_1574 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_messirejean
+**** *creator_jodelle *book_jodelle_eugene *style_verse *genre_comedy *dist1_jodelle_verse_comedy_eugene *dist2_jodelle_verse_comedy *id_MESSIREJEAN *date_1574 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_messirejean
 
 Le seul souvenir de nos maux,
 Qui jà vers nous ont fait leur tour,
@@ -938,7 +938,7 @@ Mais marchez d'un pied plus délivre.
 Bon soit Messieurs.
 
 
-**** *creator_jodelle *book_jodelle_eugene *style_verse *genre_comedy *dist1_jodelle_verse_comedy_eugene *dist2_jodelle_verse_comedy *date_1574 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillaume
+**** *creator_jodelle *book_jodelle_eugene *style_verse *genre_comedy *dist1_jodelle_verse_comedy_eugene *dist2_jodelle_verse_comedy *id_GUILLAUME *date_1574 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillaume
 
 Hé Dieu quelle heureuse fortune
 M'eût été plus heureuse qu'une,
@@ -1147,7 +1147,7 @@ Monsieur pour elle grand merci,
 M'amie faites bien ainsi.
 
 
-**** *creator_jodelle *book_jodelle_eugene *style_verse *genre_comedy *dist1_jodelle_verse_comedy_eugene *dist2_jodelle_verse_comedy *date_1574 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alix
+**** *creator_jodelle *book_jodelle_eugene *style_verse *genre_comedy *dist1_jodelle_verse_comedy_eugene *dist2_jodelle_verse_comedy *id_ALIX *date_1574 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alix
 
 Qui est celui j'oy compter,
 Er tellement se contenter ?
@@ -1237,7 +1237,7 @@ Monsieur quelle faveur trop grande
 Vous m'avez fait en ce pardon.
 
 
-**** *creator_jodelle *book_jodelle_eugene *style_verse *genre_comedy *dist1_jodelle_verse_comedy_eugene *dist2_jodelle_verse_comedy *date_1574 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_florimond
+**** *creator_jodelle *book_jodelle_eugene *style_verse *genre_comedy *dist1_jodelle_verse_comedy_eugene *dist2_jodelle_verse_comedy *id_FLORIMOND *date_1574 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_florimond
 
 Ores que je suis de retour,
 J'ai consumé quasi ce jour
@@ -1617,7 +1617,7 @@ Et lui vouez pour désormais
 Un fidèle amour à jamais.
 
 
-**** *creator_jodelle *book_jodelle_eugene *style_verse *genre_comedy *dist1_jodelle_verse_comedy_eugene *dist2_jodelle_verse_comedy *date_1574 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arnault
+**** *creator_jodelle *book_jodelle_eugene *style_verse *genre_comedy *dist1_jodelle_verse_comedy_eugene *dist2_jodelle_verse_comedy *id_ARNAULT *date_1574 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arnault
 
 Combien que mille fois et mille,
 J'aye vu et revu la ville
@@ -1933,7 +1933,7 @@ Le discord s'est bien tôt tourné
 Bonsoir à tous.
 
 
-**** *creator_jodelle *book_jodelle_eugene *style_verse *genre_comedy *dist1_jodelle_verse_comedy_eugene *dist2_jodelle_verse_comedy *date_1574 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_helene
+**** *creator_jodelle *book_jodelle_eugene *style_verse *genre_comedy *dist1_jodelle_verse_comedy_eugene *dist2_jodelle_verse_comedy *id_HELENE *date_1574 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_helene
 
 Si l'oeil trompé ne me déçoit,
 Par la rue au matin passait
@@ -2137,7 +2137,7 @@ Avec Messire Jean.
 Hâtez-les.
 
 
-**** *creator_jodelle *book_jodelle_eugene *style_verse *genre_comedy *dist1_jodelle_verse_comedy_eugene *dist2_jodelle_verse_comedy *date_1574 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_matthieu
+**** *creator_jodelle *book_jodelle_eugene *style_verse *genre_comedy *dist1_jodelle_verse_comedy_eugene *dist2_jodelle_verse_comedy *id_MATTHIEU *date_1574 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_matthieu
 
 On m'a maintenant rapporté
 Qu'on avait à Guillaume ôté

@@ -1,6 +1,6 @@
 
 
-**** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_medee
+**** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *id_MEDEE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_medee
 
 Où suis-je malheureuse ? Où portai-je mes pas ?
 Qu'ai-je vu ? Qu'ai-je ouï ? Je ne me connais pas.
@@ -753,7 +753,7 @@ Adieu ; je t'abandonne aux horreurs de ton sort.
 Ingrat ! Je te hais trop, pour te donner la mort.
 
 
-**** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jason
+**** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *id_JASON *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jason
 
 Je sais ce que je dois à l'amour de Médée.
 Cesse, Iphite, à mes yeux d'en retracer l'idée.
@@ -1165,7 +1165,7 @@ Déplorable Créüse ! Infortuné Créon !
 Que les Dieux inhumains laissent en ma puissance.
 
 
-**** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_creuse
+**** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *id_CREUSE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_creuse
 
 Je croyais, en ces lieux, trouver le Roi mon père.
 On vient de m'assurer qu'il vous cherche, Seigneur.
@@ -1294,7 +1294,7 @@ Malgré le sort cruel qui va nous désunir,
 Mon coeur vous aime encore à son dernier soupir.
 
 
-**** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iphite
+**** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *id_IPHITE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iphite
 
 De ce nouvel amour, la trompeuse douceur
 Séduit votre raison par son appât flatteur.
@@ -1338,7 +1338,7 @@ Ah ! Seigneur... Il n'est plus. Quels horribles malheurs,
 Ô trop funeste amour, produisent tes fureurs.
 
 
-**** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rhodope
+**** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *id_RHODOPE *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rhodope
 
 Madame, cet hymen se célèbre demain.
 
@@ -1416,7 +1416,7 @@ Profitez de l'horreur qui règne dans ces lieux,
 Et fuyez pour jamais leur aspect odieux.
 
 
-**** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_creon
+**** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *id_CREON *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_creon
 
 Je vous cherchais, Seigneur. Savez-vous qu'en ces lieux
 Un nouvel envoyé du Roi de Thessalie

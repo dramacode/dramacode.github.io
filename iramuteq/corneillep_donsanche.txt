@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillep *book_corneillep_donsanche *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_donsanche *dist2_corneillep_verse_tragedy *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+**** *creator_corneillep *book_corneillep_donsanche *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_donsanche *dist2_corneillep_verse_tragedy *id_ISABELLE *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
 
 Dites, dites plutôt qu'aujourd'hui, grandes reines,
 Je m'impose à vos yeux la plus dure des gênes,
@@ -581,7 +581,7 @@ Et qu'on l'amène ici, plus heureux qu'il ne pense,
 Recevoir de ses soins la digne récompense.
 
 
-**** *creator_corneillep *book_corneillep_donsanche *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_donsanche *dist2_corneillep_verse_tragedy *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonor
+**** *creator_corneillep *book_corneillep_donsanche *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_donsanche *dist2_corneillep_verse_tragedy *id_LEONOR *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonor
 
 Après tant de malheurs, enfin le ciel propice
 S'est résolu, ma fille, à nous faire justice :
@@ -834,7 +834,7 @@ Ah ! Mon fils, s'il en faut encore davantage,
 Croyez-en vos vertus et votre grand courage.
 
 
-**** *creator_corneillep *book_corneillep_donsanche *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_donsanche *dist2_corneillep_verse_tragedy *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elvire
+**** *creator_corneillep *book_corneillep_donsanche *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_donsanche *dist2_corneillep_verse_tragedy *id_ELVIRE *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elvire
 
 Ce comte est généreux, et me l'a fait paraître ;
 Aussi le ciel pour moi l'a voulu reconnaître,
@@ -1088,7 +1088,7 @@ Si Don Alvar de Lune est cet illustre époux,
 Il vaut bien à mes yeux tout ce qui n'est point vous.
 
 
-**** *creator_corneillep *book_corneillep_donsanche *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_donsanche *dist2_corneillep_verse_tragedy *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_blanche
+**** *creator_corneillep *book_corneillep_donsanche *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_donsanche *dist2_corneillep_verse_tragedy *id_BLANCHE *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_blanche
 
 Je présumais tantôt que vous les alliez croire :
 J'en ai plus d'une fois tremblé pour votre gloire.
@@ -1209,7 +1209,7 @@ On tremble devant lui sans croire son courroux ;
 Et rien… Mais le voici qui vient s'en plaindre à vous.
 
 
-**** *creator_corneillep *book_corneillep_donsanche *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_donsanche *dist2_corneillep_verse_tragedy *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_carlos
+**** *creator_corneillep *book_corneillep_donsanche *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_donsanche *dist2_corneillep_verse_tragedy *id_CARLOS *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_carlos
 
 J'ai vu la place vide, et cru la bien remplir.
 
@@ -1649,7 +1649,7 @@ Votre dédain fut juste autant que son estime :
 C'est la même vertu sous une autre maxime.
 
 
-**** *creator_corneillep *book_corneillep_donsanche *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_donsanche *dist2_corneillep_verse_tragedy *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lope
+**** *creator_corneillep *book_corneillep_donsanche *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_donsanche *dist2_corneillep_verse_tragedy *id_LOPE *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lope
 
 C'est une autorité qui vous demeure entière ;
 Votre état avec vous n'agit que par prière,
@@ -1802,7 +1802,7 @@ Nous l'avions bien jugé : grand prince, rendez-vous ;
 La vérité paraît ; cédez aux voeux de tous.
 
 
-**** *creator_corneillep *book_corneillep_donsanche *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_donsanche *dist2_corneillep_verse_tragedy *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_manrique
+**** *creator_corneillep *book_corneillep_donsanche *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_donsanche *dist2_corneillep_verse_tragedy *id_MANRIQUE *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_manrique
 
 Madame, puisqu'il faut qu'à vos yeux je m'explique,
 Quoique votre discours nous ait fait des leçons
@@ -1990,7 +1990,7 @@ Il aime son erreur, daignez l'autoriser :
 Et de notre pitié soutenez l'artifice.
 
 
-**** *creator_corneillep *book_corneillep_donsanche *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_donsanche *dist2_corneillep_verse_tragedy *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alvar
+**** *creator_corneillep *book_corneillep_donsanche *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_donsanche *dist2_corneillep_verse_tragedy *id_ALVAR *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alvar
 
 Je ne vous ferai point de harangue importune.
 Choisissez hors des trois, tranchez absolument :

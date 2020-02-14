@@ -1,6 +1,6 @@
 
 
-**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_zelide
+**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_ZELIDE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_zelide
 
 Dieux bienfaisants, qu'en ce bois on adore,
 Protégez-moi toujours contre mes oppresseurs !
@@ -173,7 +173,7 @@ Mais je vois avancer ces mages inflexibles.
 Hélas ! je vous aime ; et je crains...
 
 
-**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tanis
+**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_TANIS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tanis
 
 Est-il possible, ô dieux ! Phanor ose entreprendre
 D'exposer vos beaux jours à nos fiers ennemis !
@@ -439,7 +439,7 @@ Sur les pas des Vertus les Plaisirs vont paraître ;
 Tout est l'ouvrage de l'Amour.
 
 
-**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleofis
+**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_CLEOFIS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleofis
 
 Quoi ! vous ne suivez point leurs pas ?
 
@@ -474,7 +474,7 @@ Il faut franchir ce mont inaccessible,
 Et Memphis à nos yeux est un autre univers.
 
 
-**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_panope
+**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_PANOPE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_panope
 
 Oubliez-vous Phanor ?
 
@@ -495,7 +495,7 @@ Votre trône est tombé ; vous n'avez plus d'amis.
 Quelle est encor votre espérance ?
 
 
-**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_otoes
+**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_OTOES *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_otoes
 
 Ministres de mes lois que ma vengeance anime,
 Phanor a réparé son crime.
@@ -573,7 +573,7 @@ Gronde et décide en ma faveur !
 Confondez-vous avec horreur !
 
 
-**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phanor
+**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_PHANOR *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phanor
 
 L'ennemi vient à nous, et pense nous surprendre.
 C'est à vous de me seconder ;
@@ -662,7 +662,7 @@ Suivez mon désespoir mortel.
 Amis, suivez mes pas, et vengeons l'innocence.
 
 
-**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_bergers
+**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_BERGERS *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_bergers
 
 Demeurez, régnez sur nos rivages ;
 Connaissez la paix et les beaux jours.
@@ -692,7 +692,7 @@ La Discorde et la Haine
 N'habitent point ces lieux.
 
 
-**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_bergeres
+**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_BERGERES *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_bergeres
 
 Périsse leur mémoire !
 Plaisirs, ne soyez plus bannis.
@@ -708,7 +708,7 @@ Doux bergers, si craints dans les alarmes,
 Ne soyez soumis que par nos charmes.
 
 
-**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_unebergere
+**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_UNEBERGERE *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_unebergere
 
 Sans éclat et sans envie,
 Satisfaits de notre sort,
@@ -739,7 +739,7 @@ Au son de leurs flûtes champêtres,
 Vont amener Zélide à son heureux époux.
 
 
-**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_choeur
+**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_CHOEUR *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_choeur
 
 Demeurez, régnez sur ces rivages ;
 Connaissez la paix et les beaux jours.

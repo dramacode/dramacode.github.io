@@ -1,6 +1,6 @@
 
 
-**** *creator_campistron *book_campistron_phocion *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_phocion *dist2_campistron_verse_tragedy *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phocion
+**** *creator_campistron *book_campistron_phocion *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_phocion *dist2_campistron_verse_tragedy *id_PHOCION *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phocion
 
 Enfin nous sommes seuls. Embrassez-moi ma fille,
 Le Ciel me fait revoir ces murs et ma famille ;
@@ -262,7 +262,7 @@ Le dernier de mes voeux t'est adressé pour elle.
 Adieu ma fille.
 
 
-**** *creator_campistron *book_campistron_phocion *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_phocion *dist2_campistron_verse_tragedy *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agnonide
+**** *creator_campistron *book_campistron_phocion *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_phocion *dist2_campistron_verse_tragedy *id_AGNONIDE *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agnonide
 
 Madame, je le vois, votre aveugle douleur,
 Du sort de Phocion m'impute le malheur,
@@ -665,7 +665,7 @@ Et répandons le sang dans ma fureur extrême,
 Des mutins, de Licas, et de mon fils lui-même.
 
 
-**** *creator_campistron *book_campistron_phocion *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_phocion *dist2_campistron_verse_tragedy *date_1688 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_chrisis
+**** *creator_campistron *book_campistron_phocion *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_phocion *dist2_campistron_verse_tragedy *id_CHRISIS *date_1688 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_chrisis
 
 Ah bien Lidias, eh bien, puis-je voir Agnonide,
 L'avez-vous informé du destin qui me guide ?
@@ -995,7 +995,7 @@ Vous savez qui de nous est le plus malheureux.
 J'ose après de tels coups défier ta colère.
 
 
-**** *creator_campistron *book_campistron_phocion *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_phocion *dist2_campistron_verse_tragedy *date_1688 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_alcinous
+**** *creator_campistron *book_campistron_phocion *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_phocion *dist2_campistron_verse_tragedy *id_ALCINOUS *date_1688 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_alcinous
 
 Madame, en doutez-vous, puisque je vois le jour ;
 Croyez-vous que soigneux de garantir ma tête,
@@ -1350,7 +1350,7 @@ Ma dernière pensée et mon dernier soupir.
       Hélas !
 
 
-**** *creator_campistron *book_campistron_phocion *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_phocion *dist2_campistron_verse_tragedy *date_1688 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dione
+**** *creator_campistron *book_campistron_phocion *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_phocion *dist2_campistron_verse_tragedy *id_DIONE *date_1688 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dione
 
 Madame...
 
@@ -1406,7 +1406,7 @@ Alcinous...
       Madame le voici.
 
 
-**** *creator_campistron *book_campistron_phocion *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_phocion *dist2_campistron_verse_tragedy *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_licas
+**** *creator_campistron *book_campistron_phocion *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_phocion *dist2_campistron_verse_tragedy *id_LICAS *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_licas
 
 Madame, par mes soins Agnonide est instruit
 De l'état déplorable où le sort vous réduit ;
@@ -1428,7 +1428,7 @@ Vous prévoyez, Seigneur, quelle suite funeste
 Votre amour...
 
 
-**** *creator_campistron *book_campistron_phocion *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_phocion *dist2_campistron_verse_tragedy *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitus
+**** *creator_campistron *book_campistron_phocion *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_phocion *dist2_campistron_verse_tragedy *id_CLITUS *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitus
 
 Mais, Seigneur, songez-vous.
 

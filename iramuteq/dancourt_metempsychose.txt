@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_MERCURE *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
 
 Je cherche en vain de toutes parts.
 La Paix, dans ces climats avant moi descendue,
@@ -314,7 +314,7 @@ L'avantage seul de vous plaire,
 Et d'attirer vos applaudissements.
 
 
-**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lapaix
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_LAPAIX *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lapaix
 
       En croirai-je mes yeux ?
 Mercure déjà dans ces lieux !
@@ -383,7 +383,7 @@ Et les Acteurs parlant, qui les fera ?
 Et nous puisse attirer la faveur du Parterre.
 
 
-**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_LAMOUR *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
 
 Salut à celui des voleurs.
 
@@ -543,7 +543,7 @@ De Corine et de son Amant,
 Célébrons ici l'hyménée.
 
 
-**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bacchus
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_BACCHUS *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bacchus
 
 Salut au Dieu de l'Éloquence.
 
@@ -715,7 +715,7 @@ Avec Corine, il s'y promène.
 Sans être vu, l'anneau magique a réussi.
 
 
-**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_THALIE *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
 
       Il me semble
 Que tant de Dieux unis ensemble
@@ -743,7 +743,7 @@ Que tous les mortels
 Doivent à leurs autels.
 
 
-**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_JUPITER *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
 
 Votre sincérité m'offense,
 Mercure, je ne puis vous le dissimuler.
@@ -1066,7 +1066,7 @@ Il ne sera point révoqué,
 Et c'est par le Styx que j'en jure.
 
 
-**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_MERCURE *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
 
 Je cherche en vain de toutes parts.
 La Paix, dans ces climats avant moi descendue,
@@ -1380,7 +1380,7 @@ L'avantage seul de vous plaire,
 Et d'attirer vos applaudissements.
 
 
-**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_faunus
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_FAUNUS *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_faunus
 
 Dans la forêt prochaine,
 Seigneur, Junon sans suite et toute hors d'haleine,
@@ -1828,7 +1828,7 @@ Je crains fort entre nous la fin de l'aventure.
 Hé, comment avez-vous pu faire ?
 
 
-**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_VENUS *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
 
 Un soin pressant qui pour vous m'intéresse,
 Me fait vous chercher jusqu'ici.
@@ -1923,7 +1923,7 @@ Peut-on mieux des Amours réparer le malheur ?
 Que tout conspire à leur contentement.
 
 
-**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_corine
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_CORINE *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_corine
 
 Aujourd'hui de ces lieux on dit que vous partez,
 Quelle raison vous en écarte ?
@@ -2318,7 +2318,7 @@ Mais trouvez bon que je vous quitte,
 Et que je puisse voir leur Fête d'un peu loin.
 
 
-**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junon
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_JUNON *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junon
 
 Qu'avez-vous, ma chère Corine ?
 Je vous trouve rêveuse, inquiète, chagrine.
@@ -2470,7 +2470,7 @@ Attendons en repos le succès qu'il m'apprête :
 Est-il quelque projet dont il ne vienne à bout.
 
 
-**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bacchus
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_BACCHUS *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bacchus
 
 Salut au Dieu de l'Éloquence.
 
@@ -2642,7 +2642,7 @@ Avec Corine, il s'y promène.
 Sans être vu, l'anneau magique a réussi.
 
 
-**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_LAMOUR *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
 
 Salut à celui des voleurs.
 
@@ -2802,7 +2802,7 @@ De Corine et de son Amant,
 Célébrons ici l'hyménée.
 
 
-**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_linconstance
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_LINCONSTANCE *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_linconstance
 
 Doucement, s'il vous plaît, Déesse ;
 Gardez de la mettre en courroux.
@@ -2876,7 +2876,7 @@ Que malgré les destins, aujourd'hui l'Inconstance
 Immortalise les Amours.
 
 
-**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_merope
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_MEROPE *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_merope
 
 Philène ici ? Quelle surprise ! Ah Dieux !
 
@@ -3137,7 +3137,7 @@ De trouble et de frayeur j'avais le cœur glacé
 Et de rien je ne suis instruite.
 
 
-**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philene
+**** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_PHILENE *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philene
 
 Je retrouve Corine, ô Berger trop heureux !
 

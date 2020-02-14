@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_cephaleprocris *style_verse *genre_comedy *dist1_dancourt_verse_comedy_cephaleprocris *dist2_dancourt_verse_comedy *date_1711 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
+**** *creator_dancourt *book_dancourt_cephaleprocris *style_verse *genre_comedy *dist1_dancourt_verse_comedy_cephaleprocris *dist2_dancourt_verse_comedy *id_MOMUS *date_1711 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
 
 Je suis instruit de cette réussite,
 Muse charmante, et vous en félicite.
@@ -161,7 +161,7 @@ Et vous faites fort sagement.
       Jusqu'à demain, Thalie.
 
 
-**** *creator_dancourt *book_dancourt_cephaleprocris *style_verse *genre_comedy *dist1_dancourt_verse_comedy_cephaleprocris *dist2_dancourt_verse_comedy *date_1711 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
+**** *creator_dancourt *book_dancourt_cephaleprocris *style_verse *genre_comedy *dist1_dancourt_verse_comedy_cephaleprocris *dist2_dancourt_verse_comedy *id_THALIE *date_1711 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
 
 Je n'ai point eu, Momus, une espérance vaine,
 La loi du Souverain, l'équité de Thémis,
@@ -311,7 +311,7 @@ Je me soumets aveuglément.
 Jusqu'au revoir, Momus.
 
 
-**** *creator_dancourt *book_dancourt_cephaleprocris *style_verse *genre_comedy *dist1_dancourt_verse_comedy_cephaleprocris *dist2_dancourt_verse_comedy *date_1711 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laurore
+**** *creator_dancourt *book_dancourt_cephaleprocris *style_verse *genre_comedy *dist1_dancourt_verse_comedy_cephaleprocris *dist2_dancourt_verse_comedy *id_LAURORE *date_1711 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laurore
 
 Quoi, Céphale ! En ces lieux vous n'avez d'autres soins,
 Que de chercher la solitude ?
@@ -716,7 +716,7 @@ Dont l'adresse et les soins vous ont fait en ce jour
 Connaître à fond le coeur d'une infidèle.
 
 
-**** *creator_dancourt *book_dancourt_cephaleprocris *style_verse *genre_comedy *dist1_dancourt_verse_comedy_cephaleprocris *dist2_dancourt_verse_comedy *date_1711 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cephale
+**** *creator_dancourt *book_dancourt_cephaleprocris *style_verse *genre_comedy *dist1_dancourt_verse_comedy_cephaleprocris *dist2_dancourt_verse_comedy *id_CEPHALE *date_1711 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cephale
 
 Par quelle puissance secrète
 En ces lieux suis-je retenu ?
@@ -1173,7 +1173,7 @@ Fuyez, évitez son courroux.
 Ah, Déesse ! À quel prix vous me rendez heureux.
 
 
-**** *creator_dancourt *book_dancourt_cephaleprocris *style_verse *genre_comedy *dist1_dancourt_verse_comedy_cephaleprocris *dist2_dancourt_verse_comedy *date_1711 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_procris
+**** *creator_dancourt *book_dancourt_cephaleprocris *style_verse *genre_comedy *dist1_dancourt_verse_comedy_cephaleprocris *dist2_dancourt_verse_comedy *id_PROCRIS *date_1711 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_procris
 
 Quelle peine, Dione, à la mienne est égale ?
 C'est pour amuser ma douleur
@@ -1448,7 +1448,7 @@ D'un volage époux, qu'à vous-même ?
 C'est Céphale. Grands dieux ! Ah ! Qu'ai-je fait, Dione ?
 
 
-**** *creator_dancourt *book_dancourt_cephaleprocris *style_verse *genre_comedy *dist1_dancourt_verse_comedy_cephaleprocris *dist2_dancourt_verse_comedy *date_1711 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+**** *creator_dancourt *book_dancourt_cephaleprocris *style_verse *genre_comedy *dist1_dancourt_verse_comedy_cephaleprocris *dist2_dancourt_verse_comedy *id_MERCURE *date_1711 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
 
 C'est moi-même, il est vrai, vous avez de bons yeux.
 
@@ -1759,7 +1759,7 @@ C'est être raisonnable en vain.
 Non.
 
 
-**** *creator_dancourt *book_dancourt_cephaleprocris *style_verse *genre_comedy *dist1_dancourt_verse_comedy_cephaleprocris *dist2_dancourt_verse_comedy *date_1711 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_callitee
+**** *creator_dancourt *book_dancourt_cephaleprocris *style_verse *genre_comedy *dist1_dancourt_verse_comedy_cephaleprocris *dist2_dancourt_verse_comedy *id_CALLITEE *date_1711 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_callitee
 
 Au gracieux Philacte, honneur, joie et salut.
 
@@ -2240,7 +2240,7 @@ On vous méconnaîtrait, je gage,
 Et ce déguisement peut tromper tous les yeux.
 
 
-**** *creator_dancourt *book_dancourt_cephaleprocris *style_verse *genre_comedy *dist1_dancourt_verse_comedy_cephaleprocris *dist2_dancourt_verse_comedy *date_1711 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philacte
+**** *creator_dancourt *book_dancourt_cephaleprocris *style_verse *genre_comedy *dist1_dancourt_verse_comedy_cephaleprocris *dist2_dancourt_verse_comedy *id_PHILACTE *date_1711 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philacte
 
 Quel air pur et tranquille on respire en ces lieux !
 Que Céphale à son gré s'y livre à ses alarmes,
@@ -3156,7 +3156,7 @@ Et quand nous les aurons pris tous,
 Nous en ferons la différence.
 
 
-**** *creator_dancourt *book_dancourt_cephaleprocris *style_verse *genre_comedy *dist1_dancourt_verse_comedy_cephaleprocris *dist2_dancourt_verse_comedy *date_1711 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dione
+**** *creator_dancourt *book_dancourt_cephaleprocris *style_verse *genre_comedy *dist1_dancourt_verse_comedy_cephaleprocris *dist2_dancourt_verse_comedy *id_DIONE *date_1711 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dione
 
 À se laisser amuser par l'amour
 On ne perd rien, je vous assure,

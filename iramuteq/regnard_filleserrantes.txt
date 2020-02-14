@@ -1,6 +1,6 @@
 
 
-**** *creator_regnard *book_regnard_filleserrantes *style_prose *genre_comedy *dist1_regnard_prose_comedy_filleserrantes *dist2_regnard_prose_comedy *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_regnard *book_regnard_filleserrantes *style_prose *genre_comedy *dist1_regnard_prose_comedy_filleserrantes *dist2_regnard_prose_comedy *id_ARLEQUIN *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Écoute, Claudine ; voici un gentilhomme qui vient loger chez moi avec sa soeur ; il faut que tu leur donnes deux chambres l'une contre l'autre.
 
@@ -129,7 +129,7 @@ Ah ! Vous voilà donc bons amis ! Présentement que l'affaire est toisée, il 
 Monsieur, en faveur de cette noce-là il faut se divertir. Allons, qu'on fasse venir les violons, et qu'on appelle toute l'auberge.
 
 
-**** *creator_regnard *book_regnard_filleserrantes *style_prose *genre_comedy *dist1_regnard_prose_comedy_filleserrantes *dist2_regnard_prose_comedy *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cinthio
+**** *creator_regnard *book_regnard_filleserrantes *style_prose *genre_comedy *dist1_regnard_prose_comedy_filleserrantes *dist2_regnard_prose_comedy *id_CINTHIO *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cinthio
 
 Allons, ma soeur, entrez.
 
@@ -198,7 +198,7 @@ Mais, monsieur le Commissaire, un peu de quartier ; je suis prêt à l'épouser
 Hé ! De grâce, mademoiselle, que l'amour vous fasse oublier un crime que l'amour même a fait commettre !
 
 
-**** *creator_regnard *book_regnard_filleserrantes *style_prose *genre_comedy *dist1_regnard_prose_comedy_filleserrantes *dist2_regnard_prose_comedy *date_1690 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+**** *creator_regnard *book_regnard_filleserrantes *style_prose *genre_comedy *dist1_regnard_prose_comedy_filleserrantes *dist2_regnard_prose_comedy *id_ISABELLE *date_1690 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
 
 Que vous plaît-il, monsieur ?
 
@@ -311,7 +311,7 @@ Moi, traître ! T'épouser, après toutes tes infidélités ! Je renonce à ta
 Ingrat ! Je devrais vous haïr, et je sens que je ne le puis.
 
 
-**** *creator_regnard *book_regnard_filleserrantes *style_prose *genre_comedy *dist1_regnard_prose_comedy_filleserrantes *dist2_regnard_prose_comedy *date_1690 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colombine
+**** *creator_regnard *book_regnard_filleserrantes *style_prose *genre_comedy *dist1_regnard_prose_comedy_filleserrantes *dist2_regnard_prose_comedy *id_COLOMBINE *date_1690 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colombine
 
 Voilà une fille qui me semble bien surprise !
 
@@ -378,7 +378,7 @@ Ma foi, madame, je suis bien las de vos manières ; je ne viens pas chez vous q
 Encore pis. Croyez-moi, tenons-nous comme nous sommes. Pour moi, infidèle pour infidèle, j'aime autant Octave qu'un autre. Adieu, mademoiselle ; je vous promets que je n'entreprendrai rien sur le coeur de votre amant, et qu'à mon égard vous n'aurez point sujet de crier au voleur.
 
 
-**** *creator_regnard *book_regnard_filleserrantes *style_prose *genre_comedy *dist1_regnard_prose_comedy_filleserrantes *dist2_regnard_prose_comedy *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+**** *creator_regnard *book_regnard_filleserrantes *style_prose *genre_comedy *dist1_regnard_prose_comedy_filleserrantes *dist2_regnard_prose_comedy *id_PIERROT *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
 
 Votre soeur ? Je n'en crois rien, monsieur, si je n'y touche.
 
@@ -455,7 +455,7 @@ Pourvu qu'il paye grassement mes écritures, je vous conseille de lui pardonner�
 Cela est vrai. Ma foi, voilà une procédure qui m'a donné bien de la peine !
 
 
-**** *creator_regnard *book_regnard_filleserrantes *style_prose *genre_comedy *dist1_regnard_prose_comedy_filleserrantes *dist2_regnard_prose_comedy *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurcroquignolet
+**** *creator_regnard *book_regnard_filleserrantes *style_prose *genre_comedy *dist1_regnard_prose_comedy_filleserrantes *dist2_regnard_prose_comedy *id_MONSIEURCROQUIGNOLET *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurcroquignolet
 
 C'est que j'ai le coeur martial.
 

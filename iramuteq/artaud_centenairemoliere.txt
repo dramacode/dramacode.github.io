@@ -1,6 +1,6 @@
 
 
-**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *date_1773 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
+**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *id_THALIE *date_1773 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
 
 Et vous du mien, Momus, que pensez-vous ?
 
@@ -328,7 +328,7 @@ Pardonnez nos faibles efforts
 En faveur du nom de Molière.
 
 
-**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
+**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *id_MOMUS *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
 
 De mon déguisement, que dites-vous, Thalie ?
 
@@ -611,7 +611,7 @@ Je dis mon secret à Molière.
 Et vous, Monsieur du Ruban-vert ?
 
 
-**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sosie
+**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *id_SOSIE *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sosie
 
 Qui ? moi, votre ami ! quelque sot !
 De cette amitié-là ne croyez pas un mot ;
@@ -887,7 +887,7 @@ Mais il fallait, pour l'achever,
 Me voir adopter par Molière.
 
 
-**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lelie
+**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *id_LELIE *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lelie
 
 Ah ! Que le ciel m'oblige, en offrant à ma vue
 Les célestes attraits dont vous êtes pourvue.
@@ -991,7 +991,7 @@ Et j'ai fait une étourderie.
 Où le chercher ?
 
 
-**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tartuffe
+**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *id_TARTUFFE *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tartuffe
 
 Que le Ciel à jamais par sa toute bonté
 Et de l'âme et du corps vous donne la santé.
@@ -1055,7 +1055,7 @@ La volonté du Ciel soit faite en toute chose.
       Je suis perdu !
 
 
-**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_harpagon
+**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *id_HARPAGON *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_harpagon
 
 On lit dans votre adresse, Monsieur, que vous guérissez gratis ; et s'il n'y a point de friponnerie (comme il s'en rencontre toujours dans ces sortes d'écrits) il est tout naturel que vous me voyiez chez vous.
 
@@ -1094,7 +1094,7 @@ Je vois bien que chez vous je n'ai plus rien à faire,
 Et je vous prête le bon soir.
 
 
-**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trissotin
+**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *id_TRISSOTIN *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trissotin
 
 Qui de vous trois, Messieurs, est Médecin ?
 
@@ -1182,7 +1182,7 @@ J'écrirai...
 Ô Ciel !
 
 
-**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alceste
+**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *id_ALCESTE *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alceste
 
       Point de cérémonie ;
 Supprimez avec moi les façons, je vous prie.
@@ -1262,7 +1262,7 @@ J'aime mieux Molière,
 J'aime mieux Molière.
 
 
-**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurjourdain
+**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *id_MONSIEURJOURDAIN *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurjourdain
 
 Un homme de qualité ! Qui est-ce qui parle de moi, là ?
 Eh ! Bien, qu'est-ce, mes amis ? Voyons, me voilà.
@@ -1308,7 +1308,7 @@ J'y mets son éloquence entière ;
 C'est l'ouvrage d'un moment.
 
 
-**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_georgedandin
+**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *id_GEORGEDANDIN *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_georgedandin
 
 Il sera donc dit, Madame, que vous ne sortirez jamais sans avoir Monsieur avec vous ? Est-ce que votre servante Claudine ne suffit pas ?
 
@@ -1319,7 +1319,7 @@ Non, Madame : il ne sera pas dit que vous me manquiez toujours de la sorte ; j
 Et n'est-ce pas moi qui fais les frais de tout.
 
 
-**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *date_1773 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_angelique
+**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *id_ANGELIQUE *date_1773 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_angelique
 
 Restez à cette porte, petite fille, et si par malheur vous voyez arriver mon bourgeois de Mari, Monsieur George Dandin, vous nous avertirez ; entendez-vous ?
 
@@ -1349,7 +1349,7 @@ Venez prendre leçon chez nous ;
 Vous la recevrez de Molière.
 
 
-**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamepernelle
+**** *creator_artaud *book_artaud_centenairemoliere *style_verse *genre_comedy *dist1_artaud_verse_comedy_centenairemoliere *dist2_artaud_verse_comedy *id_MADAMEPERNELLE *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamepernelle
 
 Allons, Phlipotte, allons.
       Faites-vous votre compte

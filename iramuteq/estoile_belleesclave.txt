@@ -1,6 +1,6 @@
 
 
-**** *creator_estoile *book_estoile_belleesclave *style_verse *genre_tragedy *dist1_estoile_verse_tragedy_belleesclave *dist2_estoile_verse_tragedy *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_leroy
+**** *creator_estoile *book_estoile_belleesclave *style_verse *genre_tragedy *dist1_estoile_verse_tragedy_belleesclave *dist2_estoile_verse_tragedy *id_le-roy *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_leroy
 
       Alphonse, approchez-vous,
 Mais de quel nouveau mal⁎ le trop sensible⁎ outrage⁎
@@ -343,7 +343,7 @@ Qu'il vive, et qu'à jamais ces deux jeunes Amans⁎
 Soient libres, et comblez de tous contentemens⁎.
 
 
-**** *creator_estoile *book_estoile_belleesclave *style_verse *genre_tragedy *dist1_estoile_verse_tragedy_belleesclave *dist2_estoile_verse_tragedy *date_1643 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_lareyne
+**** *creator_estoile *book_estoile_belleesclave *style_verse *genre_tragedy *dist1_estoile_verse_tragedy_belleesclave *dist2_estoile_verse_tragedy *id_la-reyne *date_1643 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_lareyne
 
 Avez-vous quelque mal⁎ qu'on ne puisse guerir ?
 Le plus cruel de tous a déjà son remede.
@@ -557,7 +557,7 @@ N'estes-vous pas clement⁎ plus qu'il n'est criminel ?
 Vostre bonté, Seigneur, sa malice surpasse.
 
 
-**** *creator_estoile *book_estoile_belleesclave *style_verse *genre_tragedy *dist1_estoile_verse_tragedy_belleesclave *dist2_estoile_verse_tragedy *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alphonse
+**** *creator_estoile *book_estoile_belleesclave *style_verse *genre_tragedy *dist1_estoile_verse_tragedy_belleesclave *dist2_estoile_verse_tragedy *id_alphonse *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alphonse
 
 Ha ! Laisse moy mourir.
 
@@ -1199,7 +1199,7 @@ Qui de vostre vertu⁎ ne seroit amoureux ?
 FIN DU DERNIER ACTE.
 
 
-**** *creator_estoile *book_estoile_belleesclave *style_verse *genre_tragedy *dist1_estoile_verse_tragedy_belleesclave *dist2_estoile_verse_tragedy *date_1643 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clarice
+**** *creator_estoile *book_estoile_belleesclave *style_verse *genre_tragedy *dist1_estoile_verse_tragedy_belleesclave *dist2_estoile_verse_tragedy *id_clarice *date_1643 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clarice
 
 Que voy-je ? est-ce mon Frère ? ha ! ma joye est extréme ; 
 Mais n'est-il pas perdu ? l'aurois-je retreuvé ?
@@ -1471,7 +1471,7 @@ Pouvoit de tant de biens⁎ me donner esperance ?
 O clemence adorable !
 
 
-**** *creator_estoile *book_estoile_belleesclave *style_verse *genre_tragedy *dist1_estoile_verse_tragedy_belleesclave *dist2_estoile_verse_tragedy *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_haly
+**** *creator_estoile *book_estoile_belleesclave *style_verse *genre_tragedy *dist1_estoile_verse_tragedy_belleesclave *dist2_estoile_verse_tragedy *id_haly *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_haly
 
 Que faites-vous, Madame, helas ! à quel dessein⁎
 De tant de rudes coups plomber un si beau sein ?
@@ -1709,7 +1709,7 @@ Je suis fort peu sçavant en l'art de deviner.
 Hé Sire !
 
 
-**** *creator_estoile *book_estoile_belleesclave *style_verse *genre_tragedy *dist1_estoile_verse_tragedy_belleesclave *dist2_estoile_verse_tragedy *date_1643 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_fernand
+**** *creator_estoile *book_estoile_belleesclave *style_verse *genre_tragedy *dist1_estoile_verse_tragedy_belleesclave *dist2_estoile_verse_tragedy *id_fernand *date_1643 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_fernand
 
       Que moy-mesmes je meure,
 Si je souffre⁎ qu'ainsy vous advanciez vostre heure :
@@ -1901,7 +1901,7 @@ Vous eust percé le sein de cent coups de poignard.
 Le Roy s'en vient icy.
 
 
-**** *creator_estoile *book_estoile_belleesclave *style_verse *genre_tragedy *dist1_estoile_verse_tragedy_belleesclave *dist2_estoile_verse_tragedy *date_1643 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_selim
+**** *creator_estoile *book_estoile_belleesclave *style_verse *genre_tragedy *dist1_estoile_verse_tragedy_belleesclave *dist2_estoile_verse_tragedy *id_selim *date_1643 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_selim
 
       Ha ! j'en ay quelque doute⁎ :
 Mais gardons qu'en ce lieu quelqu'un ne nous écoute.

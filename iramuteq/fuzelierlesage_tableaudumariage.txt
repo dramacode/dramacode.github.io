@@ -1,6 +1,6 @@
 
 
-**** *creator_fuzelierlesage *book_fuzelierlesage_tableaudumariage *style_prose *genre_opera comique *dist1_fuzelierlesage_prose_opera comique_tableaudumariage *dist2_fuzelierlesage_prose_opera comique *date_1716 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_diamantine
+**** *creator_fuzelierlesage *book_fuzelierlesage_tableaudumariage *style_prose *genre_opera comique *dist1_fuzelierlesage_prose_opera comique_tableaudumariage *dist2_fuzelierlesage_prose_opera comique *id_DIAMANTINE *date_1716 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_diamantine
 
 Je ne sais.
 
@@ -77,7 +77,7 @@ Vous voyez, Octave, quelle idée me donnent du mariage les arbitres que vous ave
 Modérez-vous, ma tante. Voici l'assemblée.
 
 
-**** *creator_fuzelierlesage *book_fuzelierlesage_tableaudumariage *style_prose *genre_opera comique *dist1_fuzelierlesage_prose_opera comique_tableaudumariage *dist2_fuzelierlesage_prose_opera comique *date_1716 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octave
+**** *creator_fuzelierlesage *book_fuzelierlesage_tableaudumariage *style_prose *genre_opera comique *dist1_fuzelierlesage_prose_opera comique_tableaudumariage *dist2_fuzelierlesage_prose_opera comique *id_OCTAVE *date_1716 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octave
 
 Quel heureux jour, ma chère Olivette ! Enfin, l'aimable Diamantine fixe ses irrésolutions et se livre à ma tendresse. Je n'ai jamais été si content ; mon coeur ne peut contenir ses transports.
 
@@ -100,7 +100,7 @@ Allons, monsieur Pépin, allons !
 Que je suis malheureux ! Il faut attendre un temps plus favorable pour vaincre son entêtement.
 
 
-**** *creator_fuzelierlesage *book_fuzelierlesage_tableaudumariage *style_prose *genre_opera comique *dist1_fuzelierlesage_prose_opera comique_tableaudumariage *dist2_fuzelierlesage_prose_opera comique *date_1716 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_olivette
+**** *creator_fuzelierlesage *book_fuzelierlesage_tableaudumariage *style_prose *genre_opera comique *dist1_fuzelierlesage_prose_opera comique_tableaudumariage *dist2_fuzelierlesage_prose_opera comique *id_OLIVETTE *date_1716 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_olivette
 
 Sangaride, ce jour est un grand jour pour vous.
 Vous allez donc enfin signer les articles de votre mariage. Là, vous sentez-vous la main assez ferme ?...
@@ -264,7 +264,7 @@ Vous, monsieur Arlequin, prenez votre canne, et vous allez promener.
 Commençons la fête préparée. Faisons les contre-fiançailles. Réjouissons-nous de n'avoir pas fait la sottise de nous marier.
 
 
-**** *creator_fuzelierlesage *book_fuzelierlesage_tableaudumariage *style_prose *genre_opera comique *dist1_fuzelierlesage_prose_opera comique_tableaudumariage *dist2_fuzelierlesage_prose_opera comique *date_1716 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_fuzelierlesage *book_fuzelierlesage_tableaudumariage *style_prose *genre_opera comique *dist1_fuzelierlesage_prose_opera comique_tableaudumariage *dist2_fuzelierlesage_prose_opera comique *id_ARLEQUIN *date_1716 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Oui, tiens ne crois pas qu'il se moque ;
 Écoute ce tendre sanglot.
@@ -357,7 +357,7 @@ Et moi, mademoiselle Olivette, que vais-je devenir ?
 Le diable emporte tous les Pépin présents et à venir.
 
 
-**** *creator_fuzelierlesage *book_fuzelierlesage_tableaudumariage *style_prose *genre_opera comique *dist1_fuzelierlesage_prose_opera comique_tableaudumariage *dist2_fuzelierlesage_prose_opera comique *date_1716 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scaramouche
+**** *creator_fuzelierlesage *book_fuzelierlesage_tableaudumariage *style_prose *genre_opera comique *dist1_fuzelierlesage_prose_opera comique_tableaudumariage *dist2_fuzelierlesage_prose_opera comique *id_SCARAMOUCHE *date_1716 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scaramouche
 
 Eh ! Bonjour, Arlequin !
 Tu es toujours dans le service, à ce qu'il me semble.

@@ -1,6 +1,6 @@
 
 
-**** *creator_boissy *book_boissy_plagiaire *style_verse *genre_comedy *dist1_boissy_verse_comedy_plagiaire *dist2_boissy_verse_comedy *date_1746 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+**** *creator_boissy *book_boissy_plagiaire *style_verse *genre_comedy *dist1_boissy_verse_comedy_plagiaire *dist2_boissy_verse_comedy *id_LACOMTESSE *date_1746 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
 
 As-tu fais tes efforts pour dévoiler ma nièce ?
 
@@ -247,7 +247,7 @@ J'en serai trop payée.
 Au pigeon, pour le coup, la colombe est ravie.
 
 
-**** *creator_boissy *book_boissy_plagiaire *style_verse *genre_comedy *dist1_boissy_verse_comedy_plagiaire *dist2_boissy_verse_comedy *date_1746 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lucile
+**** *creator_boissy *book_boissy_plagiaire *style_verse *genre_comedy *dist1_boissy_verse_comedy_plagiaire *dist2_boissy_verse_comedy *id_LUCILE *date_1746 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lucile
 
 Ah ! Ce choix est heureux, on ne peut davantage,
 Et le Dieu du secret mérite notre hommage.
@@ -468,7 +468,7 @@ Et la plaisanterie est le juste salaire
 Que méritent les soins d'un auteur plagiaire.
 
 
-**** *creator_boissy *book_boissy_plagiaire *style_verse *genre_comedy *dist1_boissy_verse_comedy_plagiaire *dist2_boissy_verse_comedy *date_1746 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lemarquis
+**** *creator_boissy *book_boissy_plagiaire *style_verse *genre_comedy *dist1_boissy_verse_comedy_plagiaire *dist2_boissy_verse_comedy *id_LEMARQUIS *date_1746 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lemarquis
 
 Madame, je préviens les pas de mon rival ;
 Si l'esprit a sur vous un ascendant fatal,
@@ -730,7 +730,7 @@ Qu'il célèbre ma gloire, et qu'il peigne ma joie.
 Sera-t-il bon, parlez ?
 
 
-**** *creator_boissy *book_boissy_plagiaire *style_verse *genre_comedy *dist1_boissy_verse_comedy_plagiaire *dist2_boissy_verse_comedy *date_1746 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebaron
+**** *creator_boissy *book_boissy_plagiaire *style_verse *genre_comedy *dist1_boissy_verse_comedy_plagiaire *dist2_boissy_verse_comedy *id_LEBARON *date_1746 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebaron
 
 Je te trouve à propos.
 
@@ -1116,7 +1116,7 @@ Va m'en dédommager, et je cours la trouver.
 L'hymen est une cage ; heureux de s'en sauver !
 
 
-**** *creator_boissy *book_boissy_plagiaire *style_verse *genre_comedy *dist1_boissy_verse_comedy_plagiaire *dist2_boissy_verse_comedy *date_1746 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurduberceau
+**** *creator_boissy *book_boissy_plagiaire *style_verse *genre_comedy *dist1_boissy_verse_comedy_plagiaire *dist2_boissy_verse_comedy *id_MONSIEURDUBERCEAU *date_1746 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurduberceau
 
 Je puis, sans vanité , m'appeler un génie ;
 J'exerce innocemment tout l'art de la magie ;
@@ -1292,7 +1292,7 @@ Que son arc soit nué des plus tendres couleurs,
 Et qu'il soit applaudi de tous les spectateurs.
 
 
-**** *creator_boissy *book_boissy_plagiaire *style_verse *genre_comedy *dist1_boissy_verse_comedy_plagiaire *dist2_boissy_verse_comedy *date_1746 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_coraline
+**** *creator_boissy *book_boissy_plagiaire *style_verse *genre_comedy *dist1_boissy_verse_comedy_plagiaire *dist2_boissy_verse_comedy *id_CORALINE *date_1746 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_coraline
 
       Ah ! Monsieur, doucement.
 Quel est donc le transport dont votre âme est émue ?
@@ -1366,7 +1366,7 @@ Il l'est depuis huit jours.
 On quitte son cousin.
 
 
-**** *creator_boissy *book_boissy_plagiaire *style_verse *genre_comedy *dist1_boissy_verse_comedy_plagiaire *dist2_boissy_verse_comedy *date_1746 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_boissy *book_boissy_plagiaire *style_verse *genre_comedy *dist1_boissy_verse_comedy_plagiaire *dist2_boissy_verse_comedy *id_ARLEQUIN *date_1746 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Madame, on m'a chargé de vous rendre en secret,
 

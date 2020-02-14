@@ -1,6 +1,6 @@
 
 
-**** *creator_marivaux *book_marivaux_faussesconfidences *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesconfidences *dist2_marivaux_prose_comedy *date_1737 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_araminte
+**** *creator_marivaux *book_marivaux_faussesconfidences *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesconfidences *dist2_marivaux_prose_comedy *id_ARAMINTE *date_1737 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_araminte
 
 Marton, quel est donc cet homme qui vient de me saluer si gracieusement, et qui passe sur la terrasse ? Est-ce à vous à qui il en veut ?
 
@@ -434,7 +434,7 @@ Vous êtes bien généreux ; envoyez-moi quelqu'un qui en décide, et ce sera as
 Laissons passer sa colère, et finissons.
 
 
-**** *creator_marivaux *book_marivaux_faussesconfidences *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesconfidences *dist2_marivaux_prose_comedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+**** *creator_marivaux *book_marivaux_faussesconfidences *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesconfidences *dist2_marivaux_prose_comedy *id_DORANTE *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
 
 Je vous suis obligé.
 
@@ -741,7 +741,7 @@ Dans tout ce qui s'est passé chez vous, il n'y a rien de vrai que ma passion qu
 Quoi ! La charmante Araminte daigne me justifier !
 
 
-**** *creator_marivaux *book_marivaux_faussesconfidences *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesconfidences *dist2_marivaux_prose_comedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurremy
+**** *creator_marivaux *book_marivaux_faussesconfidences *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesconfidences *dist2_marivaux_prose_comedy *id_MONSIEURREMY *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurremy
 
 Bonjour, mon neveu ; je suis bien aise de vous voir exact. Mademoiselle Marton va venir, on est allé l'avertir. La connaissez-vous ?
 
@@ -861,7 +861,7 @@ Eh bien ! Quoi ? C'est de l'amour qu'il a ; ce n'est pas d'aujourd'hui que les b
 Et cela ne serait point si ridicule. Accommodez-vous, au reste ; je suis votre serviteur, Madame.
 
 
-**** *creator_marivaux *book_marivaux_faussesconfidences *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesconfidences *dist2_marivaux_prose_comedy *date_1737 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameargante
+**** *creator_marivaux *book_marivaux_faussesconfidences *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesconfidences *dist2_marivaux_prose_comedy *id_MADAMEARGANTE *date_1737 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameargante
 
 Eh bien, Marton, ma fille a un nouvel intendant que son procureur lui a donné, m'a-t-elle dit : j'en suis fâchée ; cela n'est point obligeant pour Monsieur le Comte, qui lui en avait retenu un. Du moins devait-elle attendre, et les voir tous deux. D'où vient préférer celui-ci ? Quelle espèce d'homme est-ce ?
 
@@ -998,7 +998,7 @@ La fortune à cet homme-là !
 Ah ! La belle chute ! Ah ! Ce maudit intendant ! Qu'il soit votre mari tant qu'il vous plaira ; mais il ne sera jamais mon gendre.
 
 
-**** *creator_marivaux *book_marivaux_faussesconfidences *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesconfidences *dist2_marivaux_prose_comedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_marivaux *book_marivaux_faussesconfidences *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesconfidences *dist2_marivaux_prose_comedy *id_ARLEQUIN *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Ayez la bonté, Monsieur, de vous asseoir un moment dans cette salle ; Mademoiselle Marton est chez Madame et ne tardera pas à descendre.
 
@@ -1088,7 +1088,7 @@ Pardi, nous nous soucions bien de ton tableau à présent ; l'original nous en f
 
 
 
-**** *creator_marivaux *book_marivaux_faussesconfidences *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesconfidences *dist2_marivaux_prose_comedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dubois
+**** *creator_marivaux *book_marivaux_faussesconfidences *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesconfidences *dist2_marivaux_prose_comedy *id_DUBOIS *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dubois
 
 Oui, je vous guettais.
 
@@ -1306,7 +1306,7 @@ Allons, voilà qui est parfait.
 Ouf ! Ma gloire m'accable ; je mériterais bien d'appeler cette femme-là ma bru.
 
 
-**** *creator_marivaux *book_marivaux_faussesconfidences *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesconfidences *dist2_marivaux_prose_comedy *date_1737 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
+**** *creator_marivaux *book_marivaux_faussesconfidences *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesconfidences *dist2_marivaux_prose_comedy *id_MARTON *date_1737 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
 
 Je suis fâchée, Monsieur, de vous avoir fait attendre ; mais j'avais affaire chez Madame.
 
@@ -1572,7 +1572,7 @@ Dis-lui qu'il vienne.
 Parlez-lui, Madame, je vous laisse.
 
 
-**** *creator_marivaux *book_marivaux_faussesconfidences *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesconfidences *dist2_marivaux_prose_comedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomte
+**** *creator_marivaux *book_marivaux_faussesconfidences *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesconfidences *dist2_marivaux_prose_comedy *id_LECOMTE *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomte
 
 Bonjour, Marton.
 

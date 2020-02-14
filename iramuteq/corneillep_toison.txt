@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aaete
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_AAETE *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aaete
 
 Enfin nos ennemis nous cèdent la campagne,
 Et des Scythes défaits le camp abandonné
@@ -353,7 +353,7 @@ Et par nos voeux unis répondre au doux espoir
 Que daigne un dieu si grand nous faire concevoir.
 
 
-**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_absyrte
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_ABSYRTE *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_absyrte
 
 Seigneur, il est en vous d'avoir cet avantage :
 Le charme qu'il y faut est tout sur son visage.
@@ -598,7 +598,7 @@ La désavouerez-vous, madame, et votre coeur
 Dédira-t-il sa voix qui parle en ma faveur ?
 
 
-**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_chalciope
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_CHALCIOPE *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_chalciope
 
 Vous m'offensez, ma soeur : celles de notre rang
 Ne savent point trahir leur pays ni leur sang ;
@@ -686,7 +686,7 @@ La Grèce en leur idée est un séjour céleste,
 Un lieu seul digne d'eux. Par là jugez du reste.
 
 
-**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_medee
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_MEDEE *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_medee
 
 Parmi ces grands sujets d'allégresse publique,
 Vous portez sur le front un air mélancolique :
@@ -1186,7 +1186,7 @@ De toutes deux madame ici vous tiendra lieu.
 Consolez-vous, seigneur, et pour jamais adieu.
 
 
-**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hypsipyle
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_HYPSIPYLE *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hypsipyle
 
 Juste ciel, il me voit, et ne s'avance pas !
 
@@ -1518,7 +1518,7 @@ Et ma foi pour Jason nuisoit seule à son feu ;
 Mais à présent, seigneur, cette foi dégagée…
 
 
-**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jason
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_JASON *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jason
 
 Si nos bras, animés par vos destins propices,
 Vous ont rendu, seigneur, quelques foibles services,
@@ -1900,7 +1900,7 @@ Je vais dans le navire attendre une défaite,
 Qui vous fera bientôt imiter ma retraite.
 
 
-**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junon
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_JUNON *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junon
 
 Tous vos bras et toutes vos armes
 Ne peuvent rien contre les charmes
@@ -2116,7 +2116,7 @@ Mais de la même main assurez à Jason
 Médée et la toison.
 
 
-**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *date_1660 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_paix
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_PAIX *date_1660 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_paix
 
 En vain à tes soupirs il est inexorable :
 Un dieu plus fort que lui me va rejoindre à toi ;
@@ -2201,7 +2201,7 @@ Toi que rend tout-puissant ce chef-d'oeuvre des cieux,
 Hymen, fais-lui changer la face de ces lieux.
 
 
-**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *date_1660 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_france
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_FRANCE *date_1660 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_france
 
 Doux charme des héros, immortelle Victoire,
 Âme de leur vaillance, et source de leur gloire,
@@ -2273,7 +2273,7 @@ J'entreprendrai beaucoup ; mais ce qui m'en console
 C'est que sous votre aveu…
 
 
-**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *date_1660 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_victoire
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_VICTOIRE *date_1660 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_victoire
 
 Je ne me repens point, incomparable France,
 De vous avoir suivie avec tant de constance :
@@ -2315,7 +2315,7 @@ Et sous d'autres climats couronner ses hauts faits
 Des lauriers qu'en ceux-ci lui dérobe la Paix !
 
 
-**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *date_1660 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_hymenee
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_HYMENEE *date_1660 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_hymenee
 
 Oui, monstres, oui, craignez cette main vengeresse ;
 Mais craignez encor plus cette grande princesse

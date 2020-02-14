@@ -1,6 +1,6 @@
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_diligencedelyon *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_diligencedelyon *dist2_cubieres-palmezeaux_prose_comedy *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moron
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_diligencedelyon *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_diligencedelyon *dist2_cubieres-palmezeaux_prose_comedy *id_MORON *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moron
 
 Je dis, Monseigneur, que j'admire votre sang-froid, votre présence d'esprit, et surtout votre courages. Vous ne démentez point la race auguste dont vous descendez.
 
@@ -253,7 +253,7 @@ Nicolas Frippart, Tailleur : qu'il sache à son tour ci qu'en vaut l'aune.
 Qui saura bien le lui rendre.
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_diligencedelyon *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_diligencedelyon *dist2_cubieres-palmezeaux_prose_comedy *date_1777 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellepouf
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_diligencedelyon *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_diligencedelyon *dist2_cubieres-palmezeaux_prose_comedy *id_MADEMOISELLEPOUF *date_1777 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellepouf
 
 Êtes-vous bien sûr, Monsieur, qu'il n'y aura point de menu à notre souper ? D'honneur ! C'est incroyable.
 
@@ -302,7 +302,7 @@ Je ne suis point une Baronne. Je me nomme Mademoiselle Pouf, tout court : je sui
 Je serai très honorée de servir Milady.
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_diligencedelyon *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_diligencedelyon *dist2_cubieres-palmezeaux_prose_comedy *date_1777 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lhotesse
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_diligencedelyon *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_diligencedelyon *dist2_cubieres-palmezeaux_prose_comedy *id_LHOTESSE *date_1777 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lhotesse
 
 Eh bien ! Messieurs, qu'est-ce qu'il y a ?
 

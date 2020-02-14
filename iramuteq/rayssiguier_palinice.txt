@@ -1,6 +1,6 @@
 
 
-**** *creator_rayssiguier *book_rayssiguier_palinice *style_verse *genre_show *dist1_rayssiguier_verse_show_palinice *dist2_rayssiguier_verse_show *date_1634 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_alcandre
+**** *creator_rayssiguier *book_rayssiguier_palinice *style_verse *genre_show *dist1_rayssiguier_verse_show_palinice *dist2_rayssiguier_verse_show *id_alcandre *date_1634 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_alcandre
 
 Puis que vous le voulez il faut que je vous die
 Que l'Italie est belle, et que là les plaisirs
@@ -347,7 +347,7 @@ Je croy que vos desseins se conforment icy,
 Si vous le désirez nous le voulons aussi.
 
 
-**** *creator_rayssiguier *book_rayssiguier_palinice *style_verse *genre_show *dist1_rayssiguier_verse_show_palinice *dist2_rayssiguier_verse_show *date_1634 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_arimant
+**** *creator_rayssiguier *book_rayssiguier_palinice *style_verse *genre_show *dist1_rayssiguier_verse_show_palinice *dist2_rayssiguier_verse_show *id_arimant *date_1634 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_arimant
 
 Amour puissant demon, qui régis les mortels,
 Dois-je encore porter l'encens sur tes autels ?
@@ -640,7 +640,7 @@ Et moy me retirant dans une solitude,
 Je veux rire à loisir de son ingratitude.
 
 
-**** *creator_rayssiguier *book_rayssiguier_palinice *style_verse *genre_show *dist1_rayssiguier_verse_show_palinice *dist2_rayssiguier_verse_show *date_1634 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_cerinte
+**** *creator_rayssiguier *book_rayssiguier_palinice *style_verse *genre_show *dist1_rayssiguier_verse_show_palinice *dist2_rayssiguier_verse_show *id_cerinte *date_1634 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_cerinte
 
 
 Divin sujet de mes douleurs
@@ -861,7 +861,7 @@ De voir un tel succez à nos peines diverses.
 FIN
 
 
-**** *creator_rayssiguier *book_rayssiguier_palinice *style_verse *genre_show *dist1_rayssiguier_verse_show_palinice *dist2_rayssiguier_verse_show *date_1634 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_circeine
+**** *creator_rayssiguier *book_rayssiguier_palinice *style_verse *genre_show *dist1_rayssiguier_verse_show_palinice *dist2_rayssiguier_verse_show *id_circeine *date_1634 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_circeine
 
 En me voyant venir vostre frère vous quitte,
 Trouve-t'il point mauvais lors que je vous visite ?
@@ -1301,7 +1301,7 @@ Palinice montrez icy vostre bonté,
 Dites luy franchement quelle est vostre pensée.
 
 
-**** *creator_rayssiguier *book_rayssiguier_palinice *style_verse *genre_show *dist1_rayssiguier_verse_show_palinice *dist2_rayssiguier_verse_show *date_1634 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_clorian
+**** *creator_rayssiguier *book_rayssiguier_palinice *style_verse *genre_show *dist1_rayssiguier_verse_show_palinice *dist2_rayssiguier_verse_show *id_clorian *date_1634 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_clorian
 
 Amour que les mortels qui sont en ta puissance
 Ont des astres malins autheurs de leur naissance,
@@ -1546,7 +1546,7 @@ Pour oublier du tout ces esprits inconstans,
 Prenons pour médecins le dépit et le temps.
 
 
-**** *creator_rayssiguier *book_rayssiguier_palinice *style_verse *genre_show *dist1_rayssiguier_verse_show_palinice *dist2_rayssiguier_verse_show *date_1634 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_florice
+**** *creator_rayssiguier *book_rayssiguier_palinice *style_verse *genre_show *dist1_rayssiguier_verse_show_palinice *dist2_rayssiguier_verse_show *id_florice *date_1634 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_florice
 
 Mon frère confessés que toute l'Italie,
 Encore que le Ciel l'ait beaucoup embellie,
@@ -1880,7 +1880,7 @@ Vous devez comme nous dire vos sentiments,
 Et perdre son espoir ou finir ses tourments.
 
 
-**** *creator_rayssiguier *book_rayssiguier_palinice *style_verse *genre_show *dist1_rayssiguier_verse_show_palinice *dist2_rayssiguier_verse_show *date_1634 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_palinice
+**** *creator_rayssiguier *book_rayssiguier_palinice *style_verse *genre_show *dist1_rayssiguier_verse_show_palinice *dist2_rayssiguier_verse_show *id_palinice *date_1634 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_palinice
 
 Que fait icy mon frère, absent de sa maistresse  ?
 Si j'avois un Amant⁎ si négligent que vous,
@@ -2040,7 +2040,7 @@ Mes compaignes et moy chérissons vos plaisirs,
 Et nous accordons tout à vos chastes désirs.
 
 
-**** *creator_rayssiguier *book_rayssiguier_palinice *style_verse *genre_show *dist1_rayssiguier_verse_show_palinice *dist2_rayssiguier_verse_show *date_1634 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_sileine
+**** *creator_rayssiguier *book_rayssiguier_palinice *style_verse *genre_show *dist1_rayssiguier_verse_show_palinice *dist2_rayssiguier_verse_show *id_sileine *date_1634 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_sileine
 
 Dois-je encore long-temps supporter mes supplices,
 Ne devez-vous jamais agréer mes services⁎ ?

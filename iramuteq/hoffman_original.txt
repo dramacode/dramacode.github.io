@@ -1,6 +1,6 @@
 
 
-**** *creator_hoffman *book_hoffman_original *style_verse *genre_comedy *dist1_hoffman_verse_comedy_original *dist2_hoffman_verse_comedy *date_1796 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celimene
+**** *creator_hoffman *book_hoffman_original *style_verse *genre_comedy *dist1_hoffman_verse_comedy_original *dist2_hoffman_verse_comedy *id_CELIMENE *date_1796 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celimene
 
 C'est Linval qui s'éloigne ?
 
@@ -256,7 +256,7 @@ Ne vous déguisez point. En suivant mes avis,
 Vous pouvez être encore au rang de mes amis.
 
 
-**** *creator_hoffman *book_hoffman_original *style_verse *genre_comedy *dist1_hoffman_verse_comedy_original *dist2_hoffman_verse_comedy *date_1796 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
+**** *creator_hoffman *book_hoffman_original *style_verse *genre_comedy *dist1_hoffman_verse_comedy_original *dist2_hoffman_verse_comedy *id_DAMIS *date_1796 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
 
 Puisque nous sommes seuls, nous pouvons sans nous nuire,
 Sur nos projets d'amour tour-à-tour nous instruire.
@@ -657,7 +657,7 @@ Me voila corrigé. Le précepte est bien doux
 Quand nous le recevons d'un maître tel que vous.
 
 
-**** *creator_hoffman *book_hoffman_original *style_verse *genre_comedy *dist1_hoffman_verse_comedy_original *dist2_hoffman_verse_comedy *date_1796 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_linval
+**** *creator_hoffman *book_hoffman_original *style_verse *genre_comedy *dist1_hoffman_verse_comedy_original *dist2_hoffman_verse_comedy *id_LINVAL *date_1796 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_linval
 
 Mais quel mystère ?
 

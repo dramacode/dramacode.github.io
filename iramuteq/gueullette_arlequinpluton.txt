@@ -1,6 +1,6 @@
 
 
-**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pluton
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *id_PLUTON *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pluton
 
 Quoi ! Morbleu ! Madame, vous me persécuterez sans relâche, et vos jalousies continuelles ne me donneront jamais un moment de repos ?
 
@@ -126,7 +126,7 @@ Je jure par le Styx qu'elle t'a été fidèle, et qu'il y a eu plus de jeunesse 
 Rien n'est plus vrai. Retourne auprès d'elle ; Mercure te conduira où elle est. Jouissez d'un bonheur que je ne troublerai plus.
 
 
-**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_proserpine
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *id_PROSERPINE *date_1719 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_proserpine
 
 Vous voilà galamment vêtu, seigneur Pluton, et l'on aurait de la peine à reconnaître sous ce déguisement le Dieu des Enfers. Peut-on vous demander quelle est l'heureuse mortelle que vous honorez aujourd'huI de vos faveurs ?
 
@@ -183,7 +183,7 @@ Cela est fort bien imaginé.
 Par le Styx ?
 
 
-**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pantalon
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *id_PANTALON *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pantalon
 
 À qui diantre en avez-vous donc ? Depuis quelques jours on ne voit que bouder dans cette maison. Vous êtes sur le point d'épouser Arlequin, et vous êtes triste !
 
@@ -237,7 +237,7 @@ Que je suis fâché que Violette ne soit plus digne de vous !
 Che consolazione !
 
 
-**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_violette
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *id_VIOLETTE *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_violette
 
 Arlequin ? Quel mari me destinez-vous là ?
 
@@ -300,7 +300,7 @@ Je n'y puis consentir. Je mourrais à tout moment de frayeur.
 Oui, vraiment, c'est lui-même.
 
 
-**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosette
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *id_ROSETTE *date_1719 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosette
 
 Qu'avez-vous donc, ma cousine, pour être si fâchée ?
 
@@ -334,7 +334,7 @@ Hélas ! que ne suis-je à votre âge,
 Ma soeur ! J'en voudrais faire autant.
 
 
-**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *id_ARLEQUIN *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Pasquin amato, Pasquin amabile e carissimo amico, Pasquin Pasquinissimo.
 
@@ -550,7 +550,7 @@ Comme je croyais être une ombre,
 Elle en fut quitte à bon marché.
 
 
-**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_silvia
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *id_SILVIA *date_1719 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_silvia
 
 Enfin, me voilà seule, et je puis m'entretenir de la nouvelle passion que je ressens pour le riche inconnu !... Cinthio ne me touche plus. Y a-t-il à balancer ? Il est concierge du château de ce bourg ; la plaisante fortune en comparaison de l'autre !... Son confident est dans mes intérêts; il ne nuira pas à la réussite de cette affaire. Mon oncle, à la vérité, a des obligations infinies à Cinthio... Qu'est-ce que cela me fait ? Suis-je obligée de payer ses dettes ? Qu'il lui fasse épouser ma cousine ! Le voici. Diantre soit de l'importun!
 
@@ -649,7 +649,7 @@ Ce n'est point ici par méprise
 Qu'une femme trompe un mari.
 
 
-**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cinthio
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *id_CINTHIO *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cinthio
 
 Qu'avez-vous, belle Silvia ? Vous me paraissez toute changée. Depuis huit jours vous ne m'avez pas dit une parole gracieuse.
 
@@ -716,7 +716,7 @@ L'inconnu l'aura abandonnée : voilà le sujet de ses larmes.
 Voilà tout le village qui vient prendre part à notre joie.
 
 
-**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pasquin
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *id_PASQUIN *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pasquin
 
 Eh bien ! Mon cher Arlequin, il y a une heure que je vous suis comme un barbet sans tirer de vous une seule parole. Dites-moi donc le sujet de votre mélancolie.
 
@@ -743,7 +743,7 @@ Point de chimères ! Allez au solide: Cinthio vous convient.
 Suivons-la pour l'engager à rendre sa tendresse à son premier amant.
 
 
-**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *id_MERCURE *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
 
 Quelle vivacité ! Vous n'avez pas affaire à une déesse, pour en espérer si bonne composition. J'ai trouvé le secret de tromper Pantalon, le père de Violette, et d'expliquer à celle-ci votre tendresse.
 
@@ -818,7 +818,7 @@ Oh ! Oh ! Je viens d'apprendre une partie de vos mésaventures, et j'ai deviné 
 Oui, je vous le répète, vos cris ont percé jusqu'au royaume sombre. Pluton vous renvoie le gracieux Arlequin.
 
 
-**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caron
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *id_CARON *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caron
 
 C'est que Proserpine a soulevé tout l'enfer.
 
@@ -869,7 +869,7 @@ Il est trop bien reconnu dans ces lieux pour Pluton. C'est le véritable, mon am
 Si tu ne veux pas m'en croire, juges-en par tes yeux.
 
 
-**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mathanasius
+**** *creator_gueullette *book_gueullette_arlequinpluton *style_prose *genre_comedy *dist1_gueullette_prose_comedy_arlequinpluton *dist2_gueullette_prose_comedy *id_MATHANASIUS *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mathanasius
 
 Je vous suis obligé. Mademoiselle composait sans doute ? Dans quel genre ?
 

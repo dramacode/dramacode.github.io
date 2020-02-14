@@ -1,6 +1,6 @@
 
 
-**** *creator_rotrou *book_rotrou_cleagenor *style_verse *genre_show *dist1_rotrou_verse_show_cleagenor *dist2_rotrou_verse_show *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleagenor
+**** *creator_rotrou *book_rotrou_cleagenor *style_verse *genre_show *dist1_rotrou_verse_show_cleagenor *dist2_rotrou_verse_show *id_CLEAGENOR *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleagenor
 
 Vallons, antres, rochers confidents de mes peines,
 Où se termineront mes courses incertaines,
@@ -355,7 +355,7 @@ Vous respirez le jour et je revois vos charmes.
 Ô le plus beau jour qu'ait produit le Soleil.
 
 
-**** *creator_rotrou *book_rotrou_cleagenor *style_verse *genre_show *dist1_rotrou_verse_show_cleagenor *dist2_rotrou_verse_show *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_theandre
+**** *creator_rotrou *book_rotrou_cleagenor *style_verse *genre_show *dist1_rotrou_verse_show_cleagenor *dist2_rotrou_verse_show *id_THEANDRE *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_theandre
 
 Que je dois à mon sort un bien inestimable,
 Ô vue inespérée ! Ô rencontre agréable ;
@@ -750,7 +750,7 @@ Et l'on s'entretiendra de ces travaux soufferts
 Quand nous aurons aux Dieux nos hommages offerts.
 
 
-**** *creator_rotrou *book_rotrou_cleagenor *style_verse *genre_show *dist1_rotrou_verse_show_cleagenor *dist2_rotrou_verse_show *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ozanor
+**** *creator_rotrou *book_rotrou_cleagenor *style_verse *genre_show *dist1_rotrou_verse_show_cleagenor *dist2_rotrou_verse_show *id_OZANOR *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ozanor
 
       Ingrate, impitoyable
 Fais cesser mes efforts, et sois-moi par douceur,
@@ -787,7 +787,7 @@ Je meurs, et les Enfers s'ouvrent dessous mes pas,
 Ô destins inhumains !
 
 
-**** *creator_rotrou *book_rotrou_cleagenor *style_verse *genre_show *dist1_rotrou_verse_show_cleagenor *dist2_rotrou_verse_show *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_doristee
+**** *creator_rotrou *book_rotrou_cleagenor *style_verse *genre_show *dist1_rotrou_verse_show_cleagenor *dist2_rotrou_verse_show *id_DORISTEE *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_doristee
 
 Je suis morte, au secours.
 
@@ -954,7 +954,7 @@ Dieux c'est Cléagénor.
 Cher objet de mes yeux.
 
 
-**** *creator_rotrou *book_rotrou_cleagenor *style_verse *genre_show *dist1_rotrou_verse_show_cleagenor *dist2_rotrou_verse_show *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_voleur1
+**** *creator_rotrou *book_rotrou_cleagenor *style_verse *genre_show *dist1_rotrou_verse_show_cleagenor *dist2_rotrou_verse_show *id_VOLEUR1 *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_voleur1
 
 Ami, vois cet homme assis en cette plaine.
 
@@ -1013,7 +1013,7 @@ Font que sans être vu l'on voit pourtant assez.
       Ô perfidie extrême.
 
 
-**** *creator_rotrou *book_rotrou_cleagenor *style_verse *genre_show *dist1_rotrou_verse_show_cleagenor *dist2_rotrou_verse_show *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_voleur2
+**** *creator_rotrou *book_rotrou_cleagenor *style_verse *genre_show *dist1_rotrou_verse_show_cleagenor *dist2_rotrou_verse_show *id_VOLEUR2 *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_voleur2
 
 Son habit promet moins de profit que de peine :
 Le bien n'arrête point dans les mains de ces gens
@@ -1034,7 +1034,7 @@ St, st.
       Ha traître !
 
 
-**** *creator_rotrou *book_rotrou_cleagenor *style_verse *genre_show *dist1_rotrou_verse_show_cleagenor *dist2_rotrou_verse_show *date_1634 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_archers
+**** *creator_rotrou *book_rotrou_cleagenor *style_verse *genre_show *dist1_rotrou_verse_show_cleagenor *dist2_rotrou_verse_show *id_ARCHERS *date_1634 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_archers
 
 Arrête.
 
@@ -1050,7 +1050,7 @@ En la confession fait voir assez coupable.
 Vous, emportez ce corps.
 
 
-**** *creator_rotrou *book_rotrou_cleagenor *style_verse *genre_show *dist1_rotrou_verse_show_cleagenor *dist2_rotrou_verse_show *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philemond
+**** *creator_rotrou *book_rotrou_cleagenor *style_verse *genre_show *dist1_rotrou_verse_show_cleagenor *dist2_rotrou_verse_show *id_PHILEMOND *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philemond
 
 Ô ! que j'attends, Messieurs, avec impatience,
 L'heureuse occasion d'exercer ma science :
@@ -1625,7 +1625,7 @@ Qu'on ne refuse pas au plus léger tourment.
 Ne suivez point mes pas.
 
 
-**** *creator_rotrou *book_rotrou_cleagenor *style_verse *genre_show *dist1_rotrou_verse_show_cleagenor *dist2_rotrou_verse_show *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorante
+**** *creator_rotrou *book_rotrou_cleagenor *style_verse *genre_show *dist1_rotrou_verse_show_cleagenor *dist2_rotrou_verse_show *id_DORANTE *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorante
 
 Diane, quel effroi, quel signe, quel augure,
 Menacent mon repos d'une triste aventure :
@@ -1994,7 +1994,7 @@ Par un coup de courage un effet de faiblesse.
 Ô dieu quelle frayeur à mes veines glacées !
 
 
-**** *creator_rotrou *book_rotrou_cleagenor *style_verse *genre_show *dist1_rotrou_verse_show_cleagenor *dist2_rotrou_verse_show *date_1634 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_diane
+**** *creator_rotrou *book_rotrou_cleagenor *style_verse *genre_show *dist1_rotrou_verse_show_cleagenor *dist2_rotrou_verse_show *id_DIANE *date_1634 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_diane
 
 Madame, observez-vous ces songes décevants,
 Chimériques objets en nos cerveaux mouvants,
@@ -2233,7 +2233,7 @@ Mais Nature y pourvut et mon honnêteté
 Quoique je l'exposasse, était en sûreté.
 
 
-**** *creator_rotrou *book_rotrou_cleagenor *style_verse *genre_show *dist1_rotrou_verse_show_cleagenor *dist2_rotrou_verse_show *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philacte
+**** *creator_rotrou *book_rotrou_cleagenor *style_verse *genre_show *dist1_rotrou_verse_show_cleagenor *dist2_rotrou_verse_show *id_PHILACTE *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philacte
 
 Plût au Ciel, lussiez-vous dans ma triste pensée,
 Et que de ce récit ma voix fût dispensée,

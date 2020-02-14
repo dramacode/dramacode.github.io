@@ -1,6 +1,6 @@
 
 
-**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_catilina
+**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *id_CATILINA *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_catilina
 
 Cesse de t'effrayer du sort qui me menace :
 Plus j'y vois de périls, plus je me sens d'audace ;
@@ -960,7 +960,7 @@ Mais croyez qu'en mourant mon cour n'est point changé.
 Ô César ! Si tu vis, je suis assez vengé.
 
 
-**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lentulus
+**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *id_LENTULUS *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lentulus
 
 Catilina, laissons un discours qui m'offense ;
 Tes soupçons sont toujours trop près de ta prudence.
@@ -1030,7 +1030,7 @@ Qu'il ne devait avoir d'autres maîtres que nous.
 Adieu, Catilina. Probus vient : je te laisse.
 
 
-**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_probus
+**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *id_PROBUS *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_probus
 
 Eh quoi ! Seigneur, c'est vous que votre vigilance
 A conduit le premier aux autels que j'encense !
@@ -1185,7 +1185,7 @@ Plus le sénat vous craint, plus il faut du sénat
 Craindre contre vos jours un secret attentat.
 
 
-**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *date_1748 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_tullie
+**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *id_TULLIE *date_1748 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_tullie
 
 Si ce sont là les dieux à qui tu sacrifies,
 Apprends qu'ils ont toujours abhorré les impies,
@@ -1432,7 +1432,7 @@ Prête-moi ce poignard.
       Je me meurs !
 
 
-**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *date_1748 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fulvie
+**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *id_FULVIE *date_1748 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fulvie
 
 Qui ? Moi parler, Madame ! à quel péril affreux
 Exposez-vous ici les jours d'un malheureux !
@@ -1546,7 +1546,7 @@ Son cour est désormais indigne de ta foi.
 Adieu : tu me verras ce jour même au sénat.
 
 
-**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ciceron
+**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *id_CICERON *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ciceron
 
 C'est vous, Catilina, que je cherche en ces lieux,
 Non comme un sénateur jaloux et furieux,
@@ -1746,7 +1746,7 @@ Ce temple en attendant vous servira d'asile ;
 Que sur Rome et sur moi votre cour soit tranquille.
 
 
-**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sunnon
+**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *id_SUNNON *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sunnon
 
 Arrêtons, cher Gontran ; c'est dans ces lieux sacrés,
 Décorés avec faste, au fond peu révérés,
@@ -1850,7 +1850,7 @@ Touchez dans cette main, ce sont là nos serments.
 Adieu, Catilina. Quelqu'un vient : c'est Tullie.
 
 
-**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caton
+**** *creator_crebillon *book_crebillon_catilina *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_catilina *dist2_crebillon_verse_tragedy *id_CATON *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caton
 
       Et que pourrais-je dire
 En des lieux où l'honneur ne tient plus son empire,

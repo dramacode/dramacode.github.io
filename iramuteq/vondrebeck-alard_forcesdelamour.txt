@@ -1,6 +1,6 @@
 
 
-**** *creator_vondrebeck-alard *book_vondrebeck-alard_forcesdelamour *style_prose *genre_divertissement *dist1_vondrebeck-alard_prose_divertissement_forcesdelamour *dist2_vondrebeck-alard_prose_divertissement *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zoroastre
+**** *creator_vondrebeck-alard *book_vondrebeck-alard_forcesdelamour *style_prose *genre_divertissement *dist1_vondrebeck-alard_prose_divertissement_forcesdelamour *dist2_vondrebeck-alard_prose_divertissement *id_ZOROASTRE *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zoroastre
 
 Merlin, Merlin !
 
@@ -35,7 +35,7 @@ Voici, charmante bergère, voici le jour heureux où mes voeux seront satisfaits
 J'en devine la cause, Merlin ; les Dieux se sont mêlés de cette affaire, et je suis puni de la violence que j'ai voulu faire à la bergère.
 
 
-**** *creator_vondrebeck-alard *book_vondrebeck-alard_forcesdelamour *style_prose *genre_divertissement *dist1_vondrebeck-alard_prose_divertissement_forcesdelamour *dist2_vondrebeck-alard_prose_divertissement *date_1678 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_gresinde
+**** *creator_vondrebeck-alard *book_vondrebeck-alard_forcesdelamour *style_prose *genre_divertissement *dist1_vondrebeck-alard_prose_divertissement_forcesdelamour *dist2_vondrebeck-alard_prose_divertissement *id_GRESINDE *date_1678 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_gresinde
 
 M'apportez-vous quelque bonne nouvelle ?
 
@@ -64,7 +64,7 @@ Attends, j'ai encore ma ressource à Junon. Elle aura pillé de mes maux : elle 
 Junon m'a promis de me secourir, et je viens pour en recevoir des assurances.
 
 
-**** *creator_vondrebeck-alard *book_vondrebeck-alard_forcesdelamour *style_prose *genre_divertissement *dist1_vondrebeck-alard_prose_divertissement_forcesdelamour *dist2_vondrebeck-alard_prose_divertissement *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merlin
+**** *creator_vondrebeck-alard *book_vondrebeck-alard_forcesdelamour *style_prose *genre_divertissement *dist1_vondrebeck-alard_prose_divertissement_forcesdelamour *dist2_vondrebeck-alard_prose_divertissement *id_MERLIN *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merlin
 
 Amour,amour, chien d'amour, coquin d'amour, maraud d'amour, quoi ! Jamais de repos ! Dieux ! Faut-il être né sous une planète si malheureuse, pour être né valet, et valet d'un maître plus diable que le diable ; qui ne passe sa vie et son temps qu'à lire des grammaires, qui n'a pour divertissement que des sorciers. Pour son manger, les ragoûts sont friands : vipères, crapauds et crocodiles. Ce ne serait que demi-mal ; mais il est, par-dessus ces belles qualités, amoureux. Il aime une bergère ; mais il n'a pu jusqu'ici percer le coeur de cette pauvre brebis. Elle n'a, ma foi, pas tout le tort, car si une fois il s'en était rendu le maître, elle n'entendrait pour toute musique que hurlements ; ses beaux yeux ne verraient que Démons, que Furies et qu'Enfer, et ses belles dents d'ivoire ne seraient occupées qu'à ronger des aspics et des couleuvres. La seule pensée m'en fait frémir, car il me semble que je suis entouré de ces messieurs.
 En voilà un qui me prie à dîner : ah ! Monsieur le crapaud, je vous remercie de tout mon coeur, je n'ai nul appétit.

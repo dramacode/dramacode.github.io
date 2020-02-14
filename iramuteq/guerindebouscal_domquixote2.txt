@@ -1,6 +1,6 @@
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donquichotte
+**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *id_DONQUICHOTTE *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donquichotte
 
 Ne m'importune plus.
 
@@ -657,7 +657,7 @@ Retournons chez le Duc, où nous le saurons mieux.
 Ne vous tourmentez point, suivez-moi seulement.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sanche
+**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *id_SANCHE *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sanche
 
 Maudite ambition, que voulez-vous de moi !
 Où me conduisez-vous ?
@@ -1616,7 +1616,7 @@ Poursuivez seulement le dessein d'être Roi,
 Je vous réponds toujours de mon âne et de moi.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *date_1639 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laniece
+**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *id_LANIECE *date_1639 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laniece
 
       Quoi partir ?
 
@@ -1665,7 +1665,7 @@ Dans des déserts affreux comme un esprit damné ?
 Ils s'en vont comploter leur troisième saillie.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *date_1639 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_therese
+**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *id_THERESE *date_1639 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_therese
 
       Eh bien tu vas partir ?
 Tu vas donc me quitter ! Y peux-tu consentir ?
@@ -1724,7 +1724,7 @@ Nos maris peuvent tant sur nous et sur nos biens,
 Qu'il leur faut obéir quand ils seraient des chiens.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donlope
+**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *id_DONLOPE *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donlope
 
       Vous allez donc partir ?
 
@@ -1956,7 +1956,7 @@ J'ai l'un des bras démis.
 Puissiez-vous quelque jour devenir un peu sage.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebarbier
+**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *id_LEBARBIER *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebarbier
 
       Il n'en faut plus douter,
 Le bonhomme mourra dans son extravagance.
@@ -2173,7 +2173,7 @@ Vous vous en souviendrez.
 Vous puissé-je raser dedans notre village.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leduc
+**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *id_LEDUC *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leduc
 
 Que cett'heure est charmante, et que mon oeil adore
 Ces rayons de clarté dont le Ciel se colore !
@@ -2362,7 +2362,7 @@ Madame Dulcinée.
 Sur cela, Don Quichotte, je vous baise les mains.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *date_1639 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laduchesse
+**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *id_LADUCHESSE *date_1639 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laduchesse
 
 Que je prends de plaisir à voir le jour naissant,
 Et ce nuage peint d'un pourpre jaunissant !
@@ -2529,7 +2529,7 @@ Que dit à cela Sanche ?
 Ainsi toujours le Ciel réponde à vos desseins.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laumonier
+**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *id_LAUMONIER *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laumonier
 
       On le croit bien ainsi.
 
@@ -2581,7 +2581,7 @@ Ah Monsieur ! c'est assez, je ne puis plus les voir,
 Je me console au moins que j'ai fait mon devoir.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rodrigue
+**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *id_RODRIGUE *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rodrigue
 
 On m'appelle Rodrigue.
 
@@ -2611,7 +2611,7 @@ Et voulait m'obliger à le panser moi-même.
 Mais il m'appelait vieille ?
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_herault1
+**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *id_HERAULT1 *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_herault1
 
 Les filles du Sophy que la Perse révère.
 
@@ -2633,7 +2633,7 @@ Vous ne sauriez choisir sans gagner un Empire.
 Et bien retirons-nous.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lediable
+**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *id_LEDIABLE *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lediable
 
       Monsieur je suis le Diable,
 Qui cherche Don Quichotte.
@@ -2664,7 +2664,7 @@ Ainsi valeureux Don Quichotte,
 Si vous me croyez tel, vous êtes un grand sot.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merlin
+**** *creator_guerindebouscal *book_guerindebouscal_domquixote2 *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote2 *dist2_guerindebouscal_verse_comedy *id_MERLIN *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merlin
 
 Levez-vous, je le veux, et Madame y consent.
 Je suis ce grand Merlin, qu'on chante dans la fable

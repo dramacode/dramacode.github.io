@@ -1,6 +1,6 @@
 
 
-**** *creator_scudery *book_scudery_filssuppose *style_verse *genre_comedy *dist1_scudery_verse_comedy_filssuppose *dist2_scudery_verse_comedy *date_1636 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_almedor
+**** *creator_scudery *book_scudery_filssuppose *style_verse *genre_comedy *dist1_scudery_verse_comedy_filssuppose *dist2_scudery_verse_comedy *id_almedor *date_1636 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_almedor
 
 Cher Rosandre, aussi tost qu'on nous eut separez,
 Je tombay dans les maux qui m'estoyent preparez:
@@ -230,7 +230,7 @@ Sçachez que fils, et fille, et Philante, et Belise,
 Vous avez sur mon cœur toute puissance acquise:
 
 
-**** *creator_scudery *book_scudery_filssuppose *style_verse *genre_comedy *dist1_scudery_verse_comedy_filssuppose *dist2_scudery_verse_comedy *date_1636 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_rosandre
+**** *creator_scudery *book_scudery_filssuppose *style_verse *genre_comedy *dist1_scudery_verse_comedy_filssuppose *dist2_scudery_verse_comedy *id_rosandre *date_1636 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_rosandre
 
 Ha ! ne contestez plus; laissez vous enflamer;
 Et sçachez obeïr, si vous sçavez aimer.
@@ -431,7 +431,7 @@ Ma fille, assurez vous qu'elles sont effacees.
 Allons, il se fait tard; le soupper nous attend.
 
 
-**** *creator_scudery *book_scudery_filssuppose *style_verse *genre_comedy *dist1_scudery_verse_comedy_filssuppose *dist2_scudery_verse_comedy *date_1636 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_philante
+**** *creator_scudery *book_scudery_filssuppose *style_verse *genre_comedy *dist1_scudery_verse_comedy_filssuppose *dist2_scudery_verse_comedy *id_philante *date_1636 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_philante
 
 Et quoy chere Belise, en augmentant mes peines,
 Vous croyez que Paris est moins plaisant que Renes ?
@@ -700,7 +700,7 @@ Autheur de mes plaisirs, ainsi que de ma vie,
 Pourray-je vous servir comme j'en ay l'envie ?
 
 
-**** *creator_scudery *book_scudery_filssuppose *style_verse *genre_comedy *dist1_scudery_verse_comedy_filssuppose *dist2_scudery_verse_comedy *date_1636 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_luciane
+**** *creator_scudery *book_scudery_filssuppose *style_verse *genre_comedy *dist1_scudery_verse_comedy_filssuppose *dist2_scudery_verse_comedy *id_luciane *date_1636 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_luciane
  
 Et quoy, vous lassez vous de souffrir⁎ mes services ?
 Craignez vous que mon cœur ne s'abandonne aux vices ?
@@ -916,7 +916,7 @@ Si vous me promettez de n'y retomber plus.
 Vous estes en colere, et vous me menacez ?
 
 
-**** *creator_scudery *book_scudery_filssuppose *style_verse *genre_comedy *dist1_scudery_verse_comedy_filssuppose *dist2_scudery_verse_comedy *date_1636 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_oronte
+**** *creator_scudery *book_scudery_filssuppose *style_verse *genre_comedy *dist1_scudery_verse_comedy_filssuppose *dist2_scudery_verse_comedy *id_oronte *date_1636 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_oronte
 
 Ha ! Monsieur escoutez, au moins auparavant:
 
@@ -1311,7 +1311,7 @@ Afin que cent baisers m'en fassent la vengeance.
 Le champ nous est ouvert, allons-y; c'est assez.
 
 
-**** *creator_scudery *book_scudery_filssuppose *style_verse *genre_comedy *dist1_scudery_verse_comedy_filssuppose *dist2_scudery_verse_comedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_braside
+**** *creator_scudery *book_scudery_filssuppose *style_verse *genre_comedy *dist1_scudery_verse_comedy_filssuppose *dist2_scudery_verse_comedy *id_braside *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_braside
 
 Vostre ame en le croyant ne sera point trompée;
 Contre qui que ce soit employez mon espée;
@@ -1360,7 +1360,7 @@ Le combat de ces deux qui vous doit couronner.
 Satisfaisons le corps si l'esprit est content.
 
 
-**** *creator_scudery *book_scudery_filssuppose *style_verse *genre_comedy *dist1_scudery_verse_comedy_filssuppose *dist2_scudery_verse_comedy *date_1636 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_clorian
+**** *creator_scudery *book_scudery_filssuppose *style_verse *genre_comedy *dist1_scudery_verse_comedy_filssuppose *dist2_scudery_verse_comedy *id_clorian *date_1636 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_clorian
 
 Une affaire pressee, au logis vous demande:
 
@@ -1480,7 +1480,7 @@ Ne meslons rien d'amer avec cette douceur;
 Oublions l'un et l'autre, et nous aimons, ma sœur.
 
 
-**** *creator_scudery *book_scudery_filssuppose *style_verse *genre_comedy *dist1_scudery_verse_comedy_filssuppose *dist2_scudery_verse_comedy *date_1636 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_belise
+**** *creator_scudery *book_scudery_filssuppose *style_verse *genre_comedy *dist1_scudery_verse_comedy_filssuppose *dist2_scudery_verse_comedy *id_belise *date_1636 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_belise
 
 Que vous avez de tort, injurieux Philante,
 De croire que ma foy⁎, soit jamais chancelante:
@@ -1788,7 +1788,7 @@ Que vostre affection puisse encore durer ?
 Plus à loisir mon frere, il faut
 
 
-**** *creator_scudery *book_scudery_filssuppose *style_verse *genre_comedy *dist1_scudery_verse_comedy_filssuppose *dist2_scudery_verse_comedy *date_1636 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_doriste
+**** *creator_scudery *book_scudery_filssuppose *style_verse *genre_comedy *dist1_scudery_verse_comedy_filssuppose *dist2_scudery_verse_comedy *id_doriste *date_1636 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_doriste
 
 Gouvernez tous les deux avecques la prudence:
 Doriste ne sçauroit, ny flatter, ny trahir;

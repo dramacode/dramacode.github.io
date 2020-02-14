@@ -1,6 +1,6 @@
 
 
-**** *creator_poinsinet *book_poinsinet_ajax *style_verse *genre_tragedy *dist1_poinsinet_verse_tragedy_ajax *dist2_poinsinet_verse_tragedy *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ajax
+**** *creator_poinsinet *book_poinsinet_ajax *style_verse *genre_tragedy *dist1_poinsinet_verse_tragedy_ajax *dist2_poinsinet_verse_tragedy *id_AJAX *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ajax
 
 Madame, un prompt succès devant vous me ramène,
 J'ai combattu pour vous ; la gloire était certaine.
@@ -491,7 +491,7 @@ J'échappe à tous vos traits ; je brave vos efforts :
 Et je saurai, sans vous, descendre chez les Morts.
 
 
-**** *creator_poinsinet *book_poinsinet_ajax *style_verse *genre_tragedy *dist1_poinsinet_verse_tragedy_ajax *dist2_poinsinet_verse_tragedy *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulysse
+**** *creator_poinsinet *book_poinsinet_ajax *style_verse *genre_tragedy *dist1_poinsinet_verse_tragedy_ajax *dist2_poinsinet_verse_tragedy *id_ULYSSE *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulysse
 
 Vous m'évitez, Seigneur ! Ne puis-je enfin connaître
 D'où naît ce sombre ennui que vous faites paraître ?
@@ -754,7 +754,7 @@ Je prévois quels regrets vont suivre tes transports.
 Va, je te laisse en proie à tes honteux remords.
 
 
-**** *creator_poinsinet *book_poinsinet_ajax *style_verse *genre_tragedy *dist1_poinsinet_verse_tragedy_ajax *dist2_poinsinet_verse_tragedy *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agamemnon
+**** *creator_poinsinet *book_poinsinet_ajax *style_verse *genre_tragedy *dist1_poinsinet_verse_tragedy_ajax *dist2_poinsinet_verse_tragedy *id_AGAMEMNON *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agamemnon
 
 Je suis chef de vingt rois ; mais d'un titre si beau,
 Croyez-vous que l'honneur balance le fardeau ?
@@ -941,7 +941,7 @@ Par le Ciel, et par lui, leur sort est arrêté.
 Quand il en sera temps, vous le pourrez connaître.
 
 
-**** *creator_poinsinet *book_poinsinet_ajax *style_verse *genre_tragedy *dist1_poinsinet_verse_tragedy_ajax *dist2_poinsinet_verse_tragedy *date_1762 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_penthesilee
+**** *creator_poinsinet *book_poinsinet_ajax *style_verse *genre_tragedy *dist1_poinsinet_verse_tragedy_ajax *dist2_poinsinet_verse_tragedy *id_PENTHESILEE *date_1762 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_penthesilee
 
 Ah ! mon cour est-il fait pour goûter le repos ?
 Quand Memnon ne vit plus, tu condamnes mes larmes !
@@ -1444,7 +1444,7 @@ Au dessus des dangers d'une funeste ardeur.
 Le temps presse, Seigneur, gardons de différer.
 
 
-**** *creator_poinsinet *book_poinsinet_ajax *style_verse *genre_tragedy *dist1_poinsinet_verse_tragedy_ajax *dist2_poinsinet_verse_tragedy *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_memnon
+**** *creator_poinsinet *book_poinsinet_ajax *style_verse *genre_tragedy *dist1_poinsinet_verse_tragedy_ajax *dist2_poinsinet_verse_tragedy *id_MEMNON *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_memnon
 
 Dieux ! C'est Hippodamas !... Pourquoi suis-tu Memnon ?
 
@@ -1518,7 +1518,7 @@ Mettons le camp des Grecs, mettons leur flotte en poudre
 Et qu'ils soient, de l'éclair, avertis par la foudre.
 
 
-**** *creator_poinsinet *book_poinsinet_ajax *style_verse *genre_tragedy *dist1_poinsinet_verse_tragedy_ajax *dist2_poinsinet_verse_tragedy *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antenor
+**** *creator_poinsinet *book_poinsinet_ajax *style_verse *genre_tragedy *dist1_poinsinet_verse_tragedy_ajax *dist2_poinsinet_verse_tragedy *id_ANTENOR *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antenor
 
 Seigneur ! Priam sans doute a lieu d'être surpris.
 Des soupçons trop fondés ont ému les esprits.
@@ -1609,7 +1609,7 @@ La Reine, chaque jour, fidèle à l'outrager,
 Irrite sa colère, afin de vous venger ?
 
 
-**** *creator_poinsinet *book_poinsinet_ajax *style_verse *genre_tragedy *dist1_poinsinet_verse_tragedy_ajax *dist2_poinsinet_verse_tragedy *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hippodamas
+**** *creator_poinsinet *book_poinsinet_ajax *style_verse *genre_tragedy *dist1_poinsinet_verse_tragedy_ajax *dist2_poinsinet_verse_tragedy *id_HIPPODAMAS *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hippodamas
 
 Pourquoi sortir sans moi des remparts d'Ilion ?
 Tout m'attache à ton sort, l'amitié, la naissance.
@@ -1652,7 +1652,7 @@ Tandis qu'un voile épais couvre encore les cieux,
 Prenons par ce sentier ; et laisse faire aux Dieux.
 
 
-**** *creator_poinsinet *book_poinsinet_ajax *style_verse *genre_tragedy *dist1_poinsinet_verse_tragedy_ajax *dist2_poinsinet_verse_tragedy *date_1762 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hersile
+**** *creator_poinsinet *book_poinsinet_ajax *style_verse *genre_tragedy *dist1_poinsinet_verse_tragedy_ajax *dist2_poinsinet_verse_tragedy *id_HERSILE *date_1762 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hersile
 
 Ô Reine ! Où courez-vous ? Quoi ? Lorsque tout sommeille,
 Un soin toujours nouveau vous trouble et vous éveille ?
@@ -1750,7 +1750,7 @@ Daignez de vos projets vous ouvrir à ma foi.
 Quels périls avec vous faut-il tenter ?
 
 
-**** *creator_poinsinet *book_poinsinet_ajax *style_verse *genre_tragedy *dist1_poinsinet_verse_tragedy_ajax *dist2_poinsinet_verse_tragedy *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
+**** *creator_poinsinet *book_poinsinet_ajax *style_verse *genre_tragedy *dist1_poinsinet_verse_tragedy_ajax *dist2_poinsinet_verse_tragedy *id_ARCAS *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
 
 Quittez, quittez, Seigneur, un indigne esclavage ;
 Vengez-vous, par l'oubli, de ses traîtres appas.

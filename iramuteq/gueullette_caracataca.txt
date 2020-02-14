@@ -1,6 +1,6 @@
 
 
-**** *creator_gueullette *book_gueullette_caracataca *style_prose *genre_farce *dist1_gueullette_prose_farce_caracataca *dist2_gueullette_prose_farce *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemaitre
+**** *creator_gueullette *book_gueullette_caracataca *style_prose *genre_farce *dist1_gueullette_prose_farce_caracataca *dist2_gueullette_prose_farce *id_LEMAITRE *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemaitre
 
 Approchez-vous enfants, il n'est pas aussi naturel qu'ayant gagné le gros lot, je vive comme un gredin, et que je mange mon pain dans ma poche, je viens d'acheter la Principauté de Baslevent, à laquelle est joint le Marquisat de Feramongul, or je prétends dorénavant que vous ne m'appeliez plus que mon Prince, ou bien, Monseigneur, entendez-vous ?
 
@@ -63,7 +63,7 @@ Je m'y perds, je ne sais plus où j'en suis, il faut que Gilles soit devenu un f
 Cela est merveilleux, mais je vous demande grâce pour ce misérable, qu'il reçoive seulement cent coups de bâton de la main de Gilles et de sa femme, et qu'il soit chassé de ma maison.
 
 
-**** *creator_gueullette *book_gueullette_caracataca *style_prose *genre_farce *dist1_gueullette_prose_farce_caracataca *dist2_gueullette_prose_farce *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sansquartier
+**** *creator_gueullette *book_gueullette_caracataca *style_prose *genre_farce *dist1_gueullette_prose_farce_caracataca *dist2_gueullette_prose_farce *id_SANSQUARTIER *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sansquartier
 
 Et puis-je savoir aussi, Monseigneur, ce que vous me laissez d'argent, pour faire votre intendance ?
 
@@ -191,7 +191,7 @@ C'est le Diable.
 Je n'appelle pas de la sentence ; j'en suis quitte à bon marché.
 
 
-**** *creator_gueullette *book_gueullette_caracataca *style_prose *genre_farce *dist1_gueullette_prose_farce_caracataca *dist2_gueullette_prose_farce *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_divertissant
+**** *creator_gueullette *book_gueullette_caracataca *style_prose *genre_farce *dist1_gueullette_prose_farce_caracataca *dist2_gueullette_prose_farce *id_DIVERTISSANT *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_divertissant
 
 Mon Prince, peut-on vous demander si vous serez longtemps à faire ce voyage ?
 
@@ -204,7 +204,7 @@ Or ça, Monsieur l'Intendant, pendant l'absence du prince nous ferez vous faire 
 Laissez-moi faire.
 
 
-**** *creator_gueullette *book_gueullette_caracataca *style_prose *genre_farce *dist1_gueullette_prose_farce_caracataca *dist2_gueullette_prose_farce *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
+**** *creator_gueullette *book_gueullette_caracataca *style_prose *genre_farce *dist1_gueullette_prose_farce_caracataca *dist2_gueullette_prose_farce *id_GILLES *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
 
 Il ne fallait pas vous mettre en dépense pour ce marquisat, je vous en aurais fait présent, sans qu'il vous en eût rien coûté.
 
@@ -533,7 +533,7 @@ Qu'en dites-vous ?
 Pas tout-à-fait, mais il ne s'en faut guère ; tenez, notre Maître, il ne s'en est rien fallu que notre femme fut déshonorée par ce pendard-là et sans un fameux Magicien qui est venu à mon secours, j'étais pendu, et vous volé à présent, je vais lui rapporter cette bague et ce miroir.
 
 
-**** *creator_gueullette *book_gueullette_caracataca *style_prose *genre_farce *dist1_gueullette_prose_farce_caracataca *dist2_gueullette_prose_farce *date_1720 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_gillette
+**** *creator_gueullette *book_gueullette_caracataca *style_prose *genre_farce *dist1_gueullette_prose_farce_caracataca *dist2_gueullette_prose_farce *id_GILLETTE *date_1720 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_gillette
 
 Eh bonjour mon gros trouillard, Monsieur Divertissant qui vient de passer par chez nous, m'a dit que j'allais demeurer ici avec toi, comme cela me ferait bien plaisir ; mais je crains que ce ne soit un godan qu'il me baille-là ; dis-moi un peu la vérité.
 
@@ -746,7 +746,7 @@ Point de pitié.
 Non, non, je veux avoir le plaisir de le pendre moi-même.
 
 
-**** *creator_gueullette *book_gueullette_caracataca *style_prose *genre_farce *dist1_gueullette_prose_farce_caracataca *dist2_gueullette_prose_farce *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieursuc
+**** *creator_gueullette *book_gueullette_caracataca *style_prose *genre_farce *dist1_gueullette_prose_farce_caracataca *dist2_gueullette_prose_farce *id_MONSIEURSUC *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieursuc
 
 Non.
 
@@ -789,7 +789,7 @@ Paix.
 Foin.
 
 
-**** *creator_gueullette *book_gueullette_caracataca *style_prose *genre_farce *dist1_gueullette_prose_farce_caracataca *dist2_gueullette_prose_farce *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurcornibus
+**** *creator_gueullette *book_gueullette_caracataca *style_prose *genre_farce *dist1_gueullette_prose_farce_caracataca *dist2_gueullette_prose_farce *id_MONSIEURCORNIBUS *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurcornibus
 
 Co... Co... Co... Comment, des vi... vi... vi... vilains fri... fri...fri... fripons, qui... qui... qui... voulaient four... four... fourber ma... ma... ma femme.
 

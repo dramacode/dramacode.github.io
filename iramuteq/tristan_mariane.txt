@@ -1,6 +1,6 @@
 
 
-**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_herode
+**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_HERODE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_herode
 
 Fantôme injurieux qui troubles mon repos,
 Ne renouvelle plus tes insolents propos ;
@@ -1000,7 +1000,7 @@ Vois l'excès de l'ennui dont elle est désolée,
 Et comment pour te suivre elle prend sa volée.
 
 
-**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thare
+**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_THARE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thare
 
       Que vous plaît-il, Sire ?
 
@@ -1029,7 +1029,7 @@ Possible que des sens il reprendra l'usage,
 Quand on aura jeté de l'eau sur son visage.
 
 
-**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pherore
+**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_PHERORE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pherore
 
 On me disait ici que vous dormiez encore.
 
@@ -1178,7 +1178,7 @@ Et si vous employant à la considérer,
 Vous ne la voudriez pas vous-même réparer.
 
 
-**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_salome
+**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_SALOME *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_salome
 
 Vous plaît-il que j'entende aussi cette aventure,
 Qui n'est à bien parler qu'une vaine peinture,
@@ -1480,7 +1480,7 @@ Vous direz quelque jour que ce trait exemplaire,
 Était pour votre État un mal fort nécessaire,
 
 
-**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mariane
+**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_MARIANE *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mariane
 
 Je croirais ton conseil, s'il était raisonnable :
 Mais quoi ? Veux-tu que j'aime un monstre abominable,
@@ -1833,7 +1833,7 @@ Vous vivrez innocente, et je mourrai coupable.
       Par où ?
 
 
-**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alexandra
+**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_ALEXANDRA *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alexandra
 
 On te mène égorger innocente victime,
 Tu vas donc au supplice, et n'as point fait de crime,
@@ -1886,7 +1886,7 @@ Mon âme se va rendre à l'excès de ce deuil,
 Je vais me mettre au lit, ou plutôt au cercueil.
 
 
-**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dina
+**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_DINA *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dina
 
 Si vous ne l'aimez pas, faites-en le semblant ;
 En cette occasion vous devez vous contraindre,
@@ -1948,7 +1948,7 @@ Que je hais ces esprits méchants et curieux.
 Ô cieux ! Quelle constance, et quelle cruauté.
 
 
-**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechanson
+**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_LECHANSON *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechanson
 
 Pourrais-je dire encore un mot à votre Altesse,
 Sur l'exécution de son commandement ?
@@ -2000,7 +2000,7 @@ Veuillez me pardonner si j'ai tout révélé
       Le poison dont vous m'avez parlé.
 
 
-**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_soesme
+**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_SOESME *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_soesme
 
 Hé Sire ! Je commis ce crime par faiblesse !
 Ce fut par imprudence et par légèreté
@@ -2042,7 +2042,7 @@ Si je parle autrement je paraîtrai menteur.
 On répandra du sang qui doit crier vengeance.
 
 
-**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_narbal
+**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_NARBAL *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_narbal
 
       Ô cieux ! Cette aventure
 Met de grandes vertus dans une sépulture,

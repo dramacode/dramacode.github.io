@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgrichardin
+**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *id_MONSIEURGRICHARDIN *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgrichardin
 
 J'ai eu quelques ordres à donner. N'est-il pas venu ici ?…
 
@@ -151,7 +151,7 @@ Mais c'est une Comédie.
 Parbleu, puisque je l'ai signé, tout coup vaille ; en faveur du plaisir que vous nous avez donné, je passe la fourberie que vous m'avez faite.
 
 
-**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucile
+**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *id_LUCILE *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucile
 
 C'est un fort bonhomme, un fort galant homme que Monsieur Grichardin, Marton ; et comme il n'y a que douze ou quinze jours que nous sommes mariés, je m'accommode encore de ses manières.
 
@@ -264,7 +264,7 @@ Monsieur Grichardin ne pourrait-il point jouer ce rôle-là ? Il a joué nature
 Pourquoi non ? Pour des mariages de comédie, il ne faut point tant de façon, il n'y a qu'à signer un papier, le premier venu ; n'en avez-vous point sur vous, Monsieur le Docteur ?
 
 
-**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *id_ANGELIQUE *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
 Je m'étais imaginé avoir vu entrer ici… Quand on a l'idée remplie de ce qu'on aime… Je me suis trompée.
 
@@ -392,7 +392,7 @@ De qui la raison rappelle
 Le bon goût du temps passé.
 
 
-**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *id_ISABELLE *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
 
 J'en crois le cœur encore plus que les yeux, Éraste, et le mien m'a fait sentir des mouvements qui m'ont appris que vous étiez ici.
 
@@ -445,7 +445,7 @@ Voilà un beau secret, mon oncle.
 C'est elle-même, mon oncle.
 
 
-**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
+**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *id_MARTON *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
 
 Votre bonhomme de mari ne cherche qu'à vous faire plaisir, comme vous voyez ; il a dessein apparemment de vous donner aujourd'hui quelque fête, quelque espèce de bal, et de vous faire trouver chez vous, pour vous y fixer, les innocents amusements que vous aviez coutume de prendre en public, comme les autres.
 
@@ -688,7 +688,7 @@ Il manquait au dénouement.
 Vive, vive l'Amour Charlatan.
 
 
-**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurpoisson
+**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *id_MONSIEURPOISSON *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurpoisson
 
 La métamorphose ne sera pas bien difficile pour moi : une barbe de plus, et des bottes de moins, voilà l'affaire faite.
 
@@ -701,7 +701,7 @@ Mais à propos d'imaginer, de quoi est-il question, s'il vous plaît ? Faut-il 
 Cela pourra bien n'être pas trop bon.
 
 
-**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *id_ANGELIQUE *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
 Je m'étais imaginé avoir vu entrer ici… Quand on a l'idée remplie de ce qu'on aime… Je me suis trompée.
 
@@ -829,7 +829,7 @@ De qui la raison rappelle
 Le bon goût du temps passé.
 
 
-**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
+**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *id_JUPITER *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
 
 Où trouver ce petit fripon d'Amour, Momus ?
 
@@ -910,7 +910,7 @@ Sans formalité, s'il refuse.
 Point de difficulté, Mortel, cela est réglé.
 
 
-**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
+**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *id_MOMUS *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
 
 Seigneur, Jupiter !
 
@@ -987,7 +987,7 @@ Devant tout le monde ?
 J'y demeure aussi, je n'abandonne point Jupiter.
 
 
-**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledocteur
+**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *id_LEDOCTEUR *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledocteur
 
 Ô Amour, ô Amour, que tu me fais souffrir !
 
@@ -1110,7 +1110,7 @@ On me donnera Philine ? Je le veux bien, voilà qui est fini. Mais quoique ces 
 Je ne suis jamais sans cela.
 
 
-**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *id_PIERROT *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
 
 Ça n'est pas naturel, la porte est farmée, voilà la clef ; ils étaient dehors, et ils sont dedans ; ça ne se peut pas, et si pourtant ça est, car je l'ai vu.
 
@@ -1238,7 +1238,7 @@ Oui, à moi, Spinette.
 Ce n'est plus un Musicien, belle Marotte, c'est Mercure ; et moi je ne suis plus Pierrot, je suis Léandre.
 
 
-**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *id_MERCURE *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
 
 Plus tendrement si vous le pouvez, Robin, cette petite Ritournelle ; prenez bien le ton, vous Marotte, et rechantez ce petit air que je vous ai montré ce matin.
 
@@ -1424,7 +1424,7 @@ Si le public est content,
 Vive, vive l'Amour Charlatan.
 
 
-**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marotte
+**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *id_MAROTTE *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marotte
 
 Dans cette aimable retraite,
 Chacun au gré de ses vœux
@@ -1473,7 +1473,7 @@ Et fixe l'Amant constant.
 Vive, vive l'Amour Charlatan.
 
 
-**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
+**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *id_LAMOUR *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
 
 Ne me perdez pas, mon cher Monsieur, je vous en conjure.
 
@@ -1679,7 +1679,7 @@ Tu viendrais avec nos ?
 S'il te plaît, Chevalier, nous le continuerons.
 
 
-**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_spinette
+**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *id_SPINETTE *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_spinette
 
 Demandez-vous quelqu'un dans ce logis, Monsieur ?
 
@@ -1734,7 +1734,7 @@ Se hâtent d'en faire autant.
 Vive, vive l'Amour Charlatan.
 
 
-**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philine
+**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *id_PHILINE *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philine
 
 À quoi t'amuses-tu donc, Spinette ? Il y a je ne sais combien de temps que je t'appelle.
 
@@ -1771,7 +1771,7 @@ Mon tuteur revient ! Retournons au logis.
 Ne me suivez point, vous me feriez des affaires.
 
 
-**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillotgorjus
+**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *id_GUILLOTGORJUS *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillotgorjus
 
 Seigneur l'Amour, puisque votre excellence
 De ses rares secrets veut bien nous faire part,
@@ -1805,7 +1805,7 @@ L'avis n'est pas mauvais pour qui veut longtemps vivre :
 Je prends le parti de le suivre.
 
 
-**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_claudine
+**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *id_CLAUDINE *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_claudine
 
 Toutes les Filles du Village
 Voudraient bien faire essai de votre Orviétan :
@@ -1830,7 +1830,7 @@ S'unissent à leur Amant.
 Vive, vive l'Amour Charlatan.
 
 
-**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thibaut
+**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *id_THIBAUT *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thibaut
 
 Vous baillez des secrets pour afin qu'on s'entr'aime,
 J'en venons demander pour nous entre-haïr.
@@ -1872,7 +1872,7 @@ Je ne verrai plus Marinette.
 Sur ce pied-là, j'apaise mon courroux.
 
 
-**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mathurine
+**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *id_MATHURINE *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mathurine
 
       De la manière dont il m'aime,
 Je voudrais bian pourtant que Thibaut fût guari.
@@ -1910,7 +1910,7 @@ Je n'agacerai plus Lubin, c'est chose faite.
 Et moi le mien, Thibaut. Tiens, raccommodons-nous.
 
 
-**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+**** *creator_dancourt *book_dancourt_comediecomediens *style_prose *genre_comedy *dist1_dancourt_prose_comedy_comediecomediens *dist2_dancourt_prose_comedy *id_LECHEVALIER *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
 
 Ah ! Monseigneur l'Amour, je suis votre valet.
 Je croyais vous rejoindre à Paris en Décembre

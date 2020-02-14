@@ -1,6 +1,6 @@
 
 
-**** *creator_palissot *book_palissot_cercle *style_prose *genre_comedy *dist1_palissot_prose_comedy_cercle *dist2_palissot_prose_comedy *date_1755 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_orphise
+**** *creator_palissot *book_palissot_cercle *style_prose *genre_comedy *dist1_palissot_prose_comedy_cercle *dist2_palissot_prose_comedy *id_ORPHISE *date_1755 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_orphise
 
 Convenez que cela sera plaisant.
 
@@ -157,7 +157,7 @@ Vous vous êtes trompés tous deux par une fausse inconstance. Je n'aurais peut-
 Que cette petite fêté, ma chère Lucinde, serve de prélude à votre bonheur; et vous, Ariste, venez m'aider à en faire les honneurs.
 
 
-**** *creator_palissot *book_palissot_cercle *style_prose *genre_comedy *dist1_palissot_prose_comedy_cercle *dist2_palissot_prose_comedy *date_1755 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ariste
+**** *creator_palissot *book_palissot_cercle *style_prose *genre_comedy *dist1_palissot_prose_comedy_cercle *dist2_palissot_prose_comedy *id_ARISTE *date_1755 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ariste
 
 Ah ! Très plaisant.
 
@@ -266,7 +266,7 @@ Effectivement, les malades de Monsieur, doivent mourir le plus gaiement du monde
 Non, Monsieur, vous ne nous échapperez pas. Je suis bien aise de voir le dénouement de tout ceci.
 
 
-**** *creator_palissot *book_palissot_cercle *style_prose *genre_comedy *dist1_palissot_prose_comedy_cercle *dist2_palissot_prose_comedy *date_1755 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucinde
+**** *creator_palissot *book_palissot_cercle *style_prose *genre_comedy *dist1_palissot_prose_comedy_cercle *dist2_palissot_prose_comedy *id_LUCINDE *date_1755 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucinde
 
 Ah ! S'il est dans son tort, Madame ? Quel souvenir me rappelez-vous !
 
@@ -313,7 +313,7 @@ Non, mais je sens que je devrais vous haïr. Je voulus me venger d'une épreuve 
 Une autre serait tentée dé jouir de votre confusion ; mais non, Lindor, je veux achever de vous rendre inexcusable, je vous pardonne.
 
 
-**** *creator_palissot *book_palissot_cercle *style_prose *genre_comedy *dist1_palissot_prose_comedy_cercle *dist2_palissot_prose_comedy *date_1755 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lindor
+**** *creator_palissot *book_palissot_cercle *style_prose *genre_comedy *dist1_palissot_prose_comedy_cercle *dist2_palissot_prose_comedy *id_LINDOR *date_1755 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lindor
 
 Non, Madame, non ; c'est une perfidie qui n'a point d'exemple, et vous aurez beau me parler en sa faveur.
 

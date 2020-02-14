@@ -1,6 +1,6 @@
 
 
-**** *creator_lesage *book_lesage_crispinrivaldesonmaitre *style_prose *genre_comedy *dist1_lesage_prose_comedy_crispinrivaldesonmaitre *dist2_lesage_prose_comedy *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieuroronte
+**** *creator_lesage *book_lesage_crispinrivaldesonmaitre *style_prose *genre_comedy *dist1_lesage_prose_comedy_crispinrivaldesonmaitre *dist2_lesage_prose_comedy *id_MONSIEURORONTE *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieuroronte
 
 Ah! Ah! Peut-on savoir, Madame, pourquoi vous avez changé de résolution ?
 
@@ -162,7 +162,7 @@ Et pour le valet de mon gendre, je lui ferai épouser la filleule d'un sous-ferm
 Ne demeurons pas ici plus longtemps. Entrons, j'espère que Monsieur Orgon voudra bien honorer de sa présence les noces de ma fille.
 
 
-**** *creator_lesage *book_lesage_crispinrivaldesonmaitre *style_prose *genre_comedy *dist1_lesage_prose_comedy_crispinrivaldesonmaitre *dist2_lesage_prose_comedy *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameoronte
+**** *creator_lesage *book_lesage_crispinrivaldesonmaitre *style_prose *genre_comedy *dist1_lesage_prose_comedy_crispinrivaldesonmaitre *dist2_lesage_prose_comedy *id_MADAMEORONTE *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameoronte
 
 Vous êtes flatteuse, Lisette.
 
@@ -227,7 +227,7 @@ Un valet ! Juste ciel ! Un valet !
 Ces pauvres garçons me font pitié, je demande grâce pour eux.
 
 
-**** *creator_lesage *book_lesage_crispinrivaldesonmaitre *style_prose *genre_comedy *dist1_lesage_prose_comedy_crispinrivaldesonmaitre *dist2_lesage_prose_comedy *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+**** *creator_lesage *book_lesage_crispinrivaldesonmaitre *style_prose *genre_comedy *dist1_lesage_prose_comedy_crispinrivaldesonmaitre *dist2_lesage_prose_comedy *id_ANGELIQUE *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
 Oui, Lisette, depuis que Valère m'a découvert sa passïon, un secret chagrin me dévore, et je sens que, si j'épouse Damis, il m'en coûtera le repos de ma vie.
 
@@ -264,7 +264,7 @@ Vous vous moquez, Valère. Damis est ici qui s'apprête à recevoir ma main.
 Que vous mande-t-il ?
 
 
-**** *creator_lesage *book_lesage_crispinrivaldesonmaitre *style_prose *genre_comedy *dist1_lesage_prose_comedy_crispinrivaldesonmaitre *dist2_lesage_prose_comedy *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+**** *creator_lesage *book_lesage_crispinrivaldesonmaitre *style_prose *genre_comedy *dist1_lesage_prose_comedy_crispinrivaldesonmaitre *dist2_lesage_prose_comedy *id_VALERE *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
 
 Ah ! Te voilà, bourreau !
 
@@ -388,7 +388,7 @@ Nous aurons encore tort de soupçonner votre fidélité, traîtres !
 Vous ne sauriez donner à votre perfidie, des couleurs qui puissent nous éblouir ; puisque Damis est marié, il était inutile que Crispin fît le personnage qu'il a fait.
 
 
-**** *creator_lesage *book_lesage_crispinrivaldesonmaitre *style_prose *genre_comedy *dist1_lesage_prose_comedy_crispinrivaldesonmaitre *dist2_lesage_prose_comedy *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurorgon
+**** *creator_lesage *book_lesage_crispinrivaldesonmaitre *style_prose *genre_comedy *dist1_lesage_prose_comedy_crispinrivaldesonmaitre *dist2_lesage_prose_comedy *id_MONSIEURORGON *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurorgon
 
 Je ne sais quel accueil je vais recevoir de Monsieur et de madame Oronte.
 
@@ -441,7 +441,7 @@ Vous êtes bienheureux, pendards, que Madame Oronte intercède pour vous..
 J'y veux danser avec Madame Oronte.
 
 
-**** *creator_lesage *book_lesage_crispinrivaldesonmaitre *style_prose *genre_comedy *dist1_lesage_prose_comedy_crispinrivaldesonmaitre *dist2_lesage_prose_comedy *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_lesage *book_lesage_crispinrivaldesonmaitre *style_prose *genre_comedy *dist1_lesage_prose_comedy_crispinrivaldesonmaitre *dist2_lesage_prose_comedy *id_LISETTE *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Voilà un dangereux homme que ce Valère !
 
@@ -566,7 +566,7 @@ Je vois l'enclouure, ou peu s'en faut.
 Les habiles fripons que voilà !
 
 
-**** *creator_lesage *book_lesage_crispinrivaldesonmaitre *style_prose *genre_comedy *dist1_lesage_prose_comedy_crispinrivaldesonmaitre *dist2_lesage_prose_comedy *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
+**** *creator_lesage *book_lesage_crispinrivaldesonmaitre *style_prose *genre_comedy *dist1_lesage_prose_comedy_crispinrivaldesonmaitre *dist2_lesage_prose_comedy *id_CRISPIN *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
 
 Parlons sans emportement.
 
@@ -807,7 +807,7 @@ Oh ! Monsieur, nous vous le promettons.
 Je tâcherai, Monsieur, de mériter par ma complaisance toutes les bontés du parrain.
 
 
-**** *creator_lesage *book_lesage_crispinrivaldesonmaitre *style_prose *genre_comedy *dist1_lesage_prose_comedy_crispinrivaldesonmaitre *dist2_lesage_prose_comedy *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_labranche
+**** *creator_lesage *book_lesage_crispinrivaldesonmaitre *style_prose *genre_comedy *dist1_lesage_prose_comedy_crispinrivaldesonmaitre *dist2_lesage_prose_comedy *id_LABRANCHE *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_labranche
 
 N'est-ce pas là Crispin ?
 

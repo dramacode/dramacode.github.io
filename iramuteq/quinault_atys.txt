@@ -1,6 +1,6 @@
 
 
-**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_atys
+**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *id_ATYS *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_atys
 
 Allons, allons, accourez tous,
 Cybele va descendre.
@@ -351,7 +351,7 @@ Inhumaine, je vais où vous ne serez pas.
 Je suis assez vengé, vous m'aimez, et je meurs.
 
 
-**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *date_1676 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cybele
+**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *id_CYBELE *date_1676 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cybele
 
 Venez tous dans mon temple, et que chacun révère
 Le sacrificateur dont je vais faire choix :
@@ -645,7 +645,7 @@ Qu'un soudain orage
 Renverse et ravage.
 
 
-**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_idas
+**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *id_IDAS *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_idas
 
 Vous veillez lorsque tout sommeille ;
 Vous nous éveillez si matin,
@@ -684,7 +684,7 @@ Il s'est percé le sein, et mes soins pour sa vie
 N'ont pu prévenir sa fureur.
 
 
-**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *date_1676 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_doris
+**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *id_DORIS *date_1676 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_doris
 
 L'amitié fut toujours égale entre vous deux,
 Et le sang d'assez près vous lie :
@@ -714,7 +714,7 @@ Quoi, vous pleurez ?
 N'osez-vous découvrir votre amour à Cybèle ?
 
 
-**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *date_1676 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melisse
+**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *id_MELISSE *date_1676 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melisse
 
 Atys vous doit beaucoup, et son bonheur est grand.
 
@@ -744,7 +744,7 @@ On abuse avec peine
 Les dieux par l'amour éclairés.
 
 
-**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sangaride
+**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *id_SANGARIDE *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sangaride
 
 Que dans nos concerts les plus doux,
 Son nom sacré se fasse entendre.
@@ -932,7 +932,7 @@ Atys !
       Je meurs.
 
 
-**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_celaenus
+**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *id_CELAENUS *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_celaenus
 
 N'avancez pas plus loin, ne suivez point mes pas ;
 Sortez. Toi ne me quitte pas.

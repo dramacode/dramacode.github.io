@@ -1,6 +1,6 @@
 
 
-**** *creator_gueullette *book_gueullette_chapeaudefortunatus *style_prose *genre_farce *dist1_gueullette_prose_farce_chapeaudefortunatus *dist2_gueullette_prose_farce *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemaitre
+**** *creator_gueullette *book_gueullette_chapeaudefortunatus *style_prose *genre_farce *dist1_gueullette_prose_farce_chapeaudefortunatus *dist2_gueullette_prose_farce *id_LEMAITRE *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemaitre
 
 Par la morbleu, il faut que je sois le gentilhomme de France le plus malheureux ! J'avais six beaux chevaux barbes que je faisais atteler à ma calèche quand j'allais à toutes jambes me rendre au petit coucher et il vient de m'en mourir trois. Ah ! Malheur des malheurs ! Accident des accidents ! Je donnerais les cent mille meilleures pistoles que j'aie jamais eues pour ravoir ces trois chevaux ; il faut pourtant rétablir mon équipage, car il n'est pas censé naturel qu'un seigneur de ma qualité aille comme un simple gentilhomme faire sa cour au roi. Il ne s'agit que de déterminer qui je dois envoyer en Hollande pour m'en acheter trois autres. Sera-ce mon écuyer ? Non, ce coquin, parce qu'il est gentilhomme et qu'il m'appartient, veut trancher du grand seigneur et s'amuserait par toutes les villes à faire des fêtes galantes et à donner le bal aux dames et pourrait bien dépenser les trois mille pistoles que je lui donnerais pour m'acheter des chevaux. Sera-ce mon intendant ? Non, ce misérable-là est accoutumé à me voler et pourrait bien gagner plus de deux mille pistoles sur le marché. Sera-ce un de mes valets de chambre ? Non, ces marauds-là sont des ivrognes qui sont accoutumés à boire mes vins de Champagne et mes vins de liqueur, et qui s'enivreraient tous les jours à mes dépens. Sera-ce un de mes pages ? Non, ces petits animaux n'ont pas plus de chose qu'un enfant et n'auraient pas l'esprit de faire une emplette de si grande importance. Qui sera-ce donc morbleu ? Il me vient en pensée d'y envoyer mon valet Gilles. C'est un coquin qui tout niais et tout butor qu'il paraisse a cependant du bon sens et beaucoup de fidélité. Il me fera bien mon affaire et je vais pour cet effet l'appeler. Gilles... Gilles... Gilles... Ce maraud-là se fait toujours appeler trois ou quatre fois. Je parie qu'il est à présent dans mes offices à manger ces pâtés, ces faisans, ces tourtes, ces ortolans qu'on a tantôt desservis de ma table. Gilles... Gilles...
 
@@ -68,7 +68,7 @@ Où sont-ils tous deux ?
 Ah ! Misérable, je vois bien que l'on t'a volé mes trois mille pistoles.
 
 
-**** *creator_gueullette *book_gueullette_chapeaudefortunatus *style_prose *genre_farce *dist1_gueullette_prose_farce_chapeaudefortunatus *dist2_gueullette_prose_farce *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
+**** *creator_gueullette *book_gueullette_chapeaudefortunatus *style_prose *genre_farce *dist1_gueullette_prose_farce_chapeaudefortunatus *dist2_gueullette_prose_farce *id_GILLES *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
 
 Eh ! Bien, Gilles, Gilles, Gilles.
 
@@ -254,7 +254,7 @@ Ils sont ensemble.
 Ah ! Monsieur, ne me tuez pas. Ils m'ont promis de me rapporter la bourse et l'argent dans deux heures. Mais chut ! Je les aperçois, retirons-nous.
 
 
-**** *creator_gueullette *book_gueullette_chapeaudefortunatus *style_prose *genre_farce *dist1_gueullette_prose_farce_chapeaudefortunatus *dist2_gueullette_prose_farce *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sansquartier
+**** *creator_gueullette *book_gueullette_chapeaudefortunatus *style_prose *genre_farce *dist1_gueullette_prose_farce_chapeaudefortunatus *dist2_gueullette_prose_farce *id_SANSQUARTIER *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sansquartier
 
 Je n'étais pas loin pourtant, j'étranglais une pinte ici proche.
 
@@ -307,7 +307,7 @@ Ah ! Le voilà.
 Ah ! Faisons-lui ce plaisir. Tiens, voilà le chapeau, mais dans deux heures rapporte-le ici.
 
 
-**** *creator_gueullette *book_gueullette_chapeaudefortunatus *style_prose *genre_farce *dist1_gueullette_prose_farce_chapeaudefortunatus *dist2_gueullette_prose_farce *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_divertissant
+**** *creator_gueullette *book_gueullette_chapeaudefortunatus *style_prose *genre_farce *dist1_gueullette_prose_farce_chapeaudefortunatus *dist2_gueullette_prose_farce *id_DIVERTISSANT *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_divertissant
 
 Mais, morbleu, mon ami, où te fourres-tu donc ? Il y a une bonne heure que je te cherche par tous les coins imaginables du monde sans pouvoir te trouver, et il s'agit en ce moment d'une affaire d'honneur, et de la dernière conséquence.
 

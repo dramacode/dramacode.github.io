@@ -1,6 +1,6 @@
 
 
-**** *creator_boursault *book_boursault_mariestuard *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_mariestuard *dist2_boursault_verse_tragedy *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mariestuard
+**** *creator_boursault *book_boursault_mariestuard *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_mariestuard *dist2_boursault_verse_tragedy *id_marie-stuard *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mariestuard
 
       Ah ! Duc que j'apprehende
 De vous rendre funeste une bonté si grande !
@@ -140,7 +140,7 @@ J'en vais faire pour vous qui me persecutez.
 Adieu.
 
 
-**** *creator_boursault *book_boursault_mariestuard *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_mariestuard *dist2_boursault_verse_tragedy *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elisabeth
+**** *creator_boursault *book_boursault_mariestuard *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_mariestuard *dist2_boursault_verse_tragedy *id_elisabeth *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elisabeth
 
 Auriez-vous jamais crû qu'insensible à mes graces,
 De tant de Conjurez il eût suivy les traces ?
@@ -662,7 +662,7 @@ Ne me reprochez point vostre injuste trépas :
 Vous goûtez un repos dont je ne joüis pas.
 
 
-**** *creator_boursault *book_boursault_mariestuard *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_mariestuard *dist2_boursault_verse_tragedy *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leducdenorfolc
+**** *creator_boursault *book_boursault_mariestuard *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_mariestuard *dist2_boursault_verse_tragedy *id_le-duc-de-norfolc *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leducdenorfolc
 
 Comte.
 
@@ -1181,7 +1181,7 @@ Rien d'indigne de vous, ny d'indigne de moy.)
 C'est ma réponse.
 
 
-**** *creator_boursault *book_boursault_mariestuard *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_mariestuard *dist2_boursault_verse_tragedy *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomtedemorray
+**** *creator_boursault *book_boursault_mariestuard *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_mariestuard *dist2_boursault_verse_tragedy *id_le-comte-de-morray *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomtedemorray
 
       Souffrez que mon coeur se déploye,
 Et que j'étale icy la grandeur de ma joye.
@@ -1508,7 +1508,7 @@ De mourir autrement que n'est mort mon Rival.
 J'expire.
 
 
-**** *creator_boursault *book_boursault_mariestuard *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_mariestuard *dist2_boursault_verse_tragedy *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomtedeneucastel
+**** *creator_boursault *book_boursault_mariestuard *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_mariestuard *dist2_boursault_verse_tragedy *id_le-comte-de-neucastel *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomtedeneucastel
 
 Euric, dans ce Palais ne m'accompagnez pas.
 Un Ordre exprés⁎ du Duc conduit icy mes pas.
@@ -1852,7 +1852,7 @@ C'est à vostre justice où sera mon recours.
 Je l'attends.
 
 
-**** *creator_boursault *book_boursault_mariestuard *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_mariestuard *dist2_boursault_verse_tragedy *date_1691 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lancastre
+**** *creator_boursault *book_boursault_mariestuard *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_mariestuard *dist2_boursault_verse_tragedy *id_lancastre *date_1691 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lancastre
 
       Ah, Seigneur, hâtez-vous,
 Et venez de la Reine appaiser le courroux.
@@ -1911,7 +1911,7 @@ Oüy, Madame, à l'instant vous l'allez voir paroître.
       Madame, ils vont entrer tous deux.
 
 
-**** *creator_boursault *book_boursault_mariestuard *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_mariestuard *dist2_boursault_verse_tragedy *date_1691 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_euric
+**** *creator_boursault *book_boursault_mariestuard *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_mariestuard *dist2_boursault_verse_tragedy *id_euric *date_1691 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_euric
 
 Seigneur, en ce moment il nous entend peut-estre.
 Je viens vous repeter les sermens qu'il a faits

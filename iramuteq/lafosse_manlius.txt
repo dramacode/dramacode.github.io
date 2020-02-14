@@ -1,6 +1,6 @@
 
 
-**** *creator_lafosse *book_lafosse_manlius *style_verse *genre_tragedy *dist1_lafosse_verse_tragedy_manlius *dist2_lafosse_verse_tragedy *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_servilius
+**** *creator_lafosse *book_lafosse_manlius *style_verse *genre_tragedy *dist1_lafosse_verse_tragedy_manlius *dist2_lafosse_verse_tragedy *id_SERVILIUS *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_servilius
 
 Seigneur, si votre aspect m'étonne et m'intimide,
 Je sais trop à quel point je vous suis odieux.
@@ -525,7 +525,7 @@ C'est à toi, Valérie, après tant de travaux,
 Adieu.
 
 
-**** *creator_lafosse *book_lafosse_manlius *style_verse *genre_tragedy *dist1_lafosse_verse_tragedy_manlius *dist2_lafosse_verse_tragedy *date_1698 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_valerie
+**** *creator_lafosse *book_lafosse_manlius *style_verse *genre_tragedy *dist1_lafosse_verse_tragedy_manlius *dist2_lafosse_verse_tragedy *id_VALERIE *date_1698 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_valerie
 
 Hé bien ? Vous avez vu mon père en ce moment.
 De tout votre entretien quel est l'événement ?
@@ -799,7 +799,7 @@ Finir tous tes projets contre une misérable.
 À ce que j'ai perdu me rejoindre à jamais.
 
 
-**** *creator_lafosse *book_lafosse_manlius *style_verse *genre_tragedy *dist1_lafosse_verse_tragedy_manlius *dist2_lafosse_verse_tragedy *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valerius
+**** *creator_lafosse *book_lafosse_manlius *style_verse *genre_tragedy *dist1_lafosse_verse_tragedy_manlius *dist2_lafosse_verse_tragedy *id_VALERIUS *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valerius
 
 Je viens savoir de vous, Seigneur, ce qu'il faut croire
 D'un bruit, qui se répand, et blesse votre gloire.
@@ -922,7 +922,7 @@ Qu'en un cour généreux, de remords combattu,
 La honte de sa chute affermit sa vertu.
 
 
-**** *creator_lafosse *book_lafosse_manlius *style_verse *genre_tragedy *dist1_lafosse_verse_tragedy_manlius *dist2_lafosse_verse_tragedy *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rutile
+**** *creator_lafosse *book_lafosse_manlius *style_verse *genre_tragedy *dist1_lafosse_verse_tragedy_manlius *dist2_lafosse_verse_tragedy *id_RUTILE *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rutile
 
 Comment ? Par vous, Seigneur, sait-il notre entreprise ?
 
@@ -1090,7 +1090,7 @@ En vain vous me quittez. Il faut qu'en cet instant
 J'éclaircisse, avec vous, ce soupçon important.
 
 
-**** *creator_lafosse *book_lafosse_manlius *style_verse *genre_tragedy *dist1_lafosse_verse_tragedy_manlius *dist2_lafosse_verse_tragedy *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_albin
+**** *creator_lafosse *book_lafosse_manlius *style_verse *genre_tragedy *dist1_lafosse_verse_tragedy_manlius *dist2_lafosse_verse_tragedy *id_ALBIN *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_albin
 
 Oui, Seigneur ; mais enfin, quelque ardeur qui vous guide,
 Un peuple variable, incertain, et timide,
@@ -1243,7 +1243,7 @@ Ils meurent embrassés, tristes objets d'horreur,
 Où l'on voit l'amitié consacrer la fureur.
 
 
-**** *creator_lafosse *book_lafosse_manlius *style_verse *genre_tragedy *dist1_lafosse_verse_tragedy_manlius *dist2_lafosse_verse_tragedy *date_1698 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_tullie
+**** *creator_lafosse *book_lafosse_manlius *style_verse *genre_tragedy *dist1_lafosse_verse_tragedy_manlius *dist2_lafosse_verse_tragedy *id_TULLIE *date_1698 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_tullie
 
 Madame, quel sujet vous peut troubler ainsi !
 Craignez-vous qu'un héros si grand, si magnanime

@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_sancho *style_verse *genre_comedy *dist1_dancourt_verse_comedy_sancho *dist2_dancourt_verse_comedy *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leduc
+**** *creator_dancourt *book_dancourt_sancho *style_verse *genre_comedy *dist1_dancourt_verse_comedy_sancho *dist2_dancourt_verse_comedy *id_LEDUC *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leduc
 
 Valeureux Don Guichot, dont les faits héroïques
 Sont chantés hautement dans les places publiques,
@@ -338,7 +338,7 @@ Nous sommes assemblés, célébrons l'hyménée
 Du vaillant Don Guichot et de sa Dulcinée.
 
 
-**** *creator_dancourt *book_dancourt_sancho *style_verse *genre_comedy *dist1_dancourt_verse_comedy_sancho *dist2_dancourt_verse_comedy *date_1712 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laduchesse
+**** *creator_dancourt *book_dancourt_sancho *style_verse *genre_comedy *dist1_dancourt_verse_comedy_sancho *dist2_dancourt_verse_comedy *id_LADUCHESSE *date_1712 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laduchesse
 
 De vous et de vos gens vous faites peu d'estime.
 
@@ -450,7 +450,7 @@ Que ce Gouvernement ne finira jamais.
 Sancho raisonne en homme sage.
 
 
-**** *creator_dancourt *book_dancourt_sancho *style_verse *genre_comedy *dist1_dancourt_verse_comedy_sancho *dist2_dancourt_verse_comedy *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_carisal
+**** *creator_dancourt *book_dancourt_sancho *style_verse *genre_comedy *dist1_dancourt_verse_comedy_sancho *dist2_dancourt_verse_comedy *id_CARISAL *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_carisal
 
       Seigneur.
 
@@ -544,7 +544,7 @@ Que toujours l'appétit préside en ses repas.
 N'en faites rien, Monsieur, et je vous le conseille.
 
 
-**** *creator_dancourt *book_dancourt_sancho *style_verse *genre_comedy *dist1_dancourt_verse_comedy_sancho *dist2_dancourt_verse_comedy *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donlope
+**** *creator_dancourt *book_dancourt_sancho *style_verse *genre_comedy *dist1_dancourt_verse_comedy_sancho *dist2_dancourt_verse_comedy *id_DONLOPE *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donlope
 
       Oui, Seigneur.
 
@@ -614,7 +614,7 @@ De morts, ni de mourants on ne voit nulle trace.
 Voici le grand vainqueur, qu'en pompe l'on amène.
 
 
-**** *creator_dancourt *book_dancourt_sancho *style_verse *genre_comedy *dist1_dancourt_verse_comedy_sancho *dist2_dancourt_verse_comedy *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fabrice
+**** *creator_dancourt *book_dancourt_sancho *style_verse *genre_comedy *dist1_dancourt_verse_comedy_sancho *dist2_dancourt_verse_comedy *id_FABRICE *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fabrice
 
 Le servir et lui plaire est pour nous trop d'honneur.
 
@@ -641,7 +641,7 @@ Don Guichot dans ces lieux s'apprête à nous forcer,
 Il vient avec le Duc.
 
 
-**** *creator_dancourt *book_dancourt_sancho *style_verse *genre_comedy *dist1_dancourt_verse_comedy_sancho *dist2_dancourt_verse_comedy *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_peralte
+**** *creator_dancourt *book_dancourt_sancho *style_verse *genre_comedy *dist1_dancourt_verse_comedy_sancho *dist2_dancourt_verse_comedy *id_PERALTE *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_peralte
 
       Déjà ce fat fait de l'homme important.
 
@@ -754,7 +754,7 @@ Au hasard d'être enivrée
 Au Toboso.
 
 
-**** *creator_dancourt *book_dancourt_sancho *style_verse *genre_comedy *dist1_dancourt_verse_comedy_sancho *dist2_dancourt_verse_comedy *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemaitredhotel
+**** *creator_dancourt *book_dancourt_sancho *style_verse *genre_comedy *dist1_dancourt_verse_comedy_sancho *dist2_dancourt_verse_comedy *id_LEMAITREDHOTEL *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemaitredhotel
 
       Oui, Seigneur.
 
@@ -793,7 +793,7 @@ Que vous puissiez manger de tout en sûreté.
 Il faut dans ce péril assembler le Conseil.
 
 
-**** *creator_dancourt *book_dancourt_sancho *style_verse *genre_comedy *dist1_dancourt_verse_comedy_sancho *dist2_dancourt_verse_comedy *date_1712 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dulcinee
+**** *creator_dancourt *book_dancourt_sancho *style_verse *genre_comedy *dist1_dancourt_verse_comedy_sancho *dist2_dancourt_verse_comedy *id_DULCINEE *date_1712 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dulcinee
 
 Levez-vous, Chevalier, je sens comme je dois
 Ce que vous avez fait pour moi.
@@ -829,7 +829,7 @@ Il serait à la taverne
 Du soir au matin.
 
 
-**** *creator_dancourt *book_dancourt_sancho *style_verse *genre_comedy *dist1_dancourt_verse_comedy_sancho *dist2_dancourt_verse_comedy *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_archelaus
+**** *creator_dancourt *book_dancourt_sancho *style_verse *genre_comedy *dist1_dancourt_verse_comedy_sancho *dist2_dancourt_verse_comedy *id_ARCHELAUS *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_archelaus
 
 Je suis Archélaüs, ce fameux Enchanteur
 Si connu par toute la terre,

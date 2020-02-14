@@ -1,6 +1,6 @@
 
 
-**** *creator_scarron *book_scarron_fausseapparence *style_verse *genre_comedy *dist1_scarron_verse_comedy_fausseapparence *dist2_scarron_verse_comedy *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_doncarlos
+**** *creator_scarron *book_scarron_fausseapparence *style_verse *genre_comedy *dist1_scarron_verse_comedy_fausseapparence *dist2_scarron_verse_comedy *id_DONCARLOS *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_doncarlos
 
 Verrai-je Don Louis ?
 
@@ -500,7 +500,7 @@ Et pardonnez Ami, ce que je fis amant.
 Hé de grâce, oublions ces tristes aventures.
 
 
-**** *creator_scarron *book_scarron_fausseapparence *style_verse *genre_comedy *dist1_scarron_verse_comedy_fausseapparence *dist2_scarron_verse_comedy *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonore
+**** *creator_scarron *book_scarron_fausseapparence *style_verse *genre_comedy *dist1_scarron_verse_comedy_fausseapparence *dist2_scarron_verse_comedy *id_LEONORE *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonore
 
 Je ne dors point Carlos, le sommeil est sans charmes,
 À des yeux qui sans cesse ont à verser des larmes,
@@ -904,7 +904,7 @@ Soyez au moins d'accord, vous et votre rival,
 Qu'une fausse apparence est un dangereux mal.
 
 
-**** *creator_scarron *book_scarron_fausseapparence *style_verse *genre_comedy *dist1_scarron_verse_comedy_fausseapparence *dist2_scarron_verse_comedy *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donpedre
+**** *creator_scarron *book_scarron_fausseapparence *style_verse *genre_comedy *dist1_scarron_verse_comedy_fausseapparence *dist2_scarron_verse_comedy *id_DONPEDRE *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donpedre
 
 Êtes-vous Don Louis ?
 
@@ -1026,7 +1026,7 @@ De rendre grâce au Ciel qui finit nos malheurs,
 Et qui fait succéder l'allégresse aux douleurs.
 
 
-**** *creator_scarron *book_scarron_fausseapparence *style_verse *genre_comedy *dist1_scarron_verse_comedy_fausseapparence *dist2_scarron_verse_comedy *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donsanche
+**** *creator_scarron *book_scarron_fausseapparence *style_verse *genre_comedy *dist1_scarron_verse_comedy_fausseapparence *dist2_scarron_verse_comedy *id_DONSANCHE *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donsanche
 
 Il me l'a défendue, et me hait sans raison,
 Et c'est celle que j'ai de lui cacher la flamme,
@@ -1353,7 +1353,7 @@ Léonore, ou la mort m'est un malheur égal.
 Vous réparez trop bien les sanglantes blessures...
 
 
-**** *creator_scarron *book_scarron_fausseapparence *style_verse *genre_comedy *dist1_scarron_verse_comedy_fausseapparence *dist2_scarron_verse_comedy *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_flore
+**** *creator_scarron *book_scarron_fausseapparence *style_verse *genre_comedy *dist1_scarron_verse_comedy_fausseapparence *dist2_scarron_verse_comedy *id_FLORE *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_flore
 
       Je viens encore te le dire :
 Quand tu vois qu'aujourd'hui, je pleure et je soupire,
@@ -1782,7 +1782,7 @@ Pourquoi donc insolent n'enfoncez-vous la porte ?
       Qui que ce soit, qu'il sorte.
 
 
-**** *creator_scarron *book_scarron_fausseapparence *style_verse *genre_comedy *dist1_scarron_verse_comedy_fausseapparence *dist2_scarron_verse_comedy *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donlouis
+**** *creator_scarron *book_scarron_fausseapparence *style_verse *genre_comedy *dist1_scarron_verse_comedy_fausseapparence *dist2_scarron_verse_comedy *id_DONLOUIS *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donlouis
 
 Je viens vous quereller.
 
@@ -2111,7 +2111,7 @@ Mais je veux que Don Sanche.
 J'approuve, et je souhaite un parti qui l'honore.
 
 
-**** *creator_scarron *book_scarron_fausseapparence *style_verse *genre_comedy *dist1_scarron_verse_comedy_fausseapparence *dist2_scarron_verse_comedy *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fabrice
+**** *creator_scarron *book_scarron_fausseapparence *style_verse *genre_comedy *dist1_scarron_verse_comedy_fausseapparence *dist2_scarron_verse_comedy *id_FABRICE *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fabrice
 
       Il vient dans un moment.
 
@@ -2132,7 +2132,7 @@ Le Seigneur Don Louis.
 J'y vais ; mais quelqu'un vient, cachez-vous.
 
 
-**** *creator_scarron *book_scarron_fausseapparence *style_verse *genre_comedy *dist1_scarron_verse_comedy_fausseapparence *dist2_scarron_verse_comedy *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cardille
+**** *creator_scarron *book_scarron_fausseapparence *style_verse *genre_comedy *dist1_scarron_verse_comedy_fausseapparence *dist2_scarron_verse_comedy *id_CARDILLE *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cardille
 
 Oui, le fier Don Louis, et sa bizarrerie,
 Vient d'entrer à l'instant dans cette hôtellerie :
@@ -2252,7 +2252,7 @@ Si nous n'allons tous deux conjoints pour l'hyménée
 Grossir de ces amants la troupe fortunée.
 
 
-**** *creator_scarron *book_scarron_fausseapparence *style_verse *genre_comedy *dist1_scarron_verse_comedy_fausseapparence *dist2_scarron_verse_comedy *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marine
+**** *creator_scarron *book_scarron_fausseapparence *style_verse *genre_comedy *dist1_scarron_verse_comedy_fausseapparence *dist2_scarron_verse_comedy *id_MARINE *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marine
 
 Oui prête à vous servir, comme elle fut toujours,
 Pourvu que vous soyez constant dans vos amours ;

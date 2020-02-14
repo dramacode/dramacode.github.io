@@ -1,6 +1,6 @@
 
 
-**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
+**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *id_APOLLON *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
 
 Naissez divins esprits, naissez fameux héros ;
 Brillez par les beaux arts, brillez par la victoire ;
@@ -34,7 +34,7 @@ Quoi ! Toujours soupirer sans pouvoir la fléchir ?
 Cruel ! Que ma peine est terrible !
 
 
-**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
+**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *id_LAMOUR *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
 
 Tu méprises l'Amour, éprouve sa colère.
 Aux pieds d'une beauté sévère
@@ -71,7 +71,7 @@ Des amants dignes de vous plaire,
 Et des héros à célébrer.
 
 
-**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_egle
+**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *id_EGLE *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_egle
 
 Doris, j'aime Hésita, et plus que l'on ne pense
 Je m'occupe de son bonheur :
@@ -108,7 +108,7 @@ Nous pouvons du génie exciter les efforts ;
 Mais les succès heureux sont dûs à tes transports.
 
 
-**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_doris
+**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *id_DORIS *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_doris
 
 L'amour va vous offrir la plus charmante fête,
 Déjà pour disputer chaque berger s'apprête :
@@ -143,7 +143,7 @@ Un berger, une bergère,
 Sont-il moins heureux que vous ?
 
 
-**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hesiode
+**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *id_HESIODE *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hesiode
 
 Eglé méprise ma tendresse,
 Séduite par les chants de mes heureux rivaux ;
@@ -196,7 +196,7 @@ Dois-je espérer encor que votre âme sensible
 Daigne aimer un berger et partager mes feux ?
 
 
-**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ovide
+**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *id_OVIDE *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ovide
 
 Cruel amour, funeste flamme !
 Faut-il encor t'abandonner mon âme ?
@@ -269,7 +269,7 @@ Le plus doux partage
 Est un tendre cour.
 
 
-**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_erithie
+**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *id_ERITHIE *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_erithie
 
 C'en est donc fait ; et dans quelques moments
 Diane à ses autels recevra mes serments.
@@ -309,7 +309,7 @@ Tout le peuple d'Ithome en veut être témoin,
 Et je dois dès ce jour...
 
 
-**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anacreon
+**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *id_ANACREON *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anacreon
 
 LeS beautés de Samos aux pieds de la Déesse
 Par votre ordre aujourd'hui vont présenter leurs voux ;
@@ -408,7 +408,7 @@ Est bientôt le maître,
 Et rit a son tour.
 
 
-**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polycrate
+**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *id_POLYCRATE *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polycrate
 
 On ne peut sur la tendresse
 Tromper les yeux d'Anacréon.
@@ -492,7 +492,7 @@ Accourez, chantez sa conquête
 Comme il a chanté vos plaisirs.
 
 
-**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_themire
+**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *id_THEMIRE *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_themire
 
 Je fuis les soupirs, les langueurs,
 Les soins, les tourments, les alarmes :

@@ -1,6 +1,6 @@
 
 
-**** *creator_crebillonf *book_crebillonf_nuitetlemoment *style_prose *genre_dialogue *dist1_crebillonf_prose_dialogue_nuitetlemoment *dist2_crebillonf_prose_dialogue *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cidalise
+**** *creator_crebillonf *book_crebillonf_nuitetlemoment *style_prose *genre_dialogue *dist1_crebillonf_prose_dialogue_nuitetlemoment *dist2_crebillonf_prose_dialogue *id_CIDALISE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cidalise
 
 Ah, bon dieu ! Clitandre, quoi ! C'est vous ?
 
@@ -610,7 +610,7 @@ Ah ! Clitandre, bien doucement, je vous prie.
 Hélas ! Vous n'avez que trop de talents, et si cela dépendait de moi, je donnerais volontiers ceux des vôtres, dont vous faites peut-être le plus de cas, pour la certitude que vous me serez fidèle.
 
 
-**** *creator_crebillonf *book_crebillonf_nuitetlemoment *style_prose *genre_dialogue *dist1_crebillonf_prose_dialogue_nuitetlemoment *dist2_crebillonf_prose_dialogue *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+**** *creator_crebillonf *book_crebillonf_nuitetlemoment *style_prose *genre_dialogue *dist1_crebillonf_prose_dialogue_nuitetlemoment *dist2_crebillonf_prose_dialogue *id_CLITANDRE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
 
 Votre surprise, Madame, a de quoi m'étonner ; je vous croyais accoutumée à me voir vous faire ma cour, et je ne comprends pas ce que vous trouvez de si extraordinaire dans la visite que je vous fais.
 

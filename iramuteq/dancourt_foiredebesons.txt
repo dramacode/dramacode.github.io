@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgriffard
+**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *id_MONSIEURGRIFFARD *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgriffard
 
 Est-il possible que je puisse être un seul moment sans songer à cette inhumaine de Cidalise.
 
@@ -115,7 +115,7 @@ Ma nièce !
 Le voulez-vous, Madame ? Je donnerai tout mon bien à ma filleule.
 
 
-**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mariane
+**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *id_MARIANE *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mariane
 
 Vous sortez toute seule, Chouchette, vous ne serez pas mal grondée.
 
@@ -186,7 +186,7 @@ Moi, mon père ?
 Je ne sais, mon père, vous m'avez commandé de signer, je me suis fait un devoir de vous obéir.
 
 
-**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *date_1695 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_chouchette
+**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *id_CHOUCHETTE *date_1695 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_chouchette
 
 Il en arrivera ce qu'il pourra ; puisqu'on ne me mène point promener en ce pays-ci, j'irai fort bien me promener toute seule.
 
@@ -253,7 +253,7 @@ Vous nous envoyez quérir pour être de la noce. Et est-ce que vous vous mariez,
 Volontiers ; je ne me fais pas prier, comme vous voyez. Et ne signez-vous-vous pas, ma chère bonne ?
 
 
-**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *id_CLITANDRE *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
 
 Éraste me fait bien attendre, et il n'a guères d'empressement pour un homme aussi passionné qu'il paraît l'être.
 
@@ -278,7 +278,7 @@ Fais-la venir, que nous lui parlions, je suis fort de ses amis, moi.
 Vous ne pouvez désapprouver le choix que j'ai fait, mon oncle, puisqu'il est si fort de votre goût.
 
 
-**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurguillemin
+**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *id_MONSIEURGUILLEMIN *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurguillemin
 
 J'en suis venu à bout, Madame : et grâce au Ciel, m'en voilà quitte.
 
@@ -331,7 +331,7 @@ Si l'on m'y rattrape de ma vie…
 Hom ! Carogne.
 
 
-**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameguillemin
+**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *id_MADAMEGUILLEMIN *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameguillemin
 
 Je ne sais à qui j'ai l'obligation de l'ajustement où me voilà ; mais on m'a fait si grand plaisir, que je ne puis remercier assez…
 
@@ -342,7 +342,7 @@ Hélas ! Vous le pouvez, Monsieur, vous m'y avez prise : mais comme le carross
 Sans rancune au moins, mon petit mari.
 
 
-**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *id_LECHEVALIER *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
 
 Bonjour, mon ami.
 
@@ -375,7 +375,7 @@ Tout cela s'accommodera, Mesdames ; avec nous autres gens de qualité, il faut 
 Ah, morbleu, que j'ai du chagrin !
 
 
-**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_labbe
+**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *id_LABBE *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_labbe
 
 Nous l'avons échappé belle, Madame. Et l'aventure qui vient d'arriver…
 
@@ -401,7 +401,7 @@ Vous vous emportez, je quitte la place.
 Nous savons où nous retrouver : sans adieu, Madame.
 
 
-**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cidalise
+**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *id_CIDALISE *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cidalise
 
 Ah Ciel ! Que vois-je ? L'heureuse rencontre ! Madame Argante à la Foire de Besons ! Hé, c'est vous, charmante personne !
 
@@ -506,7 +506,7 @@ Volontiers, Monsieur, je ne demande pas mieux ; mais il faut attendre que je so
 Depuis huit jours je suis votre nièce, je ne puis pas sitôt devenir votre femme.
 
 
-**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *id_ERASTE *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
 
 Mille pardons, mon cher Clitandre, j'abuse de toute manière des bontés que tu as pour moi.
 
@@ -554,7 +554,7 @@ Hé bien, oui, Madame, je suis Éraste.
 Vous y êtes venue malgré moi, Madame ; et je ne vous trahis point, je ne vous ai jamais aimée.
 
 
-**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameargante
+**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *id_MADAMEARGANTE *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameargante
 
 Ah, quelle cohue, ma pauvre Frosine ! Quelle cohue que cette Foire de Besons !
 
@@ -667,7 +667,7 @@ Nous sommes les dupes de tout ceci, Monsieur Griffard, et je ne sais pas comment
 Voilà qui est fait, Monsieur, j'y consens pour faire enrager votre famille.
 
 
-**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_frosine
+**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *id_FROSINE *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_frosine
 
 C'est une espèce de bal de campagne, où on laisse entrer tous les masques, comme vous voyez.
 
@@ -946,7 +946,7 @@ Voilà ces Demoiselles que je vous amène, Monsieur.
 Il faudra qu'elle soit bien égarée, si je ne trouve.
 
 
-**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lolive
+**** *creator_dancourt *book_dancourt_foiredebesons *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiredebesons *dist2_dancourt_prose_comedy *id_LOLIVE *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lolive
 
 Il m'envoie vous prier de ne vous point impatienter, Monsieur ; il va venir aussitôt qu'il sera débarrassé de Madame Argante.
 

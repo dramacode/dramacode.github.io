@@ -1,6 +1,6 @@
 
 
-**** *creator_andrieux *book_andrieux_anaximandre *style_verse *genre_comedy *dist1_andrieux_verse_comedy_anaximandre *dist2_andrieux_verse_comedy *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phrosine
+**** *creator_andrieux *book_andrieux_anaximandre *style_verse *genre_comedy *dist1_andrieux_verse_comedy_anaximandre *dist2_andrieux_verse_comedy *id_PHROSINE *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phrosine
 
 Ah, si je ris, ce n'est pas sans sujet :
 Je te mettrai bientôt dans le secret.
@@ -292,7 +292,7 @@ L'esprit et les talents sont bien ;
 Mais sans les Grâces, ce n'est rien.
 
 
-**** *creator_andrieux *book_andrieux_anaximandre *style_verse *genre_comedy *dist1_andrieux_verse_comedy_anaximandre *dist2_andrieux_verse_comedy *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aspasie
+**** *creator_andrieux *book_andrieux_anaximandre *style_verse *genre_comedy *dist1_andrieux_verse_comedy_anaximandre *dist2_andrieux_verse_comedy *id_ASPASIE *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aspasie
 
       Je venais pour vous dire...
 
@@ -508,7 +508,7 @@ Formé par vous, ce coeur est votre bien :
 Je vous le dois, et ne vous donne rien.
 
 
-**** *creator_andrieux *book_andrieux_anaximandre *style_verse *genre_comedy *dist1_andrieux_verse_comedy_anaximandre *dist2_andrieux_verse_comedy *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anaximandre
+**** *creator_andrieux *book_andrieux_anaximandre *style_verse *genre_comedy *dist1_andrieux_verse_comedy_anaximandre *dist2_andrieux_verse_comedy *id_ANAXIMANDRE *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anaximandre
 
 Cette enfant là me tourne la cervelle ;
 Je ne vois plus, je ne rêve plus qu'elle.

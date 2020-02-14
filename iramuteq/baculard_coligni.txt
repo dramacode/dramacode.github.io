@@ -1,6 +1,6 @@
 
 
-**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_coligny
+**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *id_COLIGNY *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_coligny
 
 Où portai-je mes pas... Où suis-je... Quel réveil ?...
 Quels cris se font entendre au milieu du sommeil ?...
@@ -310,7 +310,7 @@ C'est pour sentir les coups d'une nouvelle mort...
 Mon fils... Mon Dieu... Je meurs.
 
 
-**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hamilton
+**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *id_HAMILTON *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hamilton
 
 Ô Nuit, trop lente nuit, permets que la vengeance
 T'adresse ici ses voeux et son impatience:
@@ -725,7 +725,7 @@ Il n'est plus, et je vis, sur ce premier dégré,
 Mon pouvoir chancelant est enfin assuré.
 
 
-**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *date_1739 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_teligni
+**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *id_TELIGNI *date_1739 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_teligni
 
       Où courrez-vous, Seigneur ?
 Allez-vous d'un vil peuple assouvir la fureur...
@@ -867,7 +867,7 @@ Et de Rome ébranlée avançant la ruine
 Lui rendre tous les coups dont elle m'assassine.
 
 
-**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marsillac
+**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *id_MARSILLAC *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marsillac
 
 Ô Mon cher Lavardin, où courir, où trouver
 Ce Héros malheureux que nous devons sauver ?
@@ -1073,7 +1073,7 @@ La pitié rentrera dans ces coeurs inhumains,
 Le peuple...
 
 
-**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lavardin
+**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *id_LAVARDIN *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lavardin
 
 Pour lui nous donnerions nos biens et notre vie,
 Si d'avides bourreaux repaissant la furie,
@@ -1112,7 +1112,7 @@ Nous sommes immolés des mains mêmes du Roi !
 Et pour qui vivrait-il si vous perdez la vie ?
 
 
-**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_beme
+**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *id_BEME *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_beme
 
 Tous sauront obéir, et d'un bras assuré,
 Servant Rome, Paris, Médicis, et vous-même,
@@ -1176,7 +1176,7 @@ Monstre d'impiété, tu me fait trop d'horreur...
 J'emporte mes bourreaux dans le fond de mon coeur.
 
 
-**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tavanne
+**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *id_TAVANNE *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tavanne
 
 Pardonnez, de mes sens la faiblesse s'empare
 Daignez me rassurer, me rendre assez barbare
@@ -1227,7 +1227,7 @@ Ne pouvons-nous du moins épargner ce vieillard ?...
 Je ne puis soutenir ce spectacle inhumain.
 
 
-**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bussi
+**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *id_BUSSI *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bussi
 
 Amis, je crois entendre un nouveau Samuel.
 

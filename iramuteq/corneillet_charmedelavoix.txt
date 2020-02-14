@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillet *book_corneillet_charmedelavoix *style_verse *genre_comedy *dist1_corneillet_verse_comedy_charmedelavoix *dist2_corneillet_verse_comedy *date_1658 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_leduc
+**** *creator_corneillet *book_corneillet_charmedelavoix *style_verse *genre_comedy *dist1_corneillet_verse_comedy_charmedelavoix *dist2_corneillet_verse_comedy *id_le-duc *date_1658 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_leduc
 
 Si tu peux à mon mal trouver quelque remede⁎…
 Mais verray-je en tous lieux que Federic m'obsede⁎,
@@ -683,7 +683,7 @@ Quoy, c'est donc vous, Madame ? ô bonheur, ô miracle !
 Puis-je assez m'excuser, Madame…
 
 
-**** *creator_corneillet *book_corneillet_charmedelavoix *style_verse *genre_comedy *dist1_corneillet_verse_comedy_charmedelavoix *dist2_corneillet_verse_comedy *date_1658 *sexe_feminin *age_veteran *statut_maitre *fonction_autres *role_laduchesse
+**** *creator_corneillet *book_corneillet_charmedelavoix *style_verse *genre_comedy *dist1_corneillet_verse_comedy_charmedelavoix *dist2_corneillet_verse_comedy *id_la-duchesse *date_1658 *sexe_feminin *age_veteran *statut_maitre *fonction_autres *role_laduchesse
 
 Celles qui comme nous naissent dans ce haut rang
 Doivent ce sacrifice à l'éclat de leur sang.
@@ -1043,7 +1043,7 @@ D'asseurer à Carlos le bon-heur qu'il espere.
 A l'amour de Carlos voudrez-vous mettre obstacle ?
 
 
-**** *creator_corneillet *book_corneillet_charmedelavoix *style_verse *genre_comedy *dist1_corneillet_verse_comedy_charmedelavoix *dist2_corneillet_verse_comedy *date_1658 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_federic
+**** *creator_corneillet *book_corneillet_charmedelavoix *style_verse *genre_comedy *dist1_corneillet_verse_comedy_charmedelavoix *dist2_corneillet_verse_comedy *id_federic *date_1658 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_federic
 
 Il faut vous retirer⁎, le Duc est de retour,
 Ma Fille, et son chagrin, qu'aucun plaisir n'efface
@@ -1216,7 +1216,7 @@ Recevez-le, Madame, et souffrez qu'à genoux…
 Ce que d'un bon sujet vous avez droit d'attendre.
 
 
-**** *creator_corneillet *book_corneillet_charmedelavoix *style_verse *genre_comedy *dist1_corneillet_verse_comedy_charmedelavoix *dist2_corneillet_verse_comedy *date_1658 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_carlos
+**** *creator_corneillet *book_corneillet_charmedelavoix *style_verse *genre_comedy *dist1_corneillet_verse_comedy_charmedelavoix *dist2_corneillet_verse_comedy *id_carlos *date_1658 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_carlos
 
 Seigneur, vous me verrez sans doute avecque joye,
 Apprenant que vers vous la Duchesse m'envoye,
@@ -1497,7 +1497,7 @@ Et vous auriez déjà cognu par quelle adresse,
 Où vous croyez ma sœur, vous croyez la Duchesse.
 
 
-**** *creator_corneillet *book_corneillet_charmedelavoix *style_verse *genre_comedy *dist1_corneillet_verse_comedy_charmedelavoix *dist2_corneillet_verse_comedy *date_1658 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_fenise
+**** *creator_corneillet *book_corneillet_charmedelavoix *style_verse *genre_comedy *dist1_corneillet_verse_comedy_charmedelavoix *dist2_corneillet_verse_comedy *id_fenise *date_1658 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_fenise
 
 Apres douze ans d'exil te faut-il estonner
 Si l'ordre qui m'en tire a dequoy me gesner⁎ ?
@@ -2137,7 +2137,7 @@ Dans un pareil succez à vostre espoir si doux,
 Si vous sçaviez aimer, le demanderiez-vous ?
 
 
-**** *creator_corneillet *book_corneillet_charmedelavoix *style_verse *genre_comedy *dist1_corneillet_verse_comedy_charmedelavoix *dist2_corneillet_verse_comedy *date_1658 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_laure
+**** *creator_corneillet *book_corneillet_charmedelavoix *style_verse *genre_comedy *dist1_corneillet_verse_comedy_charmedelavoix *dist2_corneillet_verse_comedy *id_laure *date_1658 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_laure
 
 Quoy , lors que dans ces lieux tout le monde s'appreste
 Au spectacle pompeux⁎ d'une superbe feste,
@@ -2326,7 +2326,7 @@ C'est vostre seule voix, vous dis-je, qu'il adore,
 Quoy qu'il proteste⁎ icy, l'espreuve en fera foy.
 
 
-**** *creator_corneillet *book_corneillet_charmedelavoix *style_verse *genre_comedy *dist1_corneillet_verse_comedy_charmedelavoix *dist2_corneillet_verse_comedy *date_1658 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_fabrice
+**** *creator_corneillet *book_corneillet_charmedelavoix *style_verse *genre_comedy *dist1_corneillet_verse_comedy_charmedelavoix *dist2_corneillet_verse_comedy *id_fabrice *date_1658 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_fabrice
 
 Elle a de tous vos maux la guerison certaine, 
 Vous en avez douté, vous en souffrez la peine.
@@ -2664,7 +2664,7 @@ Tout cela c'est fadaise ; ainsi jusqu'au revoir,    
 Sans autre compliment donnons-luy le bon-soir.
 
 
-**** *creator_corneillet *book_corneillet_charmedelavoix *style_verse *genre_comedy *dist1_corneillet_verse_comedy_charmedelavoix *dist2_corneillet_verse_comedy *date_1658 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_camille
+**** *creator_corneillet *book_corneillet_charmedelavoix *style_verse *genre_comedy *dist1_corneillet_verse_comedy_charmedelavoix *dist2_corneillet_verse_comedy *id_camille *date_1658 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_camille
 
 La réponce est bien courte.
 

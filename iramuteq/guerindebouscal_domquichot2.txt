@@ -1,6 +1,6 @@
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_domquichot
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *id_domquichot *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_domquichot
 
 Ne m'importune plus.
 
@@ -868,7 +868,7 @@ Retournons chez le Duc, où nous le sçaurons mieux.
 Ne vous tourmentez point, suivez-moy seulement.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_sanche
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *id_sanche *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_sanche
 
 Maudite ambition, que voulez-vous de moy !
 Où me conduisez-vous ?
@@ -1818,7 +1818,7 @@ Poursuivez seulement le dessein d'estre Roy,
 Je vous responds tousjours de mon asne & de moy.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_laniepce
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *id_laniepce *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_laniepce
 
       Quoy partir ?
 
@@ -1867,7 +1867,7 @@ Dans des deserts⁎ affreux comme un esprit damné ?
 Ils s'en vont comploter leur troisiesme saillie⁎.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_therese
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *id_therese *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_therese
 
       He bien tu vas partir ?
 Tu vas donc me quitter ! y peux-tu consentir ?
@@ -1927,7 +1927,7 @@ Nos marys peuvent tant sur nous & sur nos biens,
 Qu'il leur faut obeïr quand ils seroient des chiens.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_domlope
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *id_domlope *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_domlope
 
       Oüy, c'est moy grosses bestes.
 
@@ -1974,7 +1974,7 @@ Mon armet à mon front avec des clous d'aimant.
       Allez plus loin de nous.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lebarbier
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *id_lebarbier *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lebarbier
 
       Il n'en faut plus douter,
 Le bon-homme mourra dans son extravagance.
@@ -2192,7 +2192,7 @@ Vous vous en souviendrez.
 Vous puissé-je razer dedans nostre village.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_leduc
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *id_leduc *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_leduc
 
 Que cett'heure est charmante, & que mon oeil adore
 Ces rayons de clarté dont le Ciel se colore !
@@ -2378,7 +2378,7 @@ Madame Dulcinée.
 Sur cela, Dom Quichot, je vous baise les mains.1
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_laduchesse
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *id_laduchesse *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_laduchesse
 
 Que je prens de plaisir à voir le jour naissant,
 Et ce nuage peint d'un pourpre jaunissant !
@@ -2560,7 +2560,7 @@ Que dit à cela Sanche ?
 Ainsi tousjours le Ciel responde à vos desseins.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_laumosnier
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *id_laumosnier *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_laumosnier
 
       On le croit bien ainsi.
 
@@ -2612,7 +2612,7 @@ Ah Monsieur ! c'est assez, je ne puis plus les voir,
 Je me console au moins que j'ay fait mon debvoir.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_premierheraut
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *id_premierheraut *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_premierheraut
 
 Les filles du Sophy que la Perse revere.
 
@@ -2634,7 +2634,7 @@ Vous ne sçauriez choisir sans gaigner un Empire.
 Et bien retirons-nous.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lediable
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *id_lediable *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lediable
 
       Monsieur je suis le Diable,
 Qui cherche Dom Quichot.
@@ -2665,7 +2665,7 @@ Ainsi valeureux Dom Quichot,
 Si vous me croyez tel, vous estes un grand sot.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_merlin
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot2 *style_verse *genre_comédie *dist1_guerindebouscal_verse_comédie_domquichot2 *dist2_guerindebouscal_verse_comédie *id_merlin *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_merlin
 
 Levez-vous, je le veux, & Madame y consent.
 Je suis ce grand Merlin, qu'on chante dans la fable

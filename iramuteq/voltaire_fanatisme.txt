@@ -1,6 +1,6 @@
 
 
-**** *creator_voltaire *book_voltaire_fanatisme *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_fanatisme *dist2_voltaire_verse_tragedy *date_1742 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mahomet
+**** *creator_voltaire *book_voltaire_fanatisme *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_fanatisme *dist2_voltaire_verse_tragedy *id_MAHOMET *date_1742 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mahomet
 
 Invincibles soutiens de mon pouvoir suprême,
 Noble et sublime Ali, Morad, Hercide, Ammon,
@@ -442,7 +442,7 @@ Je dois régir en dieu l'univers prévenu ;
 Mon empire est détruit si l'homme est reconnu.
 
 
-**** *creator_voltaire *book_voltaire_fanatisme *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_fanatisme *dist2_voltaire_verse_tragedy *date_1742 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zopire
+**** *creator_voltaire *book_voltaire_fanatisme *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_fanatisme *dist2_voltaire_verse_tragedy *id_ZOPIRE *date_1742 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zopire
 
 Qui ? Moi, baisser les yeux devant ses faux prodiges !
 Moi, de ce fanatique encenser les prestiges !
@@ -870,7 +870,7 @@ Je meurs. Sauvez, grands dieux ! De tant de barbarie
 Mes deux enfants que j'aime, et qui m'ôtent la vie.
 
 
-**** *creator_voltaire *book_voltaire_fanatisme *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_fanatisme *dist2_voltaire_verse_tragedy *date_1742 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_omar
+**** *creator_voltaire *book_voltaire_fanatisme *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_fanatisme *dist2_voltaire_verse_tragedy *id_OMAR *date_1742 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_omar
 
       Je veux te pardonner.
 Le prophète d'un dieu, par pitié pour ton âge,
@@ -1157,7 +1157,7 @@ Mais vainement armés contre un pareil orage,
 Viennent tous à tes pieds mourir avec courage.
 
 
-**** *creator_voltaire *book_voltaire_fanatisme *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_fanatisme *dist2_voltaire_verse_tragedy *date_1742 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_seide
+**** *creator_voltaire *book_voltaire_fanatisme *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_fanatisme *dist2_voltaire_verse_tragedy *id_SEIDE *date_1742 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_seide
 
 Ô charme de ma vie et de tous mes malheurs !
 Palmire, unique objet qui m'a coûté des pleurs,
@@ -1503,7 +1503,7 @@ Tremble ; son bras s'essaie à frapper ses victimes.
 Détournez d'elle, ô dieu ! Cette mort qui me suit !
 
 
-**** *creator_voltaire *book_voltaire_fanatisme *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_fanatisme *dist2_voltaire_verse_tragedy *date_1742 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_palmire
+**** *creator_voltaire *book_voltaire_fanatisme *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_fanatisme *dist2_voltaire_verse_tragedy *id_PALMIRE *date_1742 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_palmire
 
 Seigneur, depuis deux mois sous vos lois prisonnière,
 Je dus à mes destins pardonner ma misère ;
@@ -1837,7 +1837,7 @@ Réserve un avenir pour les coeurs innocents.
 Tu dois régner ; le monde est fait pour les tyrans.
 
 
-**** *creator_voltaire *book_voltaire_fanatisme *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_fanatisme *dist2_voltaire_verse_tragedy *date_1742 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phanor
+**** *creator_voltaire *book_voltaire_fanatisme *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_fanatisme *dist2_voltaire_verse_tragedy *id_PHANOR *date_1742 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phanor
 
 Nous chérissons en vous ce zèle paternel
 Du chef auguste et saint du sénat d'Ismaël ;

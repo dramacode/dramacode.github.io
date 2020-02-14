@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgrognac
+**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *id_MONSIEURGROGNAC *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgrognac
 
 L'étrange chose que le monde ! Et qu'il est malaisé de vivre content ! Je suis riche et veuf, exempt d'avarice, sans ambition, sans amour, et je ne suis pas heureux. Il est vrai que j'ai une sœur tout à fait folle, et deux filles qui ne seront pas trop sages, peut-être. Ah, qu'on est sot de faire des enfants, et de n'être pas tout seul de la famille !
 
@@ -85,7 +85,7 @@ On nous joue, Monsieur Filassier, sur ma parole.
 Pour vous, ou pour lui, cela m'est indifférent, pourvu que ce ne soit pas une vraie folie ; et que ma sœur…
 
 
-**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamejaquinet
+**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *id_MADAMEJAQUINET *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamejaquinet
 
 Hé, laquais, laquais, holà, laquais, petit laquais.
 
@@ -187,7 +187,7 @@ Démons, démons, détruisez ce Palais,
 Détruisez ce Palais.
 
 
-**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurfilassier
+**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *id_MONSIEURFILASSIER *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurfilassier
 
 Ah ! Te voilà. Bonjour, Lisette.
 
@@ -294,7 +294,7 @@ De quelque manière que la chose puisse être, je vous demande votre fille pour 
 Entrons là-dedans, nous y parlerons sérieusement de cette affaire. Allons, Monsieur Grognac, venez.
 
 
-**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_angelique
+**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *id_ANGELIQUE *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_angelique
 
 Hé bien, ma pauvre Lisette, as-tu sondé l'esprit de mon père sur mon mariage ? Est-il toujours dans la résolution…
 
@@ -371,7 +371,7 @@ Soyez sûre d'une parfaite reconnaissance, si vous réussissez à nous rendre he
 Est-il vrai, mon père, que ce jeune Monsieur qui a perdu l'esprit est le fils de Monsieur Filassier ?
 
 
-**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mimi
+**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *id_MIMI *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mimi
 
 Ma chère Lisette, que je t'embrasse.
 
@@ -420,7 +420,7 @@ Hé, vraiment oui, c'est lui-même, vous dis-je ; je m'en vais dire à ma tante
 Non, non, je m'en vais vous l'amener, laissez-moi, faire.
 
 
-**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *id_CLITANDRE *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
 
 Hé bien, Lolive, as-tu trouvé…
 
@@ -480,7 +480,7 @@ Dans l'indigne état où je suis.
 Mon père, je vous demande…
 
 
-**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lolive
+**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *id_LOLIVE *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lolive
 
 Faites-moi, s'il vous plaît, la grâce de m'enseigner l'appartement de Madame Jaquinet. Je ne trouve personne ici.
 
@@ -696,7 +696,7 @@ Et va, va, mon enfant, tu n'en mourras pas non plus qu'une autre.
 Oui vraiment.
 
 
-**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisette
+**** *creator_dancourt *book_dancourt_renaudarmide *style_prose *genre_comedy *dist1_dancourt_prose_comedy_renaudarmide *dist2_dancourt_prose_comedy *id_LISETTE *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisette
 
 Qu'avez-vous donc, Monsieur ? Vous êtes toujours chagrin, et depuis dix ans que je vous sers, je ne vous ai jamais vu de bonne humeur, pas même à la mort de Madame votre femme. En vérité, je ne vous comprends point ; et j'avais toujours ouï dire, moi, que les plus grands fous avaient quelquefois de bons intervalles.
 

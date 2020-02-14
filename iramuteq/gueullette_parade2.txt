@@ -1,6 +1,6 @@
 
 
-**** *creator_gueullette *book_gueullette_parade2 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade2 *dist2_gueullette_prose_farce *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
+**** *creator_gueullette *book_gueullette_parade2 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade2 *dist2_gueullette_prose_farce *id_GILLES *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
 
 Ce sont des gens qui m'en veulent qui vous ont parlé ainsi. Il est vrai qu'il m'est arrivé quelquefois d'avoir à faire à des filous bien subtils. Mais, ma foi, de plus fins que moi y auraient été attrapés. Aujourd'hui, Monsieur, je suis plus sur mes gardes, et je veux que le diable m'arrache quatre de vos meilleures dents s'ils ont quelque prise sur moi.
 
@@ -552,7 +552,7 @@ Je le souhaite. Mais, parguenne, je crains bien que l'histoire de l'araignée ne
 À propos, nôtre maître, j'ai oublié de vous dire, de la part de Mademoiselle Isabelle, que vous ne lui donniez pas de tripaille. Elle dit que toutes les fois qu'elle vous voit vous ne lui présentez que du mou. Dame ! elle en est bien lasse.
 
 
-**** *creator_gueullette *book_gueullette_parade2 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade2 *dist2_gueullette_prose_farce *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_prendstout
+**** *creator_gueullette *book_gueullette_parade2 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade2 *dist2_gueullette_prose_farce *id_PRENDSTOUT *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_prendstout
 
 Oh ! Parbleu, camarade, je viens d'entendre Monsieur Cassandre donner à Gilles une commission qui m'a fait grand plaisir. Nous n'avons rien de gras pour souper ce soir. Il faut que nous enlevions une couple de lapins qu'il va porter au procureur de ce vieux fou.
 
@@ -649,7 +649,7 @@ Eh ! Que ne les avez-vous donnés il y a un quart d'heure ? Je cours à toutes j
 Adieu, Monsieur Gilles Cadet L'Aîné.
 
 
-**** *creator_gueullette *book_gueullette_parade2 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade2 *dist2_gueullette_prose_farce *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laisserien
+**** *creator_gueullette *book_gueullette_parade2 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade2 *dist2_gueullette_prose_farce *id_LAISSERIEN *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laisserien
 
 C'est, mordi, bien imaginé.
 

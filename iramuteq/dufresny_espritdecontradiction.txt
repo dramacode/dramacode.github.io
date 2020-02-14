@@ -1,6 +1,6 @@
 
 
-**** *creator_dufresny *book_dufresny_espritdecontradiction *style_prose *genre_comedy *dist1_dufresny_prose_comedy_espritdecontradiction *dist2_dufresny_prose_comedy *date_1700 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucas
+**** *creator_dufresny *book_dufresny_espritdecontradiction *style_prose *genre_comedy *dist1_dufresny_prose_comedy_espritdecontradiction *dist2_dufresny_prose_comedy *id_LUCAS *date_1700 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucas
 
 Morgué de la contrediseuse, et de sa cotredition.
 
@@ -145,7 +145,7 @@ Vené don vite, Madame, vla des jeunes gens qui se querellont, vené vite les s�
 Je vous avais ben dit, Madame, qui s'aimaient l'un l'autre.
 
 
-**** *creator_dufresny *book_dufresny_espritdecontradiction *style_prose *genre_comedy *dist1_dufresny_prose_comedy_espritdecontradiction *dist2_dufresny_prose_comedy *date_1700 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+**** *creator_dufresny *book_dufresny_espritdecontradiction *style_prose *genre_comedy *dist1_dufresny_prose_comedy_espritdecontradiction *dist2_dufresny_prose_comedy *id_ANGELIQUE *date_1700 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
 Que souhaitez-vous de moi , ma mère ?
 
@@ -284,7 +284,7 @@ Je ne serai pas mariée pour cela ; car mon père ne veut pas signer.
 Je me jette à vos pieds, ma mère,
 
 
-**** *creator_dufresny *book_dufresny_espritdecontradiction *style_prose *genre_comedy *dist1_dufresny_prose_comedy_espritdecontradiction *dist2_dufresny_prose_comedy *date_1700 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+**** *creator_dufresny *book_dufresny_espritdecontradiction *style_prose *genre_comedy *dist1_dufresny_prose_comedy_espritdecontradiction *dist2_dufresny_prose_comedy *id_VALERE *date_1700 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
 
 Voici encore, Mademoiselle, et j'ai résolu de ne point retourner à Paris que vous ne vous soyez expliquée avec moi. Je vous l'avoue, vos manières ont mis ma patience à bout ; je suis outré, non, je ne me possède plus, quand je pense que depuis le temps que je viens céans, ni mon amour, ni mon respect, ni mes prières, ni mes reproches, n'ont encore pu vous arracher une seule parole, sur quoi je puisse tabler... Quand je vous parle de la plus violente passion qui fut jamais, vous m'écoutez avec une tranquillité, une indolence incompréhensible : car enfin on témoigne aux gens ou de la reconnaissance ou du mépris, ou de la pitié, ou de la colère. Juste ciel ! Que dois- je donc juger d'un silence si obstiné !
 

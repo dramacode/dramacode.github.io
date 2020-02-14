@@ -1,6 +1,6 @@
 
 
-**** *creator_aigueberre *book_aigueberre_panetdoris *style_verse *genre_pastorale *dist1_aigueberre_verse_pastorale_panetdoris *dist2_aigueberre_verse_pastorale *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pan
+**** *creator_aigueberre *book_aigueberre_panetdoris *style_verse *genre_pastorale *dist1_aigueberre_verse_pastorale_panetdoris *dist2_aigueberre_verse_pastorale *id_PAN *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pan
 
 Amour, le Dieu des Bois Implore ta toute puissance :
 Sauve-moi la douleur de revoir en ces lieux,
@@ -81,7 +81,7 @@ D'un triomphe si doux,
 Vous partagez la gloire.
 
 
-**** *creator_aigueberre *book_aigueberre_panetdoris *style_verse *genre_pastorale *dist1_aigueberre_verse_pastorale_panetdoris *dist2_aigueberre_verse_pastorale *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_doris
+**** *creator_aigueberre *book_aigueberre_panetdoris *style_verse *genre_pastorale *dist1_aigueberre_verse_pastorale_panetdoris *dist2_aigueberre_verse_pastorale *id_DORIS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_doris
 
 Quoi, toujours agité d'une douleur mortelle !
 
@@ -151,7 +151,7 @@ C'est le Dieu d'amour lui-même.
 Qui me fait chérir mon erreur.
 
 
-**** *creator_aigueberre *book_aigueberre_panetdoris *style_verse *genre_pastorale *dist1_aigueberre_verse_pastorale_panetdoris *dist2_aigueberre_verse_pastorale *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_palemon
+**** *creator_aigueberre *book_aigueberre_panetdoris *style_verse *genre_pastorale *dist1_aigueberre_verse_pastorale_panetdoris *dist2_aigueberre_verse_pastorale *id_PALEMON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_palemon
 
 Je viens revoir les lieux où j'ai pris la naissance.
 
@@ -204,7 +204,7 @@ Loin des lieux où l'on vient de ravir votre foi,
 Je vais pleurer un bien qui n'était dû qu'à moi.
 
 
-**** *creator_aigueberre *book_aigueberre_panetdoris *style_verse *genre_pastorale *dist1_aigueberre_verse_pastorale_panetdoris *dist2_aigueberre_verse_pastorale *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_arcas
+**** *creator_aigueberre *book_aigueberre_panetdoris *style_verse *genre_pastorale *dist1_aigueberre_verse_pastorale_panetdoris *dist2_aigueberre_verse_pastorale *id_ARCAS *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_arcas
 
 Palémon sur ces bords, vient de frapper mes yeux.
 

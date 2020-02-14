@@ -1,6 +1,6 @@
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moliere
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_MOLIERE *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moliere
 
 Je ne sais que penser de mon ami Chapelle ;
 Veut-il me rendre fou ? Dans l'excès de son zèle,
@@ -553,7 +553,7 @@ Lançons des traits plus vifs : aux pâles envieux
 Que mon dernier regard fasse baisser les yeux.
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *date_1802 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamoliere
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_LAMOLIERE *date_1802 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamoliere
 
 Du bon vin ! Du bon vin ! Voilà comme vous êtes !
 Boire et passer vos nuits dans les jeux, dans les fêtes,
@@ -713,7 +713,7 @@ Pleure, pleure, ma fille, à ta douleur sincère
 Je viens mêler la mienne. Il est trop vrai, ton père.
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *date_1802 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_ISABELLE *date_1802 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
 
 Ah ! Je crains qu'il ne touche à son terme fatal.
 Plus que jamais il souffre, et j'en suis désolée.
@@ -862,7 +862,7 @@ Tel qu'il est dans mon cour, le pinceau l'a rendu.
 Ah !!! Ce mot a suffi pour me donner la mort.
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chapelle
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_CHAPELLE *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chapelle
 
 Le voilà, mon ami, votre ouvrage est divin.
 
@@ -1154,7 +1154,7 @@ Il faut des lauriers au génie,
 Et plus encore à la vertu.
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_baron
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_BARON *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_baron
 
 Ah ! J'ai sujet de l'être.
 
@@ -1296,7 +1296,7 @@ Quand on a Molière pour maître,
 Pourrait-on ne pas réussir ?
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_montausier
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_MONTAUSIER *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_montausier
 
 De Molière, toujours, j'estimai les talents,
 Et la plus juste crainte a passé dans mes sens,
@@ -1424,7 +1424,7 @@ Si la couronne est sur sa tête,
 Il a des autels dans nos cours.
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pirlon
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_PIRLON *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pirlon
 
 Comment se porte-t-il ?
 
@@ -1477,7 +1477,7 @@ Alceste bafoué. Fidèle à son devoir,
 Alceste le remplit avec exactitude.
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *date_1802 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laforet
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_LAFORET *date_1802 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laforet
 
       Qu'est-ce ?
 
@@ -1528,7 +1528,7 @@ Et d'où vient son désastre ?
 Laisserez vous entrer le Docteur Mauvillain ?
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesbin
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_LESBIN *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesbin
 
       Non, Monsieur.
 
@@ -1539,7 +1539,7 @@ Mignard envoie ici le portrait de Molière.
 Et Mignard va bientôt venir ici lui-même.
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *date_1802 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_chapelle
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_CHAPELLE *date_1802 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_chapelle
 
 Le voilà, mon ami, votre ouvrage est divin.
 
@@ -1831,7 +1831,7 @@ Il faut des lauriers au génie,
 Et plus encore à la vertu.
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_baron
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_BARON *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_baron
 
 Ah ! J'ai sujet de l'être.
 
@@ -1973,7 +1973,7 @@ Quand on a Molière pour maître,
 Pourrait-on ne pas réussir ?
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mignard
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_MIGNARD *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mignard
 
 Moi, je viens, mes amis, le pleurer avec vous.
 Molière ne vit plus !...

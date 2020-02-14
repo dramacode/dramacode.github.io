@@ -1,6 +1,6 @@
 
 
-**** *creator_nivelle *book_nivelle_ecoledesamis *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecoledesamis *dist2_nivelle_verse_comedy *date_1737 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hortense
+**** *creator_nivelle *book_nivelle_ecoledesamis *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecoledesamis *dist2_nivelle_verse_comedy *id_HORTENSE *date_1737 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hortense
 
 Monsieur, j'ai su l'honneur que vous vouliez me faire.
 
@@ -534,7 +534,7 @@ Qu'entends-je ?
 J'ai des torts avec vous.
 
 
-**** *creator_nivelle *book_nivelle_ecoledesamis *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecoledesamis *dist2_nivelle_verse_comedy *date_1737 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clorine
+**** *creator_nivelle *book_nivelle_ecoledesamis *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecoledesamis *dist2_nivelle_verse_comedy *id_CLORINE *date_1737 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clorine
 
 Quoi, vous voulez sortir ?
 
@@ -893,7 +893,7 @@ Vous l'allez voir paraître ; il marche sur mes pas.
       Est-il possible ?
 
 
-**** *creator_nivelle *book_nivelle_ecoledesamis *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecoledesamis *dist2_nivelle_verse_comedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monrose
+**** *creator_nivelle *book_nivelle_ecoledesamis *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecoledesamis *dist2_nivelle_verse_comedy *id_MONROSE *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monrose
 
       Laisse-moi, je te prie.
 Je ne puis différer ma première sortie,
@@ -1639,7 +1639,7 @@ Monsieur, je ne puis rien vous offrir davantage.
 Qu'un ami véritable est ton plus grand présent.
 
 
-**** *creator_nivelle *book_nivelle_ecoledesamis *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecoledesamis *dist2_nivelle_verse_comedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dornane
+**** *creator_nivelle *book_nivelle_ecoledesamis *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecoledesamis *dist2_nivelle_verse_comedy *id_DORNANE *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dornane
 
 Serviteur au Baron. J'aime à te rencontrer.
 Qu'as-tu fait de Monrose ?
@@ -1986,7 +1986,7 @@ Je m'en vais à la Cour savoir ce qui s'y passe ;
 Et je te l'écrirai. Serviteur ; je t'embrasse.
 
 
-**** *creator_nivelle *book_nivelle_ecoledesamis *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecoledesamis *dist2_nivelle_verse_comedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aramont
+**** *creator_nivelle *book_nivelle_ecoledesamis *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecoledesamis *dist2_nivelle_verse_comedy *id_ARAMONT *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aramont
 
 Eh bien ! où sont-ils donc fourrez ? Hola, quelqu'un ?
 
@@ -2684,7 +2684,7 @@ J'ai pensé m'en douter.
 Pour moi, je vous réponds que je n'en garde aucune.
 
 
-**** *creator_nivelle *book_nivelle_ecoledesamis *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecoledesamis *dist2_nivelle_verse_comedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ariste
+**** *creator_nivelle *book_nivelle_ecoledesamis *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecoledesamis *dist2_nivelle_verse_comedy *id_ARISTE *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ariste
 
 Ce portrait-là, Monsieur, est celui de l'amour.
 

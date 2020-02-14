@@ -1,6 +1,6 @@
 
 
-**** *creator_carmontelle *book_carmontelle_abbedeplatre *style_prose *genre_comedy *dist1_carmontelle_prose_comedy_abbedeplatre *dist2_carmontelle_prose_comedy *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdeleurmont
+**** *creator_carmontelle *book_carmontelle_abbedeplatre *style_prose *genre_comedy *dist1_carmontelle_prose_comedy_abbedeplatre *dist2_carmontelle_prose_comedy *id_MONSIEURDELEURMONT *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdeleurmont
 
 Oui, je suis assez content de mon jardin : mais, Laurent, je voudrais... Eh bien, où est-il donc ? Laurent.
 
@@ -181,7 +181,7 @@ Oui, oui ; et pour réparer le temps perdu, envoyons chercher un Notaire ; et en
 Ah ! Fort bien ! Mon ami, dans notre jeunesse, nous en aurions fait autant. Allons, allons, je pardonne à ma fille de mieux aimer la copie que l'original.
 
 
-**** *creator_carmontelle *book_carmontelle_abbedeplatre *style_prose *genre_comedy *dist1_carmontelle_prose_comedy_abbedeplatre *dist2_carmontelle_prose_comedy *date_1779 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_mademoiselleagathe
+**** *creator_carmontelle *book_carmontelle_abbedeplatre *style_prose *genre_comedy *dist1_carmontelle_prose_comedy_abbedeplatre *dist2_carmontelle_prose_comedy *id_MADEMOISELLEAGATHE *date_1779 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_mademoiselleagathe
 
 Ah !
 
@@ -264,7 +264,7 @@ Ah ! Je respire !
 Ah ! Mon père !... Quoi, Monsieur, il serait bien vrai ?
 
 
-**** *creator_carmontelle *book_carmontelle_abbedeplatre *style_prose *genre_comedy *dist1_carmontelle_prose_comedy_abbedeplatre *dist2_carmontelle_prose_comedy *date_1779 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_monsieurdesaintival
+**** *creator_carmontelle *book_carmontelle_abbedeplatre *style_prose *genre_comedy *dist1_carmontelle_prose_comedy_abbedeplatre *dist2_carmontelle_prose_comedy *id_MONSIEURDESAINTIVAL *date_1779 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_monsieurdesaintival
 
 Tu dis que Monsieur de Leurmont va arriver de Paris ?
 
@@ -471,7 +471,7 @@ Oui, c'est moi, qui ne cesserai jamais de vous adorer.
 Non, rien ne peut égaler l'excès de ma joie !
 
 
-**** *creator_carmontelle *book_carmontelle_abbedeplatre *style_prose *genre_comedy *dist1_carmontelle_prose_comedy_abbedeplatre *dist2_carmontelle_prose_comedy *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_labrie
+**** *creator_carmontelle *book_carmontelle_abbedeplatre *style_prose *genre_comedy *dist1_carmontelle_prose_comedy_abbedeplatre *dist2_carmontelle_prose_comedy *id_LABRIE *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_labrie
 
 Oui, Monsieur, avec Mademoiselle Agathe ; le carrosse était à leur porte lorsque je suis parti, et suis venu au grand galop : mais vous savez que de Paris à Pantin il n'y a que cinq quarts de lieue.
 
@@ -589,7 +589,7 @@ Ne vous montrez pas encore.
 Pour le cacher, afin que vous crussiez que celui-ci était le vôtre, et qu'il pût savoir de Mademoiselle s'il en était aimé.
 
 
-**** *creator_carmontelle *book_carmontelle_abbedeplatre *style_prose *genre_comedy *dist1_carmontelle_prose_comedy_abbedeplatre *dist2_carmontelle_prose_comedy *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laurent
+**** *creator_carmontelle *book_carmontelle_abbedeplatre *style_prose *genre_comedy *dist1_carmontelle_prose_comedy_abbedeplatre *dist2_carmontelle_prose_comedy *id_LAURENT *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laurent
 
 Monsieur, je suis à vous tout-à-l'heure.
 
@@ -644,7 +644,7 @@ Mais que diable a-t-il donc aujourd'hui, lui qui aime tant son jardin ?
 Je vais plutôt voir comme on a abîmé le jardin.
 
 
-**** *creator_carmontelle *book_carmontelle_abbedeplatre *style_prose *genre_comedy *dist1_carmontelle_prose_comedy_abbedeplatre *dist2_carmontelle_prose_comedy *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurlechalas
+**** *creator_carmontelle *book_carmontelle_abbedeplatre *style_prose *genre_comedy *dist1_carmontelle_prose_comedy_abbedeplatre *dist2_carmontelle_prose_comedy *id_MONSIEURLECHALAS *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurlechalas
 
 Eh bien, je ne le trouve nulle part, ce Monsieur de Leurmont.
 
@@ -727,7 +727,7 @@ Je savais bien, moi, qu'il n'oserait pas approcher de l'Abbé.
 Oui, pour me faire rosser encore. Je ne crois pas que vous m'y rattrapiez, Monsieur de Leurmont , et je ne veux plus travailler pour vous, premièrement et d'un, et je m'en vas.
 
 
-**** *creator_carmontelle *book_carmontelle_abbedeplatre *style_prose *genre_comedy *dist1_carmontelle_prose_comedy_abbedeplatre *dist2_carmontelle_prose_comedy *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecommissaire
+**** *creator_carmontelle *book_carmontelle_abbedeplatre *style_prose *genre_comedy *dist1_carmontelle_prose_comedy_abbedeplatre *dist2_carmontelle_prose_comedy *id_LECOMMISSAIRE *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecommissaire
 
 Cela ne fait rien ; il faut parler au maître de la maison. Lequel de vous deux, Messieurs, est Monsieur de Leurmont ?
 

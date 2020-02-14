@@ -1,6 +1,6 @@
 
 
-**** *creator_lemierre *book_lemierre_veuvemalabar *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_veuvemalabar *dist2_lemierre_verse_tragedy *date_1770 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fatime
+**** *creator_lemierre *book_lemierre_veuvemalabar *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_veuvemalabar *dist2_lemierre_verse_tragedy *id_FATIME *date_1770 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fatime
 
 Madame, à quelle loi vous êtes-vous soumise ?
 Je frémis d'y penser !
@@ -117,7 +117,7 @@ Ainsi toute espérance est pour jamais détruite.
       Quel spectacle d'horreur !
 
 
-**** *creator_lemierre *book_lemierre_veuvemalabar *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_veuvemalabar *dist2_lemierre_verse_tragedy *date_1770 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_legrandbramine
+**** *creator_lemierre *book_lemierre_veuvemalabar *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_veuvemalabar *dist2_lemierre_verse_tragedy *id_LEGRANDBRAMINE *date_1770 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_legrandbramine
 
 Un illustre indien a terminé sa vie :
 Sachez donc si sa veuve, à l'usage asservie,
@@ -476,7 +476,7 @@ Ai-je perdu mes soins ?
 Notre ennemi vivant !
 
 
-**** *creator_lemierre *book_lemierre_veuvemalabar *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_veuvemalabar *dist2_lemierre_verse_tragedy *date_1770 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lejeunebramine
+**** *creator_lemierre *book_lemierre_veuvemalabar *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_veuvemalabar *dist2_lemierre_verse_tragedy *id_LEJEUNEBRAMINE *date_1770 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lejeunebramine
 
 Quoi ! Les Européens, accourus vers nos ports,
 De leurs vaisseaux nombreux investissent ces bords ;

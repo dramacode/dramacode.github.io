@@ -1,6 +1,6 @@
 
 
-**** *creator_voltaire *book_voltaire_irene *style_verse *dist1_voltaire_verse__irene *dist2_voltaire_verse_ *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alexis
+**** *creator_voltaire *book_voltaire_irene *style_verse *id_ALEXIS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alexis
 
 Daignez souffrir ma vue, et bannissez vos craintes...
 Je ne viens point troubler par d'inutiles plaintes
@@ -450,7 +450,7 @@ Quel démon t'inspirait ?
 Irène ! Irène ! Ah, dieu !
 
 
-**** *creator_voltaire *book_voltaire_irene *style_verse *dist1_voltaire_verse__irene *dist2_voltaire_verse_ *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_memnon
+**** *creator_voltaire *book_voltaire_irene *style_verse *id_MEMNON *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_memnon
 
 Madame, j'avouerai qu'il veut à votre vue
 Dérober les chagrins de son âme abattue.

@@ -1,6 +1,6 @@
 
 
-**** *creator_marivaux *book_marivaux_dispute *style_prose *genre_comedy *dist1_marivaux_prose_comedy_dispute *dist2_marivaux_prose_comedy *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hermiane
+**** *creator_marivaux *book_marivaux_dispute *style_prose *genre_comedy *dist1_marivaux_prose_comedy_dispute *dist2_marivaux_prose_comedy *id_HERMIANE *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hermiane
 
 Où allons-nous, Seigneur, voici le lieu du monde le plus sauvage et le plus solitaire, et rien n'y annonce la fête que vous m'avez promise.
 
@@ -29,7 +29,7 @@ Ah ! Je vous prie, mettez-y quelque différence : votre sexe est d'une perfidie 
 Croyez-moi, nous n'avons pas lieu de plaisanter. Partons.
 
 
-**** *creator_marivaux *book_marivaux_dispute *style_prose *genre_comedy *dist1_marivaux_prose_comedy_dispute *dist2_marivaux_prose_comedy *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leprince
+**** *creator_marivaux *book_marivaux_dispute *style_prose *genre_comedy *dist1_marivaux_prose_comedy_dispute *dist2_marivaux_prose_comedy *id_LEPRINCE *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leprince
 
 Tout y est prêt.
 
@@ -60,7 +60,7 @@ Les deux sexes n'ont rien à se reprocher, Madame : vices et vertus, tout est é
 Je l'avoue, le procédé du vôtre est du moins plus hypocrite, et par là plus décent, il fait plus de façon avec sa conscience que le nôtre.
 
 
-**** *creator_marivaux *book_marivaux_dispute *style_prose *genre_comedy *dist1_marivaux_prose_comedy_dispute *dist2_marivaux_prose_comedy *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mesrou
+**** *creator_marivaux *book_marivaux_dispute *style_prose *genre_comedy *dist1_marivaux_prose_comedy_dispute *dist2_marivaux_prose_comedy *id_MESROU *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mesrou
 
 Elle a même les yeux plus attendris qu'à l'ordinaire.
 
@@ -95,7 +95,7 @@ Pourquoi quitter Adine ? Avez-vous à vous plaindre d'elle ?
 Voici Azor.
 
 
-**** *creator_marivaux *book_marivaux_dispute *style_prose *genre_comedy *dist1_marivaux_prose_comedy_dispute *dist2_marivaux_prose_comedy *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_carise
+**** *creator_marivaux *book_marivaux_dispute *style_prose *genre_comedy *dist1_marivaux_prose_comedy_dispute *dist2_marivaux_prose_comedy *id_CARISE *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_carise
 
 Venez, Eglé, suivez-moi ; voici de nouvelles terres que vous n'avez jamais vues, et que vous pouvez parcourir en sûreté.
 
@@ -232,7 +232,7 @@ Choisissez-en une autre.
 Et vous, Dina, examinez.
 
 
-**** *creator_marivaux *book_marivaux_dispute *style_prose *genre_comedy *dist1_marivaux_prose_comedy_dispute *dist2_marivaux_prose_comedy *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_egle
+**** *creator_marivaux *book_marivaux_dispute *style_prose *genre_comedy *dist1_marivaux_prose_comedy_dispute *dist2_marivaux_prose_comedy *id_EGLE *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_egle
 
 Que vois-je ? Quelle quantité de nouveaux mondes !
 
@@ -556,7 +556,7 @@ Qu'est-ce que c'est que toutes ces figures-là, qui arrivent en grondant ? Je me
 J'aimerais bien son amitié.
 
 
-**** *creator_marivaux *book_marivaux_dispute *style_prose *genre_comedy *dist1_marivaux_prose_comedy_dispute *dist2_marivaux_prose_comedy *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_azor
+**** *creator_marivaux *book_marivaux_dispute *style_prose *genre_comedy *dist1_marivaux_prose_comedy_dispute *dist2_marivaux_prose_comedy *id_AZOR *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_azor
 
 Le plaisir de vous voir m'a d'abord ôté la parole.
 
@@ -701,7 +701,7 @@ Eh ! Tant mieux ; continuez, je ne me soucie plus de vous non plus, attendez-moi
 Tout à l'heure vous saurez le reste.
 
 
-**** *creator_marivaux *book_marivaux_dispute *style_prose *genre_comedy *dist1_marivaux_prose_comedy_dispute *dist2_marivaux_prose_comedy *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_adine
+**** *creator_marivaux *book_marivaux_dispute *style_prose *genre_comedy *dist1_marivaux_prose_comedy_dispute *dist2_marivaux_prose_comedy *id_ADINE *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_adine
 
 Ah ! Ah ! Qu'est-ce que c'est que ce nouvel objet-ci ?Elle avance.
 
@@ -799,7 +799,7 @@ Comment ! Mesrin, mon portrait ! Et comment l'a-t-elle ?
 Passez ici, Mesrin, que faites-vous là, vous extravaguez, je pense.
 
 
-**** *creator_marivaux *book_marivaux_dispute *style_prose *genre_comedy *dist1_marivaux_prose_comedy_dispute *dist2_marivaux_prose_comedy *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mesrin
+**** *creator_marivaux *book_marivaux_dispute *style_prose *genre_comedy *dist1_marivaux_prose_comedy_dispute *dist2_marivaux_prose_comedy *id_MESRIN *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mesrin
 
 Quoi ! C'est vous, c'est mon Adine qui est revenue ; que j'ai de joie ! Que j'étais impatient !
 
@@ -904,7 +904,7 @@ C'est que je l'ai donné.
 Que vous lui parliez ! Et moi ?
 
 
-**** *creator_marivaux *book_marivaux_dispute *style_prose *genre_comedy *dist1_marivaux_prose_comedy_dispute *dist2_marivaux_prose_comedy *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_meslis
+**** *creator_marivaux *book_marivaux_dispute *style_prose *genre_comedy *dist1_marivaux_prose_comedy_dispute *dist2_marivaux_prose_comedy *id_MESLIS *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_meslis
 
 Ah ! Chère Dina, que de personnes !
 
@@ -915,7 +915,7 @@ Ne l'aimez point, car vous ne l'aurez pas.
 Je vous remercie, elles ne me déplaisent point, mais je ne me soucie pas d'elles, il n'y a qu'une Dina dans le monde.
 
 
-**** *creator_marivaux *book_marivaux_dispute *style_prose *genre_comedy *dist1_marivaux_prose_comedy_dispute *dist2_marivaux_prose_comedy *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dina
+**** *creator_marivaux *book_marivaux_dispute *style_prose *genre_comedy *dist1_marivaux_prose_comedy_dispute *dist2_marivaux_prose_comedy *id_DINA *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dina
 
 Oui, mais nous n'avons que faire d'elles.
 

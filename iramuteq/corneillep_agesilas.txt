@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillep *book_corneillep_agesilas *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_agesilas *dist2_corneillep_verse_tragedy *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agesilas
+**** *creator_corneillep *book_corneillep_agesilas *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_agesilas *dist2_corneillep_verse_tragedy *id_AGESILAS *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agesilas
 
 Ce n'est pas d'aujourd'hui que l'envie et la haine
 Ont persécuté les héros :
@@ -521,7 +521,7 @@ Et tous ensemble allons préparer ce beau jour
 Qui par un triple hymen couronnera l'amour.
 
 
-**** *creator_corneillep *book_corneillep_agesilas *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_agesilas *dist2_corneillep_verse_tragedy *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lysander
+**** *creator_corneillep *book_corneillep_agesilas *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_agesilas *dist2_corneillep_verse_tragedy *id_LYSANDER *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lysander
 
 Quoique en matière d'hyménées
 L'importune langueur des affaires traînées
@@ -829,7 +829,7 @@ Seigneur, à ces bontés que je n'osais attendre
 Que puis-je…
 
 
-**** *creator_corneillep *book_corneillep_agesilas *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_agesilas *dist2_corneillep_verse_tragedy *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cotys
+**** *creator_corneillep *book_corneillep_agesilas *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_agesilas *dist2_corneillep_verse_tragedy *id_COTYS *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cotys
 
 Vous voyez de quel air Elpinice me traite,
 Comme elle disparaît, Seigneur, à mon abord.
@@ -1029,7 +1029,7 @@ Seigneur, à vos bontés nous venons consacrer
 Et Mandane et moi notre vie.
 
 
-**** *creator_corneillep *book_corneillep_agesilas *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_agesilas *dist2_corneillep_verse_tragedy *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_spitridate
+**** *creator_corneillep *book_corneillep_agesilas *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_agesilas *dist2_corneillep_verse_tragedy *id_SPITRIDATE *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_spitridate
 
 Un vertueux amour n'a rien d'incompatible
 Avec les regards d'une soeur :
@@ -1497,7 +1497,7 @@ De pareilles faveurs, Seigneur, nous font rentrer
 Pour vous faire voir même envie.
 
 
-**** *creator_corneillep *book_corneillep_agesilas *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_agesilas *dist2_corneillep_verse_tragedy *date_1666 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mandane
+**** *creator_corneillep *book_corneillep_agesilas *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_agesilas *dist2_corneillep_verse_tragedy *id_MANDANE *date_1666 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mandane
 
 Je veux bien l'espérer : tout est facile aux Dieux,
 Et peut-être que de bons yeux
@@ -1907,7 +1907,7 @@ Je me tiens prête à tout, et lui laisse à choisir,
 De l'exemple ou du sacrifice.
 
 
-**** *creator_corneillep *book_corneillep_agesilas *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_agesilas *dist2_corneillep_verse_tragedy *date_1666 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elpinice
+**** *creator_corneillep *book_corneillep_agesilas *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_agesilas *dist2_corneillep_verse_tragedy *id_ELPINICE *date_1666 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elpinice
 
 Cotys est roi, ma soeur ; et comme sa couronne
 Parle suffisamment pour lui,
@@ -2090,7 +2090,7 @@ Et son destin lui-même ainsi que notre sort,
 Dépend de les mettre d'accord.
 
 
-**** *creator_corneillep *book_corneillep_agesilas *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_agesilas *dist2_corneillep_verse_tragedy *date_1666 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aglatide
+**** *creator_corneillep *book_corneillep_agesilas *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_agesilas *dist2_corneillep_verse_tragedy *id_AGLATIDE *date_1666 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aglatide
 
 Ma soeur, depuis un mois nous voilà dans Éphèse,
 Prêtes à recevoir ces illustres époux
@@ -2453,7 +2453,7 @@ Après cela parlez ; c'est à moi d'obéir.
 C'est me faire, Seigneur, des surprises nouvelles.
 
 
-**** *creator_corneillep *book_corneillep_agesilas *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_agesilas *dist2_corneillep_verse_tragedy *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_xenocles
+**** *creator_corneillep *book_corneillep_agesilas *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_agesilas *dist2_corneillep_verse_tragedy *id_XENOCLES *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_xenocles
 
 Oui ; mais enfin, Seigneur, il est temps de le dire,
 Tout soumis qu'il paraît, apprenez qu'il conspire,
@@ -2533,7 +2533,7 @@ De vaincre et la vengeance et l'amour à la fois !
 Il ne faut que vouloir ; tout est possible aux Rois.
 
 
-**** *creator_corneillep *book_corneillep_agesilas *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_agesilas *dist2_corneillep_verse_tragedy *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleon
+**** *creator_corneillep *book_corneillep_agesilas *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_agesilas *dist2_corneillep_verse_tragedy *id_CLEON *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleon
 
 Seigneur, n'êtes-vous point d'une humeur bien facile,
 D'applaudir à Cotys sur son manque de foi ?

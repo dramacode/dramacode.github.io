@@ -1,6 +1,6 @@
 
 
-**** *creator_regnard *book_regnard_attendezsouslorme *style_prose *genre_comedy *dist1_regnard_prose_comedy_attendezsouslorme *dist2_regnard_prose_comedy *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+**** *creator_regnard *book_regnard_attendezsouslorme *style_prose *genre_comedy *dist1_regnard_prose_comedy_attendezsouslorme *dist2_regnard_prose_comedy *id_DORANTE *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
 
 Oh, palsembleu ! Tu prends bien ton temps.
 
@@ -168,7 +168,7 @@ Ceci me confond.
 Je viendrai saccager ce village-ci avec un régiment que j'achèterai exprès.
 
 
-**** *creator_regnard *book_regnard_attendezsouslorme *style_prose *genre_comedy *dist1_regnard_prose_comedy_attendezsouslorme *dist2_regnard_prose_comedy *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_agathe
+**** *creator_regnard *book_regnard_attendezsouslorme *style_prose *genre_comedy *dist1_regnard_prose_comedy_attendezsouslorme *dist2_regnard_prose_comedy *id_AGATHE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_agathe
 
 Où est donc ton maître, Pasquin ? Il y a deux heures que je l'attends chez moi.
 
@@ -247,7 +247,7 @@ Oh ! Il faut que je sois de cette noce-là.
 Sitôt que la noce sera faite, nous nous marierons.
 
 
-**** *creator_regnard *book_regnard_attendezsouslorme *style_prose *genre_comedy *dist1_regnard_prose_comedy_attendezsouslorme *dist2_regnard_prose_comedy *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pasquin
+**** *creator_regnard *book_regnard_attendezsouslorme *style_prose *genre_comedy *dist1_regnard_prose_comedy_attendezsouslorme *dist2_regnard_prose_comedy *id_PASQUIN *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pasquin
 
 Pour m'expliquer en termes plus clairs, j'ai avancé la dépense du voyage depuis notre garnison jusqu'à ce village-ci ; nous y avons déjà séjourné quinze jours sur mes crochets : je vous prie que nous comptions ensemble, et je vous demande mon congé.
 
@@ -426,7 +426,7 @@ Nous sommes trahis ; on nous berne, monsieur.
 Voilà de mauvais plaisants, monsieur. Votre cheval est sellé.
 
 
-**** *creator_regnard *book_regnard_attendezsouslorme *style_prose *genre_comedy *dist1_regnard_prose_comedy_attendezsouslorme *dist2_regnard_prose_comedy *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_regnard *book_regnard_attendezsouslorme *style_prose *genre_comedy *dist1_regnard_prose_comedy_attendezsouslorme *dist2_regnard_prose_comedy *id_LISETTE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Il y a une heure que je te cherche. Es-tu d'accord avec ton maître ?
 
@@ -570,7 +570,7 @@ Monsieur l'aventurier.
 Ce sera des deniers de la veuve ?
 
 
-**** *creator_regnard *book_regnard_attendezsouslorme *style_prose *genre_comedy *dist1_regnard_prose_comedy_attendezsouslorme *dist2_regnard_prose_comedy *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colin
+**** *creator_regnard *book_regnard_attendezsouslorme *style_prose *genre_comedy *dist1_regnard_prose_comedy_attendezsouslorme *dist2_regnard_prose_comedy *id_COLIN *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colin
 
 J'ai sauté par la fenêtre de la salle où tu m'avais enfermé, pour te venir dire que tout le tripotage de veuve que tu veux faire pour attraper ce Dorante, par-ci, par-là, tant y a que tout ça ne vaut rien.
 
@@ -622,7 +622,7 @@ Mais al' était pour li trop délicate,
 Il la lâchit pour prendre un rat.
 
 
-**** *creator_regnard *book_regnard_attendezsouslorme *style_prose *genre_comedy *dist1_regnard_prose_comedy_attendezsouslorme *dist2_regnard_prose_comedy *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nanette
+**** *creator_regnard *book_regnard_attendezsouslorme *style_prose *genre_comedy *dist1_regnard_prose_comedy_attendezsouslorme *dist2_regnard_prose_comedy *id_NANETTE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nanette
 
 Nous avons vu de loin qu'elle se laissait baiser la main par Colin ; nous avons jugé...
 

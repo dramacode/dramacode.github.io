@@ -1,6 +1,6 @@
 
 
-**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_domalvaros
+**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_dom-alvaros *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_domalvaros
 
 Ah, père malheureux, quelle est ta destinée !
 À quels tourments ton âme est-elle condamnée !
@@ -186,7 +186,7 @@ Oui, dieux, humains, démons, la mort a la puissance
 De me donner sans vous une prompte allégeance.
 
 
-**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjuan
+**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_donjuan *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjuan
 
 Je serai diligent et vous ferai connaître
 Qu'un amant méprisé sait prendre avec raison
@@ -932,7 +932,7 @@ Aussi bien ce spectacle est trop injurieux,
 Il faut que sans tarder j'en délivre mes yeux.
 
 
-**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_domphilippe
+**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_dom-philippe *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_domphilippe
 
 Miracle des beautés, vous que mon cœur adore,
 Qui captivez les cœurs et les plus beaux esprits
@@ -1228,7 +1228,7 @@ Mon mérite soit peu.
 Viens, Briguelle, je veux te prendre à mon service.
 
 
-**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *date_1658 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amarille
+**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_amarille *date_1658 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amarille
 
 C'est aujourd'hui qu'il faut que mon amour s'exprime,
 Et que vous appreniez jusqu'où va mon estime ;
@@ -1399,7 +1399,7 @@ Comment le savez-vous ?
 Est vengé pleinement, allons, je suis à vous.
 
 
-**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *date_1658 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucie
+**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_lucie *date_1658 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucie
 
 Amarille, il est temps de finir ces rigueurs,
 D'arrêter vos soupirs et de tarir vos pleurs.
@@ -1441,7 +1441,7 @@ Nous nous verrons tantôt ; adieu, je me retire.
 Lui donner, Amarille, un tel contentement.
 
 
-**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pelerin
+**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_pelerin *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pelerin
 
 Beau désir, qui te donne empire sur mes sens ?
 Que ces lieux ont pour moi de plaisirs innocents !
@@ -1512,7 +1512,7 @@ Et dedans cet habit je vois tout mon trésor.
 Monsieur, considérez…
 
 
-**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_prevot
+**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_prevot *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_prevot
 
 En cette affaire, archers, bon œil et bon courage.
 Arrêtez les passants, voyez-les au visage ;
@@ -1559,7 +1559,7 @@ Madame, je sais bien que tout un monde espère
 De voir un jour si beau.
 
 
-**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_briguelle
+**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_briguelle *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_briguelle
 
 C'est vous gêner l'esprit d'une plainte inutile ;
 La mort, qui n'est jamais courtoise ni civile,
@@ -2262,7 +2262,7 @@ Je recouvre un brave homme, et je suis désormais
 Pour être plus heureux que je ne fus jamais.
 
 
-**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ombre
+**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_ombre *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ombre
 
 Dom Jouan, c'est ainsi que je te tiens parole,
 Et je ne fis jamais de promesse frivole.
@@ -2408,7 +2408,7 @@ Sache que qui vit mal, aussi mourra de même.
 Dom Jouan abîmé, son valet demeure étourdi sur le théâtre, du bruit du tonnerre, la grotte disparaît, et Briguelle ne sait où il est.
 
 
-**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bontemps
+**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_bon-temps *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bontemps
 
 Baisez votre mari, ne cachez point vos flammes.
 
@@ -2426,7 +2426,7 @@ Je veux un petit-fils ; je reprends donc ma fille,
 Puisque tu ne veux pas accroître ma famille.
 
 
-**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blaise
+**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_blaise *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blaise
 
 Allons ! je ne veux pas. Qui ? moi, baiser les femmes ?
 Cela m'est défendu, je ferais un péché.
@@ -2454,7 +2454,7 @@ Père, femme, fuyons, cet ours me veut manger.
 Au voleur, au voleur !
 
 
-**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *date_1658 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amarante
+**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_amarante *date_1658 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amarante
 
 Amour, pourquoi viens-tu passer dans nos forêts ?
 Jusques ici j'étais exempte de tes traits ;

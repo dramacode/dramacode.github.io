@@ -1,6 +1,6 @@
 
 
-**** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_raphael
+**** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *id_RAPHAEL *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_raphael
 
 Gabriel, arrêtez ; le Seigneur ne veut pas
 De ce rebelle encor punir les attentats :
@@ -285,7 +285,7 @@ Et je te rejoindrai sous ce berceau fertile,
 Dont tu fais en ces lieux ton principal asile.
 
 
-**** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gabriel
+**** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *id_GABRIEL *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gabriel
 
 Dans le globe brillant qui fait ta résidence,
 Rien ne peut, Uriel, tromper ta vigilance.
@@ -415,7 +415,7 @@ Ah ! C'est trop blasphémer la céleste Puissance.
 Je vais ... Mais quel Esprit s'oppose à ma vengeance.
 
 
-**** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adam
+**** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *id_ADAM *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adam
 
 Ma chère Eve est encor dans les bras du sommeil,
 Messagers de l'aurore, annoncez son réveil,
@@ -770,7 +770,7 @@ Ministre bienfaisant qui me l'avez appris,
 Partons. Que mon exil devient doux à ce prix !
 
 
-**** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eve
+**** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *id_EVE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eve
 
 Toi qui ne peux jamais sortir de ma mémoire,
 Modèle de ma vie, et source de ma gloire,
@@ -1084,7 +1084,7 @@ Prévenant tes besoins j'oublierai mes malheurs
 Si ta main, cher Adam, daigne essuyer mes pleurs.
 
 
-**** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_satan
+**** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *id_SATAN *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_satan
 
 Astre majestueux, flambeau de l'Univers,
 Qui, sur un trône d'or, parais le Dieu des airs ;
@@ -1505,7 +1505,7 @@ Adam vient dans ces lieux déplorer ses malheurs ;
 Qu'il n'ouvre plus les yeux que pour verser des pleurs.
 
 
-**** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moloch
+**** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *id_MOLOCH *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moloch
 
 Qu'entends-je ? De Satan est-ce là le langage ?
 Et qu'est donc devenu son superbe courage ?
@@ -1670,7 +1670,7 @@ Hâtons-nous donc, Seigneur, d'annoncer aux Enfers
 Votre Empire immortel sur ce vaste Univers.
 
 
-**** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lavoixdedieu
+**** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *id_LAVOIXDEDIEU *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lavoixdedieu
 
 Adam, où donc es-tu ? Qui te cache à ton Maître ?
 Pourquoi, devant ton Dieu, différer de paraître ?

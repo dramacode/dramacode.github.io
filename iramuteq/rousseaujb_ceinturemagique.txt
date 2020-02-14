@@ -1,6 +1,6 @@
 
 
-**** *creator_rousseaujb *book_rousseaujb_ceinturemagique *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_ceinturemagique *dist2_rousseaujb_prose_comedy *date_1701 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_madamemerluche
+**** *creator_rousseaujb *book_rousseaujb_ceinturemagique *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_ceinturemagique *dist2_rousseaujb_prose_comedy *id_MADAMEMERLUCHE *date_1701 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_madamemerluche
 
 Or ça, mes nièces, parlons un peu d'affaires. Vous commencez à devenir grandes filles, mes enfants ; et à votre âge, je le sais par mon expérience, les jours sont longs et les années sont courtes. Je crois qu'il est temps, ou jamais, de songer à vous pourvoir. Feu monsieur Goguelu, votre père, se voyant près d'aller rendre ses comptes en l'autre monde, s'avisa de faire un testament. Il eût bien mieux fait de mourir subitement, le pauvre homme ! Il n'eut pas cet esprit-là. Il vous laissa sous la tutelle, vous du Capitan, et vous du seigneur Trufaldin ; deux aussi grands benêts, sans les flatter, qu'il y en ait dans le pays. En cette qualité, il a réglé qu'ils pourraient vous épouser au bout de l'an, ou bien vous marier à leur fantaisie. Voilà l'année finie. Quelle est votre intention à toutes deux ?
 
@@ -87,7 +87,7 @@ Mes enfants, il faut avaler cela tout doucement. Je vous ai proposé tantôt deu
 Seigneur Octave et vous seigneur Horace venez chez moi pour y célébrer vos mariages. Et vous, messieurs, rentrez chacun dans vos logis ; et, si vous m'en croyez, ne parlez de cette aventure que le moins qu'il vous sera possible.
 
 
-**** *creator_rousseaujb *book_rousseaujb_ceinturemagique *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_ceinturemagique *dist2_rousseaujb_prose_comedy *date_1701 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucette
+**** *creator_rousseaujb *book_rousseaujb_ceinturemagique *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_ceinturemagique *dist2_rousseaujb_prose_comedy *id_LUCETTE *date_1701 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucette
 
 Hé mais, ma tante pour ce qui est de moi, dame, je ne sais pas que vous dire, car, voyez-vous une fille, enfin, vous comprenez bien.
 
@@ -108,7 +108,7 @@ Ce n'est rien, seigneur Capitan.
 Seigneur Capitan, je suis votre très humble servante.
 
 
-**** *creator_rousseaujb *book_rousseaujb_ceinturemagique *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_ceinturemagique *dist2_rousseaujb_prose_comedy *date_1701 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_baliverne
+**** *creator_rousseaujb *book_rousseaujb_ceinturemagique *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_ceinturemagique *dist2_rousseaujb_prose_comedy *id_BALIVERNE *date_1701 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_baliverne
 
 Ah ma tante, en vérité, vous demandez là des choses bien extraordinaires. Comment voulez-vous qu'on vous réponde ? Et le moyen d'acheminer la pudeur et la bienséance aux termes d'une déclaration comme celle-là.
 
@@ -139,7 +139,7 @@ C'est un rire de réminiscence, monsieur.
 Seigneur Trufaldin, je vous souhaite toutes sortes de prospérités.
 
 
-**** *creator_rousseaujb *book_rousseaujb_ceinturemagique *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_ceinturemagique *dist2_rousseaujb_prose_comedy *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octave
+**** *creator_rousseaujb *book_rousseaujb_ceinturemagique *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_ceinturemagique *dist2_rousseaujb_prose_comedy *id_OCTAVE *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octave
 
 Quelles nouvelles avez-vous à nous apprendre ?
 
@@ -178,7 +178,7 @@ Seigneur Capitan, je veux bien commencer par vous mettre en liberté ; mais quan
 Vous pouvez aller maintenant où il vous plaira.
 
 
-**** *creator_rousseaujb *book_rousseaujb_ceinturemagique *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_ceinturemagique *dist2_rousseaujb_prose_comedy *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_horace
+**** *creator_rousseaujb *book_rousseaujb_ceinturemagique *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_ceinturemagique *dist2_rousseaujb_prose_comedy *id_HORACE *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_horace
 
 Hé bien, madame, quelle réponse vous a-t-on faite ?
 
@@ -217,7 +217,7 @@ J'entends ouvrir. Il ne faut pas qu'on nous voie ensemble. Sortons, et allons ch
 Vous n'irez pas si loin, messieurs; nous voici.
 
 
-**** *creator_rousseaujb *book_rousseaujb_ceinturemagique *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_ceinturemagique *dist2_rousseaujb_prose_comedy *date_1701 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_trufaldin
+**** *creator_rousseaujb *book_rousseaujb_ceinturemagique *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_ceinturemagique *dist2_rousseaujb_prose_comedy *id_TRUFALDIN *date_1701 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_trufaldin
 
 Je reviens dans le moment qu'on m'attende au logis, et qu'on ait soin de faire bien mitonner mon potage pour ce soir.
 
@@ -334,7 +334,7 @@ Moi, signer le contrat ?
 Puisque la chose est faite, il faut-bien s'y résoudre.
 
 
-**** *creator_rousseaujb *book_rousseaujb_ceinturemagique *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_ceinturemagique *dist2_rousseaujb_prose_comedy *date_1701 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_lecapitan
+**** *creator_rousseaujb *book_rousseaujb_ceinturemagique *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_ceinturemagique *dist2_rousseaujb_prose_comedy *id_LECAPITAN *date_1701 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_lecapitan
 
 Qu'on porte mes armes chez le fourbisseur que mes pistolets soient bien nettoyés ; et que mon épée de combat soit prête au plus tard dans demi-heure.
 
@@ -437,7 +437,7 @@ J'aimerais mieux ne porter jamais épée.
 Donnez ; je signerai à votre considération.
 
 
-**** *creator_rousseaujb *book_rousseaujb_ceinturemagique *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_ceinturemagique *dist2_rousseaujb_prose_comedy *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_francisque
+**** *creator_rousseaujb *book_rousseaujb_ceinturemagique *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_ceinturemagique *dist2_rousseaujb_prose_comedy *id_FRANCISQUE *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_francisque
 
 Le mérite et les talents sont bien persécutés en ce siècle de fer ! J'ai toujours ouï dire que l'argent des sots est le patrimoine des gens d'esprit ; et cependant il n'est pas permis de prendre son bien où on le trouve, et vous êtes perpétuellement exposé aux irruptions de la populace, ou aux brutalités de la justice. Il faut voir si je serai plus heureux dans cette ville-ci que dans les autres ; et...
 

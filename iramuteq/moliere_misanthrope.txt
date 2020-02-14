@@ -1,6 +1,6 @@
 
 
-**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_alceste
+**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *id_alceste *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_alceste
 
       Laissez-moi, je vous prie.
 
@@ -980,7 +980,7 @@ Et chercher sur la Terre, un endroit écarté,
 Où d'être Homme d'honneur, on ait la liberté.
 
 
-**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_philinte
+**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *id_philinte *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_philinte
 
 Qu'est-ce donc ? qu'avez-vous ?
 
@@ -1312,7 +1312,7 @@ Allons, Madame, allons employer toute chose,
 Pour rompre le Dessein que son Coeur se propose.
 
 
-**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_oronte
+**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *id_oronte *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_oronte
 
       J'ai su là-bas que, pour quelques Emplettes
 Éliante est sortie, et Célimène aussi :
@@ -1486,7 +1486,7 @@ Monsieur, je ne fais plus d'obstacle à votre flamme,
 Et vous pouvez conclure Affaire avec Madame.
 
 
-**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *date_1666 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_celimene
+**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *id_celimene *date_1666 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_celimene
 
 C'est pour me quereller, donc, à ce que je vois,
 Que vous avez voulu me ramener chez moi ?
@@ -1937,7 +1937,7 @@ Je pourrai me résoudre à serrer de tels Nœuds :
 Et l'Hymen…
 
 
-**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *date_1666 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_eliante
+**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *id_eliante *date_1666 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_eliante
 
 Voici les deux Marquis, qui montent avec nous ;
 Vous l'est-on venu dire ?
@@ -2034,7 +2034,7 @@ Et voilà votre Ami, sans trop m'inquiéter,
 Qui, si je l'en priais, la pourrait accepter.
 
 
-**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *date_1666 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_arsinoe
+**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *id_arsinoe *date_1666 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_arsinoe
 
 Je viens, pour quelque avis que j'ai cru vous devoir.
 
@@ -2212,7 +2212,7 @@ Vous ferez bien, encor, de soupirer pour elle,
 Et je brûle de voir, une Union si belle.
 
 
-**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_acaste
+**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *id_acaste *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_acaste
 
 Parbleu, s'il faut parler de Gens extravagants,
 Je viens d'en essuyer un des plus fatigants ;
@@ -2325,7 +2325,7 @@ Et je vous ferai voir, que les petits Marquis
 Ont, pour se consoler, des Coeurs du plus haut prix.
 
 
-**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_clitandre
+**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *id_clitandre *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_clitandre
 
 Parbleu, je viens du Louvre, où Cléonte, au Levé,
 Madame, a bien paru, Ridicule achevé.
@@ -2401,7 +2401,7 @@ Il suffit, nous allons l'un, et l'autre, en tous Lieux,
 Montrer, de votre Cœur, le Portrait glorieux.
 
 
-**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *date_1666 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_basque
+**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *id_basque *date_1666 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_basque
 
       Acaste est là-bas.
 
@@ -2419,7 +2419,7 @@ Monte ici, pour vous voir.
 Éliante, là-bas, est à l'entretenir.
 
 
-**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *date_1666 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_dubois
+**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *id_dubois *date_1666 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_dubois
 
       Monsieur…
 

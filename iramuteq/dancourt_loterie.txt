@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_loterie *style_prose *genre_comedy *dist1_dancourt_prose_comedy_loterie *dist2_dancourt_prose_comedy *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_dancourt *book_dancourt_loterie *style_prose *genre_comedy *dist1_dancourt_prose_comedy_loterie *dist2_dancourt_prose_comedy *id_LISETTE *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Ouais. Vous le prenez là sur un ton bien héroïque vraiment ; et comment l'entendez-vous donc, s'il vous plaît ; vous n'êtes à Paris que depuis deux ans, et vous voila déjà aussi extravagante que si vous y aviez été élevée toute votre vie.
 
@@ -254,7 +254,7 @@ Le pauvre diable. Ils l'assommeront.
 Ils ne seront pas malheureux si elles réussissent. Profitez de l'exemple, Messieurs, et si jamais quelque Napolitain est assez hardi pour faire une Loterie, que les Parisiens ne soient pas assez fous, pour y mettre.
 
 
-**** *creator_dancourt *book_dancourt_loterie *style_prose *genre_comedy *dist1_dancourt_prose_comedy_loterie *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leflamand
+**** *creator_dancourt *book_dancourt_loterie *style_prose *genre_comedy *dist1_dancourt_prose_comedy_loterie *dist2_dancourt_prose_comedy *id_LEFLAMAND *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leflamand
 
 Jentrir moi librement, Mameselle, mais jaure bonne grâce di le faire, parce que moi vouloir dire quelque chose à Monsir le Marchand de Loterie.
 
@@ -291,7 +291,7 @@ Moi saure bien que si Monsir, mais...
 Et moi l'être bien aussi tout de même, Monsir, Et vous demande en grâce de n'y point beaucoup trop attraper tout le monde dy Paris sti fois-ci, afin que moi puisse l'autrefois encor attraper une bonne partie.
 
 
-**** *creator_dancourt *book_dancourt_loterie *style_prose *genre_comedy *dist1_dancourt_prose_comedy_loterie *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_petronillo
+**** *creator_dancourt *book_dancourt_loterie *style_prose *genre_comedy *dist1_dancourt_prose_comedy_loterie *dist2_dancourt_prose_comedy *id_PETRONILLO *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_petronillo
 
 E niente Signor, e niente una bagatelle.
 
@@ -346,7 +346,7 @@ Vous en aurez un plus petit, lasciate faire.
 Non é pas celui-là, Madame, é celui-ci son mi qui ai écrit les billets, je pouis répondre de mon intention.
 
 
-**** *creator_dancourt *book_dancourt_loterie *style_prose *genre_comedy *dist1_dancourt_prose_comedy_loterie *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bastien
+**** *creator_dancourt *book_dancourt_loterie *style_prose *genre_comedy *dist1_dancourt_prose_comedy_loterie *dist2_dancourt_prose_comedy *id_BASTIEN *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bastien
 
 Serviteur, Monsieur de la Loterie ; c'est un de vos Suisses qui m'a dit d'entrer, et de parler à vous-même, parce que Messieurs vos gens sont des insolents, qui nacouront personne, et des baragoins que personne n'entend.
 
@@ -412,7 +412,7 @@ Allez ça n'est pas bian, vous êtes une redresseuse itou vous, Madame, et je po
 Ils ne mangeront morgué d'avoine d'aujourd'hui. Pour six écus de marchandises ! Queu peste de Loterie. Quand on sait une fois çan que c'est, il faudrait bian avoir le diable au corps pour y reboutre.
 
 
-**** *creator_dancourt *book_dancourt_loterie *style_prose *genre_comedy *dist1_dancourt_prose_comedy_loterie *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafrance
+**** *creator_dancourt *book_dancourt_loterie *style_prose *genre_comedy *dist1_dancourt_prose_comedy_loterie *dist2_dancourt_prose_comedy *id_LAFRANCE *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafrance
 
 Monsieur, c'est de la part de mon maître, Monsieur le Baron de Rosebrune.
 
@@ -429,7 +429,7 @@ On apportera peut-être la réponse en venant prendre les boîtes. Vous voudrez 
 On fera bien les choses.
 
 
-**** *creator_dancourt *book_dancourt_loterie *style_prose *genre_comedy *dist1_dancourt_prose_comedy_loterie *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+**** *creator_dancourt *book_dancourt_loterie *style_prose *genre_comedy *dist1_dancourt_prose_comedy_loterie *dist2_dancourt_prose_comedy *id_ERASTE *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
 
 Mille pardons charmante Mariane, d'oser ainsi paraître devant vous, quand je sais les défenses qu'on vous a faites, mais l'état on je suis semble devoir tout autoriser. Je vous adore ; vous m'avez dit que vous m'aimiez, on nous désespère ; quelles résolutions sont les vôtres ?
 
@@ -454,7 +454,7 @@ Arrêtez, Monsieur, et prenez garde à ce que vous faites.
 Vous cesserez de vous étonner, mon oncle , quand vous saurez que je suis amoureux de la charmante Mariane, que son père me l'avait promise , et que....
 
 
-**** *creator_dancourt *book_dancourt_loterie *style_prose *genre_comedy *dist1_dancourt_prose_comedy_loterie *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_signolet
+**** *creator_dancourt *book_dancourt_loterie *style_prose *genre_comedy *dist1_dancourt_prose_comedy_loterie *dist2_dancourt_prose_comedy *id_SIGNOLET *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_signolet
 
 Oh dame, Monsieur, venez donc là-bas, s'il vous plaît, faire tenir ces nigauds-là qui sont à votre porte.
 
@@ -481,7 +481,7 @@ Ils enfoncent la barricade ; ils ont arraché à un des Suisses un côté de mou
 Non, non, ils l'allont noyer, je pense ; et puis ils disont qu'ils reviendront nous brûler nous autres. Oh dame acoûtez ça serait chagrinant, bâillons-nous en de garde.
 
 
-**** *creator_dancourt *book_dancourt_loterie *style_prose *genre_comedy *dist1_dancourt_prose_comedy_loterie *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_legascon
+**** *creator_dancourt *book_dancourt_loterie *style_prose *genre_comedy *dist1_dancourt_prose_comedy_loterie *dist2_dancourt_prose_comedy *id_LEGASCON *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_legascon
 
 Que je vous embrasse, mon cher Monsieur de Sbrigany, que je vous embrasse, je suis votre très humble serviteur ou la peste m'étouffe.
 
@@ -522,7 +522,7 @@ Je vous en sors à bon marché, ne nous brouillons point, je vous prendrai sous 
 Et vous de moi, je vous proteste. Que je ne revienne pas deux fois au moins. Serviteur l'ami, sans adieu la belle.
 
 
-**** *creator_dancourt *book_dancourt_loterie *style_prose *genre_comedy *dist1_dancourt_prose_comedy_loterie *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laprocureuse
+**** *creator_dancourt *book_dancourt_loterie *style_prose *genre_comedy *dist1_dancourt_prose_comedy_loterie *dist2_dancourt_prose_comedy *id_LAPROCUREUSE *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laprocureuse
 
 Allons Monsieur, tôt, dépêchez-moi, vite, s'il vous plaît.
 
@@ -549,7 +549,7 @@ Un busc, un busc, ah quelle effronterie, quelle volerie, un busc pour un buffet 
 Vous n'avez que faire de rire, vous n'en êtes pas où vous pensez ; on vous fera bien soutenir. Mon mari est Procureur, vous allez voir de belles écritures. Ces fripons-là avec leur busc.
 
 
-**** *creator_dancourt *book_dancourt_loterie *style_prose *genre_comedy *dist1_dancourt_prose_comedy_loterie *dist2_dancourt_prose_comedy *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
+**** *creator_dancourt *book_dancourt_loterie *style_prose *genre_comedy *dist1_dancourt_prose_comedy_loterie *dist2_dancourt_prose_comedy *id_LAMARQUISE *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
 
 Faites monter Champagne avec vous, il vous aidera.
 
@@ -574,7 +574,7 @@ J'y dispute mes droits contre ces gens-là.
 C'est Éraste.
 
 
-**** *creator_dancourt *book_dancourt_loterie *style_prose *genre_comedy *dist1_dancourt_prose_comedy_loterie *dist2_dancourt_prose_comedy *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lefinancier
+**** *creator_dancourt *book_dancourt_loterie *style_prose *genre_comedy *dist1_dancourt_prose_comedy_loterie *dist2_dancourt_prose_comedy *id_LEFINANCIER *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lefinancier
 
 C'est la Marquise ma cousine, hé que faites-vous ici, ma chère enfant ?
 

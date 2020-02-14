@@ -1,6 +1,6 @@
 
 
-**** *creator_anonyme *book_anonyme_portierduparnasse *style_prose *genre_comedy *dist1_anonyme_prose_comedy_portierduparnasse *dist2_anonyme_prose_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
+**** *creator_anonyme *book_anonyme_portierduparnasse *style_prose *genre_comedy *dist1_anonyme_prose_comedy_portierduparnasse *dist2_anonyme_prose_comedy *id_MELPOMENE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
 
 Ah ! Seigneur Apollon, je vous trouve à propos, c'est vous que je cherchais.
 
@@ -41,7 +41,7 @@ Je les connais ; elles n'ont point encore paru dans mon temple, mais j'espère q
 Quel parti prendrez-vous dans une pareille circonstance ?
 
 
-**** *creator_anonyme *book_anonyme_portierduparnasse *style_prose *genre_comedy *dist1_anonyme_prose_comedy_portierduparnasse *dist2_anonyme_prose_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
+**** *creator_anonyme *book_anonyme_portierduparnasse *style_prose *genre_comedy *dist1_anonyme_prose_comedy_portierduparnasse *dist2_anonyme_prose_comedy *id_THALIE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
 
 Vous savez le désordre qui règne dans votre Empire ?
 
@@ -68,7 +68,7 @@ Le Chasseur dont on vous parle, est bien différent des autres piéces qui se jo
 Quoi ! Parce que cet auteur, aura mis son nom à la tête d'une comédie lyrique, vous voudriez priver votre Empire d'un sujet qui en fera le plus noble soutient ?
 
 
-**** *creator_anonyme *book_anonyme_portierduparnasse *style_prose *genre_comedy *dist1_anonyme_prose_comedy_portierduparnasse *dist2_anonyme_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
+**** *creator_anonyme *book_anonyme_portierduparnasse *style_prose *genre_comedy *dist1_anonyme_prose_comedy_portierduparnasse *dist2_anonyme_prose_comedy *id_APOLLON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
 
 D'où venez-vous ma chère Melpomène, vous êtes toute essoufflée ?
 
@@ -361,7 +361,7 @@ Il a raison.
 Tu n'auras pas lieu d'être mécontent. Allez, et lorsque vous serez de retour à Paris, vous publierez partout que depuis qu'on voit tant d'auteurs de comédies mêlées d'ariettes, Apollon et les Muses n'habitent plus le Parnasse.
 
 
-**** *creator_anonyme *book_anonyme_portierduparnasse *style_prose *genre_comedy *dist1_anonyme_prose_comedy_portierduparnasse *dist2_anonyme_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tomverd
+**** *creator_anonyme *book_anonyme_portierduparnasse *style_prose *genre_comedy *dist1_anonyme_prose_comedy_portierduparnasse *dist2_anonyme_prose_comedy *id_TOMVERD *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tomverd
 
 Je suis un poète assez connu dans Paris par mes ouvrages ; j'ai toujours fait l'amusement des cercles où je me suis trouvé.
 
@@ -460,7 +460,7 @@ De portier du Parnasse, jouer avec des Comédiens de bois ?
 Allons, il faut faire une fin. Puisqu'il est ainsi, je m'enrôle dans votre petite troupe.
 
 
-**** *creator_anonyme *book_anonyme_portierduparnasse *style_prose *genre_comedy *dist1_anonyme_prose_comedy_portierduparnasse *dist2_anonyme_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_barbaro
+**** *creator_anonyme *book_anonyme_portierduparnasse *style_prose *genre_comedy *dist1_anonyme_prose_comedy_portierduparnasse *dist2_anonyme_prose_comedy *id_BARBARO *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_barbaro
 
 Je viens me plaindre à vous, Seigneur Apollon, de l'injustice la plus criante... Thalie a eu l'audace de faire sortir du Pinde tous nos Auteurs.
 
@@ -482,7 +482,7 @@ Mais, Seigneur Apollon.
 Partons.
 
 
-**** *creator_anonyme *book_anonyme_portierduparnasse *style_prose *genre_comedy *dist1_anonyme_prose_comedy_portierduparnasse *dist2_anonyme_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tranchet
+**** *creator_anonyme *book_anonyme_portierduparnasse *style_prose *genre_comedy *dist1_anonyme_prose_comedy_portierduparnasse *dist2_anonyme_prose_comedy *id_TRANCHET *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tranchet
 
 Ô ! Postérité de mes ancêtres. »
 
@@ -529,7 +529,7 @@ Au secours, à la force, on m'assomme... On me violente !
 Tout m'en veut, tout m'abandonne... « Puisque c'est ainsi, je renonce au monde, et dès demain, je cours me faire misanthrophe. »
 
 
-**** *creator_anonyme *book_anonyme_portierduparnasse *style_prose *genre_comedy *dist1_anonyme_prose_comedy_portierduparnasse *dist2_anonyme_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polichinelle
+**** *creator_anonyme *book_anonyme_portierduparnasse *style_prose *genre_comedy *dist1_anonyme_prose_comedy_portierduparnasse *dist2_anonyme_prose_comedy *id_POLICHINELLE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polichinelle
 
 Je viens vous demander une grâce.
 

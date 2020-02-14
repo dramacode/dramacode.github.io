@@ -1,6 +1,6 @@
 
 
-**** *creator_duryer *book_duryer_vendangesdesuresnes *style_verse *genre_comedy *dist1_duryer_verse_comedy_vendangesdesuresnes *dist2_duryer_verse_comedy *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tirsis
+**** *creator_duryer *book_duryer_vendangesdesuresnes *style_verse *genre_comedy *dist1_duryer_verse_comedy_vendangesdesuresnes *dist2_duryer_verse_comedy *id_TIRSIS *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tirsis
 
 Que n'es-tu véritable, et que n'est-il possible
 Que je sois un portrait afin d'être insensible !
@@ -460,7 +460,7 @@ Et mon premier Amour qui me combla de biens
 Lui rendrait un captif qui romprait ses liens.
 
 
-**** *creator_duryer *book_duryer_vendangesdesuresnes *style_verse *genre_comedy *dist1_duryer_verse_comedy_vendangesdesuresnes *dist2_duryer_verse_comedy *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philemon
+**** *creator_duryer *book_duryer_vendangesdesuresnes *style_verse *genre_comedy *dist1_duryer_verse_comedy_vendangesdesuresnes *dist2_duryer_verse_comedy *id_PHILEMON *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philemon
 
 N'as-tu quitté Paris pour venir à Suresnes
 Qu'à dessein d'y mourir ou d'y vivre à la gêne ?
@@ -606,7 +606,7 @@ Afin qu'une autre fois on te croie un peu mieux
 Prends de meilleurs témoins que ne sont pas tes yeux.
 
 
-**** *creator_duryer *book_duryer_vendangesdesuresnes *style_verse *genre_comedy *dist1_duryer_verse_comedy_vendangesdesuresnes *dist2_duryer_verse_comedy *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polidor
+**** *creator_duryer *book_duryer_vendangesdesuresnes *style_verse *genre_comedy *dist1_duryer_verse_comedy_vendangesdesuresnes *dist2_duryer_verse_comedy *id_POLIDOR *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polidor
 
       Je viens de voir Sylule.
 
@@ -1053,7 +1053,7 @@ Je crois que notre Amour vous montre clairement
 Que nous ne serons pas d'un autre sentiment.
 
 
-**** *creator_duryer *book_duryer_vendangesdesuresnes *style_verse *genre_comedy *dist1_duryer_verse_comedy_vendangesdesuresnes *dist2_duryer_verse_comedy *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorimene
+**** *creator_duryer *book_duryer_vendangesdesuresnes *style_verse *genre_comedy *dist1_duryer_verse_comedy_vendangesdesuresnes *dist2_duryer_verse_comedy *id_DORIMENE *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorimene
 
 Que je reconnais bien en l'ardeur qui m'enflamme,
 Que ce qui plaît à l'oeil ne déplaît pas à l'âme ;
@@ -1412,7 +1412,7 @@ Ainsi sans y songer, il ne m'avait ravie
 Que pour me rendre à ceux qui m'ont donné la vie.
 
 
-**** *creator_duryer *book_duryer_vendangesdesuresnes *style_verse *genre_comedy *dist1_duryer_verse_comedy_vendangesdesuresnes *dist2_duryer_verse_comedy *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_florice
+**** *creator_duryer *book_duryer_vendangesdesuresnes *style_verse *genre_comedy *dist1_duryer_verse_comedy_vendangesdesuresnes *dist2_duryer_verse_comedy *id_FLORICE *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_florice
 
 Je le trouve si froid alors que je le vois
 Qu'à la fin sa froideur a passé jusqu'à moi.
@@ -1653,7 +1653,7 @@ La volonté d'un père est la loi de la mienne
 Et je n'ai point ici d'autre voix que la sienne.
 
 
-**** *creator_duryer *book_duryer_vendangesdesuresnes *style_verse *genre_comedy *dist1_duryer_verse_comedy_vendangesdesuresnes *dist2_duryer_verse_comedy *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_duryer *book_duryer_vendangesdesuresnes *style_verse *genre_comedy *dist1_duryer_verse_comedy_vendangesdesuresnes *dist2_duryer_verse_comedy *id_LISETTE *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Florice, votre humeur un peu trop inconstante
 Ne vous permettra pas d'être jamais contente.
@@ -1883,7 +1883,7 @@ Cela m'est défendu, Guillaume que t'en semble
 J'épouserais en toi quatre maris ensemble.
 
 
-**** *creator_duryer *book_duryer_vendangesdesuresnes *style_verse *genre_comedy *dist1_duryer_verse_comedy_vendangesdesuresnes *dist2_duryer_verse_comedy *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillaume
+**** *creator_duryer *book_duryer_vendangesdesuresnes *style_verse *genre_comedy *dist1_duryer_verse_comedy_vendangesdesuresnes *dist2_duryer_verse_comedy *id_GUILLAUME *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillaume
 
       Que me veux-tu Lisette ?
 
@@ -2101,7 +2101,7 @@ Tout grossier que je sois n'ayant rien mérité,
 L'on me caresserait si j'avais hérité.
 
 
-**** *creator_duryer *book_duryer_vendangesdesuresnes *style_verse *genre_comedy *dist1_duryer_verse_comedy_vendangesdesuresnes *dist2_duryer_verse_comedy *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_olenie
+**** *creator_duryer *book_duryer_vendangesdesuresnes *style_verse *genre_comedy *dist1_duryer_verse_comedy_vendangesdesuresnes *dist2_duryer_verse_comedy *id_OLENIE *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_olenie
 
 Est-ce donc Polidor qui paraît à nos yeux,
 C'est miracle, Monsieur, de vous voir en ces lieux.
@@ -2157,7 +2157,7 @@ Peut tout dessus le corps et rien dessus le coeur.
 Attendez donc encor rien ne presse l'affaire.
 
 
-**** *creator_duryer *book_duryer_vendangesdesuresnes *style_verse *genre_comedy *dist1_duryer_verse_comedy_vendangesdesuresnes *dist2_duryer_verse_comedy *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crisere
+**** *creator_duryer *book_duryer_vendangesdesuresnes *style_verse *genre_comedy *dist1_duryer_verse_comedy_vendangesdesuresnes *dist2_duryer_verse_comedy *id_CRISERE *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crisere
 
 Le parti me plaît fort, le bien qu'en dites-vous ?
 Rejetez-vous Tirsis qui vient s'offrir à nous ?
@@ -2416,7 +2416,7 @@ Nous partirons demain ; vous voyez bien aussi,
 Qu'il ne reste plus rien à vendanger ici.
 
 
-**** *creator_duryer *book_duryer_vendangesdesuresnes *style_verse *genre_comedy *dist1_duryer_verse_comedy_vendangesdesuresnes *dist2_duryer_verse_comedy *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_doripe
+**** *creator_duryer *book_duryer_vendangesdesuresnes *style_verse *genre_comedy *dist1_duryer_verse_comedy_vendangesdesuresnes *dist2_duryer_verse_comedy *id_DORIPE *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_doripe
 
 Il nous faut recevoir la loi de nos maris.
 Le mien un peu fâcheux a remis ce voyage

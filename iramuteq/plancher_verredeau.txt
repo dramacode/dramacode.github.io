@@ -1,6 +1,6 @@
 
 
-**** *creator_plancher *book_plancher_verredeau *style_prose *genre_comedy *dist1_plancher_prose_comedy_verredeau *dist2_plancher_prose_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lechevalier
+**** *creator_plancher *book_plancher_verredeau *style_prose *genre_comedy *dist1_plancher_prose_comedy_verredeau *dist2_plancher_prose_comedy *id_LECHEVALIER *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lechevalier
 
 Bien, bien, fort bien, je suis enchanté de vous voir en bonne intelligence.
 
@@ -110,7 +110,7 @@ Calmez-vous, Madame, ceci deviendrait trop violent, mais vous connaissez le rem�
 Qu'on donne à Madame un verre d'eau.
 
 
-**** *creator_plancher *book_plancher_verredeau *style_prose *genre_comedy *dist1_plancher_prose_comedy_verredeau *dist2_plancher_prose_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leveille
+**** *creator_plancher *book_plancher_verredeau *style_prose *genre_comedy *dist1_plancher_prose_comedy_verredeau *dist2_plancher_prose_comedy *id_LEVEILLE *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leveille
 
 Que faisais-tu donc avec ce benêt là ?
 
@@ -177,7 +177,7 @@ Passons, dissimulée, rien d'étonnant à cela, c'est dans l'ordre, le coeur, d'
 Comment donc Marton, tu prends la chose au tragique, allons donc, tu fais l'enfant : sans adieu, ma radieuse, souviens-toi, que je ne veux pas que la lune soit témoin de ta colère, et qu'il faut que la paix soit faite avant son lever.
 
 
-**** *creator_plancher *book_plancher_verredeau *style_prose *genre_comedy *dist1_plancher_prose_comedy_verredeau *dist2_plancher_prose_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nicaise
+**** *creator_plancher *book_plancher_verredeau *style_prose *genre_comedy *dist1_plancher_prose_comedy_verredeau *dist2_plancher_prose_comedy *id_NICAISE *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nicaise
 
 Madame n'est pas ici, mamzelle, tant mieux ! Car j'ai bien des choses à vous dégoiser, allez, j'me vante.
 
@@ -269,7 +269,7 @@ Oh ! C'est que dame, tenez, Mamzelle, déjà et d'un, je vous aimerai bien.
 Oh ! Je dis, pour ce qui est en cas de... c'est pas ça qui fait... parce que...
 
 
-**** *creator_plancher *book_plancher_verredeau *style_prose *genre_comedy *dist1_plancher_prose_comedy_verredeau *dist2_plancher_prose_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+**** *creator_plancher *book_plancher_verredeau *style_prose *genre_comedy *dist1_plancher_prose_comedy_verredeau *dist2_plancher_prose_comedy *id_LACOMTESSE *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
 
 Je n'en aime aucun.
 
@@ -378,7 +378,7 @@ Oui, Chevalier, je ne me conçois pas moi-même ; avec ma façon de penser sur t
 Le scélerat ! Je suffoque... C'en est fait, je renonce aux hommes pour jamais ; ce sont des monstres qu'on ne peut apprivoiser.
 
 
-**** *creator_plancher *book_plancher_verredeau *style_prose *genre_comedy *dist1_plancher_prose_comedy_verredeau *dist2_plancher_prose_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
+**** *creator_plancher *book_plancher_verredeau *style_prose *genre_comedy *dist1_plancher_prose_comedy_verredeau *dist2_plancher_prose_comedy *id_MARTON *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
 
 Comment, Madame, de quatre amoureux pas un ne peut vous fixer ?
 

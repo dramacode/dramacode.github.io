@@ -1,6 +1,6 @@
 
 
-**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sosias
+**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *id_SOSIAS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sosias
 
 Holà ! Hé ! Que fais-tu là, infortuné Xanthias ?
 
@@ -45,7 +45,7 @@ Qu'y a-t-il ?
 Eh bien ! Ne vous sauverez-vous pas ? Allez aux corbeaux ! Vous ne partez pas ?... Joue du bâton.
 
 
-**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_xanthias
+**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *id_XANTHIAS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_xanthias
 
 J'essaie une diversion à ma garde de nuit.
 
@@ -170,7 +170,7 @@ Mais, malheureux, il y a un second tragique de la dynastie des Karkinos, qui se 
 Mais, de par Zeus ! Tu n'auras que des cancres : voici encore un troisième Karkinos.
 
 
-**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bdelikleon
+**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *id_BDELIKLEON *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bdelikleon
 
 Xanthias, Sosias, Dormez-vous ?
 
@@ -539,7 +539,7 @@ La peste ! Tu m'assommes avec tes escarbots.
 C'est un pinnotère, le plus petit de sa race, celui qui fait de la tragédie.
 
 
-**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philokleon
+**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *id_PHILOKLEON *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philokleon
 
 Je suis la fumée qui sort.
 
@@ -902,7 +902,7 @@ Qui est-ce qui rampe donc ainsi ? Une écrevisse ou un faucheux ?
 Ô Karkinos, heureux père d'une belle lignée, quelle foule de roitelets vient s'abattre ici ! Cependant il faut jouter avec eux, infortuné ! Préparez pour eux de la saumure, si je suis vainqueur.
 
 
-**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_lechoeur
+**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *id_LECHOEUR *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_lechoeur
 
 Avance, marche ferme ! Ô Komias, tu traînes ? Par Zeus ! ce n'est plus comme autrefois ; tu étais une lanière à chien. Aujourd'hui Kharinadès est meilleur marcheur que toi. Ô Strymodoros de Konthylè, le plus distingué de nos confrères, Evergidès est-il ici, ou Khabès le Phlyen ? Ils y sont. Il s'y trouve aussi,--appapae, papaeax--le reste de cette jeunesse, qui était avec nous à Byzantion, lorsque nous montions la garde, moi et toi. Dans nos excursions de nuit, nous dérobâmes en secret le pétrin de la boulangère et nous le fendîmes pour y faire cuire nos gros légumes... Mais hâtons-nous, mes amis ; c'est aujourd'hui le tour de Lakhès : tout le monde dit que sa ruche est pleine d'argent. Aussi Kléôn, notre soutien, nous a-t-il enjoint hier de venir de bonne heure, avec une provision de trois jours de colère furieuse contre l'accusé, pour le punir de ses méfaits. Hâtons-nous donc, braves amis, avant que le jour paraisse. Marchons, et regardons bien de tous côtés avec nos lampes, de peur que quelque pierre ne nous fasse obstacle et ne nous mette à mal.
 
@@ -999,7 +999,7 @@ Je t'envie pour ton bonheur, vieillard. Quelle différence avec ses habitudes fr
 Allons ! Laissons-leur à tous un peu d'espace, afin qu'ils pirouettent devant nous, à leur aise. Voyons, enfants renommés d'un dieu marin, bondissez sur le sable et sur le rivage de la mer stérile, frères des squilles. Agitez en rond votre pied léger ; faites des écarts à la façon de Phrynikhos, si bien que, voyant vos jambes en l'air, les spectateurs se récrient. Tourne, pirouette, frappe-toi le ventre, lance ta jambe vers le ciel : devenez des toupies. Voici venir ton illustre père, le souverain des mers, émerveillé de sa postérité, si virilement pourvue. Mais conduisez-nous vite, si bon vous semble, jusqu'à la porte, et dansez ; car jamais personne jusqu'ici n'a vu un choeur dansant terminer une tragédie.
 
 
-**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_enfants
+**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *id_ENFANTS *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_enfants
 
 Un bourbier, père, père ! Prends-y garde !
 
@@ -1020,7 +1020,7 @@ Pourquoi, malheureuse mère, m'as-tu mis au monde ?
 Ô mon petit sac, tu n'es donc qu'un ornement inutile ! Hélas ! Hélas ! C'est notre lot de gémir.
 
 
-**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laboulangere
+**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *id_LABOULANGERE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laboulangere
 
 A moi, à l'aide, je t'en conjure au nom des dieux ! Cet homme m'a mise à mal en me frappant avec sa torche ; il a jeté par terre dix pains d'une obole, et quatre autres par-dessus le marché.
 
@@ -1033,7 +1033,7 @@ Tu te moques de moi. Qui que tu sois, je t'assignerai devant les agoranomes pour
 Vraiment, mon cher homme ?
 
 
-**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laccusateur
+**** *creator_aristophane *book_aristophane_guepes *style_prose *genre_comedy *dist1_aristophane_prose_comedy_guepes *dist2_aristophane_prose_comedy *id_LACCUSATEUR *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laccusateur
 
 Malheureux que je suis ! Vieillard, je t'assigne pour outrage.
 

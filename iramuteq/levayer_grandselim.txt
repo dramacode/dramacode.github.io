@@ -1,6 +1,6 @@
 
 
-**** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bajazet
+**** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *id_BAJAZET *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bajazet
 
 Ciel peux-tu conspirer pour l'intérêt d'un traître ?
 Donc dedans mes États je ne suis plus le maître,
@@ -176,7 +176,7 @@ Et pour me bien venger de leur noir attentat,
 Je me perdrai plutôt avec eux et l'État.
 
 
-**** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lasultane
+**** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *id_LASULTANE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lasultane
 
 Sage dispensateur du bon et mauvais sort,
 Qui tiens entre tes mains et ma vie et ma mort ;
@@ -549,7 +549,7 @@ Mais enfin celle-là lui peut être commune.
 En cas que par adresse on n'en vint pas à bout.
 
 
-**** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_selim
+**** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *id_SELIM *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_selim
 
 Dans l'état où je suis j'aurais droit de me plaindre,
 Si tout ce que je vois ne m'empêchait de craindre :
@@ -1097,7 +1097,7 @@ S'il ne tient qu'à ma mort, ton bonheur est parfait :
 Ce fer va te venger du mal que je t'ai fait.
 
 
-**** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_corchut
+**** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *id_CORCHUT *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_corchut
 
 Quel est donc l'accident qui vous met en colère ?
 
@@ -1355,7 +1355,7 @@ Ce long retardement a mis ton Prince en peine ;
 Achève et rend bientôt ton ordre exécuté.
 
 
-**** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achmet
+**** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *id_ACHMET *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achmet
 
 Mes yeux, me trompez-vous ?
 
@@ -1366,7 +1366,7 @@ Mes yeux, me trompez-vous ?
       Fuyons.
 
 
-**** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_izaide
+**** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *id_IZAIDE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_izaide
 
 Qu'a résolu Selim ?
 
@@ -1450,7 +1450,7 @@ Suis donc tes sentiments je suivrai mon courage,
 Meurs et je vais mourir ; à Dieu cruel, à Dieu.
 
 
-**** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aga
+**** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *id_AGA *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aga
 
 Je viens plaindre une perte importante à l'Empire ;
 Madame, et dans le deuil dont je suis abattu,
@@ -1725,7 +1725,7 @@ Seigneur ne le lis point.
 Quels violents transports que la douleur lui donne !
 
 
-**** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_haly
+**** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *id_HALY *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_haly
 
       Ne t'en mets plus en peine.
 

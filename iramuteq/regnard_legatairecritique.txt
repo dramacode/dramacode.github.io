@@ -1,6 +1,6 @@
 
 
-**** *creator_regnard *book_regnard_legatairecritique *style_prose *genre_comedy *dist1_regnard_prose_comedy_legatairecritique *dist2_regnard_prose_comedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomedien
+**** *creator_regnard *book_regnard_legatairecritique *style_prose *genre_comedy *dist1_regnard_prose_comedy_legatairecritique *dist2_regnard_prose_comedy *id_LECOMEDIEN *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomedien
 
 Messieurs, nous aurons l'honneur de vous donner demain la tragédie de... et, le jour suivant, vous aurez encore une représentation du Légataire.
 
@@ -27,7 +27,7 @@ C'est ce que je ne vous dirai pas : le public en jugera.
 Monsieur, je vous laisse avec lui : tâchez à le faire convenir qu'il a tort ; mais ne lui exposez que de bonnes raisons : il ne se paie pas de mauvais discours, je vous en avertis, et il a souvent imposé silence à des gens qui avaient autant d'esprit que vous.
 
 
-**** *creator_regnard *book_regnard_legatairecritique *style_prose *genre_comedy *dist1_regnard_prose_comedy_legatairecritique *dist2_regnard_prose_comedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+**** *creator_regnard *book_regnard_legatairecritique *style_prose *genre_comedy *dist1_regnard_prose_comedy_legatairecritique *dist2_regnard_prose_comedy *id_LECHEVALIER *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
 
 Holà, ho, monsieur l'annonceur ! Un petit mot, s'il vous plaît.
 
@@ -54,7 +54,7 @@ Le public ! Le public ! Ils n'ont autre chose à vous dire, le public ! Le pu
 Je lui parlerais fort bien, si je me trouvais tête à tête avec lui ; mais la partie n'est pas égale : il faut remettre l'affaire à une autre fois, et voir si ces messieurs voudront me rendre ma place.
 
 
-**** *creator_regnard *book_regnard_legatairecritique *style_prose *genre_comedy *dist1_regnard_prose_comedy_legatairecritique *dist2_regnard_prose_comedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+**** *creator_regnard *book_regnard_legatairecritique *style_prose *genre_comedy *dist1_regnard_prose_comedy_legatairecritique *dist2_regnard_prose_comedy *id_LEMARQUIS *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
 
 Sitôt que votre carrosse sera devant la porte, on viendra vous avertir ; mais vous en avez encore pour un quart d'heure tout au moins.
 
@@ -105,7 +105,7 @@ Je vous prie, monsieur Clistorel le sérieux, de nous dire seulement deux vers, 
 Hé bien, morbleu ! Voilà ce qui s'appelle une comédie dans les règles ! Cela vaut mieux que l'autre ; et je vous jure que l'on ne la jouera point que je n'y revienne. Je conseille à l'assemblée d'en faire autant.
 
 
-**** *creator_regnard *book_regnard_legatairecritique *style_prose *genre_comedy *dist1_regnard_prose_comedy_legatairecritique *dist2_regnard_prose_comedy *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+**** *creator_regnard *book_regnard_legatairecritique *style_prose *genre_comedy *dist1_regnard_prose_comedy_legatairecritique *dist2_regnard_prose_comedy *id_LACOMTESSE *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
 
 Holà, quelqu'un de mes gens ! N'ai-je là personne ? Mon carrosse, mon carrosse. Monsieur le Marquis, sortons d'ici. Remuez-vous donc, monsieur Boniface ; vous voilà comme une idole : faites donc avancer mon équipage.
 
@@ -180,7 +180,7 @@ Il a bien fait de venir ; j'allais me jeter dans le premier venu.
 Allons, monsieur Clistorel, donnez-moi la main.
 
 
-**** *creator_regnard *book_regnard_legatairecritique *style_prose *genre_comedy *dist1_regnard_prose_comedy_legatairecritique *dist2_regnard_prose_comedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apothicaire
+**** *creator_regnard *book_regnard_legatairecritique *style_prose *genre_comedy *dist1_regnard_prose_comedy_legatairecritique *dist2_regnard_prose_comedy *id_APOTHICAIRE *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apothicaire
 
 Les comédiens sont bien plaisants, de jouer sur leur théâtre un corps aussi illustre que celui des apothicaires ; et ce petit myrmidon de Clistorel bien impertinent de s'attaquer à un homme comme moi !
 
@@ -213,7 +213,7 @@ Moi, j'ai fait du quiproquo ! Vous en avez menti.
 Avorton de comédien !
 
 
-**** *creator_regnard *book_regnard_legatairecritique *style_prose *genre_comedy *dist1_regnard_prose_comedy_legatairecritique *dist2_regnard_prose_comedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clistorelcomedien
+**** *creator_regnard *book_regnard_legatairecritique *style_prose *genre_comedy *dist1_regnard_prose_comedy_legatairecritique *dist2_regnard_prose_comedy *id_CLISTORELCOMEDIEN *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clistorelcomedien
 
 Vous, doyen des apothicaires !
 
@@ -248,7 +248,7 @@ J'en ai menti ?
 Embryon d'apothicaire !
 
 
-**** *creator_regnard *book_regnard_legatairecritique *style_prose *genre_comedy *dist1_regnard_prose_comedy_legatairecritique *dist2_regnard_prose_comedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurboniface
+**** *creator_regnard *book_regnard_legatairecritique *style_prose *genre_comedy *dist1_regnard_prose_comedy_legatairecritique *dist2_regnard_prose_comedy *id_MONSIEURBONIFACE *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurboniface
 
 Oh ! Monsieur.
 
@@ -281,7 +281,7 @@ Dans un moment, madame, je viens vous rendre réponse.
 Madame, votre carrosse est à la porte, et vous descendrez quand il vous plaira.
 
 
-**** *creator_regnard *book_regnard_legatairecritique *style_prose *genre_comedy *dist1_regnard_prose_comedy_legatairecritique *dist2_regnard_prose_comedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurbredouille
+**** *creator_regnard *book_regnard_legatairecritique *style_prose *genre_comedy *dist1_regnard_prose_comedy_legatairecritique *dist2_regnard_prose_comedy *id_MONSIEURBREDOUILLE *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurbredouille
 
 Allez toujours devant, j'y serai aussitôt que vous ; ayez soin seulement que nous buvions bien frais, et que le rôt soit cuit à propos.
 

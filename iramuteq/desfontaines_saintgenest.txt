@@ -1,6 +1,6 @@
 
 
-**** *creator_desfontaines *book_desfontaines_saintgenest *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_saintgenest *dist2_desfontaines_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_diocletian
+**** *creator_desfontaines *book_desfontaines_saintgenest *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_saintgenest *dist2_desfontaines_verse_tragedy *id_DIOCLETIAN *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_diocletian
 
 C'est en vain Aquillin que tu penses flatter
 Un mal que cet Empire a lieu de redouter,
@@ -344,7 +344,7 @@ Mais s'il faut, Dieux ingrats, enfin que je périsse,
 Achevez vos rigueurs, et hâtez mon supplice.
 
 
-**** *creator_desfontaines *book_desfontaines_saintgenest *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_saintgenest *dist2_desfontaines_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aquillin
+**** *creator_desfontaines *book_desfontaines_saintgenest *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_saintgenest *dist2_desfontaines_verse_tragedy *id_AQUILLIN *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aquillin
 
 Ta puissance, César, est enfin sans seconde.
 Rome en te couronnant te soumet tout le monde,
@@ -470,7 +470,7 @@ Tout le monde sur vous ayant les yeux ouverts
 Vous ne sauriez périr qu'avec tout l'univers.
 
 
-**** *creator_desfontaines *book_desfontaines_saintgenest *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_saintgenest *dist2_desfontaines_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rutile
+**** *creator_desfontaines *book_desfontaines_saintgenest *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_saintgenest *dist2_desfontaines_verse_tragedy *id_RUTILE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rutile
 
 Suspends un peu, Seigneur, un décret si sévère,
 Donne quelque relâche à ta juste colère,
@@ -702,7 +702,7 @@ Voilà l'occasion qui me ramène ici.
       J'obéis, Seigneur.
 
 
-**** *creator_desfontaines *book_desfontaines_saintgenest *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_saintgenest *dist2_desfontaines_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_genest
+**** *creator_desfontaines *book_desfontaines_saintgenest *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_saintgenest *dist2_desfontaines_verse_tragedy *id_GENEST *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_genest
 
       Invincible Empereur,
 Puisque ta Majesté nous accorde l'honneur,
@@ -1256,7 +1256,7 @@ Pamphilie, ô transports qui me comblez de gloire !
 Ma Pamphilie, Adieu.
 
 
-**** *creator_desfontaines *book_desfontaines_saintgenest *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_saintgenest *dist2_desfontaines_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aristide
+**** *creator_desfontaines *book_desfontaines_saintgenest *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_saintgenest *dist2_desfontaines_verse_tragedy *id_ARISTIDE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aristide
 
 Celle d'Ardaléon, ou celle de Porphyre,
 Qui tous deux bien aimés des maîtres de l'Empire,
@@ -1463,7 +1463,7 @@ Ne veux-je point paraître aux yeux de l'Empereur,
 Le voilà, passons vite.
 
 
-**** *creator_desfontaines *book_desfontaines_saintgenest *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_saintgenest *dist2_desfontaines_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anthenor
+**** *creator_desfontaines *book_desfontaines_saintgenest *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_saintgenest *dist2_desfontaines_verse_tragedy *id_ANTHENOR *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anthenor
 
 Mais quelle Histoire enfin peut servir de sujet
 Et propre et convenable à ce rare projet ?
@@ -1559,7 +1559,7 @@ Que par mille transports produits hors de saison.
       Allons.
 
 
-**** *creator_desfontaines *book_desfontaines_saintgenest *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_saintgenest *dist2_desfontaines_verse_tragedy *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pamphilie
+**** *creator_desfontaines *book_desfontaines_saintgenest *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_saintgenest *dist2_desfontaines_verse_tragedy *id_PAMPHILIE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pamphilie
 
 Et le baptême fut la première action
 Qui flattant de ces fous la ridicule envie
@@ -1860,7 +1860,7 @@ Que tu seras contraint d'avouer en ce lieu
 Que lui seul est ton Dieu.
 
 
-**** *creator_desfontaines *book_desfontaines_saintgenest *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_saintgenest *dist2_desfontaines_verse_tragedy *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_luciane
+**** *creator_desfontaines *book_desfontaines_saintgenest *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_saintgenest *dist2_desfontaines_verse_tragedy *id_LUCIANE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_luciane
 
 Tous deux ont exercé notre profession.
 

@@ -1,6 +1,6 @@
 
 
-**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *date_1682 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lavertu
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_LAVERTU *date_1682 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lavertu
 
 Ne vous abusez point par une vaine attente :
 On n'a pas aisément les prix que je présente ;
@@ -42,7 +42,7 @@ Autrefois dans Persée en tracèrent l'image :
 J'obtiendrai qu'Apollon le ranime aujourd'hui.
 
 
-**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_persee
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_PERSEE *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_persee
 
 Belle princesse, enfin vous souffrez ma présence.
 
@@ -111,7 +111,7 @@ Vénus vient à notre secours ;
 Elle amène l'Amour et l'Hymen avec elle.
 
 
-**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cephee
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_CEPHEE *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cephee
 
 Je crains que Junon ne refuse
 D'apaiser sa haine pour nous ;
@@ -191,7 +191,7 @@ Que servent les efforts qu'il tente ?
 Le nombre tôt ou tard accable la valeur.
 
 
-**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *date_1682 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cassiope
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_CASSIOPE *date_1682 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cassiope
 
 Heureuse épouse, heureuse mère,
 Trop vaine d'un sort glorieux,
@@ -278,7 +278,7 @@ Que les dieux sont cruels ! qu'ils sont ingénieux
       Ma fille !
 
 
-**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *date_1682 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_merope
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_MEROPE *date_1682 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_merope
 
 Puissions nous désarmer le ciel qui nous menace.
 
@@ -428,7 +428,7 @@ Sauvez-vous ; profitez de mes avis fidèles :
 C'est à fuir seulement que vous devez songer.
 
 
-**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *date_1682 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_andromede
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_ANDROMEDE *date_1682 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_andromede
 
 Cessez de craindre.
 
@@ -577,7 +577,7 @@ Redoutez le courroux de Dieux
 A s'exposer pour moi c'est en vain qu'il s'obstine.
 
 
-**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phinee
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_PHINEE *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phinee
 
 Cessez de feindre.
 
@@ -728,7 +728,7 @@ Tout ici de ma rage accroît la violence :
 Allons hâter l'éclat de nos ressentiments.
 
 
-**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_MERCURE *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
 
 Persée, où courez-vous ? qu'allez-vous entreprendre ?
 
@@ -794,7 +794,7 @@ Ce lieu n'est pas pour vous un séjour assez noir,
 Venez dans la nuit éternelle.
 
 
-**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *date_1682 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_meduse
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_MEDUSE *date_1682 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_meduse
 
 J'ai perdu la beauté qui me rendit si vaine :
 Je n'ai plus ces cheveux si beaux

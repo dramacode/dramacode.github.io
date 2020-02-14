@@ -1,6 +1,6 @@
 
 
-**** *creator_beze *book_beze_abraham *style_verse *genre_tragedy *dist1_beze_verse_tragedy_abraham *dist2_beze_verse_tragedy *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_abraham
+**** *creator_beze *book_beze_abraham *style_verse *genre_tragedy *dist1_beze_verse_tragedy_abraham *dist2_beze_verse_tragedy *id_ABRAHAM *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_abraham
 
 Depuis que j'ai mon pays délaissé,
 Et de courir çà et là n'aI cessé,
@@ -454,7 +454,7 @@ Prendre le veux
 Seigneur, Seigneur.
 
 
-**** *creator_beze *book_beze_abraham *style_verse *genre_tragedy *dist1_beze_verse_tragedy_abraham *dist2_beze_verse_tragedy *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sarah
+**** *creator_beze *book_beze_abraham *style_verse *genre_tragedy *dist1_beze_verse_tragedy_abraham *dist2_beze_verse_tragedy *id_SARAH *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sarah
 
 Après avoir pensé et repensé
 Combien j'ai eu de biens le temps passé.
@@ -570,7 +570,7 @@ Et mon Isaac que m'as donné,
 J'accole en santé retourné.
 
 
-**** *creator_beze *book_beze_abraham *style_verse *genre_tragedy *dist1_beze_verse_tragedy_abraham *dist2_beze_verse_tragedy *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_isaac
+**** *creator_beze *book_beze_abraham *style_verse *genre_tragedy *dist1_beze_verse_tragedy_abraham *dist2_beze_verse_tragedy *id_ISAAC *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_isaac
 
 Holà, je vous pris demeurez,
 Comment ? Me laissez vous ainsi ?
@@ -705,7 +705,7 @@ D'aller à Dieu ?
       Ô Dieu !
 
 
-**** *creator_beze *book_beze_abraham *style_verse *genre_tragedy *dist1_beze_verse_tragedy_abraham *dist2_beze_verse_tragedy *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lange
+**** *creator_beze *book_beze_abraham *style_verse *genre_tragedy *dist1_beze_verse_tragedy_abraham *dist2_beze_verse_tragedy *id_LANGE *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lange
 
 Abraham, Abraham.
 
@@ -754,7 +754,7 @@ Et grands trésors de divine puissance,
 Puisque tu m'as porté obéissance.
 
 
-**** *creator_beze *book_beze_abraham *style_verse *genre_tragedy *dist1_beze_verse_tragedy_abraham *dist2_beze_verse_tragedy *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_satan
+**** *creator_beze *book_beze_abraham *style_verse *genre_tragedy *dist1_beze_verse_tragedy_abraham *dist2_beze_verse_tragedy *id_SATAN *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_satan
 
 Je vois, je viens, jour et nuit je travaille,
 Et m'est avis, en quelque part que j'aille,

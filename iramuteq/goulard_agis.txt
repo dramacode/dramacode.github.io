@@ -1,6 +1,6 @@
 
 
-**** *creator_goulard *book_goulard_agis *style_verse *genre_parodie *dist1_goulard_verse_parodie_agis *dist2_goulard_verse_parodie *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agis
+**** *creator_goulard *book_goulard_agis *style_verse *genre_parodie *dist1_goulard_verse_parodie_agis *dist2_goulard_verse_parodie *id_AGIS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agis
 
 Tenez, parlez-moi des grands-hommes
 Pour n'être jamais abattus.
@@ -161,7 +161,7 @@ Voilà comme on ressuscite
 Dans les bras de la beauté.
 
 
-**** *creator_goulard *book_goulard_agis *style_verse *genre_parodie *dist1_goulard_verse_parodie_agis *dist2_goulard_verse_parodie *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leonidas
+**** *creator_goulard *book_goulard_agis *style_verse *genre_parodie *dist1_goulard_verse_parodie_agis *dist2_goulard_verse_parodie *id_LEONIDAS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leonidas
 
 J'ai puni ton audace
 Et la mort où tu cours...
@@ -334,7 +334,7 @@ Serré.
 Gardes, allez ; qu'on m'obéisse.
 
 
-**** *creator_goulard *book_goulard_agis *style_verse *genre_parodie *dist1_goulard_verse_parodie_agis *dist2_goulard_verse_parodie *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_agesistrate
+**** *creator_goulard *book_goulard_agis *style_verse *genre_parodie *dist1_goulard_verse_parodie_agis *dist2_goulard_verse_parodie *id_AGESISTRATE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_agesistrate
 
 Ah ! le coeur me bat ;
 Car mon fils combat
@@ -447,7 +447,7 @@ Je serais aussi flattée
 Qu'il vécut pour vos plaisirs.
 
 
-**** *creator_goulard *book_goulard_agis *style_verse *genre_parodie *dist1_goulard_verse_parodie_agis *dist2_goulard_verse_parodie *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_chelonis
+**** *creator_goulard *book_goulard_agis *style_verse *genre_parodie *dist1_goulard_verse_parodie_agis *dist2_goulard_verse_parodie *id_CHELONIS *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_chelonis
 
 Non, j'ai suivi mon père.
 Tu souffres ; je dois partager
@@ -515,7 +515,7 @@ Demande qu'on l'applaudisse,
 En faveur de son aîné.
 
 
-**** *creator_goulard *book_goulard_agis *style_verse *genre_parodie *dist1_goulard_verse_parodie_agis *dist2_goulard_verse_parodie *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lysander
+**** *creator_goulard *book_goulard_agis *style_verse *genre_parodie *dist1_goulard_verse_parodie_agis *dist2_goulard_verse_parodie *id_LYSANDER *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lysander
 
 Ah ! ce bien à nos coeurs si cher,
 La liberté chancelle.
@@ -618,7 +618,7 @@ Un bras par-ci, l'autre par-là.....
 Mais c'est lui-même, qu'on apporte, je reprendrai ce récit-là.
 
 
-**** *creator_goulard *book_goulard_agis *style_verse *genre_parodie *dist1_goulard_verse_parodie_agis *dist2_goulard_verse_parodie *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_emphases
+**** *creator_goulard *book_goulard_agis *style_verse *genre_parodie *dist1_goulard_verse_parodie_agis *dist2_goulard_verse_parodie *id_EMPHASES *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_emphases
 
 On récit va les surprendre ;
 Mais hélas ! Quel détour prendre ?

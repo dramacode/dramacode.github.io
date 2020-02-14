@@ -1,6 +1,6 @@
 
 
-**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achille
+**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_ACHILLE *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achille
 
 Je vois avec plaisir les pertes de la Grèce,
 La valeur d'Hector m'a vengé,
@@ -187,7 +187,7 @@ Joignez nos voix,
 Pour chanter les beautés de l'objet qui m'enflamme.
 
 
-**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_patrocle
+**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_PATROCLE *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_patrocle
 
 Non, je ne saurais plus me taire,
 Je vous dois un conseil sincère.
@@ -234,7 +234,7 @@ Non, les jours les plus doux passés dans le repos
 Ne valent pas un jour marqué part la victoire.
 
 
-**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_diomede
+**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_DIOMEDE *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_diomede
 
 Ne répondrez-vous point aux désirs de la Grèce ?
 Il faut qu'en sa faveur votre colère cesse,
@@ -290,7 +290,7 @@ Après une absence cruelle,
 De retrouver sa maîtresse fidèle !
 
 
-**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
+**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_ARCAS *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
 
 Ô déplorable coup du sort !
 
@@ -321,7 +321,7 @@ L'indigne ravisseur d'Hélène
 Par une trahison a terminé son sort.
 
 
-**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agamemnon
+**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_AGAMEMNON *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agamemnon
 
 Ah ! S'il faut à ce prix assurer son repos,
 Dieux ! Qu'il en coûtera de tourments à mon âme !
@@ -363,7 +363,7 @@ Ses constantes rigueurs m'ont appris que son âme
 Ne peut brûler que pour vous.
 
 
-**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_priam
+**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_PRIAM *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_priam
 
 Restes infortunés du plus beau sang du monde,
 Polixène, ma fille et vous, veuve d'Hector,
@@ -422,7 +422,7 @@ Allons sur les autels consacrer les serments
 D'une paix éternelle.
 
 
-**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *date_1687 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_andromaque
+**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_ANDROMAQUE *date_1687 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_andromaque
 
 J'ai perdu mon époux dans un combat funeste,
 Votre valeur me l'a ravi ;
@@ -487,7 +487,7 @@ Je rendrai ma fidélité
 Aussi fameuse que ta gloire.
 
 
-**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *date_1687 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_polixene
+**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_POLIXENE *date_1687 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_polixene
 
 Que pourrais-je espérer du secours de mes pleurs,
 Si mon père et ma soeur vous trouvent inflexible !
@@ -619,7 +619,7 @@ Sans toi, je déteste la vie...
 Oui, je le jure... Hélas... Je frissonne... Je meurs.
 
 
-**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *date_1687 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_briseis
+**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_BRISEIS *date_1687 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_briseis
 
 Quel triste accueil, Dieux ! Qu'est-ce que je vois?
 Suis-je encor Briseis ? N'êtes-vous plus Achille ?

@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillet *book_corneillet_antiochus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_antiochus *dist2_corneillet_verse_tragedy *date_1666 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_seleucus
+**** *creator_corneillet *book_corneillet_antiochus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_antiochus *dist2_corneillet_verse_tragedy *id_seleucus *date_1666 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_seleucus
 
 Madame, tout est prest, et la Syrie en peine
 De rendre promptement son hommage à sa Reyne,
@@ -391,7 +391,7 @@ S'y rendra tout entier ; attendant l'heureux jour
 Qui remplissant ses vœux, couronne vostre amour.
 
 
-**** *creator_corneillet *book_corneillet_antiochus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_antiochus *dist2_corneillet_verse_tragedy *date_1666 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_stratonice
+**** *creator_corneillet *book_corneillet_antiochus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_antiochus *dist2_corneillet_verse_tragedy *id_stratonice *date_1666 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_stratonice
 
 Quoy, Prince, c'est donc moy qui vous chasse d'ici ?
 
@@ -845,7 +845,7 @@ Ma réponse, Seigneur, dépend du Roy mon Pere,
 Ses seules volontez ont droit de m'engager.
 
 
-**** *creator_corneillet *book_corneillet_antiochus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_antiochus *dist2_corneillet_verse_tragedy *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_antiochus
+**** *creator_corneillet *book_corneillet_antiochus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_antiochus *dist2_corneillet_verse_tragedy *id_antiochus *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_antiochus
 
 En vain à cét appas⁎ vous voulez que je cede,
 C'est redoubler mon mal que m'offrir ce remede,
@@ -1552,7 +1552,7 @@ Loin de punir un Fils récompense un ingrat !
 Madame…
 
 
-**** *creator_corneillet *book_corneillet_antiochus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_antiochus *dist2_corneillet_verse_tragedy *date_1666 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_arsinoe
+**** *creator_corneillet *book_corneillet_antiochus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_antiochus *dist2_corneillet_verse_tragedy *id_arsinoe *date_1666 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_arsinoe
 
 Oüy, Barsine, et le Prince a beau se déguiser,
 L'amour seul à ce trouble⁎ a droit de l'exposer,
@@ -1814,7 +1814,7 @@ Pour lire dans son cœur j'ay supposé le mien,
 On m'impute par là ce qu'il sent pour la Reyne.
 
 
-**** *creator_corneillet *book_corneillet_antiochus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_antiochus *dist2_corneillet_verse_tragedy *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tigrane
+**** *creator_corneillet *book_corneillet_antiochus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_antiochus *dist2_corneillet_verse_tragedy *id_tigrane *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tigrane
 
 Seigneur, chacun connoit avec quel avantage
 Une entiere vertu regle vostre courage,
@@ -2070,7 +2070,7 @@ N'immole dans son cœur l'amour à l'amitié.
 Seigneur…
 
 
-**** *creator_corneillet *book_corneillet_antiochus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_antiochus *dist2_corneillet_verse_tragedy *date_1666 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_phenice
+**** *creator_corneillet *book_corneillet_antiochus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_antiochus *dist2_corneillet_verse_tragedy *id_phenice *date_1666 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_phenice
 
 Ou j'ay peu de lumiere, ou le Prince, Madame,
 Cherche à cacher un mal dont la source est dans l'ame.
@@ -2121,7 +2121,7 @@ Quoy que vous ayez dit, n'aura rien entendu,
 Et loin de voir pour luy que vostre ame enflamée…
 
 
-**** *creator_corneillet *book_corneillet_antiochus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_antiochus *dist2_corneillet_verse_tragedy *date_1666 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_barsine
+**** *creator_corneillet *book_corneillet_antiochus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_antiochus *dist2_corneillet_verse_tragedy *id_barsine *date_1666 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_barsine
 
 Quoy, lors que sa langueur va jusques à l'extréme,
 Le trouble⁎ qui la suit fait connoistre qu'il aime ?

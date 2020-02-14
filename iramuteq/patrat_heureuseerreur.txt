@@ -1,6 +1,6 @@
 
 
-**** *creator_patrat *book_patrat_heureuseerreur *style_prose *genre_comedy *dist1_patrat_prose_comedy_heureuseerreur *dist2_patrat_prose_comedy *date_1783 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_patrat *book_patrat_heureuseerreur *style_prose *genre_comedy *dist1_patrat_prose_comedy_heureuseerreur *dist2_patrat_prose_comedy *id_LISETTE *date_1783 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Oh ! Pour le coup, ma réussite est certaine ; me voilà reçue chez la jeune Comtesse, et déjà dans ses bonnes grâces : elle a donné, tête baissée, dans les pièges que je lui ai tendus ; et au vif intérêt que ma maîtresse paraît prendre à ce badinage, je ne doute point que ma récompense ne soit proportionnée au plaisir que je vais lui faire.
 
@@ -138,7 +138,7 @@ Non, demandez plutôt à Madame.
 Elle-même.
 
 
-**** *creator_patrat *book_patrat_heureuseerreur *style_prose *genre_comedy *dist1_patrat_prose_comedy_heureuseerreur *dist2_patrat_prose_comedy *date_1783 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_dubois
+**** *creator_patrat *book_patrat_heureuseerreur *style_prose *genre_comedy *dist1_patrat_prose_comedy_heureuseerreur *dist2_patrat_prose_comedy *id_DUBOIS *date_1783 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_dubois
 
 Mademoiselle Lisette, il y a là une jeune paysanne qui vous demande.
 
@@ -173,7 +173,7 @@ Elle est bien jolie, oui !
 Je m'en vas. Mais il n'y en a pas une ici qui la vaille.
 
 
-**** *creator_patrat *book_patrat_heureuseerreur *style_prose *genre_comedy *dist1_patrat_prose_comedy_heureuseerreur *dist2_patrat_prose_comedy *date_1783 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_andre
+**** *creator_patrat *book_patrat_heureuseerreur *style_prose *genre_comedy *dist1_patrat_prose_comedy_heureuseerreur *dist2_patrat_prose_comedy *id_ANDRE *date_1783 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_andre
 
 Dam ! Je ne trouve personne, moi !
 

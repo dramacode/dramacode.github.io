@@ -1,6 +1,6 @@
 
 
-**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artabaze
+**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *id_ARTABAZE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artabaze
 
 Je suis l'amour du Ciel, et l'effroi de la Terre ;
 L'ennemi de la paix, le foudre de la guerre ;
@@ -414,7 +414,7 @@ Bon homme, supportez cette douleur extrême,
 Car je suis seulement amoureux de moi-même.
 
 
-**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amidor
+**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *id_AMIDOR *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amidor
 
 Je sors des antres noirs du mont Parnassien,
 Où le fils poil-doré du grand Saturnien
@@ -899,7 +899,7 @@ C'est elle qui remplit la bouche et la pensée.
 C'est toi qui d'Atropos me rendras le vainqueur.
 
 
-**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_filidan
+**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *id_FILIDAN *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_filidan
 
 Voici ce cher ami, cet esprit merveilleux.
 
@@ -1161,7 +1161,7 @@ Il ne m'importe donc, mon âme en est ravie.
 Je te veux, belle Idée, aimer toute ma vie.
 
 
-**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phalante
+**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *id_PHALANTE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phalante
 
 Rigoureuse Mélisse, à qui réservez-vous
 Ce coeur si plein d'orgueil, si rempli de courroux ?
@@ -1479,7 +1479,7 @@ Cela peut arriver de moment en moment.
 Avec mes biens d'espoir je me ris des malheurs.
 
 
-**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melisse
+**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *id_MELISSE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melisse
 
 Phalante, à nul de ceux que l'on voit sur la terre.
 
@@ -1754,7 +1754,7 @@ Rien ne peut me résoudre au lien conjugal
 Si ce n'est Alexandre, ou du moins son égal.
 
 
-**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hesperie
+**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *id_HESPERIE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hesperie
 
 Cet amant s'est pâmé dès l'heure qu'il m'a vue ;
 De quels traits, ma beauté, le ciel t'a-t-il pourvue ?
@@ -2044,7 +2044,7 @@ Que plutôt que mourir ils vivent malheureux.
 Il n'ose me nommer, ô respect admirable !
 
 
-**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sestiane
+**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *id_SESTIANE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sestiane
 
 Quels sont vos différents ? Les pourraient-on savoir ?
 
@@ -2224,7 +2224,7 @@ Je ne suis pas si sotte ; aussi je vous promets
 Pour toutes ces raisons d'être fille à jamais.
 
 
-**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcidon
+**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *id_ALCIDON *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcidon
 
 Lysandre, il est certain : mais pour choisir un gendre,
 Il s'en présente tant, qu'on ne sait lequel prendre.
@@ -2595,7 +2595,7 @@ De l'honneur excessif qu'il vous plaisait nous faire.
 Mais je crains celui-ci.
 
 
-**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lysandre
+**** *creator_desmarets *book_desmarets_visionnaires *style_verse *genre_comedy *dist1_desmarets_verse_comedy_visionnaires *dist2_desmarets_verse_comedy *id_LYSANDRE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lysandre
 
 Il est vrai qu'il est temps de penser à vos filles.
 Elles sont toutes trois vertueuses, gentilles.

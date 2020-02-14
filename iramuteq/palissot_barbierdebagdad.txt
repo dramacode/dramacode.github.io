@@ -1,6 +1,6 @@
 
 
-**** *creator_palissot *book_palissot_barbierdebagdad *style_prose *genre_comedy *dist1_palissot_prose_comedy_barbierdebagdad *dist2_palissot_prose_comedy *date_1758 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecadi
+**** *creator_palissot *book_palissot_barbierdebagdad *style_prose *genre_comedy *dist1_palissot_prose_comedy_barbierdebagdad *dist2_palissot_prose_comedy *id_LECADI *date_1758 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecadi
 
 Que murmurez-vous là de ce misérable ?... Mais ne serait-ce pas ?... Eh ! Oui, je pense, c'est lui-même. La peine ne saurait fuir le criminel. Approche, malheureux, approche !
 
@@ -13,7 +13,7 @@ Entrez seulement sans tant de rumeur.... Mais que vois-je ? C'est Almanzor lui-m
 Levez-vous, mes enfants ! Je ne briserai pas des noeuds que le Ciel même semble avoir pris plaisir à former.
 
 
-**** *creator_palissot *book_palissot_barbierdebagdad *style_prose *genre_comedy *dist1_palissot_prose_comedy_barbierdebagdad *dist2_palissot_prose_comedy *date_1758 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_almanzor
+**** *creator_palissot *book_palissot_barbierdebagdad *style_prose *genre_comedy *dist1_palissot_prose_comedy_barbierdebagdad *dist2_palissot_prose_comedy *id_ALMANZOR *date_1758 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_almanzor
 
 De grâce, ma chère Fatmé, que je te parle encore de Zulime.
 
@@ -219,7 +219,7 @@ Je suis au comble du bonheur. En faveur de cet événement, trouvez bon, seigneu
 Je lui pardonne aussi ; mais ne m'en parle jamais.
 
 
-**** *creator_palissot *book_palissot_barbierdebagdad *style_prose *genre_comedy *dist1_palissot_prose_comedy_barbierdebagdad *dist2_palissot_prose_comedy *date_1758 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fatme
+**** *creator_palissot *book_palissot_barbierdebagdad *style_prose *genre_comedy *dist1_palissot_prose_comedy_barbierdebagdad *dist2_palissot_prose_comedy *id_FATME *date_1758 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fatme
 
 C'est-à-dire, que vous allez me répéter ce que vous m'avez déjà dit cent fois.
 
@@ -295,7 +295,7 @@ Son père sera sorti pour quelques affaires de son commerce. Vous vous présente
 Disposez toujours de même de mes petits services. Adieu, Monsieur le chef des eunuques.
 
 
-**** *creator_palissot *book_palissot_barbierdebagdad *style_prose *genre_comedy *dist1_palissot_prose_comedy_barbierdebagdad *dist2_palissot_prose_comedy *date_1758 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_arlequin
+**** *creator_palissot *book_palissot_barbierdebagdad *style_prose *genre_comedy *dist1_palissot_prose_comedy_barbierdebagdad *dist2_palissot_prose_comedy *id_ARLEQUIN *date_1758 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_arlequin
 
 J'ai dîné quand je vois cette femme-là. Dès qu'un maître est amoureux, il n'y a plus rien à gagner que pour ces intrigantes.
 
@@ -468,7 +468,7 @@ Oh ! Que nenni, Monsieur, oh ! Que nenni ; le Barbier n'a point de vapeurs.
 Et le Barbier ?
 
 
-**** *creator_palissot *book_palissot_barbierdebagdad *style_prose *genre_comedy *dist1_palissot_prose_comedy_barbierdebagdad *dist2_palissot_prose_comedy *date_1758 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lebarbier
+**** *creator_palissot *book_palissot_barbierdebagdad *style_prose *genre_comedy *dist1_palissot_prose_comedy_barbierdebagdad *dist2_palissot_prose_comedy *id_LEBARBIER *date_1758 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lebarbier
 
 Béni soit, seigneur Almanzor, l'heureux jour qui m'approche de votre personne, le fidèle esclave qui est venu m'apporter vos ordres, et l'occasion fortunée qui me procure le précieux avantage de vous être utile !
 

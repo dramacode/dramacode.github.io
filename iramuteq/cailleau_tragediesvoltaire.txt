@@ -1,6 +1,6 @@
 
 
-**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oedipe
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *id_OEDIPE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oedipe
 
 Que je suis indignée ! Encore une soeur ! Mon Père y pense-t-il ? Combien il me fait de tort ! Dans ma jeunesse je paraissais souvent en ces lieux, je faisais plaisir : et je serais oubliée ! Non, je demanderai vengeance ; c'est une ingratitude que je ne puis pardonner à mon père. Moi qui ai fait sa réputation ! Tout le monde sait qu'il m'a l'obligation de ce qu'un Prince aussi éclairé qu'illustre, l'honora de sa protection : que c'est moi qui l'ai rendu célèbre, et je n'en suis pas mieux regardée. Mes soeurs ignorent que leur famille est augmentée, je veux les prévenir, et les faire entrer dans ma juste colère.
 
@@ -92,7 +92,7 @@ J'entends qu'on vous appelle. Allons, mes soeurs : accompagnons Tancrède jusqu'
 Oui, mais elle n'est pas encore en état de paraître dans le monde, on doit dans peu la mettre à l'étude.
 
 
-**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artemire
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *id_ARTEMIRE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artemire
 
 Pourquoi me tirer de la léthargie où j'étais ?
 
@@ -117,7 +117,7 @@ Adieu, Tancrède ; nous allons nous reposer. Comptez que nous ne vous ferons jam
 Deux malheureux ensemble trouvent de la consolation : je vous suivrai.
 
 
-**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_herodeetmariamne
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *id_HERODEETMARIAMNE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_herodeetmariamne
 
 Ce n'est pas moi. Je me suis réveillée comme vous : et si te viens ici, ce n'est que pour y rester jusqu'à ce que le bruit qui nous inquiète, cède.
 
@@ -142,7 +142,7 @@ Je me sens si faible auprès de vous, que je suis obligée de sortir. Je voudrai
 Plus je la vois, et plus je me trouve mauvaise.
 
 
-**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brutus
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *id_BRUTUS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brutus
 
 Que se passe-t-il donc ici pour ne pas s'entendre ? Approchez, Eriphile, vous marchez bien doucement.
 
@@ -190,7 +190,7 @@ Je crains cependant que le grand jour de l'impression ne vous fasse du tort. Vou
 Nous vous rendons justice en vous applaudissant.
 
 
-**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eriphile
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *id_ERIPHILE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eriphile
 
 C'est avec bien de la peine que je soutiens le grand jour. Depuis le temps que mon père me tient enfermée, je ne suis pas reconnaissable.
 
@@ -209,7 +209,7 @@ Aussi bien ne servons-nous pas à grand-chose. Tancrède vaut mieux que nous ; e
 Croyez-moi, Artemire, retournons aux Délices. Nous ne pouvons point faire de plus grande peine à notre père que d'être sous ses yeux.
 
 
-**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zaire
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *id_ZAIRE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zaire
 
 OEdipe paraît bien agitée ! Dans son égarement elle ne nous voit pas. Écoutons.
 
@@ -262,7 +262,7 @@ Souvent elle nous a rendu meilleures que nous n'étions.
 Plus je vous observe, et plus j'aperçois en vous des beautés.
 
 
-**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alzire
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *id_ALZIRE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alzire
 
 Oubliées ! Ce ne sera pas moi : je sers d'exemple.
 
@@ -303,7 +303,7 @@ Toutes ses situations sont prises dans la nature.
 Si elle avait ma conduite j'en ferais mon égale : sans cela point de quartier : je suis trop grande, et elle est trop petite.
 
 
-**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamortdecesar
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *id_LAMORTDECESAR *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamortdecesar
 
 N'êtes-vous pas surprises de me revoir sur le Théâtre ; malgré ce défaut que l'on me trouve de ne pas aimer les femmes, si c'en est un, et la haine que vous me portez, ne pouvant me souffrir parmi vous, je n'ai pu résilier à la curiosité que j'ai de voir ma nouvelle soeur : elle commence à faire un bruit étonnant.
 
@@ -324,7 +324,7 @@ Sans doute : elle ne peut pas nous déshonorer. C'est notre soeur ; soyons unies
 C'est mon avis... Vous vous y tenez toutes... Adieu : je vais dans une maison bourgeoise où ma présence est nécessaire.
 
 
-**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mahomet
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *id_MAHOMET *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mahomet
 
 Il est vrai qu'elle fait parler d'elle comme si elle était merveilleuse.
 
@@ -351,7 +351,7 @@ Dispensez-moi de parler, mon silence confirme tout ce que l'on peut avoir dit,
 Appelons Tancrède, rien ne peut la retenir .. Elle vient ! Applaudissons-la.
 
 
-**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merope
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *id_MEROPE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merope
 
 Elle ne fera jamais tant de bruit que j'en ai fait.
 
@@ -390,7 +390,7 @@ J'ai cependant un conseil à vous donner, ma soeur : c'est de vous ménager, et 
 Vous n'aurez peut-être pas cette peine : elle peut mourir en naissant.
 
 
-**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_semiramis
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *id_SEMIRAMIS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_semiramis
 
 Il ne faut pas qu'elle l'emporte sur nous. Au bruit qu'elle commence à faire, je suis bien vite accourue ici pour en empêcher la continuation.
 
@@ -425,7 +425,7 @@ Nous en avons toutes essuyées un assez grand nombre.
 Je vous envisage de même, et je vous comprends plus aisément.
 
 
-**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leducdefoix
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *id_LEDUCDEFOIX *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leducdefoix
 
 Les voilà toutes ici... Nous arrivons peut-être un peu tard c'est la faute de notre père. Au surplus, je ne suis pas bien intéressante.
 
@@ -446,7 +446,7 @@ Vous la méritez.
 Et moi, moins je me trouve bonne.
 
 
-**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_romesauvee
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *id_ROMESAUVEE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_romesauvee
 
 Si vous me voyez avec vous, c'est un effet du hasard : on peut tirer cependant quelque chose de moi.
 
@@ -467,7 +467,7 @@ Votre héros, ma Soeur, ne devait pas mourir.
 Je ne puis marcher qu'après vous, et comme vous valez mieux que moi, je me retire.
 
 
-**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lorphelindelachine
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *id_LORPHELINDELACHINE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lorphelindelachine
 
 Lorsque je me contemple auprès d'OEdipe, de Mérope, de Zaïre, et d'Alzire, je me trouve bien petite. Cela me mortifie autant que d'avoir une nouvelle soeur.
 
@@ -500,7 +500,7 @@ C'est bien dit : que Tancrède soit notre soeur, ses appas plaisent au Public, e
 Ah qu'elle est changée !
 
 
-**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tancrede
+**** *creator_cailleau *book_cailleau_tragediesvoltaire *style_prose *genre_tragedy *dist1_cailleau_prose_tragedy_tragediesvoltaire *dist2_cailleau_prose_tragedy *id_TANCREDE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tancrede
 
 Que de beautés ! Sont-ce là mes soeurs ? Ne me trompé-je pas ? Quelles sont grandes et bien faites... En voilà pourtant de ma taille, et même de plus petites que moi. Me ferai-je connaître ? Pourquoi non ? Il ne faut qu'un trait de ressemblance pour me déceler. Elles ne disent mot... et je n'ose leur parler la première.
 

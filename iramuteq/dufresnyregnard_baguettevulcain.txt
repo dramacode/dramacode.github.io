@@ -1,6 +1,6 @@
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_baguettevulcain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_baguettevulcain *dist2_dufresnyregnard_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roger
+**** *creator_dufresnyregnard *book_dufresnyregnard_baguettevulcain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_baguettevulcain *dist2_dufresnyregnard_verse_comedy *id_ROGER *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roger
 
 Enfin, Roger, voici le jour où tu dois donner des marques de ta valeur, et délivrer Bradamante de l'enchantement qui la possède depuis deux cents ans.
 Ô Amour ! Petit dieu félon,
@@ -162,7 +162,7 @@ Si de la baguette
 On est garanti !
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_baguettevulcain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_baguettevulcain *dist2_dufresnyregnard_verse_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_bradamante
+**** *creator_dufresnyregnard *book_dufresnyregnard_baguettevulcain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_baguettevulcain *dist2_dufresnyregnard_verse_comedy *id_BRADAMANTE *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_bradamante
 
 Où suis-je ?
 
@@ -198,7 +198,7 @@ Mais pour rester fille,
 J'aime autant dormir.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_baguettevulcain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_baguettevulcain *dist2_dufresnyregnard_verse_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melisse
+**** *creator_dufresnyregnard *book_dufresnyregnard_baguettevulcain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_baguettevulcain *dist2_dufresnyregnard_verse_comedy *id_MELISSE *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melisse
 
 Que je suis malheureuse ! Je vois tout le monde en joie ; mais pour moi, je ne saurais rire.
 
@@ -240,7 +240,7 @@ Qu'il n'est point de femme
 Plus sage que moi.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_baguettevulcain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_baguettevulcain *dist2_dufresnyregnard_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_floridan
+**** *creator_dufresnyregnard *book_dufresnyregnard_baguettevulcain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_baguettevulcain *dist2_dufresnyregnard_verse_comedy *id_FLORIDAN *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_floridan
 
 En me rendant le jour,
 Rendez le calme à mon amour.
@@ -275,7 +275,7 @@ Vin nouveau s'évente,
 Vin gardé s'aigrit.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_baguettevulcain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_baguettevulcain *dist2_dufresnyregnard_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zerbin
+**** *creator_dufresnyregnard *book_dufresnyregnard_baguettevulcain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_baguettevulcain *dist2_dufresnyregnard_verse_comedy *id_ZERBIN *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zerbin
 
 Je venons... pour... tenez, j'enrage :
 Enfin, je nous plaignons de n'avoir point d'enfants.
@@ -300,7 +300,7 @@ Que ces pères-là sont heureux !
 Hélas ! Que ne suis-je comme eux !
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_baguettevulcain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_baguettevulcain *dist2_dufresnyregnard_verse_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_gabrine
+**** *creator_dufresnyregnard *book_dufresnyregnard_baguettevulcain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_baguettevulcain *dist2_dufresnyregnard_verse_comedy *id_GABRINE *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_gabrine
 
 J'aurai trente ans viennent les prunes.
 
@@ -326,7 +326,7 @@ Suivons donc l'usage
 De ce bon vieux temps.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_baguettevulcain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_baguettevulcain *dist2_dufresnyregnard_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledruide
+**** *creator_dufresnyregnard *book_dufresnyregnard_baguettevulcain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_baguettevulcain *dist2_dufresnyregnard_verse_comedy *id_LEDRUIDE *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledruide
 
 Une femme est encor trop sage,
 Lorsque après avoir fait naufrage,

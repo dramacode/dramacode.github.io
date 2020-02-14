@@ -1,6 +1,6 @@
 
 
-**** *creator_letellier *book_letellier_domjuan *style_verse *genre_show *dist1_letellier_verse_show_domjuan *dist2_letellier_verse_show *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjuan
+**** *creator_letellier *book_letellier_domjuan *style_verse *genre_show *dist1_letellier_verse_show_domjuan *dist2_letellier_verse_show *id_DONJUAN *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjuan
 
 Que cet objet est charmant
 Me ravit et m'enchante
@@ -61,7 +61,7 @@ J'en mangerai fut ce un poison
 Et dût il m'en coûter la vie.
 
 
-**** *creator_letellier *book_letellier_domjuan *style_verse *genre_show *dist1_letellier_verse_show_domjuan *dist2_letellier_verse_show *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_letellier *book_letellier_domjuan *style_verse *genre_show *dist1_letellier_verse_show_domjuan *dist2_letellier_verse_show *id_ARLEQUIN *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Vous ne connaissez pas
 Ce dangereux corsaire
@@ -145,7 +145,7 @@ Vous m'entendez bien.
 Mes gages, mes gages. Ven...
 
 
-**** *creator_letellier *book_letellier_domjuan *style_verse *genre_show *dist1_letellier_verse_show_domjuan *dist2_letellier_verse_show *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+**** *creator_letellier *book_letellier_domjuan *style_verse *genre_show *dist1_letellier_verse_show_domjuan *dist2_letellier_verse_show *id_ISABELLE *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
 
 Nous jouissons au bord de ce rivage
 D'un sort heureux, d'un tranquille repos

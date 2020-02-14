@@ -1,6 +1,6 @@
 
 
-**** *creator_beaunoir *book_beaunoir_libellistes *style_prose *genre_drame *dist1_beaunoir_prose_drame_libellistes *dist2_beaunoir_prose_drame *date_1779 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_henriette
+**** *creator_beaunoir *book_beaunoir_libellistes *style_prose *genre_drame *dist1_beaunoir_prose_drame_libellistes *dist2_beaunoir_prose_drame *id_HENRIETTE *date_1779 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_henriette
 
 Oui, papa : tu ne devines pas Ã  qui je veux la donner ?
 
@@ -210,7 +210,7 @@ Georges avait raison, il me disait que tu serais heureux, je l'en aime davantage
 Toujours Georges.
 
 
-**** *creator_beaunoir *book_beaunoir_libellistes *style_prose *genre_drame *dist1_beaunoir_prose_drame_libellistes *dist2_beaunoir_prose_drame *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameberg
+**** *creator_beaunoir *book_beaunoir_libellistes *style_prose *genre_drame *dist1_beaunoir_prose_drame_libellistes *dist2_beaunoir_prose_drame *id_MADAMEBERG *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameberg
 
 Oui, Monsieur ; on m'a dit que vous vous faisiez un plaisir de secourir les infortunÃ©s, et c'est Ã  ce titre que je viens implorer votre secours.
 
@@ -237,7 +237,7 @@ Votre ami, Monsieur ?
 Ah ! Monsieur, il vous connaÃ®t, et il peut Ãªtre mÃ©chant ! Il n'a donc jamais lu dans votre coeur ? Il n'a donc jamais senti le bonheur d'Ãªtre gÃ©nÃ©reux, sensible ? De pouvoir se dire : jamais je n'ai fait rÃ©pandre une larme ; vous l'Ã©prouvez, vous, Monsieur, ce bonheur si pur ! Votre coeur ne vous reproche rien ; vous n'Ãªtes pas obligÃ© de rougir ; aussi le ciel bÃ©nira vos jours, parce que vous Ãªtes bon... Adieu, Monsieur, je n'oublierai jamais votre nom, je l'apprendrai Ã  mes enfants, ils le chÃ©riront... Ce qui m'Ã©tonne, ce qui m'afflige mÃªme, c'est qu'un honnÃªte homme comme vous, soit l'ami d'un Ãªtre aussi mÃ©chant, aussi mÃ©prisable qu'un libelliste.
 
 
-**** *creator_beaunoir *book_beaunoir_libellistes *style_prose *genre_drame *dist1_beaunoir_prose_drame_libellistes *dist2_beaunoir_prose_drame *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_robert
+**** *creator_beaunoir *book_beaunoir_libellistes *style_prose *genre_drame *dist1_beaunoir_prose_drame_libellistes *dist2_beaunoir_prose_drame *id_ROBERT *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_robert
 
 Oui, Monsieur le Baron.
 
@@ -300,7 +300,7 @@ On vient de remettre Ã  votre hÃ´tel ce paquet de la part du ministre ; j'ai
 Oui, Monsieur.
 
 
-**** *creator_beaunoir *book_beaunoir_libellistes *style_prose *genre_drame *dist1_beaunoir_prose_drame_libellistes *dist2_beaunoir_prose_drame *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_franck
+**** *creator_beaunoir *book_beaunoir_libellistes *style_prose *genre_drame *dist1_beaunoir_prose_drame_libellistes *dist2_beaunoir_prose_drame *id_FRANCK *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_franck
 
 Monsieur ?
 
@@ -408,7 +408,7 @@ Oui, Monsieur m'en a donnÃ© l'ordre.
 Maudits papiers... Ah ! Le sot mÃ©tier que celui d'auteur.
 
 
-**** *creator_beaunoir *book_beaunoir_libellistes *style_prose *genre_drame *dist1_beaunoir_prose_drame_libellistes *dist2_beaunoir_prose_drame *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_letendre
+**** *creator_beaunoir *book_beaunoir_libellistes *style_prose *genre_drame *dist1_beaunoir_prose_drame_libellistes *dist2_beaunoir_prose_drame *id_LETENDRE *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_letendre
 
 Ne vous dÃ©rangez pas, Monsieur... De grÃ¢ce ne vous dÃ©rangez pas, nous serions fÃ¢chÃ©s de vous faire perdre quelque idÃ©e brillante, quelque trait charmant.... Nous savons trop combien la moindre distraction est cruelle pour un auteur tel que vous.
 
@@ -474,7 +474,7 @@ Son valet-de-chambre ?
 En ce cas, pardon, Monsieur Franck, du petit quiproquo... Serviteur.
 
 
-**** *creator_beaunoir *book_beaunoir_libellistes *style_prose *genre_drame *dist1_beaunoir_prose_drame_libellistes *dist2_beaunoir_prose_drame *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ladouceur
+**** *creator_beaunoir *book_beaunoir_libellistes *style_prose *genre_drame *dist1_beaunoir_prose_drame_libellistes *dist2_beaunoir_prose_drame *id_LADOUCEUR *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ladouceur
 
 Nous venons seulement rendre hommage Ã  votre mÃ©rite, et vous tÃ©moigner, au nom du public entier, tout le cas qu'il fait de vos rares talents.
 

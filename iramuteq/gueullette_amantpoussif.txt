@@ -1,6 +1,6 @@
 
 
-**** *creator_gueullette *book_gueullette_amantpoussif *style_prose *genre_farce *dist1_gueullette_prose_farce_amantpoussif *dist2_gueullette_prose_farce *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cassandre
+**** *creator_gueullette *book_gueullette_amantpoussif *style_prose *genre_farce *dist1_gueullette_prose_farce_amantpoussif *dist2_gueullette_prose_farce *id_CASSANDRE *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cassandre
 
 Tiens, Gilles, va-t'en à la boucherie, j'ai parlé au boucher, il te donnera pour notre soupe deux aloyaux, et deux bons foies de veau : tu mettras au milieu un dindon de garenne, un cochon de lait, un agneau, un...
 
@@ -89,7 +89,7 @@ Monsieur est gentilhomme, mettez encore une pelle, trois pincettes, et deux souf
 Mettez pour ma fille par surcroît, Monsieur le Notaire, les quatre dadas de feu sa mère que j'ai fait mettre au blanchissage.
 
 
-**** *creator_gueullette *book_gueullette_amantpoussif *style_prose *genre_farce *dist1_gueullette_prose_farce_amantpoussif *dist2_gueullette_prose_farce *date_1720 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+**** *creator_gueullette *book_gueullette_amantpoussif *style_prose *genre_farce *dist1_gueullette_prose_farce_amantpoussif *dist2_gueullette_prose_farce *id_ISABELLE *date_1720 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
 
 Quoi ! Mon père, vous voulez me marier en face d'Église, sans m'en avoir t'avertie, avec un homme que je n'ai vu ni manié ? Je prendrais plutôt le voile d'un monastère.
 
@@ -153,7 +153,7 @@ Ah mon cher père.... Que de remerciements.
 Ah ! Cher Léandre, je ne souffrirai point que...
 
 
-**** *creator_gueullette *book_gueullette_amantpoussif *style_prose *genre_farce *dist1_gueullette_prose_farce_amantpoussif *dist2_gueullette_prose_farce *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+**** *creator_gueullette *book_gueullette_amantpoussif *style_prose *genre_farce *dist1_gueullette_prose_farce_amantpoussif *dist2_gueullette_prose_farce *id_LEANDRE *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
 
 Ah ! Charmante Isabelle, qu'ai-je appris, qu'ai-je surpris, qu'ai-je compris! Qu'ai-je oui ! Ou plutôt malheureux infortuné, qu'ai-je vu, qu'ai-je su ! Qu'ai-je entendu !
 
@@ -226,7 +226,7 @@ Ah ! Monsieur, c'en est trop, je suis piqué de la générosité de Monsieur mon
 Cela sera comme ça, Mam'selle.
 
 
-**** *creator_gueullette *book_gueullette_amantpoussif *style_prose *genre_farce *dist1_gueullette_prose_farce_amantpoussif *dist2_gueullette_prose_farce *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
+**** *creator_gueullette *book_gueullette_amantpoussif *style_prose *genre_farce *dist1_gueullette_prose_farce_amantpoussif *dist2_gueullette_prose_farce *id_GILLES *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
 
 Monsieur, faudra-t-il que je prenne du mou ?
 

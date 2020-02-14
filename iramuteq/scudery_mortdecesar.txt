@@ -1,6 +1,6 @@
 
 
-**** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cesar
+**** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *id_CESAR *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cesar
 
 La peine qu'elle sent,, me touche de pitié :
 Ce songe, est un effet d'une forte amitié
@@ -199,7 +199,7 @@ Ha ! Perfide Casca, bons dieux que veux-tu faire ?
       Et toi mon fils aussi.
 
 
-**** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_calphurnie
+**** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *id_CALPHURNIE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_calphurnie
 
 Au secours mes amis, des tigres sanguinaires,
 Exerçants sur César leurs fureurs ordinaires.
@@ -323,7 +323,7 @@ Et si quelque pitié règne en vos cœurs pour moi,
 Gardez bien d'en avoir, de ces hommes sans foi.
 
 
-**** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brute
+**** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *id_BRUTE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brute
 
 Ne délibérons plus, le sort en est jeté :
 L'excès de prévoyance est une lâcheté :
@@ -736,7 +736,7 @@ Puisse le Ciel touché, par un désir si beau,
 Nous rejoindre à la vie, ou du moins au tombeau.
 
 
-**** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_porcie
+**** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *id_PORCIE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_porcie
 
 Ne me direz vos point quelle humeur solitaire,
 Vous éloigne de moi, vous oblige à vous taire ?
@@ -892,7 +892,7 @@ Ma fin suivant la tienne (en étant éclaircie)
 Sera digne de Brute, et digne de Porcie.
 
 
-**** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cassie
+**** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *id_CASSIE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cassie
 
 Jeune et vaillant héros, de qui la République
 Espère sa franchise, et sa splendeur antique :
@@ -1034,7 +1034,7 @@ Fais donc quand tu voudras, notre destin tien.
 Je m'en vais les trouver.
 
 
-**** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepide
+**** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *id_LEPIDE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepide
 
 À ceux de qui la main gouverne l'univers,
 Les plus grand ennemis sont les moins découverts :
@@ -1082,7 +1082,7 @@ Le travail et l'honneur seront pris en commun :
 Et ces traîtres auront trois maîtres, au lieu d'un.
 
 
-**** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antoine
+**** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *id_ANTOINE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antoine
 
 Je tiens que cette crainte a la raison pour guide ;
 Votre avis est le mien, sage et prudent Lépide ;
@@ -1359,7 +1359,7 @@ Allons le desseigner : et qu'on sache en tous lieux,
 QUE L'ILLUSTRE CÉSAR, EST UA NOMBRE DES DIEUX.
 
 
-**** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_albin
+**** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *id_ALBIN *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_albin
 
 Brute ne sait-il pas que mon âme méprise,
 L'amitié du tyran, pour avoir la franchise ?

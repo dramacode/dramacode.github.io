@@ -1,6 +1,6 @@
 
 
-**** *creator_coupignybarrepiisdesfontaines *book_coupignybarrepiisdesfontaines_hommageracine *style_verse *genre_vaudeville *dist1_coupignybarrepiisdesfontaines_verse_vaudeville_hommageracine *dist2_coupignybarrepiisdesfontaines_verse_vaudeville *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_petitjean
+**** *creator_coupignybarrepiisdesfontaines *book_coupignybarrepiisdesfontaines_hommageracine *style_verse *genre_vaudeville *dist1_coupignybarrepiisdesfontaines_verse_vaudeville_hommageracine *dist2_coupignybarrepiisdesfontaines_verse_vaudeville *id_PETITJEAN *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_petitjean
 
 Ma foi, plus j'y réfléchis, plus je me trouve heureux, moi Petit-Jean, d'être devenu concierge des Champs-Élysées. Voilà ce que c'est qu'une bonne protection !
 Racine, qui fit mon destin,
@@ -188,7 +188,7 @@ Il a, d'après son langage,
 Trop besoin de les garder.
 
 
-**** *creator_coupignybarrepiisdesfontaines *book_coupignybarrepiisdesfontaines_hommageracine *style_verse *genre_vaudeville *dist1_coupignybarrepiisdesfontaines_verse_vaudeville_hommageracine *dist2_coupignybarrepiisdesfontaines_verse_vaudeville *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antoine
+**** *creator_coupignybarrepiisdesfontaines *book_coupignybarrepiisdesfontaines_hommageracine *style_verse *genre_vaudeville *dist1_coupignybarrepiisdesfontaines_verse_vaudeville_hommageracine *dist2_coupignybarrepiisdesfontaines_verse_vaudeville *id_ANTOINE *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antoine
 
 Mon ami, je vous apporte
 Des fruits de plus d'une sorte.
@@ -276,7 +276,7 @@ Qu'accompagne un flageolet,
 Aux dieux de l'art dramatique
 
 
-**** *creator_coupignybarrepiisdesfontaines *book_coupignybarrepiisdesfontaines_hommageracine *style_verse *genre_vaudeville *dist1_coupignybarrepiisdesfontaines_verse_vaudeville_hommageracine *dist2_coupignybarrepiisdesfontaines_verse_vaudeville *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moliere
+**** *creator_coupignybarrepiisdesfontaines *book_coupignybarrepiisdesfontaines_hommageracine *style_verse *genre_vaudeville *dist1_coupignybarrepiisdesfontaines_verse_vaudeville_hommageracine *dist2_coupignybarrepiisdesfontaines_verse_vaudeville *id_MOLIERE *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moliere
 
 Non ; mais pourquoi serais-je toujours sombre ? Thalie est encore la moins maltraitée des Muses, et je lui sais par-ci par-là quelques bonnes fortunes.
 Elle a noué passablement
@@ -336,7 +336,7 @@ Qu'il jette, en riant, des fleurs.
 Elle s'y entend, Laforest.
 
 
-**** *creator_coupignybarrepiisdesfontaines *book_coupignybarrepiisdesfontaines_hommageracine *style_verse *genre_vaudeville *dist1_coupignybarrepiisdesfontaines_verse_vaudeville_hommageracine *dist2_coupignybarrepiisdesfontaines_verse_vaudeville *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_boileau
+**** *creator_coupignybarrepiisdesfontaines *book_coupignybarrepiisdesfontaines_hommageracine *style_verse *genre_vaudeville *dist1_coupignybarrepiisdesfontaines_verse_vaudeville_hommageracine *dist2_coupignybarrepiisdesfontaines_verse_vaudeville *id_BOILEAU *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_boileau
 
 J'avais proscrit les Chapelains,
 Les Linières, les Bonne-Corse,
@@ -404,7 +404,7 @@ Chaque soir songez à rendre
 Ceux qu'on pourra vous prêter.
 
 
-**** *creator_coupignybarrepiisdesfontaines *book_coupignybarrepiisdesfontaines_hommageracine *style_verse *genre_vaudeville *dist1_coupignybarrepiisdesfontaines_verse_vaudeville_hommageracine *dist2_coupignybarrepiisdesfontaines_verse_vaudeville *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laforest
+**** *creator_coupignybarrepiisdesfontaines *book_coupignybarrepiisdesfontaines_hommageracine *style_verse *genre_vaudeville *dist1_coupignybarrepiisdesfontaines_verse_vaudeville_hommageracine *dist2_coupignybarrepiisdesfontaines_verse_vaudeville *id_LAFOREST *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laforest
 
 Voici du nectar frais.
 

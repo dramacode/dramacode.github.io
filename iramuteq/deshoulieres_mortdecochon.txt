@@ -1,6 +1,6 @@
 
 
-**** *creator_deshoulieres *book_deshoulieres_mortdecochon *style_verse *genre_tragedy *dist1_deshoulieres_verse_tragedy_mortdecochon *dist2_deshoulieres_verse_tragedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_grisette
+**** *creator_deshoulieres *book_deshoulieres_mortdecochon *style_verse *genre_tragedy *dist1_deshoulieres_verse_tragedy_mortdecochon *dist2_deshoulieres_verse_tragedy *id_GRISETTE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_grisette
 
 Cruels Matous, qu'osez-vous dire ?
 Songez-vous que vous m'outragez ?
@@ -46,7 +46,7 @@ Dussiez-vous être encor mille fois plus jaloux.
 Vous verrez à quel point pour lui je m'intéresse.
 
 
-**** *creator_deshoulieres *book_deshoulieres_mortdecochon *style_verse *genre_tragedy *dist1_deshoulieres_verse_tragedy_mortdecochon *dist2_deshoulieres_verse_tragedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mimy
+**** *creator_deshoulieres *book_deshoulieres_mortdecochon *style_verse *genre_tragedy *dist1_deshoulieres_verse_tragedy_mortdecochon *dist2_deshoulieres_verse_tragedy *id_MIMY *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mimy
 
 Je ne puis plus souffrir les rigueurs dont Grisette
 Paye mes soins et mon tourment ;
@@ -100,7 +100,7 @@ Ah ! cruelle Chatte, arrêtez,
 Grisette, Grisette, Grisette.
 
 
-**** *creator_deshoulieres *book_deshoulieres_mortdecochon *style_verse *genre_tragedy *dist1_deshoulieres_verse_tragedy_mortdecochon *dist2_deshoulieres_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marmuse
+**** *creator_deshoulieres *book_deshoulieres_mortdecochon *style_verse *genre_tragedy *dist1_deshoulieres_verse_tragedy_mortdecochon *dist2_deshoulieres_verse_tragedy *id_MARMUSE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marmuse
 
 À votre désespoir, Mimy,
 Je ne puis exprimer combien je suis sensible ;
@@ -202,7 +202,7 @@ On apprend à leur école
 Que l'absent a toujours tort.
 
 
-**** *creator_deshoulieres *book_deshoulieres_mortdecochon *style_verse *genre_tragedy *dist1_deshoulieres_verse_tragedy_mortdecochon *dist2_deshoulieres_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cafar
+**** *creator_deshoulieres *book_deshoulieres_mortdecochon *style_verse *genre_tragedy *dist1_deshoulieres_verse_tragedy_mortdecochon *dist2_deshoulieres_verse_tragedy *id_CAFAR *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cafar
 
 Apprenez, beaux Matous, une grande nouvelle.
 Cochon vient de perdre le jour ;

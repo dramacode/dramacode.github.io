@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillet *book_corneillet_barondalbikrac *style_verse *genre_comedy *dist1_corneillet_verse_comedy_barondalbikrac *dist2_corneillet_verse_comedy *date_1667 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_tante
+**** *creator_corneillet *book_corneillet_barondalbikrac *style_verse *genre_comedy *dist1_corneillet_verse_comedy_barondalbikrac *dist2_corneillet_verse_comedy *id_tante *date_1667 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_tante
 
 Que te dit Philipin ?
 
@@ -894,7 +894,7 @@ La Sote !
 On ne peut mieux prouver une ancienne race.
 
 
-**** *creator_corneillet *book_corneillet_barondalbikrac *style_verse *genre_comedy *dist1_corneillet_verse_comedy_barondalbikrac *dist2_corneillet_verse_comedy *date_1667 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_angelique
+**** *creator_corneillet *book_corneillet_barondalbikrac *style_verse *genre_comedy *dist1_corneillet_verse_comedy_barondalbikrac *dist2_corneillet_verse_comedy *id_angelique *date_1667 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_angelique
 
 Si j'en croy ce billet, Oronte est fort sincere,
 Il met tout son bonheur à me voir, à me plaire,
@@ -1211,7 +1211,7 @@ Il faut bien obeïr, mais je ne répons pas
 Qu'à vaincre mon dégoust jamais Oronte…
 
 
-**** *creator_corneillet *book_corneillet_barondalbikrac *style_verse *genre_comedy *dist1_corneillet_verse_comedy_barondalbikrac *dist2_corneillet_verse_comedy *date_1667 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philipin
+**** *creator_corneillet *book_corneillet_barondalbikrac *style_verse *genre_comedy *dist1_corneillet_verse_comedy_barondalbikrac *dist2_corneillet_verse_comedy *id_philipin *date_1667 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philipin
 
 Madame, il meurt pour vous. Vous sçavez si je ments,
 Je suis valet d'honneur, et quoy qu'il pûst écrire,
@@ -1464,7 +1464,7 @@ C'est bien mon fait⁎ par là.
       A peu prés.
 
 
-**** *creator_corneillet *book_corneillet_barondalbikrac *style_verse *genre_comedy *dist1_corneillet_verse_comedy_barondalbikrac *dist2_corneillet_verse_comedy *date_1667 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+**** *creator_corneillet *book_corneillet_barondalbikrac *style_verse *genre_comedy *dist1_corneillet_verse_comedy_barondalbikrac *dist2_corneillet_verse_comedy *id_leandre *date_1667 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
 
       Voyez si l'on se plaist chez vous,
 Madame.
@@ -1712,7 +1712,7 @@ A son propre repos il n'est rien qu'on ne doive,
 Goûtez-le sans chagrin.
 
 
-**** *creator_corneillet *book_corneillet_barondalbikrac *style_verse *genre_comedy *dist1_corneillet_verse_comedy_barondalbikrac *dist2_corneillet_verse_comedy *date_1667 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_oronte
+**** *creator_corneillet *book_corneillet_barondalbikrac *style_verse *genre_comedy *dist1_corneillet_verse_comedy_barondalbikrac *dist2_corneillet_verse_comedy *id_oronte *date_1667 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_oronte
 
       C'est un bien dont chacun est jaloux.
 
@@ -2306,7 +2306,7 @@ Il luy faut contre vous un pareil avantage,
 Qu'aprés vostre interest vous asseuriez le sien.
 
 
-**** *creator_corneillet *book_corneillet_barondalbikrac *style_verse *genre_comedy *dist1_corneillet_verse_comedy_barondalbikrac *dist2_corneillet_verse_comedy *date_1667 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lysette
+**** *creator_corneillet *book_corneillet_barondalbikrac *style_verse *genre_comedy *dist1_corneillet_verse_comedy_barondalbikrac *dist2_corneillet_verse_comedy *id_lysette *date_1667 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lysette
 
 Et vite.
 
@@ -2828,7 +2828,7 @@ Vous fâchez vostre Tante.
       Madame, comme il brille !
 
 
-**** *creator_corneillet *book_corneillet_barondalbikrac *style_verse *genre_comedy *dist1_corneillet_verse_comedy_barondalbikrac *dist2_corneillet_verse_comedy *date_1667 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lamontagne
+**** *creator_corneillet *book_corneillet_barondalbikrac *style_verse *genre_comedy *dist1_corneillet_verse_comedy_barondalbikrac *dist2_corneillet_verse_comedy *id_la-montagne *date_1667 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lamontagne
 
       J'ay bien eu de la peine.
 
@@ -3277,7 +3277,7 @@ Tu choisis bien.
 Viens signer avec nous, tu danseras après.
 
 
-**** *creator_corneillet *book_corneillet_barondalbikrac *style_verse *genre_comedy *dist1_corneillet_verse_comedy_barondalbikrac *dist2_corneillet_verse_comedy *date_1667 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_cascaret
+**** *creator_corneillet *book_corneillet_barondalbikrac *style_verse *genre_comedy *dist1_corneillet_verse_comedy_barondalbikrac *dist2_corneillet_verse_comedy *id_cascaret *date_1667 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_cascaret
 
 Madame.
 

@@ -1,6 +1,6 @@
 
 
-**** *creator_lagrangechancel *book_lagrangechancel_amasis *style_verse *genre_tragedy *dist1_lagrangechancel_verse_tragedy_amasis *dist2_lagrangechancel_verse_tragedy *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amasis
+**** *creator_lagrangechancel *book_lagrangechancel_amasis *style_verse *genre_tragedy *dist1_lagrangechancel_verse_tragedy_amasis *dist2_lagrangechancel_verse_tragedy *id_AMASIS *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amasis
 
 Quel est cet étranger qui demande à me voir ?
 Que veut-il ? D'où vient-il ? N'as-tu pu le savoir ?
@@ -455,7 +455,7 @@ Venez le voir au temple expirer sous nos coups :
 Venez, madame.
 
 
-**** *creator_lagrangechancel *book_lagrangechancel_amasis *style_verse *genre_tragedy *dist1_lagrangechancel_verse_tragedy_amasis *dist2_lagrangechancel_verse_tragedy *date_1701 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nitocris
+**** *creator_lagrangechancel *book_lagrangechancel_amasis *style_verse *genre_tragedy *dist1_lagrangechancel_verse_tragedy_amasis *dist2_lagrangechancel_verse_tragedy *id_NITOCRIS *date_1701 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nitocris
 
 J'aurais tort d'en douter, ô ma chère Canope !
 Il faut bien qu'à tes yeux mon coeur se développe.
@@ -814,7 +814,7 @@ Et parmi les plaisirs que promet ce grand jour,
 Par un heureux hymen couronner votre amour.
 
 
-**** *creator_lagrangechancel *book_lagrangechancel_amasis *style_verse *genre_tragedy *dist1_lagrangechancel_verse_tragedy_amasis *dist2_lagrangechancel_verse_tragedy *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sesostris
+**** *creator_lagrangechancel *book_lagrangechancel_amasis *style_verse *genre_tragedy *dist1_lagrangechancel_verse_tragedy_amasis *dist2_lagrangechancel_verse_tragedy *id_SESOSTRIS *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sesostris
 
 Ah ! Que par tant d'horreurs mon âme est attendrie !
 Que ces tristes objets redoublent ma furie !
@@ -1147,7 +1147,7 @@ Pour goûter des plaisirs si longtemps attendus,
 Et vous offrir des biens que le ciel m'a rendus.
 
 
-**** *creator_lagrangechancel *book_lagrangechancel_amasis *style_verse *genre_tragedy *dist1_lagrangechancel_verse_tragedy_amasis *dist2_lagrangechancel_verse_tragedy *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phanes
+**** *creator_lagrangechancel *book_lagrangechancel_amasis *style_verse *genre_tragedy *dist1_lagrangechancel_verse_tragedy_amasis *dist2_lagrangechancel_verse_tragedy *id_PHANES *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phanes
 
 Tandis qu'avec le jour qui commence de naître,
 Amasis en ces lieux se dispose à paraître ,
@@ -1416,7 +1416,7 @@ Et pour servir mon roi, pour le bien de l'Empire,
 Il n'est rien d'impossible au zèle qui m'inspire.
 
 
-**** *creator_lagrangechancel *book_lagrangechancel_amasis *style_verse *genre_tragedy *dist1_lagrangechancel_verse_tragedy_amasis *dist2_lagrangechancel_verse_tragedy *date_1701 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_arthenice
+**** *creator_lagrangechancel *book_lagrangechancel_amasis *style_verse *genre_tragedy *dist1_lagrangechancel_verse_tragedy_amasis *dist2_lagrangechancel_verse_tragedy *id_ARTHENICE *date_1701 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_arthenice
 
 C'est à vous d'ordonner : le roi, ni sa puissance,
 Ne saurait me soustraire à votre obéissance,
@@ -1697,7 +1697,7 @@ Quel miracle, Seigneur, permet que je vous vois ?
       Mon père ?
 
 
-**** *creator_lagrangechancel *book_lagrangechancel_amasis *style_verse *genre_tragedy *dist1_lagrangechancel_verse_tragedy_amasis *dist2_lagrangechancel_verse_tragedy *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_menes
+**** *creator_lagrangechancel *book_lagrangechancel_amasis *style_verse *genre_tragedy *dist1_lagrangechancel_verse_tragedy_amasis *dist2_lagrangechancel_verse_tragedy *id_MENES *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_menes
 
 Ah ! Seigneur, je vous vois, et j'en rends grâce aux dieux.
 

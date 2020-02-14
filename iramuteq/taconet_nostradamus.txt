@@ -1,6 +1,6 @@
 
 
-**** *creator_taconet *book_taconet_nostradamus *style_verse *genre_parodie *dist1_taconet_verse_parodie_nostradamus *dist2_taconet_verse_parodie *date_1756 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laensbergh
+**** *creator_taconet *book_taconet_nostradamus *style_verse *genre_parodie *dist1_taconet_verse_parodie_nostradamus *dist2_taconet_verse_parodie *id_LAENSBERGH *date_1756 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laensbergh
 
 Vois donc si j'ai tort.
 Du bas en haut,
@@ -87,7 +87,7 @@ Des astres les plus malfaisants
 Je vais emprunter la puissance.
 
 
-**** *creator_taconet *book_taconet_nostradamus *style_verse *genre_parodie *dist1_taconet_verse_parodie_nostradamus *dist2_taconet_verse_parodie *date_1756 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gaillardin
+**** *creator_taconet *book_taconet_nostradamus *style_verse *genre_parodie *dist1_taconet_verse_parodie_nostradamus *dist2_taconet_verse_parodie *id_GAILLARDIN *date_1756 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gaillardin
 
 Qu'elle nouvelle prophétie
 Vous brouille avec Nostradamus ?
@@ -128,7 +128,7 @@ Turelurelure flon, flon, flon,
 Chacun à son tour et son allure.
 
 
-**** *creator_taconet *book_taconet_nostradamus *style_verse *genre_parodie *dist1_taconet_verse_parodie_nostradamus *dist2_taconet_verse_parodie *date_1756 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aigrefine
+**** *creator_taconet *book_taconet_nostradamus *style_verse *genre_parodie *dist1_taconet_verse_parodie_nostradamus *dist2_taconet_verse_parodie *id_AIGREFINE *date_1756 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aigrefine
 
 Je sens comme vous nos alarmes.
 La nouvelle année a des charmes.
@@ -232,7 +232,7 @@ Les voisines des environs,
 Sont mes bonnes amies.
 
 
-**** *creator_taconet *book_taconet_nostradamus *style_verse *genre_parodie *dist1_taconet_verse_parodie_nostradamus *dist2_taconet_verse_parodie *date_1756 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_follette
+**** *creator_taconet *book_taconet_nostradamus *style_verse *genre_parodie *dist1_taconet_verse_parodie_nostradamus *dist2_taconet_verse_parodie *id_FOLLETTE *date_1756 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_follette
 
 Je ne suis plus la même,
 Depuis que dans ce lieu,
@@ -343,7 +343,7 @@ L'année est un jour pour eux,
 Quand ils font fidèles.
 
 
-**** *creator_taconet *book_taconet_nostradamus *style_verse *genre_parodie *dist1_taconet_verse_parodie_nostradamus *dist2_taconet_verse_parodie *date_1756 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nostradamus
+**** *creator_taconet *book_taconet_nostradamus *style_verse *genre_parodie *dist1_taconet_verse_parodie_nostradamus *dist2_taconet_verse_parodie *id_NOSTRADAMUS *date_1756 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nostradamus
 
 De mon étoile,
 J'ai lieu d'être content.
@@ -503,7 +503,7 @@ Je suis volontaire
 Du Dieu de Cythere.
 
 
-**** *creator_taconet *book_taconet_nostradamus *style_verse *genre_parodie *dist1_taconet_verse_parodie_nostradamus *dist2_taconet_verse_parodie *date_1756 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_delapierre
+**** *creator_taconet *book_taconet_nostradamus *style_verse *genre_parodie *dist1_taconet_verse_parodie_nostradamus *dist2_taconet_verse_parodie *id_DELAPIERRE *date_1756 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_delapierre
 
 C'est pour Nostradamus,
 Que je mets pied à terre.
@@ -579,7 +579,7 @@ Sauvons-nous : c'est Aigrefine.
 M'attrapera qui pourra.
 
 
-**** *creator_taconet *book_taconet_nostradamus *style_verse *genre_parodie *dist1_taconet_verse_parodie_nostradamus *dist2_taconet_verse_parodie *date_1756 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alix
+**** *creator_taconet *book_taconet_nostradamus *style_verse *genre_parodie *dist1_taconet_verse_parodie_nostradamus *dist2_taconet_verse_parodie *id_ALIX *date_1756 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alix
 
 Mais à la moutarde,
 Je vois que vous vous amusez :

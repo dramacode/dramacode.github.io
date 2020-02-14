@@ -1,6 +1,6 @@
 
 
-**** *creator_dufresny *book_dufresny_mariagefaitetrompu *style_verse *genre_comedy *dist1_dufresny_verse_comedy_mariagefaitetrompu *dist2_dufresny_verse_comedy *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepresident
+**** *creator_dufresny *book_dufresny_mariagefaitetrompu *style_verse *genre_comedy *dist1_dufresny_verse_comedy_mariagefaitetrompu *dist2_dufresny_verse_comedy *id_LEPRESIDENT *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepresident
 
       Ah ! Présidente, c'est vous ?
 
@@ -172,7 +172,7 @@ D'ordre !
       Est-ce fait ?
 
 
-**** *creator_dufresny *book_dufresny_mariagefaitetrompu *style_verse *genre_comedy *dist1_dufresny_verse_comedy_mariagefaitetrompu *dist2_dufresny_verse_comedy *date_1721 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lapresidente
+**** *creator_dufresny *book_dufresny_mariagefaitetrompu *style_verse *genre_comedy *dist1_dufresny_verse_comedy_mariagefaitetrompu *dist2_dufresny_verse_comedy *id_LAPRESIDENTE *date_1721 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lapresidente
 
 Monsieur le Président me cherche, attendez tous.
 Ici, Président.
@@ -455,7 +455,7 @@ Partons.
       Puisse Damis faire votre bonheur !
 
 
-**** *creator_dufresny *book_dufresny_mariagefaitetrompu *style_verse *genre_comedy *dist1_dufresny_verse_comedy_mariagefaitetrompu *dist2_dufresny_verse_comedy *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_latante
+**** *creator_dufresny *book_dufresny_mariagefaitetrompu *style_verse *genre_comedy *dist1_dufresny_verse_comedy_mariagefaitetrompu *dist2_dufresny_verse_comedy *id_LATANTE *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_latante
 
 Vous causez à ma nièce une peine cruelle,
 Valère, éloignez-vous. Je vous l'ai déjà dit,
@@ -534,7 +534,7 @@ Je puis donc à présent, comme tante et maîtresse,
 Par un nouveau contrat disposer de ma nièce.
 
 
-**** *creator_dufresny *book_dufresny_mariagefaitetrompu *style_verse *genre_comedy *dist1_dufresny_verse_comedy_mariagefaitetrompu *dist2_dufresny_verse_comedy *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laveuve
+**** *creator_dufresny *book_dufresny_mariagefaitetrompu *style_verse *genre_comedy *dist1_dufresny_verse_comedy_mariagefaitetrompu *dist2_dufresny_verse_comedy *id_LAVEUVE *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laveuve
 
       Qu'entends-je ? Ah ! Je suis hors de moi.
 Quel bonheur !
@@ -621,7 +621,7 @@ Près de ma tante allons chercher un sûr asile,
 Me voilà donc à vous ?
 
 
-**** *creator_dufresny *book_dufresny_mariagefaitetrompu *style_verse *genre_comedy *dist1_dufresny_verse_comedy_mariagefaitetrompu *dist2_dufresny_verse_comedy *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+**** *creator_dufresny *book_dufresny_mariagefaitetrompu *style_verse *genre_comedy *dist1_dufresny_verse_comedy_mariagefaitetrompu *dist2_dufresny_verse_comedy *id_VALERE *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
 
 Quelle nouvelle, ô Ciel  ! Quel affreux contretemps !
 Quand mon amour se flatte, en arrivant j'apprends,
@@ -780,7 +780,7 @@ Vous voilà donc d'accord ?
       Quel comble de bonheur !
 
 
-**** *creator_dufresny *book_dufresny_mariagefaitetrompu *style_verse *genre_comedy *dist1_dufresny_verse_comedy_mariagefaitetrompu *dist2_dufresny_verse_comedy *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ligournois
+**** *creator_dufresny *book_dufresny_mariagefaitetrompu *style_verse *genre_comedy *dist1_dufresny_verse_comedy_mariagefaitetrompu *dist2_dufresny_verse_comedy *id_LIGOURNOIS *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ligournois
 
 Oh ! Je viens d'inventer un souper de génie,
 Un repas pour la noce, où la cérémonie
@@ -821,7 +821,7 @@ Ainsi venir m'ôter une veuve, et son bien !
 Et ne lui dites pas que j'épousais sa femme.
 
 
-**** *creator_dufresny *book_dufresny_mariagefaitetrompu *style_verse *genre_comedy *dist1_dufresny_verse_comedy_mariagefaitetrompu *dist2_dufresny_verse_comedy *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lhotesse
+**** *creator_dufresny *book_dufresny_mariagefaitetrompu *style_verse *genre_comedy *dist1_dufresny_verse_comedy_mariagefaitetrompu *dist2_dufresny_verse_comedy *id_LHOTESSE *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lhotesse
 
 Attendez-moi tous là ; je vous donne audience,
 Après quelqu'un par où je veux qu'elle commence.
@@ -1132,7 +1132,7 @@ Oui ; car en cas d'alarme on le ferait sauver.
 Bon ! Les voilà partis.
 
 
-**** *creator_dufresny *book_dufresny_mariagefaitetrompu *style_verse *genre_comedy *dist1_dufresny_verse_comedy_mariagefaitetrompu *dist2_dufresny_verse_comedy *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_glacignac
+**** *creator_dufresny *book_dufresny_mariagefaitetrompu *style_verse *genre_comedy *dist1_dufresny_verse_comedy_mariagefaitetrompu *dist2_dufresny_verse_comedy *id_GLACIGNAC *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_glacignac
 
 Peu dé chose.
 

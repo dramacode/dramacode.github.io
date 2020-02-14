@@ -1,6 +1,6 @@
 
 
-**** *creator_lemierre *book_lemierre_guillaumetell *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_guillaumetell *dist2_lemierre_verse_tragedy *date_1766 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gesler
+**** *creator_lemierre *book_lemierre_guillaumetell *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_guillaumetell *dist2_lemierre_verse_tragedy *id_GESLER *date_1766 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gesler
 
 Je suis bien indigné qu'une horde grossière
 Contre l'autorité lève sa tête altière ;
@@ -362,7 +362,7 @@ Cherchons Tell, que ce traître aux supplices en proie...
 Sort cruel !
 
 
-**** *creator_lemierre *book_lemierre_guillaumetell *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_guillaumetell *dist2_lemierre_verse_tragedy *date_1766 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_melchtal
+**** *creator_lemierre *book_lemierre_guillaumetell *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_guillaumetell *dist2_lemierre_verse_tragedy *id_MELCHTAL *date_1766 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_melchtal
 
 Quoi ! Nos cantons ; cher Tell, sont-ils si séparés ?
 Quoi ! Mes malheurs ici, seraient-ils ignorés ?
@@ -585,7 +585,7 @@ Tu le vois dans leurs yeux, vient d'embraser leurs âmes,
 La victoire ou la mort.
 
 
-**** *creator_lemierre *book_lemierre_guillaumetell *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_guillaumetell *dist2_lemierre_verse_tragedy *date_1766 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_furst
+**** *creator_lemierre *book_lemierre_guillaumetell *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_guillaumetell *dist2_lemierre_verse_tragedy *id_FURST *date_1766 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_furst
 
 Nos nouveaux députés sont rentrés dans la Suisse,
 Mais sans avoir d'Albert pu fléchir l'injustice ;
@@ -691,7 +691,7 @@ Tandis qu'ailleurs Werner court, frappant d'autres coups,
 Et délivrer Melchtal et vous rendre un époux.
 
 
-**** *creator_lemierre *book_lemierre_guillaumetell *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_guillaumetell *dist2_lemierre_verse_tragedy *date_1766 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulric
+**** *creator_lemierre *book_lemierre_guillaumetell *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_guillaumetell *dist2_lemierre_verse_tragedy *id_ULRIC *date_1766 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulric
 
 Oui Seigneur c'est ici, c'est du moins vers ces lieux,
 Qu'on a vu s'assembler de ces séditieux.

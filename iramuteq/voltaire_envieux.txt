@@ -1,6 +1,6 @@
 
 
-**** *creator_voltaire *book_voltaire_envieux *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_envieux *dist2_voltaire_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleon
+**** *creator_voltaire *book_voltaire_envieux *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_envieux *dist2_voltaire_verse_tragedy *id_CLEON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleon
 
       Cessez, arrêtez Ah ! de grâce,
 Venez, cher Ariston, et que je vous embrasse.
@@ -90,7 +90,7 @@ Je suis ce grand exemple, et je dois vous venger
 Des envieux ingrats qu'on ne peut corriger.
 
 
-**** *creator_voltaire *book_voltaire_envieux *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_envieux *dist2_voltaire_verse_tragedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hortense
+**** *creator_voltaire *book_voltaire_envieux *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_envieux *dist2_voltaire_verse_tragedy *id_HORTENSE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hortense
 
       Avec plaisir vraiment
 Je vous rencontre ici tous deux en ce moment.
@@ -272,7 +272,7 @@ Nous lui pardonnons tout ; un vrai remords l'anime ;
 Son coeur est étonné d'avoir pu faire un crime.
 
 
-**** *creator_voltaire *book_voltaire_envieux *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_envieux *dist2_voltaire_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ariston
+**** *creator_voltaire *book_voltaire_envieux *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_envieux *dist2_voltaire_verse_tragedy *id_ARISTON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ariston
 
 Je veux bien l'avouer ; la part si peu commune
 Que chacun daigne prendre à ma bonne fortune
@@ -581,7 +581,7 @@ N'est-il pas bien puni, puisque je suis heureux ?
 Ah ! Ce seul châtiment suffit à l'envieux.
 
 
-**** *creator_voltaire *book_voltaire_envieux *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_envieux *dist2_voltaire_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+**** *creator_voltaire *book_voltaire_envieux *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_envieux *dist2_voltaire_verse_tragedy *id_CLITANDRE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
 
 Je suis confus pour vous d'une telle incartade.
 Quelle réception ! quelle étrange boutade !
@@ -685,7 +685,7 @@ Quoi, c'est Cléon !
       Monsieur, de grâce, apprenez-nous...
 
 
-**** *creator_voltaire *book_voltaire_envieux *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_envieux *dist2_voltaire_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zoilin
+**** *creator_voltaire *book_voltaire_envieux *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_envieux *dist2_voltaire_verse_tragedy *id_ZOILIN *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zoilin
 
 Que ces gazettes-là sont des choses cruelles !
 J'y vois presque toujours d'affligeantes nouvelles.
@@ -1088,7 +1088,7 @@ Hélas ! je suis toujours pour qu'on fasse justice.
 Ah ! pardon, monseigneur !
 
 
-**** *creator_voltaire *book_voltaire_envieux *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_envieux *dist2_voltaire_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicodon
+**** *creator_voltaire *book_voltaire_envieux *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_envieux *dist2_voltaire_verse_tragedy *id_NICODON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicodon
 
       Mon oncle, je vous prie,
 L'auriez-vous déjà vu ?
@@ -1317,7 +1317,7 @@ Je vais... Reprenez tout, billets et diamant.
 Je suis... Adieu, monsieur !
 
 
-**** *creator_voltaire *book_voltaire_envieux *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_envieux *dist2_voltaire_verse_tragedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laure
+**** *creator_voltaire *book_voltaire_envieux *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_envieux *dist2_voltaire_verse_tragedy *id_LAURE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laure
 
       Non, monsieur, pas encore.
 

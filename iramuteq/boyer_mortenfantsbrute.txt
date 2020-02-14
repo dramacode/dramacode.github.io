@@ -1,6 +1,6 @@
 
 
-**** *creator_boyer *book_boyer_mortenfantsbrute *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortenfantsbrute *dist2_boyer_verse_tragedy *date_1648 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_brute
+**** *creator_boyer *book_boyer_mortenfantsbrute *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortenfantsbrute *dist2_boyer_verse_tragedy *id_brute *date_1648 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_brute
 
 Mes enfans, les Romains se rendent à vos larmes,
 Si l'orgueil des Tarquins leur fit prendre les armes,
@@ -243,7 +243,7 @@ Pour rendre nostre nom venerable⁎aux humains,
 Faisons que tous nos jours ne servent qu'aux Romains.
 
 
-**** *creator_boyer *book_boyer_mortenfantsbrute *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortenfantsbrute *dist2_boyer_verse_tragedy *date_1648 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_tite
+**** *creator_boyer *book_boyer_mortenfantsbrute *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortenfantsbrute *dist2_boyer_verse_tragedy *id_tite *date_1648 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_tite
 
 Ouy Rome est inflexible, et cette criminelle
 Joint le titre d'injuste à celuy de rebelle⁎,
@@ -631,7 +631,7 @@ On me verra perir d'un courage⁎ si fort,
 Que j'en feray trembler les auteurs de ma mort.
 
 
-**** *creator_boyer *book_boyer_mortenfantsbrute *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortenfantsbrute *dist2_boyer_verse_tragedy *date_1648 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_tibere
+**** *creator_boyer *book_boyer_mortenfantsbrute *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortenfantsbrute *dist2_boyer_verse_tragedy *id_tibere *date_1648 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_tibere
 
 Ceux à qui vous parlez, ne sont pas inflexibles,
 Nos coeurs pour les Tarquins ne sont que trop sensibles.
@@ -979,7 +979,7 @@ Dans ce moment affreux⁎ à tout autre qu'à nous
 Ma constance et ma mort feront mille jaloux.
 
 
-**** *creator_boyer *book_boyer_mortenfantsbrute *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortenfantsbrute *dist2_boyer_verse_tragedy *date_1648 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_vitelle
+**** *creator_boyer *book_boyer_mortenfantsbrute *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortenfantsbrute *dist2_boyer_verse_tragedy *id_vitelle *date_1648 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_vitelle
 
 Ah ! malheureux Tarquin, ah ! Prince déplorable⁎ !
 Où rencontreras-tu quelque fidelle appuy,
@@ -1172,7 +1172,7 @@ Puisque seul j'ay causé leur illustre⁎ attentat,
 Fay que je serve seul de victime à l'Estat.
 
 
-**** *creator_boyer *book_boyer_mortenfantsbrute *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortenfantsbrute *dist2_boyer_verse_tragedy *date_1648 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junie
+**** *creator_boyer *book_boyer_mortenfantsbrute *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortenfantsbrute *dist2_boyer_verse_tragedy *id_junie *date_1648 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junie
 
       Il faut mourir.
 ………………………………………………………………………………
@@ -1320,7 +1320,7 @@ Mal-gré le desespoir⁎ qui regne dans mon ame,
 Je prens tes sentimens, et suis enfin ta femme.
 
 
-**** *creator_boyer *book_boyer_mortenfantsbrute *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortenfantsbrute *dist2_boyer_verse_tragedy *date_1648 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_tullie
+**** *creator_boyer *book_boyer_mortenfantsbrute *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortenfantsbrute *dist2_boyer_verse_tragedy *id_tullie *date_1648 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_tullie
 
       Ah vous vivrés Princes, si vostre vie
 Par ma mort seulemen vous peut estre ravie.
@@ -1637,7 +1637,7 @@ Où malgré les Romains, Brute, et mon malheur mesme,
 Vous me possederez et j'auray ce que j'aime.
 
 
-**** *creator_boyer *book_boyer_mortenfantsbrute *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortenfantsbrute *dist2_boyer_verse_tragedy *date_1648 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_marcelle
+**** *creator_boyer *book_boyer_mortenfantsbrute *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortenfantsbrute *dist2_boyer_verse_tragedy *id_marcelle *date_1648 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_marcelle
 
 Quand le Ciel se dispose à finir leur mal-heur,
 Vous laisser si long-temps en proye⁎ à la douleur,
@@ -1730,7 +1730,7 @@ Mon zele⁎ m'a ravy le loisir de l'oüir.
 Madame, Marcellin.
 
 
-**** *creator_boyer *book_boyer_mortenfantsbrute *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortenfantsbrute *dist2_boyer_verse_tragedy *date_1648 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_livie
+**** *creator_boyer *book_boyer_mortenfantsbrute *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortenfantsbrute *dist2_boyer_verse_tragedy *id_livie *date_1648 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_livie
 
 Perdez au nom des Dieux cette funeste envie,
 Si Brute est sans pitié, Rome en aura pour luy.
@@ -1760,7 +1760,7 @@ Qu'aux cendres de vos fils sa cendre confonduë,
 Monstre qu'en les perdant, son amour⁎ l'a perduë.
 
 
-**** *creator_boyer *book_boyer_mortenfantsbrute *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortenfantsbrute *dist2_boyer_verse_tragedy *date_1648 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_marcellin
+**** *creator_boyer *book_boyer_mortenfantsbrute *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortenfantsbrute *dist2_boyer_verse_tragedy *id_marcellin *date_1648 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_marcellin
 
       Princes il faut partir,
 L'ordre presse, et je vien pour vous en advertir.

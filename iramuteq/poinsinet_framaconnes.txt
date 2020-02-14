@@ -1,6 +1,6 @@
 
 
-**** *creator_poinsinet *book_poinsinet_framaconnes *style_verse *genre_parodie *dist1_poinsinet_verse_parodie_framaconnes *dist2_poinsinet_verse_parodie *date_1754 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levenerable
+**** *creator_poinsinet *book_poinsinet_framaconnes *style_verse *genre_parodie *dist1_poinsinet_verse_parodie_framaconnes *dist2_poinsinet_verse_parodie *id_LEVENERABLE *date_1754 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levenerable
 
 Eh bien , tout est-il prêt pour la cérémonie
 
@@ -194,7 +194,7 @@ Et que les femmes désormais
 Soient admises à nos mystères.
 
 
-**** *creator_poinsinet *book_poinsinet_framaconnes *style_verse *genre_parodie *dist1_poinsinet_verse_parodie_framaconnes *dist2_poinsinet_verse_parodie *date_1754 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hortense
+**** *creator_poinsinet *book_poinsinet_framaconnes *style_verse *genre_parodie *dist1_poinsinet_verse_parodie_framaconnes *dist2_poinsinet_verse_parodie *id_HORTENSE *date_1754 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hortense
 
 Faisons tout céder à nos efforts.
 

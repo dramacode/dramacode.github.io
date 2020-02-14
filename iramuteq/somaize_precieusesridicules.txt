@@ -1,6 +1,6 @@
 
 
-**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *date_1660 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lagrange
+**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *id_la-grange *date_1660 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_lagrange
 
       He bien ?
 
@@ -100,7 +100,7 @@ Et nous vous protestons tous deux en vérité,
 Que nous n'aurons jamais aucune jalousie.
 
 
-**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *date_1660 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_ducroisy
+**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *id_du-croisy *date_1660 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_ducroisy
 
 Seigneur, la Grange.
 
@@ -138,7 +138,7 @@ De ces rares beautez, & je vous en asseure.
 Qui sont peu d'importance.
 
 
-**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gorgibus
+**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *id_gorgibus *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gorgibus
 
 He bien ? Vous avez veu ma niepce avec ma fille
 Avez vous resolu d'entrer dans ma famille,
@@ -270,7 +270,7 @@ Puissiez vous pour jamais aller à tous les diables.
 FIN.
 
 
-**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *date_1660 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_magdelon
+**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *id_magdelon *date_1660 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_magdelon
 
 Ah ! Que dites vous là, quelle estime, mon pere
 Pourions nous toutes deux, & devrions nous faire,
@@ -693,7 +693,7 @@ Et vous marauts, encor vous avez l'assurance
 De rester dans ces lieux, apres vostre insolence.
 
 
-**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *date_1660 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_cathos
+**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *id_cathos *date_1660 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_cathos
 
       Des filles raisonnables
 Ne peuvent accepter des personnes semblables.
@@ -908,7 +908,7 @@ Vous laisser devant nous battre de cette sorte.
 Quelle confusion.
 
 
-**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *date_1660 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_marotte
+**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *id_marotte *date_1660 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_marotte
 
       Plaist-il Monsieur ?
 
@@ -951,7 +951,7 @@ De Jodelet, qui veut......
       C'est luy, Monsieur, vray m'y.
 
 
-**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *date_1660 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_mascarille
+**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *id_mascarille *date_1660 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_mascarille
 
 Là, là porteurs, hola, là, là, là, là, hola,
 Je crois que ces marauts, me veulent briser là
@@ -1450,7 +1450,7 @@ La vertu sans grandeurs n'est point icy connuë
 Et l'on l'en fait sortir, quand elle est toute nuë.
 
 
-**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *date_1660 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_jodelet
+**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *id_jodelet *date_1660 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_jodelet
 
       Ah ! Marquis,
 
@@ -1539,7 +1539,7 @@ D'un semblable revers mes sens sont esbaïs.
 Demandez si vous plaist à Monsieur le Marquis.
 
 
-**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *date_1660 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_porteur1
+**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *id_porteur1 *date_1660 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_porteur1
 
 Dame, c'est que la porte est estroitte d'entraille.
 Vous avez commandé, que l'on entrast icy,
@@ -1558,7 +1558,7 @@ Vous avez devant moy battu mon camarade,
 Et si......
 
 
-**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *date_1660 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_porteur2
+**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *id_porteur2 *date_1660 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_porteur2
 
       Et bien donc, payez-nous ?
 
@@ -1571,7 +1571,7 @@ N'avez-vous que cela, Monsieur, à nous donner ?
 Et vostre qualité⁎, nous fait elle disner⁎ ?
 
 
-**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *date_1660 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_isterie
+**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *id_isterie *date_1660 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_isterie
 
 Ouy ma chere, je vous le dis encor, je ne veux plus passer pour Pretieuse, & quelques puissantes raisons que vous me puissiez apporter, je hay maintenant ce nom, à l'égal de ce que je l'ay aimé autrefois.
 
@@ -1596,7 +1596,7 @@ Mais je croy qu'il est l'heure d'aller au Cours si nous y voulons aller aujourd'
 Allons donc ma chere, sans differer davantage.
 
 
-**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *date_1660 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_amalthee
+**** *creator_somaize *book_somaize_precieusesridicules *style_verse *genre_comedy *dist1_somaize_verse_comedy_precieusesridicules *dist2_somaize_verse_comedy *id_amalthee *date_1660 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_amalthee
 
 Certes, il faut que je vous avoüe que ma surprise n'a point de limites, & que quand j'aurois l'esprit du monde le plus penetrant, je ne pourois qu'a peine m'imaginer pourquoy vous mesprisez ce que je vous ay veu aimer avec tant d'ardeur.
 

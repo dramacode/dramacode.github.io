@@ -1,6 +1,6 @@
 
 
-**** *creator_marivaux *book_marivaux_reuniondesamours *style_prose *genre_comedie heroique *dist1_marivaux_prose_comedie heroique_reuniondesamours *dist2_marivaux_prose_comedie heroique *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
+**** *creator_marivaux *book_marivaux_reuniondesamours *style_prose *genre_comedie heroique *dist1_marivaux_prose_comedie heroique_reuniondesamours *dist2_marivaux_prose_comedie heroique *id_LAMOUR *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
 
 N'est-ce pas là Cupidon, cet usurpateur de mon empire ?
 
@@ -55,7 +55,7 @@ Quoi ! La Vertu se laisse baiser la main ?
 Adieu, Mercure, je vous quitte, et je vais la suivre.
 
 
-**** *creator_marivaux *book_marivaux_reuniondesamours *style_prose *genre_comedie heroique *dist1_marivaux_prose_comedie heroique_reuniondesamours *dist2_marivaux_prose_comedie heroique *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cupidon
+**** *creator_marivaux *book_marivaux_reuniondesamours *style_prose *genre_comedie heroique *dist1_marivaux_prose_comedie heroique_reuniondesamours *dist2_marivaux_prose_comedie heroique *id_CUPIDON *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cupidon
 
 Que vois-je ? Qui est-ce qui a l'audace de porter comme moi un carquois et des flèches ?
 
@@ -178,7 +178,7 @@ Oh ! Que non. Nous ne pouvons nous passer l'un de l'autre. Mais qu'en dites-vous
 Allons, mon camarade, je le veux bien. Embrassons-nous. Je vous apprendrai à n'être plus si sot ; et vous m'apprendrez à être plus sage.
 
 
-**** *creator_marivaux *book_marivaux_reuniondesamours *style_prose *genre_comedie heroique *dist1_marivaux_prose_comedie heroique_reuniondesamours *dist2_marivaux_prose_comedie heroique *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+**** *creator_marivaux *book_marivaux_reuniondesamours *style_prose *genre_comedie heroique *dist1_marivaux_prose_comedie heroique_reuniondesamours *dist2_marivaux_prose_comedie heroique *id_MERCURE *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
 
 Ah ! Vous voilà, seigneur Cupidon ! Je suis votre serviteur.
 
@@ -275,7 +275,7 @@ Quoi ! vous vous fâchez ?
 Vous êtes un étourdi. Vous ne l'avez que trop battu ; et je crains que vous n'ayez paru trop fort. Comment donc ! Vous égratignez, en jouant, jusqu'à la Vertu même ? Oh ! On ne vous choisira pas pour la cérémonie présente. Vous êtes trop remuant. Vous mettriez la Ville et la Cour sur un joli ton. J'entends quelqu'un. Je suis sûr que c'est Minerve qui va venir vous donner votre congé. C'est elle-même.
 
 
-**** *creator_marivaux *book_marivaux_reuniondesamours *style_prose *genre_comedie heroique *dist1_marivaux_prose_comedie heroique_reuniondesamours *dist2_marivaux_prose_comedie heroique *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_plutus
+**** *creator_marivaux *book_marivaux_reuniondesamours *style_prose *genre_comedie heroique *dist1_marivaux_prose_comedie heroique_reuniondesamours *dist2_marivaux_prose_comedie heroique *id_PLUTUS *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_plutus
 
 Bonjour, mon ami.
 
@@ -290,7 +290,7 @@ Quant à moi, je n'ai que faire d'être dans les caquets. Tout ce que je prends 
 Adieu donc, je m'en vais. Le dieu du bel esprit et moi ne nous amusons pas extrêmement ensemble. Jusqu'au revoir, Cupidon.
 
 
-**** *creator_marivaux *book_marivaux_reuniondesamours *style_prose *genre_comedie heroique *dist1_marivaux_prose_comedie heroique_reuniondesamours *dist2_marivaux_prose_comedie heroique *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
+**** *creator_marivaux *book_marivaux_reuniondesamours *style_prose *genre_comedie heroique *dist1_marivaux_prose_comedie heroique_reuniondesamours *dist2_marivaux_prose_comedie heroique *id_APOLLON *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
 
 Le retour du dieu de la tendresse me fâche. Je n'aime pas les dispositions où je vois que Minerve est pour lui. Je vous apprends qu'elle va bientôt l'amener ici, Cupidon.
 
@@ -357,7 +357,7 @@ Quand on aime, il faut bien qu'il y paraisse.
 Pour moi, serviteur au silence. Je sors.
 
 
-**** *creator_marivaux *book_marivaux_reuniondesamours *style_prose *genre_comedie heroique *dist1_marivaux_prose_comedie heroique_reuniondesamours *dist2_marivaux_prose_comedie heroique *date_1731 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laverite
+**** *creator_marivaux *book_marivaux_reuniondesamours *style_prose *genre_comedie heroique *dist1_marivaux_prose_comedie heroique_reuniondesamours *dist2_marivaux_prose_comedie heroique *id_LAVERITE *date_1731 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laverite
 
 J'arrive. Je me suis seulement amusée un instant à parler à Minerve sur le choix qu'elle a fait de certains dieux pour la cérémonie dont il est question.
 
@@ -392,7 +392,7 @@ Le plus grand des mortels, c'est le Prince qui l'aime et qui la cherche ; je met
 Au reste, Apollon, tout ce que je vous dis là ne signifie pas que je vous craigne. Vous savez aujourd'hui de quel Prince il est question. Faites tout ce qu'il vous plaira ; la Sagesse et moi, nous remplirons son âme d'un si grand amour pour les vertus, que vos flatteurs seront réduits à parler de lui comme j'en parlerai moi-même. Adieu.
 
 
-**** *creator_marivaux *book_marivaux_reuniondesamours *style_prose *genre_comedie heroique *dist1_marivaux_prose_comedie heroique_reuniondesamours *dist2_marivaux_prose_comedie heroique *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_minerve
+**** *creator_marivaux *book_marivaux_reuniondesamours *style_prose *genre_comedie heroique *dist1_marivaux_prose_comedie heroique_reuniondesamours *dist2_marivaux_prose_comedie heroique *id_MINERVE *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_minerve
 
 Vous savez, Cupidon, de quel emploi Jupiter m'a chargée. Peut-être vous plaindrez-vous du secret que je vous ai fait de notre assemblée : mais je croyais vos feux trop vifs. Quoi qu'il en soit, nous ne voulons point que le Prince ait une âme insensible. L'un de vous deux doit avoir quelque droit sur son coeur, mais la raison doit primer sur tout ; et vous êtes accusé de ne la ménager guère.
 
@@ -418,7 +418,7 @@ Venez, Déesse ; nous avons besoin de vous ici. Vous savez les motifs de notre a
 Cupidon, la Vertu décidait contre vous ; et moi-même j'allais être de son sentiment, si Jupiter n'avait pas jugé à propos de vous réunir, en vous corrigeant, pour former le coeur du Prince. Avec votre confrère, l'âme est trop tendre, il est vrai ; mais avec vous, elle est trop libertine. Il fait souvent des coeurs ridicules ; vous n'en faites que de méprisables. Il égare l'esprit ; mais vous ruinez les moeurs. Il n'a que des défauts, vous n'avez que des vices. Unissez-vous tous deux : rendez-le plus vif et plus passionné ; et qu'il vous rende plus tendre et plus raisonnable : et vous serez sans reproche. Au reste, ce n'est pas un conseil que je vous donne ; c'est un ordre de Jupiter que je vous annonce.
 
 
-**** *creator_marivaux *book_marivaux_reuniondesamours *style_prose *genre_comedie heroique *dist1_marivaux_prose_comedie heroique_reuniondesamours *dist2_marivaux_prose_comedie heroique *date_1731 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lavertu
+**** *creator_marivaux *book_marivaux_reuniondesamours *style_prose *genre_comedie heroique *dist1_marivaux_prose_comedie heroique_reuniondesamours *dist2_marivaux_prose_comedie heroique *id_LAVERTU *date_1731 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lavertu
 
 Cela serait inutile. Je suis invulnérable. Et d'ailleurs, je veux vous écouter de sang-froid, sans le secours d'aucune impression étrangère.
 

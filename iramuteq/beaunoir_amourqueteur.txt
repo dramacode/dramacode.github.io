@@ -1,6 +1,6 @@
 
 
-**** *creator_beaunoir *book_beaunoir_amourqueteur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_amourqueteur *dist2_beaunoir_prose_comedy *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
+**** *creator_beaunoir *book_beaunoir_amourqueteur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_amourqueteur *dist2_beaunoir_prose_comedy *id_LAMOUR *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
 
 C'est ce coquin de Mercure !
 
@@ -239,7 +239,7 @@ Le voilà.
 Ah ! Prenez garde qu'il ne devienne plutôt, entre vous un sujet de discorde, qu'un objet de consolation.
 
 
-**** *creator_beaunoir *book_beaunoir_amourqueteur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_amourqueteur *dist2_beaunoir_prose_comedy *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+**** *creator_beaunoir *book_beaunoir_amourqueteur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_amourqueteur *dist2_beaunoir_prose_comedy *id_MERCURE *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
 
 Je ne me trompe pas, c'est ce fripon d'Amour !
 
@@ -282,7 +282,7 @@ Eh ! Bien, suis-moi ; tu n'auras pas sujet de t'en repentir.
 Halte-là, Seigneur Amour ! Ton exil est fini. Jupiter, à la prière de tous les Dieux, nous rappelle dans l'Olympe. Il faut y remonter sur le champ.
 
 
-**** *creator_beaunoir *book_beaunoir_amourqueteur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_amourqueteur *dist2_beaunoir_prose_comedy *date_1777 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamebarbara
+**** *creator_beaunoir *book_beaunoir_amourqueteur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_amourqueteur *dist2_beaunoir_prose_comedy *id_MADAMEBARBARA *date_1777 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamebarbara
 
 Allons, Mesdemoiselles, rentrez ; il se fait déjà tard, et la promenade a été plus longue qu'à l'ordinaire.
 Qu'avez-vous donc dans la poche de votre tablier Ursule ?
@@ -370,7 +370,7 @@ Quoi ! Vous nous quittez, petit Fripon ?
 Eh ! Bien, Mesdemoiselles, que veulent donc dire ces façons-là ?
 
 
-**** *creator_beaunoir *book_beaunoir_amourqueteur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_amourqueteur *dist2_beaunoir_prose_comedy *date_1777 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_ursule
+**** *creator_beaunoir *book_beaunoir_amourqueteur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_amourqueteur *dist2_beaunoir_prose_comedy *id_URSULE *date_1777 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_ursule
 
 Bien, Madame.
 
@@ -439,7 +439,7 @@ Nous sommes perdues !
 Nous ne connaissons plus de maître ici, que celui qui tient le martinet.
 
 
-**** *creator_beaunoir *book_beaunoir_amourqueteur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_amourqueteur *dist2_beaunoir_prose_comedy *date_1777 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_agnes
+**** *creator_beaunoir *book_beaunoir_amourqueteur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_amourqueteur *dist2_beaunoir_prose_comedy *id_AGNES *date_1777 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_agnes
 
 Cela m'amuse.
 
@@ -537,7 +537,7 @@ Laissez-nous votre cordon.
 Nous le garderons bien précieusement.
 
 
-**** *creator_beaunoir *book_beaunoir_amourqueteur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_amourqueteur *dist2_beaunoir_prose_comedy *date_1777 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_brigitte
+**** *creator_beaunoir *book_beaunoir_amourqueteur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_amourqueteur *dist2_beaunoir_prose_comedy *id_BRIGITTE *date_1777 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_brigitte
 
 Ah ! Madame ! C'est une Chanson charmante ; elle est intitulée : L'Amour Quêteur... Écoutez bien, je vais vous la chanter :
 « Jupiter un jour, en fureur,
@@ -584,7 +584,7 @@ Nous ne voulons pas.
 Donnez-nous donc des gages.
 
 
-**** *creator_beaunoir *book_beaunoir_amourqueteur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_amourqueteur *dist2_beaunoir_prose_comedy *date_1777 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_rosette
+**** *creator_beaunoir *book_beaunoir_amourqueteur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_amourqueteur *dist2_beaunoir_prose_comedy *id_ROSETTE *date_1777 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_rosette
 
 Que voulez-vous, Madame ?
 

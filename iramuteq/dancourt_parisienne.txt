@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_parisienne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_parisienne *dist2_dancourt_prose_comedy *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_olimpe
+**** *creator_dancourt *book_dancourt_parisienne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_parisienne *dist2_dancourt_prose_comedy *id_OLIMPE *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_olimpe
 
 Lisette ?
 
@@ -57,7 +57,7 @@ Quelle est votre résolution, Monsieur ?
 Ma fille vous aime, cela me suffit : puissiez-vous être longtemps heureux !
 
 
-**** *creator_dancourt *book_dancourt_parisienne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_parisienne *dist2_dancourt_prose_comedy *date_1691 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_angelique
+**** *creator_dancourt *book_dancourt_parisienne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_parisienne *dist2_dancourt_prose_comedy *id_ANGELIQUE *date_1691 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_angelique
 
 Que je suis malheureuse ! Je n'ose confier mes chagrins à personne, et je serai peut-être la victime de ma timidité.
 
@@ -233,7 +233,7 @@ Elle ne sait ce qu'elle dit, Madame.
 Ne me condamnez point avant que de m'entendre, Madame, deux mots suffiront pour me justifier.
 
 
-**** *creator_dancourt *book_dancourt_parisienne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_parisienne *dist2_dancourt_prose_comedy *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_dancourt *book_dancourt_parisienne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_parisienne *dist2_dancourt_prose_comedy *id_LISETTE *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Ah double chien ! C'est toi ; je te trouve à la fin, après t'avoir si longtemps cherché ?
 
@@ -492,7 +492,7 @@ Oh, il ne sait pas si bien vivre que vous, et il ne reconduira personne.
 Voilà le certificat qui m'est venu, il n'y a rien à faire.
 
 
-**** *creator_dancourt *book_dancourt_parisienne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_parisienne *dist2_dancourt_prose_comedy *date_1691 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_damis
+**** *creator_dancourt *book_dancourt_parisienne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_parisienne *dist2_dancourt_prose_comedy *id_DAMIS *date_1691 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_damis
 
 Hem, hem, hem.
 
@@ -585,7 +585,7 @@ Ne vous pressez point de me remercier, Monsieur mon fils.
 Tais-toi, insolente. On te mettra dehors, toi, et je veux que ce soit le premier article du Contrat.
 
 
-**** *creator_dancourt *book_dancourt_parisienne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_parisienne *dist2_dancourt_prose_comedy *date_1691 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_eraste
+**** *creator_dancourt *book_dancourt_parisienne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_parisienne *dist2_dancourt_prose_comedy *id_ERASTE *date_1691 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_eraste
 
 Quelle fatalité !
 
@@ -650,7 +650,7 @@ Ah, mon père, que je suis redevable !
 Puis-je me flatter, Madame…
 
 
-**** *creator_dancourt *book_dancourt_parisienne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_parisienne *dist2_dancourt_prose_comedy *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lolive
+**** *creator_dancourt *book_dancourt_parisienne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_parisienne *dist2_dancourt_prose_comedy *id_LOLIVE *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lolive
 
 Le voilà bien fâché ?
 
@@ -781,7 +781,7 @@ Comment ?
 Quoi ? C'est ta femme ?
 
 
-**** *creator_dancourt *book_dancourt_parisienne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_parisienne *dist2_dancourt_prose_comedy *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lavigne
+**** *creator_dancourt *book_dancourt_parisienne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_parisienne *dist2_dancourt_prose_comedy *id_LAVIGNE *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lavigne
 
 Voilà une mauvaise espèce de rhume.
 
@@ -872,7 +872,7 @@ Oui, mon cher Monsieur de l'Olive, je vous certifie, que grâces au Ciel, je me 
 Oui, mon enfant, et je voudrais bien qu'il me fût permis de m'en défaire en ta faveur, je ferais volontiers les frais de la noce ; je crois ma foi que j'y gagnerais encore.
 
 
-**** *creator_dancourt *book_dancourt_parisienne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_parisienne *dist2_dancourt_prose_comedy *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisimon
+**** *creator_dancourt *book_dancourt_parisienne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_parisienne *dist2_dancourt_prose_comedy *id_LISIMON *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisimon
 
 Diantre soit fait des importuns ! Deux petits collets, maltraités du Lansquenet, Madame, qui depuis un quart d'heure m'arrêtent à cent pas d'ici, et pour quoi. Pour de l'argent, que je suis fat de leur prêter ; mais, il n'importe.
 Vous y perdez autant que moi, la belle. Ils vous ont volée ; et sans savoir vous trouver ici, je vous avais destiné ma bourse.
@@ -890,7 +890,7 @@ Quoi ? Qu'est-ce ? Qu'avez-vous ?
 Mon ressentiment vous émeut, c'est quelque chose. Adieu, Madame, je vous abandonne à vos réflexions. Je porte une épée, et le pistolet quelquefois. Tombe sur moi, le Firmament, si le drôle ne meurt de ma main.
 
 
-**** *creator_dancourt *book_dancourt_parisienne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_parisienne *dist2_dancourt_prose_comedy *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+**** *creator_dancourt *book_dancourt_parisienne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_parisienne *dist2_dancourt_prose_comedy *id_DORANTE *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
 
 Enfin, Madame, je m'arrache aux affaires les plus importantes, pour ne pas perdre le moment favorable de vous exprimer.
 

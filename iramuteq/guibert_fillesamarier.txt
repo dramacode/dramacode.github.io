@@ -1,6 +1,6 @@
 
 
-**** *creator_guibert *book_guibert_fillesamarier *style_verse *genre_comedy *dist1_guibert_verse_comedy_fillesamarier *dist2_guibert_verse_comedy *date_1768 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_cathis
+**** *creator_guibert *book_guibert_fillesamarier *style_verse *genre_comedy *dist1_guibert_verse_comedy_fillesamarier *dist2_guibert_verse_comedy *id_CATHIS *date_1768 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_cathis
 
 Le moyen, s'il vous plaît, detrouver des époux,
 Quand on ne voit ici que portes et verroux ?
@@ -113,7 +113,7 @@ Quoi ! Ma soeur on nous joue ! et Victoire...
 On vous fréquentera quand on sera Marquise.
 
 
-**** *creator_guibert *book_guibert_fillesamarier *style_verse *genre_comedy *dist1_guibert_verse_comedy_fillesamarier *dist2_guibert_verse_comedy *date_1768 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lolotte
+**** *creator_guibert *book_guibert_fillesamarier *style_verse *genre_comedy *dist1_guibert_verse_comedy_fillesamarier *dist2_guibert_verse_comedy *id_LOLOTTE *date_1768 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lolotte
 
 Nous voulons un état ; la demande est honnête.
 
@@ -170,7 +170,7 @@ Oui sortons; tu pourras en savoir davantage.
 Il faut abandonner ce Bourgeois...
 
 
-**** *creator_guibert *book_guibert_fillesamarier *style_verse *genre_comedy *dist1_guibert_verse_comedy_fillesamarier *dist2_guibert_verse_comedy *date_1768 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_victoire
+**** *creator_guibert *book_guibert_fillesamarier *style_verse *genre_comedy *dist1_guibert_verse_comedy_fillesamarier *dist2_guibert_verse_comedy *id_VICTOIRE *date_1768 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_victoire
 
 C'est donc notre vertu qui répond de nos moeurs :
 Rien ne peut arrêter le penchant de nos coeurs,
@@ -247,7 +247,7 @@ Couronnez ce beau jour par la douce amitié :
 Je l'espère, mes soeurs, puisque tout m'autorise.
 
 
-**** *creator_guibert *book_guibert_fillesamarier *style_verse *genre_comedy *dist1_guibert_verse_comedy_fillesamarier *dist2_guibert_verse_comedy *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+**** *creator_guibert *book_guibert_fillesamarier *style_verse *genre_comedy *dist1_guibert_verse_comedy_fillesamarier *dist2_guibert_verse_comedy *id_LEANDRE *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
 
 Qu'avez vous décidé, sage et tendre Victoire?
 
@@ -358,7 +358,7 @@ J'ose vous implorer...
       Ainsi que ma folie.
 
 
-**** *creator_guibert *book_guibert_fillesamarier *style_verse *genre_comedy *dist1_guibert_verse_comedy_fillesamarier *dist2_guibert_verse_comedy *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clorinde
+**** *creator_guibert *book_guibert_fillesamarier *style_verse *genre_comedy *dist1_guibert_verse_comedy_fillesamarier *dist2_guibert_verse_comedy *id_CLORINDE *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clorinde
 
 Ah ! Par ce seul récit tu me glace de peur !
 
@@ -444,7 +444,7 @@ Elles ont de grands biens ; la beauté, la sagesse :
 Que leur faut-il de plus ?
 
 
-**** *creator_guibert *book_guibert_fillesamarier *style_verse *genre_comedy *dist1_guibert_verse_comedy_fillesamarier *dist2_guibert_verse_comedy *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_babot
+**** *creator_guibert *book_guibert_fillesamarier *style_verse *genre_comedy *dist1_guibert_verse_comedy_fillesamarier *dist2_guibert_verse_comedy *id_BABOT *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_babot
 
 Que j'étais ennuyée avec sa sermonade !
 Il ne finissait pas ; une heure en embuscade
@@ -685,7 +685,7 @@ Tout était faux...
 L'amour avec Bacchus est au moins de moitié.
 
 
-**** *creator_guibert *book_guibert_fillesamarier *style_verse *genre_comedy *dist1_guibert_verse_comedy_fillesamarier *dist2_guibert_verse_comedy *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_champagne
+**** *creator_guibert *book_guibert_fillesamarier *style_verse *genre_comedy *dist1_guibert_verse_comedy_fillesamarier *dist2_guibert_verse_comedy *id_CHAMPAGNE *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_champagne
 
 Bonjour, ma belle enfant, où sont tes Demoiselles?
 

@@ -1,6 +1,6 @@
 
 
-**** *creator_magnon *book_magnon_josaphat *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_josaphat *dist2_magnon_verse_tragedy *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_abenner
+**** *creator_magnon *book_magnon_josaphat *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_josaphat *dist2_magnon_verse_tragedy *id_ABENNER *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_abenner
 
 Vous avez vu Narsingue.
 
@@ -443,7 +443,7 @@ Hé bien, travaillons-y puisque le Ciel l'ordonne !
 Vous avez tout pouvoir ?
 
 
-**** *creator_magnon *book_magnon_josaphat *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_josaphat *dist2_magnon_verse_tragedy *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_josaphat
+**** *creator_magnon *book_magnon_josaphat *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_josaphat *dist2_magnon_verse_tragedy *id_JOSAPHAT *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_josaphat
 
 Que ce fatal objet me va faire souffrir,
 Mon cœur pressent ses maux avant qu'il les connaisse.
@@ -986,7 +986,7 @@ Allons voir Barlaam, et que l'on dresse encor,
 Un superbe sépulcre aux mânes de Nacor.
 
 
-**** *creator_magnon *book_magnon_josaphat *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_josaphat *dist2_magnon_verse_tragedy *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arache
+**** *creator_magnon *book_magnon_josaphat *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_josaphat *dist2_magnon_verse_tragedy *id_ARACHE *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arache
 
 Vous soupirez Madame, et vous versez des larmes,
 Dans un temps où la Cour étale tous ses charmes ;
@@ -1383,7 +1383,7 @@ Mon heur va surpasser tout le bonheur des Rois ;
 Le don de votre Empire est moins qu'Amalazie.
 
 
-**** *creator_magnon *book_magnon_josaphat *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_josaphat *dist2_magnon_verse_tragedy *date_1645 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amalazie
+**** *creator_magnon *book_magnon_josaphat *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_josaphat *dist2_magnon_verse_tragedy *id_AMALAZIE *date_1645 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amalazie
 
       Faut-il que je vous voie.
 
@@ -1723,7 +1723,7 @@ Le fils me donne plus que ne m'ôta le père.
 Et digne de prétendre à l'Empire du monde.
 
 
-**** *creator_magnon *book_magnon_josaphat *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_josaphat *dist2_magnon_verse_tragedy *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_barlaam
+**** *creator_magnon *book_magnon_josaphat *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_josaphat *dist2_magnon_verse_tragedy *id_BARLAAM *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_barlaam
 
       J'ai parcouru l'Asie,
 Et de tous leurs trésors j'ai dépouillé les mers.
@@ -1973,7 +1973,7 @@ C'est trop me retarder sortons de cette vie ?
 En vain vous m'appelez pour quelque autre raison.
 
 
-**** *creator_magnon *book_magnon_josaphat *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_josaphat *dist2_magnon_verse_tragedy *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nacor
+**** *creator_magnon *book_magnon_josaphat *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_josaphat *dist2_magnon_verse_tragedy *id_NACOR *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nacor
 
 Et s'il ne me prenait que comme un suborneur ;
 S'il vient à découvrir ce mauvais artifice.

@@ -1,6 +1,6 @@
 
 
-**** *creator_armand *book_armand_crinature *style_verse *genre_comedy *dist1_armand_verse_comedy_crinature *dist2_armand_verse_comedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mongei
+**** *creator_armand *book_armand_crinature *style_verse *genre_comedy *dist1_armand_verse_comedy_crinature *dist2_armand_verse_comedy *id_MONGEI *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mongei
 
 C'est elle que je vois !
 
@@ -128,7 +128,7 @@ Et même, en éprouvant votre injuste courroux,
 Sa tendresse pour vous n'était pas incertaine.
 
 
-**** *creator_armand *book_armand_crinature *style_verse *genre_comedy *dist1_armand_verse_comedy_crinature *dist2_armand_verse_comedy *date_1669 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamemongei
+**** *creator_armand *book_armand_crinature *style_verse *genre_comedy *dist1_armand_verse_comedy_crinature *dist2_armand_verse_comedy *id_MADAMEMONGEI *date_1669 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamemongei
 
 Hé quoi! Ce penchant invincible,
 Qui porte les coeurs à s'unir,
@@ -305,7 +305,7 @@ De soutenir notre existence.
 Je vous dirai, de plus, que Suzon et Vincent...
 
 
-**** *creator_armand *book_armand_crinature *style_verse *genre_comedy *dist1_armand_verse_comedy_crinature *dist2_armand_verse_comedy *date_1669 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamegervais
+**** *creator_armand *book_armand_crinature *style_verse *genre_comedy *dist1_armand_verse_comedy_crinature *dist2_armand_verse_comedy *id_MADAMEGERVAIS *date_1669 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamegervais
 
 Vous en parlez bien à votre aise,
 Ma fille; mais je dois en savoir plus que vous:
@@ -382,7 +382,7 @@ Et de bon coeur je lui rends grâce,
 De ce que c'est chez moi que tout cela se passe.
 
 
-**** *creator_armand *book_armand_crinature *style_verse *genre_comedy *dist1_armand_verse_comedy_crinature *dist2_armand_verse_comedy *date_1669 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_suzon
+**** *creator_armand *book_armand_crinature *style_verse *genre_comedy *dist1_armand_verse_comedy_crinature *dist2_armand_verse_comedy *id_SUZON *date_1669 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_suzon
 
 Tenez, maman, je me trompe peut-être,
 Mais j'espère qu'au premier jour
@@ -659,7 +659,7 @@ Il devrait n'avoir pas de retraite plus sûre,
 Qu'en se jetant dans votre sein.
 
 
-**** *creator_armand *book_armand_crinature *style_verse *genre_comedy *dist1_armand_verse_comedy_crinature *dist2_armand_verse_comedy *date_1669 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_vincent
+**** *creator_armand *book_armand_crinature *style_verse *genre_comedy *dist1_armand_verse_comedy_crinature *dist2_armand_verse_comedy *id_VINCENT *date_1669 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_vincent
 
 J'arrivons de Paris.
 
@@ -973,7 +973,7 @@ On ne s'accorde, ce me semble,
 Jamais si bian, que quand on trinque ensemble.
 
 
-**** *creator_armand *book_armand_crinature *style_verse *genre_comedy *dist1_armand_verse_comedy_crinature *dist2_armand_verse_comedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marlot
+**** *creator_armand *book_armand_crinature *style_verse *genre_comedy *dist1_armand_verse_comedy_crinature *dist2_armand_verse_comedy *id_MARLOT *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marlot
 
       Sans doute. Ah ! Que je sens de joie
 D'être entré le premier dans cet appartement !

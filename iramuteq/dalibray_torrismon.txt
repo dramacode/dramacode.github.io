@@ -1,6 +1,6 @@
 
 
-**** *creator_dalibray *book_dalibray_torrismon *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_torrismon *dist2_dalibray_verse_tragedy *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_nourrice
+**** *creator_dalibray *book_dalibray_torrismon *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_torrismon *dist2_dalibray_verse_tragedy *id_nourrice *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_nourrice
 
 A peine ayant quitté les portes d'Orient
 Le soleil nous fait voir son visage riant ;
@@ -136,7 +136,7 @@ Personne ne vous force, & ne vous chasse encore,
 Au contraire chacun pour Reyne vous honore.
 
 
-**** *creator_dalibray *book_dalibray_torrismon *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_torrismon *dist2_dalibray_verse_tragedy *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_alvide
+**** *creator_dalibray *book_dalibray_torrismon *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_torrismon *dist2_dalibray_verse_tragedy *id_alvide *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_alvide
 
 Oüy, ma chere Nourrice, il est bien raisonnable
 Que tu sçaches l'estat d'un coeur si miserable,
@@ -539,7 +539,7 @@ Ta derniere demande est bien vaine & frivole⁎  ;
 La mort me clost les yeux, & mon esprit s'envole.
 
 
-**** *creator_dalibray *book_dalibray_torrismon *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_torrismon *dist2_dalibray_verse_tragedy *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_torrismon
+**** *creator_dalibray *book_dalibray_torrismon *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_torrismon *dist2_dalibray_verse_tragedy *id_torrismon *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_torrismon
 
 Quel fleuve, ou quelle mer si vaste & si profonde
 Suffiroit pour laver mon crime dans son onde?
@@ -1085,7 +1085,7 @@ A Dieu, sers ce Seigneur avecques plus de gloire,
 Et conserves tousjours mon nom dans ta memoire.
 
 
-**** *creator_dalibray *book_dalibray_torrismon *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_torrismon *dist2_dalibray_verse_tragedy *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_conseiller
+**** *creator_dalibray *book_dalibray_torrismon *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_torrismon *dist2_dalibray_verse_tragedy *id_conseiller *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_conseiller
 
 Si ma fidelité, Sire, vous est connuë,
 De grace, monstrez-moy vostre ame toute nuë,
@@ -1279,7 +1279,7 @@ Qu'un double mariage en mesme jour se fasse,
 Et parmy tant d'amour ne soiez pas de glace.
 
 
-**** *creator_dalibray *book_dalibray_torrismon *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_torrismon *dist2_dalibray_verse_tragedy *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_rosmonde
+**** *creator_dalibray *book_dalibray_torrismon *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_torrismon *dist2_dalibray_verse_tragedy *id_rosmonde *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_rosmonde
 
 Heureuse celle-là, soit maistresse ou suivante
 Qui sçait tousjours garder une vertu constante,
@@ -1535,7 +1535,7 @@ Qu'il eut bien mieux valu, qu'au lieu de mon berceau,
 J'eusse innocente encor rencontré mon tombeau.
 
 
-**** *creator_dalibray *book_dalibray_torrismon *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_torrismon *dist2_dalibray_verse_tragedy *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_rusille
+**** *creator_dalibray *book_dalibray_torrismon *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_torrismon *dist2_dalibray_verse_tragedy *id_rusille *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_rusille
  
 Hé quoy! n'aurois-tu peu, ma fille, encore apprendre,
 Qu'icy le Roy Germon dedans peu⁎ se doit rendre?
@@ -1743,7 +1743,7 @@ Rien ne luy puisse plus servir d'aucun obstacle.
 Helas mes chers enfants !
 
 
-**** *creator_dalibray *book_dalibray_torrismon *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_torrismon *dist2_dalibray_verse_tragedy *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_germon
+**** *creator_dalibray *book_dalibray_torrismon *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_torrismon *dist2_dalibray_verse_tragedy *id_germon *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_germon
 
 Si devant⁎, par l'effect⁎ d'une sainte amitié
 Vous fustes Torrismon ma plus chere moitié  :
@@ -1984,7 +1984,7 @@ Que vous me reservez de regrets & d'ennuis⁎.
 FIN.
 
 
-**** *creator_dalibray *book_dalibray_torrismon *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_torrismon *dist2_dalibray_verse_tragedy *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_devin
+**** *creator_dalibray *book_dalibray_torrismon *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_torrismon *dist2_dalibray_verse_tragedy *id_devin *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_devin
 
 O Dieux ! que le sçavoir qui ne nous sert de rien
 Qu'à faire qu'on nous blasme, est un nuisible bien.
@@ -2027,7 +2027,7 @@ O Cour qui me bannis comme un homme profane,
 Que d'estranges effets⁎ tu verras dans Arane.
 
 
-**** *creator_dalibray *book_dalibray_torrismon *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_torrismon *dist2_dalibray_verse_tragedy *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_fauston
+**** *creator_dalibray *book_dalibray_torrismon *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_torrismon *dist2_dalibray_verse_tragedy *id_fauston *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_fauston
 
 Apres avoir gousté d'une si longue paix,
 Qui me rappelle au bruit d'un superbe Palais ?
@@ -2105,7 +2105,7 @@ J'estois dans cét esquif⁎, me peux-tu méconnestre ?
 Mais encor, que fis-tu de cette jeune fille ?
 
 
-**** *creator_dalibray *book_dalibray_torrismon *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_torrismon *dist2_dalibray_verse_tragedy *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_messager
+**** *creator_dalibray *book_dalibray_torrismon *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_torrismon *dist2_dalibray_verse_tragedy *id_messager *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_messager
 
 Cette soudaine mort d'un Roy si généreux
 Ne fera que haster cét hymen bien-heureux  ;
@@ -2142,7 +2142,7 @@ La nommant comme l'autre, Alvide, pour Rosmonde  :
 L'histoire est jusqu'icy demeurée en secret.
 
 
-**** *creator_dalibray *book_dalibray_torrismon *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_torrismon *dist2_dalibray_verse_tragedy *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_gentilhomme
+**** *creator_dalibray *book_dalibray_torrismon *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_torrismon *dist2_dalibray_verse_tragedy *id_gentil-homme *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_gentilhomme
 
 Sire, sans vous tenir plus long-temps en soucy⁎,
 Le Roy Germon mon maistre, est si proche d'icy,

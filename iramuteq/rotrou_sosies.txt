@@ -1,6 +1,6 @@
 
 
-**** *creator_rotrou *book_rotrou_sosies *style_verse *genre_comedy *dist1_rotrou_verse_comedy_sosies *dist2_rotrou_verse_comedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
+**** *creator_rotrou *book_rotrou_sosies *style_verse *genre_comedy *dist1_rotrou_verse_comedy_sosies *dist2_rotrou_verse_comedy *id_JUPITER *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
 
 Avecque ce baiser, je te laisse mon âme,
 Adieu, conserve autant, que j'emporte de flamme,
@@ -293,7 +293,7 @@ Chéris le fils, aime la mère,
 Et possède avec elle, un paisible repos.
 
 
-**** *creator_rotrou *book_rotrou_sosies *style_verse *genre_comedy *dist1_rotrou_verse_comedy_sosies *dist2_rotrou_verse_comedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+**** *creator_rotrou *book_rotrou_sosies *style_verse *genre_comedy *dist1_rotrou_verse_comedy_sosies *dist2_rotrou_verse_comedy *id_MERCURE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
 
 Vierge, Reine des mois, et des feux inconstants,
 Qui président au cours de la moitié du temps,
@@ -670,7 +670,7 @@ Adieu, quand tu voudras, ce bras à ton service,
 Te fournira toujours une heure d'exercice.
 
 
-**** *creator_rotrou *book_rotrou_sosies *style_verse *genre_comedy *dist1_rotrou_verse_comedy_sosies *dist2_rotrou_verse_comedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amphitryon
+**** *creator_rotrou *book_rotrou_sosies *style_verse *genre_comedy *dist1_rotrou_verse_comedy_sosies *dist2_rotrou_verse_comedy *id_AMPHITRYON *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amphitryon
 
 Marche tôt.
 
@@ -1244,7 +1244,7 @@ Son crime la relève, il accroît son renom,
 Et d'un objet mortel, fait une autre Junon.
 
 
-**** *creator_rotrou *book_rotrou_sosies *style_verse *genre_comedy *dist1_rotrou_verse_comedy_sosies *dist2_rotrou_verse_comedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alcmene
+**** *creator_rotrou *book_rotrou_sosies *style_verse *genre_comedy *dist1_rotrou_verse_comedy_sosies *dist2_rotrou_verse_comedy *id_ALCMENE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alcmene
 
 Quel si pressant besoin, vous tire de ce lieu,
 Où le salut à peine, a précédé l'adieu ?
@@ -1518,7 +1518,7 @@ Allez, que peu de temps achève votre cour,
 Et pressez le départ, pour presser le retour.
 
 
-**** *creator_rotrou *book_rotrou_sosies *style_verse *genre_comedy *dist1_rotrou_verse_comedy_sosies *dist2_rotrou_verse_comedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cephalie
+**** *creator_rotrou *book_rotrou_sosies *style_verse *genre_comedy *dist1_rotrou_verse_comedy_sosies *dist2_rotrou_verse_comedy *id_CEPHALIE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cephalie
 
 Ce plaisir, pour le moins, doit soulager vos peines,
 Qu'il ramène vainqueur, les légions Thébaines,
@@ -1691,7 +1691,7 @@ Les Cieux se sont fermés, l'air est resté tranquille,
 Ma frayeur sans effet, et ma fuite inutile.
 
 
-**** *creator_rotrou *book_rotrou_sosies *style_verse *genre_comedy *dist1_rotrou_verse_comedy_sosies *dist2_rotrou_verse_comedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sosie
+**** *creator_rotrou *book_rotrou_sosies *style_verse *genre_comedy *dist1_rotrou_verse_comedy_sosies *dist2_rotrou_verse_comedy *id_SOSIE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sosie
 
 Quelle témérité pareille à mon audace,
 Pourrait entrer au sein du Dieu même de Thrace ?
@@ -2370,7 +2370,7 @@ Si le bois nous manquait, les Dieux en ont eu soin,
 Il nous en ont chargés, et plus que de besoin.
 
 
-**** *creator_rotrou *book_rotrou_sosies *style_verse *genre_comedy *dist1_rotrou_verse_comedy_sosies *dist2_rotrou_verse_comedy *date_1637 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_capitaine1
+**** *creator_rotrou *book_rotrou_sosies *style_verse *genre_comedy *dist1_rotrou_verse_comedy_sosies *dist2_rotrou_verse_comedy *id_CAPITAINE1 *date_1637 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_capitaine1
 
 Tu nous en contes bien, qui t'en a tant appris ?
 Ô, comme tu jouerais de crédules esprits !
@@ -2470,7 +2470,7 @@ Pour tout dire, en deux mots, et vous féliciter,
 Vous partagez des biens, avecque Jupiter.
 
 
-**** *creator_rotrou *book_rotrou_sosies *style_verse *genre_comedy *dist1_rotrou_verse_comedy_sosies *dist2_rotrou_verse_comedy *date_1637 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_capitaine2
+**** *creator_rotrou *book_rotrou_sosies *style_verse *genre_comedy *dist1_rotrou_verse_comedy_sosies *dist2_rotrou_verse_comedy *id_CAPITAINE2 *date_1637 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_capitaine2
 
 Avançons, le voici.
 
@@ -2495,7 +2495,7 @@ L'artifice est subtil, quiconque en soit l'auteur.
 Conservons-nous la vie, après un tel effroi ?
 
 
-**** *creator_rotrou *book_rotrou_sosies *style_verse *genre_comedy *dist1_rotrou_verse_comedy_sosies *dist2_rotrou_verse_comedy *date_1637 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_capitaine3
+**** *creator_rotrou *book_rotrou_sosies *style_verse *genre_comedy *dist1_rotrou_verse_comedy_sosies *dist2_rotrou_verse_comedy *id_CAPITAINE3 *date_1637 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_capitaine3
 
 Écoutez-moi.
 

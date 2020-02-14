@@ -1,6 +1,6 @@
 
 
-**** *creator_eschyle *book_eschyle_khoephores *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_khoephores *dist2_eschyle_prose_tragedy *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_oreste
+**** *creator_eschyle *book_eschyle_khoephores *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_khoephores *dist2_eschyle_prose_tragedy *id_ORESTE *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_oreste
 
 Hermès souterrain, qui tiens de ton père cette puissance, sois mon sauveur, aide-moi, je t'en supplie ! Voici que je reviens dans ce pays, après un long exil, et je parle à mon père sur le tertre de sa tombe, afin qu'il m'entende et qu'il m'exauce. Cette tresse de cheveux est pour Inakhos qui m'a nourri, et cette autre est une offrande douloureuse.
 Que vois-je ? Quel est ce rassemblement de femmes vêtues de robes noires ? Qu'est-il arrivé ? Quelle calamité nouvelle est tombée sur cette demeure ? Viennent-elles apporter à mon père les libations qui apaisent les morts ? C'est cela, et non autre chose. Il me semble voir, en effet, Électre, ma soeur, qui s'avance, chargée d'un grand deuil. Ô Zeus ! Donne-moi de venger le meurtre de mon père ! Aide-moi, sois-moi propice ! — Pylades, sortons du chemin, afin que je sache sûrement quelle est cette supplication de femmes.
@@ -120,7 +120,7 @@ Roi Apollon ! Elles augmentent en nombre ! Un sang effroyable coule de leurs yeu
 Vous ne les voyez pas, mais, moi, je les vois ! Elles me chassent ! Je ne puis rester davantage.
 
 
-**** *creator_eschyle *book_eschyle_khoephores *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_khoephores *dist2_eschyle_prose_tragedy *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_electre
+**** *creator_eschyle *book_eschyle_khoephores *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_khoephores *dist2_eschyle_prose_tragedy *id_ELECTRE *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_electre
 
 Femmes esclaves, servantes des demeures, qui m'accompagnez dans cette supplication, conseillez-moi sur ceci. En versant les libations funèbres sur ce tombeau, quelles paroles propices prononcerai-je ? Comment prier mon père ? Dirai-je que je viens à l'époux bien-aimé de la part de la chère épouse, de ma mère ? Jamais je ne l'oserai, et je ne sais que dire en versant cette libation sur le tombeau de mon père. Lui dirai-je qu'il doit rendre le mal pour le mal, comme c'est la coutume parmi les hommes qui offrent des présents à ceux qui leur en font ? Ou bien, muette et sans nul honneur, puisque mon père a été égorgé, me retirerai-je, après avoir versé les libations comme pour l'expiation d'un crime, et jeté le vase derrière moi, en détournant les yeux ? Ô amies ! conseillez-moi, car nous avons toutes la même haine dans ces demeures. Ne cachez donc rien, par crainte, au fond de votre coeur, car ce que la destinée a décidé arrive pour l'homme libre comme pour celui qui subit le joug d'une puissance étrangère. Parle donc, si tu as quelque chose de mieux à conseiller.
 
@@ -211,7 +211,7 @@ Entends mes dernières prières, ô Père, et regarde tes jeunes enfants auprès
 Malheur à moi ! Notre ruine est achevée par ce malheur. Ô invincible Exécration de ces demeures, que de choses tu as vues qui se croyaient à l'abri et que, de loin, tu as atteintes de tes traits ! Tu me prives, moi, très malheureuse, de ceux qui m'aimaient ! Et, maintenant, Oreste, qui s'était bien gardé de mettre le pied dans ce bourbier funeste, qui était l'unique espérance de salut et de joie pour ces demeures, Oreste me laisse désespérée !
 
 
-**** *creator_eschyle *book_eschyle_khoephores *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_khoephores *dist2_eschyle_prose_tragedy *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_clytemnestre
+**** *creator_eschyle *book_eschyle_khoephores *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_khoephores *dist2_eschyle_prose_tragedy *id_CLYTEMNESTRE *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_clytemnestre
 
 Étrangers, parlez donc, que vous faut-il ? Toutes choses se trouvent dans ces demeures, des bains chauds qui reposent de la fatigue, un lit et des visages bienveillants. Si vous avez un plus grave souci, c'est l'affaire du maître, et je le lui dirai.
 
@@ -248,7 +248,7 @@ Ainsi, vivante, je me lamente en vain au bord de ma tombe ?
 Malheur à moi ! J'ai conçu et nourri ce serpent. Le songe qui m'a épouvantée disait vrai !
 
 
-**** *creator_eschyle *book_eschyle_khoephores *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_khoephores *dist2_eschyle_prose_tragedy *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_leportier
+**** *creator_eschyle *book_eschyle_khoephores *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_khoephores *dist2_eschyle_prose_tragedy *id_LEPORTIER *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_leportier
 
 C'est bien, j'entends. Étranger, d'où es-tu ? D'où viens-tu ?
 
@@ -259,7 +259,7 @@ Malheur à moi ! malheur à moi ! Le maître est mort ! Trois fois malheur à mo
 Je dis que les vivants sont tués par les morts.
 
 
-**** *creator_eschyle *book_eschyle_khoephores *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_khoephores *dist2_eschyle_prose_tragedy *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lechoeurdeskhoephores
+**** *creator_eschyle *book_eschyle_khoephores *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_khoephores *dist2_eschyle_prose_tragedy *id_LECHOEURDESKHOEPHORES *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lechoeurdeskhoephores
 
 Envoyée de la demeure, je porte des libations en me frappant cruellement de mes mains. Ma joue est ensanglantée des déchirures récentes que mes ongles y ont faites. Mon coeur se repaît sans cesse de lamentations ; et, dans les transports de mes douleurs, je mets en lambeaux mes vêtements, ce péplos noir qui couvre la poitrine de celles qu'afflige une destinée mauvaise.
 Voici que la terreur, qui hérisse les cheveux, qui se révèle par les songes, soufflant la colère dans le , sommeil, brusquement, pendant la nuit, terrible, a éveillé des cris au fond des demeures, en pénétrant dans la chambre des femmes. Les divinateurs des Songes, sous l'étreinte des Dieux, ont dit que ceux qui habitent sous la terre étaient indignés et enflammés de fureur contre les meurtriers.

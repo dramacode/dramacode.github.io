@@ -1,6 +1,6 @@
 
 
-**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_eraste *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
 
 Sous quel astre, bon Dieu, faut-il que je sois né,
 Pour être de Fâcheux toujours assassiné !
@@ -483,7 +483,7 @@ Quoi toujours des Fâcheux, holà Suisses, ici,
 Qu'on me fasse sortir ces gredins que voici.
 
 
-**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_montagne
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_montagne *date_1661 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_montagne
 
 Ce sont chagrins mêlés aux plaisirs de la vie.
 Tout ne va pas, Monsieur, au gré de notre envie.
@@ -587,7 +587,7 @@ Mais…
 Mais au moins si de loin…
 
 
-**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_orphise
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_orphise *date_1661 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_orphise
 
 Votre front à mes yeux montre peu d'allégresse.
 Serait-ce ma présence, Éraste, qui vous blesse ?
@@ -629,7 +629,7 @@ Si c'est pour lui payer ce que vous lui devez,
 J'y consens, devant tout, aux jours qu'il a sauvés.
 
 
-**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lysandre
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_lysandre *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lysandre
 
 Sous ces arbres, de loin, mes yeux t'ont reconnu,
 Cher Marquis, et d'abord je suis à toi venu.
@@ -672,7 +672,7 @@ Nous avons, pour les airs, de grandes sympathies,
 Et je veux le prier d'y faire des parties.
 
 
-**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcipe
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_alcipe *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcipe
 
 Bonjour.
 
@@ -718,7 +718,7 @@ Je le veux faire, moi, voir à toute la terre.
 Un six de cœur ! deux points !
 
 
-**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orante
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_orante *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orante
 
 Tout le monde sera de mon opinion.
 
@@ -779,7 +779,7 @@ Enfin, par votre arrêt vous devez déclarer,
 Celui de qui l'amour vous semble à préférer.
 
 
-**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_climene
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_climene *date_1661 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_climene
 
 Croyez-vous l'emporter par obstination ?
 
@@ -829,7 +829,7 @@ Qu'ils vous verraient sans peine entre les bras de trente.
 L'arrêt est plein d'esprit ; mais…
 
 
-**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_dorante *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
 
 Ha Marquis que l'on voit de Fâcheux tous les jours,
 Venir de nos plaisirs interrompre le cours !
@@ -943,7 +943,7 @@ Sans vouloir dire un mot à ce sot ignorant.
 Où nous ne craindrons point de chasseur Campagnard.
 
 
-**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caritides
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_caritides *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caritides
 
 Monsieur, le temps répugne à l'honneur de vous voir.
 Le matin est plus propre à rendre un tel devoir :
@@ -1014,7 +1014,7 @@ J'en veux faire un poème, en forme d'acrostiche,
 Dans les deux bouts un Vers, et dans chaque hémistiche.
 
 
-**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ormin
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_ormin *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ormin
 
 Bien qu'une grande affaire en ce lieu me conduise,
 J'ai voulu qu'il sortît, avant que vous parler.
@@ -1073,7 +1073,7 @@ Que vous reprendriez sur le droit de l'avis,
 Monsieur…
 
 
-**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_filinte
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_filinte *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_filinte
 
 Marquis, je viens d'apprendre une étrange nouvelle.
 
@@ -1108,7 +1108,7 @@ Mais, puisque je vous rends un si mauvais office,
 Adieu, videz sans moi tout ce que vous aurez.
 
 
-**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_damis *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
 
 Quoi, malgré moi, le traître espère l'obtenir ?
 Ah ! mon juste courroux le saura prévenir.

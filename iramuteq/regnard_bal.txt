@@ -1,6 +1,6 @@
 
 
-**** *creator_regnard *book_regnard_bal *style_verse *genre_comedy *dist1_regnard_verse_comedy_bal *dist2_regnard_verse_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_geronte
+**** *creator_regnard *book_regnard_bal *style_verse *genre_comedy *dist1_regnard_verse_comedy_bal *dist2_regnard_verse_comedy *id_GERONTE *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_geronte
 
       Ah ! Serviteur, mon gendre :
 Soyez le bien venu. Vous vous faites attendre :
@@ -63,7 +63,7 @@ Valère, je veux bien que vous ayez ma fille.
 De nous avoir défait de ce couple normand.
 
 
-**** *creator_regnard *book_regnard_bal *style_verse *genre_comedy *dist1_regnard_verse_comedy_bal *dist2_regnard_verse_comedy *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonore
+**** *creator_regnard *book_regnard_bal *style_verse *genre_comedy *dist1_regnard_verse_comedy_bal *dist2_regnard_verse_comedy *id_LEONORE *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonore
 
 Lisette, que dis-tu de monsieur Sotencour ?
 
@@ -96,7 +96,7 @@ Oh ! Qu'il ne vous dit pas tout ce que le mien pense !
 Que ne vous dois-je point pour de telles bontés !
 
 
-**** *creator_regnard *book_regnard_bal *style_verse *genre_comedy *dist1_regnard_verse_comedy_bal *dist2_regnard_verse_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+**** *creator_regnard *book_regnard_bal *style_verse *genre_comedy *dist1_regnard_verse_comedy_bal *dist2_regnard_verse_comedy *id_VALERE *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
 
       Non, belle Léonore,
 Je n'ai pu résister au feu qui me dévore ;
@@ -131,7 +131,7 @@ Si vous ne m'en croyez, croyez-en ce billet.
 Monsieur...
 
 
-**** *creator_regnard *book_regnard_bal *style_verse *genre_comedy *dist1_regnard_verse_comedy_bal *dist2_regnard_verse_comedy *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_regnard *book_regnard_bal *style_verse *genre_comedy *dist1_regnard_verse_comedy_bal *dist2_regnard_verse_comedy *id_LISETTE *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
       Ah, Merlin ! Te voilà
 La bouteille à la main ! Que diantre fais-tu là ?
@@ -302,7 +302,7 @@ Le prendront pour l'Amour en propre original.
 Qu'il va blesser de coeurs !
 
 
-**** *creator_regnard *book_regnard_bal *style_verse *genre_comedy *dist1_regnard_verse_comedy_bal *dist2_regnard_verse_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merlin
+**** *creator_regnard *book_regnard_bal *style_verse *genre_comedy *dist1_regnard_verse_comedy_bal *dist2_regnard_verse_comedy *id_MERLIN *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merlin
 
 Me voici dans Charonne, et voilà le logis
 Où l'amour nous conduit : gardons d'être surpris,
@@ -577,7 +577,7 @@ Mais s'il ne vous plaisait pas,
 Dites-le-nous tout bas.
 
 
-**** *creator_regnard *book_regnard_bal *style_verse *genre_comedy *dist1_regnard_verse_comedy_bal *dist2_regnard_verse_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mathieucrochet
+**** *creator_regnard *book_regnard_bal *style_verse *genre_comedy *dist1_regnard_verse_comedy_bal *dist2_regnard_verse_comedy *id_MATHIEUCROCHET *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mathieucrochet
 
       Est-elle brune ou blonde ?
 
@@ -613,7 +613,7 @@ C'est à nous de danser et d'entamer le bal.
       Adieu, messieurs, adieu.
 
 
-**** *creator_regnard *book_regnard_bal *style_verse *genre_comedy *dist1_regnard_verse_comedy_bal *dist2_regnard_verse_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgrasset
+**** *creator_regnard *book_regnard_bal *style_verse *genre_comedy *dist1_regnard_verse_comedy_bal *dist2_regnard_verse_comedy *id_MONSIEURGRASSET *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgrasset
 
       Monsieur, voilà le rôt.
 
@@ -633,7 +633,7 @@ Je ne mérite pas, monsieur, un tel reproche.
       Qui me paiera ma viande ?
 
 
-**** *creator_regnard *book_regnard_bal *style_verse *genre_comedy *dist1_regnard_verse_comedy_bal *dist2_regnard_verse_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurlamontagne
+**** *creator_regnard *book_regnard_bal *style_verse *genre_comedy *dist1_regnard_verse_comedy_bal *dist2_regnard_verse_comedy *id_MONSIEURLAMONTAGNE *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurlamontagne
 
 Monsieur, voilà le vin.
 
@@ -651,7 +651,7 @@ Le marchand....
 Vous avez pris mon vin !
 
 
-**** *creator_regnard *book_regnard_bal *style_verse *genre_comedy *dist1_regnard_verse_comedy_bal *dist2_regnard_verse_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gillette
+**** *creator_regnard *book_regnard_bal *style_verse *genre_comedy *dist1_regnard_verse_comedy_bal *dist2_regnard_verse_comedy *id_GILLETTE *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gillette
 
 De la joie ! Ah, Lisette ! À la fin, dans la cour,
 Arrive avec fracas monsieur de Sotencour :

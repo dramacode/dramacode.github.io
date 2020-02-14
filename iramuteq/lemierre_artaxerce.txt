@@ -1,6 +1,6 @@
 
 
-**** *creator_lemierre *book_lemierre_artaxerce *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_artaxerce *dist2_lemierre_verse_tragedy *date_1766 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artaxerce
+**** *creator_lemierre *book_lemierre_artaxerce *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_artaxerce *dist2_lemierre_verse_tragedy *id_ARTAXERCE *date_1766 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artaxerce
 
 Ô crime ! Ô trahison !
 
@@ -361,7 +361,7 @@ Viens partager ce rang d'où je tombais sans toi,
 Et retrouve à jamais ton ami dans ton Roi.
 
 
-**** *creator_lemierre *book_lemierre_artaxerce *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_artaxerce *dist2_lemierre_verse_tragedy *date_1766 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_emirene
+**** *creator_lemierre *book_lemierre_artaxerce *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_artaxerce *dist2_lemierre_verse_tragedy *id_EMIRENE *date_1766 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_emirene
 
 Hélas ! Dans ces moments tout me remplit d'effroi,
 Mon frère ; des grands coups portés par un barbare,
@@ -704,7 +704,7 @@ Ah ! Dieux !
 Hé bien ! Vous le voyez, me trompais-je, Seigneur ?
 
 
-**** *creator_lemierre *book_lemierre_artaxerce *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_artaxerce *dist2_lemierre_verse_tragedy *date_1766 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artaban
+**** *creator_lemierre *book_lemierre_artaxerce *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_artaxerce *dist2_lemierre_verse_tragedy *id_ARTABAN *date_1766 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artaban
 
 Toi dans Suze !
 
@@ -1210,7 +1210,7 @@ Esclave malheureux d'une vertu timide,
 Vis dans l'abaissement, chargé d'un parricide.
 
 
-**** *creator_lemierre *book_lemierre_artaxerce *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_artaxerce *dist2_lemierre_verse_tragedy *date_1766 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arbace
+**** *creator_lemierre *book_lemierre_artaxerce *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_artaxerce *dist2_lemierre_verse_tragedy *id_ARBACE *date_1766 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arbace
 
 Les mains teintes de sang ! Ô Dieux ! D'où sortez-vous ?
 
@@ -1499,7 +1499,7 @@ Ou cette coupe....
 Ah ! Mon père ! À quel prix me rendez-vous l'honneur ?
 
 
-**** *creator_lemierre *book_lemierre_artaxerce *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_artaxerce *dist2_lemierre_verse_tragedy *date_1766 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elise
+**** *creator_lemierre *book_lemierre_artaxerce *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_artaxerce *dist2_lemierre_verse_tragedy *id_ELISE *date_1766 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elise
 
 Eh ! Qu'espère Artaban d'un soupçon téméraire ?
 
@@ -1525,7 +1525,7 @@ Quoi ! Son zèle n'a point dans votre âme surprise
 Ébranlé les soupçons...
 
 
-**** *creator_lemierre *book_lemierre_artaxerce *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_artaxerce *dist2_lemierre_verse_tragedy *date_1766 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_megabise
+**** *creator_lemierre *book_lemierre_artaxerce *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_artaxerce *dist2_lemierre_verse_tragedy *id_MEGABISE *date_1766 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_megabise
 
 Je viens vous retrouver, Seigneur. Avec surprise
 En passant vers ces lieux mes yeux ont rencontré

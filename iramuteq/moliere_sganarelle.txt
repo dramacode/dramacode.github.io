@@ -1,6 +1,6 @@
 
 
-**** *creator_moliere *book_moliere_sganarelle *style_verse *genre_comedy *dist1_moliere_verse_comedy_sganarelle *dist2_moliere_verse_comedy *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gorgibus
+**** *creator_moliere *book_moliere_sganarelle *style_verse *genre_comedy *dist1_moliere_verse_comedy_sganarelle *dist2_moliere_verse_comedy *id_gorgibus *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gorgibus
 
 Que marmottez-vous là petite impertinente ?
 Vous prétendez choquer ce que j'ai résolu,
@@ -99,7 +99,7 @@ M'empêche d'agréer un autre Époux que lui.
 Allons choisir le jour pour se donner la foi.
 
 
-**** *creator_moliere *book_moliere_sganarelle *style_verse *genre_comedy *dist1_moliere_verse_comedy_sganarelle *dist2_moliere_verse_comedy *date_1660 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_celie
+**** *creator_moliere *book_moliere_sganarelle *style_verse *genre_comedy *dist1_moliere_verse_comedy_sganarelle *dist2_moliere_verse_comedy *id_celie *date_1660 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_celie
 
 Ah ! n'espérez jamais que mon cœur y consente.
 
@@ -225,7 +225,7 @@ Mais je le vois venir.
 Mon père, à dégager vers lui votre promesse.
 
 
-**** *creator_moliere *book_moliere_sganarelle *style_verse *genre_comedy *dist1_moliere_verse_comedy_sganarelle *dist2_moliere_verse_comedy *date_1660 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lelie
+**** *creator_moliere *book_moliere_sganarelle *style_verse *genre_comedy *dist1_moliere_verse_comedy_sganarelle *dist2_moliere_verse_comedy *id_lelie *date_1660 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_lelie
 
 Hé bien, parle.
 
@@ -370,7 +370,7 @@ Quoi ? Monsieur, est-ce ainsi qu'on trahit mon espoir ?
 D'un bonheur éternel va couronner ma vie.
 
 
-**** *creator_moliere *book_moliere_sganarelle *style_verse *genre_comedy *dist1_moliere_verse_comedy_sganarelle *dist2_moliere_verse_comedy *date_1660 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_grosrene
+**** *creator_moliere *book_moliere_sganarelle *style_verse *genre_comedy *dist1_moliere_verse_comedy_sganarelle *dist2_moliere_verse_comedy *id_grosrene *date_1660 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_grosrene
 
 Enfin nous y voici ; mais Monsieur, si je l'ose,
 Je voudrais vous prier de me dire une chose.
@@ -410,7 +410,7 @@ De voir qu'un sot amour fait toute votre étude.
 Je ne réplique point à ce qu'un Maître ordonne.
 
 
-**** *creator_moliere *book_moliere_sganarelle *style_verse *genre_comedy *dist1_moliere_verse_comedy_sganarelle *dist2_moliere_verse_comedy *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sganarelle
+**** *creator_moliere *book_moliere_sganarelle *style_verse *genre_comedy *dist1_moliere_verse_comedy_sganarelle *dist2_moliere_verse_comedy *id_sganarelle *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sganarelle
 
       Qu'est-ce donc ? me voilà.
 
@@ -747,7 +747,7 @@ De cet exemple-ci, ressouvenez-vous bien,
 Et quand vous verriez tout, ne croyez jamais rien.
 
 
-**** *creator_moliere *book_moliere_sganarelle *style_verse *genre_comedy *dist1_moliere_verse_comedy_sganarelle *dist2_moliere_verse_comedy *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_femmesganarelle
+**** *creator_moliere *book_moliere_sganarelle *style_verse *genre_comedy *dist1_moliere_verse_comedy_sganarelle *dist2_moliere_verse_comedy *id_femme-sganarelle *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_femmesganarelle
 
       Ah ! qu'est-ce que je vois ?
 Mon mari dans ses bras… mais je m'en vais descendre,
@@ -846,7 +846,7 @@ Et doux que soit le mal, je crains d'être trompée.
 Soit, mais gare le bois si j'apprends quelque chose.
 
 
-**** *creator_moliere *book_moliere_sganarelle *style_verse *genre_comedy *dist1_moliere_verse_comedy_sganarelle *dist2_moliere_verse_comedy *date_1660 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_suivante
+**** *creator_moliere *book_moliere_sganarelle *style_verse *genre_comedy *dist1_moliere_verse_comedy_sganarelle *dist2_moliere_verse_comedy *id_suivante *date_1660 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_suivante
 
 Quoi refuser Madame, avec cette rigueur,
 Ce que tant d'autres gens voudraient de tout leur cœur ?

@@ -1,6 +1,6 @@
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_augmentationbaguette *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_augmentationbaguette *dist2_dufresnyregnard_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roger
+**** *creator_dufresnyregnard *book_dufresnyregnard_augmentationbaguette *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_augmentationbaguette *dist2_dufresnyregnard_verse_comedy *id_ROGER *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roger
 
 Voilà une de ces bouteilles de vin que je vous avais promises ; mais elle me paraît bien aigre.
 
@@ -116,7 +116,7 @@ Toureloure, loure, loure ;
 Il ne reste point de bête au marché.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_augmentationbaguette *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_augmentationbaguette *dist2_dufresnyregnard_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roger
+**** *creator_dufresnyregnard *book_dufresnyregnard_augmentationbaguette *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_augmentationbaguette *dist2_dufresnyregnard_verse_comedy *id_ROGER *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roger
 
 Voilà une de ces bouteilles de vin que je vous avais promises ; mais elle me paraît bien aigre.
 
@@ -232,7 +232,7 @@ Toureloure, loure, loure ;
 Il ne reste point de bête au marché.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_augmentationbaguette *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_augmentationbaguette *dist2_dufresnyregnard_verse_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_belise
+**** *creator_dufresnyregnard *book_dufresnyregnard_augmentationbaguette *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_augmentationbaguette *dist2_dufresnyregnard_verse_comedy *id_BELISE *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_belise
 
 Holà ! Ho, quelqu'un ! Portier, limonadier, ouvreuses de loges ! Depuis trois mois on ne saurait trouver à se placer dans cet hôtel de Bourgogne.
 
@@ -279,7 +279,7 @@ Il n'est point de livre
 Si froid qu'un mari.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_augmentationbaguette *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_augmentationbaguette *dist2_dufresnyregnard_verse_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+**** *creator_dufresnyregnard *book_dufresnyregnard_augmentationbaguette *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_augmentationbaguette *dist2_dufresnyregnard_verse_comedy *id_ANGELIQUE *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
 Ah, monsieur l'enchanteur ! J'ai recours à votre sorcellerie.
 
@@ -311,7 +311,7 @@ Suivre son exemple,
 Non pas ses leçons.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_augmentationbaguette *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_augmentationbaguette *dist2_dufresnyregnard_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nigaudin
+**** *creator_dufresnyregnard *book_dufresnyregnard_augmentationbaguette *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_augmentationbaguette *dist2_dufresnyregnard_verse_comedy *id_NIGAUDIN *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nigaudin
 
 Bonjour, monsieur. Quand je vous vois,
 Je ne puis m'empêcher de rire.
@@ -365,7 +365,7 @@ Viens, ma bouchonne,
 Que je répare ton honneur.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_augmentationbaguette *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_augmentationbaguette *dist2_dufresnyregnard_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledruide
+**** *creator_dufresnyregnard *book_dufresnyregnard_augmentationbaguette *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_augmentationbaguette *dist2_dufresnyregnard_verse_comedy *id_LEDRUIDE *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledruide
 
 En vain une fille, à votre âge,
 Donne son suffrage

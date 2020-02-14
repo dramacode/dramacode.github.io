@@ -1,6 +1,6 @@
 
 
-**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurjosse
+**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *id_MONSIEURJOSSE *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurjosse
 
 Je vous ai de ma femme appris la trahison ;
 Quoiqu'il puisse arriver, j'en veux avoir raison.
@@ -284,7 +284,7 @@ Je ne suis pas ingrat à qui me fait plaisir :
 Choisissez des époux selon votre désir.
 
 
-**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamejosse
+**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *id_MADAMEJOSSE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamejosse
 
 Je viens vous avertir qu'il ne tiendra qu'à vous
 De donner dès ce soir des époux à vos filles.
@@ -498,7 +498,7 @@ J'y renonce à jamais, loin que je les affecte.
 Je n'ai pas eu dessein de le mettre en courroux.
 
 
-**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nannette
+**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *id_NANNETTE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nannette
 
       Hé, Monsieur ? Je vous prie,
 Donnez-nous à chacune un nom de Seigneurie :
@@ -603,7 +603,7 @@ Vous avez pris l'alarme avec trop de chaleur.
 Si vous y renoncez, j'en fais autant que vous.
 
 
-**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_babet
+**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *id_BABET *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_babet
 
 Les gens de qualité, dont elle a l'honneur d'être,
 Ont une extrême peine à ne pas le paraître :
@@ -668,7 +668,7 @@ Est ce que par le monde on appelle « effrontée ».
 Pour les dire jamais, j'ai trop peur qu'on me gronde.
 
 
-**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurbrice
+**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *id_MONSIEURBRICE *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurbrice
 
 Bonjour, ma soeur.
 
@@ -800,7 +800,7 @@ Lisez votre mémoire ; on ne voit rien de pire,
 Lisez.
 
 
-**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdurus
+**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *id_MONSIEURDURUS *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdurus
 
       Vos appas
 Qui font à tout venant mettre pavillon bas,
@@ -851,7 +851,7 @@ Franchement, l'insolence allait un peu trop loin.
 Adieu. Madame Brice est de mauvaise humeur.
 
 
-**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdelorme
+**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *id_MONSIEURDELORME *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdelorme
 
       Pour moi, mon cour est libre encor :
 Mais à voir tant d'appas pour peu qu'il persévère,
@@ -881,7 +881,7 @@ Nous prendrons notre temps pour revoir tant d'appas
 Que la mère éternelle un matin n'y soit pas.
 
 
-**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marote
+**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *id_MAROTE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marote
 
       Bonjour Nannette ; à la fin te voilà !
 Je suis venue ici deux ou trois fois de suite ;
@@ -916,7 +916,7 @@ S'il n'eût eu le bonheur d'avoir notre pratique ?
 Je m'en vais le changer, sans y perdre un moment.
 
 
-**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *date_1694 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_madamebrice
+**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *id_MADAMEBRICE *date_1694 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_madamebrice
 
 Je devrais y venir vous souffleter la gueule.
 Vous avez par vos soins fait si bien et si beau,
@@ -1013,7 +1013,7 @@ Ce n'est point à la poule à tant lever la crête.
 Allons nous ébaudir, et dîner tous ensemble.
 
 
-**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgriffet
+**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *id_MONSIEURGRIFFET *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgriffet
 
 Parlons sans passion. Êtes-vous bien certain
 Que ce Mémoire-là soit de sa propre main ?
@@ -1100,7 +1100,7 @@ Moi ?
 Payez-moi, je vous prie, ou bientôt un exploit...
 
 
-**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicodeme
+**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *id_NICODEME *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicodeme
 
       C'est fort bien dit. Peut-être
 Que j'en dirais autant si j'étais votre maître.
@@ -1174,7 +1174,7 @@ Envoyez-les ici voir comme on accommode
 La Noblesse en détrempe, et les Mots à la Mode.
 
 
-**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_adrienne
+**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *id_ADRIENNE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_adrienne
 
       Qui ? Moi, Monsieur?
 
@@ -1216,7 +1216,7 @@ Dix écus pour le mien c'est un prix assez haut.
 Demandez-lui plutôt si je mens.
 
 
-**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nicole
+**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *id_NICOLE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nicole
 
 Vite, à l'aide, au secours du pauvre Nicodème :
 Si vous ne vous hâtez c'est fait du jardinier.
@@ -1233,7 +1233,7 @@ Qui ?
 J'ai toujours vu Madame une bonne vivante.
 
 
-**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_champagne
+**** *creator_boursault *book_boursault_motsalamode *style_verse *genre_comedy *dist1_boursault_verse_comedy_motsalamode *dist2_boursault_verse_comedy *id_CHAMPAGNE *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_champagne
 
 Madame, on vous demande.
 

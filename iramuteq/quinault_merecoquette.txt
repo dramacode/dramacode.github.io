@@ -1,6 +1,6 @@
 
 
-**** *creator_quinault *book_quinault_merecoquette *style_verse *genre_comedy *dist1_quinault_verse_comedy_merecoquette *dist2_quinault_verse_comedy *date_1665 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_laurette
+**** *creator_quinault *book_quinault_merecoquette *style_verse *genre_comedy *dist1_quinault_verse_comedy_merecoquette *dist2_quinault_verse_comedy *id_LAURETTE *date_1665 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_laurette
 
 Tu n'es donc pas content ? Vraiment c'est une honte.
 Je t'ai baisé deux fois.
@@ -875,7 +875,7 @@ Venez trouver celui qui vous rendra contents.
 Il brûle de vous voir, et lui-même m'envoie...
 
 
-**** *creator_quinault *book_quinault_merecoquette *style_verse *genre_comedy *dist1_quinault_verse_comedy_merecoquette *dist2_quinault_verse_comedy *date_1665 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_champagne
+**** *creator_quinault *book_quinault_merecoquette *style_verse *genre_comedy *dist1_quinault_verse_comedy_merecoquette *dist2_quinault_verse_comedy *id_CHAMPAGNE *date_1665 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_champagne
 
       Quoi ! Tu baises par compte ?
 Après un an d'absence, au retour d'un amant,
@@ -1223,7 +1223,7 @@ Moquez-vous d'Isabelle, et de son inconstance.
 On aurait là-dedans quelque chose à vous dire.
 
 
-**** *creator_quinault *book_quinault_merecoquette *style_verse *genre_comedy *dist1_quinault_verse_comedy_merecoquette *dist2_quinault_verse_comedy *date_1665 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_acante
+**** *creator_quinault *book_quinault_merecoquette *style_verse *genre_comedy *dist1_quinault_verse_comedy_merecoquette *dist2_quinault_verse_comedy *id_ACANTE *date_1665 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_acante
 
 Vous vous aimez tous deux à ce que je connais.
 
@@ -1740,7 +1740,7 @@ Se peut-il...
       Allons enfin voir combler notre joie.
 
 
-**** *creator_quinault *book_quinault_merecoquette *style_verse *genre_comedy *dist1_quinault_verse_comedy_merecoquette *dist2_quinault_verse_comedy *date_1665 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lemarquis
+**** *creator_quinault *book_quinault_merecoquette *style_verse *genre_comedy *dist1_quinault_verse_comedy_merecoquette *dist2_quinault_verse_comedy *id_LEMARQUIS *date_1665 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_lemarquis
 
       Ah ! Cousin, te voilà ?
 Bonjour. Que je t'embrasse ; encor cette fois-là.
@@ -2074,7 +2074,7 @@ Et, de peur contre lui de me mettre en courroux,
 Je vais me retirer, et le laisse avec vous.
 
 
-**** *creator_quinault *book_quinault_merecoquette *style_verse *genre_comedy *dist1_quinault_verse_comedy_merecoquette *dist2_quinault_verse_comedy *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cremante
+**** *creator_quinault *book_quinault_merecoquette *style_verse *genre_comedy *dist1_quinault_verse_comedy_merecoquette *dist2_quinault_verse_comedy *id_CREMANTE *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cremante
 
 C'est vous, mon cher neveu ? Qui vous croyait si près ?
 
@@ -2394,7 +2394,7 @@ J'y vais. Allez devant. Et vous ?
 Bonsoir.
 
 
-**** *creator_quinault *book_quinault_merecoquette *style_verse *genre_comedy *dist1_quinault_verse_comedy_merecoquette *dist2_quinault_verse_comedy *date_1665 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_isabelle
+**** *creator_quinault *book_quinault_merecoquette *style_verse *genre_comedy *dist1_quinault_verse_comedy_merecoquette *dist2_quinault_verse_comedy *id_ISABELLE *date_1665 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_isabelle
 
 Jallais à votre chambre.
 
@@ -2642,7 +2642,7 @@ Mon père ?
 Allons.
 
 
-**** *creator_quinault *book_quinault_merecoquette *style_verse *genre_comedy *dist1_quinault_verse_comedy_merecoquette *dist2_quinault_verse_comedy *date_1665 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismene
+**** *creator_quinault *book_quinault_merecoquette *style_verse *genre_comedy *dist1_quinault_verse_comedy_merecoquette *dist2_quinault_verse_comedy *id_ISMENE *date_1665 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismene
 
       Et qu'y veniez- vous faire ?
 

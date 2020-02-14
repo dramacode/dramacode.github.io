@@ -1,6 +1,6 @@
 
 
-**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *date_1671 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_venus *date_1671 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
 
 Cessez, cessez pour moi tous vos chants d'allégresse :
 De si rares honneurs ne m'appartiennent pas,
@@ -236,7 +236,7 @@ Jupiter vous fait grâce, et ma colère cesse.
 Vivez, Vénus l'ordonne ; aimez, elle y consent.
 
 
-**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amour
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_amour *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amour
 
 Dans le monde on n'entend que plaintes de l'Amour,
 On m'impute partout mille fautes commises,
@@ -617,7 +617,7 @@ Si vous me défendez d'en faire une pour moi ?
 Je vous possède enfin, délices de mon âme !
 
 
-**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_psyche
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_psyche *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_psyche
 
 Du sujet qui les tient si rêveurs parmi nous
 Je ne me croyais pas la cause,
@@ -1244,7 +1244,7 @@ Qui redonnez la vie à ce cœur innocent !
 Je vous revois enfin, cher objet de ma flamme !
 
 
-**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_le-roi *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
 
 Ah ! ma Fille, à ces pleurs laisse mes yeux ouverts,
 Mon deuil est raisonnable, encor qu'il soit extrême,
@@ -1362,7 +1362,7 @@ M'oblige à te laisser en ce funeste lieu.
 Adieu : je vais… Adieu.
 
 
-**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *date_1671 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aglaure
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_aglaure *date_1671 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aglaure
 
 Il est des maux, ma Sœur, que le silence aigrit,
 Laissons, laissons parler mon chagrin et le vôtre,
@@ -1656,7 +1656,7 @@ Nous savons toutes deux ce qu'il faut taire, ou dire,
 Et n'avons pas besoin sur ce point de leçons.
 
 
-**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cidippe
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_cidippe *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cidippe
 
 Ah, ma Sœur, c'est une aventure
 À faire perdre la raison,
@@ -1794,7 +1794,7 @@ Nous allons lui conter d'un changement si doux
 La surprenante et merveilleuse histoire.
 
 
-**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleomene
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_cleomene *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleomene
 
 On nous faisait croire qu'ici
 La Princesse Psyché, Madame, pourrait être.
@@ -1924,7 +1924,7 @@ Affranchir à jamais l'éclat de vos beaux yeux
 D'augmenter le jour en ces lieux.
 
 
-**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agenor
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_agenor *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agenor
 
 Ces lieux peuvent avoir des charmes assez doux ;
 Mais nous cherchons Psyché dans notre impatience.
@@ -2029,7 +2029,7 @@ De ces conseils dont l'artifice
 Fait les maux dont vous soupirez.
 
 
-**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zephire
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_zephire *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zephire
 
 Oui, je me suis galamment acquitté
 De la commission que vous m'avez donnée,
@@ -2084,7 +2084,7 @@ En Confident discret je sais ce qu'il faut faire
 Pour ne pas interrompre un amoureux mystère.
 
 
-**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lycas
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_lycas *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lycas
 
 Ah, Madame !
 
@@ -2121,7 +2121,7 @@ Si par de plus cruels et plus sensibles coups
 Tous les Dieux nous pouvaient expliquer leur colère.
 
 
-**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_zephyr
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_zephyr *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_zephyr
 
 Aimable jeunesse,
 Suivez la tendresse,
@@ -2156,7 +2156,7 @@ Mais on n'obtient guère
 De bien sans tourment.
 
 
-**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_choeurdesdivinites
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_choeur-des-divinites *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_choeurdesdivinites
 
 Nous goûtons une Paix profonde ;
 Les plus doux Jeux sont ici-bas ;
@@ -2204,7 +2204,7 @@ Qu'il n'est point d'Âme si cruelle
 Qui tôt ou tard ne se rende à l'Amour.
 
 
-**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_vertumne
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_vertumne *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_vertumne
 
 Rendez-vous, Beautés cruelles,
 Soupirez à votre tour.
@@ -2219,7 +2219,7 @@ Un bel Objet toujours sévère
 Ne se fait jamais bien aimer.
 
 
-**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_palaemon
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_palaemon *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_palaemon
 
 Voici la Reine des Belles,
 Qui vient inspirer l'amour.

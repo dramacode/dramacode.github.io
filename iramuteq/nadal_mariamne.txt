@@ -1,6 +1,6 @@
 
 
-**** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_herode
+**** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *id_HERODE *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_herode
 
 Ciel ! Je respire enfin. Mais que vois-je ? Alexandre ?
 
@@ -521,7 +521,7 @@ Souffre, que de mon sang rachetant mes forfaits,
 J'expie auprès de toi les maux que je t'ai faits.
 
 
-**** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *date_1725 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mariamne
+**** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *id_MARIAMNE *date_1725 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mariamne
 
 Madame, il est trop vrai, votre crainte était juste,
 Un bruit sourd se répand jusqu'au Trône d'Auguste.
@@ -916,7 +916,7 @@ De ton aspect du moins la mort va m'affranchir.
 Adieu. Garde-toi bien de te laisser fléchir.
 
 
-**** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alexandre
+**** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *id_ALEXANDRE *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alexandre
 
       Ah ! Madame,
 Permettez que mon coeur percé de mille traits
@@ -1115,7 +1115,7 @@ Elle vous laisse un Fils, que percent vos douleurs.
 Permettez que sa main puisse essuyer vos pleurs.
 
 
-**** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *date_1725 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_salome
+**** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *id_SALOME *date_1725 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_salome
 
       Je t'entends.
 Je sais de ses chagrins la cause déplorable,
@@ -1427,7 +1427,7 @@ Au Trône paternel un plus noble chemin...
 Vous l'entendez.
 
 
-**** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_soesme
+**** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *id_SOESME *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_soesme
 
       Un bruit fâcheux commence à se répandre.
 Autour de ce Palais le peuple est consterné,
@@ -1596,7 +1596,7 @@ De ce premier péril une fois garantie,
 À votre sûreté partout je puis pourvoir.
 
 
-**** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thares
+**** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *id_THARES *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thares
 
       Dans mon impatience,
 J'ose jusqu'en ces lieux chercher votre présence,
@@ -1755,7 +1755,7 @@ Le bras vengeur...
       Imite-moi.
 
 
-**** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcime
+**** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *id_ALCIME *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcime
 
 Par votre ordre, seigneur, les Prêtres appelés
 Refusent hautement leurs sacrés ministères ;
@@ -1786,7 +1786,7 @@ De tant de noirs complots sut découvrir la trame.
 Mais le temps est pressant, seigneur, et si votre âme...
 
 
-**** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *date_1725 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elise
+**** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *id_ELISE *date_1725 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elise
 
 Que dites-vous, Madame ? Et quelle est votre idée ?
 Quel temps votre courroux prend-il pour éclater ?

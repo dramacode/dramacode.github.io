@@ -1,6 +1,6 @@
 
 
-**** *creator_carmontelle *book_carmontelle_ecrivain *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_ecrivain *dist2_carmontelle_prose_proverbe *date_1768 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedelaiguille
+**** *creator_carmontelle *book_carmontelle_ecrivain *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_ecrivain *dist2_carmontelle_prose_proverbe *id_MADAMEDELAIGUILLE *date_1768 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedelaiguille
 
 Eh bien, qu'est-ce que tu as à pleurer ? Tenez, voyez à dix-sept ans, si on peut être comme cela.
 
@@ -212,7 +212,7 @@ Est-il parti ?
 Allons, mes enfants, mon gendre, venez, venez.
 
 
-**** *creator_carmontelle *book_carmontelle_ecrivain *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_ecrivain *dist2_carmontelle_prose_proverbe *date_1768 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_mademoisellejanneton
+**** *creator_carmontelle *book_carmontelle_ecrivain *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_ecrivain *dist2_carmontelle_prose_proverbe *id_MADEMOISELLEJANNETON *date_1768 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_mademoisellejanneton
 
 Ah, Monsieur Dubois, si vous saviez !...
 
@@ -369,7 +369,7 @@ Allons, Monsieur Discret, allez-vous-en.
 Ah, Monsieur Dubois, que je suis heureuse de vous avoir connu !
 
 
-**** *creator_carmontelle *book_carmontelle_ecrivain *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_ecrivain *dist2_carmontelle_prose_proverbe *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdiscret
+**** *creator_carmontelle *book_carmontelle_ecrivain *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_ecrivain *dist2_carmontelle_prose_proverbe *id_MONSIEURDISCRET *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdiscret
 
 Madame de l'Aiguille ne me regarde pas, non plus que Mademoiselle Janneton ; est-ce qu'elles seraient fâchées contre moi ? Qu'est-ce que cela veut dire ? C'est peut-être parce que je n'ai pas fait le mémoire qu'elle m'a demandé, pour tout ce qu'elle a vendu à ce Charcutier de la Croix Rouge. Dame, si elle est fâchée elle se défâchera, elle n'aura que deux peines ; mais, Mademoiselle Janneton, qu'est-ce qu'elle peut avoir contre moi ? C'est peut-être à cause de sa mère.
 
@@ -466,7 +466,7 @@ Non, je ne reviendrai plus ici. Je les donne toutes au diable ainsi que vous.
 Non, Monsieur, je m'en vais ; mais quelque jour...
 
 
-**** *creator_carmontelle *book_carmontelle_ecrivain *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_ecrivain *dist2_carmontelle_prose_proverbe *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicolas
+**** *creator_carmontelle *book_carmontelle_ecrivain *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_ecrivain *dist2_carmontelle_prose_proverbe *id_NICOLAS *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicolas
 
 Madame, ne pourriez-vous pas m'enseigner où demeure Mademoiselle Janneton?
 

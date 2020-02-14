@@ -1,6 +1,6 @@
 
 
-**** *creator_anonyme *book_anonyme_clubdesdames *style_prose *genre_comedy *dist1_anonyme_prose_comedy_clubdesdames *dist2_anonyme_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_descartes
+**** *creator_anonyme *book_anonyme_clubdesdames *style_prose *genre_comedy *dist1_anonyme_prose_comedy_clubdesdames *dist2_anonyme_prose_comedy *id_DESCARTES *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_descartes
 
 Elle est de mon côté, Mesdames ; et déjà je sens qu'il me sera difficile de m'acquitter.
 
@@ -57,7 +57,7 @@ Il est donc un bonheur qu'on ne peut nous ravir. Je l'éprouve délicieusement..
 Oh, mon ami !
 
 
-**** *creator_anonyme *book_anonyme_clubdesdames *style_prose *genre_comedy *dist1_anonyme_prose_comedy_clubdesdames *dist2_anonyme_prose_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+**** *creator_anonyme *book_anonyme_clubdesdames *style_prose *genre_comedy *dist1_anonyme_prose_comedy_clubdesdames *dist2_anonyme_prose_comedy *id_LACOMTESSE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
 
 Oui, ma toilette : je suis pressée ; j'attends ces Dames ; j'attends aussi le Marquis... La bonne journée !... L'établissement d'un Club : l'arrivée d'un grand Philosophe... qu'on croyait mort...
 Le plaisir de la vengeance ; le bruit, le mouvement, le fracas que tout cela va faire...
@@ -177,7 +177,7 @@ Votre toilette est un peu sérieuse ; et nous avons dit que la Philosophie égay
 Oh, quant à votre coiffure dans nos assemblées, la voilà toute trouvée.
 
 
-**** *creator_anonyme *book_anonyme_clubdesdames *style_prose *genre_comedy *dist1_anonyme_prose_comedy_clubdesdames *dist2_anonyme_prose_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
+**** *creator_anonyme *book_anonyme_clubdesdames *style_prose *genre_comedy *dist1_anonyme_prose_comedy_clubdesdames *dist2_anonyme_prose_comedy *id_LAMARQUISE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
 
 La dette est agréable à payer.
 
@@ -223,7 +223,7 @@ Erreur de votre âge, ma chère amie. Ils peuvent tout croire, pour se permettre
 Oh, que non ! C'est un parti pris... Il y a là de bonnes têtes.
 
 
-**** *creator_anonyme *book_anonyme_clubdesdames *style_prose *genre_comedy *dist1_anonyme_prose_comedy_clubdesdames *dist2_anonyme_prose_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_labaronne
+**** *creator_anonyme *book_anonyme_clubdesdames *style_prose *genre_comedy *dist1_anonyme_prose_comedy_clubdesdames *dist2_anonyme_prose_comedy *id_LABARONNE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_labaronne
 
 À Juger de l'accueil par le congé, je vois que vous l'avez bien reçu ? J'ai compris d'ailleurs le sujet de votre conversation : mais pourquoi sommes-nous de moitié dans ce badinage ?
 
@@ -260,7 +260,7 @@ Vous nous flattez, Monsieur : nous voulons être sans illusion. ⁎⁎⁎⁎⁎P
 Oh, oui : l'on porte à présent des fracs, des chapeaux ronds, des gilets charmants.
 
 
-**** *creator_anonyme *book_anonyme_clubdesdames *style_prose *genre_comedy *dist1_anonyme_prose_comedy_clubdesdames *dist2_anonyme_prose_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lavicomtesse
+**** *creator_anonyme *book_anonyme_clubdesdames *style_prose *genre_comedy *dist1_anonyme_prose_comedy_clubdesdames *dist2_anonyme_prose_comedy *id_LAVICOMTESSE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lavicomtesse
 
 Je n'y perdrai rien, puisque vous prenez pour vos assemblées les heures que les hommes donnent à leur Club. Et d'ailleurs, je suis ce que les autres me font être. J'aime à penser, même à me recueillir.
 
@@ -288,7 +288,7 @@ Les hommes pourraient-ils croire qu'il y a un bonheur attaché à l'insensibilit
 J'ose penser que vous les verrez revenir.
 
 
-**** *creator_anonyme *book_anonyme_clubdesdames *style_prose *genre_comedy *dist1_anonyme_prose_comedy_clubdesdames *dist2_anonyme_prose_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedemerval
+**** *creator_anonyme *book_anonyme_clubdesdames *style_prose *genre_comedy *dist1_anonyme_prose_comedy_clubdesdames *dist2_anonyme_prose_comedy *id_MADAMEDEMERVAL *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedemerval
 
 Oui, je vous crois en fonds pour cela...
 
@@ -309,7 +309,7 @@ L'éducation, les talents agréables, les modes, surtout, se perfectionnent tous
 Oui, Monsieur : désertion absolue ; abandon total.
 
 
-**** *creator_anonyme *book_anonyme_clubdesdames *style_prose *genre_comedy *dist1_anonyme_prose_comedy_clubdesdames *dist2_anonyme_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+**** *creator_anonyme *book_anonyme_clubdesdames *style_prose *genre_comedy *dist1_anonyme_prose_comedy_clubdesdames *dist2_anonyme_prose_comedy *id_LEMARQUIS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
 
 J'ai des pardons à vous demander ; je le vois : mais en vérité, je reçois, votre billet, et j'accours.
 
@@ -354,7 +354,7 @@ Oui, Monsieur, le temps répare bien des choses.
 Oui, Monsieur : cette supposition prouve que le grand homme creuse en un moment ce qui n'est longtemps que surface pour les autres. Vous trouverez ici des noms justement célèbres, qui vous garantiront la vérité de votre conjecture. Vous admirerez surtout une machine impo- faite ⁎⁎⁎⁎⁎ et légère, qui porte, en peu de moments, dans les airs, des êtres surpris et tranquilles, et ne s'élève pas autant que le nom de celui qui l'inventa.
 
 
-**** *creator_anonyme *book_anonyme_clubdesdames *style_prose *genre_comedy *dist1_anonyme_prose_comedy_clubdesdames *dist2_anonyme_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+**** *creator_anonyme *book_anonyme_clubdesdames *style_prose *genre_comedy *dist1_anonyme_prose_comedy_clubdesdames *dist2_anonyme_prose_comedy *id_LECHEVALIER *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
 
 À La toilette ! Belle Dame !
 

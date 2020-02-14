@@ -1,6 +1,6 @@
 
 
-**** *creator_doruxigne *book_doruxigne_alzate *style_verse *genre_comedy *dist1_doruxigne_verse_comedy_alzate *dist2_doruxigne_verse_comedy *date_1749 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
+**** *creator_doruxigne *book_doruxigne_alzate *style_verse *genre_comedy *dist1_doruxigne_verse_comedy_alzate *dist2_doruxigne_verse_comedy *id_ORONTE *date_1749 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
 
 Non ; pour lui pardonner, il m'a trop irrité.
 Devait-il me réduire à cette extrémité ?
@@ -130,7 +130,7 @@ Et que cette union des vertus l'heureux fruit
 Triomphe dans ce jour du PRÉJUGÉ DÉTRUIT.
 
 
-**** *creator_doruxigne *book_doruxigne_alzate *style_verse *genre_comedy *dist1_doruxigne_verse_comedy_alzate *dist2_doruxigne_verse_comedy *date_1749 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_egle
+**** *creator_doruxigne *book_doruxigne_alzate *style_verse *genre_comedy *dist1_doruxigne_verse_comedy_alzate *dist2_doruxigne_verse_comedy *id_EGLE *date_1749 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_egle
 
 Laissons les compliments : j'ai cru devoir venir.
 Vous consulter ici sur une grande affaire.
@@ -251,7 +251,7 @@ Ah, Monsieur, oublions une injuste colère,
 Et songeons seulement à réparer leurs maux.
 
 
-**** *creator_doruxigne *book_doruxigne_alzate *style_verse *genre_comedy *dist1_doruxigne_verse_comedy_alzate *dist2_doruxigne_verse_comedy *date_1749 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+**** *creator_doruxigne *book_doruxigne_alzate *style_verse *genre_comedy *dist1_doruxigne_verse_comedy_alzate *dist2_doruxigne_verse_comedy *id_VALERE *date_1749 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
 
 Ami, vous en serez tout à l'heure éclairci
 Mais puis-je librement vous en parler ici ?
@@ -443,7 +443,7 @@ De vous ouvrir mon coeur que ne m'est-il permis ?
 Vous verriez à quel point ce coeur vous est soumis.
 
 
-**** *creator_doruxigne *book_doruxigne_alzate *style_verse *genre_comedy *dist1_doruxigne_verse_comedy_alzate *dist2_doruxigne_verse_comedy *date_1749 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alzate
+**** *creator_doruxigne *book_doruxigne_alzate *style_verse *genre_comedy *dist1_doruxigne_verse_comedy_alzate *dist2_doruxigne_verse_comedy *id_ALZATE *date_1749 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alzate
 
 Ce que j'ai fait pour lui prouve à quel point je l'aime.
 J'ai cru de ses parents excitant la pitié
@@ -588,7 +588,7 @@ Par ce retour, Monsieur, vous me rendez la vie.
 Je reconnais mon maître à ces tendres bontés.
 
 
-**** *creator_doruxigne *book_doruxigne_alzate *style_verse *genre_comedy *dist1_doruxigne_verse_comedy_alzate *dist2_doruxigne_verse_comedy *date_1749 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ariste
+**** *creator_doruxigne *book_doruxigne_alzate *style_verse *genre_comedy *dist1_doruxigne_verse_comedy_alzate *dist2_doruxigne_verse_comedy *id_ARISTE *date_1749 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ariste
 
 He ! quoi ! Pour votre fils toujours inexorable,
 N'adoucirez-vous point le malheur qui l'accable ?

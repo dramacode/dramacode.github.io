@@ -1,6 +1,6 @@
 
 
-**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *date_1664 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_princesseelide
+**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_princesse-elide *date_1664 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_princesseelide
 
 Et pensez-vous, Seigneur, puisqu'il me faut parler,
 Qu'il eût en ce péril de quoi tant m'ébranler ?
@@ -201,7 +201,7 @@ Non, non, Prince, je ne vous sais pas mauvais gré de m'avoir abusée, et tout c
 Seigneur, je ne sais pas encore ce que je veux : donnez-moi le temps d'y songer, je vous prie, et m'épargnez un peu la confusion où je suis.
 
 
-**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *date_1664 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_aglante
+**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_aglante *date_1664 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_aglante
 
 Je chéris comme vous ces retraites tranquilles
 Où l'on se vient sauver de l'embarras des Villes ;
@@ -233,7 +233,7 @@ Madame, il faut vous obéir, mais je croirais que la conquête d'un tel cœur ne
 Je vous l'ai dit déjà, Madame, il faut vous obéir.
 
 
-**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *date_1664 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_cynthie
+**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_cynthie *date_1664 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_cynthie
 
 Jusques à quand ce cœur veut-il s'effaroucher
 Des innocents desseins qu'on a de le toucher ?
@@ -269,7 +269,7 @@ Prenez garde, Madame, l'entreprise est périlleuse, et lorsqu'on veut donner de 
 Il est vrai, Madame, que ce jeune Prince a fait voir une adresse non commune, et que l'air dont il a paru a été quelque chose de surprenant. Il sort vainqueur de cette Course, mais je doute fort qu'il en sorte avec le même cœur qu'il y a porté : Car enfin, vous lui avez tiré des traits dont il est difficile de se défendre, et sans parler de tout le reste, la grâce de votre danse, et la douceur de votre voix ont eu des charmes aujourd'hui à toucher les plus insensibles.
 
 
-**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *date_1664 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_philis
+**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_philis *date_1664 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_philis
 
 Non laisse-moi suivre les autres.
 
@@ -330,7 +330,7 @@ D'où vient qu'on aime à lui rendre les armes ?
 Seigneur, la Déesse Vénus vient d'annoncer partout le changement du cœur de la Princesse : Tous les Pasteurs et toutes les Bergères en témoignent leur joie par des danses et des chansons, et si ce n'est point un spectacle que vous méprisiez, vous allez voir l'allégresse publique se répandre jusques ici.
 
 
-**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_iphitas
+**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_iphitas *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_iphitas
 
 Ma Fille tu as tort de prendre de telles alarmes, et je me plains de toi, qui peux mettre dans ta pensée que je sois assez mauvais Père pour vouloir faire violence à tes sentiments, et me servir tyranniquement de la puissance que le Ciel me donne sur toi. Je souhaite à la vérité que ton cœur puisse aimer quelqu'un : Tous mes vœux seraient satisfaits si cela pouvait arriver, et je n'ai proposé les Fêtes et les Jeux que je fais célébrer ici ; qu'afin d'y pouvoir attirer tout ce que la Grèce a d'illustre ; et que parmi cette noble jeunesse tu puisses enfin rencontrer où arrêter tes yeux et déterminer tes pensées. Je ne demande dis-je, au Ciel autre bonheur que celui de te voir un Époux. J'ai pour obtenir cette grâce fait encore ce matin un sacrifice à Vénus ; et si je sais bien expliquer le langage des Dieux, elle m'a promis un miracle ; mais quoi qu'il en soit je veux en user avec toi en Père qui chérit sa Fille : Si tu trouves où attacher tes vœux, ton choix sera le mien, et je ne considérerai ni intérêts d'État, ni avantage d'Alliance. Si ton cœur demeure insensible, je n'entreprendrai point de le forcer : Mais au moins sois complaisante aux civilités qu'on te rend, et ne m'oblige point à faire les excuses de ta froideur : Traite ces Princes avec l'estime que tu leur dois, reçois avec reconnaissance les témoignages de leur zèle, et viens voir cette Course où leur adresse va paraître.
 
@@ -371,7 +371,7 @@ Viens, Moron, c'est ici un jour de paix, et je te remets en grâce avec la Princ
 Je crains bien, Princes, que le choix de ma Fille ne soit pas en votre faveur ; mais voilà deux Princesses qui peuvent bien vous consoler de ce petit malheur.
 
 
-**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *date_1664 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_euryale
+**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_euryale *date_1664 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_euryale
 
 Explique, explique Arbate, avec toute licence
 Ces soupirs, ces regards, et ce morne silence :
@@ -543,7 +543,7 @@ Pardonnez-moi, Madame, si je suis assez téméraire pour cela, et je prends à t
 Je l'attendrai tant qu'il vous plaira, Madame, cet Arrêt de ma destinée, et s'il me condamne à la mort, je le suivrai sans murmure.
 
 
-**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *date_1664 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_aristomene
+**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_aristomene *date_1664 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_aristomene
 
 Reprochez-vous, Madame, à nos justes alarmes,
 Ce péril dont tous deux avons sauvé vos charmes,
@@ -569,7 +569,7 @@ Madame, si j'ai été trop prompt à me persuader…
 Seigneur, nous savons prendre notre parti, et si ces aimables Princesses n'ont point trop de mépris pour les cœurs qu'on a rebutés ; nous pouvons revenir par elles, à l'honneur de votre alliance.
 
 
-**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arbate
+**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_arbate *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arbate
 
 Ce silence rêveur dont la sombre habitude
 Vous fait à tous moments chercher la solitude,
@@ -662,7 +662,7 @@ Peut-on savoir, Seigneur, par où votre espérance… ?
 Seigneur, voici la Princesse qui s'est un peu éloignée de sa suite.
 
 
-**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *date_1664 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_moron
+**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_moron *date_1664 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_moron
 
 Au secours ! sauvez-moi de la bête cruelle !
 
@@ -949,7 +949,7 @@ Oui, Seigneur, ce n'est point raillerie, j'en suis ce qu'on appelle disgracié. 
 Seigneur, je serai meilleur Courtisan une autre fois, et je me garderai bien de dire ce que je pense.
 
 
-**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *date_1664 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_satyre
+**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_satyre *date_1664 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_satyre
 
 La, la, la.
 
@@ -987,7 +987,7 @@ La, la, la, la.
 Fa, fa, fa, fa.
 
 
-**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *date_1664 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_tircis
+**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_tircis *date_1664 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_tircis
 
 Tu m'écoutes, hélas ! dans ma triste langueur ;
 Mais je n'en suis pas mieux, ô ! beauté sans pareille !
@@ -1008,7 +1008,7 @@ Courage Moron ! meurs promptement
 En généreux Amant.
 
 
-**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *date_1664 *sexe_feminin *age_sans-age *statut_exterieur *fonction_autres *role_clymene
+**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_clymene *date_1664 *sexe_feminin *age_sans-age *statut_exterieur *fonction_autres *role_clymene
 
 Chère Philis, dis-moi, que crois-tu de l'Amour ?
 
@@ -1028,7 +1028,7 @@ Pourquoi nous défend-on d'en goûter les douceurs ?
 Qu'en croirons-nous, ou le mal ou le bien :
 
 
-**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *date_1664 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_valetsdechiens
+**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_valets-de-chiens *date_1664 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_valetsdechiens
 
 Holà ? holà ? debout, debout, debout :
 Pour la Chasse ordonnée il faut préparer tout :
@@ -1046,7 +1046,7 @@ Lyciscas.
 Oh ! oh ! oh ! oh ! oh !
 
 
-**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *date_1664 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lyciscas
+**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_lyciscas *date_1664 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lyciscas
 
 Par la morbleu vous êtes de grands braillards vous autres,
 Et vous avez la gueule ouverte de bon matin !
@@ -1082,7 +1082,7 @@ Le diable vous emporte.
 Quoi toujours ? a-t-on jamais vu une pareille furie de chanter ? par le sang bleu j'enrage, puisque me voilà éveillé il faut que j'éveille les autres, et que je les tourmente comme on m'a fait. Allons ho ? Messieurs, debout, debout, vite c'est trop dormir. Je vais faire un bruit de Diable partout, debout, debout, debout ; Allons vite, ho, ho, ho ! Debout, debout, pour la Chasse ordonnée il faut préparer tout, debout, debout, Lyciscas debout ! Ho ! ho ! ho ! ho ! ho.
 
 
-**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *date_1664 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_musiciens
+**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_musiciens *date_1664 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_musiciens
 
 Ne vois-tu pas le jour qui se répand partout ?
 Allons debout, Lyciscas debout.

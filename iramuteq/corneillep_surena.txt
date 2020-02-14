@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillep *book_corneillep_surena *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_surena *dist2_corneillep_verse_tragedy *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orode
+**** *creator_corneillep *book_corneillep_surena *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_surena *dist2_corneillep_verse_tragedy *id_ORODE *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orode
 
 Qu'un tel calme, Silllace, a droit d'inquiéter
 Un roi qui lui doit tant, qu'il ne peut s'acquitter !
@@ -308,7 +308,7 @@ Comme il faut obéir à la nécessité.
 Je vous laisse avec lui.
 
 
-**** *creator_corneillep *book_corneillep_surena *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_surena *dist2_corneillep_verse_tragedy *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pacorus
+**** *creator_corneillep *book_corneillep_surena *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_surena *dist2_corneillep_verse_tragedy *id_PACORUS *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pacorus
 
 Suréna, votre zèle a trop servi mon père
 Pour m'en laisser attendre un devoir moins sincère ;
@@ -653,7 +653,7 @@ Mais songez bien qu'un roi, quand il dit : " je le veux… "
 Adieu : ce mot suffit, et vous devez m'entendre.
 
 
-**** *creator_corneillep *book_corneillep_surena *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_surena *dist2_corneillep_verse_tragedy *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_surena
+**** *creator_corneillep *book_corneillep_surena *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_surena *dist2_corneillep_verse_tragedy *id_SURENA *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_surena
 
 Je sais ce qu'à mon coeur coûtera votre vue ;
 Mais qui cherche à mourir doit chercher ce qui tue.
@@ -1016,7 +1016,7 @@ Un peu de dureté sied bien aux grandes âmes.
 Me fait vous craindre plus que je ne crains le roi.
 
 
-**** *creator_corneillep *book_corneillep_surena *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_surena *dist2_corneillep_verse_tragedy *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sillace
+**** *creator_corneillep *book_corneillep_surena *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_surena *dist2_corneillep_verse_tragedy *id_SILLACE *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sillace
 
 Je l'ai vu par votre ordre, et voulu par avance
 Pénétrer le secret de son indifférence.
@@ -1049,7 +1049,7 @@ Et lui laisser matière à de plus grands exploits ?
 Le rebut ! Vous craignez, seigneur, qu'il la refuse ?
 
 
-**** *creator_corneillep *book_corneillep_surena *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_surena *dist2_corneillep_verse_tragedy *date_1674 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eurydice
+**** *creator_corneillep *book_corneillep_surena *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_surena *dist2_corneillep_verse_tragedy *id_EURYDICE *date_1674 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eurydice
 
 Ne me parle plus tant de joie et d'hyménée ;
 Tu ne sais pas les maux où je suis condamnée,
@@ -1739,7 +1739,7 @@ Ormène, soutiens-moi.
 Généreux Suréna, reçois toute mon âme.
 
 
-**** *creator_corneillep *book_corneillep_surena *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_surena *dist2_corneillep_verse_tragedy *date_1674 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_palmis
+**** *creator_corneillep *book_corneillep_surena *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_surena *dist2_corneillep_verse_tragedy *id_PALMIS *date_1674 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_palmis
 
 J'apporte ici, madame, une heureuse nouvelle :
 Ce soir la reine arrive.
@@ -2098,7 +2098,7 @@ Grands dieux ! Et dans les maux où vous m'avez plongée,
 Ne souffrez point ma mort que je ne sois vengée !
 
 
-**** *creator_corneillep *book_corneillep_surena *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_surena *dist2_corneillep_verse_tragedy *date_1674 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ormene
+**** *creator_corneillep *book_corneillep_surena *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_surena *dist2_corneillep_verse_tragedy *id_ORMENE *date_1674 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ormene
 
       Vous, madame ?
 

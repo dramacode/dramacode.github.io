@@ -1,6 +1,6 @@
 
 
-**** *creator_marivaux *book_marivaux_surprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_surprisedelamour *dist2_marivaux_prose_comedy *date_1722 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+**** *creator_marivaux *book_marivaux_surprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_surprisedelamour *dist2_marivaux_prose_comedy *id_LACOMTESSE *date_1722 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
 
 Voilà un jeune homme bien sauvage.
 
@@ -255,7 +255,7 @@ Levez-vous, Monsieur.
 Ne me demandez rien à présent : reprenez le portrait de votre parente, et laissez-moi respirer.
 
 
-**** *creator_marivaux *book_marivaux_surprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_surprisedelamour *dist2_marivaux_prose_comedy *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lelio
+**** *creator_marivaux *book_marivaux_surprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_surprisedelamour *dist2_marivaux_prose_comedy *id_LELIO *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lelio
 
 Le temps est sombre aujourd'hui.
 
@@ -632,7 +632,7 @@ Non, Madame, condamnez-moi, ou faites-moi grâce.
 Ne vous mettez en peine de rien, mes enfants, j'aurai soin de votre noce.
 
 
-**** *creator_marivaux *book_marivaux_surprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_surprisedelamour *dist2_marivaux_prose_comedy *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebaron
+**** *creator_marivaux *book_marivaux_surprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_surprisedelamour *dist2_marivaux_prose_comedy *id_LEBARON *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebaron
 
 Ne me trompé-je point ? Est-ce vous que je vois, madame la Comtesse ?
 
@@ -669,7 +669,7 @@ Oh, Madame, nous aurons l'honneur, Lélio et moi, de vous reconduire jusque chez
 Laissez-les là, Colombine, ils sont de méchante humeur ; ils viennent de se faire une déclaration d'amour l'un à l'autre, et le tout en se fâchant.
 
 
-**** *creator_marivaux *book_marivaux_surprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_surprisedelamour *dist2_marivaux_prose_comedy *date_1722 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colombine
+**** *creator_marivaux *book_marivaux_surprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_surprisedelamour *dist2_marivaux_prose_comedy *id_COLOMBINE *date_1722 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colombine
 
 Un petit mot, s'il vous plaît. Oserait-on vous demander d'où vient cette férocité qui vous prend à vous et à votre maître ?
 
@@ -948,7 +948,7 @@ Je suis contente de vous, monsieur Lélio.
 Avant le mariage, il en faut un peu ; après le mariage, je t'en dispense.
 
 
-**** *creator_marivaux *book_marivaux_surprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_surprisedelamour *dist2_marivaux_prose_comedy *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_marivaux *book_marivaux_surprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_surprisedelamour *dist2_marivaux_prose_comedy *id_ARLEQUIN *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Ma foi oui, il est aussi mélancolique que nous.
 
@@ -1261,7 +1261,7 @@ Que nous serions condamnés tous
 À travailler au jardinage.
 
 
-**** *creator_marivaux *book_marivaux_surprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_surprisedelamour *dist2_marivaux_prose_comedy *date_1722 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jacqueline
+**** *creator_marivaux *book_marivaux_surprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_surprisedelamour *dist2_marivaux_prose_comedy *id_JACQUELINE *date_1722 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jacqueline
 
 Mais, qu'est-ce qu'il te faut donc ? Tu me veux pour ta femme : eh bian, est-ce que je recule à cela ?
 
@@ -1326,7 +1326,7 @@ Oh, Monsieur, je ne veux pas rester dans le village, car on est si faible : Si c
 Hom ! La voilà, cette comtesse. Je m'en vas, Piarre est son valet, et ça me fâche itou contre elle.
 
 
-**** *creator_marivaux *book_marivaux_surprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_surprisedelamour *dist2_marivaux_prose_comedy *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierre
+**** *creator_marivaux *book_marivaux_surprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_surprisedelamour *dist2_marivaux_prose_comedy *id_PIERRE *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierre
 
 Tiens, Jacqueline, t'as une himeur qui me fâche. Pargué, encore faut-il dire queuque parole d'amiquié aux gens.
 

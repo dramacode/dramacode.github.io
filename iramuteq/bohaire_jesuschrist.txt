@@ -1,6 +1,6 @@
 
 
-**** *creator_bohaire *book_bohaire_jesuschrist *style_verse *genre_tragedy *dist1_bohaire_verse_tragedy_jesuschrist *dist2_bohaire_verse_tragedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jesus
+**** *creator_bohaire *book_bohaire_jesuschrist *style_verse *genre_tragedy *dist1_bohaire_verse_tragedy_jesuschrist *dist2_bohaire_verse_tragedy *id_JESUS *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jesus
 
       Relevez-vous !.... Allez , ô Madeleine !
 La foi, le repentir vont briser votre chaîne.
@@ -335,7 +335,7 @@ Que l'homme ne doit plus esclave en sa patrie
 De la foi des docteurs, et de l'idolâtrie.
 
 
-**** *creator_bohaire *book_bohaire_jesuschrist *style_verse *genre_tragedy *dist1_bohaire_verse_tragedy_jesuschrist *dist2_bohaire_verse_tragedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pilate
+**** *creator_bohaire *book_bohaire_jesuschrist *style_verse *genre_tragedy *dist1_bohaire_verse_tragedy_jesuschrist *dist2_bohaire_verse_tragedy *id_PILATE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pilate
 
 J'admire sa sagesse et prise son système ;
 Ce sont ses qualités que j'estime et que j'aime ;
@@ -755,7 +755,7 @@ Entendez-vous ce peuple et des cris et ces chants ?
 Tout de leur allégresse annonce les accents.
 
 
-**** *creator_bohaire *book_bohaire_jesuschrist *style_verse *genre_tragedy *dist1_bohaire_verse_tragedy_jesuschrist *dist2_bohaire_verse_tragedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caiphe
+**** *creator_bohaire *book_bohaire_jesuschrist *style_verse *genre_tragedy *dist1_bohaire_verse_tragedy_jesuschrist *dist2_bohaire_verse_tragedy *id_CAIPHE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caiphe
 
 Quoi ! Seigneur ! Vous pourriez croire à telle imposture !
 Confondre l'Éternel avec sa Créature !
@@ -921,7 +921,7 @@ Et les perdre à son gré par son hypocrisie,
 De paraître un prophète aura la frénésie.
 
 
-**** *creator_bohaire *book_bohaire_jesuschrist *style_verse *genre_tragedy *dist1_bohaire_verse_tragedy_jesuschrist *dist2_bohaire_verse_tragedy *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madeleine
+**** *creator_bohaire *book_bohaire_jesuschrist *style_verse *genre_tragedy *dist1_bohaire_verse_tragedy_jesuschrist *dist2_bohaire_verse_tragedy *id_MADELEINE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madeleine
 
 Ô grand Dieu ! Madeleine à tes pieds prosternée,
 Implore ta clémence ! Elle-même étonnée

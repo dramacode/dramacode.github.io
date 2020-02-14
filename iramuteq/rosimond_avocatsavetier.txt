@@ -1,6 +1,6 @@
 
 
-**** *creator_rosimond *book_rosimond_avocatsavetier *style_verse *genre_comedy *dist1_rosimond_verse_comedy_avocatsavetier *dist2_rosimond_verse_comedy *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rosandre
+**** *creator_rosimond *book_rosimond_avocatsavetier *style_verse *genre_comedy *dist1_rosimond_verse_comedy_avocatsavetier *dist2_rosimond_verse_comedy *id_ROSANDRE *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rosandre
 
 Ah ! Mon très cher ami, je vous trouve à propos,
 Seriez-vous en humeur d'écouter quatre mots ?
@@ -261,7 +261,7 @@ C'est le meilleur effet de ma bonne fortune.
 Bagolin, dix louis, seront pour ton étrenne.
 
 
-**** *creator_rosimond *book_rosimond_avocatsavetier *style_verse *genre_comedy *dist1_rosimond_verse_comedy_avocatsavetier *dist2_rosimond_verse_comedy *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pancrace
+**** *creator_rosimond *book_rosimond_avocatsavetier *style_verse *genre_comedy *dist1_rosimond_verse_comedy_avocatsavetier *dist2_rosimond_verse_comedy *id_PANCRACE *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pancrace
 
 Cher ami, depuis quand Monsieur je vous supplie,
 Je ne vous vis jamais que je crois de ma vie.
@@ -465,7 +465,7 @@ Pour vous le cher ami, vous serez du festin.
 Rendons par cette hymen, tous vos désirs contents.
 
 
-**** *creator_rosimond *book_rosimond_avocatsavetier *style_verse *genre_comedy *dist1_rosimond_verse_comedy_avocatsavetier *dist2_rosimond_verse_comedy *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisimene
+**** *creator_rosimond *book_rosimond_avocatsavetier *style_verse *genre_comedy *dist1_rosimond_verse_comedy_avocatsavetier *dist2_rosimond_verse_comedy *id_LISIMENE *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisimene
 
       Papa, Papa que me désirez-vous ?
 
@@ -547,7 +547,7 @@ Mon père connaissez....
       Rosandre.
 
 
-**** *creator_rosimond *book_rosimond_avocatsavetier *style_verse *genre_comedy *dist1_rosimond_verse_comedy_avocatsavetier *dist2_rosimond_verse_comedy *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bagolin
+**** *creator_rosimond *book_rosimond_avocatsavetier *style_verse *genre_comedy *dist1_rosimond_verse_comedy_avocatsavetier *dist2_rosimond_verse_comedy *id_BAGOLIN *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bagolin
 
 Quoi ? Maudit animal, tu ne siffleras pas ?
 Ou je me trompe fort, ou bien tu siffleras.
@@ -817,7 +817,7 @@ Et le pauvre avocat n'aura rien pour sa peine ?
 Fort bien.
 
 
-**** *creator_rosimond *book_rosimond_avocatsavetier *style_verse *genre_comedy *dist1_rosimond_verse_comedy_avocatsavetier *dist2_rosimond_verse_comedy *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecousin
+**** *creator_rosimond *book_rosimond_avocatsavetier *style_verse *genre_comedy *dist1_rosimond_verse_comedy_avocatsavetier *dist2_rosimond_verse_comedy *id_LECOUSIN *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecousin
 
 C'est bien précipiter un pareil mariage.
 
@@ -836,7 +836,7 @@ Bon, bon, que dites-vous ? Une autre adresse presse,
 Sitôt...
 
 
-**** *creator_rosimond *book_rosimond_avocatsavetier *style_verse *genre_comedy *dist1_rosimond_verse_comedy_avocatsavetier *dist2_rosimond_verse_comedy *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledocteur
+**** *creator_rosimond *book_rosimond_avocatsavetier *style_verse *genre_comedy *dist1_rosimond_verse_comedy_avocatsavetier *dist2_rosimond_verse_comedy *id_LEDOCTEUR *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledocteur
 
 La plus belle apparence est trompeuse souvent
 Dit Sénèque, et souvent par une fausse amorce,
@@ -1008,7 +1008,7 @@ Il vous a dit bonsoir, donnez lui le bonjour.
 Le Philosophe dit, que quand un bon dessein...
 
 
-**** *creator_rosimond *book_rosimond_avocatsavetier *style_verse *genre_comedy *dist1_rosimond_verse_comedy_avocatsavetier *dist2_rosimond_verse_comedy *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sergent
+**** *creator_rosimond *book_rosimond_avocatsavetier *style_verse *genre_comedy *dist1_rosimond_verse_comedy_avocatsavetier *dist2_rosimond_verse_comedy *id_SERGENT *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sergent
 
       Voyons le personnage ;
 Ah galant ! Je te tiens, c'est de la part du Roi,
@@ -1037,7 +1037,7 @@ Il est dans cette caisse, et vous le pouvez voir.
 Monsieur...
 
 
-**** *creator_rosimond *book_rosimond_avocatsavetier *style_verse *genre_comedy *dist1_rosimond_verse_comedy_avocatsavetier *dist2_rosimond_verse_comedy *date_1670 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_recors
+**** *creator_rosimond *book_rosimond_avocatsavetier *style_verse *genre_comedy *dist1_rosimond_verse_comedy_avocatsavetier *dist2_rosimond_verse_comedy *id_RECORS *date_1670 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_recors
 
       Ah ! L'épaule !
 

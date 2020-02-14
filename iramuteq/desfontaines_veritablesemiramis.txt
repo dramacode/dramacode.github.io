@@ -1,6 +1,6 @@
 
 
-**** *creator_desfontaines *book_desfontaines_veritablesemiramis *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_veritablesemiramis *dist2_desfontaines_verse_tragedy *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_ninus
+**** *creator_desfontaines *book_desfontaines_veritablesemiramis *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_veritablesemiramis *dist2_desfontaines_verse_tragedy *id_ninus *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_ninus
 
 Ne sçaurais-je jamais le trouble où je vous vois ?
 Vous verray-je toûjours dans la melancolie,
@@ -182,7 +182,7 @@ Usez sur nous des droicts d'un pouvoir absolu.
 Il est de mon devoir d'obeïr, & me taire.
 
 
-**** *creator_desfontaines *book_desfontaines_veritablesemiramis *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_veritablesemiramis *dist2_desfontaines_verse_tragedy *date_1647 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_semiramis
+**** *creator_desfontaines *book_desfontaines_veritablesemiramis *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_veritablesemiramis *dist2_desfontaines_verse_tragedy *id_semiramis *date_1647 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_semiramis
 
 Melistrate amoureux ? ah! je ne le puis croire ;
 S'il aime, Merzabane, il n'aime que la gloire ;
@@ -806,7 +806,7 @@ C'est le seul que je veux ; & je le tiens si cher,
 Que ny vous, ny les Dieux, ne sçauriez l'empescher.
 
 
-**** *creator_desfontaines *book_desfontaines_veritablesemiramis *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_veritablesemiramis *dist2_desfontaines_verse_tragedy *date_1647 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_prazimene
+**** *creator_desfontaines *book_desfontaines_veritablesemiramis *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_veritablesemiramis *dist2_desfontaines_verse_tragedy *id_prazimene *date_1647 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_prazimene
 
 … Elle l'aime ? ô fatale avanture !
 Je n'en sçaurois douter, voila son escriture.
@@ -1051,7 +1051,7 @@ Sans toy, ses actions le faisoient assez voir.
 Seigneurs...
 
 
-**** *creator_desfontaines *book_desfontaines_veritablesemiramis *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_veritablesemiramis *dist2_desfontaines_verse_tragedy *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_melistrate
+**** *creator_desfontaines *book_desfontaines_veritablesemiramis *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_veritablesemiramis *dist2_desfontaines_verse_tragedy *id_melistrate *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_melistrate
 
 Grand Prince, l'ornement & l'honneur de l'Asie,
 Je treuve de l'excés en vostre courtoisie ;
@@ -1292,7 +1292,7 @@ Helas !
       Nous vous suivons ; Oronclide...
 
 
-**** *creator_desfontaines *book_desfontaines_veritablesemiramis *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_veritablesemiramis *dist2_desfontaines_verse_tragedy *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronclide
+**** *creator_desfontaines *book_desfontaines_veritablesemiramis *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_veritablesemiramis *dist2_desfontaines_verse_tragedy *id_oronclide *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronclide
 
 Certes, ce changement est si prodigieux⁎,
 Que mon esprit encor le dispute à mes yeux ;
@@ -1512,7 +1512,7 @@ Mesle confusément, & l'Amour & la Mort !
 FIN.
 
 
-**** *creator_desfontaines *book_desfontaines_veritablesemiramis *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_veritablesemiramis *dist2_desfontaines_verse_tragedy *date_1647 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_merzabane
+**** *creator_desfontaines *book_desfontaines_veritablesemiramis *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_veritablesemiramis *dist2_desfontaines_verse_tragedy *id_merzabane *date_1647 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_merzabane
 
 Madame, il est bien-vray que c'est la vertu mesme,
 Pour qui ce cœur altier⁎ sent une amour extréme ;
@@ -1904,7 +1904,7 @@ Et si j'ose former encor quelques souhaits,
 Souffrez⁎ que hors d'icy j'aille mourir en paix.
 
 
-**** *creator_desfontaines *book_desfontaines_veritablesemiramis *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_veritablesemiramis *dist2_desfontaines_verse_tragedy *date_1647 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_palmedon
+**** *creator_desfontaines *book_desfontaines_veritablesemiramis *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_veritablesemiramis *dist2_desfontaines_verse_tragedy *id_palmedon *date_1647 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_palmedon
 
 Confus, triste, pensif, je ne sçay que resoudre,
 Ayant oüy gronder l'épouventable foudre,

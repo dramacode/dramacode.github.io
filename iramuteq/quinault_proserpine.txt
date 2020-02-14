@@ -1,6 +1,6 @@
 
 
-**** *creator_quinault *book_quinault_proserpine *style_verse *genre_show *dist1_quinault_verse_show_proserpine *dist2_quinault_verse_show *date_1680 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ladiscorde
+**** *creator_quinault *book_quinault_proserpine *style_verse *genre_show *dist1_quinault_verse_show_proserpine *dist2_quinault_verse_show *id_LADISCORDE *date_1680 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ladiscorde
 
 Soupirez, triste paix, malheureuse captive,
 Gémissez, et n'espérez-pas
@@ -41,7 +41,7 @@ Rien à dévorer que mon coeur ?
 Ô ! Cruel esclavage !
 
 
-**** *creator_quinault *book_quinault_proserpine *style_verse *genre_show *dist1_quinault_verse_show_proserpine *dist2_quinault_verse_show *date_1680 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lavictoire
+**** *creator_quinault *book_quinault_proserpine *style_verse *genre_show *dist1_quinault_verse_show_proserpine *dist2_quinault_verse_show *id_LAVICTOIRE *date_1680 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lavictoire
 
 Venez aimable paix, le vainqueur vous appelle,
 La victoire devient votre guide fidèle ;
@@ -65,7 +65,7 @@ Et vous triste séjour, changez, que tout ressente
 Le pouvoir plein d'appas de la Paix triomphante.
 
 
-**** *creator_quinault *book_quinault_proserpine *style_verse *genre_show *dist1_quinault_verse_show_proserpine *dist2_quinault_verse_show *date_1680 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ceres
+**** *creator_quinault *book_quinault_proserpine *style_verse *genre_show *dist1_quinault_verse_show_proserpine *dist2_quinault_verse_show *id_CERES *date_1680 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ceres
 
 Goûtons dans ces aimables lieux
 Les douceurs d'une paix charmante.
@@ -309,7 +309,7 @@ Est doux quand il est rendu
 Par les soins de ce qu'on aime.
 
 
-**** *creator_quinault *book_quinault_proserpine *style_verse *genre_show *dist1_quinault_verse_show_proserpine *dist2_quinault_verse_show *date_1680 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cyane
+**** *creator_quinault *book_quinault_proserpine *style_verse *genre_show *dist1_quinault_verse_show_proserpine *dist2_quinault_verse_show *id_CYANE *date_1680 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cyane
 
 Qu'elle barbare violence !
 
@@ -327,7 +327,7 @@ C'est... c'est...
       C'est...
 
 
-**** *creator_quinault *book_quinault_proserpine *style_verse *genre_show *dist1_quinault_verse_show_proserpine *dist2_quinault_verse_show *date_1680 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+**** *creator_quinault *book_quinault_proserpine *style_verse *genre_show *dist1_quinault_verse_show_proserpine *dist2_quinault_verse_show *id_MERCURE *date_1680 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
 
 Jupiter près de vous m'ordonne de me rendre.
 
@@ -367,7 +367,7 @@ L'hymen assemble tous les dieux
 De l'empire infernal de la terre et des cieux.
 
 
-**** *creator_quinault *book_quinault_proserpine *style_verse *genre_show *dist1_quinault_verse_show_proserpine *dist2_quinault_verse_show *date_1680 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_arethuse
+**** *creator_quinault *book_quinault_proserpine *style_verse *genre_show *dist1_quinault_verse_show_proserpine *dist2_quinault_verse_show *id_ARETHUSE *date_1680 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_arethuse
 
 Je suis dans la Sicile une nymphe étrangère,
 Je viens vous conjurer de m'en laisser partir.
@@ -492,7 +492,7 @@ Tient votre fille en son pouvoir.
 Elle est reine d'un vaste empire.
 
 
-**** *creator_quinault *book_quinault_proserpine *style_verse *genre_show *dist1_quinault_verse_show_proserpine *dist2_quinault_verse_show *date_1680 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alphee
+**** *creator_quinault *book_quinault_proserpine *style_verse *genre_show *dist1_quinault_verse_show_proserpine *dist2_quinault_verse_show *id_ALPHEE *date_1680 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alphee
 
 Arrêtez, nymphe trop sévère,
 Ne fuyez plus d'une course légère
@@ -631,7 +631,7 @@ Le dieu qui pour elle soupire
 Est un des trois grands dieux, maîtres de l'univers.
 
 
-**** *creator_quinault *book_quinault_proserpine *style_verse *genre_show *dist1_quinault_verse_show_proserpine *dist2_quinault_verse_show *date_1680 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_proserpine
+**** *creator_quinault *book_quinault_proserpine *style_verse *genre_show *dist1_quinault_verse_show_proserpine *dist2_quinault_verse_show *id_PROSERPINE *date_1680 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_proserpine
 
 Cérès va nous ôter sa divine présence,
 Ces lieux vont perdre leurs attraits,
@@ -776,7 +776,7 @@ Ne touche point votre coeur ?
 Ah ! Quelle rigueur !
 
 
-**** *creator_quinault *book_quinault_proserpine *style_verse *genre_show *dist1_quinault_verse_show_proserpine *dist2_quinault_verse_show *date_1680 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pluton
+**** *creator_quinault *book_quinault_proserpine *style_verse *genre_show *dist1_quinault_verse_show_proserpine *dist2_quinault_verse_show *id_PLUTON *date_1680 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pluton
 
 Demeurez Arethuse, Alphée éloignez-vous.
 Alphée se retire, et Pluton continue à parler.
@@ -924,7 +924,7 @@ Nous avons pour nous en ce jour,
 Les destins et l'amour.
 
 
-**** *creator_quinault *book_quinault_proserpine *style_verse *genre_show *dist1_quinault_verse_show_proserpine *dist2_quinault_verse_show *date_1680 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ascalaphe
+**** *creator_quinault *book_quinault_proserpine *style_verse *genre_show *dist1_quinault_verse_show_proserpine *dist2_quinault_verse_show *id_ASCALAPHE *date_1680 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ascalaphe
 
 Je dois suivre le dieu de l'infernal empire.
 La terre par ses tremblements

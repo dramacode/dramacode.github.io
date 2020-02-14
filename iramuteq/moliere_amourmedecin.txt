@@ -1,6 +1,6 @@
 
 
-**** *creator_moliere *book_moliere_amourmedecin *style_prose *genre_comedy *dist1_moliere_prose_comedy_amourmedecin *dist2_moliere_prose_comedy *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sganarelle
+**** *creator_moliere *book_moliere_amourmedecin *style_prose *genre_comedy *dist1_moliere_prose_comedy_amourmedecin *dist2_moliere_prose_comedy *id_sganarelle *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sganarelle
 
 Ah, l'étrange chose que la vie ! et que je puis bien dire avec ce grand Philosophe de l'Antiquité, que qui terre a guerre a, et qu'un malheur ne vient jamais sans l'autre. Je n'avais qu'une seule femme qui est morte.
 
@@ -189,7 +189,7 @@ Comment, le mariage ?
 Comment, Diable : laissez-moi aller : laissez-moi aller, vous dis-je. Encore. Peste des gens.
 
 
-**** *creator_moliere *book_moliere_amourmedecin *style_prose *genre_comedy *dist1_moliere_prose_comedy_amourmedecin *dist2_moliere_prose_comedy *date_1665 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_lucinde
+**** *creator_moliere *book_moliere_amourmedecin *style_prose *genre_comedy *dist1_moliere_prose_comedy_amourmedecin *dist2_moliere_prose_comedy *id_lucinde *date_1665 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_lucinde
 
 Mon père, puisque vous voulez que je vous dise la chose…
 
@@ -240,7 +240,7 @@ Non, non, je veux avoir le contrat entre mes mains.
 Plus qu'on ne peut s'imaginer.
 
 
-**** *creator_moliere *book_moliere_amourmedecin *style_prose *genre_comedy *dist1_moliere_prose_comedy_amourmedecin *dist2_moliere_prose_comedy *date_1665 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lisette
+**** *creator_moliere *book_moliere_amourmedecin *style_prose *genre_comedy *dist1_moliere_prose_comedy_amourmedecin *dist2_moliere_prose_comedy *id_lisette *date_1665 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lisette
 
 Hé bien, Monsieur, vous venez d'entretenir votre fille. Avez-vous su la cause de sa mélancolie ?
 
@@ -379,7 +379,7 @@ Ils sont allés achever le reste du mariage.
 Ma foi, Monsieur, la Bécasse est bridée, et vous avez cru faire un jeu, qui demeure une vérité.
 
 
-**** *creator_moliere *book_moliere_amourmedecin *style_prose *genre_comedy *dist1_moliere_prose_comedy_amourmedecin *dist2_moliere_prose_comedy *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mtomes
+**** *creator_moliere *book_moliere_amourmedecin *style_prose *genre_comedy *dist1_moliere_prose_comedy_amourmedecin *dist2_moliere_prose_comedy *id_m-tomes *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mtomes
 
 Nous avons vu suffisamment la malade ; et sans doute qu'il y a beaucoup d'impuretés en elle.
 
@@ -438,7 +438,7 @@ Comment, qu'est-ce ?
 Écoutez, vous faites la railleuse : mais vous passerez par nos mains quelque jour.
 
 
-**** *creator_moliere *book_moliere_amourmedecin *style_prose *genre_comedy *dist1_moliere_prose_comedy_amourmedecin *dist2_moliere_prose_comedy *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mdesfonandres
+**** *creator_moliere *book_moliere_amourmedecin *style_prose *genre_comedy *dist1_moliere_prose_comedy_amourmedecin *dist2_moliere_prose_comedy *id_m-des-fonandres *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mdesfonandres
 
 Paris est étrangement grand, et il faut faire de longs trajets, quand la pratique donne un peu.
 
@@ -477,7 +477,7 @@ J'y consens. Qu'il me passe mon émétique pour la malade dont il s'agit, et je 
 Cela est fait.
 
 
-**** *creator_moliere *book_moliere_amourmedecin *style_prose *genre_comedy *dist1_moliere_prose_comedy_amourmedecin *dist2_moliere_prose_comedy *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mmacroton
+**** *creator_moliere *book_moliere_amourmedecin *style_prose *genre_comedy *dist1_moliere_prose_comedy_amourmedecin *dist2_moliere_prose_comedy *id_m-macroton *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mmacroton
 
 Après avoir bien consulté…
 
@@ -492,7 +492,7 @@ Ce. n'est. pas. qu'a-vec. tout. ce-la, vo-tre. fil-le. ne. puis-se. mou-rir ; m
 Nous. vous. di-sons. sin-cè-re-ment. no-tre. pen-sée.
 
 
-**** *creator_moliere *book_moliere_amourmedecin *style_prose *genre_comedy *dist1_moliere_prose_comedy_amourmedecin *dist2_moliere_prose_comedy *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mbahys
+**** *creator_moliere *book_moliere_amourmedecin *style_prose *genre_comedy *dist1_moliere_prose_comedy_amourmedecin *dist2_moliere_prose_comedy *id_m-bahys *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mbahys
 
 Pour raisonner…
 
@@ -507,7 +507,7 @@ Il vaut mieux mourir selon les règles, que de réchapper contre les règles.
 Et nous vous avons parlé, comme nous parlerions à notre propre frère.
 
 
-**** *creator_moliere *book_moliere_amourmedecin *style_prose *genre_comedy *dist1_moliere_prose_comedy_amourmedecin *dist2_moliere_prose_comedy *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mfilerin
+**** *creator_moliere *book_moliere_amourmedecin *style_prose *genre_comedy *dist1_moliere_prose_comedy_amourmedecin *dist2_moliere_prose_comedy *id_m-filerin *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mfilerin
 
 N'avez-vous point de honte, Messieurs, de montrer si peu de prudence pour des gens de votre âge, et de vous être querellés comme de jeunes étourdis ? Ne voyez-vous pas bien quel tort ces sortes de querelles nous font parmi le monde ? et n'est-ce pas assez que les savants voient les contrariétés, et les dissensions qui sont entre nos Auteurs et nos anciens Maîtres, sans découvrir encore au peuple, par nos débats et nos querelles, la forfanterie de notre Art ? Pour moi, je ne comprends rien du tout à cette méchante Politique de quelques-uns de nos gens. Et il faut confesser, que toutes ces contestations nous ont décriés, depuis peu, d'une étrange manière, et que, si nous n'y prenons garde, nous allons nous ruiner nous-mêmes. Je n'en parle pas pour mon intérêt. Car, Dieu merci, j'ai déjà établi mes petites affaires. Qu'il vente, qu'il pleuve, qu'il grêle, ceux qui sont morts sont morts, et j'ai de quoi me passer des vivants. Mais enfin, toutes ces disputes ne valent rien pour la Médecine. Puisque le Ciel nous fait la grâce que depuis tant de siècles, on demeure infatué de nous : ne désabusons point les hommes avec nos cabales extravagantes, et profitons de leur sottise le plus doucement que nous pourrons. Nous ne sommes pas les seuls, comme vous savez, qui tâchons à nous prévaloir de la faiblesse humaine. C'est là que va l'étude de la plupart du monde, et chacun s'efforce de prendre les hommes par leur faible, pour en tirer quelque profit. Les flatteurs, par exemple, cherchent à profiter de l'amour que les hommes ont pour les louanges, en leur donnant tout le vain encens qu'ils souhaitent : et c'est un art où l'on fait, comme on voit, des fortunes considérables. Les Alchimistes tâchent à profiter de la passion qu'on a pour les richesses, en promettant des montagnes d'or à ceux qui les écoutent. Et les diseurs d'Horoscope, par leurs Prédictions trompeuses profitent de la vanité et de l'ambition des crédules esprits : mais le plus grand faible des hommes, c'est l'amour qu'ils ont pour la vie, et nous en profitons nous autres, par notre pompeux galimatias ; et savons prendre nos avantages de cette vénération, que la peur de mourir, leur donne pour notre métier. Conservons-nous donc dans le degré d'estime où leur faiblesse nous a mis, et soyons de concert auprès des malades, pour nous attribuer les heureux succès de la maladie, et rejeter sur la Nature toutes les bévues de notre art. N'allons point, dis-je, détruire sottement les heureuses préventions d'une erreur qui donne du pain à tant de personnes.
 
@@ -518,7 +518,7 @@ On ne peut pas mieux dire. Et voilà se mettre à la raison.
 Touchez donc là. Adieu. Une autre fois, montrez plus de prudence.
 
 
-**** *creator_moliere *book_moliere_amourmedecin *style_prose *genre_comedy *dist1_moliere_prose_comedy_amourmedecin *dist2_moliere_prose_comedy *date_1665 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_clitandre
+**** *creator_moliere *book_moliere_amourmedecin *style_prose *genre_comedy *dist1_moliere_prose_comedy_amourmedecin *dist2_moliere_prose_comedy *id_clitandre *date_1665 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_clitandre
 
 Hé bien, Lisette, me trouves-tu bien ainsi ?
 

@@ -1,6 +1,6 @@
 
 
-**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lydie
+**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *id_LYDIE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lydie
 
 Moi, je pourrais souffrir l'amour d'Alcionée !
 Un amour qui m'outrage, et qui m'a ruinée,
@@ -642,7 +642,7 @@ C'est en fin un Arrêt et du Ciel et du sort,
 Que pour mon châtiment je t'aime après ta mort.
 
 
-**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dioclee
+**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *id_DIOCLEE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dioclee
 
 Laissez faire le Roi.
 
@@ -711,7 +711,7 @@ Mais voici Théoxène, et son oeil est en pleurs ;
 Qu'a-t-elle ?
 
 
-**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_theoxene
+**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *id_THEOXENE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_theoxene
 
 Mais gardez d'irriter ce Guerrier indomptable,
 Que son bras a fait grand et rendu redoutable,
@@ -810,7 +810,7 @@ Veut bien que vos regards soient ses derniers plaisirs.
 Et je le crois déjà dans la chambre prochaine.
 
 
-**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcionee
+**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *id_ALCIONEE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcionee
 
 Non, non, cette grandeur, ce charme de tant d'âmes,
 N'est pas un aliment, qui nourrisse mes flammes,
@@ -1518,7 +1518,7 @@ Il le peut demander, il le peut obtenir,
 Car ce n'est pas l'aimer que de s'en souvenir.
 
 
-**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achate
+**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *id_ACHATE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achate
 
 On sait que votre main heureusement hardie
 A rendu la couronne au Père de Lydie,
@@ -1619,7 +1619,7 @@ A partout des amis, et partout des Amants.
 S'il sait l'art de régner, il vous arrêtera.
 
 
-**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
+**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *id_LEROI *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
 
 Vois ma fille, est-ce à moi que votre âme contrainte,
 Doit cacher si longtemps la cause de sa plainte.
@@ -1822,7 +1822,7 @@ Et si vous m'en croyez, soyez moins téméraire.
 Allez.
 
 
-**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcire
+**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *id_ALCIRE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcire
 
 Je le trouve à propos, et comme on le désire.
 Vous puis-je dire un mot ?
@@ -1999,7 +1999,7 @@ Elle ne manque pas d'un juste fondement.
 J'en ai donc assez dit.
 
 
-**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_callisthene
+**** *creator_duryer *book_duryer_alcionee *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcionee *dist2_duryer_verse_tragedy *id_CALLISTHENE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_callisthene
 
 Sire, il tend à l'Empire, et n'a point de dessein
 Qui ne promette un sceptre à sa superbe main,

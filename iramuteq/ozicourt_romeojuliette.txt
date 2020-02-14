@@ -1,6 +1,6 @@
 
 
-**** *creator_ozicourt *book_ozicourt_romeojuliette *style_verse *genre_drame *dist1_ozicourt_verse_drame_romeojuliette *dist2_ozicourt_verse_drame *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurcapellet
+**** *creator_ozicourt *book_ozicourt_romeojuliette *style_verse *genre_drame *dist1_ozicourt_verse_drame_romeojuliette *dist2_ozicourt_verse_drame *id_MONSIEURCAPELLET *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurcapellet
 
       Oui, par cette fenêtre,
 On va sur le balcon ; du balcon au jardin,
@@ -271,7 +271,7 @@ Ah ! Viens m'en assurer dans mille embrassements.
 Voilà ce qu'ont produit ma haine et ma colère !
 
 
-**** *creator_ozicourt *book_ozicourt_romeojuliette *style_verse *genre_drame *dist1_ozicourt_verse_drame_romeojuliette *dist2_ozicourt_verse_drame *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamecapellet
+**** *creator_ozicourt *book_ozicourt_romeojuliette *style_verse *genre_drame *dist1_ozicourt_verse_drame_romeojuliette *dist2_ozicourt_verse_drame *id_MADAMECAPELLET *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamecapellet
 
       Son air me fait trembler ;
 Mais revenons à ma Julie.
@@ -506,7 +506,7 @@ Ils ne m'écoutent pas ! Ô cours trop inhumains !
 Qu'as-tu fait, malheureuse ?
 
 
-**** *creator_ozicourt *book_ozicourt_romeojuliette *style_verse *genre_drame *dist1_ozicourt_verse_drame_romeojuliette *dist2_ozicourt_verse_drame *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_romeo
+**** *creator_ozicourt *book_ozicourt_romeojuliette *style_verse *genre_drame *dist1_ozicourt_verse_drame_romeojuliette *dist2_ozicourt_verse_drame *id_ROMEO *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_romeo
 
       Ma Julie !...
 Je ne puis te quitter.
@@ -811,7 +811,7 @@ Je ne me soutiens plus ; je sens que je succombe.
 Approche, ma Julie, et reçois mes adieux.
 
 
-**** *creator_ozicourt *book_ozicourt_romeojuliette *style_verse *genre_drame *dist1_ozicourt_verse_drame_romeojuliette *dist2_ozicourt_verse_drame *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_julie
+**** *creator_ozicourt *book_ozicourt_romeojuliette *style_verse *genre_drame *dist1_ozicourt_verse_drame_romeojuliette *dist2_ozicourt_verse_drame *id_JULIE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_julie
 
 Chacun en ce palais goûte un sommeil paisible ;
 Sa douceur consolante a fui loin de mes yeux.
@@ -1494,7 +1494,7 @@ Et vous ! De vos fureurs contemplez tous les fruits.
 Attends-moi, Roméo ! Cher époux ! Je te suis.
 
 
-**** *creator_ozicourt *book_ozicourt_romeojuliette *style_verse *genre_drame *dist1_ozicourt_verse_drame_romeojuliette *dist2_ozicourt_verse_drame *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laure
+**** *creator_ozicourt *book_ozicourt_romeojuliette *style_verse *genre_drame *dist1_ozicourt_verse_drame_romeojuliette *dist2_ozicourt_verse_drame *id_LAURE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laure
 
 Quoi ! Seule, Sans lumière, au milieu de la nuit !
 Du côté des jardins quel projet vous conduit ?
@@ -1713,7 +1713,7 @@ Notre douleur, notre silence :
 On ne saurait, Seigneur, lui cacher plus longtemps...
 
 
-**** *creator_ozicourt *book_ozicourt_romeojuliette *style_verse *genre_drame *dist1_ozicourt_verse_drame_romeojuliette *dist2_ozicourt_verse_drame *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_benvoglio
+**** *creator_ozicourt *book_ozicourt_romeojuliette *style_verse *genre_drame *dist1_ozicourt_verse_drame_romeojuliette *dist2_ozicourt_verse_drame *id_BENVOGLIO *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_benvoglio
 
 Hélas ! Madame, à votre vue,
 Je pourrais trembler pour vos jours ;
@@ -1856,7 +1856,7 @@ Ah ! Puisse un tel exemple effrayer à jamais
 Les parents trop cruels, ennemis de la paix.
 
 
-**** *creator_ozicourt *book_ozicourt_romeojuliette *style_verse *genre_drame *dist1_ozicourt_verse_drame_romeojuliette *dist2_ozicourt_verse_drame *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gervas
+**** *creator_ozicourt *book_ozicourt_romeojuliette *style_verse *genre_drame *dist1_ozicourt_verse_drame_romeojuliette *dist2_ozicourt_verse_drame *id_GERVAS *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gervas
 
 Avant d'aller plus loin, en des peines mortelles,
 À Tivoli, Madame, il attend mon retour.

@@ -1,6 +1,6 @@
 
 
-**** *creator_piron *book_piron_faussealarme *style_verse *genre_pastorale *dist1_piron_verse_pastorale_faussealarme *dist2_piron_verse_pastorale *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lysis
+**** *creator_piron *book_piron_faussealarme *style_verse *genre_pastorale *dist1_piron_verse_pastorale_faussealarme *dist2_piron_verse_pastorale *id_LYSIS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lysis
 
 Qu'elle est heureuse, hélas ! De mériter vos larmes !
 Et qui n'envierait son destin ?
@@ -158,7 +158,7 @@ Que votre bouche ajoute à ce sourire aimable,
 Un mot, un seul mot favorable !
 
 
-**** *creator_piron *book_piron_faussealarme *style_verse *genre_pastorale *dist1_piron_verse_pastorale_faussealarme *dist2_piron_verse_pastorale *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hylas
+**** *creator_piron *book_piron_faussealarme *style_verse *genre_pastorale *dist1_piron_verse_pastorale_faussealarme *dist2_piron_verse_pastorale *id_HYLAS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hylas
 
 Évitez la triste Sylvie :
 Je le vois en pleurs s'approcher,
@@ -236,7 +236,7 @@ Et que tout à l'heure à vos yeux,
 Il vient, malgré moi, de me rendre.
 
 
-**** *creator_piron *book_piron_faussealarme *style_verse *genre_pastorale *dist1_piron_verse_pastorale_faussealarme *dist2_piron_verse_pastorale *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sylvie
+**** *creator_piron *book_piron_faussealarme *style_verse *genre_pastorale *dist1_piron_verse_pastorale_faussealarme *dist2_piron_verse_pastorale *id_SYLVIE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sylvie
 
 Léger en tout, comme en amours,
 Hylas, portez ailleurs vos frivoles maximes,
@@ -343,7 +343,7 @@ Que me voulez-vous faire entendre ?
 Venez me rendre ma brebis.
 
 
-**** *creator_piron *book_piron_faussealarme *style_verse *genre_pastorale *dist1_piron_verse_pastorale_faussealarme *dist2_piron_verse_pastorale *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_timarette
+**** *creator_piron *book_piron_faussealarme *style_verse *genre_pastorale *dist1_piron_verse_pastorale_faussealarme *dist2_piron_verse_pastorale *id_TIMARETTE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_timarette
 
 Aimons comme Sylvie,
 Son bonheur y convie.

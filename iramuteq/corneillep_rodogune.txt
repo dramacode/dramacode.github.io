@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillep *book_corneillep_rodogune *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_rodogune *dist2_corneillep_verse_tragedy *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleopatre
+**** *creator_corneillep *book_corneillep_rodogune *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_rodogune *dist2_corneillep_verse_tragedy *id_CLEOPATRE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleopatre
 
 Serments fallacieux, salutaire contrainte,
 Que m'imposa la force et qu'accepta ma crainte,
@@ -587,7 +587,7 @@ Après les vains efforts de mes inimitiés,
 Sauve-moi de l'affront de tomber à leurs pieds.
 
 
-**** *creator_corneillep *book_corneillep_rodogune *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_rodogune *dist2_corneillep_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_seleucus
+**** *creator_corneillep *book_corneillep_rodogune *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_rodogune *dist2_corneillep_verse_tragedy *id_SELEUCUS *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_seleucus
 
 Vous puis-je en confiance expliquer ma pensée ?
 
@@ -858,7 +858,7 @@ Qu'amitié pour mon frère, et zèle pour mon roi.
 Adieu.
 
 
-**** *creator_corneillep *book_corneillep_rodogune *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_rodogune *dist2_corneillep_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antiochus
+**** *creator_corneillep *book_corneillep_rodogune *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_rodogune *dist2_corneillep_verse_tragedy *id_ANTIOCHUS *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antiochus
 
       Demeurez, Laonice :
 Vous pouvez, comme lui, me rendre un bon office.
@@ -1380,7 +1380,7 @@ Et nous verrons après, par d'autres sacrifices,
 Si les dieux voudront être à nos voeux plus propices.
 
 
-**** *creator_corneillep *book_corneillep_rodogune *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_rodogune *dist2_corneillep_verse_tragedy *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rodogune
+**** *creator_corneillep *book_corneillep_rodogune *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_rodogune *dist2_corneillep_verse_tragedy *id_RODOGUNE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rodogune
 
 Je ne sais quel malheur aujourd'hui me menace,
 Et coule dans ma joie une secrète glace :
@@ -1774,7 +1774,7 @@ Cette gorge qui s'enfle. Ah, bons dieux ! Quelle rage !
 Pour vous perdre après elle, elle a voulu périr.
 
 
-**** *creator_corneillep *book_corneillep_rodogune *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_rodogune *dist2_corneillep_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_timagene
+**** *creator_corneillep *book_corneillep_rodogune *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_rodogune *dist2_corneillep_verse_tragedy *id_TIMAGENE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_timagene
 
 Pour le mieux admirer, trouvez bon, je vous prie,
 Que j'apprenne de vous les troubles de Syrie.
@@ -1865,7 +1865,7 @@ Contient, sans rien de plus, ce que le prince a dit.
       Seigneur, que faites-vous ?
 
 
-**** *creator_corneillep *book_corneillep_rodogune *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_rodogune *dist2_corneillep_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
+**** *creator_corneillep *book_corneillep_rodogune *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_rodogune *dist2_corneillep_verse_tragedy *id_ORONTE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
 
 Notre fuite, madame, est assez difficile :
 J'ai vu des gens de guerre épandus par la ville.
@@ -1920,7 +1920,7 @@ Et par un digne effet de ses faveurs puissantes,
 La coupable est punie et vos mains innocentes.
 
 
-**** *creator_corneillep *book_corneillep_rodogune *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_rodogune *dist2_corneillep_verse_tragedy *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laonice
+**** *creator_corneillep *book_corneillep_rodogune *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_rodogune *dist2_corneillep_verse_tragedy *id_LAONICE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laonice
 
 Enfin ce jour pompeux, cet heureux jour nous luit,
 Qui d'un trouble si long doit dissiper la nuit,

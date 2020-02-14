@@ -1,6 +1,6 @@
 
 
-**** *creator_gueullette *book_gueullette_leandrefiacre *style_prose *genre_parade *dist1_gueullette_prose_parade_leandrefiacre *dist2_gueullette_prose_parade *date_1720 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_leandre
+**** *creator_gueullette *book_gueullette_leandrefiacre *style_prose *genre_parade *dist1_gueullette_prose_parade_leandrefiacre *dist2_gueullette_prose_parade *id_LEANDRE *date_1720 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_leandre
 
 Quoi ! Charmante z'Isabelle, j'apprens que vous allez t'épouser Monsieur Cassandre. Où est la foi que vous m'avez promise ? Où est l'amour, où est le bien que vous me portiez ?
 
@@ -20,7 +20,7 @@ Non, Monsieur, je n'en ai point z'assez. Je ne suis point tel que je parais figu
 Allons profiter d'un déguisement, qui m'a fait vous obtenir de messieurs vos parents.
 
 
-**** *creator_gueullette *book_gueullette_leandrefiacre *style_prose *genre_parade *dist1_gueullette_prose_parade_leandrefiacre *dist2_gueullette_prose_parade *date_1720 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_isabelle
+**** *creator_gueullette *book_gueullette_leandrefiacre *style_prose *genre_parade *dist1_gueullette_prose_parade_leandrefiacre *dist2_gueullette_prose_parade *id_ISABELLE *date_1720 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_isabelle
 
 Taisez-vous donc, mon cher Liandre, si vous ne voulez t'empêcher mon établissement ; car enfin je vous aime plus que lui, mais il a plus de moyen que vous.
 
@@ -46,7 +46,7 @@ Je causais avec lui, je faisais mon marché.
 Mon cher papa, je lui en ai donné tant qu'il a voulu ; ce n'est pas ma faute, je vous en assure, s'il en veut encore.
 
 
-**** *creator_gueullette *book_gueullette_leandrefiacre *style_prose *genre_parade *dist1_gueullette_prose_parade_leandrefiacre *dist2_gueullette_prose_parade *date_1720 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_cassandre
+**** *creator_gueullette *book_gueullette_leandrefiacre *style_prose *genre_parade *dist1_gueullette_prose_parade_leandrefiacre *dist2_gueullette_prose_parade *id_CASSANDRE *date_1720 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_cassandre
 
 Enfin je viens ici pour épouser.
 
@@ -126,7 +126,7 @@ Oh pour le coup, si je n'avais peur de casser mon bâton...
 Voilà pour toi.
 
 
-**** *creator_gueullette *book_gueullette_leandrefiacre *style_prose *genre_parade *dist1_gueullette_prose_parade_leandrefiacre *dist2_gueullette_prose_parade *date_1720 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_villebrequin
+**** *creator_gueullette *book_gueullette_leandrefiacre *style_prose *genre_parade *dist1_gueullette_prose_parade_leandrefiacre *dist2_gueullette_prose_parade *id_VILLEBREQUIN *date_1720 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_villebrequin
 
 Ah ! Bonjour mon compère et mon bon ami.
 
@@ -172,7 +172,7 @@ Monsieur, vous en êtes bien le maître.
 Allons faire la noce. Voulez-vous venir avec nous, mon Compere ?
 
 
-**** *creator_gueullette *book_gueullette_leandrefiacre *style_prose *genre_parade *dist1_gueullette_prose_parade_leandrefiacre *dist2_gueullette_prose_parade *date_1720 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_gilles
+**** *creator_gueullette *book_gueullette_leandrefiacre *style_prose *genre_parade *dist1_gueullette_prose_parade_leandrefiacre *dist2_gueullette_prose_parade *id_GILLES *date_1720 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_gilles
 
 Oui, mais non pas pour épousseter.
 

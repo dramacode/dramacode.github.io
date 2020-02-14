@@ -1,6 +1,6 @@
 
 
-**** *creator_cadetgassicourt *book_cadetgassicourt_souperdemoliere *style_verse *genre_comedy *dist1_cadetgassicourt_verse_comedy_souperdemoliere *dist2_cadetgassicourt_verse_comedy *date_1795 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moliere
+**** *creator_cadetgassicourt *book_cadetgassicourt_souperdemoliere *style_verse *genre_comedy *dist1_cadetgassicourt_verse_comedy_souperdemoliere *dist2_cadetgassicourt_verse_comedy *id_moliere *date_1795 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moliere
 
 MES amis ! mes enfans ! votre attachement vous égare. Est-ce ainsi qu'on doit idolâtrer les hommes ? Quelle erreur ! (avec satisfaction.) Mais elle est douce pour moi. J'ai reçu les faveurs de la fortune, quelquefois celles de la gloire... elles ne valent pas celles de l'amitié. -- Eh bien ! Antoine, le jour de ton bonheur est-il enfin fixé ? Pourrais-je...
 
@@ -192,7 +192,7 @@ Mais, comme vous, chacun redoute
 Ce pas vers l'immortalité.
 
 
-**** *creator_cadetgassicourt *book_cadetgassicourt_souperdemoliere *style_verse *genre_comedy *dist1_cadetgassicourt_verse_comedy_souperdemoliere *dist2_cadetgassicourt_verse_comedy *date_1795 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_boileau
+**** *creator_cadetgassicourt *book_cadetgassicourt_souperdemoliere *style_verse *genre_comedy *dist1_cadetgassicourt_verse_comedy_souperdemoliere *dist2_cadetgassicourt_verse_comedy *id_boileau *date_1795 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_boileau
 
 Oui, mon ami, j'étais dans un de ces accès de misantropie où mon œil ne cherche et ne voit que des ridicules, où mon esprit se plaît à les peindre ; et comme on n'en trouve pas chez toi, j'avais peine à perdre ma journée.
 
@@ -297,7 +297,7 @@ Je prétends lire, à chaque verre,
 Une ou deux pages de Cottin.
 
 
-**** *creator_cadetgassicourt *book_cadetgassicourt_souperdemoliere *style_verse *genre_comedy *dist1_cadetgassicourt_verse_comedy_souperdemoliere *dist2_cadetgassicourt_verse_comedy *date_1795 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafontaine
+**** *creator_cadetgassicourt *book_cadetgassicourt_souperdemoliere *style_verse *genre_comedy *dist1_cadetgassicourt_verse_comedy_souperdemoliere *dist2_cadetgassicourt_verse_comedy *id_la-fontaine *date_1795 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafontaine
 
 CELA n'est point malheureux, j'arrive au moment où je trouve mes deux derniers vers... Répétons-les tous.
 
@@ -388,7 +388,7 @@ Puissai-je être aussi bien traité !
 FIN.
 
 
-**** *creator_cadetgassicourt *book_cadetgassicourt_souperdemoliere *style_verse *genre_comedy *dist1_cadetgassicourt_verse_comedy_souperdemoliere *dist2_cadetgassicourt_verse_comedy *date_1795 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lulli
+**** *creator_cadetgassicourt *book_cadetgassicourt_souperdemoliere *style_verse *genre_comedy *dist1_cadetgassicourt_verse_comedy_souperdemoliere *dist2_cadetgassicourt_verse_comedy *id_lulli *date_1795 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lulli
 
 Qu'as-tu donc ? Tu parais animée.
 
@@ -546,7 +546,7 @@ On est heureux quand on croit l'être,
 Et quand on le veut, on le croit.
 
 
-**** *creator_cadetgassicourt *book_cadetgassicourt_souperdemoliere *style_verse *genre_comedy *dist1_cadetgassicourt_verse_comedy_souperdemoliere *dist2_cadetgassicourt_verse_comedy *date_1795 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mignard
+**** *creator_cadetgassicourt *book_cadetgassicourt_souperdemoliere *style_verse *genre_comedy *dist1_cadetgassicourt_verse_comedy_souperdemoliere *dist2_cadetgassicourt_verse_comedy *id_mignard *date_1795 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mignard
 
 ALLONS, mon ami, mettons-nous à l'ouvrage... Ah ! bonjour, Laforest.
 
@@ -688,7 +688,7 @@ Des bouquets ! Madelon parée ! Antoine avec des rubans ! Ah ! Molière, nou
 La noce d'Antoine et de Madelon.
 
 
-**** *creator_cadetgassicourt *book_cadetgassicourt_souperdemoliere *style_verse *genre_comedy *dist1_cadetgassicourt_verse_comedy_souperdemoliere *dist2_cadetgassicourt_verse_comedy *date_1795 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chapelle
+**** *creator_cadetgassicourt *book_cadetgassicourt_souperdemoliere *style_verse *genre_comedy *dist1_cadetgassicourt_verse_comedy_souperdemoliere *dist2_cadetgassicourt_verse_comedy *id_chapelle *date_1795 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chapelle
 
 N'en dites pas de mal ?
 
@@ -800,7 +800,7 @@ Plutôt souffrir que de mourir,
 C'est la devise des hommes.
 
 
-**** *creator_cadetgassicourt *book_cadetgassicourt_souperdemoliere *style_verse *genre_comedy *dist1_cadetgassicourt_verse_comedy_souperdemoliere *dist2_cadetgassicourt_verse_comedy *date_1795 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_laforest
+**** *creator_cadetgassicourt *book_cadetgassicourt_souperdemoliere *style_verse *genre_comedy *dist1_cadetgassicourt_verse_comedy_souperdemoliere *dist2_cadetgassicourt_verse_comedy *id_laforest *date_1795 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_laforest
 
 ALLONS, Antoine, laisse-moi ; nous avons du monde ce soir, et je n'ai pas plus de tems qu'il ne m'en faut...
 
@@ -934,7 +934,7 @@ Au premier regard de tendresse ;
 Rire et tomber à ses genoux.
 
 
-**** *creator_cadetgassicourt *book_cadetgassicourt_souperdemoliere *style_verse *genre_comedy *dist1_cadetgassicourt_verse_comedy_souperdemoliere *dist2_cadetgassicourt_verse_comedy *date_1795 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_antoine
+**** *creator_cadetgassicourt *book_cadetgassicourt_souperdemoliere *style_verse *genre_comedy *dist1_cadetgassicourt_verse_comedy_souperdemoliere *dist2_cadetgassicourt_verse_comedy *id_antoine *date_1795 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_antoine
 
 Pourquoi me faire languir ; par pitié dites-moi si je puis espérer d'obtenir ma chère Madelon.
 
@@ -1024,7 +1024,7 @@ Ne refusez pas cet honneur...
 La cérémonie ne sera pas longue.
 
 
-**** *creator_cadetgassicourt *book_cadetgassicourt_souperdemoliere *style_verse *genre_comedy *dist1_cadetgassicourt_verse_comedy_souperdemoliere *dist2_cadetgassicourt_verse_comedy *date_1795 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_madelon
+**** *creator_cadetgassicourt *book_cadetgassicourt_souperdemoliere *style_verse *genre_comedy *dist1_cadetgassicourt_verse_comedy_souperdemoliere *dist2_cadetgassicourt_verse_comedy *id_madelon *date_1795 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_madelon
 
 Grand merci, Monsieur.
 
@@ -1070,7 +1070,7 @@ Ne la privez pas d'un plaisir.
 Comment ! Mais nous ne voulons pas autrement ; nous ne sommes pas excommuniés nous autres.
 
 
-**** *creator_cadetgassicourt *book_cadetgassicourt_souperdemoliere *style_verse *genre_comedy *dist1_cadetgassicourt_verse_comedy_souperdemoliere *dist2_cadetgassicourt_verse_comedy *date_1795 *sexe_masculin *age_veteran *statut_serviteur *fonction_valet *role_mathurin
+**** *creator_cadetgassicourt *book_cadetgassicourt_souperdemoliere *style_verse *genre_comedy *dist1_cadetgassicourt_verse_comedy_souperdemoliere *dist2_cadetgassicourt_verse_comedy *id_mathurin *date_1795 *sexe_masculin *age_veteran *statut_serviteur *fonction_valet *role_mathurin
 
 VOILA le contrat de nos enfans ; nous venons vous prier d'y bailler un mot de vot' signature.
 
@@ -1085,7 +1085,7 @@ Paix !
 Il jouit du plaisir de faire une bonne action.
 
 
-**** *creator_cadetgassicourt *book_cadetgassicourt_souperdemoliere *style_verse *genre_comedy *dist1_cadetgassicourt_verse_comedy_souperdemoliere *dist2_cadetgassicourt_verse_comedy *date_1795 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_villageois
+**** *creator_cadetgassicourt *book_cadetgassicourt_souperdemoliere *style_verse *genre_comedy *dist1_cadetgassicourt_verse_comedy_souperdemoliere *dist2_cadetgassicourt_verse_comedy *id_villageois *date_1795 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_villageois
 
 Du silence.
 

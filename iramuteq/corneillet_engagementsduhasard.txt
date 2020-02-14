@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillet *book_corneillet_engagementsduhasard *style_verse *genre_comedy *dist1_corneillet_verse_comedy_engagementsduhasard *dist2_corneillet_verse_comedy *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leonel
+**** *creator_corneillet *book_corneillet_engagementsduhasard *style_verse *genre_comedy *dist1_corneillet_verse_comedy_engagementsduhasard *dist2_corneillet_verse_comedy *id_LEONEL *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leonel
 
 Appelez ma prière, ou scrupule, ou faiblesse,
 L'honneur est délicat, peu de chose le blesse.
@@ -94,7 +94,7 @@ L'amour excuse tout ; vivez, heureux amants,
 Et que rien ne s'oppose à vos contentements.
 
 
-**** *creator_corneillet *book_corneillet_engagementsduhasard *style_verse *genre_comedy *dist1_corneillet_verse_comedy_engagementsduhasard *dist2_corneillet_verse_comedy *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donfelix
+**** *creator_corneillet *book_corneillet_engagementsduhasard *style_verse *genre_comedy *dist1_corneillet_verse_comedy_engagementsduhasard *dist2_corneillet_verse_comedy *id_DONFELIX *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donfelix
 
 Va, laisse courir où mon amour m'appelle.
 Mais, ô Dieu ! Béatrix recevoir un billet ?
@@ -560,7 +560,7 @@ Modérez ce transport.
 Permettez qu'Isabelle en vienne en dire autant.
 
 
-**** *creator_corneillet *book_corneillet_engagementsduhasard *style_verse *genre_comedy *dist1_corneillet_verse_comedy_engagementsduhasard *dist2_corneillet_verse_comedy *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donfadrique
+**** *creator_corneillet *book_corneillet_engagementsduhasard *style_verse *genre_comedy *dist1_corneillet_verse_comedy_engagementsduhasard *dist2_corneillet_verse_comedy *id_DONFADRIQUE *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donfadrique
 
 Mais, Madame...
 
@@ -1087,7 +1087,7 @@ Vous renouvelle ici l'hommage de ses voux ;
 De vous seule dépend tout le bien que j'espère.
 
 
-**** *creator_corneillet *book_corneillet_engagementsduhasard *style_verse *genre_comedy *dist1_corneillet_verse_comedy_engagementsduhasard *dist2_corneillet_verse_comedy *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_doncesar
+**** *creator_corneillet *book_corneillet_engagementsduhasard *style_verse *genre_comedy *dist1_corneillet_verse_comedy_engagementsduhasard *dist2_corneillet_verse_comedy *id_DONCESAR *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_doncesar
 
 Vous voyez dans sa flamme un Amant obstiné,
 Qu'à languir sans espoir l'amour a condamné.
@@ -1308,7 +1308,7 @@ Je n'ai plus rien à dire, et mon sour satisfait,
 Pour condamner la cause, estime trop l'effet.
 
 
-**** *creator_corneillet *book_corneillet_engagementsduhasard *style_verse *genre_comedy *dist1_corneillet_verse_comedy_engagementsduhasard *dist2_corneillet_verse_comedy *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elvire
+**** *creator_corneillet *book_corneillet_engagementsduhasard *style_verse *genre_comedy *dist1_corneillet_verse_comedy_engagementsduhasard *dist2_corneillet_verse_comedy *id_ELVIRE *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elvire
 
       Ah ! C'est trop, arrêtez, Don Fadrique,
 Votre feinte tendresse ouvertement s'explique,
@@ -1776,7 +1776,7 @@ Je dois cesser de feindre, et de me déguiser.
 Votre espoir est trop juste après l'aveu d'un frère.
 
 
-**** *creator_corneillet *book_corneillet_engagementsduhasard *style_verse *genre_comedy *dist1_corneillet_verse_comedy_engagementsduhasard *dist2_corneillet_verse_comedy *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+**** *creator_corneillet *book_corneillet_engagementsduhasard *style_verse *genre_comedy *dist1_corneillet_verse_comedy_engagementsduhasard *dist2_corneillet_verse_comedy *id_ISABELLE *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
 
 Quoi, toujours quereller, soit de jour, soit de nuit ?
 
@@ -2164,7 +2164,7 @@ Mes souhaits sont remplis si mon père est content ;
 Mais si votre bonté n'excuse ma folie...
 
 
-**** *creator_corneillet *book_corneillet_engagementsduhasard *style_verse *genre_comedy *dist1_corneillet_verse_comedy_engagementsduhasard *dist2_corneillet_verse_comedy *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_beatrix
+**** *creator_corneillet *book_corneillet_engagementsduhasard *style_verse *genre_comedy *dist1_corneillet_verse_comedy_engagementsduhasard *dist2_corneillet_verse_comedy *id_BEATRIX *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_beatrix
 
       L'abord est familier.
 
@@ -2252,7 +2252,7 @@ Si par moi Don César apprend ce qui se passe,
 Nous verrons quel effet suivra cette menace.
 
 
-**** *creator_corneillet *book_corneillet_engagementsduhasard *style_verse *genre_comedy *dist1_corneillet_verse_comedy_engagementsduhasard *dist2_corneillet_verse_comedy *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celie
+**** *creator_corneillet *book_corneillet_engagementsduhasard *style_verse *genre_comedy *dist1_corneillet_verse_comedy_engagementsduhasard *dist2_corneillet_verse_comedy *id_CELIE *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celie
 
 Ô le bon cajoleur ! Avec combien d'adresse
 Il me veut engager à trahir ma Maîtresse !
@@ -2367,7 +2367,7 @@ S'il vous en conte alors ?
 Il vaut mieux m'échapper puisqu'on ne me voit pas.
 
 
-**** *creator_corneillet *book_corneillet_engagementsduhasard *style_verse *genre_comedy *dist1_corneillet_verse_comedy_engagementsduhasard *dist2_corneillet_verse_comedy *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alonse
+**** *creator_corneillet *book_corneillet_engagementsduhasard *style_verse *genre_comedy *dist1_corneillet_verse_comedy_engagementsduhasard *dist2_corneillet_verse_comedy *id_ALONSE *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alonse
 
       Encor chez Isabelle ?
 
@@ -2393,7 +2393,7 @@ Je m'en vais l'avertir que vous êtes ici.
       Non.
 
 
-**** *creator_corneillet *book_corneillet_engagementsduhasard *style_verse *genre_comedy *dist1_corneillet_verse_comedy_engagementsduhasard *dist2_corneillet_verse_comedy *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clarin
+**** *creator_corneillet *book_corneillet_engagementsduhasard *style_verse *genre_comedy *dist1_corneillet_verse_comedy_engagementsduhasard *dist2_corneillet_verse_comedy *id_CLARIN *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clarin
 
 La trahir ! Pour cela je te veux trop de bien ;
 Mais on parle de tout par forme d'entretien.

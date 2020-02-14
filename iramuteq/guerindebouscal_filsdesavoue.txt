@@ -1,6 +1,6 @@
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_filsdesavoue *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_filsdesavoue *dist2_guerindebouscal_verse_tragedy *date_1641 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_theodoric
+**** *creator_guerindebouscal *book_guerindebouscal_filsdesavoue *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_filsdesavoue *dist2_guerindebouscal_verse_tragedy *id_theodoric *date_1641 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_theodoric
 
 Enfin la tyrannie a perdu son azile,
 Ravenne a succombé, cet Empire est tranquile,
@@ -255,7 +255,7 @@ Ce merveilleux decret est un œuvre de DIEU
 Fin du cinquiesme et dernier Acte.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_filsdesavoue *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_filsdesavoue *dist2_guerindebouscal_verse_tragedy *date_1641 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_sinderic
+**** *creator_guerindebouscal *book_guerindebouscal_filsdesavoue *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_filsdesavoue *dist2_guerindebouscal_verse_tragedy *id_sinderic *date_1641 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_sinderic
 
 Je sçay que tous les jours ce Prince magnanime,
 Par de semblables soins⁎ me monstre son estime,
@@ -856,7 +856,7 @@ Grands dieux que puis-je rendre à qui me rend ma mere,
 Qui ne soit au dessoubs de ce que je doy faire !
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_filsdesavoue *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_filsdesavoue *dist2_guerindebouscal_verse_tragedy *date_1641 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maxime
+**** *creator_guerindebouscal *book_guerindebouscal_filsdesavoue *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_filsdesavoue *dist2_guerindebouscal_verse_tragedy *id_maxime *date_1641 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maxime
 
 Madame, est-il donc vray que le destin m'envoye,
 Apres tant de tourmens une si grande joye ?
@@ -1178,7 +1178,7 @@ Quel hommage nouveau puis-je faire à mon Roy,
 Qui me donne une femme et couronne ma foy⁎ ?
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_filsdesavoue *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_filsdesavoue *dist2_guerindebouscal_verse_tragedy *date_1641 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+**** *creator_guerindebouscal *book_guerindebouscal_filsdesavoue *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_filsdesavoue *dist2_guerindebouscal_verse_tragedy *id_julie *date_1641 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
 
 Souvenir importun qui trouble mes plaisirs,
 Tyran de mon repos, cause⁎ de mes soupirs⁎,
@@ -1978,7 +1978,7 @@ Et n'est-ce pas trop peu qu'adorer⁎ à genoux,
 Un Roy qui m'offre un fils, et me donne un espoux ?
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_filsdesavoue *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_filsdesavoue *dist2_guerindebouscal_verse_tragedy *date_1641 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_horace
+**** *creator_guerindebouscal *book_guerindebouscal_filsdesavoue *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_filsdesavoue *dist2_guerindebouscal_verse_tragedy *id_horace *date_1641 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_horace
 
       Le Roy desire de vous voir.
 
@@ -2052,7 +2052,7 @@ Et dans le haut esclat où l'on le voit parestre,
 Puis qu'il se dit son fils, je croy qu'il le doit estre.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_filsdesavoue *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_filsdesavoue *dist2_guerindebouscal_verse_tragedy *date_1641 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_emile
+**** *creator_guerindebouscal *book_guerindebouscal_filsdesavoue *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_filsdesavoue *dist2_guerindebouscal_verse_tragedy *id_emile *date_1641 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_emile
 
 Voicy Boece,
 
@@ -2113,7 +2113,7 @@ Il faut si nous pouvons nous y couler sans bruict⁎,
 A travers l'espaisseur des ombres de la nuict.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_filsdesavoue *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_filsdesavoue *dist2_guerindebouscal_verse_tragedy *date_1641 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_livie
+**** *creator_guerindebouscal *book_guerindebouscal_filsdesavoue *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_filsdesavoue *dist2_guerindebouscal_verse_tragedy *id_livie *date_1641 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_livie
 
 Madame, le Roy vient par la porte prochaine,
 Du balcon de la sale, on le peut voir sans peine,
@@ -2225,7 +2225,7 @@ Que Julie est trompée ; et que j'ay de mal-heur !
       Laissez-moy.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_filsdesavoue *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_filsdesavoue *dist2_guerindebouscal_verse_tragedy *date_1641 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cornelie
+**** *creator_guerindebouscal *book_guerindebouscal_filsdesavoue *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_filsdesavoue *dist2_guerindebouscal_verse_tragedy *id_cornelie *date_1641 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cornelie
 
 Madame, Sinderic est là bas à la porte,
 Qui demande à vous voir.
@@ -2239,7 +2239,7 @@ Madame, il est bien tard.
       Et bien j'y cours.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_filsdesavoue *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_filsdesavoue *dist2_guerindebouscal_verse_tragedy *date_1641 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_boece
+**** *creator_guerindebouscal *book_guerindebouscal_filsdesavoue *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_filsdesavoue *dist2_guerindebouscal_verse_tragedy *id_boece *date_1641 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_boece
 
       Grand Prince souffrez⁎ moy.
 

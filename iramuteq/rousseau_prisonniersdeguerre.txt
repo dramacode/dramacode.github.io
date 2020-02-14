@@ -1,6 +1,6 @@
 
 
-**** *creator_rousseau *book_rousseau_prisonniersdeguerre *style_prose *genre_comedy *dist1_rousseau_prose_comedy_prisonniersdeguerre *dist2_rousseau_prose_comedy *date_1747 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_goternitz
+**** *creator_rousseau *book_rousseau_prisonniersdeguerre *style_prose *genre_comedy *dist1_rousseau_prose_comedy_prisonniersdeguerre *dist2_rousseau_prose_comedy *id_GOTERNITZ *date_1747 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_goternitz
 
 Vous avez là d'étranges opinions de ma fille.
 
@@ -49,7 +49,7 @@ Comment donc ! Dorante ne serait-il pas de son goût ? En ce cas je la soupço
 Elle n'ignore pas combien les Français sont aimables.
 
 
-**** *creator_rousseau *book_rousseau_prisonniersdeguerre *style_prose *genre_comedy *dist1_rousseau_prose_comedy_prisonniersdeguerre *dist2_rousseau_prose_comedy *date_1747 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_macker
+**** *creator_rousseau *book_rousseau_prisonniersdeguerre *style_prose *genre_comedy *dist1_rousseau_prose_comedy_prisonniersdeguerre *dist2_rousseau_prose_comedy *id_MACKER *date_1747 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_macker
 
 Ah ! Voici ce prisonnier que j'ai en garde. Il faut que je le prévienne sur la façon dont il doit se conduire avec ma future ; car ces Français, qui, dit-on, se soucient si peu de leurs femmes, sont des plus accommodants avec celles d'autrui : mais je ne veux point chez moi de ce commerce-là, et je prétends du moins que mes enfants soient de mon pays.
 
@@ -112,7 +112,7 @@ Qu'est-ce que cela veut dire ? Manque-t-on ainsi de parole à un homme comme mo
 Ouais, vous le prenez sur ce ton ? Oh ! Têtebleu, je vous ferai voir qu'on ne se moque pas ainsi des gens. Je m'en vais tout à l'heure porter ma plainte contre lui et contre vous : nous apprendrons un peu à ces beaux messieurs à venir nous enlever nos maîtresses dans notre propre pays ; et, si je ne puis me venger autrement, j'aurai du moins le plaisir dédire partout pis que pendre de vous et des Français.
 
 
-**** *creator_rousseau *book_rousseau_prisonniersdeguerre *style_prose *genre_comedy *dist1_rousseau_prose_comedy_prisonniersdeguerre *dist2_rousseau_prose_comedy *date_1747 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+**** *creator_rousseau *book_rousseau_prisonniersdeguerre *style_prose *genre_comedy *dist1_rousseau_prose_comedy_prisonniersdeguerre *dist2_rousseau_prose_comedy *id_DORANTE *date_1747 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
 
 Si tu ne t'y trouves pas bien, rien ne t'oblige d'y demeurer. Tu es mon domestique et non pas prisonnier de guerre comme moi ; tu peux t'en aller quand il te plaira
 
@@ -262,7 +262,7 @@ Ah ! Monsieur, quels transports !
 Ah ! vous le serez éternellement, belle Sophie ! Vous êtes pour moi le prix de ce qu'il y a de plus estimable parmi les hommes. C'est à la vertu de mon père, au mérite de ma nation, à la gloire de mon roi, que je dois le bonheur dont je vais jouir avec vous : on ne peut être heureux sous de plus beaux auspices.
 
 
-**** *creator_rousseau *book_rousseau_prisonniersdeguerre *style_prose *genre_comedy *dist1_rousseau_prose_comedy_prisonniersdeguerre *dist2_rousseau_prose_comedy *date_1747 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sophie
+**** *creator_rousseau *book_rousseau_prisonniersdeguerre *style_prose *genre_comedy *dist1_rousseau_prose_comedy_prisonniersdeguerre *dist2_rousseau_prose_comedy *id_SOPHIE *date_1747 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sophie
 
 Quand mon cœur en serait le maître, il ne le choisirait pas ailleurs qu'ici.
 
@@ -349,7 +349,7 @@ Votre temps sera mieux employé à plaider sa cause auprès de mon père qu'à m
 Point du tout : car je tâcherai de le devenir avec elles ; et tant que je plairai à Dorante je m'estimerai la plus glorieuse de toutes les femmes.
 
 
-**** *creator_rousseau *book_rousseau_prisonniersdeguerre *style_prose *genre_comedy *dist1_rousseau_prose_comedy_prisonniersdeguerre *dist2_rousseau_prose_comedy *date_1747 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frederich
+**** *creator_rousseau *book_rousseau_prisonniersdeguerre *style_prose *genre_comedy *dist1_rousseau_prose_comedy_prisonniersdeguerre *dist2_rousseau_prose_comedy *id_FREDERICH *date_1747 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frederich
 
 Soit : mais comme ma sœur n'est point encore votre femme, il me semble que les vôtres ne sont guère propres à lui donner envie de la devenir.
 
@@ -382,7 +382,7 @@ Ne voyez-vous pas les menaces qu'elle me fait pour lui avoir enlevé le seigneur
 Non ; mais elle sait que les Françaises le sont encore plus, et voilà ce qui l'épouvante.
 
 
-**** *creator_rousseau *book_rousseau_prisonniersdeguerre *style_prose *genre_comedy *dist1_rousseau_prose_comedy_prisonniersdeguerre *dist2_rousseau_prose_comedy *date_1747 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jacquard
+**** *creator_rousseau *book_rousseau_prisonniersdeguerre *style_prose *genre_comedy *dist1_rousseau_prose_comedy_prisonniersdeguerre *dist2_rousseau_prose_comedy *id_JACQUARD *date_1747 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jacquard
 
 Par mon foy, monsir, moi l'y comprendre rien à sti pays l'Ongri ; le fin l'être pon, et les hommes méchants : l'être pas naturel, cela.
 

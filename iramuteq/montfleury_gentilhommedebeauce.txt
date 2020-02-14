@@ -1,6 +1,6 @@
 
 
-**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *date_1670 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_lebeauceron
+**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *id_le-beauceron *date_1670 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_lebeauceron
 
       Quel est cet évelier⁎ ?
 
@@ -1107,7 +1107,7 @@ Si jamais Beauceron vient icy prendre femme.
 Non je vous en repons⁎ ; jusqu'au revoir cousine.
 
 
-**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *date_1670 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_climenne
+**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *id_climenne *date_1670 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_climenne
 
 Ma mere dans son bien a trouvé tant d'attraits,
 Qu'elle veut de mon cœur forcer la repugnance,
@@ -1487,7 +1487,7 @@ Nous pourrons, empeschant que le peuple ne crie,
 Par divertissement tirer la Lotterie.
 
 
-**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *date_1670 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_leandre
+**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *id_leandre *date_1670 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_leandre
 
 Je trouve en mon mal-heur quelque chose de doux,
 Puis qu'il permet encor que j'approche de vous,
@@ -1628,7 +1628,7 @@ Et quand de nostre amour l'Hymen sera le prix,
 Il faudra marier le Basque & Beatrix.
 
 
-**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lebasque
+**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *id_le-basque *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lebasque
 
 Lestre dans sty lochis que sty Monser dimeure ?
 Qu'il dir que je viendre moy ly servir tout à stheure⁎ !
@@ -1960,7 +1960,7 @@ Par un fort grand soufflet Monsieur que j'ay receu,
 J'ay bien veu qu'il cherchoit à me faire querelle.
 
 
-**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *date_1670 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_beatrix
+**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *id_beatrix *date_1670 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_beatrix
 
 Quoy vous espouseriez ce cousin ? ce magot⁎
 Supplanteroit Leandre & vous ne diriez mot ?
@@ -2341,7 +2341,7 @@ Qu'on me laisse en repos⁎, je n'ayme que Leandre,
 Je hais le Beauceron, qu'il s'aille faire pendre.
 
 
-**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_legascon
+**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *id_le-gascon *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_legascon
 
 Hola, quelqu'un, lacquais faut il monter en haut ?
 Personne ne respond.
@@ -2473,7 +2473,7 @@ Si je ne gagne rien je pretens⁎…Vous verrez.
 Ne m'en prendre qu'à vous & vous m'en respondrez.
 
 
-**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_martin
+**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *id_martin *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_martin
 
       Quid vis.
 
@@ -2521,7 +2521,7 @@ De peur que ce n'estoit quelque fou comme l'autre ;
 Sortons de cette chambre & montons dans la nostre.
 
 
-**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_champagne
+**** *creator_montfleury *book_montfleury_gentilhommedebeauce *style_verse *genre_comedy *dist1_montfleury_verse_comedy_gentilhommedebeauce *dist2_montfleury_verse_comedy *id_champagne *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_champagne
 
 Monsieur, on vient là bas de forcer nostre porte,
 Avec leur lotterie ils ont le diable au corps.

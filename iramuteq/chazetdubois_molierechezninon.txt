@@ -1,6 +1,6 @@
 
 
-**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moliere
+**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *id_MOLIERE *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moliere
 
       Ah ! Monsieur Saint-Alban !
 
@@ -170,7 +170,7 @@ Pour annoncer enfin au public de Paris
 Qu'on jouera le Tartuffe.
 
 
-**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *date_1802 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ninon
+**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *id_NINON *date_1802 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ninon
 
       Pardonnez si je n'ai pu me rendre...
 
@@ -488,7 +488,7 @@ Que l'esprit, la valeur, viennent dans ce Salon
 Retrouver quelquefois Molière chez Ninon.
 
 
-**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_racine
+**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *id_RACINE *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_racine
 
       Oui,
 Les honneurs qu'à la Cour obtint le grand Corneille.
@@ -521,7 +521,7 @@ J'ai toujours ses conseils et jamais son suffrage.
 Il ne doit pas garder un silence coupable.
 
 
-**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafontaine
+**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *id_LAFONTAINE *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafontaine
 
       Nous Rois...
 
@@ -537,7 +537,7 @@ Elle avait tant besoin de prier pour son âme !
       Je ne m'en souviens point.
 
 
-**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chapelle
+**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *id_CHAPELLE *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chapelle
 
 Messieurs, dans un instant vous allez voir Ninon.
 
@@ -624,7 +624,7 @@ Sur tant de beaux ouvrages ?
 Ils sont pour vous d'airain, d'acier, de diamant.
 
 
-**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_saintalban
+**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *id_SAINTALBAN *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_saintalban
 
 Un motif important auprès de vous m'amène.
 Madame.
@@ -798,7 +798,7 @@ Daignez lire vous-même adorable Ninon !
 Comment faire à présent !....
 
 
-**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *date_1802 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laforet
+**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *id_LAFORET *date_1802 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laforet
 
 Mademoiselle Ninon... Je désirons la voir
 Ben vite... Je venons de la part de notr' maître

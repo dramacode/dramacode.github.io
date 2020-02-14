@@ -1,6 +1,6 @@
 
 
-**** *creator_dufresny *book_dufresny_negligent *style_prose *genre_comedy *dist1_dufresny_prose_comedy_negligent *dist2_dufresny_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fanchon
+**** *creator_dufresny *book_dufresny_negligent *style_prose *genre_comedy *dist1_dufresny_prose_comedy_negligent *dist2_dufresny_prose_comedy *id_FANCHON *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fanchon
 
 Ha, ah, ah.
 
@@ -328,7 +328,7 @@ Ce sont des vapeurs.
 Oh ce n'est que cela ? Allons-nous-en.
 
 
-**** *creator_dufresny *book_dufresny_negligent *style_prose *genre_comedy *dist1_dufresny_prose_comedy_negligent *dist2_dufresny_prose_comedy *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_belise
+**** *creator_dufresny *book_dufresny_negligent *style_prose *genre_comedy *dist1_dufresny_prose_comedy_negligent *dist2_dufresny_prose_comedy *id_BELISE *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_belise
 
 J'ai à vous dire que vous êtes une petite sotte, une petite ridicule, pleine d'une vanité insupportable.
 
@@ -434,7 +434,7 @@ Tenez-vous donc, quelqu'un vient : vous me faites rougir, petit badin.
 Rentrons dans la salle, Monsieur Licandre, rentrons dans la salle ; ma raison a besoin d'une grosse compagnie pour ne pas se fourvoyer davantage.
 
 
-**** *creator_dufresny *book_dufresny_negligent *style_prose *genre_comedy *dist1_dufresny_prose_comedy_negligent *dist2_dufresny_prose_comedy *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+**** *creator_dufresny *book_dufresny_negligent *style_prose *genre_comedy *dist1_dufresny_prose_comedy_negligent *dist2_dufresny_prose_comedy *id_ANGELIQUE *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
 Pourquoi donc me faire venir ici, ma tante ? Et qu'avez-vous à me dire, que vous ne vouliez pas que mon oncle entende ?
 
@@ -519,7 +519,7 @@ Je serais bien fâchée d'avoir quelque chose à démêler avec lui.
 Et moi je n'aime pas à trouver tant de familiarité dans les hommes, cela ne m'est pas ordinaire.
 
 
-**** *creator_dufresny *book_dufresny_negligent *style_prose *genre_comedy *dist1_dufresny_prose_comedy_negligent *dist2_dufresny_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+**** *creator_dufresny *book_dufresny_negligent *style_prose *genre_comedy *dist1_dufresny_prose_comedy_negligent *dist2_dufresny_prose_comedy *id_DORANTE *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
 
 Ma chère Fanchon, je suis le plus amoureux de tous les hommes. Quand pourrai-je savoir certainement, ce que les regards d'Angélique ne me font entendre qu'à demi ?
 
@@ -689,7 +689,7 @@ Ah ! Monsieur.
 Vous n'aurez que la peine de signer.
 
 
-**** *creator_dufresny *book_dufresny_negligent *style_prose *genre_comedy *dist1_dufresny_prose_comedy_negligent *dist2_dufresny_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+**** *creator_dufresny *book_dufresny_negligent *style_prose *genre_comedy *dist1_dufresny_prose_comedy_negligent *dist2_dufresny_prose_comedy *id_LEMARQUIS *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
 
 Hé bonjour la petite personne, bonjour la petite personne.
 
@@ -1013,7 +1013,7 @@ Vous avez l'esprit mal tourné, Monsieur Oronte.
 Oh pour le coup vous avez raison, cela est indigne, et des gens comme moi n'ont jamais d'honneur à se mêler des affaires bourgeoises ; serviteur, Messieurs, serviteur.
 
 
-**** *creator_dufresny *book_dufresny_negligent *style_prose *genre_comedy *dist1_dufresny_prose_comedy_negligent *dist2_dufresny_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lintendant
+**** *creator_dufresny *book_dufresny_negligent *style_prose *genre_comedy *dist1_dufresny_prose_comedy_negligent *dist2_dufresny_prose_comedy *id_LINTENDANT *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lintendant
 
 Je n'ai pu trouver que cent pistoles, et pour les avoir il a fallu faire mon billet de deux mille livres.
 
@@ -1072,7 +1072,7 @@ Voilà Monsieur Oronte.
 N'y a-t-il rien de particulier à lui dire ?
 
 
-**** *creator_dufresny *book_dufresny_negligent *style_prose *genre_comedy *dist1_dufresny_prose_comedy_negligent *dist2_dufresny_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_letailleur
+**** *creator_dufresny *book_dufresny_negligent *style_prose *genre_comedy *dist1_dufresny_prose_comedy_negligent *dist2_dufresny_prose_comedy *id_LETAILLEUR *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_letailleur
 
 Monsieur, comme votre Intendant me renvoie toujours à vous, et que vous me renvoyez toujours à lui, pardonnez si vous sachant ensemble, je viens vous importuner jusques dans cette maison.
 
@@ -1097,7 +1097,7 @@ Mais quand sera-ce, Monsieur ? Que je sache le temps s'il vous plaît ?
 Fort bien. Il faudra que j'avance encore cela. Quelle misère !
 
 
-**** *creator_dufresny *book_dufresny_negligent *style_prose *genre_comedy *dist1_dufresny_prose_comedy_negligent *dist2_dufresny_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lolive
+**** *creator_dufresny *book_dufresny_negligent *style_prose *genre_comedy *dist1_dufresny_prose_comedy_negligent *dist2_dufresny_prose_comedy *id_LOLIVE *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lolive
 
 Où est donc Monsieur Oronte ?
 
@@ -1161,7 +1161,7 @@ Adieu, mon adorable.
 À propos, si nous devenons jamais mari et femme, point d'erreur de calcul, je te prie.
 
 
-**** *creator_dufresny *book_dufresny_negligent *style_prose *genre_comedy *dist1_dufresny_prose_comedy_negligent *dist2_dufresny_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesenechal
+**** *creator_dufresny *book_dufresny_negligent *style_prose *genre_comedy *dist1_dufresny_prose_comedy_negligent *dist2_dufresny_prose_comedy *id_LESENECHAL *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesenechal
 
 Depuis la perte que j'ai faite...
 
@@ -1199,7 +1199,7 @@ J'en suis inconsolable.
 Je vous jure que j'en serais au désespoir.
 
 
-**** *creator_dufresny *book_dufresny_negligent *style_prose *genre_comedy *dist1_dufresny_prose_comedy_negligent *dist2_dufresny_prose_comedy *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+**** *creator_dufresny *book_dufresny_negligent *style_prose *genre_comedy *dist1_dufresny_prose_comedy_negligent *dist2_dufresny_prose_comedy *id_LACOMTESSE *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
 
 Ah ! Monsieur le Sénéchal, vous avez perdu votre père ?
 

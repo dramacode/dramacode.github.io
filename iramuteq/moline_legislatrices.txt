@@ -1,6 +1,6 @@
 
 
-**** *creator_moline *book_moline_legislatrices *style_verse *genre_comedy *dist1_moline_verse_comedy_legislatrices *dist2_moline_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_themire
+**** *creator_moline *book_moline_legislatrices *style_verse *genre_comedy *dist1_moline_verse_comedy_legislatrices *dist2_moline_verse_comedy *id_THEMIRE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_themire
 
 Oh Madame, pour cette fois
 Dans cette île déserte il faut faire des Lois.
@@ -168,7 +168,7 @@ Soyez sensible à ma tendresse,
 J'ose implorer votre secours.
 
 
-**** *creator_moline *book_moline_legislatrices *style_verse *genre_comedy *dist1_moline_verse_comedy_legislatrices *dist2_moline_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurclopin
+**** *creator_moline *book_moline_legislatrices *style_verse *genre_comedy *dist1_moline_verse_comedy_legislatrices *dist2_moline_verse_comedy *id_MONSIEURCLOPIN *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurclopin
 
 L'intérêt du peuple m'anime,
 Et je vais par mes lois adoucit son destin.
@@ -254,7 +254,7 @@ Non, non, Madame, il faut vous battre,
 Puisque vous avez fait des lois.
 
 
-**** *creator_moline *book_moline_legislatrices *style_verse *genre_comedy *dist1_moline_verse_comedy_legislatrices *dist2_moline_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madameclopin
+**** *creator_moline *book_moline_legislatrices *style_verse *genre_comedy *dist1_moline_verse_comedy_legislatrices *dist2_moline_verse_comedy *id_MADAMECLOPIN *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madameclopin
 
 Oui, nous en avons la puissance,
 Nous sommes dans l'indépendance.
@@ -376,7 +376,7 @@ Je vous obéirai sans cesse,
 C'est à vous seul que j'ai recours.
 
 
-**** *creator_moline *book_moline_legislatrices *style_verse *genre_comedy *dist1_moline_verse_comedy_legislatrices *dist2_moline_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_julie
+**** *creator_moline *book_moline_legislatrices *style_verse *genre_comedy *dist1_moline_verse_comedy_legislatrices *dist2_moline_verse_comedy *id_JULIE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_julie
 
 Je viens me joindre au légitime hommage
 Que tous les Citoyens vous rendent tour à tour.
@@ -487,7 +487,7 @@ Que de vouloir faire la guerre.
 Cher Lindor, sauvez-moi la vie.
 
 
-**** *creator_moline *book_moline_legislatrices *style_verse *genre_comedy *dist1_moline_verse_comedy_legislatrices *dist2_moline_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lindor
+**** *creator_moline *book_moline_legislatrices *style_verse *genre_comedy *dist1_moline_verse_comedy_legislatrices *dist2_moline_verse_comedy *id_LINDOR *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lindor
 
 En fuyant de notre patrie
 Pour éviter l'affreuse tyrannie,

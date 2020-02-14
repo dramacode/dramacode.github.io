@@ -1,6 +1,6 @@
 
 
-**** *creator_sommerive *book_sommerive_bajazet *style_verse *genre_tragedy *dist1_sommerive_verse_tragedy_bajazet *dist2_sommerive_verse_tragedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tamerlan
+**** *creator_sommerive *book_sommerive_bajazet *style_verse *genre_tragedy *dist1_sommerive_verse_tragedy_bajazet *dist2_sommerive_verse_tragedy *id_TAMERLAN *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tamerlan
 
 Adanaxe vainqueur de l'Égypte rebelle,
 Ajoute à cet Empire une gloire nouvelle ;
@@ -470,7 +470,7 @@ Le sort nous fait gémir sous les mêmes malheurs ;
 À ses justes regrets allons mêler nos pleurs.
 
 
-**** *creator_sommerive *book_sommerive_bajazet *style_verse *genre_tragedy *dist1_sommerive_verse_tragedy_bajazet *dist2_sommerive_verse_tragedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bajazet
+**** *creator_sommerive *book_sommerive_bajazet *style_verse *genre_tragedy *dist1_sommerive_verse_tragedy_bajazet *dist2_sommerive_verse_tragedy *id_BAJAZET *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bajazet
 
 Me conduit-on ici pour m'annoncer la mort ?
 
@@ -684,7 +684,7 @@ Tamerlan, de ma main, je meurs empoisonné.
       J'expire... Ô ma chère Astérie.
 
 
-**** *creator_sommerive *book_sommerive_bajazet *style_verse *genre_tragedy *dist1_sommerive_verse_tragedy_bajazet *dist2_sommerive_verse_tragedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_themir
+**** *creator_sommerive *book_sommerive_bajazet *style_verse *genre_tragedy *dist1_sommerive_verse_tragedy_bajazet *dist2_sommerive_verse_tragedy *id_THEMIR *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_themir
 
 Un malheureux amour vers vous toujours m'entraîne.
 En vain de vos mépris vous accablez mon coeur,
@@ -890,7 +890,7 @@ Honorez d'un soupir... une vie ... abrégée...
 Je meurs.
 
 
-**** *creator_sommerive *book_sommerive_bajazet *style_verse *genre_tragedy *dist1_sommerive_verse_tragedy_bajazet *dist2_sommerive_verse_tragedy *date_1737 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_asterie
+**** *creator_sommerive *book_sommerive_bajazet *style_verse *genre_tragedy *dist1_sommerive_verse_tragedy_bajazet *dist2_sommerive_verse_tragedy *id_ASTERIE *date_1737 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_asterie
 
 Conçois, par mes dédains, l'excès de mon malheur,
 Puisqu'à mes yeux ce trône est un objet d'horreur.
@@ -1312,7 +1312,7 @@ Pour mourir, il suffit du poids de ma douleur.
 Zaïre, allons l'attendre au tombeau de mon père.
 
 
-**** *creator_sommerive *book_sommerive_bajazet *style_verse *genre_tragedy *dist1_sommerive_verse_tragedy_bajazet *dist2_sommerive_verse_tragedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adanaxe
+**** *creator_sommerive *book_sommerive_bajazet *style_verse *genre_tragedy *dist1_sommerive_verse_tragedy_bajazet *dist2_sommerive_verse_tragedy *id_ADANAXE *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adanaxe
 
       Mon retour en ces lieux
 Confirme à Tamerlan ses succès glorieux.
@@ -1662,7 +1662,7 @@ Si vous ne l'arrachez à l'horreur de son sort,
 Seigneur, venez nous voir réunis par la mort.-
 
 
-**** *creator_sommerive *book_sommerive_bajazet *style_verse *genre_tragedy *dist1_sommerive_verse_tragedy_bajazet *dist2_sommerive_verse_tragedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_axalla
+**** *creator_sommerive *book_sommerive_bajazet *style_verse *genre_tragedy *dist1_sommerive_verse_tragedy_bajazet *dist2_sommerive_verse_tragedy *id_AXALLA *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_axalla
 
 Ce triomphe nouveau n'a rien qui nous étonne ;
 Et la gloire, Seigneur, qui toujours vous couronne,
@@ -1797,7 +1797,7 @@ Pour l'immortaliser, soyez-le de vous-même.
 Ne versez point de sang.
 
 
-**** *creator_sommerive *book_sommerive_bajazet *style_verse *genre_tragedy *dist1_sommerive_verse_tragedy_bajazet *dist2_sommerive_verse_tragedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_odmar
+**** *creator_sommerive *book_sommerive_bajazet *style_verse *genre_tragedy *dist1_sommerive_verse_tragedy_bajazet *dist2_sommerive_verse_tragedy *id_ODMAR *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_odmar
 
 Votre courage seul a guidé la victoire,
 Et votre bras, Seigneur, en a toute la gloire;
@@ -1859,7 +1859,7 @@ Un dard lancé l'atteint.
 Ah coup infortuné ! Faut-il perdre Astérie ?
 
 
-**** *creator_sommerive *book_sommerive_bajazet *style_verse *genre_tragedy *dist1_sommerive_verse_tragedy_bajazet *dist2_sommerive_verse_tragedy *date_1737 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_zaire
+**** *creator_sommerive *book_sommerive_bajazet *style_verse *genre_tragedy *dist1_sommerive_verse_tragedy_bajazet *dist2_sommerive_verse_tragedy *id_ZAIRE *date_1737 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_zaire
 
 Cessez de déplorer le pouvoir de vos charmes,
 Quand ils peuvent tarir la source de vos larmes ;
@@ -1921,7 +1921,7 @@ Rien n'est plus vrai, Madame, et même il lui fait dire
 Que de leur entrevue ils seront satisfaits.
 
 
-**** *creator_sommerive *book_sommerive_bajazet *style_verse *genre_tragedy *dist1_sommerive_verse_tragedy_bajazet *dist2_sommerive_verse_tragedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mirsas
+**** *creator_sommerive *book_sommerive_bajazet *style_verse *genre_tragedy *dist1_sommerive_verse_tragedy_bajazet *dist2_sommerive_verse_tragedy *id_MIRSAS *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mirsas
 
 Qui peut causer, Seigneur, le trouble où je vous vois !
 Une ingrate princesse aurait-elle...

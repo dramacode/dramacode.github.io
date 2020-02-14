@@ -1,6 +1,6 @@
 
 
-**** *creator_lafontaine *book_lafontaine_climene *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_climene *dist2_lafontaine_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
+**** *creator_lafontaine *book_lafontaine_climene *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_climene *dist2_lafontaine_verse_comedy *id_APOLLON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
 
       Comment, vous, Uranie !
 En ce cas, Terpsichore, Euterpe, et Polymnie,

@@ -1,6 +1,6 @@
 
 
-**** *creator_marivaux *book_marivaux_heureuxstratageme *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heureuxstratageme *dist2_marivaux_prose_comedy *date_1733 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
+**** *creator_marivaux *book_marivaux_heureuxstratageme *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heureuxstratageme *dist2_marivaux_prose_comedy *id_LAMARQUISE *date_1733 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
 
 Vous me paraissez bien affligé, Dorante.
 
@@ -196,7 +196,7 @@ Quant à vous, Chevalier, je vous conseille de porter votre main ailleurs ; il n
 Nous verrons dans six mois.
 
 
-**** *creator_marivaux *book_marivaux_heureuxstratageme *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heureuxstratageme *dist2_marivaux_prose_comedy *date_1733 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_marivaux *book_marivaux_heureuxstratageme *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heureuxstratageme *dist2_marivaux_prose_comedy *id_LISETTE *date_1733 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Monsieur, je ne sais pas comment vous l'entendez, mais votre tranquillité m'étonne ; et si vous n'y prenez garde, ma maîtresse vous échappera. Je puis me tromper ; mais j'en ai peur.
 
@@ -367,7 +367,7 @@ Je suis contente.
 Le coeur me dit que oui.
 
 
-**** *creator_marivaux *book_marivaux_heureuxstratageme *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heureuxstratageme *dist2_marivaux_prose_comedy *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+**** *creator_marivaux *book_marivaux_heureuxstratageme *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heureuxstratageme *dist2_marivaux_prose_comedy *id_DORANTE *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
 
 Eh bien ! Maître Blaise, que me veux-tu ? Parle, puis-je te rendre quelque service ?
 
@@ -730,7 +730,7 @@ C'est elle à qui je devrai votre coeur, si vous me le rendez, Comtesse ; elle a
 Je ne l'ai pu qu'à force d'amour ; j'espérais de regagner ce que j'aime.
 
 
-**** *creator_marivaux *book_marivaux_heureuxstratageme *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heureuxstratageme *dist2_marivaux_prose_comedy *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+**** *creator_marivaux *book_marivaux_heureuxstratageme *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heureuxstratageme *dist2_marivaux_prose_comedy *id_LECHEVALIER *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
 
 Jé té rencontre à propos ; jé voulais té parler, Dorante.
 
@@ -924,7 +924,7 @@ Jé né sais plus écrire.
 Jé né vous démandais qu'un termé ; lé reste est mon affaire.
 
 
-**** *creator_marivaux *book_marivaux_heureuxstratageme *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heureuxstratageme *dist2_marivaux_prose_comedy *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blaise
+**** *creator_marivaux *book_marivaux_heureuxstratageme *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heureuxstratageme *dist2_marivaux_prose_comedy *id_BLAISE *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blaise
 
 Oh dame ! Comme ce dit l'autre, ou en êtes bian capable.
 
@@ -1005,7 +1005,7 @@ N'y aura pas d'aparcevance : stapendant qu'il lira voute lettre je la renforcero
 Et ma volonté se met par-dessus ça.
 
 
-**** *creator_marivaux *book_marivaux_heureuxstratageme *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heureuxstratageme *dist2_marivaux_prose_comedy *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+**** *creator_marivaux *book_marivaux_heureuxstratageme *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heureuxstratageme *dist2_marivaux_prose_comedy *id_FRONTIN *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
 
 Je te ferai ma réponse en sortant.
 
@@ -1130,7 +1130,7 @@ Mais, à vue de pays, nous en sommes à rien. Ce chemin-là n'a pas l'air de nou
 Eh bien ! Lisette, je vous donne six mois pour revenir à moi.
 
 
-**** *creator_marivaux *book_marivaux_heureuxstratageme *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heureuxstratageme *dist2_marivaux_prose_comedy *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_marivaux *book_marivaux_heureuxstratageme *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heureuxstratageme *dist2_marivaux_prose_comedy *id_ARLEQUIN *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Ouf !
 

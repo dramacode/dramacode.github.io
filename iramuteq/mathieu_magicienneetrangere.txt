@@ -1,6 +1,6 @@
 
 
-**** *creator_mathieu *book_mathieu_magicienneetrangere *style_verse *genre_tragedy *dist1_mathieu_verse_tragedy_magicienneetrangere *dist2_mathieu_verse_tragedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alecton
+**** *creator_mathieu *book_mathieu_magicienneetrangere *style_verse *genre_tragedy *dist1_mathieu_verse_tragedy_magicienneetrangere *dist2_mathieu_verse_tragedy *id_ALECTON *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alecton
 
 Quoi, filles de la nuit, monstres épouvantables,
 Dont les fers, dont les fouets,et les fléaux effroyables
@@ -53,7 +53,7 @@ Retournons voir Pluton et laissons Galligay,
 Puisque l'enfer en vain de lui aider s'effraye.
 
 
-**** *creator_mathieu *book_mathieu_magicienneetrangere *style_verse *genre_tragedy *dist1_mathieu_verse_tragedy_magicienneetrangere *dist2_mathieu_verse_tragedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thesiphone
+**** *creator_mathieu *book_mathieu_magicienneetrangere *style_verse *genre_tragedy *dist1_mathieu_verse_tragedy_magicienneetrangere *dist2_mathieu_verse_tragedy *id_THESIPHONE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thesiphone
 
 Ô rages, ô fureurs, ô démons, ô Cerbère !
 Suivez-moi promptement, tout est perdu, Mégère,
@@ -81,7 +81,7 @@ Le dessein inouï de nous trois entrepris.
 Ma foi je ne veux pas être de la partie.
 
 
-**** *creator_mathieu *book_mathieu_magicienneetrangere *style_verse *genre_tragedy *dist1_mathieu_verse_tragedy_magicienneetrangere *dist2_mathieu_verse_tragedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_megere
+**** *creator_mathieu *book_mathieu_magicienneetrangere *style_verse *genre_tragedy *dist1_mathieu_verse_tragedy_magicienneetrangere *dist2_mathieu_verse_tragedy *id_MEGERE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_megere
 
 Allons je veux aussi ce sujet d'elle apprendre,
 Et bien quoi Alecton qui vous fait contrister ?
@@ -105,7 +105,7 @@ Vous eussiez peu laisser en la grève la vie;
 Si vous eussiez toujours été de son côté.
 
 
-**** *creator_mathieu *book_mathieu_magicienneetrangere *style_verse *genre_tragedy *dist1_mathieu_verse_tragedy_magicienneetrangere *dist2_mathieu_verse_tragedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_galligay
+**** *creator_mathieu *book_mathieu_magicienneetrangere *style_verse *genre_tragedy *dist1_mathieu_verse_tragedy_magicienneetrangere *dist2_mathieu_verse_tragedy *id_GALLIGAY *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_galligay
 
 Mes esprits sont de moi tellement envolés,
 Que je ne peux juger de quoi vous me perlez,

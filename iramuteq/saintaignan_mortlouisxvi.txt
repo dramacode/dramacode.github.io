@@ -1,6 +1,6 @@
 
 
-**** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_louisxvi
+**** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *id_LOUISXVI *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_louisxvi
 
       Reprenons notre étude.
 Nous avons vu la France où régnèrent longtemps
@@ -295,7 +295,7 @@ Mon fils....
       Adieu...
 
 
-**** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marieantoinette
+**** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *id_MARIEANTOINETTE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marieantoinette
 
 Où peut-il être, ô ciel !...
 
@@ -378,7 +378,7 @@ Suivons ses pas... Courons...
       Je me meurs...
 
 
-**** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_deseze
+**** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *id_DESEZE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_deseze
 
 Moi, j'ose espérer mieux ; non, je ne saurais croire
 Que d'un tel attentat on souille notre histoire.
@@ -500,7 +500,7 @@ Verront, détesteront, répareront leur crime ;
 Vous nous serez rendu.
 
 
-**** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philippedorleans
+**** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *id_PHILIPPEDORLEANS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philippedorleans
 
 Le plus pur sang du peuple a pénétré les miennes.
 Et j'en ai pour garant le vertueux transport
@@ -558,7 +558,7 @@ Crains les proscriptions.
 C'en est fait, Robespierre ; et Philippe est perdu.
 
 
-**** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_manuel
+**** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *id_MANUEL *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_manuel
 
 Je fuis....
 
@@ -625,7 +625,7 @@ Sauver la république, après l'avoir trahie, Périr......
 Et que ma mort fasse oublier ma vie.
 
 
-**** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_robespierre
+**** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *id_ROBESPIERRE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_robespierre
 
 Puissent, puissent ces rois qui viendront nous combattre,
 N'avoir tous qu'une tête, et moi, d'un coup l'abattre !

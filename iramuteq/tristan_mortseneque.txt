@@ -1,6 +1,6 @@
 
 
-**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_neron
+**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *id_NERON *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_neron
 
 Enfin selon mes voeux, Sabine est sans rivale ;
 L'infidèle Octavie au sépulcre dévale.
@@ -446,7 +446,7 @@ Tu prépares pour moi quelque éclat de tonnerre,
 Mais avant, je perdrai la moitié de la terre.
 
 
-**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sabine
+**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *id_SABINE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sabine
 
 Il ne faut pas encor se réjouir si fort ;
 De ce serpent éteint le venin n'est pas mort ;
@@ -758,7 +758,7 @@ Qu'as-tu donc, dis-le nous.
 Que veut dire Seigneur.
 
 
-**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_seneque
+**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *id_SENEQUE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_seneque
 
 César depuis le temps que ma soigneuse adresse
 S'applique à cultiver l'espoir de ta jeunesse,
@@ -1121,7 +1121,7 @@ Demandons-lui pardon de ce retardement ;
 Embrassons-nous, Pauline, et mourons promptement.
 
 
-**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rufus
+**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *id_RUFUS *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rufus
 
 Quels tendres sentiments, qu'en dites-vous Seigneur ?
 
@@ -1245,7 +1245,7 @@ Imposteur garde-toi d'offenser la vertu.
 César écoute-moi.
 
 
-**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pison
+**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *id_PISON *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pison
 
 Nous ne pouvions choisir un endroit moins suspect
 Pour parler de Néron que ce lieu de respect,
@@ -1413,7 +1413,7 @@ Je n'ose rien tenter de peur d'aigrir son sort,
 Je voudrais bien qu'Arie eût le choix de sa mort.
 
 
-**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sevinus
+**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *id_SEVINUS *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sevinus
 
 C'est pour cette leçon que Milicus dérouille
 Un fer que dans son sang il faudra que je souille :
@@ -1606,7 +1606,7 @@ Implore les bontés que je viens d'éprouver,
 Et te sers de la planche offerte à te sauver.
 
 
-**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *date_1644 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_milicus
+**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *id_MILICUS *date_1644 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_milicus
 
 Je ne mentirai point ; et toute mon envie
 Est d'aider à César à conserver sa vie.
@@ -1631,7 +1631,7 @@ Il ne te pourra plus cacher la vérité,
 Fais...
 
 
-**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_epicaris
+**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *id_EPICARIS *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_epicaris
 
 Hé bien ? Qu'attendons-nous ? Quel sentiment timide
 Fait ainsi retarder la mort d'un parricide
@@ -1937,7 +1937,7 @@ Tyran, je t'apprendrai que je sais bien mourir.
 Rien ne doit t'empêcher de faire ton office.
 
 
-**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucain
+**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *id_LUCAIN *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucain
 
 Est-il ni lieu ni temps plus propre à ce dessein
 Que l'abord du théâtre et le jour de demain ?
@@ -2123,7 +2123,7 @@ Rassure son esprit, je vais penser au reste.
       Je ne puis plus demeurer près de lui.
 
 
-**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_procule
+**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *id_PROCULE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_procule
 
 Épicaris un mot.
 
@@ -2218,7 +2218,7 @@ On la pourra forcer par l'objet des tourments
 Ainsi que je l'ai dit la chose est arrivée.
 
 
-**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_silvanus
+**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *id_SILVANUS *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_silvanus
 
 Que Sénèque s'apprête à mourir promptement.
 
@@ -2314,7 +2314,7 @@ Et le voyant saisi d'une glace mortelle,
 Je suis venu soudain t'en dire la nouvelle.
 
 
-**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pauline
+**** *creator_tristan *book_tristan_mortseneque *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortseneque *dist2_tristan_verse_tragedy *id_PAULINE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pauline
 
 Quand une mort certaine est prête de le prendre,
 Le sage, à mon avis, doit constamment l'attendre,

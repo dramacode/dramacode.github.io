@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_mars
+**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *id_MARS *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_mars
 
 Quoi ? La Fortune sans bandeau ?
 
@@ -46,7 +46,7 @@ Qu'importe...
 Voyons auparavant ce Temple sans pareil.
 
 
-**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lafortune
+**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *id_LAFORTUNE *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lafortune
 
 Je viens de l'arracher moi-même,
 Pour voir l'éclat pompeux de ce temple nouveau.
@@ -86,7 +86,7 @@ En gagnant tous les coeurs, chaque jour fait connaître...
 Chacun doit déférer aux avis de la Gloire.
 
 
-**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_larenommee
+**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *id_LARENOMMEE *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_larenommee
 
 N'en soyez point surpris ; le pénible voyage
 Où jusqu'au bout de l'univers,
@@ -159,7 +159,7 @@ Pour rappeler ceux que la Guerre attire ?
 Ainsi que vous je la veux croire.
 
 
-**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lamour
+**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *id_LAMOUR *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lamour
 
 Vous en donnez si souvent à garder,
 Qu'il est bon qu'une fois vous en soyez punie ;
@@ -282,7 +282,7 @@ Et vous aurez assez à faire.
 Je veux suivre votre conseil.
 
 
-**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_glaucus
+**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *id_GLAUCUS *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_glaucus
 
 Ah Palémon, crois-tu qu'on puisse avoir jamais,
 Quand on est bien touché, l'âme trop délicate,
@@ -820,7 +820,7 @@ Enfin les Dieux, en vous sauvant la vie,
 Daignent assurer mon repos.
 
 
-**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_palemon
+**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *id_PALEMON *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_palemon
 
 J'admire, à dire vrai, cette délicatesse.
 Silla tient votre coeur charmé,
@@ -1103,7 +1103,7 @@ Et finissant les maux où sa vie est en butte,
 Cache l'horreur du sort qui l'y fait renoncer.
 
 
-**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *date_1675 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_circe
+**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *id_CIRCE *date_1675 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_circe
 
       Insolent.
 C'est Circé qui paraît, que chacun de vous tremble.
@@ -1869,7 +1869,7 @@ Et tâchez, pour n'avoir jamais rien qui le trouble,
 Circé disparaît ainsi que son Palais.
 
 
-**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *date_1675 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_silla
+**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *id_SILLA *date_1675 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_silla
 
 Je vous l'ai déjà dit, j'estime votre flamme,
 Prince, et vos voeux offerts auraient touché mon âme,
@@ -2138,7 +2138,7 @@ De voir par leur bonté ma disgrâce arrêtée,
 Ma laisse peu capable...
 
 
-**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_dorine
+**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *id_DORINE *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_dorine
 
 C'est de tous les Amants le déplorable sort.
 Après les plus fortes tendresses
@@ -2382,7 +2382,7 @@ Mais, Madame, Silla...
 Que vous ne plaignez pas son malheureux destin ?
 
 
-**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_florise
+**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *id_FLORISE *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_florise
 
 Circé doit préparer un Charme d'importance,
 Puisqu'en cette Montagne elle a voulu chercher
@@ -2506,7 +2506,7 @@ Qu'en pensez-vous, ma soeur ?
 Quoi, qu'est-il arrivé ?
 
 
-**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_asterie
+**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *id_ASTERIE *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_asterie
 
 Serait-ce que déjà lasse de sa conquête,
 Au Prince Mélicerte elle manque de foi,
@@ -2933,7 +2933,7 @@ C'est l'effet d'un pouvoir qui n'est point limité.
 Ah, ma Soeur, savez-vous quelle est notre surprise ?
 
 
-**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_celie
+**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *id_CELIE *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_celie
 
       Derrière ce coteau
 Elle a trouvé la Nymphe Galatée,
@@ -3006,7 +3006,7 @@ Ces trois Belles auront tout loisir de t'entendre,
 Et je veux bien te laisser coqueter.
 
 
-**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_satyre1
+**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *id_SATYRE1 *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_satyre1
 
 Vous n'échapperez pas ; nous vous tenons, les Belles.
 
@@ -3039,7 +3039,7 @@ Qu'est-ce ? Et bien ? N'ai-je pas une voix qui résonne ?
 Halte-là.
 
 
-**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_satyre2
+**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *id_SATYRE2 *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_satyre2
 
       Contre nous vos efforts seront vains.
 Le seul moyen de sortir de nos mains,
@@ -3078,7 +3078,7 @@ Ma voix ? Est-il rien de si doux ?
 Ah, s'il ne tient qu'à disputer...
 
 
-**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_satyre3
+**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *id_SATYRE3 *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_satyre3
 
 C'est bien notre affaire à tous trois.
 
@@ -3100,7 +3100,7 @@ Le pas est un peu hasardeux.
 Si nous faisons jouer la massue...
 
 
-**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_satyre4
+**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *id_SATYRE4 *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_satyre4
 
 Ah, ah, Troupe gaillarde, il fait bon avec vous.
 
@@ -3118,7 +3118,7 @@ Tenons bon.
 Et ne pas...
 
 
-**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_satyre5
+**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *id_SATYRE5 *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_satyre5
 
       Vous pensiez avoir chacun la vôtre,
 Mais vous n'avez qu'à décompter.
@@ -3131,7 +3131,7 @@ J'en suis charmé.
       Ma Reine, il se peut...
 
 
-**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_melicerte
+**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *id_MELICERTE *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_melicerte
 
 Enfin vous voilà de retour,
 Vous, ma Princesse, en qui je vis plus qu'en moi-même.
@@ -3338,7 +3338,7 @@ J'approfondirai mon Destin,
 Quelque rigoureux qu'il puisse être.
 
 
-**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_faune
+**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *id_FAUNE *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_faune
 
 Il n'est rien de si doux que de changer sans cesse,
 L'Amour pour les coeurs inconstants
@@ -3359,7 +3359,7 @@ Il n'est rien de si doux que de chanter sans cesse.
       Incommode sagesse !
 
 
-**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_dryade
+**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *id_DRYADE *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_dryade
 
 L'inconstance détruit les douceurs de l'Amour ;
 Pour estimer un bien, il faut qu'il soit durable.
@@ -3373,7 +3373,7 @@ Il n'est rien de si doux qu'une longue tendresse.
 Ridicule folie !
 
 
-**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_silvie
+**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *id_SILVIE *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_silvie
 
 Je fuis ce que je sens qui commence à me plaire ;
 Si je vous écoutais, vous pourriez être aimé.
@@ -3408,7 +3408,7 @@ Ce n'est pas de quoi je soupire.
 Il fait tout mon bonheur.
 
 
-**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_tircis
+**** *creator_corneillet *book_corneillet_circe *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_circe *dist2_corneillet_verse_tragedy *id_TIRCIS *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_tircis
 
 Pourquoi me fuyez-vous, ô Beauté trop sévère,
 Quand d'un si tendre amour j'ai le coeur enflammé !

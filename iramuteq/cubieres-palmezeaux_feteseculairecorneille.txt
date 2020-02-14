@@ -1,6 +1,6 @@
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_feteseculairecorneille *style_verse *genre_apologie *dist1_cubieres-palmezeaux_verse_apologie_feteseculairecorneille *dist2_cubieres-palmezeaux_verse_apologie *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_feteseculairecorneille *style_verse *genre_apologie *dist1_cubieres-palmezeaux_verse_apologie_feteseculairecorneille *dist2_cubieres-palmezeaux_verse_apologie *id_MELPOMENE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
 
 Enfin je me vois libre, et je puis sans contrainte,
 Vous peindre les transports dont mon âme est atteinte ;
@@ -155,7 +155,7 @@ Le nom du mortel glorieux,
 Qui ne dut qu'à lui seul toute sa renommée.
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_feteseculairecorneille *style_verse *genre_apologie *dist1_cubieres-palmezeaux_verse_apologie_feteseculairecorneille *dist2_cubieres-palmezeaux_verse_apologie *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_feteseculairecorneille *style_verse *genre_apologie *dist1_cubieres-palmezeaux_verse_apologie_feteseculairecorneille *dist2_cubieres-palmezeaux_verse_apologie *id_THALIE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
 
 Quoi ! Tout ce monde là pour ma soeur Melpomène ?
 Elle est donc folle ? Elle se plaint toujours,
@@ -294,7 +294,7 @@ Ah ! Je comprends, c'est une galerie...
 Le projet n'est pas neuf, et déjà dans Paris...
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_feteseculairecorneille *style_verse *genre_apologie *dist1_cubieres-palmezeaux_verse_apologie_feteseculairecorneille *dist2_cubieres-palmezeaux_verse_apologie *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_letemps
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_feteseculairecorneille *style_verse *genre_apologie *dist1_cubieres-palmezeaux_verse_apologie_feteseculairecorneille *dist2_cubieres-palmezeaux_verse_apologie *id_LETEMPS *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_letemps
 
 Illustres nations que l'ardeur de la gloire
 Et l'amour des talents rassemblent sous mes yeux ;
@@ -352,7 +352,7 @@ Ils se montrent surtout leurs plus dignes images,
 Quand ils sont éclairés et bienfaisants comme eux.
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_feteseculairecorneille *style_verse *genre_apologie *dist1_cubieres-palmezeaux_verse_apologie_feteseculairecorneille *dist2_cubieres-palmezeaux_verse_apologie *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcipe
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_feteseculairecorneille *style_verse *genre_apologie *dist1_cubieres-palmezeaux_verse_apologie_feteseculairecorneille *dist2_cubieres-palmezeaux_verse_apologie *id_ALCIPE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcipe
 
 Comme Paris me plaît par sa diversité;
 Chaque jour est marqué par quelque nouveauté.
@@ -481,7 +481,7 @@ Ne vous alarmez pas... Elle était fort jolie.
       Thalie.
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_feteseculairecorneille *style_verse *genre_apologie *dist1_cubieres-palmezeaux_verse_apologie_feteseculairecorneille *dist2_cubieres-palmezeaux_verse_apologie *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philiste
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_feteseculairecorneille *style_verse *genre_apologie *dist1_cubieres-palmezeaux_verse_apologie_feteseculairecorneille *dist2_cubieres-palmezeaux_verse_apologie *id_PHILISTE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philiste
 
       Moulu ! J'ai bien cru que jamais
 Auprès de toi je ne pourrais me rendre.
@@ -539,7 +539,7 @@ Mais songe donc que je ne peux
 Juger de leurs attraits avant de les connaître.
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_feteseculairecorneille *style_verse *genre_apologie *dist1_cubieres-palmezeaux_verse_apologie_feteseculairecorneille *dist2_cubieres-palmezeaux_verse_apologie *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ariste
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_feteseculairecorneille *style_verse *genre_apologie *dist1_cubieres-palmezeaux_verse_apologie_feteseculairecorneille *dist2_cubieres-palmezeaux_verse_apologie *id_ARISTE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ariste
 
 Vous le savez, Madame, aujourd'hui sur la scène,
 Le Temps va couronner l'aîné de ses enfants ;

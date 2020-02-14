@@ -1,6 +1,6 @@
 
 
-**** *creator_dufresny *book_dufresny_malassortis *style_verse *genre_comedy *dist1_dufresny_verse_comedy_malassortis *dist2_dufresny_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_dufresny *book_dufresny_malassortis *style_verse *genre_comedy *dist1_dufresny_verse_comedy_malassortis *dist2_dufresny_verse_comedy *id_ARLEQUIN *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 La sotte coutume, madame, la sotte coutume ! Quoi ! Quand un gouverneur prend possession de cette île ; il est obligé de se marier ? Ma foi, c'est acheter trop cher un gouvernement.
 
@@ -367,7 +367,7 @@ Retrouve après ce manège
 Le voisin qui rit chez lui.
 
 
-**** *creator_dufresny *book_dufresny_malassortis *style_verse *genre_comedy *dist1_dufresny_verse_comedy_malassortis *dist2_dufresny_verse_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colombine
+**** *creator_dufresny *book_dufresny_malassortis *style_verse *genre_comedy *dist1_dufresny_verse_comedy_malassortis *dist2_dufresny_verse_comedy *id_COLOMBINE *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colombine
 
 Je vous dis que vous ne serez point reçu, que vous n'ayez choisi une femme.
 
@@ -422,7 +422,7 @@ Oui, monsieur, de joie.
 Je la laisse avec vous, et je vais donner mes ordres pour la cérémonie des mal-assortis.
 
 
-**** *creator_dufresny *book_dufresny_malassortis *style_verse *genre_comedy *dist1_dufresny_verse_comedy_malassortis *dist2_dufresny_verse_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+**** *creator_dufresny *book_dufresny_malassortis *style_verse *genre_comedy *dist1_dufresny_verse_comedy_malassortis *dist2_dufresny_verse_comedy *id_ISABELLE *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
 
 Hélas, mon soin est bien différent de celui de mes sours ! Elles ont passé toute la nuit à s'ajuster, et moi à pleurer. Elles cherchent dans leur toilette des charmes qu'elles n'ont point, et je voudrais pouvoir cacher ceux que le ciel m'a donnés.
 
@@ -511,7 +511,7 @@ C'est Léandre, monsieur.
 Que vous m'embarrassez !
 
 
-**** *creator_dufresny *book_dufresny_malassortis *style_verse *genre_comedy *dist1_dufresny_verse_comedy_malassortis *dist2_dufresny_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+**** *creator_dufresny *book_dufresny_malassortis *style_verse *genre_comedy *dist1_dufresny_verse_comedy_malassortis *dist2_dufresny_verse_comedy *id_PIERROT *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
 
 Madame... Monsieur, dis-je... non, non. Madame : ô, monsieur... Ô madame ! À qui est-ce de vous deux que j'ai quelque chose à dire ?
 

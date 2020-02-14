@@ -1,6 +1,6 @@
 
 
-**** *creator_duryer *book_duryer_berenice *style_prose *genre_tragedy *dist1_duryer_prose_tragedy_berenice *dist2_duryer_prose_tragedy *date_1645 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_berenice
+**** *creator_duryer *book_duryer_berenice *style_prose *genre_tragedy *dist1_duryer_prose_tragedy_berenice *dist2_duryer_prose_tragedy *id_berenice *date_1645 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_berenice
 
 Estes-vous contente, ma sœur, et puis-je mieux vous monstrer mon amitié, qu'en vous descouvrant mon amour ?
 
@@ -230,7 +230,7 @@ Si cette supposition⁎ a rendu Criton coupable, je vous demande son pardon.
 Refuserois-je d'obeïr aux premiers commandemens que me fait mon pere ?
 
 
-**** *creator_duryer *book_duryer_berenice *style_prose *genre_tragedy *dist1_duryer_prose_tragedy_berenice *dist2_duryer_prose_tragedy *date_1645 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amasie
+**** *creator_duryer *book_duryer_berenice *style_prose *genre_tragedy *dist1_duryer_prose_tragedy_berenice *dist2_duryer_prose_tragedy *id_amasie *date_1645 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amasie
 
 Vous ne m'avez pas encore tout dit, puisque vous ne m'avez pas dit vostre amant.
 
@@ -386,7 +386,7 @@ Au moins sçachez de luy cette histoire, je vous laisse tous deux ensemble. Qu'i
 O Dieux ! quelle avanture⁎ !
 
 
-**** *creator_duryer *book_duryer_berenice *style_prose *genre_tragedy *dist1_duryer_prose_tragedy_berenice *dist2_duryer_prose_tragedy *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tirinte
+**** *creator_duryer *book_duryer_berenice *style_prose *genre_tragedy *dist1_duryer_prose_tragedy_berenice *dist2_duryer_prose_tragedy *id_tirinte *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tirinte
 
 J'ay sans doute interrompu vostre entretien, mais j'ay pour mon excuse le commandement du Roy qui me fait chercher vostre Pere.
 
@@ -513,7 +513,7 @@ Que veut-il faire Amasie ?
 Ha, Sire ! je commence à reconnoistre que j'ay beaucoup fait pour vostre service, puisque vous m'en voulez donner une si glorieuse recompense.
 
 
-**** *creator_duryer *book_duryer_berenice *style_prose *genre_tragedy *dist1_duryer_prose_tragedy_berenice *dist2_duryer_prose_tragedy *date_1645 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_criton
+**** *creator_duryer *book_duryer_berenice *style_prose *genre_tragedy *dist1_duryer_prose_tragedy_berenice *dist2_duryer_prose_tragedy *id_criton *date_1645 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_criton
 
 Monsieur, le Roy me fait un honneur, que je ne sçaurois meriter, mais tachez de le divertir⁎ de ce dessein, et de le disposer à recevoir mes excuses, devant que⁎ je sois obligé de le voir.
 
@@ -634,7 +634,7 @@ Ha, Sire ! qui refuseroit l'honneur lors qu'on attendoit un supplice ?
 Oüy, Sire, et j'ay tousjours souhaité ce que vous faites aujourd'huy.
 
 
-**** *creator_duryer *book_duryer_berenice *style_prose *genre_tragedy *dist1_duryer_prose_tragedy_berenice *dist2_duryer_prose_tragedy *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tarsis
+**** *creator_duryer *book_duryer_berenice *style_prose *genre_tragedy *dist1_duryer_prose_tragedy_berenice *dist2_duryer_prose_tragedy *id_tarsis *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tarsis
 
 Que je vous trouve triste, Madame ! d'où vient cette profonde tristesse ?
 
@@ -827,7 +827,7 @@ Ha, Sire ! par quelles illustres actions meriteray-je cét honneur ?
 Je vous aurois demandé pour luy ce que vous luy donnerez volontairement.
 
 
-**** *creator_duryer *book_duryer_berenice *style_prose *genre_tragedy *dist1_duryer_prose_tragedy_berenice *dist2_duryer_prose_tragedy *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_leroy
+**** *creator_duryer *book_duryer_berenice *style_prose *genre_tragedy *dist1_duryer_prose_tragedy_berenice *dist2_duryer_prose_tragedy *id_le-roy *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_leroy
 
 Quoy, Tirinte, j'aymerois en vain Berenice ! Quoy, son Pere ne peut escouter mon amour ! Quelles difficultez oppose-il à mon dessein ? quelles raisons peut-il opposer à sa gloire ? je veux mettre dans sa maison⁎ la puissance souveraine, et il refuse cét honneur ! Je veux mettre la couronne sur la teste de sa fille, je veux m'abaisser jusques à luy, je veux l'eslever jusques à moy, et il rejette cette gloire que la fortune⁎ luy presente, et que mon amour luy confirme. Quelle vertu⁎, ou quel aveugle-/ /ment a jamais esté capable d'une action si extraordinaire ? Qui a jamais veu un Pere si ennemy de ses enfans ? Apprehende-il que leur grandeur ne le despoüille des droits que le Ciel luy donne sur eux ? Craint-il que de Pere il ne devienne sujet de sa fille, et qu'il ne fasse honte à la nature par cette nouvelle soubmission ? Certes, quand je pense à ce que tu m'en as rapporté, je pense avoir fait un songe, et je ne sçaurois m'empescher de faire un mauvais jugement de la sagesse de Criton.
 
@@ -943,7 +943,7 @@ Que l'on celebre cette journée, et admirons tout ensemble : la secrette condui
 FIN.
 
 
-**** *creator_duryer *book_duryer_berenice *style_prose *genre_tragedy *dist1_duryer_prose_tragedy_berenice *dist2_duryer_prose_tragedy *date_1645 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_martian
+**** *creator_duryer *book_duryer_berenice *style_prose *genre_tragedy *dist1_duryer_prose_tragedy_berenice *dist2_duryer_prose_tragedy *id_martian *date_1645 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_martian
 
 Je veux bien l'avouer, Madame (car mon cœur
 A de la peine encore à vous nommer ma sœur),
@@ -992,7 +992,7 @@ Et donnez au tyran qui n'en pourra jouir
 Quelques moments de joie afin de l'éblouir.
 
 
-**** *creator_duryer *book_duryer_berenice *style_prose *genre_tragedy *dist1_duryer_prose_tragedy_berenice *dist2_duryer_prose_tragedy *date_1645 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_pulcherie
+**** *creator_duryer *book_duryer_berenice *style_prose *genre_tragedy *dist1_duryer_prose_tragedy_berenice *dist2_duryer_prose_tragedy *id_pulcherie *date_1645 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_pulcherie
 
 Moi-même assez souvent j'ai senti dans mon âme
 Ma naissance en secret me reprocher ma flamme :

@@ -1,6 +1,6 @@
 
 
-**** *creator_boursault *book_boursault_troiscomedies *style_verse *dist1_boursault_verse__troiscomedies *dist2_boursault_verse_ *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_spadarille
+**** *creator_boursault *book_boursault_troiscomedies *style_verse *id_spadarille *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_spadarille
 
 Je vous l'avois bien dit pour calmer vostre effroy,
 Que vous seriez tousjours à vostre aise avec moy.
@@ -494,7 +494,7 @@ Bon, j'aime l'obéïssance.
 Après ce passage le texte de l'édition originale commence.
 
 
-**** *creator_boursault *book_boursault_troiscomedies *style_verse *dist1_boursault_verse__troiscomedies *dist2_boursault_verse_ *date_1662 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_cleandre
+**** *creator_boursault *book_boursault_troiscomedies *style_verse *id_cleandre *date_1662 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_cleandre
 
 Monsieur, vous savez bien qu'on me nomme Cleandre ?
 
@@ -691,7 +691,7 @@ Il sort, de ce perfide évitons la presence.
 SCENE II
 
 
-**** *creator_boursault *book_boursault_troiscomedies *style_verse *dist1_boursault_verse__troiscomedies *dist2_boursault_verse_ *date_1662 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_olimpie
+**** *creator_boursault *book_boursault_troiscomedies *style_verse *id_olimpie *date_1662 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_olimpie
 
 Quand je songe au mal-heur où je suis condamnée,
 J'ay regret d'estre à vous par les nœuds d'Hymenée,
@@ -878,7 +878,7 @@ S'il n'est hors de ses mains, mon soucy n'est pas moindre.
 J'obeïs.
 
 
-**** *creator_boursault *book_boursault_troiscomedies *style_verse *dist1_boursault_verse__troiscomedies *dist2_boursault_verse_ *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcidor
+**** *creator_boursault *book_boursault_troiscomedies *style_verse *id_alcidor *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcidor
 
 Monsieur le Gouverneur⁎ dont je suis le beau-pere,
 Je viens…
@@ -1003,7 +1003,7 @@ De son lâche mari les infames desseins …
 Mais de voir Olimpie aurez-vous le moyen ?
 
 
-**** *creator_boursault *book_boursault_troiscomedies *style_verse *dist1_boursault_verse__troiscomedies *dist2_boursault_verse_ *date_1662 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_cascaret
+**** *creator_boursault *book_boursault_troiscomedies *style_verse *id_cascaret *date_1662 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_cascaret
 
 Mais comme Spadarille est sujet à l'ombrage
 Quoy que des cadenats il observe l'usage,
@@ -1036,7 +1036,7 @@ Monsieur.
 Je le donne en dix coups à qui fourbera mieux.
 
 
-**** *creator_boursault *book_boursault_troiscomedies *style_verse *dist1_boursault_verse__troiscomedies *dist2_boursault_verse_ *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ferdinand
+**** *creator_boursault *book_boursault_troiscomedies *style_verse *id_ferdinand *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ferdinand
 
 Es-tu là Stephanie ? Ostes-moy de soucy :
 Répons. Ah ! te voila.
@@ -1232,7 +1232,7 @@ Que plutost ne te vois-je emporter par le Diable :
 Ah ! Je suis mort.
 
 
-**** *creator_boursault *book_boursault_troiscomedies *style_verse *dist1_boursault_verse__troiscomedies *dist2_boursault_verse_ *date_1662 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_stephanie
+**** *creator_boursault *book_boursault_troiscomedies *style_verse *id_stephanie *date_1662 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_stephanie
 
       Sans doute.
 
@@ -1337,7 +1337,7 @@ Vous, mon Pere !
       Quoy, vous estes son Pere ?
 
 
-**** *creator_boursault *book_boursault_troiscomedies *style_verse *dist1_boursault_verse__troiscomedies *dist2_boursault_verse_ *date_1662 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lazarille
+**** *creator_boursault *book_boursault_troiscomedies *style_verse *id_lazarille *date_1662 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_lazarille
 
 De tous vos serviteurs estant le plus soûmis,
 Un libre accez chez vous me fust toûjours permis,
@@ -1689,7 +1689,7 @@ Il l'est ; De vostre Amant⁎ je deviens vostre Frere,
 Quel besoin aviez-vous de cacher si long-temps…
 
 
-**** *creator_boursault *book_boursault_troiscomedies *style_verse *dist1_boursault_verse__troiscomedies *dist2_boursault_verse_ *date_1662 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_fabrice
+**** *creator_boursault *book_boursault_troiscomedies *style_verse *id_fabrice *date_1662 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_fabrice
 
 Railleur.
 
@@ -1958,7 +1958,7 @@ Cette beauté charmante est l'objet de mes vœux.
       Ô bon-heur !
 
 
-**** *creator_boursault *book_boursault_troiscomedies *style_verse *dist1_boursault_verse__troiscomedies *dist2_boursault_verse_ *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_henriquez
+**** *creator_boursault *book_boursault_troiscomedies *style_verse *id_henriquez *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_henriquez
 
 Puis que dans le lict vert il faut que je repose,
 De vos soins cette nuict je ne veux autre chose,
@@ -2064,7 +2064,7 @@ Ma chere Stephanie acceptez le service.
 Il suffit ; vous verrez que je suis raisonnable.
 
 
-**** *creator_boursault *book_boursault_troiscomedies *style_verse *dist1_boursault_verse__troiscomedies *dist2_boursault_verse_ *date_1662 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_gusman
+**** *creator_boursault *book_boursault_troiscomedies *style_verse *id_gusman *date_1662 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_gusman
 
 OUY, la peste m'estouffe, il luy fait les doux yeux.
 
@@ -2557,7 +2557,7 @@ Te fait le Vivant Mort, et moy le MORT VIVANT.
 FIN
 
 
-**** *creator_boursault *book_boursault_troiscomedies *style_verse *dist1_boursault_verse__troiscomedies *dist2_boursault_verse_ *date_1662 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_laservante
+**** *creator_boursault *book_boursault_troiscomedies *style_verse *id_la-servante *date_1662 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_laservante
 
 Monsieur, vous voyez bien qu'estant l'heure qu'il est,
 On se loge où l'on peut, et non où l'on se plaist,
@@ -2583,7 +2583,7 @@ Ce qu'il faut faire.
       J'obeïs.
 
 
-**** *creator_boursault *book_boursault_troiscomedies *style_verse *dist1_boursault_verse__troiscomedies *dist2_boursault_verse_ *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lhote
+**** *creator_boursault *book_boursault_troiscomedies *style_verse *id_l-hote *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lhote
 
 Pourquoy faire Messieurs un si grand tintamare ?
 D'où vient que du sommeil…
@@ -2600,7 +2600,7 @@ Parlez.
 C'est ma pensée, et l'ombre en a bien l'encolure.
 
 
-**** *creator_boursault *book_boursault_troiscomedies *style_verse *dist1_boursault_verse__troiscomedies *dist2_boursault_verse_ *date_1662 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_cleon
+**** *creator_boursault *book_boursault_troiscomedies *style_verse *id_cleon *date_1662 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_cleon
  
 Que veux-tu, la douleur dont mon ame est atteinte,
 Rend ma plainte équitable, et me fait murmurer
@@ -2691,7 +2691,7 @@ Adieu.
 Monsieur…
 
 
-**** *creator_boursault *book_boursault_troiscomedies *style_verse *dist1_boursault_verse__troiscomedies *dist2_boursault_verse_ *date_1662 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lise
+**** *creator_boursault *book_boursault_troiscomedies *style_verse *id_lise *date_1662 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lise
 
 N'insultez point de grace au mal-heur de Lucresse,
 Je say qu'elle a pour vous une forte tendresse⁎ ;
@@ -2753,7 +2753,7 @@ Ouy vrayment, une chambre assez belle en effect,
 Si sombre.
 
 
-**** *creator_boursault *book_boursault_troiscomedies *style_verse *dist1_boursault_verse__troiscomedies *dist2_boursault_verse_ *date_1662 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_lucresse
+**** *creator_boursault *book_boursault_troiscomedies *style_verse *id_lucresse *date_1662 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_lucresse
 
       Ah mon pere !
 
@@ -2773,7 +2773,7 @@ Je ne say.
 Daignez…
 
 
-**** *creator_boursault *book_boursault_troiscomedies *style_verse *dist1_boursault_verse__troiscomedies *dist2_boursault_verse_ *date_1662 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_crispin
+**** *creator_boursault *book_boursault_troiscomedies *style_verse *id_crispin *date_1662 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_crispin
 
 Je vous cherche partout pour vous rendre réponce
 Monsieur.
@@ -3200,7 +3200,7 @@ Faisons des Medecins ou Volans, ou Voleurs.
 FIN
 
 
-**** *creator_boursault *book_boursault_troiscomedies *style_verse *dist1_boursault_verse__troiscomedies *dist2_boursault_verse_ *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fernand
+**** *creator_boursault *book_boursault_troiscomedies *style_verse *id_fernand *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fernand
 
       Ma pauvre fille, elle va rendre l'ame
 Philipin.
@@ -3494,7 +3494,7 @@ Que tu l'espouseras, ou je te défigure.
 Ou du moins…
 
 
-**** *creator_boursault *book_boursault_troiscomedies *style_verse *dist1_boursault_verse__troiscomedies *dist2_boursault_verse_ *date_1662 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_philipin
+**** *creator_boursault *book_boursault_troiscomedies *style_verse *id_philipin *date_1662 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_philipin
 
       C'est à vous que j'en donne le blasme,
 A la pourvoir d'un homme on a trop retardé,
@@ -3561,7 +3561,7 @@ Voila l'un, voila l'autre.
       Qu'à merveille il grimpe une fenestre.
 
 
-**** *creator_boursault *book_boursault_troiscomedies *style_verse *dist1_boursault_verse__troiscomedies *dist2_boursault_verse_ *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_canteas
+**** *creator_boursault *book_boursault_troiscomedies *style_verse *id_canteas *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_canteas
 
       Excusez, ce matin
 L'intendant d'un Seigneur m'a contraint de me rendre

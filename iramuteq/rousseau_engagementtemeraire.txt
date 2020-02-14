@@ -1,6 +1,6 @@
 
 
-**** *creator_rousseau *book_rousseau_engagementtemeraire *style_verse *genre_bergerie *dist1_rousseau_verse_bergerie_engagementtemeraire *dist2_rousseau_verse_bergerie *date_1747 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorante
+**** *creator_rousseau *book_rousseau_engagementtemeraire *style_verse *genre_bergerie *dist1_rousseau_verse_bergerie_engagementtemeraire *dist2_rousseau_verse_bergerie *id_DORANTE *date_1747 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorante
 
 Elle m'évite encor ! Que veut dire ceci ?
 Sur l'état de son coeur quand serai-je éclairci ?
@@ -370,7 +370,7 @@ Confirmera le don que vos lois m'ont promis ?
 Ah ! Vous mettez par là le comble à mon bonheur.
 
 
-**** *creator_rousseau *book_rousseau_engagementtemeraire *style_verse *genre_bergerie *dist1_rousseau_verse_bergerie_engagementtemeraire *dist2_rousseau_verse_bergerie *date_1747 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_valere
+**** *creator_rousseau *book_rousseau_engagementtemeraire *style_verse *genre_bergerie *dist1_rousseau_verse_bergerie_engagementtemeraire *dist2_rousseau_verse_bergerie *id_VALERE *date_1747 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_valere
 
 Ami, je suis charmé du bonheur de la flamme.
 Il manquait à celui qui pénètre mon âme
@@ -429,7 +429,7 @@ Sur mon obéissance.
 De nous troubler ?...
 
 
-**** *creator_rousseau *book_rousseau_engagementtemeraire *style_verse *genre_bergerie *dist1_rousseau_verse_bergerie_engagementtemeraire *dist2_rousseau_verse_bergerie *date_1747 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+**** *creator_rousseau *book_rousseau_engagementtemeraire *style_verse *genre_bergerie *dist1_rousseau_verse_bergerie_engagementtemeraire *dist2_rousseau_verse_bergerie *id_ISABELLE *date_1747 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
 
 L'hymen va donc enfin serrer des noeuds si doux ;
 Valère, à son retour, doit être votre époux :
@@ -771,7 +771,7 @@ Mais, en punition de mon étourderie,
 Je vous donne ma main et vous laisse mon coeur.
 
 
-**** *creator_rousseau *book_rousseau_engagementtemeraire *style_verse *genre_bergerie *dist1_rousseau_verse_bergerie_engagementtemeraire *dist2_rousseau_verse_bergerie *date_1747 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eliante
+**** *creator_rousseau *book_rousseau_engagementtemeraire *style_verse *genre_bergerie *dist1_rousseau_verse_bergerie_engagementtemeraire *dist2_rousseau_verse_bergerie *id_ELIANTE *date_1747 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eliante
 
 Vous soupirez ? Eh bien ! Si l'exemple vous tente,
 Dorante vous adore, et vous le voyez bien.
@@ -846,7 +846,7 @@ Vous me l'avez promis, cousine ?
 Lisette, explique-lui...
 
 
-**** *creator_rousseau *book_rousseau_engagementtemeraire *style_verse *genre_bergerie *dist1_rousseau_verse_bergerie_engagementtemeraire *dist2_rousseau_verse_bergerie *date_1747 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_rousseau *book_rousseau_engagementtemeraire *style_verse *genre_bergerie *dist1_rousseau_verse_bergerie_engagementtemeraire *dist2_rousseau_verse_bergerie *id_LISETTE *date_1747 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Vous me prêtez, monsieur, un petit caractère,
 Mais fort joli vraiment !
@@ -1147,7 +1147,7 @@ Belles, sur cet exemple apprenez en ce jour
 Qu'on ne peut sans danger se jouer à l'amour.
 
 
-**** *creator_rousseau *book_rousseau_engagementtemeraire *style_verse *genre_bergerie *dist1_rousseau_verse_bergerie_engagementtemeraire *dist2_rousseau_verse_bergerie *date_1747 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_carlin
+**** *creator_rousseau *book_rousseau_engagementtemeraire *style_verse *genre_bergerie *dist1_rousseau_verse_bergerie_engagementtemeraire *dist2_rousseau_verse_bergerie *id_CARLIN *date_1747 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_carlin
 
       Monsieur ?
 

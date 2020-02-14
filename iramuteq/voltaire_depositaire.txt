@@ -1,6 +1,6 @@
 
 
-**** *creator_voltaire *book_voltaire_depositaire *style_verse *genre_comedy *dist1_voltaire_verse_comedy_depositaire *dist2_voltaire_verse_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ninon
+**** *creator_voltaire *book_voltaire_depositaire *style_verse *genre_comedy *dist1_voltaire_verse_comedy_depositaire *dist2_voltaire_verse_comedy *id_NINON *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ninon
 
 J'aime assez, cher Gourville, à former la jeunesse.
 Le fils de mon ami vivement m'intéresse ;
@@ -613,7 +613,7 @@ La dot de votre fille enfin va se payer.
 Qu'on va la marier, elle reparaîtra.
 
 
-**** *creator_voltaire *book_voltaire_depositaire *style_verse *genre_comedy *dist1_voltaire_verse_comedy_depositaire *dist2_voltaire_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gourvillelaine
+**** *creator_voltaire *book_voltaire_depositaire *style_verse *genre_comedy *dist1_voltaire_verse_comedy_depositaire *dist2_voltaire_verse_comedy *id_GOURVILLELAINE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gourvillelaine
 
 De si vilains propos, une telle conduite,
 Me font pitié, monsieur, j'en prévois trop la suite.
@@ -1073,7 +1073,7 @@ Et je me sens, madame, indigne d'y prétendre.
 Comme elle a démasqué, vilipendé le traître !
 
 
-**** *creator_voltaire *book_voltaire_depositaire *style_verse *genre_comedy *dist1_voltaire_verse_comedy_depositaire *dist2_voltaire_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgarant
+**** *creator_voltaire *book_voltaire_depositaire *style_verse *genre_comedy *dist1_voltaire_verse_comedy_depositaire *dist2_voltaire_verse_comedy *id_MONSIEURGARANT *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgarant
 
       Je me suis fait attendre.
 Le temps, vous le savez, est difficile à prendre.
@@ -1523,7 +1523,7 @@ Serviteur.
 L'oeuvre m'attend, j'ai hâte.
 
 
-**** *creator_voltaire *book_voltaire_depositaire *style_verse *genre_comedy *dist1_voltaire_verse_comedy_depositaire *dist2_voltaire_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lavocatplacet
+**** *creator_voltaire *book_voltaire_depositaire *style_verse *genre_comedy *dist1_voltaire_verse_comedy_depositaire *dist2_voltaire_verse_comedy *id_LAVOCATPLACET *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lavocatplacet
 
       On m'a dit par la ville
 Que je dois m'adresser à monsieur de Gourville,
@@ -1645,7 +1645,7 @@ Stipulés par vous-même !
       Je vais vous faire assigner tous.
 
 
-**** *creator_voltaire *book_voltaire_depositaire *style_verse *genre_comedy *dist1_voltaire_verse_comedy_depositaire *dist2_voltaire_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieuragnant
+**** *creator_voltaire *book_voltaire_depositaire *style_verse *genre_comedy *dist1_voltaire_verse_comedy_depositaire *dist2_voltaire_verse_comedy *id_MONSIEURAGNANT *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieuragnant
 
       Qu'on l'arrête !
 
@@ -1775,7 +1775,7 @@ Quel tour !
 Et pourquoi t'en aller ? Reste avec nous pour boire.
 
 
-**** *creator_voltaire *book_voltaire_depositaire *style_verse *genre_comedy *dist1_voltaire_verse_comedy_depositaire *dist2_voltaire_verse_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameagnant
+**** *creator_voltaire *book_voltaire_depositaire *style_verse *genre_comedy *dist1_voltaire_verse_comedy_depositaire *dist2_voltaire_verse_comedy *id_MADAMEAGNANT *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameagnant
 
       Au méchant !
 
@@ -1974,7 +1974,7 @@ Adieu, vilain mâtin, qui m'en fis tant accroire.
 Et ma fille ?
 
 
-**** *creator_voltaire *book_voltaire_depositaire *style_verse *genre_comedy *dist1_voltaire_verse_comedy_depositaire *dist2_voltaire_verse_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_voltaire *book_voltaire_depositaire *style_verse *genre_comedy *dist1_voltaire_verse_comedy_depositaire *dist2_voltaire_verse_comedy *id_LISETTE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
       Ah ! La lourde cassette !
 Comment voulez-vous donc que j'apporte cela ?
@@ -2203,7 +2203,7 @@ Ne t'avais-je pas dit, Picard, que ma maîtresse
 À plus d'esprit qu'eux tous, d'honneur, et de sagesse?
 
 
-**** *creator_voltaire *book_voltaire_depositaire *style_verse *genre_comedy *dist1_voltaire_verse_comedy_depositaire *dist2_voltaire_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_picard
+**** *creator_voltaire *book_voltaire_depositaire *style_verse *genre_comedy *dist1_voltaire_verse_comedy_depositaire *dist2_voltaire_verse_comedy *id_PICARD *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_picard
 
 Je n'ai jamais rien su le premier : quelle est-elle ?
 

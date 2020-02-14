@@ -1,6 +1,6 @@
 
 
-**** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_demogorgon
+**** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *id_DEMOGORGON *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_demogorgon
 
 Le ciel qui m'a fait votre roi,
 Dans votre destin m'intéresse :
@@ -30,7 +30,7 @@ En vain elle a rompu sa chaîne,
 Il l'enchaîne encore une fois.
 
 
-**** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *date_1685 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+**** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *id_ANGELIQUE *date_1685 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
 Ah ! Que mon coeur est agité !
 L'amour y combat la fierté,
@@ -319,7 +319,7 @@ Reconnaissez Médor pour votre maître,
 Rendez hommage à votre roi.
 
 
-**** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *date_1685 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_temire
+**** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *id_TEMIRE *date_1685 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_temire
 
 Vous avez peu d'impatience
 de voir le riche don qu'on va vous pr2senter.
@@ -405,7 +405,7 @@ Rien ne vous pourra secourir.
 Où voulez-vous aller ? Que pouvez-vous prétendre ?
 
 
-**** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_medor
+**** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *id_MEDOR *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_medor
 
 Ah ! Quel tourment
 De garder en aimant
@@ -571,7 +571,7 @@ Réservons-nous
 Pour un amour si doux.
 
 
-**** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roland
+**** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *id_ROLAND *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roland
 
 Belle Angélique, enfin, je vous trouve en ces lieux
 Ciel ! Quel enchantement vous dérobe à mes yeux !
@@ -859,7 +859,7 @@ Allons, courons aux armes.
 Que la gloire a de charmes !
 
 
-**** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_astolfe
+**** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *id_ASTOLFE *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_astolfe
 
 Quel charme vous retient dans ce lieu solitaire ?
 
@@ -895,7 +895,7 @@ Le plus grand des héros et le plus malheureux ?
 J'attends tout pour Roland de vos soins salutaires.
 
 
-**** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_coridon
+**** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *id_CORIDON *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_coridon
 
 J'aimerai toujours ma bergère.
 
@@ -947,7 +947,7 @@ Il frémit !
 Son trouble est apaisé.
 
 
-**** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tersandre
+**** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *id_TERSANDRE *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tersandre
 
 Allez, laissez-nous, soins fâcheux,
 Éloignez-vous de nos paisibles jeux.
@@ -1006,7 +1006,7 @@ Puissent-t-ils sur un trône d'or
 S'aimer comme ils s'aimaient dans ce séjour rustique.
 
 
-**** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *date_1685 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_logistille
+**** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *id_LOGISTILLE *date_1685 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_logistille
 
 Vos justes voeux sont prévenus ;
 Déjà par des chemins aux mortels inconnus

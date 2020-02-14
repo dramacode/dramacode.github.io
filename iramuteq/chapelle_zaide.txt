@@ -1,6 +1,6 @@
 
 
-**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_abderamen
+**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *id_abderamen *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_abderamen
 
 Scavez-vous qu'Alamir a quitté mon Armée,
 Qu'il revient en ces lieux sans mon ordre ?
@@ -280,7 +280,7 @@ Et vivez dans ma Cour sous le nom de Zaïde.
 FIN
 
 
-**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_fatime
+**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *id_fatime *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_fatime
 
 Dois-je croire, Seigneur, ce que m'apprend le Roy :
 Alamir s'est trouvé digne de vostre estime,
@@ -520,7 +520,7 @@ Mais enfin pour sauver une teste si chere
 Je ne ménage rien. J'y cours.
 
 
-**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_zulemar
+**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *id_zulemar *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_zulemar
 
 La princesse Fatime, Osmar, est chez le Roy ?
 Tu dis qu'en la quittant il veut parler à moy.
@@ -1115,7 +1115,7 @@ Seigneur, après l'abus commis aux yeux de tous ;
 De quel front⁎ puis-je icy paroistre ?
 
 
-**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_alamir
+**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *id_alamir *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_alamir
 
 Non, ne nous flattons point d'une vaine esperance,
 Plus mes exploits sont grands, plus mon retour l'offense ;
@@ -1501,7 +1501,7 @@ Et si l'amour déjà ne s'y fait pas sentir,
 L'injuste haine au moins commence d'en sortir.
 
 
-**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_osmar
+**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *id_osmar *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_osmar
 
 Oüy, Seigneur
 
@@ -1562,7 +1562,7 @@ Qu'à sa gloire⁎, à l'éclat de la grandeur suprême,
 Ouvrant enfin les yeux… mais le Roy vient luy-mesme.
 
 
-**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_abendax
+**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *id_abendax *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_abendax
 
 N'en doutez point, Seigneur, il est toûjours le mesme
 Il craint son inconstance, & cependant il l'aime,
@@ -1662,7 +1662,7 @@ Il est temps de parler, d'avouer qui vous estes.
 Et je vais….
 
 
-**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_gazul
+**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *id_gazul *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_gazul
 
 Pourquoy de ce retour aprés vostre victoire,
 Vous faites vous, Seigneur, une image si noire ;

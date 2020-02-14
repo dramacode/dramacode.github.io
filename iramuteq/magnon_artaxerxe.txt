@@ -1,6 +1,6 @@
 
 
-**** *creator_magnon *book_magnon_artaxerxe *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_artaxerxe *dist2_magnon_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artaxerxe
+**** *creator_magnon *book_magnon_artaxerxe *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_artaxerxe *dist2_magnon_verse_tragedy *id_ARTAXERXE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artaxerxe
 
 Hé bien, chère Amestris, et vous belle Aspasie,
 Mes fils briguent toujours le trône de l'Asie,
@@ -490,7 +490,7 @@ Reprends ton Aspasie, et vous ce cher époux.
 Ochus, je te pardonne, et vous faites lui grâce.
 
 
-**** *creator_magnon *book_magnon_artaxerxe *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_artaxerxe *dist2_magnon_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_darie
+**** *creator_magnon *book_magnon_artaxerxe *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_artaxerxe *dist2_magnon_verse_tragedy *id_DARIE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_darie
 
 Je vous fais un aveu digne de votre fils,
 Que je mépriserais tout l'éclat des Sophis,
@@ -1020,7 +1020,7 @@ Le Roi veut oublier l'intérêt de Darie.
 Vous généreuse soeur, que pourrai-je pour vous ?
 
 
-**** *creator_magnon *book_magnon_artaxerxe *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_artaxerxe *dist2_magnon_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ochus
+**** *creator_magnon *book_magnon_artaxerxe *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_artaxerxe *dist2_magnon_verse_tragedy *id_OCHUS *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ochus
 
 Vous venez d'alléguer un vieux droit de naissance,
 Et vous vous prévalez d'une commune loi
@@ -1385,7 +1385,7 @@ Accorde à ces amants la plus heureuse vie,
 Et de tant de plaisirs éloignes-en l'envie.
 
 
-**** *creator_magnon *book_magnon_artaxerxe *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_artaxerxe *dist2_magnon_verse_tragedy *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amestris
+**** *creator_magnon *book_magnon_artaxerxe *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_artaxerxe *dist2_magnon_verse_tragedy *id_AMESTRIS *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amestris
 
 Tous les Princes n'ont pas une même fortune,
 Il est des rois heureux.
@@ -1587,7 +1587,7 @@ Si le Ciel doit répondre à mes seconds souhaits
 Qu'il jure à vos amours une éternelle paix.
 
 
-**** *creator_magnon *book_magnon_artaxerxe *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_artaxerxe *dist2_magnon_verse_tragedy *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aspasie
+**** *creator_magnon *book_magnon_artaxerxe *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_artaxerxe *dist2_magnon_verse_tragedy *id_ASPASIE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aspasie
 
       Hélas !
 
@@ -1827,7 +1827,7 @@ Et dont l'homme ne peut qu'en suspendre l'effet.
 J'en conjure mon Prince.
 
 
-**** *creator_magnon *book_magnon_artaxerxe *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_artaxerxe *dist2_magnon_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tiribaze
+**** *creator_magnon *book_magnon_artaxerxe *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_artaxerxe *dist2_magnon_verse_tragedy *id_TIRIBAZE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tiribaze
 
 Oserais-je interrompre un si doux entretien ?
 
@@ -2197,7 +2197,7 @@ Par ce fameux désordre autant qu'il est fatal,
 Voyons en eux la fin de tout le Sang Royal.
 
 
-**** *creator_magnon *book_magnon_artaxerxe *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_artaxerxe *dist2_magnon_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tissapherne
+**** *creator_magnon *book_magnon_artaxerxe *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_artaxerxe *dist2_magnon_verse_tragedy *id_TISSAPHERNE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tissapherne
 
       Seigneur, rendez l'épée.
 

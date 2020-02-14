@@ -1,6 +1,6 @@
 
 
-**** *creator_laharpe *book_laharpe_moliere *style_verse *genre_comedy *dist1_laharpe_verse_comedy_moliere *dist2_laharpe_verse_comedy *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
+**** *creator_laharpe *book_laharpe_moliere *style_verse *genre_comedy *dist1_laharpe_verse_comedy_moliere *dist2_laharpe_verse_comedy *id_MELPOMENE *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
 
 Nous venons toutes deux, célébrant ce grand jour,
 Installer nos sujets dans leur nouveau séjour.
@@ -101,7 +101,7 @@ Vous n'en sentez que mieux les charmes
 De sa gaîté.
 
 
-**** *creator_laharpe *book_laharpe_moliere *style_verse *genre_comedy *dist1_laharpe_verse_comedy_moliere *dist2_laharpe_verse_comedy *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
+**** *creator_laharpe *book_laharpe_moliere *style_verse *genre_comedy *dist1_laharpe_verse_comedy_moliere *dist2_laharpe_verse_comedy *id_THALIE *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
 
 Oui, Melpomène et moi, qu'un même soin rassemble,
 Nous venons en ces lieux pour y régner ensemble.
@@ -272,7 +272,7 @@ Il faut bien plus, il faut faire chanter... Madame.
 Allez-vous dire aussi la majesté du Drame ?
 
 
-**** *creator_laharpe *book_laharpe_moliere *style_verse *genre_comedy *dist1_laharpe_verse_comedy_moliere *dist2_laharpe_verse_comedy *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moliere
+**** *creator_laharpe *book_laharpe_moliere *style_verse *genre_comedy *dist1_laharpe_verse_comedy_moliere *dist2_laharpe_verse_comedy *id_MOLIERE *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moliere
 
       Quoi donc ? Souffririez-vous
 Qu'on m'eût voulu priver d'un spectacle si doux ?
@@ -727,7 +727,7 @@ Laissons à chacun son humeur.
 Vous avez par-tout cet honneur.
 
 
-**** *creator_laharpe *book_laharpe_moliere *style_verse *genre_comedy *dist1_laharpe_verse_comedy_moliere *dist2_laharpe_verse_comedy *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurbaptiste
+**** *creator_laharpe *book_laharpe_moliere *style_verse *genre_comedy *dist1_laharpe_verse_comedy_moliere *dist2_laharpe_verse_comedy *id_MONSIEURBAPTISTE *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurbaptiste
 
 Si vous êtes Monsieur, un suppôt de Thalie....
 
@@ -860,7 +860,7 @@ Serviteur....
       J'en dirais plus que je ne veux dire.
 
 
-**** *creator_laharpe *book_laharpe_moliere *style_verse *genre_comedy *dist1_laharpe_verse_comedy_moliere *dist2_laharpe_verse_comedy *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurmisogramme
+**** *creator_laharpe *book_laharpe_moliere *style_verse *genre_comedy *dist1_laharpe_verse_comedy_moliere *dist2_laharpe_verse_comedy *id_MONSIEURMISOGRAMME *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurmisogramme
 
 Puis-je vous demander, Monsieur, sans vous déplaire,
 Si Thalie en ces lieux voudra me recevoir ?
@@ -1060,7 +1060,7 @@ Donnerait tout l'esprit du monde
 Pour la gaîté.
 
 
-**** *creator_laharpe *book_laharpe_moliere *style_verse *genre_comedy *dist1_laharpe_verse_comedy_moliere *dist2_laharpe_verse_comedy *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levaudeville
+**** *creator_laharpe *book_laharpe_moliere *style_verse *genre_comedy *dist1_laharpe_verse_comedy_moliere *dist2_laharpe_verse_comedy *id_LEVAUDEVILLE *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levaudeville
 
 Le Vaudeville
 À l'honneur de vous saluer ;
@@ -1116,7 +1116,7 @@ Ce bruit vient lui rendre la vie
 Et la gaîté.
 
 
-**** *creator_laharpe *book_laharpe_moliere *style_verse *genre_comedy *dist1_laharpe_verse_comedy_moliere *dist2_laharpe_verse_comedy *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamusedudrame
+**** *creator_laharpe *book_laharpe_moliere *style_verse *genre_comedy *dist1_laharpe_verse_comedy_moliere *dist2_laharpe_verse_comedy *id_LAMUSEDUDRAME *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamusedudrame
 
 Qui, moi ! m'en préserve le Ciel !
 Pour qui me prenez-vous ?

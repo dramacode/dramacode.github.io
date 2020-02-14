@@ -1,6 +1,6 @@
 
 
-**** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_proxene
+**** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *id_PROXENE *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_proxene
 
 Que te sert de montrer par tant d'illustres marques
 Que le Ciel t'a donné les vertus des Monarques ?
@@ -270,7 +270,7 @@ Qu'il a gagné les coeurs que vous croyez fidèles.
 Mais il entre, et ses yeux ne sont pas d'un coupable.
 
 
-**** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trasile
+**** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *id_TRASILE *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trasile
 
 Que je prends de plaisir au vol où je m'engage,
 À te voir aujourd'hui douter de mon courage,
@@ -738,7 +738,7 @@ Et pour me venger d'elle et de ce brave Roi ;
 Je souhaite à tous deux des sujets comme toi.
 
 
-**** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dynamis
+**** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *id_DYNAMIS *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dynamis
 
       Oui ma gloire m'est chère.
 C'est trop vous écouter, conseillers odieux,
@@ -1700,7 +1700,7 @@ Que ne puis-je honorer un Roi victorieux,
 Un Roi mon défenseur, d'un prix plus glorieux ?
 
 
-**** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_poliante
+**** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *id_POLIANTE *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_poliante
 
 Si mon bras combattant pour votre seule gloire,
 A pour vous remporté victoire sur victoire,
@@ -2150,7 +2150,7 @@ Mais vous voulez montrer que pour payer en Reine
 Il faut donner un prix qui surpasse la peine.
 
 
-**** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_proclee
+**** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *id_PROCLEE *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_proclee
 
 Ha, Madame, il est temps de redouter Arcas ;
 Pour venir jusqu'à vous il n'a qu'à faire un pas.
@@ -2271,7 +2271,7 @@ Ainsi deux criminels sont bourreaux l'un de l'autre.
 C'est tout ce qu'il a dit.
 
 
-**** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
+**** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *id_ARCAS *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
 
 Ô reine, dont j'aimais et dont je crains la vue,
 Retenez un moment ce regard qui me tue,

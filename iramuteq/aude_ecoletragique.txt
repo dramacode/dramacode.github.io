@@ -1,6 +1,6 @@
 
 
-**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_linval
+**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *id_LINVAL *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_linval
 
 Courage. Des grands mots, des phrases, des murmures,
 Sans connaître l'ouvrage, insulte à son auteur.
@@ -86,7 +86,7 @@ On les relit chez soi, chacun les sait par coeur.
       Et qu'on en fasse d'autre.
 
 
-**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_germon
+**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *id_GERMON *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_germon
 
       Comment donc, quels éclats ?
 
@@ -168,7 +168,7 @@ Ici, comme ailleurs, plus d'un savant enseigne
 Ce qu'il n'a pas encore appris.
 
 
-**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blanchetpere
+**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *id_BLANCHETPERE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blanchetpere
 
 Je vous l'ont dit, mère Cloutier, je vous le répétons ; il ne sera pas dit que mon fils s'incorpore dans un état ou's qu'il n'entend rien.
 
@@ -206,7 +206,7 @@ Où est-il ? Où est-il ?
 Ah ! Misérable, tu vas tout me payer aujourd'hui.
 
 
-**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_blanchetfils
+**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *id_BLANCHETFILS *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_blanchetfils
 
 Citoyenne Roussel, est il parti ?
 
@@ -309,7 +309,7 @@ Détachez-moi, ou je casse la mécanique.
 Laissez donc, laissez donc, j'irai à Montreuil.
 
 
-**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamerecloutier
+**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *id_LAMERECLOUTIER *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamerecloutier
 
 Mais, citoyen, vous ne savez pas ce que votre enfant peut devenir dans les mains de mon gendre ; Cadet l'aime comme ses yeux.
 
@@ -396,7 +396,7 @@ Tu vois donc, mon ami, l'innocence de mon enfant. La voilà ; j'en suis sûre.
 Queu tintamarre as'te porte, et mon dieu...
 
 
-**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_manon
+**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *id_MANON *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_manon
 
 Ma mère, madame Grugeot vient de me payer les quinze jours de déclamation de sa fille, avec z'une oie qu'elle nous fait présent ; restez à dîner avec nous.
 
@@ -476,7 +476,7 @@ C'est pour cette lettre ; je l'aurais laissée par terre ; j'ai été forcée de
 Peux-tu z'en douter.
 
 
-**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamegrugeot
+**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *id_MADAMEGRUGEOT *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamegrugeot
 
 Elle vient z'après moi ; elle est dans l'allée avec sa cousine Picard, qu'elle a rencontrée, qu'est donneuse de cachets au bal de la montagne Sainte-Geneviève.
 
@@ -559,7 +559,7 @@ Il dit que c'est la seule veuve
 Qui pleure encore son époux. (bis.)
 
 
-**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_beuglan
+**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *id_BEUGLAN *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_beuglan
 
 Mon ami, mon ami, ce n'est pas là mon intention.
 
@@ -615,7 +615,7 @@ On fuit Zaïre, on quitte Électre,
 Pour des pétards et des romans.
 
 
-**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_grignardet
+**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *id_GRIGNARDET *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_grignardet
 
 Tous, excepté la citoyenne Grugeot.
 
@@ -658,7 +658,7 @@ Qu'avez vous ?
 Les tambours.
 
 
-**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jobar
+**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *id_JOBAR *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jobar
 
 Fanfan, tu vas la voir ; la voici qui s'avance.
 
@@ -671,7 +671,7 @@ On ne m'en a pas donné.
 Ce mot d'écrit, Seigneur, trouvé sous les berceaux...
 
 
-**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamereroussel
+**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *id_LAMEREROUSSEL *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamereroussel
 
 C'est superbe.
 
@@ -726,7 +726,7 @@ Voyons : lis donc ça.
 Mon fils !
 
 
-**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lepetitroussel
+**** *creator_aude *book_aude_ecoletragique *style_prose *genre_comedy *dist1_aude_prose_comedy_ecoletragique *dist2_aude_prose_comedy *id_LEPETITROUSSEL *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lepetitroussel
 
 Voyez, voyez ses yeux, ils ont versé des larmes :
 

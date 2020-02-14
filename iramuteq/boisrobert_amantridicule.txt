@@ -1,6 +1,6 @@
 
 
-**** *creator_boisrobert *book_boisrobert_amantridicule *style_verse *genre_comedy *dist1_boisrobert_verse_comedy_amantridicule *dist2_boisrobert_verse_comedy *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+**** *creator_boisrobert *book_boisrobert_amantridicule *style_verse *genre_comedy *dist1_boisrobert_verse_comedy_amantridicule *dist2_boisrobert_verse_comedy *id_LEANDRE *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
 
 Quoi divine Isabelle on a donc résolu
 De vous donner Alonce, et vous l'avez voulu ?
@@ -101,7 +101,7 @@ Et me déshonorerais en fuyant devant elle.
 Ô le coeur généreux.
 
 
-**** *creator_boisrobert *book_boisrobert_amantridicule *style_verse *genre_comedy *dist1_boisrobert_verse_comedy_amantridicule *dist2_boisrobert_verse_comedy *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alonce
+**** *creator_boisrobert *book_boisrobert_amantridicule *style_verse *genre_comedy *dist1_boisrobert_verse_comedy_amantridicule *dist2_boisrobert_verse_comedy *id_ALONCE *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alonce
 
 J'ai les yeux tout battis après deux longues veilles,
 ERt crains de na pouvoir avec ces yeux hagards,
@@ -252,7 +252,7 @@ Nonobstant tout cela je vous donne mon bien,
 Et vous cède Isabelle, allez vous je vous pardonne.
 
 
-**** *creator_boisrobert *book_boisrobert_amantridicule *style_verse *genre_comedy *dist1_boisrobert_verse_comedy_amantridicule *dist2_boisrobert_verse_comedy *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_isabelle
+**** *creator_boisrobert *book_boisrobert_amantridicule *style_verse *genre_comedy *dist1_boisrobert_verse_comedy_amantridicule *dist2_boisrobert_verse_comedy *id_ISABELLE *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_isabelle
 
 Léandre, mon tuteur me choisit un époux.
 Si j'étais toute à moi, je serais toute à vous.
@@ -293,7 +293,7 @@ Donc sans beaucoup de peine on les peut séparer.
       Ô la bonne personne.
 
 
-**** *creator_boisrobert *book_boisrobert_amantridicule *style_verse *genre_comedy *dist1_boisrobert_verse_comedy_amantridicule *dist2_boisrobert_verse_comedy *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laure
+**** *creator_boisrobert *book_boisrobert_amantridicule *style_verse *genre_comedy *dist1_boisrobert_verse_comedy_amantridicule *dist2_boisrobert_verse_comedy *id_LAURE *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laure
 
 Isabelle, rentrez, que faites vous là-bas ?
 Quoi ! Suivre ce blondin en tous lieux pas à pas ?

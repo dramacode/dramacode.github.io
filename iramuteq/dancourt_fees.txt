@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_astur
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *id_ASTUR *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_astur
 
 Que chacun se retire, et qu'aucun n'entre ici : mes Filles, demeurez, et vous Finette, aussi. Comme j'ai à vous parler d'affaires réjouissantes, mes enfants, je suis bien aise de ne voir auprès de vous que des visages qui me réjouissent, et devant qui je ne sois pas obligé de garder une incommode gravité, qui m'a terriblement gêné depuis que la Fée votre mère s'avisa de me faire Souverain.
 
@@ -127,7 +127,7 @@ Oh oui, puisque j'ai tant de belles qualités, je souscris à tout, voilà qui e
 À la bonne heure ? Allons, que nos sujets et nos amis viennent en foule honorer les noces, et hâtons-en la cérémonie, afin que feue ma femme s'en retourne : car elle a des affaires en l'autre monde.
 
 
-**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melisende
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *id_MELISENDE *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melisende
 
 Non, ma sœur, vous n'avez point de bonnes raisons pour justifier l'irrégularité de votre procédé ; et parmi les Fées comme nous, les règles de la politesse et de la bienséance devraient un peu mieux s'observer.
 
@@ -226,7 +226,7 @@ C'est elle-même, et qui nous ramène Inégilde : ah ! Quelle divinité favorabl
 Quoi ! Vous autorisez une union que je déteste ? Un Prince nourri dans les délices ?
 
 
-**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_blandonie
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *id_BLANDONIE *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_blandonie
 
 Que vous êtes fatigante, ma sœur, avec vos formalités perpétuelles ! Vous prêchez sans cesse une régularité que vous n'avez point ; et si vous vouliez m'obliger à quelques égards pour vous, il fallait commencer à n'en pas manquer pour moi.
 
@@ -291,7 +291,7 @@ Je vous entends, ma sœur : trop de plaisirs l'ont jusqu'à présent occupée, v
 Oui, Prince, je sais les sentiments que vous avez pour Cléonide ; c'est moi qui vous les ai si soudainement inspirés : puissiez-vous être à jamais heureux.
 
 
-**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zirphilin
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *id_ZIRPHILIN *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zirphilin
 
 Seigneur, l'honneur de votre alliance est un avantage où je n'oserais aspirer sans la protection de cette illustre Fée, et je ne commencerai de m'en croire digne que lorsque vous m'aurez permis d'y prétendre.
 
@@ -362,7 +362,7 @@ Je finirai votre embarras, Seigneur, et je vais tâcher de vous rendre une tranq
 Ah ! Madame…
 
 
-**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_astibel
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *id_ASTIBEL *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_astibel
 
 Les Sages de chez nous ne sont pas sans mérite ; et c'est ce qui me fait espérer, Seigneur, que vous voudrez bien approuver l'alliance où cette sage Fée m'a fait l'honneur de m'appeler.
 
@@ -389,7 +389,7 @@ Notre morale est moins farouche que la vôtre, et les plaisirs et la vertu ne so
 Oserais-je me flatter, Madame…
 
 
-**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_inegilde
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *id_INEGILDE *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_inegilde
 
 Avec qui vous entreteniez-vous là, Finette ?
 
@@ -498,7 +498,7 @@ Il est borné, Madame, une puissance au-dessus de la vôtre, me dérobe à cette
 Vous m'avez fait espérer, Madame, que je ne serais plus malheureuse ; et si le Ciel se déclarait pour un autre que pour le Prince de l'Isle Fortunée…
 
 
-**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleonide
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *id_CLEONIDE *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleonide
 
 J'ai bien jugé, ma sœur, que ma présence vous surprendrait agréablement ; et le peu de fréquentation que les Fées nous ont permis depuis que nous vivons sous leur puissance, n'a pas dû vous préparer à la visite que je vous fais.
 
@@ -551,7 +551,7 @@ Ah, Ciel ! Je tremble. Quel événement nous annonce ce bruit terrible et mélod
 Seigneur, qui peut vous effrayer ainsi ?
 
 
-**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_darinel
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *id_DARINEL *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_darinel
 
 Hé ! Là, là, Madame, à quoi pensez-vous ?
 
@@ -698,7 +698,7 @@ Et tout plaisir devient permis,
 Par l'usage qu'on en sait faire.
 
 
-**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_finette
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *id_FINETTE *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_finette
 
 Hé, bonjour, Seigneur Darinel, vous me paraissez de bonne humeur, vous serait-il arrivé quelque fortune dont on dût vous féliciter ? Vous savez que naturellement je suis portée d'inclination à m'intéresser à tout ce qui peut faire plaisir.
 
@@ -849,7 +849,7 @@ Ne vous chagrinez point, Seigneur, je ne vous quitterai point que nous ne l'ayon
 Sur ce pied-là, j'y consens de bon cœur. Que nous allons faire un bon petit ménage !
 
 
-**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_astibel
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *id_ASTIBEL *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_astibel
 
 Les Sages de chez nous ne sont pas sans mérite ; et c'est ce qui me fait espérer, Seigneur, que vous voudrez bien approuver l'alliance où cette sage Fée m'a fait l'honneur de m'appeler.
 
@@ -876,7 +876,7 @@ Notre morale est moins farouche que la vôtre, et les plaisirs et la vertu ne so
 Oserais-je me flatter, Madame…
 
 
-**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lambethie
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *id_LAMBETHIE *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lambethie
 
 Madame, vous nous exposez tous les jours aux ressentiments de la Fée, et vous savez bien l'ordre que nous avons de ne vous point souffrir de conversation particulière avec Finette.
 
@@ -887,7 +887,7 @@ Zerbine demande à vous entretenir, Madame.
 Je vais leur dire d'approcher, Madame, ils attendaient avec impatience le moment d'être présentés.
 
 
-**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_logistille
+**** *creator_dancourt *book_dancourt_fees *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fees *dist2_dancourt_prose_comedy *id_LOGISTILLE *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_logistille
 
 Astur, rassurez-vous, et rendez grâces avec mes sœurs au destin qui me permet de venir ici pour terminer leurs différents, et pour réunir par ma présence et par mes conseils, les cœurs que mon éloignement avait séparés.
 

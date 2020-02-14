@@ -1,6 +1,6 @@
 
 
-**** *creator_florian *book_florian_bonpere *style_prose *genre_comedy *dist1_florian_prose_comedy_bonpere *dist2_florian_prose_comedy *date_1790 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_florian *book_florian_bonpere *style_prose *genre_comedy *dist1_florian_prose_comedy_bonpere *dist2_florian_prose_comedy *id_ARLEQUIN *date_1790 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Fort bien ; je ne m'étonne plus, Nérine, si tu me fais si souvent l'éloge de Cléante.
 
@@ -209,7 +209,7 @@ C'est que je ne te renvoyais de chez moi que parce qu'elle m'avait avoué qu'ell
 Ma chère Nérine, tu vois bien que je ne peux plus te donner Cléante selon mes premiers projets ; mais tu nous permettras de doubler la dot que je te destinais, et tu resteras avec nous pour être la bonne amie de la famille. Quant à vous, mes enfants, vous allez être unis, et vous serez sans doute heureux : mais souvenez-vous bien qu'aucun plaisir dans le monde ne vaut celui de faire son devoir d'honnête homme et de bon père.
 
 
-**** *creator_florian *book_florian_bonpere *style_prose *genre_comedy *dist1_florian_prose_comedy_bonpere *dist2_florian_prose_comedy *date_1790 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nisida
+**** *creator_florian *book_florian_bonpere *style_prose *genre_comedy *dist1_florian_prose_comedy_bonpere *dist2_florian_prose_comedy *id_NISIDA *date_1790 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nisida
 
 Je croyais mon père ici, Nérine.
 
@@ -276,7 +276,7 @@ Ah ! Je ne le verrai plus !
 Heureusement je l'ai dit ce matin.
 
 
-**** *creator_florian *book_florian_bonpere *style_prose *genre_comedy *dist1_florian_prose_comedy_bonpere *dist2_florian_prose_comedy *date_1790 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleante
+**** *creator_florian *book_florian_bonpere *style_prose *genre_comedy *dist1_florian_prose_comedy_bonpere *dist2_florian_prose_comedy *id_CLEANTE *date_1790 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleante
 
 J'ai sujet de l'être ma chère Nerine je viens de recevoir des nouvelles très affigeantes.
 
@@ -434,7 +434,7 @@ Je veux retrouver mon père ; vous seul pouvez le remplacer.
 Ah Nisida, vous m'aimez donc ?
 
 
-**** *creator_florian *book_florian_bonpere *style_prose *genre_comedy *dist1_florian_prose_comedy_bonpere *dist2_florian_prose_comedy *date_1790 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
+**** *creator_florian *book_florian_bonpere *style_prose *genre_comedy *dist1_florian_prose_comedy_bonpere *dist2_florian_prose_comedy *id_NERINE *date_1790 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
 
 Je ne vous comprends pas ; Monsieur Cléante quand toute la maison est dans la joie, quand nous sommes tous occupés de la fête que Monsieur Arlequin, notre maître, donne à sa fille Mademoiselle Nisida, vous que votre esprit et vos talents peuvent si bien servir dans cette occasion vous paraissez plus triste que jamais.
 

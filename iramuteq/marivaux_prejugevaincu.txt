@@ -1,6 +1,6 @@
 
 
-**** *creator_marivaux *book_marivaux_prejugevaincu *style_prose *genre_comedy *dist1_marivaux_prose_comedy_prejugevaincu *dist2_marivaux_prose_comedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+**** *creator_marivaux *book_marivaux_prejugevaincu *style_prose *genre_comedy *dist1_marivaux_prose_comedy_prejugevaincu *dist2_marivaux_prose_comedy *id_LEMARQUIS *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
 
 Ah ! vous voilà, Dorante ? Vous avez sans doute proposé à ma fille le mariage dont vous m'avez parlé ? L'acceptez-vous, Angélique ?
 
@@ -55,7 +55,7 @@ Que signifie ce que je vois ? Dorante à vos genoux, ma fille !
 Embrassez-moi, Dorante ; je suis content. Sortons, je me charge de faire entendre raison au Baron.
 
 
-**** *creator_marivaux *book_marivaux_prejugevaincu *style_prose *genre_comedy *dist1_marivaux_prose_comedy_prejugevaincu *dist2_marivaux_prose_comedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+**** *creator_marivaux *book_marivaux_prejugevaincu *style_prose *genre_comedy *dist1_marivaux_prose_comedy_prejugevaincu *dist2_marivaux_prose_comedy *id_ANGELIQUE *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
 Il me semblait de loin avoir vu Dorante avec toi.
 
@@ -269,7 +269,7 @@ Levez-vous, Dorante. Vous avez triomphé d'une fierté que je désavoue, et mon 
 Oui, mon père, je suis charmée de l'y voir, et je crois que vous n'en serez pas fâché. Dispensez-moi d'en dire davantage.
 
 
-**** *creator_marivaux *book_marivaux_prejugevaincu *style_prose *genre_comedy *dist1_marivaux_prose_comedy_prejugevaincu *dist2_marivaux_prose_comedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_marivaux *book_marivaux_prejugevaincu *style_prose *genre_comedy *dist1_marivaux_prose_comedy_prejugevaincu *dist2_marivaux_prose_comedy *id_LISETTE *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Eh bien ! Que me voulez-vous donc, Monsieur de Lépaine, en me tirant comme ça à l'écart ?
 
@@ -489,7 +489,7 @@ Monsieur, il vient de venir un homme que vous avez, dit-il, envoyé chercher pou
 Tiens, prends ma main, je te la donne.
 
 
-**** *creator_marivaux *book_marivaux_prejugevaincu *style_prose *genre_comedy *dist1_marivaux_prose_comedy_prejugevaincu *dist2_marivaux_prose_comedy *date_1646 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_dorante
+**** *creator_marivaux *book_marivaux_prejugevaincu *style_prose *genre_comedy *dist1_marivaux_prose_comedy_prejugevaincu *dist2_marivaux_prose_comedy *id_DORANTE *date_1646 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_dorante
 
 Courage, mes enfants, vous ne vous haïssez pas, ce me semble ?
 
@@ -638,7 +638,7 @@ Ah ! Madame, qu'entends-je ? Oserai-je croire qu'en ma faveur...
 L'excès de mon bonheur me coupe la parole.
 
 
-**** *creator_marivaux *book_marivaux_prejugevaincu *style_prose *genre_comedy *dist1_marivaux_prose_comedy_prejugevaincu *dist2_marivaux_prose_comedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepine
+**** *creator_marivaux *book_marivaux_prejugevaincu *style_prose *genre_comedy *dist1_marivaux_prose_comedy_prejugevaincu *dist2_marivaux_prose_comedy *id_LEPINE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepine
 
 Viens, j'ai à te parler ; entrons un moment dans cette salle.
 

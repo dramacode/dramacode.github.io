@@ -1,6 +1,6 @@
 
 
-**** *creator_rousseaujb *book_rousseaujb_jason *style_verse *genre_opera *dist1_rousseaujb_verse_opera_jason *dist2_rousseaujb_verse_opera *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pan
+**** *creator_rousseaujb *book_rousseaujb_jason *style_verse *genre_opera *dist1_rousseaujb_verse_opera_jason *dist2_rousseaujb_verse_opera *id_PAN *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pan
 
 Un doux repos suspend les troubles de la guerre
 Dans nos tranquilles champs les jeux vont revenir;
@@ -47,7 +47,7 @@ Et contre leurs propres remparts
 Tourner la fureur de leurs armes.
 
 
-**** *creator_rousseaujb *book_rousseaujb_jason *style_verse *genre_opera *dist1_rousseaujb_verse_opera_jason *dist2_rousseaujb_verse_opera *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_medee
+**** *creator_rousseaujb *book_rousseaujb_jason *style_verse *genre_opera *dist1_rousseaujb_verse_opera_jason *dist2_rousseaujb_verse_opera *id_MEDEE *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_medee
 
 Je ne viens point, par un indigne effroi
 Arrêter en ces lieux l'ardeur qui vous anime ;
@@ -309,7 +309,7 @@ Je t'offre la Toison, et, je vais dans la Grèce,
 Par ce gage éclatant racheter ton retour.
 
 
-**** *creator_rousseaujb *book_rousseaujb_jason *style_verse *genre_opera *dist1_rousseaujb_verse_opera_jason *dist2_rousseaujb_verse_opera *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jason
+**** *creator_rousseaujb *book_rousseaujb_jason *style_verse *genre_opera *dist1_rousseaujb_verse_opera_jason *dist2_rousseaujb_verse_opera *id_JASON *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jason
 
 Au milieu des horreurs d'une guerre effroyable,
 Dois-je accabler encore un roi trop déplorable,
@@ -537,7 +537,7 @@ Partons et que bientôt ma mort
 Succède à la douceur de venger ce que j'aime.
 
 
-**** *creator_rousseaujb *book_rousseaujb_jason *style_verse *genre_opera *dist1_rousseaujb_verse_opera_jason *dist2_rousseaujb_verse_opera *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orphee
+**** *creator_rousseaujb *book_rousseaujb_jason *style_verse *genre_opera *dist1_rousseaujb_verse_opera_jason *dist2_rousseaujb_verse_opera *id_ORPHEE *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orphee
 
 C'est trop garder un timide silence
 Nos Grecs, si longtemps abusés,
@@ -596,7 +596,7 @@ Embarquons-nous, venez, le temps nous presse.
 Partons, éloignons-nous de ces funestes bords.
 
 
-**** *creator_rousseaujb *book_rousseaujb_jason *style_verse *genre_opera *dist1_rousseaujb_verse_opera_jason *dist2_rousseaujb_verse_opera *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hypsipile
+**** *creator_rousseaujb *book_rousseaujb_jason *style_verse *genre_opera *dist1_rousseaujb_verse_opera_jason *dist2_rousseaujb_verse_opera *id_HYPSIPILE *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hypsipile
 
 Enfin je vous revois et mon âme interdite...
 Que vois-je ? Et quelle est ma douleur ?

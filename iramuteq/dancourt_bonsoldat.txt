@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_bonsoldat *style_verse *genre_comedy *dist1_dancourt_verse_comedy_bonsoldat *dist2_dancourt_verse_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+**** *creator_dancourt *book_dancourt_bonsoldat *style_verse *genre_comedy *dist1_dancourt_verse_comedy_bonsoldat *dist2_dancourt_verse_comedy *id_ANGELIQUE *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
 Quoi, d'un jaloux vieillard je me verrais la femme ?
 Jacinte, nous aimons l'honnête liberté,
@@ -249,7 +249,7 @@ Que comme un tourbillon il sorte de ces lieux,
 Je tournerai le dos, ou fermerai les yeux.
 
 
-**** *creator_dancourt *book_dancourt_bonsoldat *style_verse *genre_comedy *dist1_dancourt_verse_comedy_bonsoldat *dist2_dancourt_verse_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jacinte
+**** *creator_dancourt *book_dancourt_bonsoldat *style_verse *genre_comedy *dist1_dancourt_verse_comedy_bonsoldat *dist2_dancourt_verse_comedy *id_JACINTE *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jacinte
 
 Il faut au pis-aller s'y résoudre, Madame.
 
@@ -464,7 +464,7 @@ Je ne suis pas d'humeur à vous déguiser rien.
 Et je vous parle franc.
 
 
-**** *creator_dancourt *book_dancourt_bonsoldat *style_verse *genre_comedy *dist1_dancourt_verse_comedy_bonsoldat *dist2_dancourt_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+**** *creator_dancourt *book_dancourt_bonsoldat *style_verse *genre_comedy *dist1_dancourt_verse_comedy_bonsoldat *dist2_dancourt_verse_comedy *id_LEANDRE *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
 
 Madame, vous voyez ce que j'ose entreprendre,
 Mais si vous ne m'aimez, que deviendra Léandre ?
@@ -503,7 +503,7 @@ Angélique venez vous jeter dans mes bras,
 Suivez-moi tous.
 
 
-**** *creator_dancourt *book_dancourt_bonsoldat *style_verse *genre_comedy *dist1_dancourt_verse_comedy_bonsoldat *dist2_dancourt_verse_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jocrisse
+**** *creator_dancourt *book_dancourt_bonsoldat *style_verse *genre_comedy *dist1_dancourt_verse_comedy_bonsoldat *dist2_dancourt_verse_comedy *id_JOCRISSE *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jocrisse
 
 Il enrage,
 Votre papier, je pense, était un sorcelage,

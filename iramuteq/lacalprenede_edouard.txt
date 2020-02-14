@@ -1,6 +1,6 @@
 
 
-**** *creator_lacalprenede *book_lacalprenede_edouard *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_edouard *dist2_lacalprenede_verse_tragedy *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_edouard
+**** *creator_lacalprenede *book_lacalprenede_edouard *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_edouard *dist2_lacalprenede_verse_tragedy *id_EDOUARD *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_edouard
 
 Adorable sujet d'une immortelle flamme,
 Qui tiens seule aujourd'hui l'empire de mon âme,
@@ -992,7 +992,7 @@ Et me donnant à vous je vous donne ma foi,
 Que vous allez régner sur mon peuple et sur moi.
 
 
-**** *creator_lacalprenede *book_lacalprenede_edouard *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_edouard *dist2_lacalprenede_verse_tragedy *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_elips
+**** *creator_lacalprenede *book_lacalprenede_edouard *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_edouard *dist2_lacalprenede_verse_tragedy *id_ELIPS *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_elips
 
 Sire, je reconnais l'honneur que vous me faites
 Avec tout le respect que vos moindres sujettes
@@ -1383,7 +1383,7 @@ Je vous rendrai toujours.
 Oui, Sire, j'obéis, comme je le dois faire.
 
 
-**** *creator_lacalprenede *book_lacalprenede_edouard *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_edouard *dist2_lacalprenede_verse_tragedy *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_warwick
+**** *creator_lacalprenede *book_lacalprenede_edouard *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_edouard *dist2_lacalprenede_verse_tragedy *id_WARWICK *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_warwick
 
       Le Roi semble surpris,
 Sans doute quelque trouble agite ses esprits,
@@ -1620,7 +1620,7 @@ Ni comprendre l'honneur q'on fait à ma famille,
 Ni savoir qui je suis, ni connaître ma fille.
 
 
-**** *creator_lacalprenede *book_lacalprenede_edouard *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_edouard *dist2_lacalprenede_verse_tragedy *date_1638 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+**** *creator_lacalprenede *book_lacalprenede_edouard *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_edouard *dist2_lacalprenede_verse_tragedy *id_ISABELLE *date_1638 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
 
 Je le prévoyais bien que cette amour naissante,
 Par la suite du temps deviendrait plus puissante,
@@ -1781,7 +1781,7 @@ Ne m'étant pas séant de le faire en personne.
 Mais songez bien, Adieu.
 
 
-**** *creator_lacalprenede *book_lacalprenede_edouard *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_edouard *dist2_lacalprenede_verse_tragedy *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mortimer
+**** *creator_lacalprenede *book_lacalprenede_edouard *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_edouard *dist2_lacalprenede_verse_tragedy *id_MORTIMER *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mortimer
 
 Après tant de faveurs dont vous comblez mon âme,
 Comment pourra répondre un esprit tout de flamme
@@ -1925,7 +1925,7 @@ J'attaquai l'innocence et la seule vertu,
 Mais j'avais un dessein.
 
 
-**** *creator_lacalprenede *book_lacalprenede_edouard *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_edouard *dist2_lacalprenede_verse_tragedy *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_norfolk
+**** *creator_lacalprenede *book_lacalprenede_edouard *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_edouard *dist2_lacalprenede_verse_tragedy *id_NORFOLK *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_norfolk
 
 De quelque affection que votre âme s'emporte,
 Votre animosité me semble un peu trop forte,

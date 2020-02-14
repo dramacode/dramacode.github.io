@@ -1,6 +1,6 @@
 
 
-**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *date_1624 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_meleagre
+**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_meleagre *date_1624 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_meleagre
 
 Fille de Jupiter, Déesse trois fois grande,
 Au Ciel, dans les forests, & où Pluton commande,
@@ -398,7 +398,7 @@ Secourez mes amis votre Roy vistement⁎,
 Où la parque le va ravir tacitement⁎.
 
 
-**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *date_1624 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_atalante
+**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_atalante *date_1624 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_atalante
 
 Compagnes, n'estimez qu'où la gloire convie,
 Je refuse jamais de prodiguer ma vie,
@@ -600,7 +600,7 @@ Que mon époux sauvé, tu ne m'épargnes pas,
 A l'effroyable horreur du plus cruel trépas.
 
 
-**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *date_1624 *sexe_neutre *age_sans-age *statut_serviteur *fonction_autres *role_chŒurdefilles
+**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_chŒur-de-filles *date_1624 *sexe_neutre *age_sans-age *statut_serviteur *fonction_autres *role_chŒurdefilles
 
 Merveille de nos jours, que l'univers adore,
 Phoenix⁎ que la vertu ne sçauroit plus éclore,
@@ -639,7 +639,7 @@ Non que la peur luy fit de visage changer,
 Nous seules sans couleur tremblantes du danger.
 
 
-**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *date_1624 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thesee
+**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_thesee *date_1624 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thesee
 
 Venus à ton secours, juge si telle bande,
 Peut le monstre deffait⁎ accomplir ta demande,
@@ -697,7 +697,7 @@ Elle ne porte plus ses agreables fruits
 Dedans le champ ingrat de l'envie produits.
 
 
-**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *date_1624 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pirithois
+**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_pirithois *date_1624 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pirithois
 
 Monarque Ætolien ta valeur indomtée,
 Au suprême degré de la gloire montée,
@@ -738,7 +738,7 @@ En quelque privilege, ou remarque d'honneur,
 Ainsy la comblez-vous de joye, & de bon-heur.
 
 
-**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *date_1624 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_plexippe
+**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_plexippe *date_1624 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_plexippe
 
 Entre ces clairs soleils de vaillance⁎ guerriere,
 L'honneur ne nous permet de demeurer derrière,
@@ -850,7 +850,7 @@ Fuy mon frere, je tombe au gouffre Acherontide,
 Ce suprême sanglot pousse l'âme dehors.
 
 
-**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *date_1624 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_toxee
+**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_toxee *date_1624 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_toxee
 
 Le cheval genereux en la plaine piquer,
 Est sa peine, dit-on, superfluë appliquer,
@@ -938,7 +938,7 @@ Le Ciel, le juste Ciel, quelque vengeur nous garde,
 Qui sur ta teste un jour, & dessur⁎ ta paillarde⁎.
 
 
-**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *date_1624 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_idmon
+**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_idmon *date_1624 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_idmon
 
 Oüy, Sire, & m'a prié de l'excuser, si lasse,
 Que ses foibles genous tremblotans sur la place,
@@ -976,7 +976,7 @@ Qui Niobe soudain convertie en rocher,
 Ne sçauroit jamais plus de larmes étancher.
 
 
-**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *date_1624 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_altee
+**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_altee *date_1624 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_altee
 
 Implacables fureurs, que redoute l'Averne,
 A ma plainte quitez votre horrible caverne,
@@ -1111,7 +1111,7 @@ Où dans peu, votre düeil precipite mes pas,
 Car de vivre sans vous, m'est pis que le trépas.
 
 
-**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *date_1624 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_nourice
+**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_nourice *date_1624 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_nourice
 
 Moderez le courous épris dedans votre âme,
 Perilleux conseiller, à qui le croit, Madame,
@@ -1171,7 +1171,7 @@ Madame, parlez mieux, quelle rage incensée,
 Poursuit à vous troubler la brutale pensée ?
 
 
-**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *date_1624 *sexe_neutre *age_sans-age *statut_serviteur *fonction_autres *role_chŒur
+**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_chŒur *date_1624 *sexe_neutre *age_sans-age *statut_serviteur *fonction_autres *role_chŒur
 
 Helas ! mille ont passé l'irrepassable⁎ fleuve,
 Qui trop avantureux firent la même épreuve,
@@ -1259,7 +1259,7 @@ Qui débiles⁎ pour toy ne portons d'autres armes,
 Que de sçavoir méler les prieres aux larmes.
 
 
-**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *date_1624 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_messager
+**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_messager *date_1624 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_messager
 
 Citoyens, qu'on éleve un long io⁎ de joye,
 Le monstrueux sanglier demeure notre proye,

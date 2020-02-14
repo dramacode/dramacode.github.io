@@ -1,6 +1,6 @@
 
 
-**** *creator_carbondeflins *book_carbondeflins_maridirecteur *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_maridirecteur *dist2_carbondeflins_verse_comedy *date_1791 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_labbesse
+**** *creator_carbondeflins *book_carbondeflins_maridirecteur *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_maridirecteur *dist2_carbondeflins_verse_comedy *id_LABBESSE *date_1791 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_labbesse
 
       Arrêtez, malheureux.
 Ce n'est qu'avec l'horreur que je vous vois tous deux ;
@@ -70,7 +70,7 @@ Il n'est point de sacrifice
 Qu'on ne fasse à la liberté.
 
 
-**** *creator_carbondeflins *book_carbondeflins_maridirecteur *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_maridirecteur *dist2_carbondeflins_verse_comedy *date_1791 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_agnes
+**** *creator_carbondeflins *book_carbondeflins_maridirecteur *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_maridirecteur *dist2_carbondeflins_verse_comedy *id_AGNES *date_1791 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_agnes
 
 Vous voyez.
 
@@ -143,7 +143,7 @@ C'est pour l'engager encore,
 Que je reprends, ma liberté.
 
 
-**** *creator_carbondeflins *book_carbondeflins_maridirecteur *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_maridirecteur *dist2_carbondeflins_verse_comedy *date_1791 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_theotime
+**** *creator_carbondeflins *book_carbondeflins_maridirecteur *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_maridirecteur *dist2_carbondeflins_verse_comedy *id_THEOTIME *date_1791 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_theotime
 
       Attendons.
 
@@ -199,7 +199,7 @@ Obéir à ce qu'on aime
 Vaut bien mieux que la liberté.
 
 
-**** *creator_carbondeflins *book_carbondeflins_maridirecteur *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_maridirecteur *dist2_carbondeflins_verse_comedy *date_1791 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gabriel
+**** *creator_carbondeflins *book_carbondeflins_maridirecteur *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_maridirecteur *dist2_carbondeflins_verse_comedy *id_GABRIEL *date_1791 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gabriel
 
 Pourquoi me fuyez-vous ?
 
@@ -240,7 +240,7 @@ Leur envoyer bientôt, des chapeaux à la mode.
 Mesdames, vous voyez si je m'étais trompé.
 
 
-**** *creator_carbondeflins *book_carbondeflins_maridirecteur *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_maridirecteur *dist2_carbondeflins_verse_comedy *date_1791 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_seraphin
+**** *creator_carbondeflins *book_carbondeflins_maridirecteur *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_maridirecteur *dist2_carbondeflins_verse_comedy *id_SERAPHIN *date_1791 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_seraphin
 
 La raison nous absout.
 
@@ -290,7 +290,7 @@ Et nous leur devons en France
 L'exemple de la liberté.
 
 
-**** *creator_carbondeflins *book_carbondeflins_maridirecteur *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_maridirecteur *dist2_carbondeflins_verse_comedy *date_1791 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicolas
+**** *creator_carbondeflins *book_carbondeflins_maridirecteur *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_maridirecteur *dist2_carbondeflins_verse_comedy *id_NICOLAS *date_1791 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicolas
 
       Je viens avertir
 Qu'il faut ici qu'on déménage ;
@@ -359,7 +359,7 @@ Les services constants d'un pauvre jardinier.
 Jeunesse est généreuse, et vieillesse est ingrate.
 
 
-**** *creator_carbondeflins *book_carbondeflins_maridirecteur *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_maridirecteur *dist2_carbondeflins_verse_comedy *date_1791 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorval
+**** *creator_carbondeflins *book_carbondeflins_maridirecteur *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_maridirecteur *dist2_carbondeflins_verse_comedy *id_DORVAL *date_1791 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorval
 
 Je viens remplir un ministère,
 Qui peut-être agréable, et qui ne peut déplaire.
@@ -586,7 +586,7 @@ Théotime est honnête, et moi je suis bon père.
 Il est aimé d'Agnès, je lui donne sa main.
 
 
-**** *creator_carbondeflins *book_carbondeflins_maridirecteur *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_maridirecteur *dist2_carbondeflins_verse_comedy *date_1791 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedorval
+**** *creator_carbondeflins *book_carbondeflins_maridirecteur *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_maridirecteur *dist2_carbondeflins_verse_comedy *id_MADAMEDORVAL *date_1791 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedorval
 
 Mon père, avec respect je viens vous consulter.
 

@@ -1,6 +1,6 @@
 
 
-**** *creator_marivaux *book_marivaux_mereconfidente *style_prose *genre_comedy *dist1_marivaux_prose_comedy_mereconfidente *dist2_marivaux_prose_comedy *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameargante
+**** *creator_marivaux *book_marivaux_mereconfidente *style_prose *genre_comedy *dist1_marivaux_prose_comedy_mereconfidente *dist2_marivaux_prose_comedy *id_MADAMEARGANTE *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameargante
 
 Ah ! C'est toi, Lubin, tu es tout seul ? Il me semblait avoir entendu du monde.
 
@@ -255,7 +255,7 @@ Je lui pardonne ; que nos jeunes gens la récompensent, mais qu'ils s'en défass
 Je t'accorde les deux.
 
 
-**** *creator_marivaux *book_marivaux_mereconfidente *style_prose *genre_comedy *dist1_marivaux_prose_comedy_mereconfidente *dist2_marivaux_prose_comedy *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+**** *creator_marivaux *book_marivaux_mereconfidente *style_prose *genre_comedy *dist1_marivaux_prose_comedy_mereconfidente *dist2_marivaux_prose_comedy *id_ANGELIQUE *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
 C'est qu'il est arrivé du monde à qui j'ai tenu compagnie. Eh bien ! Lisette, as-tu quelque chose à me dire de Dorante ? As-tu parlé de lui à la concierge du château où il est ?
 
@@ -644,7 +644,7 @@ Je vous suis obligée, Monsieur ; ma mère n'est pas pressée de me marier.
 Ah ! Que nous avons d'excuses à lui faire !
 
 
-**** *creator_marivaux *book_marivaux_mereconfidente *style_prose *genre_comedy *dist1_marivaux_prose_comedy_mereconfidente *dist2_marivaux_prose_comedy *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_marivaux *book_marivaux_mereconfidente *style_prose *genre_comedy *dist1_marivaux_prose_comedy_mereconfidente *dist2_marivaux_prose_comedy *id_LISETTE *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Elle arrivera bientôt, elle est avec sa mère, je lui ai dit que j'allais toujours devant, et je ne me suis hâtée que pour avoir avec vous un moment d'entretien, sans qu'elle le sache.
 
@@ -889,7 +889,7 @@ Pour vous, Madame, ne vous faites pas un monstre de votre fuite. Que peut-on vou
 Oh !
 
 
-**** *creator_marivaux *book_marivaux_mereconfidente *style_prose *genre_comedy *dist1_marivaux_prose_comedy_mereconfidente *dist2_marivaux_prose_comedy *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+**** *creator_marivaux *book_marivaux_mereconfidente *style_prose *genre_comedy *dist1_marivaux_prose_comedy_mereconfidente *dist2_marivaux_prose_comedy *id_DORANTE *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
 
 Quoi ! Vous venez sans Angélique, Lisette ?
 
@@ -1174,7 +1174,7 @@ Je suis si pénétré de respect...
 Eh ! Monsieur, comment payer vos bienfaits ?
 
 
-**** *creator_marivaux *book_marivaux_mereconfidente *style_prose *genre_comedy *dist1_marivaux_prose_comedy_mereconfidente *dist2_marivaux_prose_comedy *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ergaste
+**** *creator_marivaux *book_marivaux_mereconfidente *style_prose *genre_comedy *dist1_marivaux_prose_comedy_mereconfidente *dist2_marivaux_prose_comedy *id_ERGASTE *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ergaste
 
 Je suis votre serviteur, Madame ; je devance Madame votre mère, qui est embarrassée, elle m'a dit que vous vous promeniez.
 
@@ -1284,7 +1284,7 @@ Je vais vous le dire, Madame, c'est mon neveu, le jeune homme dont je vous parle
 Point de remerciements. Ne vous avais-je pas promis qu'Angélique n'épouserait pas un homme sans bien ? Je n'ai plus qu'une chose à dire : j'intercède pour Lisette, et je demande sa grâce.
 
 
-**** *creator_marivaux *book_marivaux_mereconfidente *style_prose *genre_comedy *dist1_marivaux_prose_comedy_mereconfidente *dist2_marivaux_prose_comedy *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lubin
+**** *creator_marivaux *book_marivaux_mereconfidente *style_prose *genre_comedy *dist1_marivaux_prose_comedy_mereconfidente *dist2_marivaux_prose_comedy *id_LUBIN *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lubin
 
 Moi ? D'abord je faisais une promenade, à présent je regarde.
 

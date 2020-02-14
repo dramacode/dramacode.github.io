@@ -1,6 +1,6 @@
 
 
-**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cydalise
+**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *id_CYDALISE *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cydalise
 
       Retirez-vous, Marton.
 Prenez mes clés, allez renfermer mon Platon .
@@ -442,7 +442,7 @@ Je reconnais mes torts, que ton coeur les oublie ;
 Je les répare tous en te donnant Damis.
 
 
-**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosalie
+**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *id_ROSALIE *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosalie
 
 Doutez-vous que le mien en soit moins pénétré ?
 Je vois avec douleur ce changement extrême,
@@ -543,7 +543,7 @@ Oui, si tu réussis ; mais qui m'en répondra ?
 Tous mes voeux sont remplis, le ciel me rend ma mère.
 
 
-**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
+**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *id_DAMIS *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
 
 Non, je ne reviens pas d'un semblable vertige.
 Rompre un hymen conclu !
@@ -791,7 +791,7 @@ Et ce n'est plus à vous, madame, de vous plaindre.
 Vous trouverez en moi les sentimens d'un fils.
 
 
-**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *id_VALERE *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
 
 Frontin.
 
@@ -1105,7 +1105,7 @@ Que lui dire ? Sortons.
 Ah ! Malheureux !
 
 
-**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_theophraste
+**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *id_THEOPHRASTE *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_theophraste
 
 Hé ! Bien, le mariage est enfin décidé ?
 
@@ -1193,7 +1193,7 @@ On juge ici, monsieur, l'homme par ce qu'il vaut,
 Et non par les habits.
 
 
-**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dortidius
+**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *id_DORTIDIUS *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dortidius
 
 Parbleu, j'en suis ravi.
 
@@ -1292,7 +1292,7 @@ Peut-être qu'il attend.
 Mais nous y sommes faits.
 
 
-**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
+**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *id_MARTON *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
 
       Tout est changé, vous dis-je.
 
@@ -1610,7 +1610,7 @@ Des sages de nos jours nous distinguons les traits :
 Nous démasquons les faux, et respectons les vrais.
 
 
-**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
+**** *creator_palissot *book_palissot_philosophes *style_verse *genre_comedy *dist1_palissot_verse_comedy_philosophes *dist2_palissot_verse_comedy *id_CRISPIN *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
 
 Hé ! Bien, cette démarche a-t-elle eu d'heureux fruits ?
 Épousons-nous, Monsieur ? Cydalise, sans doute...

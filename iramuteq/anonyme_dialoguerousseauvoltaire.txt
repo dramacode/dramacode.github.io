@@ -1,6 +1,6 @@
 
 
-**** *creator_anonyme *book_anonyme_dialoguerousseauvoltaire *style_verse *genre_comedy *dist1_anonyme_verse_comedy_dialoguerousseauvoltaire *dist2_anonyme_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_voltaire
+**** *creator_anonyme *book_anonyme_dialoguerousseauvoltaire *style_verse *genre_comedy *dist1_anonyme_verse_comedy_dialoguerousseauvoltaire *dist2_anonyme_verse_comedy *id_VOLTAIRE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_voltaire
 
 Eh ! Quoi, vous voilà, Monsieur Rousseau !
 
@@ -77,7 +77,7 @@ Que, de privations offertes à la gloire,
 Sans savoir si l'on vit au Temple de Mémoire !
 
 
-**** *creator_anonyme *book_anonyme_dialoguerousseauvoltaire *style_verse *genre_comedy *dist1_anonyme_verse_comedy_dialoguerousseauvoltaire *dist2_anonyme_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rousseau
+**** *creator_anonyme *book_anonyme_dialoguerousseauvoltaire *style_verse *genre_comedy *dist1_anonyme_verse_comedy_dialoguerousseauvoltaire *dist2_anonyme_verse_comedy *id_ROUSSEAU *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rousseau
 
 Pourquoi ne m'appelez-vous donc plus Jean-Jacques ?
 

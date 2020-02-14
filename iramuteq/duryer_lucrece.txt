@@ -1,6 +1,6 @@
 
 
-**** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tarquin
+**** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *id_TARQUIN *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tarquin
 
 Voit-on rien de pareil à son aveuglement ?
 Tout marié qu'il est il nous parle en amant,
@@ -437,7 +437,7 @@ Libane allons après, sauvons cette insensée,
 Qu'un si prompt désespoir a vivement blessée.
 
 
-**** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_collatin
+**** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *id_COLLATIN *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_collatin
 
 Oui sa vertu mérite un si noble partage,
 Et si l'on me croyait elle aurait davantage :
@@ -682,7 +682,7 @@ Il nous inspire seul de mortelles rigueurs,
 Et tout glacé qu'il est, il enflamme nos cours.
 
 
-**** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucrece
+**** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *id_LUCRECE *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucrece
 
 Il veut déjà partir !
 
@@ -1143,7 +1143,7 @@ Et qu'en baisant la main, qui s'armera pour moi,
 Je vais rendre l'esprit où j'ai donné ma foi.
 
 
-**** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brute
+**** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *id_BRUTE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brute
 
 Ami cet entretien n'est pour moi qu'un mystère
 De qui la nouveauté m'empêche de me taire,
@@ -1471,7 +1471,7 @@ Rome n'attend qu'un bras qui lui rende ses droits,
 Et chasse ses Tyrans du trône de ses Rois.
 
 
-**** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_livie
+**** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *id_LIVIE *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_livie
 
 Ainsi qu'à mes pensers, je puis à mes discours
 Donner auprès de vous un long et libre cours :
@@ -1628,7 +1628,7 @@ Tout est prêt.
 Que le sort est cruel qui les conduit ici !
 
 
-**** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cornelie
+**** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *id_CORNELIE *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cornelie
 
 Si ce que vous pensez peut charger de blâme,
 Vous devez aussitôt l'étouffer dans votre âme.
@@ -1694,7 +1694,7 @@ Tarquin a dit pourtant qu'il était près d'ici.
 Il reviendra sans doute, attendons davantage.
 
 
-**** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_libane
+**** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *id_LIBANE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_libane
 
 À qui sert par Amour toutes offres sont vaines,
 Je vous sers librement même avecques ses chaînes,
@@ -1792,7 +1792,7 @@ Allez donc achever ce que j'ai commencé,
 Et n'abandonnez pas un ouvrage avancé.
 
 
-**** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepere
+**** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *id_LEPERE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepere
 
 Ne t'informe de rien, il ne faut que les voir,
 Leur tristesse m'apprend ce que je veux savoir.

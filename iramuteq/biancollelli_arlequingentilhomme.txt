@@ -1,6 +1,6 @@
 
 
-**** *creator_biancollelli *book_biancollelli_arlequingentilhomme *style_verse *genre_comedy *dist1_biancollelli_verse_comedy_arlequingentilhomme *dist2_biancollelli_verse_comedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledocteur
+**** *creator_biancollelli *book_biancollelli_arlequingentilhomme *style_verse *genre_comedy *dist1_biancollelli_verse_comedy_arlequingentilhomme *dist2_biancollelli_verse_comedy *id_LEDOCTEUR *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledocteur
 
 Permettez, cher ami, que je vous félicite
 Je ne puis qu'admirer votre sage conduite,
@@ -317,7 +317,7 @@ Que les jeux, les plaisirs ici s'assemblent tous,
 Rions, chantons, dansons et réjouissons-nous.
 
 
-**** *creator_biancollelli *book_biancollelli_arlequingentilhomme *style_verse *genre_comedy *dist1_biancollelli_verse_comedy_arlequingentilhomme *dist2_biancollelli_verse_comedy *date_1708 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_isabelle
+**** *creator_biancollelli *book_biancollelli_arlequingentilhomme *style_verse *genre_comedy *dist1_biancollelli_verse_comedy_arlequingentilhomme *dist2_biancollelli_verse_comedy *id_ISABELLE *date_1708 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_isabelle
 
 Avec empressement j'attends mon cher Léandre,
 En ce lieu chaque jour il a soin de se rendre,
@@ -480,7 +480,7 @@ Je vous ai découvert mes tendres sentiments,
 Hâtez-vous de répondre à mes empressements.
 
 
-**** *creator_biancollelli *book_biancollelli_arlequingentilhomme *style_verse *genre_comedy *dist1_biancollelli_verse_comedy_arlequingentilhomme *dist2_biancollelli_verse_comedy *date_1708 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_geronte
+**** *creator_biancollelli *book_biancollelli_arlequingentilhomme *style_verse *genre_comedy *dist1_biancollelli_verse_comedy_arlequingentilhomme *dist2_biancollelli_verse_comedy *id_GERONTE *date_1708 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_geronte
 
 Tous mes voeux sont comblés, et ma joie est extrême
 D'avoir pu contenter une fille que j'aime.
@@ -769,7 +769,7 @@ Attendant le souper nous pouvons profiter.
 Qu'on fasse entrer ici les Bergers et les Bergères
 
 
-**** *creator_biancollelli *book_biancollelli_arlequingentilhomme *style_verse *genre_comedy *dist1_biancollelli_verse_comedy_arlequingentilhomme *dist2_biancollelli_verse_comedy *date_1708 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_leonore
+**** *creator_biancollelli *book_biancollelli_arlequingentilhomme *style_verse *genre_comedy *dist1_biancollelli_verse_comedy_arlequingentilhomme *dist2_biancollelli_verse_comedy *id_LEONORE *date_1708 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_leonore
 
       Ciel qu'est-ce que je vois !
 Ah le vilain magot !
@@ -849,7 +849,7 @@ Mon père de vous seul dépend tout mon bonheur
 Ne tyrannisez point une fidèle ardeur.
 
 
-**** *creator_biancollelli *book_biancollelli_arlequingentilhomme *style_verse *genre_comedy *dist1_biancollelli_verse_comedy_arlequingentilhomme *dist2_biancollelli_verse_comedy *date_1708 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_leandre
+**** *creator_biancollelli *book_biancollelli_arlequingentilhomme *style_verse *genre_comedy *dist1_biancollelli_verse_comedy_arlequingentilhomme *dist2_biancollelli_verse_comedy *id_LEANDRE *date_1708 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_leandre
 
 Hélas ! Il troublerait les plaisirs les plus doux,
 J'adore, tu le sais, la charmante Isabelle,
@@ -1030,7 +1030,7 @@ J'aurai soin de payer.
 Et te prends avec moi.
 
 
-**** *creator_biancollelli *book_biancollelli_arlequingentilhomme *style_verse *genre_comedy *dist1_biancollelli_verse_comedy_arlequingentilhomme *dist2_biancollelli_verse_comedy *date_1708 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_octave
+**** *creator_biancollelli *book_biancollelli_arlequingentilhomme *style_verse *genre_comedy *dist1_biancollelli_verse_comedy_arlequingentilhomme *dist2_biancollelli_verse_comedy *id_OCTAVE *date_1708 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_octave
 
 Nous voici, grâce au Ciel, arrivé à Lyon.
 
@@ -1192,7 +1192,7 @@ Obtienne tout ce qu'il désire,
 Cela peut-être par hasard.
 
 
-**** *creator_biancollelli *book_biancollelli_arlequingentilhomme *style_verse *genre_comedy *dist1_biancollelli_verse_comedy_arlequingentilhomme *dist2_biancollelli_verse_comedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scaramouche
+**** *creator_biancollelli *book_biancollelli_arlequingentilhomme *style_verse *genre_comedy *dist1_biancollelli_verse_comedy_arlequingentilhomme *dist2_biancollelli_verse_comedy *id_SCARAMOUCHE *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scaramouche
 
 Quel vertigo vous prend, mon très illustre maître,
 Vous demeurez ici sans vous faire connaître,
@@ -1388,7 +1388,7 @@ Fasse avec lui quelque sottise
 Cela peut-être par hasard
 
 
-**** *creator_biancollelli *book_biancollelli_arlequingentilhomme *style_verse *genre_comedy *dist1_biancollelli_verse_comedy_arlequingentilhomme *dist2_biancollelli_verse_comedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mezzetin
+**** *creator_biancollelli *book_biancollelli_arlequingentilhomme *style_verse *genre_comedy *dist1_biancollelli_verse_comedy_arlequingentilhomme *dist2_biancollelli_verse_comedy *id_MEZZETIN *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mezzetin
 
 Vous aurez en ce lieu de l'occupation,
 Dans ce charmant pays les filles sont fringantes
@@ -1529,7 +1529,7 @@ Et que de la crasse il se tire,
 Cela peut être par hasard.
 
 
-**** *creator_biancollelli *book_biancollelli_arlequingentilhomme *style_verse *genre_comedy *dist1_biancollelli_verse_comedy_arlequingentilhomme *dist2_biancollelli_verse_comedy *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colombine
+**** *creator_biancollelli *book_biancollelli_arlequingentilhomme *style_verse *genre_comedy *dist1_biancollelli_verse_comedy_arlequingentilhomme *dist2_biancollelli_verse_comedy *id_COLOMBINE *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colombine
 
 Allons, maître faquin, dénichez promptement.
 
@@ -1630,7 +1630,7 @@ Le crocheteur me doit j'ai son habit en gage,
 Il vaut bien dix écus.
 
 
-**** *creator_biancollelli *book_biancollelli_arlequingentilhomme *style_verse *genre_comedy *dist1_biancollelli_verse_comedy_arlequingentilhomme *dist2_biancollelli_verse_comedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+**** *creator_biancollelli *book_biancollelli_arlequingentilhomme *style_verse *genre_comedy *dist1_biancollelli_verse_comedy_arlequingentilhomme *dist2_biancollelli_verse_comedy *id_PIERROT *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
 
 C'est ainsi que l'on traite un méchant garnement,
 Hors d'ici...
@@ -1775,7 +1775,7 @@ Après deux ans de mariage,
 Cela peut-être par hasard.
 
 
-**** *creator_biancollelli *book_biancollelli_arlequingentilhomme *style_verse *genre_comedy *dist1_biancollelli_verse_comedy_arlequingentilhomme *dist2_biancollelli_verse_comedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_biancollelli *book_biancollelli_arlequingentilhomme *style_verse *genre_comedy *dist1_biancollelli_verse_comedy_arlequingentilhomme *dist2_biancollelli_verse_comedy *id_ARLEQUIN *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
       Modérez cette brusque colère,
 Monsieur, que votre main soit un peu plus légère,

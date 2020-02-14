@@ -1,6 +1,6 @@
 
 
-**** *creator_dufresny *book_dufresny_fauxinstinct *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxinstinct *dist2_dufresny_prose_comedy *date_1707 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_levieillard
+**** *creator_dufresny *book_dufresny_fauxinstinct *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxinstinct *dist2_dufresny_prose_comedy *id_LEVIEILLARD *date_1707 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_levieillard
 
 Vous êtes le Nourricier apparemment ?
 
@@ -129,7 +129,7 @@ Il n'y manque rien, mais je songe à demander pardon à ma femme de l'injure que
 J'y consens, mais pour punir ce maraud de nourricier, qui nous a attrapé, il payera les frais de la noce car nous souperons chez lui.
 
 
-**** *creator_dufresny *book_dufresny_fauxinstinct *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxinstinct *dist2_dufresny_prose_comedy *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laveuve
+**** *creator_dufresny *book_dufresny_fauxinstinct *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxinstinct *dist2_dufresny_prose_comedy *id_LAVEUVE *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laveuve
 
 Cela m'a aussi blessé, car le mot de veuve est un coup de poignard pour moi depuis la mort de mon mari.
 
@@ -233,7 +233,7 @@ Je le veux bien, mais il n'y a point ici de Notaire.
 Je suis ravie que Madame soit justifiée.
 
 
-**** *creator_dufresny *book_dufresny_fauxinstinct *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxinstinct *dist2_dufresny_prose_comedy *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lapetitefille
+**** *creator_dufresny *book_dufresny_fauxinstinct *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxinstinct *dist2_dufresny_prose_comedy *id_LAPETITEFILLE *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lapetitefille
 
 Que me voilà aise ! Que me voilà aise !
 
@@ -276,7 +276,7 @@ Je vous dis que ce n'est pas vous qui êtes ma man, vous êtes trop laide et tro
 Ah le méchant papa, j'aime bien mieux l'autre, je m'en vais le chercher.
 
 
-**** *creator_dufresny *book_dufresny_fauxinstinct *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxinstinct *dist2_dufresny_prose_comedy *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+**** *creator_dufresny *book_dufresny_fauxinstinct *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxinstinct *dist2_dufresny_prose_comedy *id_ANGELIQUE *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
 Oui, Toinette.
 
@@ -345,7 +345,7 @@ Peut-on savoir, Madame, de quoi il est question.
 Vous avez aussi offensé Valère, mon oncle.
 
 
-**** *creator_dufresny *book_dufresny_fauxinstinct *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxinstinct *dist2_dufresny_prose_comedy *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+**** *creator_dufresny *book_dufresny_fauxinstinct *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxinstinct *dist2_dufresny_prose_comedy *id_VALERE *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
 
 Ah Ciel ! Vous rencontrer ici, Mademoiselle à huit lieues de Paris, quelle surprise est la mienne !
 
@@ -390,7 +390,7 @@ Il a fait ce qu'il a promis, la bague est à lui.
 Réviendrez-vous de vos préventions contre moi ?
 
 
-**** *creator_dufresny *book_dufresny_fauxinstinct *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxinstinct *dist2_dufresny_prose_comedy *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_toinette
+**** *creator_dufresny *book_dufresny_fauxinstinct *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxinstinct *dist2_dufresny_prose_comedy *id_TOINETTE *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_toinette
 
 Je ne trouve ici ni la nourrisse ni le nourricier ni la petite fille, on dit qu'ils vont revenir, les attendrons-nous là dans leur jardin ?
 
@@ -551,7 +551,7 @@ Qu'est-ce donc Monsieur, est-ce que cela n'est pas dans les formes.
 Il faut les marier au plus vite, afin qu'ils accomplissent le rêve de Monsieur.
 
 
-**** *creator_dufresny *book_dufresny_fauxinstinct *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxinstinct *dist2_dufresny_prose_comedy *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lenourricier
+**** *creator_dufresny *book_dufresny_fauxinstinct *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxinstinct *dist2_dufresny_prose_comedy *id_LENOURRICIER *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lenourricier
 
 Excusez, mon Gentilhomme, si j'interrompons la fortune, si je savions la forteune à qui vous en voulez, et que je pussions vous rendre service...
 
@@ -705,7 +705,7 @@ Ces Messsieurs payeront les frais,
 Jeun n'est pas niais.
 
 
-**** *creator_dufresny *book_dufresny_fauxinstinct *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxinstinct *dist2_dufresny_prose_comedy *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lanourrice
+**** *creator_dufresny *book_dufresny_fauxinstinct *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxinstinct *dist2_dufresny_prose_comedy *id_LANOURRICE *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lanourrice
 
 Tu es toujours en humeur de gognarder, nous avons biau avoir du chagrin, tu bois, tu chantes, tu vas toujours ton train, comme si n'y avait rien à craindre, je suis toute troublée, moi, je voudrais n'avoir jamais nourri les enfants des autres, comment feras-tu asteure vla tout ton esprit à bout.
 

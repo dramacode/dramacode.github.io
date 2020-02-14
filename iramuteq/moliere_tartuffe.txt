@@ -1,6 +1,6 @@
 
 
-**** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *date_1664 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamepernelle
+**** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *id_madame-pernelle *date_1664 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamepernelle
 
 Allons, Flipote, allons ; que d'eux je me délivre.
 
@@ -153,7 +153,7 @@ Je suis toute ébaubie, et je tombe des nues.
       Maintenant je respire.
 
 
-**** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orgon
+**** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *id_orgon *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orgon
 
       Ah, mon Frère, bonjour.
 
@@ -708,7 +708,7 @@ Et par un doux hymen, couronner en Valère,
 La flamme d'un Amant généreux, et sincère.
 
 
-**** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *date_1664 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elmire
+**** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *id_elmire *date_1664 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elmire
 
 Vous marchez d'un tel pas, qu'on a peine à vous suivre.
 
@@ -1006,7 +1006,7 @@ L'Imposteur !
 Favorable succès !
 
 
-**** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *date_1664 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_damis
+**** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *id_damis *date_1664 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_damis
 
 Mais…
 
@@ -1132,7 +1132,7 @@ J'ai peine à me tenir, et la main me démange.
 Comme du Ciel, l'Infâme, impudemment se joue !
 
 
-**** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *date_1664 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_mariane
+**** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *id_mariane *date_1664 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_mariane
 
 Je crois…
 
@@ -1343,7 +1343,7 @@ Et cet emploi pour vous, est fort honnête à prendre.
       Qui l'aurait osé dire ?
 
 
-**** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *date_1664 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_valere
+**** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *id_valere *date_1664 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_valere
 
 On vient de débiter, Madame, une nouvelle,
 Que je ne savais pas, et qui sans doute est belle.
@@ -1489,7 +1489,7 @@ Et ce sont de ces coups que l'on pare en fuyant.
 Et veux accompagner, jusqu'au bout, votre fuite.
 
 
-**** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleante
+**** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *id_cleante *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleante
 
 Mais, Madame, après tout…
 
@@ -1818,7 +1818,7 @@ Tandis qu'à sa bonté vous irez à genoux,
 Rendre ce que demande un traitement si doux.
 
 
-**** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tartuffe
+**** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *id_tartuffe *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tartuffe
 
 Laurent, serrez ma Haire, avec ma Discipline,
 Et priez que toujours le Ciel vous illumine.
@@ -2188,7 +2188,7 @@ Qui, moi, Monsieur ?
       Pourquoi donc la Prison ?
 
 
-**** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *date_1664 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_dorine
+**** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *id_dorine *date_1664 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_dorine
 
 Si…
 
@@ -2695,7 +2695,7 @@ Se faire un beau manteau de tout ce qu'on révère !
 Que le Ciel soit loué !
 
 
-**** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *date_1664 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_loyal
+**** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *id_loyal *date_1664 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_loyal
 
 Bonjour, ma chère Sœur. Faites, je vous supplie,
 Que je parle à Monsieur.

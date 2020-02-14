@@ -1,6 +1,6 @@
 
 
-**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sifroy
+**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *id_SIFROY *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sifroy
 
       Ah !
 
@@ -828,7 +828,7 @@ Sortons donc au plutôt de l'ombre de ce lieu
 Où je veux consacrer un temple à notre Dieu.
 
 
-**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_genevieve
+**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *id_GENEVIEVE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_genevieve
 
 Quittons, cher Bénoni, des demeures si sombres.
 Tirons ton innocence et ma foi de leurs ombres.
@@ -1562,7 +1562,7 @@ Vous, Cléon, empêchez qu'il ne soit mal traité.
 Nous viendrons visiter souvent cet ermitage.
 
 
-**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_benoni
+**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *id_BENONI *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_benoni
 
 Mais dites-moi, Madame, où me conduisez-vous ?
 
@@ -1683,7 +1683,7 @@ Elle fut sans mes soins morte dedans ces bois.
 Vous autres emportez tout ce petit bagage.
 
 
-**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_golo
+**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *id_GOLO *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_golo
 
 Seigneur, que faites-vous ?
 
@@ -1935,7 +1935,7 @@ Empêcher seulement un jour votre mémoire
 De détester l'auteur d'une action si noire.
 
 
-**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_orismond
+**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *id_ORISMOND *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_orismond
 
 Geneviève ?
 
@@ -2288,7 +2288,7 @@ Vengez son innocence et vengez votre honneur.
 Je l'entends qui approche.
 
 
-**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisandre
+**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *id_LISANDRE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisandre
 
 Vous allez voir, Cléon, l'action la plus noire
 Mais je veux qu'Orismond ait part à cette histoire.
@@ -2560,7 +2560,7 @@ Tous vos chevaux sont proches au bas de cette roche,
 Il est temps d'en sortir, déjà midi s'approche.
 
 
-**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleon
+**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *id_CLEON *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleon
 
 Orismond, qu'est ceci ? Ô Dieu c'est de la main.
 
@@ -2695,7 +2695,7 @@ Ah ! Qu'Orismond nous a ravissamment surpris ;
 Et qu'il pouvait bien plus qu'il n'osait nous promettre.
 
 
-**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leris
+**** *creator_aure *book_aure_genevieve69 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve69 *dist2_aure_verse_tragedy *id_LERIS *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leris
 
 Le Comte est-il tout seul ?
 

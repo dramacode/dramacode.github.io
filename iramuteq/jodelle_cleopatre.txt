@@ -1,6 +1,6 @@
 
 
-**** *creator_jodelle *book_jodelle_cleopatre *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_cleopatre *dist2_jodelle_verse_tragedy *date_1574 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleopatre
+**** *creator_jodelle *book_jodelle_cleopatre *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_cleopatre *dist2_jodelle_verse_tragedy *id_CLEOPATRE *date_1574 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleopatre
 
 Que gagnez-vous hélas ! En la parole vaine ?
 
@@ -358,7 +358,7 @@ Allons donc chères soeurs, et prenons doucement
 De nos tristes malheurs l'heureux allègement.
 
 
-**** *creator_jodelle *book_jodelle_cleopatre *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_cleopatre *dist2_jodelle_verse_tragedy *date_1574 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eras
+**** *creator_jodelle *book_jodelle_cleopatre *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_cleopatre *dist2_jodelle_verse_tragedy *id_ERAS *date_1574 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eras
 
 Que gagnez-vous hélas ! de vous être inhumaine ?
 
@@ -412,7 +412,7 @@ Est-il si ferme esprit, qui presque ne s'envole
 Au piteux écouter de si triste parole ?
 
 
-**** *creator_jodelle *book_jodelle_cleopatre *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_cleopatre *dist2_jodelle_verse_tragedy *date_1574 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_charmium
+**** *creator_jodelle *book_jodelle_cleopatre *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_cleopatre *dist2_jodelle_verse_tragedy *id_CHARMIUM *date_1574 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_charmium
 
       Mais quel malaise
 Pourrait être plus grand ?
@@ -461,7 +461,7 @@ Où la mort a caché de son ami les os.
 L'homme n'est point heureux tant qu'un cercueil l'enserre.
 
 
-**** *creator_jodelle *book_jodelle_cleopatre *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_cleopatre *dist2_jodelle_verse_tragedy *date_1574 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_proculee
+**** *creator_jodelle *book_jodelle_cleopatre *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_cleopatre *dist2_jodelle_verse_tragedy *id_PROCULEE *date_1574 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_proculee
 
       L'orgueil et la bravade
 Ont fait Antoine ainsi qu'un Ancelade,
@@ -629,7 +629,7 @@ Mais tant y a qu'il faut que l'espérance
 Que nous avions, cède à cette constance ?
 
 
-**** *creator_jodelle *book_jodelle_cleopatre *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_cleopatre *dist2_jodelle_verse_tragedy *date_1574 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_seleuque
+**** *creator_jodelle *book_jodelle_cleopatre *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_cleopatre *dist2_jodelle_verse_tragedy *id_SELEUQUE *date_1574 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_seleuque
 
 Comment, César, si l'humble petitesse
 Ose adresser sa voix à sa hautesse,

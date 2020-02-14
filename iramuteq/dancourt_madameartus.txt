@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_madameartus *style_verse *genre_comedy *dist1_dancourt_verse_comedy_madameartus *dist2_dancourt_verse_comedy *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameartus
+**** *creator_dancourt *book_dancourt_madameartus *style_verse *genre_comedy *dist1_dancourt_verse_comedy_madameartus *dist2_dancourt_verse_comedy *id_MADAMEARTUS *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameartus
 
 Faîtes la révérence à Madame. Voilà
 Cette charmante enfant, dont hier on nous parla,
@@ -325,7 +325,7 @@ Monsieur ?
 Ciel !
 
 
-**** *creator_dancourt *book_dancourt_madameartus *style_verse *genre_comedy *dist1_dancourt_verse_comedy_madameartus *dist2_dancourt_verse_comedy *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameargante
+**** *creator_dancourt *book_dancourt_madameartus *style_verse *genre_comedy *dist1_dancourt_verse_comedy_madameartus *dist2_dancourt_verse_comedy *id_MADAMEARGANTE *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameargante
 
 C'est vous ? Vous n'étiez pas seule ici tout à l'heure.
 
@@ -626,7 +626,7 @@ De mon faible pour vous voyez quel est le fruit ;
 Et sortez de chez moi sans éclat et sans bruit.
 
 
-**** *creator_dancourt *book_dancourt_madameartus *style_verse *genre_comedy *dist1_dancourt_verse_comedy_madameartus *dist2_dancourt_verse_comedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
+**** *creator_dancourt *book_dancourt_madameartus *style_verse *genre_comedy *dist1_dancourt_verse_comedy_madameartus *dist2_dancourt_verse_comedy *id_DAMIS *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
 
       Serviteur, mon neveu.
 
@@ -831,7 +831,7 @@ Du vôtre ? Hé fi, ma sœur !
       Sans doute.
 
 
-**** *creator_dancourt *book_dancourt_madameartus *style_verse *genre_comedy *dist1_dancourt_verse_comedy_madameartus *dist2_dancourt_verse_comedy *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celide
+**** *creator_dancourt *book_dancourt_madameartus *style_verse *genre_comedy *dist1_dancourt_verse_comedy_madameartus *dist2_dancourt_verse_comedy *id_CELIDE *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celide
 
       Je n'en croirai, Monsieur, que mon dépit.
 Notre oncle…
@@ -1034,7 +1034,7 @@ Madame !
       Oui, mon frère.
 
 
-**** *creator_dancourt *book_dancourt_madameartus *style_verse *genre_comedy *dist1_dancourt_verse_comedy_madameartus *dist2_dancourt_verse_comedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+**** *creator_dancourt *book_dancourt_madameartus *style_verse *genre_comedy *dist1_dancourt_verse_comedy_madameartus *dist2_dancourt_verse_comedy *id_DORANTE *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
 
       Hé bien, Merlin ?
 
@@ -1612,7 +1612,7 @@ Ah ! Demeurez toujours la maîtresse, Madame,
 Vous obéir sera le plus doux de nos vœux.
 
 
-**** *creator_dancourt *book_dancourt_madameartus *style_verse *genre_comedy *dist1_dancourt_verse_comedy_madameartus *dist2_dancourt_verse_comedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+**** *creator_dancourt *book_dancourt_madameartus *style_verse *genre_comedy *dist1_dancourt_verse_comedy_madameartus *dist2_dancourt_verse_comedy *id_ERASTE *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
 
 Je croyais vous trouver dans votre appartement,
 Madame, et je passais à celui de Dorante.
@@ -1870,7 +1870,7 @@ Je t'en ai quelquefois ouï parler, ce me semble.
 J'attends…
 
 
-**** *creator_dancourt *book_dancourt_madameartus *style_verse *genre_comedy *dist1_dancourt_verse_comedy_madameartus *dist2_dancourt_verse_comedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurludet
+**** *creator_dancourt *book_dancourt_madameartus *style_verse *genre_comedy *dist1_dancourt_verse_comedy_madameartus *dist2_dancourt_verse_comedy *id_MONSIEURLUDET *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurludet
 
       Ce n'est point à moi qu'il a tenu,
 Monsieur ; mais comme enfin les sommes pas vous dues
@@ -1991,7 +1991,7 @@ Ils étaient l'un et l'autre engagés par promesse,
 Et j'ai suivi leurs feux parce qu'elle ma nièce.
 
 
-**** *creator_dancourt *book_dancourt_madameartus *style_verse *genre_comedy *dist1_dancourt_verse_comedy_madameartus *dist2_dancourt_verse_comedy *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_finette
+**** *creator_dancourt *book_dancourt_madameartus *style_verse *genre_comedy *dist1_dancourt_verse_comedy_madameartus *dist2_dancourt_verse_comedy *id_FINETTE *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_finette
 
       Bonjour, Merlin.
 
@@ -2413,7 +2413,7 @@ Se souvienne toujours que je suis sa servante.
 Quoi ! Dès le premier jour traiter ainsi sa femme !
 
 
-**** *creator_dancourt *book_dancourt_madameartus *style_verse *genre_comedy *dist1_dancourt_verse_comedy_madameartus *dist2_dancourt_verse_comedy *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merlin
+**** *creator_dancourt *book_dancourt_madameartus *style_verse *genre_comedy *dist1_dancourt_verse_comedy_madameartus *dist2_dancourt_verse_comedy *id_MERLIN *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merlin
 
 Ah! Quel peste de train ! Quelle condition !
 Puisse tomber du Ciel la malédiction,

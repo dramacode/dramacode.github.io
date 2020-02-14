@@ -1,6 +1,6 @@
 
 
-**** *creator_crebillon *book_crebillon_semiramis *style_verse *dist1_crebillon_verse__semiramis *dist2_crebillon_verse_ *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_semiramis
+**** *creator_crebillon *book_crebillon_semiramis *style_verse *id_SEMIRAMIS *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_semiramis
 
 Je triomphe, Bélus : une heureuse victoire
 Comblerait aujourd'hui mes désirs et ma gloire,
@@ -425,7 +425,7 @@ Adieu. Puisse ton coeur, content de Ténésis,
 Mon fils, n'y pas trouver une Sémiramis !
 
 
-**** *creator_crebillon *book_crebillon_semiramis *style_verse *dist1_crebillon_verse__semiramis *dist2_crebillon_verse_ *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madate
+**** *creator_crebillon *book_crebillon_semiramis *style_verse *id_MADATE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madate
 
 Et quel secours encor vous en promettez-vous,
 Quand le ciel en fureur éclate contre nous ?
@@ -495,7 +495,7 @@ C'est loin d'ici qu'il faut conjurer un orage
 Que prétendrait en vain braver votre courage.
 
 
-**** *creator_crebillon *book_crebillon_semiramis *style_verse *dist1_crebillon_verse__semiramis *dist2_crebillon_verse_ *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mermecide
+**** *creator_crebillon *book_crebillon_semiramis *style_verse *id_MERMECIDE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mermecide
 
 Plaise au ciel que ce jour qui commence à nous luire
 N'éclaire point du moins le sort le plus affreux
@@ -600,7 +600,7 @@ Voilà ce Ninias si digne de son père,
 Mais à qui les destins devient une autre mère.
 
 
-**** *creator_crebillon *book_crebillon_semiramis *style_verse *dist1_crebillon_verse__semiramis *dist2_crebillon_verse_ *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_tenesis
+**** *creator_crebillon *book_crebillon_semiramis *style_verse *id_TENESIS *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_tenesis
 
 Au grand coeur de Bélus rendez plus de justice :
 Sa vertu n'admet point un si noir artifice.
@@ -910,7 +910,7 @@ C'est l'unique faveur que de vous je désire :
 L'un et l'autre, daignez l'accorder à mes voeux.
 
 
-**** *creator_crebillon *book_crebillon_semiramis *style_verse *dist1_crebillon_verse__semiramis *dist2_crebillon_verse_ *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_agenor
+**** *creator_crebillon *book_crebillon_semiramis *style_verse *id_AGENOR *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_agenor
 
 Où suis-je ? Dans quels lieux la fortune me guide !
 Dieux, que réservez-vous au fils de Mermécide ?
@@ -1343,7 +1343,7 @@ Voulez-vous qu'à vos coups j'abandonne mon père.
 Ma mère !
 
 
-**** *creator_crebillon *book_crebillon_semiramis *style_verse *dist1_crebillon_verse__semiramis *dist2_crebillon_verse_ *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ninias
+**** *creator_crebillon *book_crebillon_semiramis *style_verse *id_NINIAS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ninias
 
 Mermécide, arrêtez : c'est ma mère, et je veux
 Qu'on la respecte autant qu'on respecte les dieux.

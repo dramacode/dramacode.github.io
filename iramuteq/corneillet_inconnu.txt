@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *date_1675 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_thalie
+**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *id_thalie *date_1675 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_thalie
 
 Genie incomparable, Esprit à qui la France                
 Doit les sages Conseils qui la font admirer 
@@ -51,7 +51,7 @@ Que les François ont un Génie
 Qui les rend capables de tout.                
 
 
-**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *date_1675 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_legenie
+**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *id_le-genie *date_1675 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_legenie
 
 Tout, Divine Thalie, & je suis sans excuse,                 
 Si pouvant t'apuyer contre ce qui t'abat,
@@ -108,7 +108,7 @@ L'entreprise est un peu hardie,     
 Mais je n'ay rien promis dont je ne vienne à bout.
 
 
-**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *date_1675 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_lacomtesse
+**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *id_la-comtesse *date_1675 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_lacomtesse
 
 Scavez-vous que Dorante arrive icy ce soir ?
 
@@ -752,7 +752,7 @@ Il est juste, & j'en fais le prix de vostre flame⁎.
 Allons.
 
 
-**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *date_1675 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_olimpe
+**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *id_olimpe *date_1675 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_olimpe
 
       Vous a-t-on fait sçavoir             
 Le petit différent que nous venons d'avoir ?
@@ -1217,7 +1217,7 @@ Si ma Mere y consent, répondez-vous de moy ?
 C'est un Extravagant dont nous sommes défaits.
 
 
-**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *date_1675 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *id_le-marquis *date_1675 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
 
 Entrer dans ce Chasteau !
 
@@ -1656,7 +1656,7 @@ Que ne ferois-je point ?    
       Puisse l'Amour ne nous quiter jamais.
 
 
-**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *date_1675 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *id_le-chevalier *date_1675 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
 
 Madame, apprenez-moy quel espoir m'est permis.            
 Mon chagrin⁎ ne peut plus se forcer au silence ;
@@ -1837,7 +1837,7 @@ Madame, je puis donc prétendre à vostre foy⁎ ?
       La retraite est gaillarde.            
 
 
-**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *date_1675 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levicomte
+**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *id_le-vicomte *date_1675 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levicomte
 
 J'ay pour le convertir, parlé mieux qu'un Docteur,
 Et n'ay pas, Dieu-mercy, mal employé mes peines.
@@ -2068,7 +2068,7 @@ Se charge qui voudra du soin de vos Procés.
 Adieu.
 
 
-**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *date_1675 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lamontagne
+**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *id_la-montagne *date_1675 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lamontagne
 
       Le grand péril !
 
@@ -2151,7 +2151,7 @@ Si m'estant pour ce soir dans le Bourg arresté,
 Je ne vous venois pas faire la revérence.
 
 
-**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *date_1675 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_virgine
+**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *id_virgine *date_1675 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_virgine
 
       Ma Maistresse⁎ est fort embarassée ;
 Et ce que l'Inconnu fait pour la régaler,
@@ -2289,7 +2289,7 @@ Nostre Chevalier ?        
 Il a pû voir pourtant qu'Olimpe…
 
 
-**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *date_1675 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_melisse
+**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *id_melisse *date_1675 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_melisse
 
 Quoy, vous le soufririez⁎ ?
 
@@ -2306,7 +2306,7 @@ Mais souvent…            
 Ainsi le Chevalier n'a plus rien à prétendre ?    
 
 
-**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *date_1675 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomedien
+**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *id_le-comedien *date_1675 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomedien
 
       Je suis Comédien,
 Madame.
@@ -2366,7 +2366,7 @@ Vous la pourrez entendre, elle est preste. Allons viste,
 Ouvrez, & que chacun de son employ s'acquite.                
 
 
-**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *date_1675 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_bohemienne
+**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *id_bohemienne *date_1675 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_bohemienne
 
 Nous ne faisons qu'arriver de Paris,
 Où pour avoir dit des nouvelles
@@ -2442,7 +2442,7 @@ Qui nous doit tenir lieu de tout.    
 Reservez vos présens, & nous laissez aller.
 
 
-**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *date_1675 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcidon
+**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *id_alcidon *date_1675 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcidon
 
 Quoy, vous aimez ailleurs ? vous pouvez me haïr ?        
 A des ordres cruels vous voulez obéir,
@@ -2471,7 +2471,7 @@ Nous condamne à perdre la vie,
 Mourons en disant, aimons-nous.
 
 
-**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *date_1675 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aminte
+**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *id_aminte *date_1675 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aminte
  
 De grace, moderez vos plaintes,
 Je n'ay pas moins d'amour que vous,
@@ -2491,7 +2491,7 @@ Vous avez douté de ma flame⁎.
 Ma foy⁎ vous répondoit de mon amour extréme.                
 
 
-**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *date_1675 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_comus
+**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *id_comus *date_1675 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_comus
 
 Madame, par hazard⁎, si Comus est un Dieu        
 Qui soit de vostre connoissance,                            
@@ -2550,7 +2550,7 @@ Bon-soir, vivez en espérance
 De sortir bientost de soucy.
 
 
-**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lajeunesse
+**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *id_la-jeunesse *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lajeunesse
 
 Quoy que vous nous voyiez ensemble,                
 C'est assez rarement que nous sommes d'accord.
@@ -2622,7 +2622,7 @@ J'accepte cette Bague, attendant l'heureux jour
 Où vous sçaurez pour qui je m'intéresse⁎.
 
 
-**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_vertumne
+**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *id_vertumne *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_vertumne
 
 De quel chagrin⁎, Pomone, as-tu l'ame saisie ?    
  
@@ -2649,7 +2649,7 @@ Ce n'est plus de mesme,    
 Tout est plein d'appas.
 
 
-**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_pomone
+**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *id_pomone *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_pomone
 
 Si Vertumne a des yeux doit-il le demander ?
 Je suis, quoy que Déesse obligée à céder ;    
@@ -2684,7 +2684,7 @@ Rendez-vous au beau feu⁎ qui le presse,
 Vous verrez qu'ils sont pleins de douceur.
 
 
-**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *date_1675 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_zephire
+**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *id_zephire *date_1675 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_zephire
 
 Quoy, tout-de-bon, vous estes en colere
 D'un secret qui ne peut encor se revéler ?
@@ -2758,7 +2758,7 @@ Vous estes la Psyché dont nous voulons parler ;    
 L'Amour en est croyable ; & quand je vous l'amene…
 
 
-**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *date_1675 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_aglaure
+**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *id_aglaure *date_1675 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_aglaure
 
 Oüy, c'est m'offencer, que se taire,
 Quand je cherche à faire parler.                    
@@ -2813,7 +2813,7 @@ De l'inquiétude épargnée.
 J'en attens le succés, adieu.
 
 
-**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *date_1675 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cephise
+**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *id_cephise *date_1675 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cephise
 
 D'où vient, quand on me voit, que l'on vous quite ainsy ?
 
@@ -2901,7 +2901,7 @@ Et cours dire à Psyché…
 J'attens tout de l'Amour, s'il daigne s'en mesler.
 
 
-**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lamour
+**** *creator_corneillet *book_corneillet_inconnu *style_verse *genre_comedy *dist1_corneillet_verse_comedy_inconnu *dist2_corneillet_verse_comedy *id_l-amour *date_1675 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lamour
 
       Vous voyez l'Amour & la Jeunesse,    
 Qui viennent admirer la charmante Comtesse,                

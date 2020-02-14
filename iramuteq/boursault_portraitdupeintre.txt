@@ -1,6 +1,6 @@
 
 
-**** *creator_boursault *book_boursault_portraitdupeintre *style_verse *genre_comedy *dist1_boursault_verse_comedy_portraitdupeintre *dist2_boursault_verse_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
+**** *creator_boursault *book_boursault_portraitdupeintre *style_verse *genre_comedy *dist1_boursault_verse_comedy_portraitdupeintre *dist2_boursault_verse_comedy *id_DAMIS *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
 
 La charmante Clitie est toujours elle-même,
 Toujours l'âme sensible, et le coeur obligeant,
@@ -191,7 +191,7 @@ Un petit dénouement est utile à cela,
 Que faire ?
 
 
-**** *creator_boursault *book_boursault_portraitdupeintre *style_verse *genre_comedy *dist1_boursault_verse_comedy_portraitdupeintre *dist2_boursault_verse_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amarante
+**** *creator_boursault *book_boursault_portraitdupeintre *style_verse *genre_comedy *dist1_boursault_verse_comedy_portraitdupeintre *dist2_boursault_verse_comedy *id_AMARANTE *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amarante
 
       Demeurez pour nous donner des sièges.
 
@@ -353,7 +353,7 @@ Et les plus dégoûtés trouveront des appâts
 Quand après du comique ils auront un repas.
 
 
-**** *creator_boursault *book_boursault_portraitdupeintre *style_verse *genre_comedy *dist1_boursault_verse_comedy_portraitdupeintre *dist2_boursault_verse_comedy *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clitie
+**** *creator_boursault *book_boursault_portraitdupeintre *style_verse *genre_comedy *dist1_boursault_verse_comedy_portraitdupeintre *dist2_boursault_verse_comedy *id_CLITIE *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clitie
 
 Ma Cousine s'habille, et je viens vous apprendre
 Qu'elle a bien du regret de vous tant faire attendre ;
@@ -463,7 +463,7 @@ Je le crois.
       Vivat.
 
 
-**** *creator_boursault *book_boursault_portraitdupeintre *style_verse *genre_comedy *dist1_boursault_verse_comedy_portraitdupeintre *dist2_boursault_verse_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomte
+**** *creator_boursault *book_boursault_portraitdupeintre *style_verse *genre_comedy *dist1_boursault_verse_comedy_portraitdupeintre *dist2_boursault_verse_comedy *id_LECOMTE *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomte
 
 Oh quelqu'un, fait-il jour chez la belle Amarante ?
 Ah, Ah, c'est toi Baron, ne fais pas le surpris ;
@@ -702,7 +702,7 @@ Je le soutiens, Madame, un Butor parisis,
 Une grosse pécore, une pure mazette.
 
 
-**** *creator_boursault *book_boursault_portraitdupeintre *style_verse *genre_comedy *dist1_boursault_verse_comedy_portraitdupeintre *dist2_boursault_verse_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+**** *creator_boursault *book_boursault_portraitdupeintre *style_verse *genre_comedy *dist1_boursault_verse_comedy_portraitdupeintre *dist2_boursault_verse_comedy *id_DORANTE *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
 
       C'est lui !
 Oui, c'est lui !
@@ -886,7 +886,7 @@ Ils ne le feront pas, je te le dis encor,
 Dieu me damne.
 
 
-**** *creator_boursault *book_boursault_portraitdupeintre *style_verse *genre_comedy *dist1_boursault_verse_comedy_portraitdupeintre *dist2_boursault_verse_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oriane
+**** *creator_boursault *book_boursault_portraitdupeintre *style_verse *genre_comedy *dist1_boursault_verse_comedy_portraitdupeintre *dist2_boursault_verse_comedy *id_ORIANE *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oriane
 
 La voit-on, Madame ?
 
@@ -975,7 +975,7 @@ Oui, c'est « Tarte à la crème », et je l'aime d'amour.
 Le mien y serait court, mais assez agréable.
 
 
-**** *creator_boursault *book_boursault_portraitdupeintre *style_verse *genre_comedy *dist1_boursault_verse_comedy_portraitdupeintre *dist2_boursault_verse_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisidor
+**** *creator_boursault *book_boursault_portraitdupeintre *style_verse *genre_comedy *dist1_boursault_verse_comedy_portraitdupeintre *dist2_boursault_verse_comedy *id_LISIDOR *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisidor
 
       Madame, on ne m'en croirait pas ;
 Et puis, d'en bien juger je ne suis pas capable.
@@ -1053,7 +1053,7 @@ Et ce qu'on n'attend pas est toujours surprenant.
 Et le mien, ce me semble y serait assez bon.
 
 
-**** *creator_boursault *book_boursault_portraitdupeintre *style_verse *genre_comedy *dist1_boursault_verse_comedy_portraitdupeintre *dist2_boursault_verse_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_petitjean
+**** *creator_boursault *book_boursault_portraitdupeintre *style_verse *genre_comedy *dist1_boursault_verse_comedy_portraitdupeintre *dist2_boursault_verse_comedy *id_PETITJEAN *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_petitjean
 
       Madame, on vous demande.
 

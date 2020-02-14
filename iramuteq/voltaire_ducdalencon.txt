@@ -1,6 +1,6 @@
 
 
-**** *creator_voltaire *book_voltaire_ducdalencon *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_ducdalencon *dist2_voltaire_verse_tragedy *date_1751 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nemours
+**** *creator_voltaire *book_voltaire_ducdalencon *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_ducdalencon *dist2_voltaire_verse_tragedy *id_NEMOURS *date_1751 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nemours
 
 Enfin, après trois ans, tu me revois, Dangeste !
 Mais en quels lieux, ô ciel ! En quel état funeste !
@@ -181,7 +181,7 @@ Ah ! Ton frère à tes pieds, digne de ta clémence,
 Égale tes bienfaits par sa reconnaissance.
 
 
-**** *creator_voltaire *book_voltaire_ducdalencon *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_ducdalencon *dist2_voltaire_verse_tragedy *date_1751 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dangeste
+**** *creator_voltaire *book_voltaire_ducdalencon *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_ducdalencon *dist2_voltaire_verse_tragedy *id_DANGESTE *date_1751 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dangeste
 
 Seigneur, vous pouvez tout.
 

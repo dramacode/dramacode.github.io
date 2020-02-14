@@ -1,6 +1,6 @@
 
 
-**** *creator_anonyme *book_anonyme_resurrectionjeninlandore *style_verse *genre_farce *dist1_anonyme_verse_farce_resurrectionjeninlandore *dist2_anonyme_verse_farce *date_v.15 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jenin
+**** *creator_anonyme *book_anonyme_resurrectionjeninlandore *style_verse *genre_farce *dist1_anonyme_verse_farce_resurrectionjeninlandore *dist2_anonyme_verse_farce *id_JENIN *date_v.15 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jenin
 
 Bona dies, bona journus.
 A déchiffré par le menu,
@@ -218,7 +218,7 @@ Se j'étais un peu reposé.
 Adieu vous dis. Je prends congé.
 
 
-**** *creator_anonyme *book_anonyme_resurrectionjeninlandore *style_verse *genre_farce *dist1_anonyme_verse_farce_resurrectionjeninlandore *dist2_anonyme_verse_farce *date_v.15 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecure
+**** *creator_anonyme *book_anonyme_resurrectionjeninlandore *style_verse *genre_farce *dist1_anonyme_verse_farce_resurrectionjeninlandore *dist2_anonyme_verse_farce *id_LECURE *date_v.15 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecure
 
 Quand il était enseveli
 Il demandait au clerc à boire.
@@ -276,7 +276,7 @@ Gens qui viennent de paradis
 Sans faute sont tous invisibles.
 
 
-**** *creator_anonyme *book_anonyme_resurrectionjeninlandore *style_verse *genre_farce *dist1_anonyme_verse_farce_resurrectionjeninlandore *dist2_anonyme_verse_farce *date_v.15 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leclerc
+**** *creator_anonyme *book_anonyme_resurrectionjeninlandore *style_verse *genre_farce *dist1_anonyme_verse_farce_resurrectionjeninlandore *dist2_anonyme_verse_farce *id_LECLERC *date_v.15 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leclerc
 
 Toutefois (il) est mort.
 

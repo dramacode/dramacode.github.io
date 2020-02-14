@@ -1,6 +1,6 @@
 
 
-**** *creator_voltaire *book_voltaire_brutus *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_brutus *dist2_voltaire_verse_tragedy *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_titus
+**** *creator_voltaire *book_voltaire_brutus *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_brutus *dist2_voltaire_verse_tragedy *id_TITUS *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_titus
 
 Va, mon cour a ta foi tout entier s'abandonne ;
 Ne me reproche rien.
@@ -405,7 +405,7 @@ Votre fils dans la tombe emporta votre estime.
 Adieu : je vais périr digne encor de mon père.
 
 
-**** *creator_voltaire *book_voltaire_brutus *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_brutus *dist2_voltaire_verse_tragedy *date_1730 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_tullie
+**** *creator_voltaire *book_voltaire_brutus *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_brutus *dist2_voltaire_verse_tragedy *id_TULLIE *date_1730 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_tullie
 
 Dieux ! protégez mon père, et changez son destin !
 « Le trône des Romains peut sortir de sa cendre :
@@ -577,7 +577,7 @@ On peut te soupçonner ; demeure : adieu ; résous
 D'être mon meurtrier ou d'être mon époux.
 
 
-**** *creator_voltaire *book_voltaire_brutus *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_brutus *dist2_voltaire_verse_tragedy *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arons
+**** *creator_voltaire *book_voltaire_brutus *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_brutus *dist2_voltaire_verse_tragedy *id_ARONS *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arons
 
 Consuls, et vous, sénat, qu'il m'est doux d'être admis
 Dans ce conseil sacré de sages ennemis,
@@ -901,7 +901,7 @@ Et chez les nations ce rang inviolable...
 L'ambassadeur d'un roi !..
 
 
-**** *creator_voltaire *book_voltaire_brutus *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_brutus *dist2_voltaire_verse_tragedy *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_messala
+**** *creator_voltaire *book_voltaire_brutus *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_brutus *dist2_voltaire_verse_tragedy *id_MESSALA *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_messala
 
 Ils osent s'en vanter ; mais leur feinte justice,
 Leur âpre austérité que rien ne peut gagner,
@@ -1206,7 +1206,7 @@ Voile nos grands desseins du secret de son ombre.
 Ah ! quel désordre affreux de son âme s'empare !
 
 
-**** *creator_voltaire *book_voltaire_brutus *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_brutus *dist2_voltaire_verse_tragedy *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_proculus
+**** *creator_voltaire *book_voltaire_brutus *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_brutus *dist2_voltaire_verse_tragedy *id_PROCULUS *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_proculus
 
       Un esclave, seigneur,
 D'un entretien secret implore la faveur.
@@ -1233,7 +1233,7 @@ Seigneur, tout le sénat, dans sa douleur sincère,
 En frémissant du coup qui doit vous accabler...
 
 
-**** *creator_voltaire *book_voltaire_brutus *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_brutus *dist2_voltaire_verse_tragedy *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_albin
+**** *creator_voltaire *book_voltaire_brutus *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_brutus *dist2_voltaire_verse_tragedy *id_ALBIN *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_albin
 
       Seigneur, il doit ici se rendre ;
 À toute heure il y vient : Titus est son appui.

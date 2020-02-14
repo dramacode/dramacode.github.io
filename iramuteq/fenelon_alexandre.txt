@@ -1,6 +1,6 @@
 
 
-**** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alexandre
+**** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *id_ALEXANDRE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alexandre
 
 Marchons à Darius, amis à force ouverte !
 Les Destins à ce jour ont attaché sa perte.
@@ -418,7 +418,7 @@ Oui, charmante Princesse ; et pour vous dire plus,
 Je vous réserve un prix digne de vos vertus.
 
 
-**** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sysigambis
+**** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *id_SYSIGAMBIS *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sysigambis
 
 LA bataille se donne, hélas ! presque à nos yeux,
 Et l'on n'en voit personne arriver dans ces lieux !
@@ -629,7 +629,7 @@ Il faut que dans l'instant, par ma bouche, Alexandre
 Sache ce que vous est le prisonnier Nicandre.
 
 
-**** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_statira
+**** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *id_STATIRA *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_statira
 
 Notre frayeur, Madame, outrage nos Persans ;
 Et peut-être vont-ils arriver triomphants.
@@ -698,7 +698,7 @@ JAMAIS impunément on ne peut l'outrager,
 Tout jusqu'à ses bienfaits a soin de le venger.
 
 
-**** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sitalce
+**** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *id_SITALCE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sitalce
 
 Oui, je crois, Philotas, que du poids de ses fers
 Alexandre prétend charger tous l'univers.
@@ -981,7 +981,7 @@ Vous m'avez trop longtemps souffert devant vos yeux ;
 Je dois les délivrer d'un objet odieux.
 
 
-**** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicandre
+**** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *id_NICANDRE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicandre
 
 Vous voyez devant vous, mûri aimable Princesse,
 Un époux malheureux qui vous pleurait sans cesse.
@@ -1007,7 +1007,7 @@ O grand Roi, serait-il un supplice assez rude,
 Pour pouvoir l'égaler à mon ingratitude ?
 
 
-**** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ophis
+**** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *id_OPHIS *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ophis
 
 QU'est-il donc arrivé, Seigneur? de toutes parts
 Un appareil de guerre effraye nos regards :
@@ -1285,7 +1285,7 @@ Mais dans ses grands projets son âme généreuse.
 Ne veut la subjuguer que pour la rendre heureuse.
 
 
-**** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ephestion
+**** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *id_EPHESTION *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ephestion
 
 Il est vrai, jusqu'ici la fortune confiante
 N'a de vos grand desseins osé tromper l'attente ;
@@ -1417,7 +1417,7 @@ Il pâlit, il soupire, il frissonne, et s'éteint.
 Je vais porter au Roi cette triste nouvelle.
 
 
-**** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philotas
+**** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *id_PHILOTAS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philotas
 
 Non, Sitalce, il n'est plus d'espérance de paix ;
 La guerre se rallume à ne finir jamais.
@@ -1580,7 +1580,7 @@ Pour que l'on se prépare à porter au vainqueur
 Ce coup qui fait lui seul notre plus grand bonheur.
 
 
-**** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_zonime
+**** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *id_ZONIME *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_zonime
 
 Vous n'êtes point encore instruite de son sort :
 Qui peut vous assurer que Nicandre soit mort ?

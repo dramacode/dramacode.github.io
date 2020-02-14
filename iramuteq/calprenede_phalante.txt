@@ -1,6 +1,6 @@
 
 
-**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_helene
+**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *id_helene *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_helene
 
 Philoxene il suffit, ce discours m'importune,
 Lassés-vous à la fin de me persecuter,
@@ -586,7 +586,7 @@ Va rejoindre Phalante au partir de ce lieu,
 Adieu mes chers amis ne pleurez plus, Adieu.
 
 
-**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phalante
+**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *id_phalante *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phalante
 
 Madame, vos bontez sont pour moy sans limites
 Et m'ayant honoré⁎ par dessus mes merites,
@@ -1338,7 +1338,7 @@ Je ne puis en mourant les payer qu'à demy.
 Je perds la voix, adieu recevez
 
 
-**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philoxene
+**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *id_philoxene *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philoxene
 
 Ces regards enflammés que lancent vos beaus yeus,
 Ne sont que des esclairs pour cet audacieus,
@@ -1682,7 +1682,7 @@ C'est un amy sans tache.
       Ce desespoir m'offence.
 
 
-**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *date_1642 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_timandre
+**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *id_timandre *date_1642 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_timandre
 
 Nous serions trop ingrats à tant de bons offices⁎,
 Dont vous avez desja prévenu⁎ nos services,
@@ -1814,7 +1814,7 @@ Ah ! mon fils, seul appuy d'une foible vieillesse,
 Seul espoir de mes jours, crois-tu que je te laisse ?
 
 
-**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleomede
+**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *id_cleomede *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleomede
 
 Madame pardonnez nostre importunité⁎,
 On n'attend au conseil que vostre Majesté,
@@ -1872,7 +1872,7 @@ Vous pouvés-vous resoudre à nous quitter ainsi ?
 Eh bien, nous vous suivrons.
 
 
-**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *date_1642 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_arbante
+**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *id_arbante *date_1642 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_arbante
 
 Seigneur de quelque soing⁎ que vostre ame agitée,
 Déguise la douleur dont elle est tourmentée,
@@ -1908,7 +1908,7 @@ Helas ! assistés-moy.
 Ah ! Seigneur.
 
 
-**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *date_1642 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cleone
+**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *id_cleone *date_1642 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cleone
 
 Madame, quelqu'un vient.
 
@@ -1957,7 +1957,7 @@ Vous me perdriez, Seigneur.
       Ah ! je meurs.
 
 
-**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *date_1642 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_aminte
+**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *id_aminte *date_1642 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_aminte
 
       Esperez-le Madame,
 Bannissez cette crainte, et recognoissez mieux,

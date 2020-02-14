@@ -1,6 +1,6 @@
 
 
-**** *creator_marivaux *book_marivaux_meprise *style_prose *genre_comedy *dist1_marivaux_prose_comedy_meprise *dist2_marivaux_prose_comedy *date_1734 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hortense
+**** *creator_marivaux *book_marivaux_meprise *style_prose *genre_comedy *dist1_marivaux_prose_comedy_meprise *dist2_marivaux_prose_comedy *id_HORTENSE *date_1734 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hortense
 
 N'est-ce pas là ce cavalier que je vis hier ramasser le gant de ma soeur ? Je n'en ai guère vu de si bien fait. Il me regarde ; j'étais hier démasquée avec cet habit-ci, et il me reconnaît, sans doute.
 
@@ -75,7 +75,7 @@ Il ne s'agit plus de cela, c'est un détail inutile.
 Point de compliments, Monsieur le Marquis : reconduisez-nous au logis, sans attendre que le comte de Belfort s'en mêle.
 
 
-**** *creator_marivaux *book_marivaux_meprise *style_prose *genre_comedy *dist1_marivaux_prose_comedy_meprise *dist2_marivaux_prose_comedy *date_1734 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clarice
+**** *creator_marivaux *book_marivaux_meprise *style_prose *genre_comedy *dist1_marivaux_prose_comedy_meprise *dist2_marivaux_prose_comedy *id_CLARICE *date_1734 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clarice
 
 J'ai tourné mal à propos de ce côté-ci. M'a-t-elle vue ?
 
@@ -181,7 +181,7 @@ Retournons-nous-en, ma soeur, et soyons discrètes.
 Sur ce pied-là, tout est éclairci.
 
 
-**** *creator_marivaux *book_marivaux_meprise *style_prose *genre_comedy *dist1_marivaux_prose_comedy_meprise *dist2_marivaux_prose_comedy *date_1734 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_marivaux *book_marivaux_meprise *style_prose *genre_comedy *dist1_marivaux_prose_comedy_meprise *dist2_marivaux_prose_comedy *id_LISETTE *date_1734 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Que voulez-vous, Monsieur le Véritable ? Je ne cherche personne ici, moi.
 
@@ -350,7 +350,7 @@ L'aventure a bien fait de finir, j'allais vous croire échappés des Petites-Mai
 Demande-lui-en des nouvelles, c'est lui qui me le garde.
 
 
-**** *creator_marivaux *book_marivaux_meprise *style_prose *genre_comedy *dist1_marivaux_prose_comedy_meprise *dist2_marivaux_prose_comedy *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ergaste
+**** *creator_marivaux *book_marivaux_meprise *style_prose *genre_comedy *dist1_marivaux_prose_comedy_meprise *dist2_marivaux_prose_comedy *id_ERGASTE *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ergaste
 
 Et moi, je n'en crois rien.
 
@@ -564,7 +564,7 @@ C'est cela même, c'est l'habit qui m'a jeté dans l'erreur.
 Je vous demande mille pardons de ma méprise, Madame ; je ne suis pas capable de changer, mais personne ne rendrait l'infidélité plus pardonnable que vous.
 
 
-**** *creator_marivaux *book_marivaux_meprise *style_prose *genre_comedy *dist1_marivaux_prose_comedy_meprise *dist2_marivaux_prose_comedy *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+**** *creator_marivaux *book_marivaux_meprise *style_prose *genre_comedy *dist1_marivaux_prose_comedy_meprise *dist2_marivaux_prose_comedy *id_FRONTIN *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
 
 Je vous dis, Monsieur, que je l'attends ici, je vous dis qu'elle s'y rendra, que j'en suis sûr, et que j'y compte comme si elle y était déjà.
 
@@ -769,7 +769,7 @@ Le soufflet et les tablettes sont sans doute sur votre compte, Madame.
 Va, va, puisque je t'aime, je ne me vante pas d'être trop sage.
 
 
-**** *creator_marivaux *book_marivaux_meprise *style_prose *genre_comedy *dist1_marivaux_prose_comedy_meprise *dist2_marivaux_prose_comedy *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_marivaux *book_marivaux_meprise *style_prose *genre_comedy *dist1_marivaux_prose_comedy_meprise *dist2_marivaux_prose_comedy *id_ARLEQUIN *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Madame, je viens vous demander votre avis sur une commission qu'on m'a donnée.
 

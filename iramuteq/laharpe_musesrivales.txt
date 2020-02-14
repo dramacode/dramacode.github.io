@@ -1,6 +1,6 @@
 
 
-**** *creator_laharpe *book_laharpe_musesrivales *style_verse *genre_comedy *dist1_laharpe_verse_comedy_musesrivales *dist2_laharpe_verse_comedy *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
+**** *creator_laharpe *book_laharpe_musesrivales *style_verse *genre_comedy *dist1_laharpe_verse_comedy_musesrivales *dist2_laharpe_verse_comedy *id_APOLLON *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
 
 Elles daignent souvent m'accorder leur présence.
 Aux Grâces, comme aux Arts, ce Temple est consacré»
@@ -43,7 +43,7 @@ Et pour les y fixer, Apollon veut chez vous
 Fonder la fête du génie.
 
 
-**** *creator_laharpe *book_laharpe_musesrivales *style_verse *genre_comedy *dist1_laharpe_verse_comedy_musesrivales *dist2_laharpe_verse_comedy *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
+**** *creator_laharpe *book_laharpe_musesrivales *style_verse *genre_comedy *dist1_laharpe_verse_comedy_musesrivales *dist2_laharpe_verse_comedy *id_MOMUS *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
 
       Le Dieu de la gaîté
 Doit être de toutes les fêtes.
@@ -110,7 +110,7 @@ Présenter ici mon hommage.
 Quoi ! Les Grâces aussi dans le sacré vallon !
 
 
-**** *creator_laharpe *book_laharpe_musesrivales *style_verse *genre_comedy *dist1_laharpe_verse_comedy_musesrivales *dist2_laharpe_verse_comedy *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_uranie
+**** *creator_laharpe *book_laharpe_musesrivales *style_verse *genre_comedy *dist1_laharpe_verse_comedy_musesrivales *dist2_laharpe_verse_comedy *id_URANIE *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_uranie
 
 Nous l'avons toutes inspiré.
 
@@ -182,7 +182,7 @@ Mais, je vais m'informer de notre Messager.
 Adieu, Thalie.
 
 
-**** *creator_laharpe *book_laharpe_musesrivales *style_verse *genre_comedy *dist1_laharpe_verse_comedy_musesrivales *dist2_laharpe_verse_comedy *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_erato
+**** *creator_laharpe *book_laharpe_musesrivales *style_verse *genre_comedy *dist1_laharpe_verse_comedy_musesrivales *dist2_laharpe_verse_comedy *id_ERATO *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_erato
 
 C'est donc en ces beaux lieux, c'est dans ce sanctuaire,
 Aux arts de tout temps consacré,
@@ -260,7 +260,7 @@ Je cours près d'Apollon me ranger la première ;
 C'est à lui seul de nous juger.
 
 
-**** *creator_laharpe *book_laharpe_musesrivales *style_verse *genre_comedy *dist1_laharpe_verse_comedy_musesrivales *dist2_laharpe_verse_comedy *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_calliope
+**** *creator_laharpe *book_laharpe_musesrivales *style_verse *genre_comedy *dist1_laharpe_verse_comedy_musesrivales *dist2_laharpe_verse_comedy *id_CALLIOPE *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_calliope
 
 Eh ! Quoi ? Dans ce grand jour, vous pensez précéder
 La Muse de Virgile et du Tasse et d'Homère ?
@@ -315,7 +315,7 @@ Cet avis est un bon office.
 Momus est devenu bien sage.
 
 
-**** *creator_laharpe *book_laharpe_musesrivales *style_verse *genre_comedy *dist1_laharpe_verse_comedy_musesrivales *dist2_laharpe_verse_comedy *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clio
+**** *creator_laharpe *book_laharpe_musesrivales *style_verse *genre_comedy *dist1_laharpe_verse_comedy_musesrivales *dist2_laharpe_verse_comedy *id_CLIO *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clio
 
 Vous l'avez prétendu; mais cette primauté
 Pourrait bien être une chimère,

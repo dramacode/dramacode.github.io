@@ -1,6 +1,6 @@
 
 
-**** *creator_donneaudevise *book_donneaudevise_damesvengees *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_damesvengees *dist2_donneaudevise_prose_comedy *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_silvanire
+**** *creator_donneaudevise *book_donneaudevise_damesvengees *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_damesvengees *dist2_donneaudevise_prose_comedy *id_silvanire *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_silvanire
 
 Et bien, as-tu trouvé Monsieur Polidor ?
 
@@ -168,7 +168,7 @@ Je suis dans une inquietude mortelle.
 Quoy, sans vous avoir rien dit ?
 
 
-**** *creator_donneaudevise *book_donneaudevise_damesvengees *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_damesvengees *dist2_donneaudevise_prose_comedy *date_1695 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_henriette
+**** *creator_donneaudevise *book_donneaudevise_damesvengees *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_damesvengees *dist2_donneaudevise_prose_comedy *id_henriette *date_1695 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_henriette
 
 Pasquin, mon Frere est-il icy ?
 
@@ -237,7 +237,7 @@ Je le vois, je le sens, & j'ay les mesmes inquietudes.
 Ce n'est pas ce qui m'inquiette, mais nos Meres n'entrent point dans nos sentiments. Elles n'aiment pas, & n'ont que l'interest en vûë. Mais j'apperçois la vostre.
 
 
-**** *creator_donneaudevise *book_donneaudevise_damesvengees *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_damesvengees *dist2_donneaudevise_prose_comedy *date_1695 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lisandre
+**** *creator_donneaudevise *book_donneaudevise_damesvengees *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_damesvengees *dist2_donneaudevise_prose_comedy *id_lisandre *date_1695 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_lisandre
  
 Je viens d'un rendez-vous, où j'ay trouvé une Fille assez jolie, vraiment. Elle est encore un peu Agnés, mais son ingenuité⁎ me plaist assez.
 
@@ -678,7 +678,7 @@ Et qui pourroit l'y retenir, quand elle sçaura que mon Oncle est mort, & que vo
 Quoy ? je la perdrois quand la fortune me donne du bien, & que vous l'avez l'une & l'autre accordée à mon amour ? Fut-il jamais un Amant plus malheureux ?
 
 
-**** *creator_donneaudevise *book_donneaudevise_damesvengees *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_damesvengees *dist2_donneaudevise_prose_comedy *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_orasie
+**** *creator_donneaudevise *book_donneaudevise_damesvengees *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_damesvengees *dist2_donneaudevise_prose_comedy *id_orasie *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_orasie
 
 Que cela est obligeant, Madame ! On dit bien vray que Paris est le centre du bel esprit.
 Croyez, Mademoiselle, que si vous ne trouvez pas en moy les airs polis de ce pays-cy, vous y trouverez beaucoup d'estime & de tendresse pour vous.
@@ -890,7 +890,7 @@ J'y consentois avec peine, mais puis qu'elle a suivi son devoir & ma volonté, c
 Allons, Madame, allons terminer nostre autre affaire.
 
 
-**** *creator_donneaudevise *book_donneaudevise_damesvengees *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_damesvengees *dist2_donneaudevise_prose_comedy *date_1695 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_hortense
+**** *creator_donneaudevise *book_donneaudevise_damesvengees *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_damesvengees *dist2_donneaudevise_prose_comedy *id_hortense *date_1695 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_hortense
 
 Dites plutost qu'il en a peu d'aussi obligeantes que vous.
 
@@ -1097,7 +1097,7 @@ Je voudrois bien vous le voir garder.
 Souffrez⁎, Madame, que je me retire, pour n'estre point exposée à voir plus longtemps le plus perfide de tous les hommes.
 
 
-**** *creator_donneaudevise *book_donneaudevise_damesvengees *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_damesvengees *dist2_donneaudevise_prose_comedy *date_1695 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_alcippe
+**** *creator_donneaudevise *book_donneaudevise_damesvengees *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_damesvengees *dist2_donneaudevise_prose_comedy *id_alcippe *date_1695 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_alcippe
 
 Je n'ay pû rien sçavoir davantage, Madame, sinon que ma Mere peut arriver à tout moment, & qu'elle ne vient point par la voye ordinaire. Elle en a pris une autre pour vous épargner, & à Madame vostre Mere, la peine d'aller au devant d'elle.
 
@@ -1126,7 +1126,7 @@ Ah, Madame, vous allez les augmenter si vous la chagrinez.
 La voicy. Je me retire, son embarras me feroit trop de peine.
 
 
-**** *creator_donneaudevise *book_donneaudevise_damesvengees *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_damesvengees *dist2_donneaudevise_prose_comedy *date_1695 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_pasquin
+**** *creator_donneaudevise *book_donneaudevise_damesvengees *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_damesvengees *dist2_donneaudevise_prose_comedy *id_pasquin *date_1695 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_pasquin
 
 Je viens d'apprendre, Monsieur, que vous avez une Maistresse de moins, & que Belise qui ne vouloit point aller à la Campagne, où sa mere la veut marier, vient de partir.
 
@@ -1415,7 +1415,7 @@ Elle est partie in promptu, de peur de changer de resolution.
 Son ascendant⁎ n'est pas pour les honnestes Femmes.
 
 
-**** *creator_donneaudevise *book_donneaudevise_damesvengees *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_damesvengees *dist2_donneaudevise_prose_comedy *date_1695 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_marton
+**** *creator_donneaudevise *book_donneaudevise_damesvengees *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_damesvengees *dist2_donneaudevise_prose_comedy *id_marton *date_1695 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_marton
 
 Ouy, Madame. Lors que je suis entrée dans son cabinet sa Cour estoit nombreuse. Il estoit occupé à recevoir une grosse somme  que cent emprunteurs devoroient des yeux.
 
@@ -1776,7 +1776,7 @@ Il est dangereux d'offenser le Sexe⁎, l'Amour le vange tost ou tard.
 FIN.
 
 
-**** *creator_donneaudevise *book_donneaudevise_damesvengees *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_damesvengees *dist2_donneaudevise_prose_comedy *date_1695 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lisette
+**** *creator_donneaudevise *book_donneaudevise_damesvengees *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_damesvengees *dist2_donneaudevise_prose_comedy *id_lisette *date_1695 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lisette
 
 Quand les Meres souhaitent, les Filles font souvent voir une volonté peu volontaire.
 
@@ -1893,7 +1893,7 @@ Ouy. Je viens de l'y laisser.
 Elle deteste tous les hommes, & veut avoir la gloire de vanger le Sexe⁎.
 
 
-**** *creator_donneaudevise *book_donneaudevise_damesvengees *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_damesvengees *dist2_donneaudevise_prose_comedy *date_1695 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_polidor
+**** *creator_donneaudevise *book_donneaudevise_damesvengees *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_damesvengees *dist2_donneaudevise_prose_comedy *id_polidor *date_1695 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_polidor
 
 Vous le voyez, Madame, je viens selon vos ordres. Bon jour, Marton.
 

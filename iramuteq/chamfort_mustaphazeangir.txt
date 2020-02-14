@@ -1,6 +1,6 @@
 
 
-**** *creator_chamfort *book_chamfort_mustaphazeangir *style_verse *genre_tragedy *dist1_chamfort_verse_tragedy_mustaphazeangir *dist2_chamfort_verse_tragedy *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_soliman
+**** *creator_chamfort *book_chamfort_mustaphazeangir *style_verse *genre_tragedy *dist1_chamfort_verse_tragedy_mustaphazeangir *dist2_chamfort_verse_tragedy *id_SOLIMAN *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_soliman
 
 Prenez place, madame ; il faut que, dans ce jour,
 Votre âme à mes regards se montre sans détour :
@@ -349,7 +349,7 @@ Et puisse en inventer de qui la barbarie
 Égale mes malheurs, ma haine et ta furie.
 
 
-**** *creator_chamfort *book_chamfort_mustaphazeangir *style_verse *genre_tragedy *dist1_chamfort_verse_tragedy_mustaphazeangir *dist2_chamfort_verse_tragedy *date_1777 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_roxelane
+**** *creator_chamfort *book_chamfort_mustaphazeangir *style_verse *genre_tragedy *dist1_chamfort_verse_tragedy_mustaphazeangir *dist2_chamfort_verse_tragedy *id_ROXELANE *date_1777 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_roxelane
 
 Et quoi ! Vous l'ignorez !... Oui, c'est moi seule, Osman,
 Dont les soins ont hâté l'ordre de Soliman.
@@ -837,7 +837,7 @@ Le pouvoir d'un despote et les fureurs d'un père.
 Ma mort...
 
 
-**** *creator_chamfort *book_chamfort_mustaphazeangir *style_verse *genre_tragedy *dist1_chamfort_verse_tragedy_mustaphazeangir *dist2_chamfort_verse_tragedy *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zeangir
+**** *creator_chamfort *book_chamfort_mustaphazeangir *style_verse *genre_tragedy *dist1_chamfort_verse_tragedy_mustaphazeangir *dist2_chamfort_verse_tragedy *id_ZEANGIR *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zeangir
 
 Ah !... Je tremble pour lui.
 
@@ -1280,7 +1280,7 @@ C'est la dernière fois que le mien vous offense.
 Mon supplice finit, et le vôtre commence.
 
 
-**** *creator_chamfort *book_chamfort_mustaphazeangir *style_verse *genre_tragedy *dist1_chamfort_verse_tragedy_mustaphazeangir *dist2_chamfort_verse_tragedy *date_1777 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_azemire
+**** *creator_chamfort *book_chamfort_mustaphazeangir *style_verse *genre_tragedy *dist1_chamfort_verse_tragedy_mustaphazeangir *dist2_chamfort_verse_tragedy *id_AZEMIRE *date_1777 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_azemire
 
 Eh quoi ! Que faut-il craindre ? Et quel nouvel orage...
 
@@ -1414,7 +1414,7 @@ Heureuse si j'avais, en voulant le sauver,
 Et des périls plus grands, et la mort à braver !
 
 
-**** *creator_chamfort *book_chamfort_mustaphazeangir *style_verse *genre_tragedy *dist1_chamfort_verse_tragedy_mustaphazeangir *dist2_chamfort_verse_tragedy *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_osman
+**** *creator_chamfort *book_chamfort_mustaphazeangir *style_verse *genre_tragedy *dist1_chamfort_verse_tragedy_mustaphazeangir *dist2_chamfort_verse_tragedy *id_OSMAN *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_osman
 
 Oui, Madame, en secret le sultan vient d'entendre
 Le récit des succès que je dois vous apprendre ;
@@ -1530,7 +1530,7 @@ Ce zèle impétueux qu'excitent vos vertus...
       Vous avez lu, Nessir, obéissez.
 
 
-**** *creator_chamfort *book_chamfort_mustaphazeangir *style_verse *genre_tragedy *dist1_chamfort_verse_tragedy_mustaphazeangir *dist2_chamfort_verse_tragedy *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achmet
+**** *creator_chamfort *book_chamfort_mustaphazeangir *style_verse *genre_tragedy *dist1_chamfort_verse_tragedy_mustaphazeangir *dist2_chamfort_verse_tragedy *id_ACHMET *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achmet
 
       Prince, que faites-vous ?
 D'un tel excès d'honneur mon âme est accablée.

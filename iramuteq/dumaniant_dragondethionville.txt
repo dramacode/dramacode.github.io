@@ -1,6 +1,6 @@
 
 
-**** *creator_dumaniant *book_dumaniant_dragondethionville *style_prose *genre_fait historique *dist1_dumaniant_prose_fait historique_dragondethionville *dist2_dumaniant_prose_fait historique *date_1786 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dusincere
+**** *creator_dumaniant *book_dumaniant_dragondethionville *style_prose *genre_fait historique *dist1_dumaniant_prose_fait historique_dragondethionville *dist2_dumaniant_prose_fait historique *id_DUSINCERE *date_1786 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dusincere
 
 Bonjour, monsieur le Chevalier.
 
@@ -115,7 +115,7 @@ En continuant de m'aimer, en ne me parlant jamais d'une action si simple et si n
 Mon Colonel !
 
 
-**** *creator_dumaniant *book_dumaniant_dragondethionville *style_prose *genre_fait historique *dist1_dumaniant_prose_fait historique_dragondethionville *dist2_dumaniant_prose_fait historique *date_1786 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecolonel
+**** *creator_dumaniant *book_dumaniant_dragondethionville *style_prose *genre_fait historique *dist1_dumaniant_prose_fait historique_dragondethionville *dist2_dumaniant_prose_fait historique *id_LECOLONEL *date_1786 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecolonel
 
 Te voilà encore ?
 

@@ -1,6 +1,6 @@
 
 
-**** *creator_poisson *book_poisson_sotvenge *style_verse *genre_comedy *dist1_poisson_verse_comedy_sotvenge *dist2_poisson_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lubin
+**** *creator_poisson *book_poisson_sotvenge *style_verse *genre_comedy *dist1_poisson_verse_comedy_sotvenge *dist2_poisson_verse_comedy *id_LUBIN *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lubin
 
 Diable soit ta chienne de vie !
 Dis, Carogne, as-tu point envie
@@ -333,7 +333,7 @@ Comme diable il gagne le haut.
 Par elle mon sort a changé.
 
 
-**** *creator_poisson *book_poisson_sotvenge *style_verse *genre_comedy *dist1_poisson_verse_comedy_sotvenge *dist2_poisson_verse_comedy *date_1661 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lubine
+**** *creator_poisson *book_poisson_sotvenge *style_verse *genre_comedy *dist1_poisson_verse_comedy_sotvenge *dist2_poisson_verse_comedy *id_LUBINE *date_1661 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lubine
 
 Quoi ! Vous osez Maître Ragot,
 Maître importun, et maître sot,
@@ -462,7 +462,7 @@ Mon mignon, mon friou titave,
 Commande, je suis ton esclave.
 
 
-**** *creator_poisson *book_poisson_sotvenge *style_verse *genre_comedy *dist1_poisson_verse_comedy_sotvenge *dist2_poisson_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecompere
+**** *creator_poisson *book_poisson_sotvenge *style_verse *genre_comedy *dist1_poisson_verse_comedy_sotvenge *dist2_poisson_verse_comedy *id_LECOMPERE *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecompere
 
 Il est huit heures justement,
 C'est l'heure qu'elle m'a donnée.
@@ -534,7 +534,7 @@ Hen.
 Et moi je vous ferai savoir...
 
 
-**** *creator_poisson *book_poisson_sotvenge *style_verse *genre_comedy *dist1_poisson_verse_comedy_sotvenge *dist2_poisson_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurragot
+**** *creator_poisson *book_poisson_sotvenge *style_verse *genre_comedy *dist1_poisson_verse_comedy_sotvenge *dist2_poisson_verse_comedy *id_MONSIEURRAGOT *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurragot
 
 Ne vous emportez pas si fort,
 Lubine , voici la dernière :
@@ -729,7 +729,7 @@ Venez emprunter ma racine.
 Voilà, Messieurs, le sot vengé.
 
 
-**** *creator_poisson *book_poisson_sotvenge *style_verse *genre_comedy *dist1_poisson_verse_comedy_sotvenge *dist2_poisson_verse_comedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_croquillon
+**** *creator_poisson *book_poisson_sotvenge *style_verse *genre_comedy *dist1_poisson_verse_comedy_sotvenge *dist2_poisson_verse_comedy *id_CROQUILLON *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_croquillon
 
 D'où vient ce grand empressement ?
 

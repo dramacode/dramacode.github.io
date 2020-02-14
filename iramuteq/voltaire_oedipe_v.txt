@@ -1,6 +1,6 @@
 
 
-**** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oedipe
+**** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *id_OEDIPE *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oedipe
 
 Peuple qui, dans ce temple apportant vos douleurs,
 Présentez à nos dieux des offrandes de pleurs,
@@ -599,7 +599,7 @@ Qui nous rend l'un à l'autre un objet exécrable.
 Laïus était mon père, et je suis votre fils.
 
 
-**** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *date_1718 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jocaste
+**** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *id_JOCASTE *date_1718 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jocaste
 
 Seigneur, quand le destin, me réservant à vous,
 Par un coup imprévu m'enleva mon époux,
@@ -1049,7 +1049,7 @@ Qu'au milieu des horreurs du destin qui m'opprime,
 J'ai fait rougir les dieux qui m'ont forcée au crime.
 
 
-**** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philoctete
+**** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *id_PHILOCTETE *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philoctete
 
       Ce séjour convient aux malheureux :
 Va, laisse-moi le soin de mes destins affreux,
@@ -1295,7 +1295,7 @@ Surtout quand l'intérêt, père de la licence,
 Vient de leur zèle impie enhardir l'insolence.
 
 
-**** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *date_1718 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_egine
+**** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *id_EGINE *date_1718 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_egine
 
       Ma surprise est extrême !...
 
@@ -1355,7 +1355,7 @@ Mais voulez-vous qu'il parte ?
 Hélas !
 
 
-**** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dimas
+**** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *id_DIMAS *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dimas
 
 Philoctète, est-ce vous ? quel coup affreux du sort
 Dans ces lieux empestés vous fait chercher la mort ?
@@ -1461,7 +1461,7 @@ Seigneur, en ce moment un étranger arrive
 Il se dit de Corinthe, et demande à vous voir.
 
 
-**** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *date_1718 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_phorbas
+**** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *id_PHORBAS *date_1718 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_phorbas
 
 Eh bien ! est-ce aujourd'hui qu'il faut que je périsse ?
 Grande reine, avez-vous ordonné mon supplice ?
@@ -1519,7 +1519,7 @@ D'un sang plus glorieux et plus infortuné.
 Qu'avons-nous fait tous deux ?
 
 
-**** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *date_1718 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_icare
+**** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *id_ICARE *date_1718 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_icare
 
 Seigneur, Polybe est mort.
 

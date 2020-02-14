@@ -1,6 +1,6 @@
 
 
-**** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *date_1667 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adraste
+**** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *id_adraste *date_1667 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adraste
 
 Est-ce toi, Hali ?
 
@@ -119,7 +119,7 @@ Oui, je vous le promets, que, pour l'amour de vous, je m'en vais, avec elle, viv
 Je vous donne ma parole, Seigneur Don Pèdre, qu'à votre considération je m'en vais la traiter du mieux qu'il me sera possible.
 
 
-**** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *date_1667 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dompedre
+**** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *id_dom-pedre *date_1667 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dompedre
 
 Il y a quelque temps que j'entends chanter à ma Porte ; et, sans doute, cela ne se fait pas pour rien. Il faut que, dans l'obscurité, je tâche à découvrir quelles Gens ce peuvent être.
 
@@ -269,7 +269,7 @@ Je vous parle de mon Affaire.
 La peste soit du Fou, avec sa Mascarade.
 
 
-**** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *date_1667 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_isidore
+**** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *id_isidore *date_1667 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_isidore
 
 Je ne sais pas quel plaisir vous prenez à me réveiller si matin ; cela s'ajuste assez mal, ce me semble, au dessein que vous avez pris de me faire peindre aujourd'hui ; et ce n'est guère pour avoir le teint frais, et les yeux brillants, que se lever ainsi dès la pointe du jour.
 
@@ -342,7 +342,7 @@ C'est qu'ils savent qu'on plaît aux Dames par ces choses.
 Ce qu'ils en font, n'est que par jeu.
 
 
-**** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *date_1667 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_hali
+**** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *id_hali *date_1667 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_hali
 
 Chut… N'avancez pas davantage, et demeurez dans cet endroit, jusqu'à ce que je vous appelle. Il fait noir comme dans un Four ; Le Ciel s'est habillé, ce soir, en Scaramouche ; et je ne vois pas une Étoile qui montre le bout de son nez. Sotte condition que celle d'un Esclave ! de ne vivre jamais pour soi, et d'être, toujours, tout entier aux passions d'un Maître ! de n'être réglé que par ses humeurs, et de se voir réduit à faire ses propres affaires de tous les soucis qu'il peut prendre ! Le mien me fait, ici, épouser ses inquiétudes ; et parce qu'il est Amoureux, il faut que nuit, et jour, je n'aie aucun repos. Mais voici des Flambeaux, et, sans doute, c'est lui.
 
@@ -466,7 +466,7 @@ Parlons bas, s'il vous plaît.
 Seigneur, quand vous aurez reçu quelque Soufflet, je suis Homme aussi de conseil, et je pourrai vous rendre la pareille.
 
 
-**** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *date_1667 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesenateur
+**** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *id_le-senateur *date_1667 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesenateur
 
 Serviteur, Seigneur Don Pèdre. Que vous venez à propos !
 
@@ -487,7 +487,7 @@ Je ne veux point, aujourd'hui, d'autres affaires que de plaisir. Allons, Messieu
 Diantre soit le Fâcheux, avec son Affaire.
 
 
-**** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *date_1667 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_musiciens
+**** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *id_musiciens *date_1667 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_musiciens
 
 
 Si du triste récit de mon inquiétude,

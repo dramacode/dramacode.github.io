@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lediable
+**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *id_LEDIABLE *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lediable
 
 Reposons-nous un peu, s'il vous plaît, Mesdames, je suis las comme un pauvre Diable ; et ce n'est pas peu de fatigue à un boiteux comme moi, d'avoir apporté deux femelles comme vous, de plus de trois cent lieues.
 
@@ -63,7 +63,7 @@ Oh, ce n'est pas de même ; votre revenu n'est qu'en fonds d'esprit, à vous au
 Ce n'est pas la situation de la vie la plus malheureuse. Mais achevez, Madame Thérèse, de faire part à cette belle assemblée de vos réflexions et des petites confidences que je vous ai faites pendant la pièce.
 
 
-**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_therese
+**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *id_THERESE *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_therese
 
 Je trouve que vous ne nous avez pas encore assez éloignées de Madrid ; et si mon mari découvre où nous sommes…
 
@@ -156,7 +156,7 @@ Est ici ce soir
 Pour le faire voir.
 
 
-**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sanchette
+**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *id_SANCHETTE *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sanchette
 
 Oh, Monsieur le Diable Boiteux, vous êtes un ingrat, vous voulez diminuer le bon office que vous a rendu ma bonne maman. Ce n'est point vous qui lui avez soufflé la coquetterie, en rentrant dans la bouteille ; elle a toujours été coquette, ma bonne maman, je le sais bien, mon vilain papa s'en est toujours plaint ; et toutes les mies que j'ai eues, m'ont toujours dit qu'il n'avait pas tort d'être fâché, et que je n'étais pas tout à fait sa fille.
 
@@ -208,7 +208,7 @@ Et l'Amant chéri
 Au parterre en rit.
 
 
-**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamelucas
+**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *id_MADAMELUCAS *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamelucas
 
 C'est un assez sot livre, Marton, que ce Diable Boiteux, les fades plaisanteries ! Les mauvais contes ! Il donne des idées funestes, et j'ai cru voir deux ou trois fois au chevet du lit du malade, ce vilain génie qui s'appelle Flagel, et qui est l'esprit de la chicane.
 
@@ -323,7 +323,7 @@ Ah ! J'ouvre les yeux, je suis trahie. Vous êtes tous de complot, Monsieur le 
 Fourbes !
 
 
-**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *id_ANGELIQUE *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
 Ah ! Le mauvais livre que le Diable Boiteux, ma chère Marton ! Le dangereux génie que Monsieur Asmodée.
 
@@ -416,7 +416,7 @@ Ni moi non plus : mais je n'en ai pas moins de frayeur.
 Voilà deux Diables qui le suivent, ma tante.
 
 
-**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *id_ERASTE *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
 
 Vous voyez, charmante Angélique, un Amant outré d'inquiétude de ce qu'il vient d'apprendre des sentiments de votre tante, et qui n'a d'autre consolation, d'autre espoir que dans la constance des vôtres.
 
@@ -439,7 +439,7 @@ Ce que j'en veux faire ?
 M'enfermer avec ces gens-là ? Je n'ai point de ménagement à avoir, moi.
 
 
-**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
+**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *id_MARTON *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
 
 Comme toutes choses ont différentes faces ! Vous vous plaignez de lui sous le nom du Diable Boiteux ; et comme Cupidon, vous n'êtes pas une de ses plus mauvaises pratiques.
 
@@ -636,7 +636,7 @@ Voilà une belle Charge !
 Hé donnez, donnez, je le déchirerai, moi, il ne faut pas souffrir que son obstination soit cause de sa perte.
 
 
-**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepine
+**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *id_LEPINE *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepine
 
 Non. Pourquoi, ma Reine ?
 
@@ -708,7 +708,7 @@ Le Diable Boiteux
 Sera trop heureux.
 
 
-**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurcorbeau
+**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *id_MONSIEURCORBEAU *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurcorbeau
 
 Je le crois bien, Madame.
 
@@ -729,7 +729,7 @@ Parbleu je le crois bien, Madame. Vous vous moquez de moi, je pense ? Des bande
 Des prétintailles, ma mie, des prétintailles ? M'a-t-on fait venir ici pour se moquer de moi ? Adieu, Madame, fasse qui voudra les obsèques du Procureur, je ne l'en mêle point. Il ferait beau voir une tenture mortuaire en falbala ? Des prétintailles.
 
 
-**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecommissaire
+**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *id_LECOMMISSAIRE *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecommissaire
 
 Hé, pourquoi non, Madame Lucas ? Nous allons tous les jours chez des Duchesses et des Présidentes, qui sont d'aussi bonne maison que des Procureuses.
 
@@ -752,7 +752,7 @@ Ne voulez-vous rien retirer de ce cabinet, Madame ?
 C'est agir prudemment. Je ne vois plus rien ici passons ailleurs.
 
 
-**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lenotaire
+**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *id_LENOTAIRE *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lenotaire
 
 Le voilà, Madame : Mais je puis vous dire que je n'ai jamais signé d'acte en ma vie avec tant de répugnance que celui-là. Frustrer l'héritière légitime pour vous enrichir, c'est une chose criante ; vous devriez vous accommoder et supprimer le testament, Madame.
 
@@ -771,7 +771,7 @@ Votre résistance pourrait avoir des suites. Déchirai-je, Madame ?
 Pour cela, non, Madame, je vous jure : mais l'original du testament est déchiré, le Diable s'en est mêlé, que voulez-vous que j'y fasse ?
 
 
-**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cascaret
+**** *creator_dancourt *book_dancourt_diableboiteux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteux *dist2_dancourt_prose_comedy *id_CASCARET *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cascaret
 
 Votre Couturière et le Marchand, Madame, pour des habits de deuil.
 

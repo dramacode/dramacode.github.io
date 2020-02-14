@@ -1,6 +1,6 @@
 
 
-**** *creator_sophocle *book_sophocle_oedipeacolone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oedipeacolone *dist2_sophocle_prose_tragedy *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oedipe
+**** *creator_sophocle *book_sophocle_oedipeacolone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oedipeacolone *dist2_sophocle_prose_tragedy *id_OEDIPE *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oedipe
 
 Enfant du vieillard aveugle, Antigone, en quels lieux, dans la ville de quels hommes sommes-nous arrivés ? Qui accueillera aujourd'hui, avec de maigres dons, Oedipe errant, demandant peu et recevant moins encore ? ce qui me suffit cependant, car mes misères, le long temps et ma grandeur d'âme me font trouver que tout est bien. Mais, ô enfant, si tu vois quelque endroit, dans un bois profane ou dans un bois sacré, arrête et assieds-moi, afin que nous demandions dans quel lieu nous sommes. Puisque nous sommes venus et que nous sommes étrangers, il faut faire ce qu'on nous commandera.
 
@@ -387,7 +387,7 @@ Ces tonnerres ininterrompus, ces traits flamboyants qui partent d'une main invin
 Je te révélerai, fils d'Égée, des choses qui ne vieilliront jamais et qui seront toujours heureuses pour cette ville. Moi-même, sans être conduit par aucune main, je te mènerai bientôt là où je dois mourir. Ne montre jamais à aucun des mortels ni ce lieu où sera caché mon corps, ni dans quelle contrée, afin qu'à la façon d'innombrables boucliers et porteurs de lances alliés, il te soit toujours un rempart contre tes voisins. Mais la chose sacrée qu'il n'est point permis de dire, tu l'apprendras là où tu seras venu seul avec moi. Je ne la révélerai à aucun de ceux-ci, ni même à mes filles, bien que je les aime. Sache-la, seul ; et, quand tu seras parvenu à la fin de ta vie, confie ce secret à ton seul héritier, et que celui-ci le confie à qui commandera après lui ! Tu rendras ainsi ta ville inexpugnable aux Thèbéiens. De nombreuses villes, même bien régies, ont été entraînées à l'iniquité. Les dieux, tôt ou tard, découvrent celui qui, plein de démence, méprise les choses divines. Ô fils d'Égée, ne sois jamais tel. Mais je t'enseigne ce que tu sais. Le dieu me presse de me rendre à l'endroit voulu. Ne tardons pas plus longtemps. Suivez-moi, ô enfants. Guides extraordinaires, je vous mène à mon tour comme vous avez conduit votre père. Marchez et ne me touchez pas. Laissez-moi trouver seul le tombeau sacré où il est fatal que je sois enfermé dans cette terre. Ici ! Là ! Par ici ! Hermès conducteur me mène, et la déesse souterraine. Ô sombre lumière, qui étais à moi autre fois, tu touches pour la dernière fois mon corps ! Je vais enfermer dans le Hadès ce qui reste de ma vie. Ô le plus cher des hôtes, ô terre, ô serviteurs du chef, soyez heureux ! Et du milieu de vos félicités sans fin, souvenez-vous de moi qui serai mort !
 
 
-**** *creator_sophocle *book_sophocle_oedipeacolone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oedipeacolone *dist2_sophocle_prose_tragedy *date_1877 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_antigone
+**** *creator_sophocle *book_sophocle_oedipeacolone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oedipeacolone *dist2_sophocle_prose_tragedy *id_ANTIGONE *date_1877 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_antigone
 
 Très malheureux père Oedipe, autant qu'il est permis à mes yeux d'en juger, voici, au loin, des tours qui protègent une ville. Ce lieu est sacré, cela est manifeste, car il est couvert de lauriers, d'oliviers, et de nombreuses vignes que beaucoup de rossignols emplissent des beaux sons de leur voix. Assieds-toi sur cette pierre rugueuse, car, pour un vieillard, tu as fait une longue route.
 
@@ -536,7 +536,7 @@ Que dis-tu, ô roi, chef des Athènaiens ?
 Si les choses lui plaisent ainsi, il est juste que nous obéissions. Renvoie-nous donc à l'antique Thèbes, afin que nous nous opposions au meurtre de nos frères, si nous le pouvons.
 
 
-**** *creator_sophocle *book_sophocle_oedipeacolone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oedipeacolone *dist2_sophocle_prose_tragedy *date_1877 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_ismene
+**** *creator_sophocle *book_sophocle_oedipeacolone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oedipeacolone *dist2_sophocle_prose_tragedy *id_ISMENE *date_1877 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_ismene
 
 Oh ! Qu'il m'est très doux de parler à mon père et à ma soeur ! Combien j'ai eu de peine à vous retrouver, et combien je suis maintenant accablée de douleur en vous revoyant !
 
@@ -611,7 +611,7 @@ Il est sans tombeau et n'a été porté par personne.
 Ô très malheureuse que je suis ! Abandonnée et manquant de tout, où mener ma misérable vie ?
 
 
-**** *creator_sophocle *book_sophocle_oedipeacolone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oedipeacolone *dist2_sophocle_prose_tragedy *date_1877 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lechoeur
+**** *creator_sophocle *book_sophocle_oedipeacolone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oedipeacolone *dist2_sophocle_prose_tragedy *id_LECHOEUR *date_1877 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lechoeur
 
 Regarde ! qui était-il ? Où s'est-il caché en s'évadant de ce lieu sacré, lui, le plus impudent de tous les hommes ? Cherche, vois, regarde de tous côtés. Certes, ce vieillard est un vagabond, un étranger. Autrement, il ne serait pas entré dans ce bois sacré, inaccessible, des vierges indomptées que nous redoutons d'invoquer par un nom, auprès de qui nous passons en détournant les yeux, la bouche close et en passant silencieusement. Maintenant on dit que quelqu'un est venu ici sans respect ; mais, en regardant de toute part dans le bois sacré, je ne puis voir où il est.
 
@@ -839,7 +839,7 @@ Certes, vous êtes tombées dans une large mer de maux.
 Apaisez-vous donc et ne vous lamentez pas outre mesure, car toutes ces choses seront accomplies.
 
 
-**** *creator_sophocle *book_sophocle_oedipeacolone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oedipeacolone *dist2_sophocle_prose_tragedy *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thesee
+**** *creator_sophocle *book_sophocle_oedipeacolone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oedipeacolone *dist2_sophocle_prose_tragedy *id_THESEE *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thesee
 
 De nombreuses paroles m'avaient déjà fait connaître les plaies sanglantes de tes yeux, et je te reconnais plus encore, ô fils de Laïus, par ce que j'ai entendu sur la route. En effet, tes vêtements et ta face lamentable me révèlent qui tu es. Je veux, plein de pitié pour toi, malheureux Oedipe, apprendre ce que vous nous suppliez de vous accorder, la ville et moi, à toi et à ta malheureuse compagne. Dis ce que tu veux. Il sera, certes, bien difficile, le service que je te refuserai. Il me souvient que, de même que toi, j'ai été élevé en étranger, et que j'ai subi de grands et innombrables dangers pour ma tête loin de ma patrie ; de sorte que je ne refuserai jamais de venir en aide à un étranger, tel que te voilà maintenant. Je sais que je suis homme, et que la lumière de demain n'est pas plus certaine pour moi que pour toi.
 
@@ -950,7 +950,7 @@ Cela n'est point permis.
 Je le ferai, ainsi que toutes les autres choses qui vous seront utiles et qui pourront plaire à celui qui vient de mourir, car il ne convient pas que je me décourage en ceci.
 
 
-**** *creator_sophocle *book_sophocle_oedipeacolone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oedipeacolone *dist2_sophocle_prose_tragedy *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_creon
+**** *creator_sophocle *book_sophocle_oedipeacolone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oedipeacolone *dist2_sophocle_prose_tragedy *id_CREON *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_creon
 
 Hommes de bonne race, habitants de cette terre, je vois dans vos yeux que vous concevez quelque crainte de mon arrivée soudaine ; mais ne redoutez point et épargnez-moi des paroles mauvaises. Je ne viens pas, en effet, afin d'agir par violence, étant vieux et sachant que la ville où je viens est la plus puissante en Hellas. Bien que très âgé, je suis parti pour persuader cet homme de me suivre dans la terre des Kadméiens ; et je suis envoyé, non par un seul, mais par tous les citoyens, parce qu'il me convenait, à cause de ma parenté, de plaindre ses misères plus grandement que tout autre. Donc, ô malheureux Oedipe, entends-moi et retourne dans ta demeure. Le peuple entier des Kadméiens t'appelle, comme il est juste, et moi, plus hautement que tous, qui gémis d'autant plus sur tes maux, ô vieillard, – à moins que je sois le pire des hommes, – que je te vois misérable, étranger partout et toujours errant, sans nourriture et sous la garde d'une seule compagne. Je n'aurais jamais pensé, malheureux que je suis ! qu'elle en viendrait à cette honte où elle est arrivée maintenant, ayant toujours le souci de ta tête et mendiant ta nourriture, si jeune, ignorant les noces, exposée à être enlevée par qui voudra ! Ô malheureux que je suis ! n'est-ce point là une flétrissure honteuse sur toi et sur moi et sur toute notre race ? Certes, il n'est point permis de cacher les choses manifestes ; mais, Oedipe, je t'adjure par les dieux de nos pères, cache au moins ceci. Rentre de bon gré dans la ville et dans ta demeure paternelle, et salue bienveillamment cette terre-ci, car elle le mérite. Mais ta patrie doit être plus honorée encore, elle qui t'a nourri autrefois.
 
@@ -1019,7 +1019,7 @@ Que commandes-tu à un homme sans forces, afin qu'il obéisse ?
 Je ne répondrai rien ici à ce que tu dis ; mais, dans nos demeures, nous saurons ce qu'il faudra faire.
 
 
-**** *creator_sophocle *book_sophocle_oedipeacolone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oedipeacolone *dist2_sophocle_prose_tragedy *date_1877 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_polynice
+**** *creator_sophocle *book_sophocle_oedipeacolone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oedipeacolone *dist2_sophocle_prose_tragedy *id_POLYNICE *date_1877 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_polynice
 
 Hélas ! Que ferai-je ? Pleurerai-je avant tout, ô enfants, mes propres maux ou ceux que je vois, ceux de mon vieux père ? Je le trouve avec vous jeté sur une terre étrangère, sous un vêtement sale et hideux qui souille son flanc et ne fait qu'un avec son vieux corps ; et sur sa tête sans yeux sa chevelure éparse se répand au vent. Et tels aussi, sans doute, sont les aliments de son ventre misérable. Ô très malheureux que je suis, je reconnais ces choses trop tard, et j'atteste que je suis le pire des hommes de n'être point venu pour te procurer de la nourriture. Sache-le de moi. Mais la clémence est assise sur le trône de Zeus. Qu'elle soit assise de même auprès de toi, père ! S'il est un remède à nos fautes, on ne peut les accroître. Pourquoi te taire ? Parle, ô père ; ne te détourne pas de moi. Ne me répondras-tu rien ? Me renverras-tu, m'ayant méprisé, ne m'ayant point parlé, ni révélé la cause de ta colère ? Ô filles de cet homme, mes soeurs, vous au moins efforcez-vous d'ouvrir la bouche triste et implacable de notre père ; et qu'il ne me renvoie point sans m'avoir parlé et m'ayant méprisé, bien que je sois le suppliant d'un dieu !
 
@@ -1048,7 +1048,7 @@ Ne me conseille pas ce qu'il ne convient pas de faire.
 Il appartient au démon de décider si les choses futures seront telles ou autres. Je prie les dieux que vous ne subissiez jamais aucun malheur ; car tous les hommes disent que vous ne méritez pas de souffrir.
 
 
-**** *creator_sophocle *book_sophocle_oedipeacolone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oedipeacolone *dist2_sophocle_prose_tragedy *date_1877 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lemessager
+**** *creator_sophocle *book_sophocle_oedipeacolone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oedipeacolone *dist2_sophocle_prose_tragedy *id_LEMESSAGER *date_1877 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lemessager
 
 Hommes citoyens, je vous dirai en paroles très brèves qu'Oedipe est mort ; mais les faits qui se sont accomplis ne sont pas de nature à être dits brièvement.
 
@@ -1059,7 +1059,7 @@ Ceci est digne d'admiration. De quelle façon il est parti, tu le sais, puisque 
 Non loin d'ici. Le bruit de leurs lamentations annonce qu'elles approchent.
 
 
-**** *creator_sophocle *book_sophocle_oedipeacolone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oedipeacolone *dist2_sophocle_prose_tragedy *date_1877 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_letranger
+**** *creator_sophocle *book_sophocle_oedipeacolone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oedipeacolone *dist2_sophocle_prose_tragedy *id_LETRANGER *date_1877 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_letranger
 
 Avant d'en demander davantage, lève-toi de là, car tu es en un lieu qu'il n'est pas permis de fouler.
 

@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_divertissementdesceaux *style_verse *genre_comedieballet *dist1_dancourt_verse_comedieballet_divertissementdesceaux *dist2_dancourt_verse_comedieballet *date_1705 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellesalle
+**** *creator_dancourt *book_dancourt_divertissementdesceaux *style_verse *genre_comedieballet *dist1_dancourt_verse_comedieballet_divertissementdesceaux *dist2_dancourt_verse_comedieballet *id_MADEMOISELLESALLE *date_1705 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellesalle
 
 Ne portons pas
 Plus loin nos pas,

@@ -1,6 +1,6 @@
 
 
-**** *creator_archambault *book_archambault_etrennes *style_verse *genre_comedy *dist1_archambault_verse_comedy_etrennes *dist2_archambault_verse_comedy *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdesaintfranc
+**** *creator_archambault *book_archambault_etrennes *style_verse *genre_comedy *dist1_archambault_verse_comedy_etrennes *dist2_archambault_verse_comedy *id_MONSIEURDESAINTFRANC *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdesaintfranc
 
       Moi, je n'attends personne ;
 Et je me trouve bien.
@@ -327,7 +327,7 @@ Votre transport est légitime,
 Et mon coeur le partage.
 
 
-**** *creator_archambault *book_archambault_etrennes *style_verse *genre_comedy *dist1_archambault_verse_comedy_etrennes *dist2_archambault_verse_comedy *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamedesaintfranc
+**** *creator_archambault *book_archambault_etrennes *style_verse *genre_comedy *dist1_archambault_verse_comedy_etrennes *dist2_archambault_verse_comedy *id_MADAMEDESAINTFRANC *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamedesaintfranc
 
 Embrasse-moi, viens, ma Sophie.
 
@@ -465,7 +465,7 @@ Se peut-il ?
 Tout est fini, ma soeur.
 
 
-**** *creator_archambault *book_archambault_etrennes *style_verse *genre_comedy *dist1_archambault_verse_comedy_etrennes *dist2_archambault_verse_comedy *date_1780 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_dinville
+**** *creator_archambault *book_archambault_etrennes *style_verse *genre_comedy *dist1_archambault_verse_comedy_etrennes *dist2_archambault_verse_comedy *id_DINVILLE *date_1780 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_dinville
 
       Excusez.
 
@@ -598,7 +598,7 @@ D'un père !
       Ah ! Monsieur !
 
 
-**** *creator_archambault *book_archambault_etrennes *style_verse *genre_comedy *dist1_archambault_verse_comedy_etrennes *dist2_archambault_verse_comedy *date_1780 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_sophie
+**** *creator_archambault *book_archambault_etrennes *style_verse *genre_comedy *dist1_archambault_verse_comedy_etrennes *dist2_archambault_verse_comedy *id_SOPHIE *date_1780 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_sophie
 
 Rends grâces au destin, bénis le Ciel, Sophie ;
 Ton sort est bien digne d'envie !
@@ -670,7 +670,7 @@ Mon père ! Ô Ciel !
 Ah ! mon père !
 
 
-**** *creator_archambault *book_archambault_etrennes *style_verse *genre_comedy *dist1_archambault_verse_comedy_etrennes *dist2_archambault_verse_comedy *date_1780 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_madamedormont
+**** *creator_archambault *book_archambault_etrennes *style_verse *genre_comedy *dist1_archambault_verse_comedy_etrennes *dist2_archambault_verse_comedy *id_MADAMEDORMONT *date_1780 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_madamedormont
 
 Bonjour, mes chers enfants ; vous êtes bien joyeux,
 N'est il pas vrai ? Bien amoureux !
@@ -784,7 +784,7 @@ Qui savent honorer, par une marque sûre,
 L'Amour, l'Amitié, la Nature.
 
 
-**** *creator_archambault *book_archambault_etrennes *style_verse *genre_comedy *dist1_archambault_verse_comedy_etrennes *dist2_archambault_verse_comedy *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdherbain
+**** *creator_archambault *book_archambault_etrennes *style_verse *genre_comedy *dist1_archambault_verse_comedy_etrennes *dist2_archambault_verse_comedy *id_MONSIEURDHERBAIN *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdherbain
 
 Madame, pardonnez....
 

@@ -1,6 +1,6 @@
 
 
-**** *creator_marivaux *book_marivaux_triomphedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_triomphedelamour *dist2_marivaux_prose_comedy *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hermocrate
+**** *creator_marivaux *book_marivaux_triomphedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_triomphedelamour *dist2_marivaux_prose_comedy *id_HERMOCRATE *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hermocrate
 
 Est-ce là le jeune étranger dont vous me parlez ?
 
@@ -272,7 +272,7 @@ De qui est ce portrait-là ?
 Il ne s'agit point ici de plaisanterie. Qui êtes-vous ? Quels sont vos desseins ?
 
 
-**** *creator_marivaux *book_marivaux_triomphedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_triomphedelamour *dist2_marivaux_prose_comedy *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leontine
+**** *creator_marivaux *book_marivaux_triomphedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_triomphedelamour *dist2_marivaux_prose_comedy *id_LEONTINE *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leontine
 
 On m'a dit, Seigneur, que vous demandiez à parler à Hermocrate mon frère ; il n'est pas actuellement ici. Pouvez-vous, en attendant qu'il revienne, me confier ce que vous avez à lui dire ?
 
@@ -457,7 +457,7 @@ Je suis outrée, je l'avoue.
 Et celui-ci, fourbe que vous êtes ?
 
 
-**** *creator_marivaux *book_marivaux_triomphedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_triomphedelamour *dist2_marivaux_prose_comedy *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agis
+**** *creator_marivaux *book_marivaux_triomphedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_triomphedelamour *dist2_marivaux_prose_comedy *id_AGIS *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agis
 
 Qu'est-ce que c'est donc que ce bruit-là, jardinier ? Contre qui criez-vous ?
 
@@ -650,7 +650,7 @@ Je ne puis plus vous exprimer le mien. 
 
 
 
-**** *creator_marivaux *book_marivaux_triomphedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_triomphedelamour *dist2_marivaux_prose_comedy *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dimas
+**** *creator_marivaux *book_marivaux_triomphedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_triomphedelamour *dist2_marivaux_prose_comedy *id_DIMAS *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dimas
 
 Avec qui est-ce donc qu'ou parlez là, noute ami ?
 
@@ -801,7 +801,7 @@ Que ferons-je, camarade ? Alle me baille de la peur ; continuerons-je l'insolenc
 Noute maître, je vous avartis qu'il y a tout plain d'hallebardiers au bas de noute jardrin ; et pis des soudards et pis des carrioles dorées.
 
 
-**** *creator_marivaux *book_marivaux_triomphedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_triomphedelamour *dist2_marivaux_prose_comedy *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_marivaux *book_marivaux_triomphedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_triomphedelamour *dist2_marivaux_prose_comedy *id_ARLEQUIN *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Qu'est-ce que c'est que ces gens-là ?
 

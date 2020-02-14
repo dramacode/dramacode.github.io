@@ -1,6 +1,6 @@
 
 
-**** *creator_campistron *book_campistron_andronic *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_andronic *dist2_campistron_verse_tragedy *date_1685 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_irene
+**** *creator_campistron *book_campistron_andronic *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_andronic *dist2_campistron_verse_tragedy *id_IRENE *date_1685 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_irene
 
 Je ne le verrai point, non j'y suis résolue,
 M'osez-vous conseiller cette fatale vue :
@@ -257,7 +257,7 @@ Eudoxe, ménageons cet instant de ma vie,
 N'avoir en expirant que vos yeux pour témoins.
 
 
-**** *creator_campistron *book_campistron_andronic *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_andronic *dist2_campistron_verse_tragedy *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_andronic
+**** *creator_campistron *book_campistron_andronic *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_andronic *dist2_campistron_verse_tragedy *id_ANDRONIC *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_andronic
 
 Je vais leur en parler, ils sont tous deux ici,
 Léonce, vous verrez avec combien de zèle
@@ -847,7 +847,7 @@ Avez-vous fait, Aspar, ce que je vous ai dit ?
 Tout est prêt, allons donc.
 
 
-**** *creator_campistron *book_campistron_andronic *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_andronic *dist2_campistron_verse_tragedy *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leon
+**** *creator_campistron *book_campistron_andronic *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_andronic *dist2_campistron_verse_tragedy *id_LEON *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leon
 
 Que l'on nous laisse seuls. Seigneur, puis-je prétendre.
 Qu'avec tranquillité vous daignerez m'entendre ;
@@ -955,7 +955,7 @@ Souvenez-vous enfin que vous en répondrez.
 Adieu.
 
 
-**** *creator_campistron *book_campistron_andronic *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_andronic *dist2_campistron_verse_tragedy *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marcene
+**** *creator_campistron *book_campistron_andronic *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_andronic *dist2_campistron_verse_tragedy *id_MARCENE *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marcene
 
 Quoi malgré nos chagrins et notre longue haine,
 Léon, dis-tu, demande à parler à Marcène ?
@@ -1090,7 +1090,7 @@ Il nous a menacé, il nous perdrait un jour,
 N'attendons point du sort ce funeste retour.
 
 
-**** *creator_campistron *book_campistron_andronic *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_andronic *dist2_campistron_verse_tragedy *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leonce
+**** *creator_campistron *book_campistron_andronic *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_andronic *dist2_campistron_verse_tragedy *id_LEONCE *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leonce
 
       Sur l'espoir d'obtenir votre appui,
 Seigneur, nous nous flattons...
@@ -1206,7 +1206,7 @@ Hâtez-vous donc, Seigneur, moi sans plus différer
 À remplir vos désirs, je vais tout préparer.
 
 
-**** *creator_campistron *book_campistron_andronic *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_andronic *dist2_campistron_verse_tragedy *date_1685 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eudoxe
+**** *creator_campistron *book_campistron_andronic *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_andronic *dist2_campistron_verse_tragedy *id_EUDOXE *date_1685 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eudoxe
 
 Pourquoi lui refuser un moment d'entretien ?
 Voulez-vous qu'irrité de votre résistance,
@@ -1280,7 +1280,7 @@ Ah ! Quittez ce dessein, et cherchez du secours.
 Quoi donc...
 
 
-**** *creator_campistron *book_campistron_andronic *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_andronic *dist2_campistron_verse_tragedy *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_martian
+**** *creator_campistron *book_campistron_andronic *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_andronic *dist2_campistron_verse_tragedy *id_MARTIAN *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_martian
 
 Eh quoi ! Vous flattez-vous que loin de cette ville,
 Que sous un autre ciel vous serez plus tranquille ?
@@ -1324,7 +1324,7 @@ Mais, Seigneur...
 Partez...
 
 
-**** *creator_campistron *book_campistron_andronic *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_andronic *dist2_campistron_verse_tragedy *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aspar
+**** *creator_campistron *book_campistron_andronic *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_andronic *dist2_campistron_verse_tragedy *id_ASPAR *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aspar
 
 Il suis prêt pour lui plaire à tout sacrifier,
 Commandez.
@@ -1363,7 +1363,7 @@ Auprès de l'Empereur un ordre exprès m'attire :
 Vous saurez tout.
 
 
-**** *creator_campistron *book_campistron_andronic *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_andronic *dist2_campistron_verse_tragedy *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gelas
+**** *creator_campistron *book_campistron_andronic *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_andronic *dist2_campistron_verse_tragedy *id_GELAS *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gelas
 
       Seigneur, c'est une lettre
 Qu'en secret dans vos mains j'ai promis de remettre.

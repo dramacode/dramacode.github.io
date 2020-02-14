@@ -1,6 +1,6 @@
 
 
-**** *creator_boyer *book_boyer_federic *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_federic *dist2_boyer_verse_tragedy *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_yoland
+**** *creator_boyer *book_boyer_federic *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_federic *dist2_boyer_verse_tragedy *id_yoland *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_yoland
 
 J'ay bien d'autres soucis que ceux de l'Hymenée,
 Quand mille maux secrets troublent ma destinée,
@@ -553,7 +553,7 @@ Ah! d'un si digne Fils illustre et digne Pere.
 N'estoit-ce pas assez de regner apres vous ?
 
 
-**** *creator_boyer *book_boyer_federic *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_federic *dist2_boyer_verse_tragedy *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_federic
+**** *creator_boyer *book_boyer_federic *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_federic *dist2_boyer_verse_tragedy *id_federic *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_federic
 
 Tout rit à vos souhaits ; et cette vieille Loy
 Qui ne souffre en ces lieux que le regne d'un Roy,
@@ -1083,7 +1083,7 @@ Vous, au Trône de Naple allez placer Camille,
 Vous, montrez nostre Reyne aux Peuples de Sicile.
 
 
-**** *creator_boyer *book_boyer_federic *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_federic *dist2_boyer_verse_tragedy *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_camille
+**** *creator_boyer *book_boyer_federic *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_federic *dist2_boyer_verse_tragedy *id_camille *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_camille
 
 Seigneur, de ces delais le pretexte est plausible ;
 Mais un Prince amoureux doit estre plus sensible.
@@ -1423,7 +1423,7 @@ Mais avoüez au moins qu'un Trône n'en est pas.
       Vous comblez nos souhaits les plus doux.
 
 
-**** *creator_boyer *book_boyer_federic *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_federic *dist2_boyer_verse_tragedy *date_1660 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_valere
+**** *creator_boyer *book_boyer_federic *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_federic *dist2_boyer_verse_tragedy *id_valere *date_1660 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_valere
 
       Ah! Seigneur, que de gloire
 Vous appreste l'espoir d'une grande victoire,
@@ -1748,7 +1748,7 @@ Je borne mes desirs à ce choix glorieux.
 Ah! Roy trop genereux. Ah! trop heureux Valere.
 
 
-**** *creator_boyer *book_boyer_federic *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_federic *dist2_boyer_verse_tragedy *date_1660 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_fabrice
+**** *creator_boyer *book_boyer_federic *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_federic *dist2_boyer_verse_tragedy *id_fabrice *date_1660 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_fabrice
 
 Nous jusques à Camille élever nostre veuë!
 
@@ -1986,7 +1986,7 @@ Ce choix peut contenter les plus ambitieux.
 Ah! Seigneur.
 
 
-**** *creator_boyer *book_boyer_federic *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_federic *dist2_boyer_verse_tragedy *date_1660 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_marcellin
+**** *creator_boyer *book_boyer_federic *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_federic *dist2_boyer_verse_tragedy *id_marcellin *date_1660 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_marcellin
 
 Si pres de cet Hymen qui vous donnant Camille,
 Joint le Sceptre de Naple à celuy de Sicile,
@@ -2103,7 +2103,7 @@ Pour appaiser le Peuple, on obeït aux Loix.
 Si pres d'un grand combat ayant besoin d'un Maistre …
 
 
-**** *creator_boyer *book_boyer_federic *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_federic *dist2_boyer_verse_tragedy *date_1660 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_octave
+**** *creator_boyer *book_boyer_federic *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_federic *dist2_boyer_verse_tragedy *id_octave *date_1660 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_octave
 
 Roger s'éleve au Trône, arme avec grand éclat ;
 Mais tousjours menacé de ce Peuple indocile,
@@ -2188,7 +2188,7 @@ Et qu'il falloit enfin prévenir⁎ ses efforts,
 Avant que de songer à se choisir un Maistre.
 
 
-**** *creator_boyer *book_boyer_federic *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_federic *dist2_boyer_verse_tragedy *date_1660 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_florise
+**** *creator_boyer *book_boyer_federic *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_federic *dist2_boyer_verse_tragedy *id_florise *date_1660 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_florise
 
 Ainsi l'amour du Roy vous est indiferent.
 

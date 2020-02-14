@@ -1,6 +1,6 @@
 
 
-**** *creator_marivaux *book_marivaux_commere *style_prose *genre_comedy *dist1_marivaux_prose_comedy_commere *dist2_marivaux_prose_comedy *date_1741 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurremy
+**** *creator_marivaux *book_marivaux_commere *style_prose *genre_comedy *dist1_marivaux_prose_comedy_commere *dist2_marivaux_prose_comedy *id_MONSIEURREMY *date_1741 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurremy
 
 Où est donc Madame Alain, Mademoiselle Agathe ?
 
@@ -55,7 +55,7 @@ Encore ! Hé bien ! Je reste. Vos mille écus vous seront rendus, Monsieur Thiba
 Quand j'aurai vidé votre armoire, je vous achèverai aussi mes compliments.
 
 
-**** *creator_marivaux *book_marivaux_commere *style_prose *genre_comedy *dist1_marivaux_prose_comedy_commere *dist2_marivaux_prose_comedy *date_1741 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurthibaut
+**** *creator_marivaux *book_marivaux_commere *style_prose *genre_comedy *dist1_marivaux_prose_comedy_commere *dist2_marivaux_prose_comedy *id_MONSIEURTHIBAUT *date_1741 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurthibaut
 
 Je ne m'en cache pas, Madame. Qu'y a-t-il pour votre service ?
 
@@ -120,7 +120,7 @@ C'est en passant que vous me l'avez dit aussi, souvenez-vous-en.
 Puisse le ciel vous aimer assez pour vous rendre muette !
 
 
-**** *creator_marivaux *book_marivaux_commere *style_prose *genre_comedy *dist1_marivaux_prose_comedy_commere *dist2_marivaux_prose_comedy *date_1741 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_leneveu
+**** *creator_marivaux *book_marivaux_commere *style_prose *genre_comedy *dist1_marivaux_prose_comedy_commere *dist2_marivaux_prose_comedy *id_LENEVEU *date_1741 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_leneveu
 
 Excusez la liberté que je prends. On dit que vous avez chez vous une demoiselle qui va se marier incognito.
 
@@ -177,7 +177,7 @@ Mademoiselle Habert a eu tort de fuir ; elle n'avait à craindre que des représ
 Vous êtes notre ressource et nous nous reposons sur vos soins, Madame.
 
 
-**** *creator_marivaux *book_marivaux_commere *style_prose *genre_comedy *dist1_marivaux_prose_comedy_commere *dist2_marivaux_prose_comedy *date_1741 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamealain
+**** *creator_marivaux *book_marivaux_commere *style_prose *genre_comedy *dist1_marivaux_prose_comedy_commere *dist2_marivaux_prose_comedy *id_MADAMEALAIN *date_1741 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamealain
 
 Dites-moi donc, gros garçon, qu'est-ce qu'elle me conte là ? Que souhaitez-vous ?
 
@@ -535,7 +535,7 @@ Oui ! Vous verrez que c'est moi qui ai tort.
 C'est fort bien fait, Messieurs. Voilà ce qui arrive quand on ne sait pas se taire.
 
 
-**** *creator_marivaux *book_marivaux_commere *style_prose *genre_comedy *dist1_marivaux_prose_comedy_commere *dist2_marivaux_prose_comedy *date_1741 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellehabert
+**** *creator_marivaux *book_marivaux_commere *style_prose *genre_comedy *dist1_marivaux_prose_comedy_commere *dist2_marivaux_prose_comedy *id_MADEMOISELLEHABERT *date_1741 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellehabert
 
 Je le veux bien.
 
@@ -691,7 +691,7 @@ Ingrat ! Sont-ce là les témoignages de ta reconnaissance ? Messieurs, il n'y a
 Laisse-moi, te dis-je ! Je te déteste.
 
 
-**** *creator_marivaux *book_marivaux_commere *style_prose *genre_comedy *dist1_marivaux_prose_comedy_commere *dist2_marivaux_prose_comedy *date_1741 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_agathe
+**** *creator_marivaux *book_marivaux_commere *style_prose *genre_comedy *dist1_marivaux_prose_comedy_commere *dist2_marivaux_prose_comedy *id_AGATHE *date_1741 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_agathe
 
 Oh ! C'est vous, Monsieur de la Vallée. Vous avez l'air bien gai ; qu'avez-vous donc ?
 
@@ -801,7 +801,7 @@ Et Javotte est la seule à qui j'en ai ouvert la bouche.
 Ce n'est pas moi, ma mère, c'est Javotte.
 
 
-**** *creator_marivaux *book_marivaux_commere *style_prose *genre_comedy *dist1_marivaux_prose_comedy_commere *dist2_marivaux_prose_comedy *date_1741 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_javotte
+**** *creator_marivaux *book_marivaux_commere *style_prose *genre_comedy *dist1_marivaux_prose_comedy_commere *dist2_marivaux_prose_comedy *id_JAVOTTE *date_1741 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_javotte
 
 Comme vous criez, Madame ! On n'a pas le temps de vous répondre. Que vous plaît-il ?
 

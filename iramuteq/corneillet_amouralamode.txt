@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillet *book_corneillet_amouralamode *style_verse *genre_comedy *dist1_corneillet_verse_comedy_amouralamode *dist2_corneillet_verse_comedy *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_argante
+**** *creator_corneillet *book_corneillet_amouralamode *style_verse *genre_comedy *dist1_corneillet_verse_comedy_amouralamode *dist2_corneillet_verse_comedy *id_ARGANTE *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_argante
 
 Enfin j'en ai donné ma parole pour gage,
 Dorotée est promise, et l'Hymen arrêté
@@ -113,7 +113,7 @@ Quoi, voir de nuit ma Fille, et tous deux tant oser...
       À moins que l'épouser...
 
 
-**** *creator_corneillet *book_corneillet_amouralamode *style_verse *genre_comedy *dist1_corneillet_verse_comedy_amouralamode *dist2_corneillet_verse_comedy *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
+**** *creator_corneillet *book_corneillet_amouralamode *style_verse *genre_comedy *dist1_corneillet_verse_comedy_amouralamode *dist2_corneillet_verse_comedy *id_ORONTE *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
 
 As-tu fait mon message ?
 
@@ -1205,7 +1205,7 @@ C'est la fin de mon rôle, il faut bien le vouloir.
       Va, nous t'en assurons.
 
 
-**** *creator_corneillet *book_corneillet_amouralamode *style_verse *genre_comedy *dist1_corneillet_verse_comedy_amouralamode *dist2_corneillet_verse_comedy *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_florame
+**** *creator_corneillet *book_corneillet_amouralamode *style_verse *genre_comedy *dist1_corneillet_verse_comedy_amouralamode *dist2_corneillet_verse_comedy *id_FLORAME *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_florame
 
 Ami, je suis heureux de vous avoir trouvé,
 Je vous cherchais partout.
@@ -1360,7 +1360,7 @@ Mais Éraste...
 Adieu, ne soyez point jaloux de mon bonheur.
 
 
-**** *creator_corneillet *book_corneillet_amouralamode *style_verse *genre_comedy *dist1_corneillet_verse_comedy_amouralamode *dist2_corneillet_verse_comedy *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+**** *creator_corneillet *book_corneillet_amouralamode *style_verse *genre_comedy *dist1_corneillet_verse_comedy_amouralamode *dist2_corneillet_verse_comedy *id_ERASTE *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
 
       Et bien plus dans mon coeur.
 D'une fière Beauté j'ai vaincu la rigueur,
@@ -1501,7 +1501,7 @@ Cependant je tiendrai ma parole donnée,
 Venez en voir l'effet, et remenez ma Soeur.
 
 
-**** *creator_corneillet *book_corneillet_amouralamode *style_verse *genre_comedy *dist1_corneillet_verse_comedy_amouralamode *dist2_corneillet_verse_comedy *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorotee
+**** *creator_corneillet *book_corneillet_amouralamode *style_verse *genre_comedy *dist1_corneillet_verse_comedy_amouralamode *dist2_corneillet_verse_comedy *id_DOROTEE *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorotee
 
 La promenade est belle, et ce lieu fort charmant.
 
@@ -2000,7 +2000,7 @@ L'aimes-tu ?
       Elle est à toi.
 
 
-**** *creator_corneillet *book_corneillet_amouralamode *style_verse *genre_comedy *dist1_corneillet_verse_comedy_amouralamode *dist2_corneillet_verse_comedy *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucie
+**** *creator_corneillet *book_corneillet_amouralamode *style_verse *genre_comedy *dist1_corneillet_verse_comedy_amouralamode *dist2_corneillet_verse_comedy *id_LUCIE *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucie
 
 Florame, je ne sais que ce que je dois faire.
 
@@ -2182,7 +2182,7 @@ De moi ? Que dites-vous ? C'est ce que je dénie,
 Mon amour est un bien qu'il ne peut espérer.
 
 
-**** *creator_corneillet *book_corneillet_amouralamode *style_verse *genre_comedy *dist1_corneillet_verse_comedy_amouralamode *dist2_corneillet_verse_comedy *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_corneillet *book_corneillet_amouralamode *style_verse *genre_comedy *dist1_corneillet_verse_comedy_amouralamode *dist2_corneillet_verse_comedy *id_LISETTE *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Voici l'heure à peu près qu'on y voit le beau monde.
 
@@ -2534,7 +2534,7 @@ J'en doute.
 Voyons compter l'argent, et puis nous parlerons.
 
 
-**** *creator_corneillet *book_corneillet_amouralamode *style_verse *genre_comedy *dist1_corneillet_verse_comedy_amouralamode *dist2_corneillet_verse_comedy *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cliton
+**** *creator_corneillet *book_corneillet_amouralamode *style_verse *genre_comedy *dist1_corneillet_verse_comedy_amouralamode *dist2_corneillet_verse_comedy *id_CLITON *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cliton
 
       Oui, Monsieur.
 
@@ -3089,7 +3089,7 @@ Que trop.
       C'est à tort.
 
 
-**** *creator_corneillet *book_corneillet_amouralamode *style_verse *genre_comedy *dist1_corneillet_verse_comedy_amouralamode *dist2_corneillet_verse_comedy *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_licas
+**** *creator_corneillet *book_corneillet_amouralamode *style_verse *genre_comedy *dist1_corneillet_verse_comedy_amouralamode *dist2_corneillet_verse_comedy *id_LICAS *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_licas
 
 Est-il rien si secret, Monsieur, qu'on ne devine ?
 Peut-être Dorotée en a fait vanité.

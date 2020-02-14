@@ -1,6 +1,6 @@
 
 
-**** *creator_dufresny *book_dufresny_dedit *style_verse *genre_comedy *dist1_dufresny_verse_comedy_dedit *dist2_dufresny_verse_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_geronte
+**** *creator_dufresny *book_dufresny_dedit *style_verse *genre_comedy *dist1_dufresny_verse_comedy_dedit *dist2_dufresny_verse_comedy *id_GERONTE *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_geronte
 
 Vous devinez assez, en voyant ma tristesse,
 Que je n'ai qu'un refus : ma bonté, ma tendresse
@@ -51,7 +51,7 @@ Je vous unis tous deux.
 C'est de nous demander là-dessus le secret.
 
 
-**** *creator_dufresny *book_dufresny_dedit *style_verse *genre_comedy *dist1_dufresny_verse_comedy_dedit *dist2_dufresny_verse_comedy *date_1719 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+**** *creator_dufresny *book_dufresny_dedit *style_verse *genre_comedy *dist1_dufresny_verse_comedy_dedit *dist2_dufresny_verse_comedy *id_ISABELLE *date_1719 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
 
 Je n'en puis revenir. Quelles extravagantes !
 
@@ -147,7 +147,7 @@ Puisque cent mille francs suffisent à mon père.
 Pardonnez au neveu la ruse du valet.
 
 
-**** *creator_dufresny *book_dufresny_dedit *style_verse *genre_comedy *dist1_dufresny_verse_comedy_dedit *dist2_dufresny_verse_comedy *date_1719 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_belise
+**** *creator_dufresny *book_dufresny_dedit *style_verse *genre_comedy *dist1_dufresny_verse_comedy_dedit *dist2_dufresny_verse_comedy *id_BELISE *date_1719 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_belise
 
       Ah, sénéchal ! Quoi ! Vous êtes ici ?
 Je rêvais.
@@ -359,7 +359,7 @@ Quoi !
 Ah, ma soeur !
 
 
-**** *creator_dufresny *book_dufresny_dedit *style_verse *genre_comedy *dist1_dufresny_verse_comedy_dedit *dist2_dufresny_verse_comedy *date_1719 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_araminte
+**** *creator_dufresny *book_dufresny_dedit *style_verse *genre_comedy *dist1_dufresny_verse_comedy_dedit *dist2_dufresny_verse_comedy *id_ARAMINTE *date_1719 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_araminte
 
 Je cours en étourdie. On vient de m'intriguer...
 Je tremble... J'ai pourtant cent choses à vous dire,
@@ -562,7 +562,7 @@ Un valet !
       Ah ma soeur ! Cachons-leur notre honte.
 
 
-**** *creator_dufresny *book_dufresny_dedit *style_verse *genre_comedy *dist1_dufresny_verse_comedy_dedit *dist2_dufresny_verse_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+**** *creator_dufresny *book_dufresny_dedit *style_verse *genre_comedy *dist1_dufresny_verse_comedy_dedit *dist2_dufresny_verse_comedy *id_VALERE *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
 
 Quoi ! Ne pouvoir tirer raison de mes deux tantes !
 
@@ -729,7 +729,7 @@ La peur qu'elles auront qu'on n'en fasse un bon conte,
 Peut-être les rendra moins injustes pour moi.
 
 
-**** *creator_dufresny *book_dufresny_dedit *style_verse *genre_comedy *dist1_dufresny_verse_comedy_dedit *dist2_dufresny_verse_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+**** *creator_dufresny *book_dufresny_dedit *style_verse *genre_comedy *dist1_dufresny_verse_comedy_dedit *dist2_dufresny_verse_comedy *id_FRONTIN *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
 
 Monsieur ?
 

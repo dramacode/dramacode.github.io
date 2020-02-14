@@ -1,6 +1,6 @@
 
 
-**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomte
+**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *id_LECOMTE *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomte
 
 Vous ne voulez donc pas, Madame, que je sorte ?
 
@@ -468,7 +468,7 @@ Que de l'état heureux, où l'amour nous a mis,
 Nous faisons appeler, généreux ennemis.
 
 
-**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *date_1654 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cassandre
+**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *id_CASSANDRE *date_1654 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cassandre
 
 Si tu m'aimes, Lisette, avance dans la nuit,
 Et vois ce qui s'y fait.
@@ -542,7 +542,7 @@ Oui, Don Pedre m'aimait, et je l'aimais aussi.
 Peut-être verras-tu que je suis bien à craindre.
 
 
-**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donpedre
+**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *id_DONPEDRE *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donpedre
 
       Et tu dis que mon père
 T'a donné seulement ?
@@ -1049,7 +1049,7 @@ D'un ennemi vous fait un frère, un serviteur.
       Je l'adore.
 
 
-**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *date_1654 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonore
+**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *id_LEONORE *date_1654 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonore
 
 Non, je ne le veux pas. Ferme, ferme la porte.
 
@@ -1285,7 +1285,7 @@ Et ma bouche ne peut longtemps mon cour trahir.
 Mon Père, pardonnez.
 
 
-**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donfelix
+**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *id_DONFELIX *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donfelix
 
 Ouvrez.
 
@@ -1640,7 +1640,7 @@ Qu'un mariage seul peut nous rendre contents.
 Hasardant votre honneur vous l'avez augmenté.
 
 
-**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
+**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *id_CRISPIN *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
 
       Adsum.
 
@@ -2081,7 +2081,7 @@ De ces heureux Amants faisons l'épithalame.
       Ou bien de Béatris.
 
 
-**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *date_1654 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_beatrix
+**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *id_BEATRIX *date_1654 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_beatrix
 
       Je ne puis, ni ne dois.
 Maudit soit le verrou qui m'a pincé les doigts.
@@ -2287,7 +2287,7 @@ J'en suis : souhaitons leur des filles et des fils
 De l'humeur de Crispin.
 
 
-**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *date_1654 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *id_LISETTE *date_1654 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
       Je crois que l'on s'y tue.
 
@@ -2302,7 +2302,7 @@ Et si tu m'avais vue.
 Tu perdrais ta franchise.
 
 
-**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zamorin
+**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *id_ZAMORIN *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zamorin
 
       Reposez-vous sur nous :
 En matière d'honneur nous nous connaissons tous.
@@ -2452,7 +2452,7 @@ Où leurs bras agiront et pour eux, et pour vous.
 Le secret.
 
 
-**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lataillade
+**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *id_LATAILLADE *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lataillade
 
       Le dessein de te voir.
 
@@ -2528,7 +2528,7 @@ Oui c'est moi.
 Se ferait assommer.
 
 
-**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *date_1654 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_donlouis
+**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *id_DONLOUIS *date_1654 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_donlouis
 
 Vous savez mon dessein.
 
@@ -2556,7 +2556,7 @@ Tu mourras, Fanfaron.
 Le traître m'a blessé. Je n'en puis plus.
 
 
-**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_prevot
+**** *creator_scarron *book_scarron_ecolierdesalamanque *style_verse *genre_comedy *dist1_scarron_verse_comedy_ecolierdesalamanque *dist2_scarron_verse_comedy *id_PREVOT *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_prevot
 
 Monsieur, vous trouverez ma visite incivile :
 Mais le triste accident qui m'amène si tard

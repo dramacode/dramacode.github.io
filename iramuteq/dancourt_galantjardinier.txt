@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_galantjardinier *style_prose *genre_comedy *dist1_dancourt_prose_comedy_galantjardinier *dist2_dancourt_prose_comedy *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdubuisson
+**** *creator_dancourt *book_dancourt_galantjardinier *style_prose *genre_comedy *dist1_dancourt_prose_comedy_galantjardinier *dist2_dancourt_prose_comedy *id_MONSIEURDUBUISSON *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdubuisson
 
 Taisez-vous, ma femme, je sais bien ce que je fais. Quand on a des filles d'un certain âge, d'un certain esprit, d'une certaine tournure, on ne peut trop se hâter de les marier, et il n'y a point de contretemps pour s'en défaire.
 
@@ -151,7 +151,7 @@ Je suis tout prêt à vous tenir ma parole ; mais cependant j'hésitais à donne
 Allons nous mettre à table, remettons le bal après le souper.
 
 
-**** *creator_dancourt *book_dancourt_galantjardinier *style_prose *genre_comedy *dist1_dancourt_prose_comedy_galantjardinier *dist2_dancourt_prose_comedy *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamedubuisson
+**** *creator_dancourt *book_dancourt_galantjardinier *style_prose *genre_comedy *dist1_dancourt_prose_comedy_galantjardinier *dist2_dancourt_prose_comedy *id_MADAMEDUBUISSON *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamedubuisson
 
 Oh ! Pour cela, monsieur Dubuisson, vous prenez bien mal votre temps pour faire ce mariage.
 
@@ -194,7 +194,7 @@ Mon fils !
 De ma fille ?
 
 
-**** *creator_dancourt *book_dancourt_galantjardinier *style_prose *genre_comedy *dist1_dancourt_prose_comedy_galantjardinier *dist2_dancourt_prose_comedy *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucile
+**** *creator_dancourt *book_dancourt_galantjardinier *style_prose *genre_comedy *dist1_dancourt_prose_comedy_galantjardinier *dist2_dancourt_prose_comedy *id_LUCILE *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucile
 
 Mais, que veux-tu que je te dise ?
 
@@ -285,7 +285,7 @@ Voyons ce que c'est. Il est plein de louis ! Garde-toi bien de prendre cela, Mar
 Oh ! Pour ce dernier tour-là il me fait plaisir ; j'en suis, et l'on ne saurait donner une collation d'une manière plus galante.
 
 
-**** *creator_dancourt *book_dancourt_galantjardinier *style_prose *genre_comedy *dist1_dancourt_prose_comedy_galantjardinier *dist2_dancourt_prose_comedy *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurcaton
+**** *creator_dancourt *book_dancourt_galantjardinier *style_prose *genre_comedy *dist1_dancourt_prose_comedy_galantjardinier *dist2_dancourt_prose_comedy *id_MONSIEURCATON *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurcaton
 
 Monsieur Dubuisson…
 
@@ -347,7 +347,7 @@ Voi, voi, voilà le fait, Monsieur Dubuisson.
 Je viens, ma foi, de l'échapper belle.
 
 
-**** *creator_dancourt *book_dancourt_galantjardinier *style_prose *genre_comedy *dist1_dancourt_prose_comedy_galantjardinier *dist2_dancourt_prose_comedy *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurbavardin
+**** *creator_dancourt *book_dancourt_galantjardinier *style_prose *genre_comedy *dist1_dancourt_prose_comedy_galantjardinier *dist2_dancourt_prose_comedy *id_MONSIEURBAVARDIN *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurbavardin
 
 Je viens… je viens…
 
@@ -393,7 +393,7 @@ Quand j'ai fait revenir ton maître d'Allemagne, c'était pour le marier avec la
 Que cela ne vous inquiète point, quelques dépenses qu'il puisse faire, j'ai assez de bien pour les soutenir.
 
 
-**** *creator_dancourt *book_dancourt_galantjardinier *style_prose *genre_comedy *dist1_dancourt_prose_comedy_galantjardinier *dist2_dancourt_prose_comedy *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+**** *creator_dancourt *book_dancourt_galantjardinier *style_prose *genre_comedy *dist1_dancourt_prose_comedy_galantjardinier *dist2_dancourt_prose_comedy *id_LEANDRE *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
 
 Il est donc bien en peine de moi ?
 
@@ -474,7 +474,7 @@ En ce cas, nan pourrait d'un autre côté…
 Mon père, je vous demande mille pardons.
 
 
-**** *creator_dancourt *book_dancourt_galantjardinier *style_prose *genre_comedy *dist1_dancourt_prose_comedy_galantjardinier *dist2_dancourt_prose_comedy *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucas
+**** *creator_dancourt *book_dancourt_galantjardinier *style_prose *genre_comedy *dist1_dancourt_prose_comedy_galantjardinier *dist2_dancourt_prose_comedy *id_LUCAS *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucas
 
 Bonjour, Mathurine, je sis bian aise que ce soit toi. Es-tu toute fine seule ?
 
@@ -586,7 +586,7 @@ Eh ! Morgué, ne faut pas tant rêver, c'est de mademoiselle Lucile qu'il est am
 Et moi, palsanguenne, j'ai fait un biau coup. Avouez tretous, que je sis un habile homme.
 
 
-**** *creator_dancourt *book_dancourt_galantjardinier *style_prose *genre_comedy *dist1_dancourt_prose_comedy_galantjardinier *dist2_dancourt_prose_comedy *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mathurine
+**** *creator_dancourt *book_dancourt_galantjardinier *style_prose *genre_comedy *dist1_dancourt_prose_comedy_galantjardinier *dist2_dancourt_prose_comedy *id_MATHURINE *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mathurine
 
 Ah ! Vous voilà, monsieur de la Montagne, il y a une heure que votre maître…
 
@@ -655,7 +655,7 @@ Non, non, ne craignez rian ; ce sont d'honnêtes gens, ils se recommandent treto
 On a servi, monsieur.
 
 
-**** *creator_dancourt *book_dancourt_galantjardinier *style_prose *genre_comedy *dist1_dancourt_prose_comedy_galantjardinier *dist2_dancourt_prose_comedy *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamontagne
+**** *creator_dancourt *book_dancourt_galantjardinier *style_prose *genre_comedy *dist1_dancourt_prose_comedy_galantjardinier *dist2_dancourt_prose_comedy *id_LAMONTAGNE *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamontagne
 
 Oh ! Vraiment, oui, monsieur, vous avez soupçonné juste : toutes ces fêtes-là, toute cette musique qui nous fait coucher si tard et qui nous éveille si matin…
 
@@ -847,7 +847,7 @@ Cela est admirable : Point de tricherie, au moins !
 Oh bien ! En ce cas-là, démasquez-vous, monsieur le jardinier, tout est découvert.
 
 
-**** *creator_dancourt *book_dancourt_galantjardinier *style_prose *genre_comedy *dist1_dancourt_prose_comedy_galantjardinier *dist2_dancourt_prose_comedy *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marthon
+**** *creator_dancourt *book_dancourt_galantjardinier *style_prose *genre_comedy *dist1_dancourt_prose_comedy_galantjardinier *dist2_dancourt_prose_comedy *id_MARTHON *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marthon
 
 Mort de ma vie, mademoiselle, vous n'êtes pas de bonne foi ; vous ne me dites point naturellement ce que vous avez dans l'âme.
 
@@ -958,7 +958,7 @@ Je vous demande pardon, mademoiselle, des livres ne se refusent point, j'aime la
 Oh ! Par ma foi, l'auteur se dément, son style baisse, et les premiers tours sont les plus jolis à ma fantaisie : mais il n'importe, tirons-en partie, tout coup vaille.
 
 
-**** *creator_dancourt *book_dancourt_galantjardinier *style_prose *genre_comedy *dist1_dancourt_prose_comedy_galantjardinier *dist2_dancourt_prose_comedy *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_labohemienne
+**** *creator_dancourt *book_dancourt_galantjardinier *style_prose *genre_comedy *dist1_dancourt_prose_comedy_galantjardinier *dist2_dancourt_prose_comedy *id_LABOHEMIENNE *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_labohemienne
 
 Chacun fait ici-bas des tours de gobelets.
 Aux champs, à la cour, à la ville, au palais,

@@ -1,6 +1,6 @@
 
 
-**** *creator_gilbert *book_gilbert_amoursdovide *style_verse *genre_show *dist1_gilbert_verse_show_amoursdovide *dist2_gilbert_verse_show *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_talie
+**** *creator_gilbert *book_gilbert_amoursdovide *style_verse *genre_show *dist1_gilbert_verse_show_amoursdovide *dist2_gilbert_verse_show *id_talie *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_talie
 
 Nous sommes de Venus les compagnes fidelles,
 Qui venons presider aux festes solemnelles,
@@ -65,7 +65,7 @@ A nostre heureux retour unira pour jamais,
 Le plus parfait Amant⁎ avecque la plus belle.
 
 
-**** *creator_gilbert *book_gilbert_amoursdovide *style_verse *genre_show *dist1_gilbert_verse_show_amoursdovide *dist2_gilbert_verse_show *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ovide
+**** *creator_gilbert *book_gilbert_amoursdovide *style_verse *genre_show *dist1_gilbert_verse_show_amoursdovide *dist2_gilbert_verse_show *id_ovide *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ovide
 
       Cette Isle est plus charmante⁎ ;
 Ses heureux habitans pour la gloire⁎ sont nez,
@@ -792,7 +792,7 @@ De prendre contre tous l'interest⁎ de Corinne.
 Peut-estre que l'Hymen va descendre des Cieux.
 
 
-**** *creator_gilbert *book_gilbert_amoursdovide *style_verse *genre_show *dist1_gilbert_verse_show_amoursdovide *dist2_gilbert_verse_show *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_corinne
+**** *creator_gilbert *book_gilbert_amoursdovide *style_verse *genre_show *dist1_gilbert_verse_show_amoursdovide *dist2_gilbert_verse_show *id_corinne *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_corinne
 
 La parfaite beauté, dont mon sexe se pique⁎,
 De mesme que le prix, icy bas est unique.
@@ -1085,7 +1085,7 @@ Et les Amans, & les Amantes.
       Qu'il a d'attraits pour plaire !
 
 
-**** *creator_gilbert *book_gilbert_amoursdovide *style_verse *genre_show *dist1_gilbert_verse_show_amoursdovide *dist2_gilbert_verse_show *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cephise
+**** *creator_gilbert *book_gilbert_amoursdovide *style_verse *genre_show *dist1_gilbert_verse_show_amoursdovide *dist2_gilbert_verse_show *id_cephise *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cephise
 
 S'il n'est qu'une beauté, qu'une Venus aux Cieux,
 Ovide sur la Terre en peut-il trouver deux ?
@@ -1571,7 +1571,7 @@ Mais d'où vient que le Ciel est tout remply de feux ?
 Que son visage est beau !
 
 
-**** *creator_gilbert *book_gilbert_amoursdovide *style_verse *genre_show *dist1_gilbert_verse_show_amoursdovide *dist2_gilbert_verse_show *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hyacinthe
+**** *creator_gilbert *book_gilbert_amoursdovide *style_verse *genre_show *dist1_gilbert_verse_show_amoursdovide *dist2_gilbert_verse_show *id_hyacinthe *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hyacinthe
 
 Et bien, que dites-vous de cette Isle sacrée,
 Des plus beaux feux du jour en tous temps esclairée,
@@ -2013,7 +2013,7 @@ De servir⁎ contre tous mon illustre⁎ Maistresse⁎.    
       C'est l'Amour dans le Char de sa mere.
 
 
-**** *creator_gilbert *book_gilbert_amoursdovide *style_verse *genre_show *dist1_gilbert_verse_show_amoursdovide *dist2_gilbert_verse_show *date_1663 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_maxime
+**** *creator_gilbert *book_gilbert_amoursdovide *style_verse *genre_show *dist1_gilbert_verse_show_amoursdovide *dist2_gilbert_verse_show *id_maxime *date_1663 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_maxime
 
       L'arrest n'est pas encore prononcé,
 Mais je vais vous conter tout ce qui s'est passé,
@@ -2104,7 +2104,7 @@ Sa voix melodieuse eût eû toutes les voix.
 Ces esprits inconstans ont donc changé d'avis.
 
 
-**** *creator_gilbert *book_gilbert_amoursdovide *style_verse *genre_show *dist1_gilbert_verse_show_amoursdovide *dist2_gilbert_verse_show *date_1663 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_daphnis
+**** *creator_gilbert *book_gilbert_amoursdovide *style_verse *genre_show *dist1_gilbert_verse_show_amoursdovide *dist2_gilbert_verse_show *id_daphnis *date_1663 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_daphnis
 
 Hyacinthe, je viens pour vous tirer de peine,
 La divine Cephise a remporté le prix.
@@ -2147,7 +2147,7 @@ Veut en despit du Ciel s'allier aux Romains,    
 Et luy mesme dans peu la veut conduire à Rome.
 
 
-**** *creator_gilbert *book_gilbert_amoursdovide *style_verse *genre_show *dist1_gilbert_verse_show_amoursdovide *dist2_gilbert_verse_show *date_1663 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_aminte
+**** *creator_gilbert *book_gilbert_amoursdovide *style_verse *genre_show *dist1_gilbert_verse_show_amoursdovide *dist2_gilbert_verse_show *id_aminte *date_1663 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_aminte
 
 On n'a rien remarqué dans tout son entretien⁎.
 
@@ -2196,7 +2196,7 @@ A celuy qui pour vous n'est pas le plus aymable⁎.
 Non, vous voyez celuy que l'on a couronné.
 
 
-**** *creator_gilbert *book_gilbert_amoursdovide *style_verse *genre_show *dist1_gilbert_verse_show_amoursdovide *dist2_gilbert_verse_show *date_1663 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_celie
+**** *creator_gilbert *book_gilbert_amoursdovide *style_verse *genre_show *dist1_gilbert_verse_show_amoursdovide *dist2_gilbert_verse_show *id_celie *date_1663 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_celie
 
 Plus de ces belles lois vous faites un mystere,
 Plus je brusle d'oüir ce que vous voulez taire.

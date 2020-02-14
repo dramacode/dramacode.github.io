@@ -1,6 +1,6 @@
 
 
-**** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_andrigene
+**** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *id_ANDRIGENE *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_andrigene
 
       Rendez-moi celui qui de mon nom,
 N'a pas moins étendu le bruit que le renom.
@@ -359,7 +359,7 @@ Allez sans relâcher de cette illustre haine,
 Pour détrôner Pamphage et remettre Andrigene.
 
 
-**** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philarchie
+**** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *id_PHILARCHIE *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philarchie
 
       Je ne vis que d'attente,
 Ou plutôt mon esprit pour s'être abandonné,
@@ -464,7 +464,7 @@ Mais voila les écueils de votre autorité.
 Je vous laisse avec eux.
 
 
-**** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_themide
+**** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *id_THEMIDE *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_themide
 
 Que ce coup me surprend, qu'il me donne de peine ?
 Mon esprit divisé d'un double sentiment,
@@ -631,7 +631,7 @@ Rentre en un même temps dans son premier repos
 En suite du retour de trois de ses héros.
 
 
-**** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_protarque
+**** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *id_PROTARQUE *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_protarque
 
 Je vois bien maintenant, et mon esprit comprend,
 Qu'on ne peut sans éclat faire tomber un Grand !
@@ -985,7 +985,7 @@ Et que Pamphage enfin à nos pieds abattu
 nous instruit, en servant de marche à la vertu.
 
 
-**** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philideme
+**** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *id_PHILIDEME *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philideme
 
       Nous fuyez-vous Madame.
 
@@ -1137,7 +1137,7 @@ Je penserais pour lors qu'il serait abattu
 Puis que le désespoir réglerait sa vertu.
 
 
-**** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mystarque
+**** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *id_MYSTARQUE *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mystarque
 
 Madame, entrez donc mieux dedans nos sentiments ;
 Reconnaissez nos coeurs et tous leurs mouvements ;
@@ -1368,7 +1368,7 @@ Il nous accusera pour un coup de partie
 De nous être opposez longtemps à sa sortie.
 
 
-**** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pamphage
+**** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *id_PAMPHAGE *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pamphage
 
 Trassidule il est vrai, tes bras ont raffermi
 Mon pouvoir ébranlé par ce grand ennemi !
@@ -1854,7 +1854,7 @@ Ne peut plus consentir à rendre Pantonice.
 Oui, mais souvenez-vous qu'il est dans Charlymin.
 
 
-**** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monofthalme
+**** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *id_MONOFTHALME *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monofthalme
 
 Si le peuple ne hait Pantonice et ses frères
 Que pour avoir servi de base à vos misères ;
@@ -1994,7 +1994,7 @@ Qu'il ne soit assez fort pour vous perdre d'honneur,
 En tout cas hasardés ; voilà Protarque arrive.
 
 
-**** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_disangel
+**** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *id_DISANGEL *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_disangel
 
       Arctodeme, Madame
 Jointe avec Allomice.
@@ -2045,7 +2045,7 @@ Semnandre le hardi sera le Capitaine,
 Sous lequel je m'en vais te déclarer ma haine.
 
 
-**** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_page
+**** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *id_PAGE *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_page
 
 Seigneur je viens vous faire un importun message,
 

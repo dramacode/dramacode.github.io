@@ -1,6 +1,6 @@
 
 
-**** *creator_Boisrobert *book_Boisrobert_belle_invisible *style_verse *genre_tragedy *dist1_Boisrobert_verse_tragedy_belle_invisible *dist2_Boisrobert_verse_tragedy *date_1656 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_carlos
+**** *creator_Boisrobert *book_Boisrobert_belle_invisible *style_verse *genre_tragedy *dist1_Boisrobert_verse_tragedy_belle_invisible *dist2_Boisrobert_verse_tragedy *id_carlos *date_1656 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_carlos
 
 Vous vous estes trompé Dom Pedre asseurement !
 
@@ -657,7 +657,7 @@ De voir encor son cœur au travers de ses yeux.
 Dieux que jugerez-vous de mon extravagance ?
 
 
-**** *creator_Boisrobert *book_Boisrobert_belle_invisible *style_verse *genre_tragedy *dist1_Boisrobert_verse_tragedy_belle_invisible *dist2_Boisrobert_verse_tragedy *date_1656 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lavicereine
+**** *creator_Boisrobert *book_Boisrobert_belle_invisible *style_verse *genre_tragedy *dist1_Boisrobert_verse_tragedy_belle_invisible *dist2_Boisrobert_verse_tragedy *id_lavicereine *date_1656 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lavicereine
 
       Mon cousin demeurez un moment !
 De grace attendez moy dans mon appartement.
@@ -757,7 +757,7 @@ Sa naissance est illustre, & vous comble de gloire
 Venez d'elle, & des siens sçavoir toutte l'histoire.
 
 
-**** *creator_Boisrobert *book_Boisrobert_belle_invisible *style_verse *genre_tragedy *dist1_Boisrobert_verse_tragedy_belle_invisible *dist2_Boisrobert_verse_tragedy *date_1656 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lucille
+**** *creator_Boisrobert *book_Boisrobert_belle_invisible *style_verse *genre_tragedy *dist1_Boisrobert_verse_tragedy_belle_invisible *dist2_Boisrobert_verse_tragedy *id_lucille *date_1656 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lucille
 
 Quel plaisir voulez-vous qu'ait une miserable
 Madame, à qui le sort est si peu favorable ?
@@ -874,7 +874,7 @@ Je sçay tout, il suffit, croyez mon tesmoignage,
 Je ne puis pour ce coup en dire davantage.
 
 
-**** *creator_Boisrobert *book_Boisrobert_belle_invisible *style_verse *genre_tragedy *dist1_Boisrobert_verse_tragedy_belle_invisible *dist2_Boisrobert_verse_tragedy *date_1656 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_pedre
+**** *creator_Boisrobert *book_Boisrobert_belle_invisible *style_verse *genre_tragedy *dist1_Boisrobert_verse_tragedy_belle_invisible *dist2_Boisrobert_verse_tragedy *id_Pedre *date_1656 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_pedre
 
 Mais j'ay fait cette enqueste assez exactement,
 Cette maison d'ailleurs est assez remarquable,
@@ -1054,7 +1054,7 @@ De qui l'avez-vous sceu, faittes le nous connestre,
 Vous me rejetteriez si je passois pour traistre.
 
 
-**** *creator_Boisrobert *book_Boisrobert_belle_invisible *style_verse *genre_tragedy *dist1_Boisrobert_verse_tragedy_belle_invisible *dist2_Boisrobert_verse_tragedy *date_1656 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_marcelle
+**** *creator_Boisrobert *book_Boisrobert_belle_invisible *style_verse *genre_tragedy *dist1_Boisrobert_verse_tragedy_belle_invisible *dist2_Boisrobert_verse_tragedy *id_marcelle *date_1656 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_marcelle
 
 Plust au Ciel ! mais mon pere il vient pour m'abuser.
 He ! que me peut-il dire, après huict jours d'absence,
@@ -1338,7 +1338,7 @@ Qu'elle brille à present avec tous ses appas⁎,
 Je vous conteray⁎ tout, allons y de ce pas.
 
 
-**** *creator_Boisrobert *book_Boisrobert_belle_invisible *style_verse *genre_tragedy *dist1_Boisrobert_verse_tragedy_belle_invisible *dist2_Boisrobert_verse_tragedy *date_1656 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_alvare
+**** *creator_Boisrobert *book_Boisrobert_belle_invisible *style_verse *genre_tragedy *dist1_Boisrobert_verse_tragedy_belle_invisible *dist2_Boisrobert_verse_tragedy *id_alvare *date_1656 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_alvare
 
 Alexis ?
 
@@ -1475,7 +1475,7 @@ Ces visibles tresors sont ceux que je pretens.
       Et je le cede aussi.
 
 
-**** *creator_Boisrobert *book_Boisrobert_belle_invisible *style_verse *genre_tragedy *dist1_Boisrobert_verse_tragedy_belle_invisible *dist2_Boisrobert_verse_tragedy *date_1656 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_leonard
+**** *creator_Boisrobert *book_Boisrobert_belle_invisible *style_verse *genre_tragedy *dist1_Boisrobert_verse_tragedy_belle_invisible *dist2_Boisrobert_verse_tragedy *id_leonard *date_1656 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_leonard
 
 Mon neveu, vous prenez un peu trop de licence !
 A la fin vous mettrez ma patience à bout
@@ -1578,7 +1578,7 @@ C'est l'unique sujet qui nous amene icy.
 Je le cede Madame,
 
 
-**** *creator_Boisrobert *book_Boisrobert_belle_invisible *style_verse *genre_tragedy *dist1_Boisrobert_verse_tragedy_belle_invisible *dist2_Boisrobert_verse_tragedy *date_1656 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_ladame
+**** *creator_Boisrobert *book_Boisrobert_belle_invisible *style_verse *genre_tragedy *dist1_Boisrobert_verse_tragedy_belle_invisible *dist2_Boisrobert_verse_tragedy *id_ladame *date_1656 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_ladame
 
 Vous pouvez toutefois manger en asseurance,
 Seigneur, & prendre en nous entiere confiance !
@@ -1675,7 +1675,7 @@ Attendez la vengeance, on vous fera sentir,
 Qu'on ne s'appaise point par un vain⁎ repentir.
 
 
-**** *creator_Boisrobert *book_Boisrobert_belle_invisible *style_verse *genre_tragedy *dist1_Boisrobert_verse_tragedy_belle_invisible *dist2_Boisrobert_verse_tragedy *date_1656 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_legarde
+**** *creator_Boisrobert *book_Boisrobert_belle_invisible *style_verse *genre_tragedy *dist1_Boisrobert_verse_tragedy_belle_invisible *dist2_Boisrobert_verse_tragedy *id_legarde *date_1656 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_legarde
 
 Ce papier est à vous & je l'ay ramassé,
 Quand je l'ay vû tomber.

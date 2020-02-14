@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cephee
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_CEPHEE *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cephee
 
       N'en parlons plus, Phinée,
 Et laissons d'Andromède aller la destinée.
@@ -177,7 +177,7 @@ Qui nous ferme la porte et nous défend d'entrer
 Où tout notre bonheur se devait rencontrer ?
 
 
-**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cassiope
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_CASSIOPE *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cassiope
 
 Généreux inconnu, qui chez tous les monarques
 Portez de vos vertus les éclatantes marques,
@@ -538,7 +538,7 @@ Redoublons donc nos voeux, redoublons nos ferveurs,
 Pour mériter du ciel ces nouvelles faveurs.
 
 
-**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_andromede
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_ANDROMEDE *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_andromede
 
 Nymphes, notre guirlande est encor mal ornée ;
 Et devant qu'il soit peu nous reverrons Phinée,
@@ -893,7 +893,7 @@ Il n'en a pas besoin s'il n'a que vous à craindre.
 Il porte à son côté de quoi l'en garantir.
 
 
-**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junon
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_JUNON *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junon
 
 N'en doute point, Phinée, et cesse d'endurer.
 
@@ -920,7 +920,7 @@ L'obéissance est le seul compliment
 Qu'agrée un Dieu quand il commande.
 
 
-**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_MELPOMENE *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
 
 Arrête un peu ta course impétueuse :
 Mon théâtre, Soleil, mérite bien tes yeux ;
@@ -963,7 +963,7 @@ Et je lis chaque jour son destin dans les cieux.
 Soleil, j'y vole ; attends-moi donc, de grâce.
 
 
-**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *date_1650 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_soleil
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_SOLEIL *date_1650 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_soleil
 
 Charmante muse de la scène,
 Chère et divine Melpomène,
@@ -1019,7 +1019,7 @@ Pour contempler ce prince,
 Je me suis arrêté.
 
 
-**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phinee
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_PHINEE *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phinee
 
 Est-ce un crime en ces lieux, seigneur, que d'être belle ?
 
@@ -1366,7 +1366,7 @@ Vous pouvez cependant divertir vos esprits
 À rendre compte au roi de vos justes mépris.
 
 
-**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_persee
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_PERSEE *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_persee
 
 J'en ai déjà jugé, reine, en vous imitant ;
 Et si de vos malheurs la cause ne procède
@@ -1591,7 +1591,7 @@ Au bonheur de ton fils te fait porter envie ?
 Accablés et surpris d'une faveur si grande…
 
 
-**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_timante
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_TIMANTE *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_timante
 
       Ah ! Seigneur, ah ! Madame.
 
@@ -1644,7 +1644,7 @@ Et voyant quel époux il donne à la princesse,
 La douleur s'en termine en ces chants d'allégresse.
 
 
-**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ammon
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_AMMON *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ammon
 
 Seigneur, auparavant d'une âme plus remise
 Daignez voir le succès d'une telle entreprise.
@@ -1687,7 +1687,7 @@ Sous ce honteux espoir votre fureur se dompte ?
 Je vous plains ; mais enfin j'obéis, et vous laisse.
 
 
-**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aglante
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_AGLANTE *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aglante
 
 Quoi ? Madame.
 
@@ -1726,7 +1726,7 @@ Mais ce sont vains efforts de peu d'autres suivis,
 Et je viens toute en pleurs vous en donner avis.
 
 
-**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_liriope
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_LIRIOPE *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_liriope
 
 Phinée est plus aimé qu'Andromède n'est belle,
 Bien qu'ici-bas tout cède à ses attraits ;
@@ -1766,7 +1766,7 @@ Joignons nos voix pour bénir leur attente.
 Heureuse amour qu'un tel succès couronne !
 
 
-**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_page
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_PAGE *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_page
 
 Qu'elle est lente, cette journée !
 
@@ -1808,7 +1808,7 @@ L'amour les joint.
 Douce union que chacun doit bénir !
 
 
-**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *date_1650 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_choeur
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_CHOEUR *date_1650 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_choeur
 
 Reine de Paphe et d'Amathonte,
 Mère d'amour, et fille de la mer,

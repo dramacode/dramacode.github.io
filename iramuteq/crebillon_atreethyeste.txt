@@ -1,6 +1,6 @@
 
 
-**** *creator_crebillon *book_crebillon_atreethyeste *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_atreethyeste *dist2_crebillon_verse_tragedy *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_atree
+**** *creator_crebillon *book_crebillon_atreethyeste *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_atreethyeste *dist2_crebillon_verse_tragedy *id_ATREE *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_atree
 
 Avec l'éclat du jour je vois enfin renaître
 L'espoir et la douceur de me venger d'un traître.
@@ -754,7 +754,7 @@ Ta main, en t'immolant, a comblé mes souhaits,
 Et je jouis enfin du fruit de mes forfaits.
 
 
-**** *creator_crebillon *book_crebillon_atreethyeste *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_atreethyeste *dist2_crebillon_verse_tragedy *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thyeste
+**** *creator_crebillon *book_crebillon_atreethyeste *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_atreethyeste *dist2_crebillon_verse_tragedy *id_THYESTE *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thyeste
 
 Ce n'est plus pour tenter une grâce incertaine ;
 Mais, avant son départ, je voudrais voir Plisthène :
@@ -1085,7 +1085,7 @@ Le ciel me le promet, la coupe en est le gage ;
 Et je meurs.
 
 
-**** *creator_crebillon *book_crebillon_atreethyeste *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_atreethyeste *dist2_crebillon_verse_tragedy *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_plisthene
+**** *creator_crebillon *book_crebillon_atreethyeste *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_atreethyeste *dist2_crebillon_verse_tragedy *id_PLISTHENE *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_plisthene
 
       En doutez-vous, seigneur ?
 Eh ! Depuis quand ma foi vous est-elle suspecte ?
@@ -1521,7 +1521,7 @@ Je ne vous parle point d'une jeune princesse ;
 À la faire périr rien ne vous intéresse.
 
 
-**** *creator_crebillon *book_crebillon_atreethyeste *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_atreethyeste *dist2_crebillon_verse_tragedy *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_theodamie
+**** *creator_crebillon *book_crebillon_atreethyeste *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_atreethyeste *dist2_crebillon_verse_tragedy *id_THEODAMIE *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_theodamie
 
 C'est vous-même, seigneur, que je cherchais ici.
 D'Athènes dès longtemps embrassant la conquête,
@@ -1689,7 +1689,7 @@ Vient d'être pour jamais privé de la lumière.
 Ah ciel !
 
 
-**** *creator_crebillon *book_crebillon_atreethyeste *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_atreethyeste *dist2_crebillon_verse_tragedy *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thessandre
+**** *creator_crebillon *book_crebillon_atreethyeste *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_atreethyeste *dist2_crebillon_verse_tragedy *id_THESSANDRE *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thessandre
 
 Que dites-vous, seigneur ? Quoi ! Pour une inconnue...
 

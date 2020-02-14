@@ -1,6 +1,6 @@
 
 
-**** *creator_mairet *book_mairet_sophonisbe *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_sophonisbe *dist2_mairet_verse_tragedy *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_syphax
+**** *creator_mairet *book_mairet_sophonisbe *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_sophonisbe *dist2_mairet_verse_tragedy *id_SYPHAX *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_syphax
 
 Quoi, perfide ! s'entendre avec mes ennemis ?
 Est-ce là cet amour que tu m'avais promis ?
@@ -164,7 +164,7 @@ Et te souhaiter pis que le fer ni la flamme,
 Je te souhaite encor Sophonisbe pour femme.
 
 
-**** *creator_mairet *book_mairet_sophonisbe *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_sophonisbe *dist2_mairet_verse_tragedy *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philon
+**** *creator_mairet *book_mairet_sophonisbe *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_sophonisbe *dist2_mairet_verse_tragedy *id_PHILON *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philon
 
 Sire, l'on n'attend plus que votre Majesté,
 Pour charger Massinisse au combat apprêté.
@@ -218,7 +218,7 @@ Par des yeux vigilants qu'on y peut mettre exprès.
       Ô Dieux, il a blêmi.
 
 
-**** *creator_mairet *book_mairet_sophonisbe *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_sophonisbe *dist2_mairet_verse_tragedy *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_massinisse
+**** *creator_mairet *book_mairet_sophonisbe *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_sophonisbe *dist2_mairet_verse_tragedy *id_MASSINISSE *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_massinisse
 
 Grâce aux Dieux, cette insigne et dernière victoire
 Me rend tous les rayons de ma première gloire.
@@ -802,7 +802,7 @@ Montre que les rigueurs du Romain sans pitié
 Peuvent tout sur l'amant, et rien sur l'amitié.
 
 
-**** *creator_mairet *book_mairet_sophonisbe *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_sophonisbe *dist2_mairet_verse_tragedy *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scipion
+**** *creator_mairet *book_mairet_sophonisbe *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_sophonisbe *dist2_mairet_verse_tragedy *id_SCIPION *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scipion
 
 Mais vous qui par un long et familier usage
 Vous devez mieux connaître en cet esprit volage,
@@ -968,7 +968,7 @@ Et que nous ne voyons fer ni poison sur lui :
 Laissons-le par la plainte adoucir son ennui.
 
 
-**** *creator_mairet *book_mairet_sophonisbe *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_sophonisbe *dist2_mairet_verse_tragedy *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lelie
+**** *creator_mairet *book_mairet_sophonisbe *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_sophonisbe *dist2_mairet_verse_tragedy *id_LELIE *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lelie
 
 L'un perd souvente fois ce que l'autre conserve ;
 Je crois que le dernier y fera plus que tout.
@@ -1130,7 +1130,7 @@ Bannir ces noirs soucis, vous divertir ailleurs,
 Et donner vos pensers à des objets meilleurs.
 
 
-**** *creator_mairet *book_mairet_sophonisbe *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_sophonisbe *dist2_mairet_verse_tragedy *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caliodore
+**** *creator_mairet *book_mairet_sophonisbe *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_sophonisbe *dist2_mairet_verse_tragedy *id_CALIODORE *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caliodore
 
 Ha ! Phénice, le Roi !
 
@@ -1243,7 +1243,7 @@ Et vous le pourrez voir de l'endroit que voici,
 En levant seulement cette tapisserie.
 
 
-**** *creator_mairet *book_mairet_sophonisbe *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_sophonisbe *dist2_mairet_verse_tragedy *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sophonisbe
+**** *creator_mairet *book_mairet_sophonisbe *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_sophonisbe *dist2_mairet_verse_tragedy *id_SOPHONISBE *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sophonisbe
 
 Ha ! Sire, plût aux Dieux m'eussiez-vous écoutée !
 
@@ -1844,7 +1844,7 @@ Et que je meure au moins dessus le même lit
 Où mon funeste hymen hier soir s'accomplit.
 
 
-**** *creator_mairet *book_mairet_sophonisbe *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_sophonisbe *dist2_mairet_verse_tragedy *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_corisbe
+**** *creator_mairet *book_mairet_sophonisbe *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_sophonisbe *dist2_mairet_verse_tragedy *id_CORISBE *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_corisbe
 
 Madame, tout est prêt, et pour le sacrifice,
 Et pour le voeu public.
@@ -1910,7 +1910,7 @@ En détourne l'effet dessus nos ennemis !
 Commandez seulement.
 
 
-**** *creator_mairet *book_mairet_sophonisbe *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_sophonisbe *dist2_mairet_verse_tragedy *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phenice
+**** *creator_mairet *book_mairet_sophonisbe *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_sophonisbe *dist2_mairet_verse_tragedy *id_PHENICE *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phenice
 
       Assurez-vous, Madame,
 Que l'eunuque en ceci n'est point digne de blâme,

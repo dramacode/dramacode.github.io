@@ -1,6 +1,6 @@
 
 
-**** *creator_voisenon *book_voisenon_hilasetzelis *style_verse *genre_pastorale *dist1_voisenon_verse_pastorale_hilasetzelis *dist2_voisenon_verse_pastorale *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
+**** *creator_voisenon *book_voisenon_hilasetzelis *style_verse *genre_pastorale *dist1_voisenon_verse_pastorale_hilasetzelis *dist2_voisenon_verse_pastorale *id_LAMOUR *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
 
 Hilas peut-il inspirer de l'amour ?
 Dès le moment de sa naissance
@@ -49,7 +49,7 @@ Goûtez tous leurs plaisirs :
 Aimez ; c'est en aimant qu'on célèbre ma gloire.
 
 
-**** *creator_voisenon *book_voisenon_hilasetzelis *style_verse *genre_pastorale *dist1_voisenon_verse_pastorale_hilasetzelis *dist2_voisenon_verse_pastorale *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zelis
+**** *creator_voisenon *book_voisenon_hilasetzelis *style_verse *genre_pastorale *dist1_voisenon_verse_pastorale_hilasetzelis *dist2_voisenon_verse_pastorale *id_ZELIS *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zelis
 
 Vous, qui soumettez les Dieux et les Mortels,
 Dieu du bonheur, âme de la nature,
@@ -133,7 +133,7 @@ De ta victoire :
 Toi seul remplis mes vœux.
 
 
-**** *creator_voisenon *book_voisenon_hilasetzelis *style_verse *genre_pastorale *dist1_voisenon_verse_pastorale_hilasetzelis *dist2_voisenon_verse_pastorale *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hilas
+**** *creator_voisenon *book_voisenon_hilasetzelis *style_verse *genre_pastorale *dist1_voisenon_verse_pastorale_hilasetzelis *dist2_voisenon_verse_pastorale *id_HILAS *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hilas
 
 Pour rendre ma tendresse extrême
 Ai-je besoin d'admirer vos appas ?

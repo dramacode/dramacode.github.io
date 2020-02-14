@@ -1,6 +1,6 @@
 
 
-**** *creator_desportes *book_desportes_veuvecoquette *style_prose *genre_comedy *dist1_desportes_prose_comedy_veuvecoquette *dist2_desportes_prose_comedy *date_1721 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_flaminia
+**** *creator_desportes *book_desportes_veuvecoquette *style_prose *genre_comedy *dist1_desportes_prose_comedy_veuvecoquette *dist2_desportes_prose_comedy *id_FLAMINIA *date_1721 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_flaminia
 
 Quoi, Spinette, il n'est venu personne ?... Personne... En vérité voilà qui me confond. Quel dérangement ! Quel relâchement de visites ! Je n'ai jamais vu une telle disette d'hommes ! Ne pas voir un chapeau à la toilette d'une femme comme moi ! Cela est choquant !
 Le dépit que j'en avais sera cause que je serai coiffée tout de travers.
@@ -115,7 +115,7 @@ Mais je suis bien sotte de m'affliger ainsi de la perte d'un extravagant, elle e
 Quoi tout me trahit ! À quelle honte suis-je exposée ! Ouf... J'ai le cœur si serré... que je ne puis parler... Je suis... Je suis désespérée.
 
 
-**** *creator_desportes *book_desportes_veuvecoquette *style_prose *genre_comedy *dist1_desportes_prose_comedy_veuvecoquette *dist2_desportes_prose_comedy *date_1721 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_silvia
+**** *creator_desportes *book_desportes_veuvecoquette *style_prose *genre_comedy *dist1_desportes_prose_comedy_veuvecoquette *dist2_desportes_prose_comedy *id_SILVIA *date_1721 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_silvia
 
 Ah ! Ma chère Spinette, promenons un peu mes inquiétudes , je suis sur les épines. C'est aujourd'hui que Mario, de mon consentement, doit enfin parler à ma mère et me demander en mariage ; que je crains qu'elle ne refuse ses propositions, et qu'elle n'ait d'autres vues contraires à mes désirs !
 
@@ -187,7 +187,7 @@ La jeune fille en veut tâter,
 Et la veuve y retourne.
 
 
-**** *creator_desportes *book_desportes_veuvecoquette *style_prose *genre_comedy *dist1_desportes_prose_comedy_veuvecoquette *dist2_desportes_prose_comedy *date_1721 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_spinette
+**** *creator_desportes *book_desportes_veuvecoquette *style_prose *genre_comedy *dist1_desportes_prose_comedy_veuvecoquette *dist2_desportes_prose_comedy *id_SPINETTE *date_1721 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_spinette
 
 Tout franc, votre crainte n'est pas sans fondement. Votre mère est une goulue qui ne veut, je crois, que pour elle des amants ou des maris, et qui prend pour son compte tous ceux qui viennent ici pour vous faire la cour.
 
@@ -250,7 +250,7 @@ Mais si cet amour était imaginaire...
 Arlequin dis-moi un peu, n'y a-t-il point aussi de quiproquo entre nous ?
 
 
-**** *creator_desportes *book_desportes_veuvecoquette *style_prose *genre_comedy *dist1_desportes_prose_comedy_veuvecoquette *dist2_desportes_prose_comedy *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mario
+**** *creator_desportes *book_desportes_veuvecoquette *style_prose *genre_comedy *dist1_desportes_prose_comedy_veuvecoquette *dist2_desportes_prose_comedy *id_MARIO *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mario
 
 Ne vois-je pas un de mes anciens valets ? C'est Trivelin !
 
@@ -298,7 +298,7 @@ L'équivoque est fâcheuse pour vous, mais trouvez bon que j'use de mes avantage
 Nous l'apaiserons avec le temps, belle Silvia ; oublions les sujets de tristesse, et voyons notre petit divertissement que Monsieur le médecin honorera s'il veut de sa présence.
 
 
-**** *creator_desportes *book_desportes_veuvecoquette *style_prose *genre_comedy *dist1_desportes_prose_comedy_veuvecoquette *dist2_desportes_prose_comedy *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_desportes *book_desportes_veuvecoquette *style_prose *genre_comedy *dist1_desportes_prose_comedy_veuvecoquette *dist2_desportes_prose_comedy *id_ARLEQUIN *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Mademoiselle, il est toujours amoureux comme un Diable, il pense à vous sans cesse, dès le matin, à déjeuner, à diner, à souper, et toute la nuit.
 
@@ -371,7 +371,7 @@ Je dis des mets les plus musqués, zeste,
 Messieurs si vous ne me claquez.
 
 
-**** *creator_desportes *book_desportes_veuvecoquette *style_prose *genre_comedy *dist1_desportes_prose_comedy_veuvecoquette *dist2_desportes_prose_comedy *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurrhubarbini
+**** *creator_desportes *book_desportes_veuvecoquette *style_prose *genre_comedy *dist1_desportes_prose_comedy_veuvecoquette *dist2_desportes_prose_comedy *id_MONSIEURRHUBARBINI *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurrhubarbini
 
 Je ne prétends pas lui causer d'incommodité ; mais Trivelin, un médecin a quelquefois des privilèges...
 
@@ -417,7 +417,7 @@ Lorsque la terre a couvert nos bévues,
 Ceux qui font morts ont toujours tort.
 
 
-**** *creator_desportes *book_desportes_veuvecoquette *style_prose *genre_comedy *dist1_desportes_prose_comedy_veuvecoquette *dist2_desportes_prose_comedy *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trivelin
+**** *creator_desportes *book_desportes_veuvecoquette *style_prose *genre_comedy *dist1_desportes_prose_comedy_veuvecoquette *dist2_desportes_prose_comedy *id_TRIVELIN *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trivelin
 
 Monsieur, on n'entre point : je vous l'avais bien dit, depuis deux jours, que je vous sers, je connais déjà cette maison, il n'y est jour que sur le soir. Madame Flaminia ne sera pas sitôt visible ; vraiment je suis sûr qu'à l'heure qu'il est son visage n'est pas à moitié fait.
 

@@ -1,6 +1,6 @@
 
 
-**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepante
+**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *id_LEPANTE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepante
 
 Évandre, mettez fin à votre étonnement,
 Et me dites pourquoi, depuis quand, et comment
@@ -551,7 +551,7 @@ De grâce en sa faveur accordez ma requête,
 Pour le sacré respect d'une si belle fête.
 
 
-**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_evandre
+**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *id_EVANDRE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_evandre
 
 Ô ! Merveille incroyable, ô ! Bien inespéré,
 Quoi c'est vous que tant d'yeux ont si longtemps pleuré ?
@@ -912,7 +912,7 @@ Et que par des moyens difficiles à croire
 Vous comblez ces amants de plaisir et de gloire ?
 
 
-**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *id_DORANTE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
 
 Puisque c'est un hymen que vous avez permis,
 Il est juste, et dès-là nous sommes ses amis.
@@ -1016,7 +1016,7 @@ Ils l'auront de ma bouche, allons-y de ce pas,
 Vous ma soeur, demeurez avec le Roi Lypas.
 
 
-**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lypas
+**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *id_LYPAS *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lypas
 
 Madame, j'étais prêt à monter à cheval
 Quand un penser douteux que vous vous trouviez mal,
@@ -1147,7 +1147,7 @@ Je la veux voir aussi.
 Erphore, vous voyez si je me sais contraindre.
 
 
-**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tenare
+**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *id_TENARE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tenare
 
 C'est lui-même avançons.
 
@@ -1277,7 +1277,7 @@ Argant et Capanée, avant que je m'en vinsse,
 Attendaient pour entrer un passeport du Prince.
 
 
-**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_erphore
+**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *id_ERPHORE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_erphore
 
 Seigneur, quelque soupçon qui me tombe en l'esprit,
 Je veux croire pourtant qu'Axala vous écrit,
@@ -1398,7 +1398,7 @@ La vengeance pourtant en ira jusqu'au bout.
 Sire, vous faites bien, notre jeu c'est de feindre.
 
 
-**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismenie
+**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *id_ISMENIE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismenie
 
 Page, dites au Roi qu'il m'excuse de grâce,
 Que tantôt, s'il lui plaît, au retour de la chasse,
@@ -2070,7 +2070,7 @@ Qui rendra hautement le Sceptre à mon époux.
       Cela dépend de vous.
 
 
-**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_armille
+**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *id_ARMILLE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_armille
 
 En effet, il est vrai que vous avez raison,
 Et que de sa gaieté dépend sa guérison,
@@ -2193,7 +2193,7 @@ D'obtenir mon pardon, et de me pardonner.
 Ah ! J'ai cru procurer le bien de son Altesse.
 
 
-**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_felice
+**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *id_FELICE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_felice
 
       Madame le voici,
 Il marche sur mes pas.
@@ -2296,7 +2296,7 @@ Ou comme un saint Génie à notre aide envoyé,
 Digne instrument des Dieux qui vous ont employé.
 
 
-**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celie
+**** *creator_mairet *book_mairet_illustrecorsaire *style_verse *genre_tragedy *dist1_mairet_verse_tragedy_illustrecorsaire *dist2_mairet_verse_tragedy *id_CELIE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celie
 
 Oui, mais le conviant de venir à ce soir,
 C'est jusques à minuit qu'il nous le faudra voir.

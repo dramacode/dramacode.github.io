@@ -1,6 +1,6 @@
 
 
-**** *creator_saintpriest *book_saintpriest_potaunoirpotauxroses *style_verse *genre_pastorale *dist1_saintpriest_verse_pastorale_potaunoirpotauxroses *dist2_saintpriest_verse_pastorale *date_1789 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hortense
+**** *creator_saintpriest *book_saintpriest_potaunoirpotauxroses *style_verse *genre_pastorale *dist1_saintpriest_verse_pastorale_potaunoirpotauxroses *dist2_saintpriest_verse_pastorale *id_HORTENSE *date_1789 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hortense
 
 Ah ! Vous voilà ?
 
@@ -128,7 +128,7 @@ Daphnis aura toute ma foi.
 Nous lui devons tous les deux beaucoup de reconnaissance.
 
 
-**** *creator_saintpriest *book_saintpriest_potaunoirpotauxroses *style_verse *genre_pastorale *dist1_saintpriest_verse_pastorale_potaunoirpotauxroses *dist2_saintpriest_verse_pastorale *date_1789 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_daphnis
+**** *creator_saintpriest *book_saintpriest_potaunoirpotauxroses *style_verse *genre_pastorale *dist1_saintpriest_verse_pastorale_potaunoirpotauxroses *dist2_saintpriest_verse_pastorale *id_DAPHNIS *date_1789 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_daphnis
 
 Ô Liberté ! douce chimère !
 Flatteuse illusion du coeur,
@@ -232,7 +232,7 @@ C'est aux amants qui s'aiment comme nous,
 Qu'hymen offre le pot aux roses.
 
 
-**** *creator_saintpriest *book_saintpriest_potaunoirpotauxroses *style_verse *genre_pastorale *dist1_saintpriest_verse_pastorale_potaunoirpotauxroses *dist2_saintpriest_verse_pastorale *date_1789 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_bobielle
+**** *creator_saintpriest *book_saintpriest_potaunoirpotauxroses *style_verse *genre_pastorale *dist1_saintpriest_verse_pastorale_potaunoirpotauxroses *dist2_saintpriest_verse_pastorale *id_BOBIELLE *date_1789 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_bobielle
 
 Bonjour, beau Daphnis.
 
@@ -357,7 +357,7 @@ Il va pour toujours en silence,
 Se cacher dans le pot au noir.
 
 
-**** *creator_saintpriest *book_saintpriest_potaunoirpotauxroses *style_verse *genre_pastorale *dist1_saintpriest_verse_pastorale_potaunoirpotauxroses *dist2_saintpriest_verse_pastorale *date_1789 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alain
+**** *creator_saintpriest *book_saintpriest_potaunoirpotauxroses *style_verse *genre_pastorale *dist1_saintpriest_verse_pastorale_potaunoirpotauxroses *dist2_saintpriest_verse_pastorale *id_ALAIN *date_1789 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alain
 
 J'ons tant couru.
 

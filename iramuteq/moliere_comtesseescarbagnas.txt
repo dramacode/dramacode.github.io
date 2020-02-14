@@ -1,6 +1,6 @@
 
 
-**** *creator_moliere *book_moliere_comtesseescarbagnas *style_prose *genre_comedy *dist1_moliere_prose_comedy_comtesseescarbagnas *dist2_moliere_prose_comedy *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+**** *creator_moliere *book_moliere_comtesseescarbagnas *style_prose *genre_comedy *dist1_moliere_prose_comedy_comtesseescarbagnas *dist2_moliere_prose_comedy *id_la-comtesse *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
 
 Ah ! mon Dieu, Madame, vous voilà toute seule ? quelle pitié est-ce là, toute seule ; il me semble que mes gens m'avaient dit, que le Vicomte était ici ?
 
@@ -181,7 +181,7 @@ Quoi, jouer de la sorte une personne de ma qualité ?
 Oui, Monsieur Tibaudier, je vous épouse, pour faire enrager tout le monde.
 
 
-**** *creator_moliere *book_moliere_comtesseescarbagnas *style_prose *genre_comedy *dist1_moliere_prose_comedy_comtesseescarbagnas *dist2_moliere_prose_comedy *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levicomte
+**** *creator_moliere *book_moliere_comtesseescarbagnas *style_prose *genre_comedy *dist1_moliere_prose_comedy_comtesseescarbagnas *dist2_moliere_prose_comedy *id_le-vicomte *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levicomte
 
 Hé, quoi Madame, vous êtes déjà ici ?
 
@@ -268,7 +268,7 @@ C'est sans vous offenser, Madame, et les Comédies veulent de ces sortes de chos
 Souffrez, Madame, qu'en enrageant, nous puissions voir ici le reste du spectacle.
 
 
-**** *creator_moliere *book_moliere_comtesseescarbagnas *style_prose *genre_comedy *dist1_moliere_prose_comedy_comtesseescarbagnas *dist2_moliere_prose_comedy *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+**** *creator_moliere *book_moliere_comtesseescarbagnas *style_prose *genre_comedy *dist1_moliere_prose_comedy_comtesseescarbagnas *dist2_moliere_prose_comedy *id_julie *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
 
 Oui, vous en devriez rougir, Cléante, et il n'est guère honnête à un Amant de venir le dernier au rendez-vous.
 
@@ -339,7 +339,7 @@ C'est Monsieur votre frère, et non pas Monsieur votre Fils.
 Ah ! Cléante quel bonheur ! notre amour eût-il osé espérer un si heureux succès ?
 
 
-**** *creator_moliere *book_moliere_comtesseescarbagnas *style_prose *genre_comedy *dist1_moliere_prose_comedy_comtesseescarbagnas *dist2_moliere_prose_comedy *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurtibaudier
+**** *creator_moliere *book_moliere_comtesseescarbagnas *style_prose *genre_comedy *dist1_moliere_prose_comedy_comtesseescarbagnas *dist2_moliere_prose_comedy *id_monsieur-tibaudier *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurtibaudier
 
 Je lui suis bien obligé, Madame, et si elle a jamais quelque procès en notre Siège, elle verra que je n'oublierai pas l'honneur qu'elle me fait, de se rendre auprès de vos beautés l'Avocat de ma flamme.
 
@@ -376,7 +376,7 @@ Monsieur le Receveur, nous nous verrons autre part qu'ici, et je vous ferai voir
 Ce m'est bien de l'honneur, Madame.
 
 
-**** *creator_moliere *book_moliere_comtesseescarbagnas *style_prose *genre_comedy *dist1_moliere_prose_comedy_comtesseescarbagnas *dist2_moliere_prose_comedy *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurharpin
+**** *creator_moliere *book_moliere_comtesseescarbagnas *style_prose *genre_comedy *dist1_moliere_prose_comedy_comtesseescarbagnas *dist2_moliere_prose_comedy *id_monsieur-harpin *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurharpin
 
 Parbleu la chose est belle, et je me réjouis de voir ce que je vois.
 
@@ -405,7 +405,7 @@ Moi, morbleu, prendre place, cherchez vos benêts à vos pieds. Je vous laisse, 
 Tu as raison, Monsieur Tibaudier.
 
 
-**** *creator_moliere *book_moliere_comtesseescarbagnas *style_prose *genre_comedy *dist1_moliere_prose_comedy_comtesseescarbagnas *dist2_moliere_prose_comedy *date_1672 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_monsieurbobinet
+**** *creator_moliere *book_moliere_comtesseescarbagnas *style_prose *genre_comedy *dist1_moliere_prose_comedy_comtesseescarbagnas *dist2_moliere_prose_comedy *id_monsieur-bobinet *date_1672 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_monsieurbobinet
 
 Je donne le bon Vêpres à toute l'honorable compagnie. Que désire Madame la Comtesse d'Escarbagnas, de son très humble Serviteur Bobinet ?
 
@@ -430,7 +430,7 @@ C'est du Latin, Madame, et la première règle de Jean Despautère.
 Si vous voulez, Madame, qu'il achève, la glose expliquera ce que cela veut dire.
 
 
-**** *creator_moliere *book_moliere_comtesseescarbagnas *style_prose *genre_comedy *dist1_moliere_prose_comedy_comtesseescarbagnas *dist2_moliere_prose_comedy *date_1672 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_andree
+**** *creator_moliere *book_moliere_comtesseescarbagnas *style_prose *genre_comedy *dist1_moliere_prose_comedy_comtesseescarbagnas *dist2_moliere_prose_comedy *id_andree *date_1672 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_andree
 
 Que vous plaît-il, Madame ?
 
@@ -475,7 +475,7 @@ Hé bien oui, Madame, je le paierai.
 Dame, Madame, si je le paye, je ne veux point être querellée.
 
 
-**** *creator_moliere *book_moliere_comtesseescarbagnas *style_prose *genre_comedy *dist1_moliere_prose_comedy_comtesseescarbagnas *dist2_moliere_prose_comedy *date_1672 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_jeannot
+**** *creator_moliere *book_moliere_comtesseescarbagnas *style_prose *genre_comedy *dist1_moliere_prose_comedy_comtesseescarbagnas *dist2_moliere_prose_comedy *id_jeannot *date_1672 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_jeannot
 
 C'est Monsieur le Conseiller, Madame, qui vous souhaite le bon jour ; et auparavant que de venir, vous envoie des poires de son jardin, avec ce petit mot d'écrit.
 
@@ -492,7 +492,7 @@ Je l'aurais bien pris sans toi.
 Voilà un billet, Monsieur, qu'on nous a dit de vous donner vite.
 
 
-**** *creator_moliere *book_moliere_comtesseescarbagnas *style_prose *genre_comedy *dist1_moliere_prose_comedy_comtesseescarbagnas *dist2_moliere_prose_comedy *date_1672 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_criquet
+**** *creator_moliere *book_moliere_comtesseescarbagnas *style_prose *genre_comedy *dist1_moliere_prose_comedy_comtesseescarbagnas *dist2_moliere_prose_comedy *id_criquet *date_1672 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_criquet
 
 Plaît-il ?
 

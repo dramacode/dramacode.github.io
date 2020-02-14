@@ -1,6 +1,6 @@
 
 
-**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *date_1836 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjuan
+**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *id_DONJUAN *date_1836 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjuan
 
 Allons, Christoval, assez de xérès et de porto comme cela ! C'est boire en muletier et non en gentilhomme. Au salon, pour les glaces et les sorbets !
 À moi, Carolina !
@@ -686,7 +686,7 @@ Ange de l'amour, ange de la miséricorde, tu triomphes !... Pardonnez-moi, mon D
 Mes yeux se ferment... Je meurs !...
 
 
-**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *date_1836 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjoses
+**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *id_DONJOSES *date_1836 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjoses
 
 Don Juan !
 
@@ -912,7 +912,7 @@ Oui, frappé !... Le frère frappé de la main du frère !...
 Le frère, maudissant le frère !... le sang du frère sur la tête du frère...
 
 
-**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *date_1836 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donmortes
+**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *id_DONMORTES *date_1836 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donmortes
 
 C'est mon devoir, Monseigneur.
 
@@ -951,7 +951,7 @@ Dieu prenne pitié de vous, Monseigneur !
 Je suis Don Mortès, révérend prieur des dominicains. Sans pitié, sans religion pour mon ministère, Don Juan a levé le poignard sur moi et m'a frappé... Vengeance contre le meurtrier ! Vengeance !...
 
 
-**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *date_1836 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donchristoval
+**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *id_DONCHRISTOVAL *date_1836 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donchristoval
 
 Alors décidément, Don Juan, tu me l'enlèves ?
 
@@ -964,7 +964,7 @@ Tu oublies que la moitié des biens que tu engages appartiennent à Don Josès.
 Adieu, Don Juan ; nous ignorions la maladie du vieux Comte, et nous demandons pardon à Dieu d'avoir blasphémé dans une maison qui appartenait à la mort.
 
 
-**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *date_1836 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donmanuel
+**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *id_DONMANUEL *date_1836 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donmanuel
 
 Plains-toi encore de la fausseté des femmes, Christoval !
 
@@ -977,7 +977,7 @@ Il n'en sait pas le nombre.
 Mais ton frère aîné, ce me semble.
 
 
-**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *date_1836 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sandoval
+**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *id_SANDOVAL *date_1836 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sandoval
 
 Je suis de ton avis ; seulement, cet homme ne se nomme pas Don Luis-de-Sandoval d'Ojedo, il s'appelle Don Juan de Marana.
 
@@ -1141,7 +1141,7 @@ Es-tu donc las d'attendre la justice divine ?
 Es-tu prêt, Don Juan ?
 
 
-**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *date_1836 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donpedro
+**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *id_DONPEDRO *date_1836 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donpedro
 
 Qui parle de Don Luis-de-Sandoval ?... On vient de me dire une étrange histoire sur son compte.
 
@@ -1174,7 +1174,7 @@ Et vous vous exposez ?...
 Un véritable hidalgo.
 
 
-**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *date_1836 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donfabrique
+**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *id_DONFABRIQUE *date_1836 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donfabrique
 
 Décidément, depuis le Cid, il n'y a eu qu'un homme dans toutes les Espagnes, et cet homme est Don Luis-de-Sandoval d'Ojedo.
 
@@ -1195,7 +1195,7 @@ Vous êtes un magnifique seigneur, Don Luis.
 Mais votre château ?
 
 
-**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *date_1836 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donsanchez
+**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *id_DONSANCHEZ *date_1836 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donsanchez
 
 Celle qui prie encore quand les autres ne prient déjà plus.
 
@@ -1214,7 +1214,7 @@ Ce sont les nuits d'orage qui font les jours tranquilles ; voyez, mon fils, comm
 Je prierai le Seigneur de ramener le calme dans ton coeur, comme il l'a ramené dans la nature. Je prierai le Seigneur de poser le sceau de sa grâce sur ton front brûlant. En attendant, crois, espère et prie ; c'est avec ces trois mots qu'on ouvre les portes du ciel.
 
 
-**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *date_1836 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemauvaisange
+**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *id_LEMAUVAISANGE *date_1836 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemauvaisange
 
 Ô toi que le Seigneur a commis à ma garde,
 Baisse un instant les yeux, archange, et me regarde !...
@@ -1473,7 +1473,7 @@ Venez, pâles feuilles d'automne,
 Que roule le vent de la mort !
 
 
-**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *date_1836 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_lecomte
+**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *id_LECOMTE *date_1836 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_lecomte
 
 Don Juan !
 
@@ -1486,7 +1486,7 @@ Don Josès !...
 Je suis le vieux comte de Marana. Seigneur ! Seigneur ! Ayez pitié de mon fils !
 
 
-**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *date_1836 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_gomez
+**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *id_GOMEZ *date_1836 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_gomez
 
 Voici les cartes.
 
@@ -1501,7 +1501,7 @@ Du montilla.
 Du Valdepeñas.
 
 
-**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *date_1836 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_hussein
+**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *id_HUSSEIN *date_1836 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_hussein
 
 Que plaît-il à Votre Seigneurie ?
 
@@ -1534,7 +1534,7 @@ Oui, Monseigneur.
 La voilà.
 
 
-**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *date_1836 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lebonange
+**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *id_LEBONANGE *date_1836 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lebonange
 
 C'est une volonté plus forte que la nôtre
 Qui, dans les jours passés, nous lia l'un à l'autre,
@@ -1695,7 +1695,7 @@ J'y porterai ma croix.
 J'irai sur mes genoux.
 
 
-**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *date_1836 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marthe
+**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *id_MARTHE *date_1836 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marthe
 
 Merci, mon frère ; mais d'où savez-vous mon nom ?
 
@@ -1849,7 +1849,7 @@ Seigneur, Seigneur, vous l'avez entendu !
 Tu n'es qu'ébloui, Don Juan : tes yeux vont se rouvrir pour l'éternité !
 
 
-**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *date_1836 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_teresina
+**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *id_TERESINA *date_1836 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_teresina
 
 Paquita !
 
@@ -2062,7 +2062,7 @@ Ah !
 Je suis doña Teresina, fiancée de Don Josès. Don Juan m'enleva évanouie ; lorsque je revins à moi, j'étais déshonorée ; je n'ai pu survivre à ma honte, je me suis précipitée dans le Mançanarès... Vengeance contre le meurtrier ! Vengeance !
 
 
-**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *date_1836 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ines
+**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *id_INES *date_1836 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ines
 
 Merci.
 Que vous est-il arrivé ? Qu'avez-vous, Don Luis ? Seriez-vous blessé ?
@@ -2143,7 +2143,7 @@ Viens.
 Regarde !
 
 
-**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *date_1836 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_vittoria
+**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *id_VITTORIA *date_1836 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_vittoria
 
 Non pas, Monseigneur ! J'aime Don Juan et pas un autre.
 
@@ -2156,7 +2156,7 @@ Si fait ; je te dis que, tel que tu es, Don Juan, maudit et damné d'avance, je 
 Je suis doña Vittoria de Séville. Don Juan me quitta pour une autre femme ; j'attendis sa nouvelle maîtresse et je la frappai. L'inquisition me condamna au bûcher. Mon crime et ma mort sont à Don Juan... Vengeance contre le meurtrier ! Vengeance !
 
 
-**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *date_1836 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_paquita
+**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *id_PAQUITA *date_1836 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_paquita
 
 Madame ?
 
@@ -2382,7 +2382,7 @@ Il vient ! S'il apprenait... Mon Dieu !
 Notre-Dame de la Garde, ayez pitié de moi !
 
 
-**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *date_1836 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_carolina
+**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *id_CAROLINA *date_1836 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_carolina
 
 Me voilà, Monseigneur !...
 
@@ -2409,7 +2409,7 @@ J'y serai.
 Je suis doña-Carolina de Valence. Comme j'allais au rendez-vous que Don Juan m'avait donné, j'ai rencontré une rivale sur mon chemin ; elle m'a poignardée en me disant : « Carolina, c'est Don Juan qui te tue !... » Vengeance contre le meurtrier ! Vengeance !
 
 
-**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *date_1836 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ursule
+**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *id_URSULE *date_1836 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ursule
 
 Eh bien, ma soeur ?
 
@@ -2424,7 +2424,7 @@ J'y vais, ma soeur...
 Don Sanchez n'était point au couvent, ma soeur ; mais un saint homme que j'ai rencontré, et qui se charge de le remplacer...
 
 
-**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *date_1836 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_lavierge
+**** *creator_dumas *book_dumas_donjuan *style_prose *genre_show *dist1_dumas_prose_show_donjuan *dist2_dumas_prose_show *id_LAVIERGE *date_1836 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_lavierge
 
 Parlez ; car mes regards, parmi ces blondes têtes
 Dont Dieu s'environna,

@@ -1,6 +1,6 @@
 
 
-**** *creator_voltaire *book_voltaire_semiramis *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_semiramis *dist2_voltaire_verse_tragedy *date_1748 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_semiramis
+**** *creator_voltaire *book_voltaire_semiramis *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_semiramis *dist2_voltaire_verse_tragedy *id_SEMIRAMIS *date_1748 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_semiramis
 
 Ô voiles de la mort, quand viendrez-vous couvrir
 Mes yeux remplis de pleurs, et lassés de s'ouvrir !
@@ -587,7 +587,7 @@ Ne hais point sa mémoire : ô mon fils ! mon cher fils...
 C'en est fait.
 
 
-**** *creator_voltaire *book_voltaire_semiramis *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_semiramis *dist2_voltaire_verse_tragedy *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arsace
+**** *creator_voltaire *book_voltaire_semiramis *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_semiramis *dist2_voltaire_verse_tragedy *id_ARSACE *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arsace
 
 Oui, Mitrane, en secret l'ordre émané du trône
 Remet entre tes bras Arsace à Babylone.
@@ -1118,7 +1118,7 @@ J'atteste ici les dieux qui conduisaient mon bras,
 Ces dieux qui m'égaraient...
 
 
-**** *creator_voltaire *book_voltaire_semiramis *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_semiramis *dist2_voltaire_verse_tragedy *date_1748 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_azema
+**** *creator_voltaire *book_voltaire_semiramis *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_semiramis *dist2_voltaire_verse_tragedy *id_AZEMA *date_1748 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_azema
 
 Arsace, écoutez-moi ; cet empire indompté
 Vous doit son nouveau lustre, et moi, ma liberté.
@@ -1401,7 +1401,7 @@ Ministres de nos rois, défendez votre maître.
 Ah ! fuyez, cher époux !
 
 
-**** *creator_voltaire *book_voltaire_semiramis *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_semiramis *dist2_voltaire_verse_tragedy *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_assur
+**** *creator_voltaire *book_voltaire_semiramis *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_semiramis *dist2_voltaire_verse_tragedy *id_ASSUR *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_assur
 
       Me trompé-je ? Arsace à Babylone !
 Sans mon ordre ! Qui ? lui ! Tant d'audace m'étonne.
@@ -1639,7 +1639,7 @@ Mais je te laisse encor plus malheureux que moi :
 Regarde ce tombeau ; contemple ton ouvrage.
 
 
-**** *creator_voltaire *book_voltaire_semiramis *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_semiramis *dist2_voltaire_verse_tragedy *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oroes
+**** *creator_voltaire *book_voltaire_semiramis *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_semiramis *dist2_voltaire_verse_tragedy *id_OROES *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oroes
 
       Jeune et brave mortel,
 D'un dieu qui conduit tout le décret éternel
@@ -1873,7 +1873,7 @@ Que les rois dans le ciel ont un juge sévère,
 L'innocence un vengeur, et l'orphelin un père.
 
 
-**** *creator_voltaire *book_voltaire_semiramis *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_semiramis *dist2_voltaire_verse_tragedy *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_otane
+**** *creator_voltaire *book_voltaire_semiramis *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_semiramis *dist2_voltaire_verse_tragedy *id_OTANE *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_otane
 
       Seigneur, quittez ces lieux.
 La reine en ce moment se cache à tous les yeux ;
@@ -1985,7 +1985,7 @@ Lorsque dans ce lieu saint il allait pénétrer :
 La reine l'ordonna, je viens vous le livrer.
 
 
-**** *creator_voltaire *book_voltaire_semiramis *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_semiramis *dist2_voltaire_verse_tragedy *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mitrane
+**** *creator_voltaire *book_voltaire_semiramis *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_semiramis *dist2_voltaire_verse_tragedy *id_MITRANE *date_1748 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mitrane
 
 La renommée, Arsace, est souvent bien trompeuse ;
 Et peut-être avec moi bientôt vous gémirez

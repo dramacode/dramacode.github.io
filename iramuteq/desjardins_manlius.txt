@@ -1,6 +1,6 @@
 
 
-**** *creator_desjardins *book_desjardins_manlius *style_verse *genre_tragedy *dist1_desjardins_verse_tragedy_manlius *dist2_desjardins_verse_tragedy *date_1662 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_torquatus
+**** *creator_desjardins *book_desjardins_manlius *style_verse *genre_tragedy *dist1_desjardins_verse_tragedy_manlius *dist2_desjardins_verse_tragedy *id_torquatus *date_1662 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_torquatus
 
 Quoy, si matin, Madame, estre hors de la Tente ?
 Qui vous peut aujourd'huy rendre si diligente ?
@@ -537,7 +537,7 @@ De ce qu'elle a rendu Torquatus à luy-mesme.
 FIN.
 
 
-**** *creator_desjardins *book_desjardins_manlius *style_verse *genre_tragedy *dist1_desjardins_verse_tragedy_manlius *dist2_desjardins_verse_tragedy *date_1662 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_manlius
+**** *creator_desjardins *book_desjardins_manlius *style_verse *genre_tragedy *dist1_desjardins_verse_tragedy_manlius *dist2_desjardins_verse_tragedy *id_manlius *date_1662 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_manlius
 
 Croyez-en vostre cœur, s'il vous en parle mieux,
 Quel sera mon bon-heur, adorable⁎ Princesse,
@@ -826,7 +826,7 @@ Ordonnez qu'à vos pieds…
 Ah, mon Pere, ah, Seigneur, ay-je bien entendu ?
 
 
-**** *creator_desjardins *book_desjardins_manlius *style_verse *genre_tragedy *dist1_desjardins_verse_tragedy_manlius *dist2_desjardins_verse_tragedy *date_1662 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_camille
+**** *creator_desjardins *book_desjardins_manlius *style_verse *genre_tragedy *dist1_desjardins_verse_tragedy_manlius *dist2_desjardins_verse_tragedy *id_camille *date_1662 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_camille
 
 Puis-je croire, Pison, cette estrange nouvelle ?
 
@@ -1216,7 +1216,7 @@ Puis que le Ciel vous rend la vertu d'un Romain,
 Il vous redonne aussi mon estime & ma main.
 
 
-**** *creator_desjardins *book_desjardins_manlius *style_verse *genre_tragedy *dist1_desjardins_verse_tragedy_manlius *dist2_desjardins_verse_tragedy *date_1662 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_omphale
+**** *creator_desjardins *book_desjardins_manlius *style_verse *genre_tragedy *dist1_desjardins_verse_tragedy_manlius *dist2_desjardins_verse_tragedy *id_omphale *date_1662 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_omphale
 
 N'insultez plus, Seigneur, à cette infortunée⁎,
 Laissez borner aux fers⁎ ma triste destinée,
@@ -1671,7 +1671,7 @@ Ce poignard…
 Quoy, le sang sur l'amour emporte la victoire ?
 
 
-**** *creator_desjardins *book_desjardins_manlius *style_verse *genre_tragedy *dist1_desjardins_verse_tragedy_manlius *dist2_desjardins_verse_tragedy *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_junius
+**** *creator_desjardins *book_desjardins_manlius *style_verse *genre_tragedy *dist1_desjardins_verse_tragedy_manlius *dist2_desjardins_verse_tragedy *id_junius *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_junius
 
 Seigneur, c'est Manlius qui demande à vous voir :
 
@@ -1809,7 +1809,7 @@ Gardez vous d'étouffer la voix de la nature,
 Elle presse⁎, elle parle, écoutez-la, Seigneur.
 
 
-**** *creator_desjardins *book_desjardins_manlius *style_verse *genre_tragedy *dist1_desjardins_verse_tragedy_manlius *dist2_desjardins_verse_tragedy *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_pison
+**** *creator_desjardins *book_desjardins_manlius *style_verse *genre_tragedy *dist1_desjardins_verse_tragedy_manlius *dist2_desjardins_verse_tragedy *id_pison *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_pison
 
 Madame, je la tiens d'une bouche fidelle⁎.
 Cét amour pris naissance au Camp de Decius,

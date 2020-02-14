@@ -1,6 +1,6 @@
 
 
-**** *creator_lafontaine *book_lafontaine_galatee *style_verse *genre_opera *dist1_lafontaine_verse_opera_galatee *dist2_lafontaine_verse_opera *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_galatee
+**** *creator_lafontaine *book_lafontaine_galatee *style_verse *genre_opera *dist1_lafontaine_verse_opera_galatee *dist2_lafontaine_verse_opera *id_GALATEE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_galatee
 
       Ce don ne se refuse guère.
 
@@ -138,7 +138,7 @@ Si l'Amour laisse entrer la peur
 Dans les coeurs dont il est le maître.
 
 
-**** *creator_lafontaine *book_lafontaine_galatee *style_verse *genre_opera *dist1_lafontaine_verse_opera_galatee *dist2_lafontaine_verse_opera *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_acis
+**** *creator_lafontaine *book_lafontaine_galatee *style_verse *genre_opera *dist1_lafontaine_verse_opera_galatee *dist2_lafontaine_verse_opera *id_ACIS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_acis
 
 Soleil, hâte tes pas ; amène ma déesse.
 Ô qu'heureux sont les amants
@@ -203,7 +203,7 @@ Je mérite que Polyphème
 Aux yeux de sa maîtresse même.
 
 
-**** *creator_lafontaine *book_lafontaine_galatee *style_verse *genre_opera *dist1_lafontaine_verse_opera_galatee *dist2_lafontaine_verse_opera *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_polypheme
+**** *creator_lafontaine *book_lafontaine_galatee *style_verse *genre_opera *dist1_lafontaine_verse_opera_galatee *dist2_lafontaine_verse_opera *id_POLYPHEME *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_polypheme
 
 Que vous êtes heureux, troupeaux ! vous ne songez
 Qu'à satisfaire vos envies.
@@ -276,7 +276,7 @@ Voyez cet abîme profond,
 C'est ce que ma fureur lui garde.
 
 
-**** *creator_lafontaine *book_lafontaine_galatee *style_verse *genre_opera *dist1_lafontaine_verse_opera_galatee *dist2_lafontaine_verse_opera *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_timandre
+**** *creator_lafontaine *book_lafontaine_galatee *style_verse *genre_opera *dist1_lafontaine_verse_opera_galatee *dist2_lafontaine_verse_opera *id_TIMANDRE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_timandre
 
 Brillantes fleurs, naissez,
 Herbe tendre, croissez

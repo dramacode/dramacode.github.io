@@ -1,6 +1,6 @@
 
 
-**** *creator_voltaire *book_voltaire_socrate *style_prose *genre_tragedy *dist1_voltaire_prose_tragedy_socrate *dist2_voltaire_prose_tragedy *date_1759 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_socrate
+**** *creator_voltaire *book_voltaire_socrate *style_prose *genre_tragedy *dist1_voltaire_prose_tragedy_socrate *dist2_voltaire_prose_tragedy *id_SOCRATE *date_1759 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_socrate
 
 Je suis un homme simple, dépourvu de sciences, et plein de faiblesses comme les autres. C'est beaucoup si vous me supportez.
 
@@ -83,7 +83,7 @@ Aimable Aglaé, tendre Sophronime, la loi ordonnait que je prisse le poison : j'
 Votre vie est précieuse, la mienne est inutile : recevez mes tendres et derniers adieux. Les portes de l'éternité s'ouvrent pour moi.
 
 
-**** *creator_voltaire *book_voltaire_socrate *style_prose *genre_tragedy *dist1_voltaire_prose_tragedy_socrate *dist2_voltaire_prose_tragedy *date_1759 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anitus
+**** *creator_voltaire *book_voltaire_socrate *style_prose *genre_tragedy *dist1_voltaire_prose_tragedy_socrate *dist2_voltaire_prose_tragedy *id_ANITUS *date_1759 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anitus
 
 Ma chère confidente, et mes chers affidés, vous savez combien d'argent je vous ai fait gagner aux dernières fêtes de Cérès. Je me marie, et j'espère que vous ferez votre devoir dans cette grande occasion.
 
@@ -202,7 +202,7 @@ Illustres et équitables juges, faites sortir Socrate.
 Vous l'avez entendu, auguste aréopage, institué par le ciel ; cet homme dangereux nie que le soleil tourne, et que vos charges soient de droit divin. Si ces horribles opinions se répandent, plus de magistrats, et plus de soleil : vous n'êtes plus ces juges établis par les lois fondamentales de Minerve, vous n'êtes plus les maîtres de l'état, vous ne devez plus juger que suivant les lois ; et si vous dépendez des lois, vous êtes perdus. Punissez la rébellion, vengez le ciel et la terre. Je sors. Redoutez la colère des dieux, si Socrate reste en vie.
 
 
-**** *creator_voltaire *book_voltaire_socrate *style_prose *genre_tragedy *dist1_voltaire_prose_tragedy_socrate *dist2_voltaire_prose_tragedy *date_1759 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_melitus
+**** *creator_voltaire *book_voltaire_socrate *style_prose *genre_tragedy *dist1_voltaire_prose_tragedy_socrate *dist2_voltaire_prose_tragedy *id_MELITUS *date_1759 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_melitus
 
 Monsieur le prêtre, il y a longtemps que j'y pense : unissons-nous sur ce point, nous n'en serons pas moins brouillés sur le reste.
 
@@ -242,7 +242,7 @@ Qu'on appelle Socrate.
 Les dieux soient bénis, la pluralité est pour la mort. Socrate, les dieux vous condamnent, par notre bouche, à boire de la ciguë tant que mort s'ensuive.
 
 
-**** *creator_voltaire *book_voltaire_socrate *style_prose *genre_tragedy *dist1_voltaire_prose_tragedy_socrate *dist2_voltaire_prose_tragedy *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_xantippe
+**** *creator_voltaire *book_voltaire_socrate *style_prose *genre_tragedy *dist1_voltaire_prose_tragedy_socrate *dist2_voltaire_prose_tragedy *id_XANTIPPE *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_xantippe
 
 Allons, allons, ma fille, ne vous amusez point aux visions de mon mari ; la philosophie est fort bonne, quand on est à son aise ; mais vous n'avez rien ; il faut vivre : vous philosopherez après. J'ai conclu votre mariage avec Anitus, digne prêtre, homme puissant, homme de crédit : venez, suivez-moi ; il ne faut ni lenteur ni contradiction ; j'aime qu'on m'obéisse, et vite ; c'est pour votre bien : ne raisonnez pas, et suivez-moi.
 
@@ -273,7 +273,7 @@ Vous avez trop tardé.
 C'était un grand homme, quand j'y songe ! Ah ! Je vais soulever la nation, et manger le coeur d'Anitus.
 
 
-**** *creator_voltaire *book_voltaire_socrate *style_prose *genre_tragedy *dist1_voltaire_prose_tragedy_socrate *dist2_voltaire_prose_tragedy *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aglae
+**** *creator_voltaire *book_voltaire_socrate *style_prose *genre_tragedy *dist1_voltaire_prose_tragedy_socrate *dist2_voltaire_prose_tragedy *id_AGLAE *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aglae
 
 Ah ! Généreux Socrate, c'est avec bien du regret que je vous vois partir.
 
@@ -335,7 +335,7 @@ Comment ! Il n'est plus temps ! Juste ciel !
 Que nous sommes à plaindre de n'avoir pu mourir pour vous !
 
 
-**** *creator_voltaire *book_voltaire_socrate *style_prose *genre_tragedy *dist1_voltaire_prose_tragedy_socrate *dist2_voltaire_prose_tragedy *date_1759 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sophronime
+**** *creator_voltaire *book_voltaire_socrate *style_prose *genre_tragedy *dist1_voltaire_prose_tragedy_socrate *dist2_voltaire_prose_tragedy *id_SOPHRONIME *date_1759 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sophronime
 
 Chère Aglaé, je vois Anitus, ce prêtre de Cérès, ce méchant homme, cet ennemi juré de Socrate, sortir d'auprès de vous, et vos yeux semblent mouillés de quelques larmes.
 
@@ -376,7 +376,7 @@ Quoi ! Socrate aurait déjà bu la coupe empoisonnée ?
 Puissions-nous élever des temples à Socrate, si un homme en mérite !
 
 
-**** *creator_voltaire *book_voltaire_socrate *style_prose *genre_tragedy *dist1_voltaire_prose_tragedy_socrate *dist2_voltaire_prose_tragedy *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_drixa
+**** *creator_voltaire *book_voltaire_socrate *style_prose *genre_tragedy *dist1_voltaire_prose_tragedy_socrate *dist2_voltaire_prose_tragedy *id_DRIXA *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_drixa
 
 Oui, sans doute, monseigneur, pourvu que vous nous en fassiez gagner encore davantage.
 
@@ -411,7 +411,7 @@ Oui, Minerve, sans doute : je l'ai entendu faire des plaisanteries sur le hibou 
 Et qu'ensuite il soit brûlé sans avoir été entendu.
 
 
-**** *creator_voltaire *book_voltaire_socrate *style_prose *genre_tragedy *dist1_voltaire_prose_tragedy_socrate *dist2_voltaire_prose_tragedy *date_1759 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_terpandre
+**** *creator_voltaire *book_voltaire_socrate *style_prose *genre_tragedy *dist1_voltaire_prose_tragedy_socrate *dist2_voltaire_prose_tragedy *id_TERPANDRE *date_1759 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_terpandre
 
 Cela est un peu fort ; mais, monseigneur, il n'y a rien qu'on ne fasse pour mériter votre sainte protection.
 
@@ -422,7 +422,7 @@ Y a-t-il quelque chose à gagner ? Nous sommes prêts.
 On dit qu'il donne de l'argent aux filles pour se marier.
 
 
-**** *creator_voltaire *book_voltaire_socrate *style_prose *genre_tragedy *dist1_voltaire_prose_tragedy_socrate *dist2_voltaire_prose_tragedy *date_1759 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_acros
+**** *creator_voltaire *book_voltaire_socrate *style_prose *genre_tragedy *dist1_voltaire_prose_tragedy_socrate *dist2_voltaire_prose_tragedy *id_ACROS *date_1759 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_acros
 
 C'est à quoi nous ne manquerons jamais ; c'est un devoir trop sacré pour n'y être pas fidèles.
 
@@ -435,7 +435,7 @@ Oui, il corrompt la jeunesse.
 Oui, il dit que les prêtres de Cérès s'enivrent quelquefois : cela est vrai, c'est un impie.
 
 
-**** *creator_voltaire *book_voltaire_socrate *style_prose *genre_tragedy *dist1_voltaire_prose_tragedy_socrate *dist2_voltaire_prose_tragedy *date_1759 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_juges
+**** *creator_voltaire *book_voltaire_socrate *style_prose *genre_tragedy *dist1_voltaire_prose_tragedy_socrate *dist2_voltaire_prose_tragedy *id_JUGES *date_1759 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_juges
 
 Oui, en prison, vite, en prison !
 
@@ -472,7 +472,7 @@ Messieurs, un petit mot : ne ferions-nous pas bien, tandis que nous avons la mai
 Oui, oui, nous les pendrons à la première session. Allons dîner.
 
 
-**** *creator_voltaire *book_voltaire_socrate *style_prose *genre_tragedy *dist1_voltaire_prose_tragedy_socrate *dist2_voltaire_prose_tragedy *date_1759 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_criton
+**** *creator_voltaire *book_voltaire_socrate *style_prose *genre_tragedy *dist1_voltaire_prose_tragedy_socrate *dist2_voltaire_prose_tragedy *id_CRITON *date_1759 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_criton
 
 Vous nous voyez aussi alarmés de votre sort que votre femme Xantippe : nous avons obtenu des juges la permission de vous voir. Juste ciel ! Faut-il voir Socrate chargé de chaînes ! Souffrez que nous baisions ces fers que vous honorez, et qui sont la honte d'Athènes. Est-il possible qu'Anitus et les siens aient pu vous mettre en cet état ?
 

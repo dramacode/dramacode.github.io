@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillet *book_corneillet_galantdouble *style_verse *genre_comedy *dist1_corneillet_verse_comedy_galantdouble *dist2_corneillet_verse_comedy *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dondiegue
+**** *creator_corneillet *book_corneillet_galantdouble *style_verse *genre_comedy *dist1_corneillet_verse_comedy_galantdouble *dist2_corneillet_verse_comedy *id_DONDIEGUE *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dondiegue
 
 N'en soyez point surprise, ô charmante Isabelle,
 D'un bruit sourd et confus j'en ai su la nouvelle,
@@ -45,7 +45,7 @@ Madame, Don Félix, dont j'attends le retour...
 Je ne demande rien après ce doux espoir.
 
 
-**** *creator_corneillet *book_corneillet_galantdouble *style_verse *genre_comedy *dist1_corneillet_verse_comedy_galantdouble *dist2_corneillet_verse_comedy *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donfernand
+**** *creator_corneillet *book_corneillet_galantdouble *style_verse *genre_comedy *dist1_corneillet_verse_comedy_galantdouble *dist2_corneillet_verse_comedy *id_DONFERNAND *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donfernand
 
 Ah, Gusman  !
 
@@ -884,7 +884,7 @@ Mon coeur ne reconnaît que votre seul empire.
 Parlez expliquez-vous.
 
 
-**** *creator_corneillet *book_corneillet_galantdouble *style_verse *genre_comedy *dist1_corneillet_verse_comedy_galantdouble *dist2_corneillet_verse_comedy *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjuan
+**** *creator_corneillet *book_corneillet_galantdouble *style_verse *genre_comedy *dist1_corneillet_verse_comedy_galantdouble *dist2_corneillet_verse_comedy *id_DONJUAN *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjuan
 
 Seul avec Béatrix  ? C'est n'être pas trop mal.
 
@@ -1040,7 +1040,7 @@ Et que tant que le jeu me laissera de quoi,
 Si tu prends à crédit, j'irai payer pour toi.
 
 
-**** *creator_corneillet *book_corneillet_galantdouble *style_verse *genre_comedy *dist1_corneillet_verse_comedy_galantdouble *dist2_corneillet_verse_comedy *date_1659 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_leonor
+**** *creator_corneillet *book_corneillet_galantdouble *style_verse *genre_comedy *dist1_corneillet_verse_comedy_galantdouble *dist2_corneillet_verse_comedy *id_LEONOR *date_1659 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_leonor
 
       J'en use librement.
 
@@ -1339,7 +1339,7 @@ Mon père ayant des droits que je ne puis trahir,
 S'il a choisi pour moi, je ne sais qu'obéir.
 
 
-**** *creator_corneillet *book_corneillet_galantdouble *style_verse *genre_comedy *dist1_corneillet_verse_comedy_galantdouble *dist2_corneillet_verse_comedy *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+**** *creator_corneillet *book_corneillet_galantdouble *style_verse *genre_comedy *dist1_corneillet_verse_comedy_galantdouble *dist2_corneillet_verse_comedy *id_ISABELLE *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
 
 Cet hymen proposé me fait voir tant d'estime,
 Que l'espoir m'en paraît à peine légitime.
@@ -1799,7 +1799,7 @@ Suffit que je l'estime, et que je ne puis taire
 Que la soeur près de moi peut beaucoup pour le Frère.
 
 
-**** *creator_corneillet *book_corneillet_galantdouble *style_verse *genre_comedy *dist1_corneillet_verse_comedy_galantdouble *dist2_corneillet_verse_comedy *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_beatrix
+**** *creator_corneillet *book_corneillet_galantdouble *style_verse *genre_comedy *dist1_corneillet_verse_comedy_galantdouble *dist2_corneillet_verse_comedy *id_BEATRIX *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_beatrix
 
 Pas tant, si je vous viens ôter un rendez-vous.
 
@@ -2249,7 +2249,7 @@ Et la terre saisie, adieu le Marquisat.
 Voilà comme le tout s'en irait en fumée.
 
 
-**** *creator_corneillet *book_corneillet_galantdouble *style_verse *genre_comedy *dist1_corneillet_verse_comedy_galantdouble *dist2_corneillet_verse_comedy *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jacinte
+**** *creator_corneillet *book_corneillet_galantdouble *style_verse *genre_comedy *dist1_corneillet_verse_comedy_galantdouble *dist2_corneillet_verse_comedy *id_JACINTE *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jacinte
 
 St.
 
@@ -2349,7 +2349,7 @@ Entrez vite...
       Tu la quittes pour moi  ?
 
 
-**** *creator_corneillet *book_corneillet_galantdouble *style_verse *genre_comedy *dist1_corneillet_verse_comedy_galantdouble *dist2_corneillet_verse_comedy *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_exempt
+**** *creator_corneillet *book_corneillet_galantdouble *style_verse *genre_comedy *dist1_corneillet_verse_comedy_galantdouble *dist2_corneillet_verse_comedy *id_EXEMPT *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_exempt
 
 Monsieur, de par le Roi, je vous fais prisonnier.
 
@@ -2369,7 +2369,7 @@ Madame, à ces rigueurs la Justice est contrainte.
 Marchons sans faire éclat.
 
 
-**** *creator_corneillet *book_corneillet_galantdouble *style_verse *genre_comedy *dist1_corneillet_verse_comedy_galantdouble *dist2_corneillet_verse_comedy *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guzman
+**** *creator_corneillet *book_corneillet_galantdouble *style_verse *genre_comedy *dist1_corneillet_verse_comedy_galantdouble *dist2_corneillet_verse_comedy *id_GUZMAN *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guzman
 
       Ah, Monsieur  !
 

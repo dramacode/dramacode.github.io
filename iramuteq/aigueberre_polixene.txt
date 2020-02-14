@@ -1,6 +1,6 @@
 
 
-**** *creator_aigueberre *book_aigueberre_polixene *style_verse *genre_comedy *dist1_aigueberre_verse_comedy_polixene *dist2_aigueberre_verse_comedy *date_(non *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_polixene
+**** *creator_aigueberre *book_aigueberre_polixene *style_verse *genre_comedy *dist1_aigueberre_verse_comedy_polixene *dist2_aigueberre_verse_comedy *id_POLIXENE *date_(non *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_polixene
 
 Ciel ! À quels affronts m'avez vous destinée.
 De climats en climats en triomphe amenée,
@@ -182,7 +182,7 @@ Daignez la délivrer de ses tristes liens,
 Et défendez ses jours, sans regretter les miens.
 
 
-**** *creator_aigueberre *book_aigueberre_polixene *style_verse *genre_comedy *dist1_aigueberre_verse_comedy_polixene *dist2_aigueberre_verse_comedy *date_(non *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_pyrrhus
+**** *creator_aigueberre *book_aigueberre_polixene *style_verse *genre_comedy *dist1_aigueberre_verse_comedy_polixene *dist2_aigueberre_verse_comedy *id_PYRRHUS *date_(non *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_pyrrhus
 
 Quoi, Madame toujours les yeux baignés de larmes ?
 
@@ -358,7 +358,7 @@ Et puissent les Troyens, détruisant nos travaux
 Rebâtir Ilion sur les débris d'Argos.
 
 
-**** *creator_aigueberre *book_aigueberre_polixene *style_verse *genre_comedy *dist1_aigueberre_verse_comedy_polixene *dist2_aigueberre_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aegine
+**** *creator_aigueberre *book_aigueberre_polixene *style_verse *genre_comedy *dist1_aigueberre_verse_comedy_polixene *dist2_aigueberre_verse_comedy *id_AEGINE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aegine
 
 Qu'entends-je juste ciel, et quels sont vos souhaits !
 

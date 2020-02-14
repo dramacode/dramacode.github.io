@@ -1,6 +1,6 @@
 
 
-**** *creator_tristan *book_tristan_parasite *style_verse *genre_comedy *dist1_tristan_verse_comedy_parasite *dist2_tristan_verse_comedy *date_1653 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phenice
+**** *creator_tristan *book_tristan_parasite *style_verse *genre_comedy *dist1_tristan_verse_comedy_parasite *dist2_tristan_verse_comedy *id_PHENICE *date_1653 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phenice
 
 Que le poste est mauvais pour une confidente,
 De passer une nuit près d'une jeune Amante !
@@ -331,7 +331,7 @@ Hé ! De grâce, Monsieur, excusez ces paroles :
 Les sages savent bien que les femmes sont folles.
 
 
-**** *creator_tristan *book_tristan_parasite *style_verse *genre_comedy *dist1_tristan_verse_comedy_parasite *dist2_tristan_verse_comedy *date_1653 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucinde
+**** *creator_tristan *book_tristan_parasite *style_verse *genre_comedy *dist1_tristan_verse_comedy_parasite *dist2_tristan_verse_comedy *id_LUCINDE *date_1653 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucinde
 
       C'est que je veux
 Encor sur ce sujet te dire un mot ou deux.
@@ -413,7 +413,7 @@ Excusez-vous l'un l'autre afin qu'on me déchire.
 Tais-toi.
 
 
-**** *creator_tristan *book_tristan_parasite *style_verse *genre_comedy *dist1_tristan_verse_comedy_parasite *dist2_tristan_verse_comedy *date_1653 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fripesauces
+**** *creator_tristan *book_tristan_parasite *style_verse *genre_comedy *dist1_tristan_verse_comedy_parasite *dist2_tristan_verse_comedy *id_FRIPESAUCES *date_1653 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fripesauces
 
       Ô la rigueur étrange !
 Est-il donc ordonné que jamais je ne mange ?
@@ -1063,7 +1063,7 @@ Et dans un grand hanap, dans une large coupe,
 Je vais jusqu'à demain boire à toute la troupe.
 
 
-**** *creator_tristan *book_tristan_parasite *style_verse *genre_comedy *dist1_tristan_verse_comedy_parasite *dist2_tristan_verse_comedy *date_1653 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecapitan
+**** *creator_tristan *book_tristan_parasite *style_verse *genre_comedy *dist1_tristan_verse_comedy_parasite *dist2_tristan_verse_comedy *id_LECAPITAN *date_1653 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecapitan
 
 Holà, ho, Bourguignon, Champagne, le Picard,
 Le Basque, Cascaret.
@@ -1518,7 +1518,7 @@ Je suivrai ce conseil. Mais fuyons, je vois fondre
 Avec ce vieux Prévôt, des archers en grand nombre.
 
 
-**** *creator_tristan *book_tristan_parasite *style_verse *genre_comedy *dist1_tristan_verse_comedy_parasite *dist2_tristan_verse_comedy *date_1653 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cascaret
+**** *creator_tristan *book_tristan_parasite *style_verse *genre_comedy *dist1_tristan_verse_comedy_parasite *dist2_tristan_verse_comedy *id_CASCARET *date_1653 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cascaret
 
 Ils sont sur les degrés de la Cour du Palais.
 
@@ -1683,7 +1683,7 @@ Il faut la mépriser, il faut se moquer d'elle,
 Et de votre côté faire une amour nouvelle.
 
 
-**** *creator_tristan *book_tristan_parasite *style_verse *genre_comedy *dist1_tristan_verse_comedy_parasite *dist2_tristan_verse_comedy *date_1653 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisandre
+**** *creator_tristan *book_tristan_parasite *style_verse *genre_comedy *dist1_tristan_verse_comedy_parasite *dist2_tristan_verse_comedy *id_LISANDRE *date_1653 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisandre
 
 Enfin, voici l'endroit où Lucinde demeure,
 Et je la reverrai possible dans une heure :
@@ -2023,7 +2023,7 @@ Impudent.
 Madame permettez.
 
 
-**** *creator_tristan *book_tristan_parasite *style_verse *genre_comedy *dist1_tristan_verse_comedy_parasite *dist2_tristan_verse_comedy *date_1653 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_periante
+**** *creator_tristan *book_tristan_parasite *style_verse *genre_comedy *dist1_tristan_verse_comedy_parasite *dist2_tristan_verse_comedy *id_PERIANTE *date_1653 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_periante
 
 Un qui ne te craint guère.
 
@@ -2121,7 +2121,7 @@ Regarde ce papier, et prends bien tes mesures.
 Mais contre ce valet ne t'emporte donc pas.
 
 
-**** *creator_tristan *book_tristan_parasite *style_verse *genre_comedy *dist1_tristan_verse_comedy_parasite *dist2_tristan_verse_comedy *date_1653 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcidor
+**** *creator_tristan *book_tristan_parasite *style_verse *genre_comedy *dist1_tristan_verse_comedy_parasite *dist2_tristan_verse_comedy *id_ALCIDOR *date_1653 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcidor
 
 Comme après la tempête il vient une bonace,
 De même le bonheur succède à la disgrâce ;
@@ -2330,7 +2330,7 @@ C'est aussi bien que vous un parti qu'on embrasse.
 Nous allons cependant quérir le prisonnier.
 
 
-**** *creator_tristan *book_tristan_parasite *style_verse *genre_comedy *dist1_tristan_verse_comedy_parasite *dist2_tristan_verse_comedy *date_1653 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucile
+**** *creator_tristan *book_tristan_parasite *style_verse *genre_comedy *dist1_tristan_verse_comedy_parasite *dist2_tristan_verse_comedy *id_LUCILE *date_1653 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucile
 
 Oui, oui, voilà mon fils, voilà mon débauché,
 Lorsqu'il m'a vu paraître, il s'est soudain caché.
@@ -2540,7 +2540,7 @@ Qu'ils boivent les santés de Lucinde et Lisandre ;
 J'acquitterai bientôt ce qu'ils pourront dépendre.
 
 
-**** *creator_tristan *book_tristan_parasite *style_verse *genre_comedy *dist1_tristan_verse_comedy_parasite *dist2_tristan_verse_comedy *date_1653 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_manille
+**** *creator_tristan *book_tristan_parasite *style_verse *genre_comedy *dist1_tristan_verse_comedy_parasite *dist2_tristan_verse_comedy *id_MANILLE *date_1653 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_manille
 
 Le Ciel par sa bonté veut donc que je revoie
 Ce fils que j'ai cru mort, ô Dieux que j'ai de joie !

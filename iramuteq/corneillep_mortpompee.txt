@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cesar
+**** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *id_CESAR *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cesar
 
 Connaissez-vous César, de lui parler ainsi ?
 Que m'offrirait de pis la fortune ennemie,
@@ -315,7 +315,7 @@ Couronne Cléopatre et m'apaise Pompée,
 Et jure à tous les deux des respects immortels.
 
 
-**** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antoine
+**** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *id_ANTOINE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antoine
 
 Oui, seigneur, je l'ai vue : elle est incomparable ;
 Le ciel n'a point encor, par de si doux accords,
@@ -350,7 +350,7 @@ Dès qu'ils ont abordé, vos chefs, par vous instruits,
 Sans leur rien témoigner, les ont ici conduits.
 
 
-**** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cornelie
+**** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *id_CORNELIE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cornelie
 
 César, car le destin, que dans tes fers je brave,
 Me fait ta prisonnière et non pas ton esclave,
@@ -628,7 +628,7 @@ J'empêche ta ruine, empêchant tes caresses.
 Adieu : j'attends demain l'effet de tes promesses.
 
 
-**** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ptolemee
+**** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *id_PTOLEMEE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ptolemee
 
 Le destin se déclare, et nous venons d'entendre
 Ce qu'il a résolu du beau-père et du gendre.
@@ -978,7 +978,7 @@ Que son courroux ému ne s'aigrisse à me voir ;
 Et vous agirez seule avec plus de pouvoir.
 
 
-**** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleopatre
+**** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *id_CLEOPATRE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleopatre
 
 Seigneur, Pompée arrive, et vous êtes ici !
 
@@ -1398,7 +1398,7 @@ J'en ressens dans mon âme un murmure secret,
 Et ne puis remonter au trône sans regret.
 
 
-**** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_photin
+**** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *id_PHOTIN *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_photin
 
 Seigneur, quand par le fer les choses sont vidées,
 La justice et le droit sont de vaines idées ;
@@ -1584,7 +1584,7 @@ Nous allons vous quitter, comme objets odieux
 Dont l'aspect importun offenserait ses yeux.
 
 
-**** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achillas
+**** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *id_ACHILLAS *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achillas
 
 Seigneur, Photin dit vrai ; mais quoique de Pompée
 Je voie et la fortune et la valeur trompée,
@@ -1672,7 +1672,7 @@ Ne cherchent qu'à venger par un coup généreux
 Le mépris qu'en leur chef ce superbe a fait d'eux.
 
 
-**** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_charmion
+**** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *id_CHARMION *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_charmion
 
 Quoi ? Vous aimez César, et si vous étiez crue,
 L'Égypte pour Pompée armerait à sa vue,
@@ -1718,7 +1718,7 @@ Je vais bien la ravir avec cette nouvelle.
 Vous, continuez-lui ce service fidèle.
 
 
-**** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achoree
+**** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *id_ACHOREE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achoree
 
 Madame, j'ai couru par votre ordre au rivage ;
 J'ai vu la trahison, j'ai vu toute sa rage ;

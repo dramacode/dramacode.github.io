@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zacharie
+**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *id_ZACHARIE *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zacharie
 
 Ah ! Vous voilà, charmante ? Que je suis heureux de vous rencontrer !
 
@@ -137,7 +137,7 @@ Serait-il bien possible, charmante personne ?
 Je l'ai endossée, Madame Sara, voulez-vous que je l'acquitte ?
 
 
-**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trapolin
+**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *id_TRAPOLIN *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trapolin
 
 Oh parbleu, vous n'y entendez rien en comparaison de moi, monsieur Craquinet : il faut connaître son monde, et savoir à propos serrer le bouton aux emprunteurs que leurs affaires pressent.
 
@@ -663,7 +663,7 @@ C'est une tracasserie qu'on me fait, Madame Sara ; mais je suis honnête homme,
 Me voilà bien.
 
 
-**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_durillon
+**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *id_DURILLON *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_durillon
 
 On ne vous accusera pas d'être trop grande dormeuse. Les plus jeunes filles sont les plus alertes.
 
@@ -881,7 +881,7 @@ Vingt mille francs et un bon dîner, il n'y a rien de plus honnête.
 Laissez-moi faire… Monsieur Trapolin dit qu'il est charmé de vous, Monsieur le Marquis Daudinet.
 
 
-**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamesara
+**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *id_MADAMESARA *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamesara
 
 Avec qui étiez-vous là, Mademoiselle ma nièce ?
 
@@ -930,7 +930,7 @@ Non, Monsieur Trapolin, vous êtes un fripon. Vous me rendrez mes dix mille écu
 Volontiers, Monsieur ; mais faisons rendre compte à votre coquin de filleul, et qu'il rentre dans le néant, d'où nous l'avons tiré.
 
 
-**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_suzon
+**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *id_SUZON *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_suzon
 
 En vérité, Claudine, vous vous moquez de moi : pour aller à vingt pas d'ici, vous êtes deux heures à revenir : sans la femme de chambre de ma tante, je ne serais pas encore habillée.
 
@@ -1063,7 +1063,7 @@ La pluralité des voix n'est ni pour l'un ni pour l'autre, Monsieur Zacharie ; 
 Elle est entre les mains de Monsieur, vous lui devez de l'argent, il a des comptes à faire avec vous ; il comptera les mains garnies.
 
 
-**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_craquinet
+**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *id_CRAQUINET *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_craquinet
 
 Je vous rapporte votre billet de vingt-cinq livres, les deux associés n'ont fait nulle difficulté de le signer. Je les crois un peu véreux, l'affaire n'est pas bonne.
 
@@ -1088,7 +1088,7 @@ Cela sera exécuté à la rigueur.
 Ce sont là de grands talents.
 
 
-**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_urbine
+**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *id_URBINE *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_urbine
 
 Je me trouve en pays de connaissance : je vous donne le bonjour, Monsieur Durillon ; votre servante, Monsieur Trapolin.
 
@@ -1121,7 +1121,7 @@ Adieu Monsieur Trapolin. Si j'épouse Monsieur le Président, vous aurez en nous
 Je suis votre très humble servante, Messieurs.
 
 
-**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dargentac
+**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *id_DARGENTAC *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dargentac
 
 Très humble serviteur à celui des deux qui est Monsieur Trapolin, jé baise les mains à l'autre.
 
@@ -1198,7 +1198,7 @@ Diantre soit fait de l'homme dé mé venir, relancer jusqu'ici ; les Touffignac
 Oh, j'aurai bientôt expédié mon homme, jé suis alerte, jé suis alerte.
 
 
-**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dubois
+**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *id_DUBOIS *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dubois
 
 Je garde là-dessus autant de mesures que toi ; je ne te suis jamais venu voir avec les livrées de Monsieur le Président : j'ai toujours bien compris que tu avais des raisons pour faire l'homme de conséquence.
 
@@ -1348,7 +1348,7 @@ Ne faites point de bruit de l'aventure, au moins, cela nuirait à votre crédit,
 Tu voulais faire ma fortune, cousin, voilà la tienne bien dérangée : je m'en vais reprendre les livrées du Président.
 
 
-**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_claudine
+**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *id_CLAUDINE *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_claudine
 
 C'est donc la première fois que tu es venu à Paris, cousin ?
 
@@ -1441,7 +1441,7 @@ Je ne savons tous deux ce que c'est, je vous demandons bian excuse.
 Si fait, Monsieur, c'est un billet que le cousin a trouvé ; et comme je ne savons lire ni l'un ni l'autre, j'avons prié Monsieur de le vouloir troquer contre de l'argent comme vous faites, vous.
 
 
-**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucas
+**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *id_LUCAS *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucas
 
 Palsangué, couseine, c'est une terrible ville que ce Paris, queu peine on a d'y trouver une fille. On ne t'y connaît non plus que s'il n'y avait pas six mois que tu y demeurisses. Je te charche morguoi tout depuis hier que je sis arrivé ; et si par cas fortuit je ne t'avais pas rencontrée, je crois, Dieu me pardonne, que je te chercherais encore, et je me chercherais peut-être itou moi-même, car j'ai pensé me perdre.
 
@@ -1536,7 +1536,7 @@ Je vous le disais bian, que vous trouveriais la somme.
 Hé bian, votre papier ne vaut rian, Monsieu Trapolin ; on ne trouve dessus que des coups de bâton et des injures, et si, on appelle ça des billets doux encore.
 
 
-**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cangrene
+**** *creator_dancourt *book_dancourt_agioteurs *style_prose *genre_comedy *dist1_dancourt_prose_comedy_agioteurs *dist2_dancourt_prose_comedy *id_CANGRENE *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cangrene
 
 Je vous donne le bonjour, messieurs, je suis bien aise de vous rencontrer ensemble, et je ne pouvais trouver une meilleure occasion.
 

@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamethibaut
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_MADAMETHIBAUT *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamethibaut
 
 Je n'en puis plus, donne-moi une chaise.
 
@@ -629,7 +629,7 @@ Quelles aventures !
 Hé, point de bruit, Messieurs, je vous prie ; je rendrai la vaisselle et les trois cents pistoles. Passons là-dedans, et vous serez contents de moi.
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_labrie
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_LABRIE *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_labrie
 
 Bonjour, cousine : que me veut ta Maîtresse ? On m'a dit à l'auberge qu'elle avait envoyé me chercher. La besogne donne-t-elle ? Car, elle ne m'emploie que lorsqu'il y a ici des affaires à tout rompre.
 
@@ -692,7 +692,7 @@ Laissez-moi faire, tout ira bien. N'ai-je pas fait le Notaire à merveille ?
 Il ne me manque que la Charge, car j'ai d'ailleurs toutes les parties nécessaires pour faire un parfait habile homme.
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laramee
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_LARAMEE *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laramee
 
 Présentement que nous sommes seuls, viens, que je t'embrasse mon pauvre Jolicœur.
 
@@ -843,7 +843,7 @@ Moi, sortir ? Quelque sot. Je m'enfonce dans l'appartement ; s'ils ont affaire
 Ce ne sont plus là vos affaires. À fourbe, fourbe et demi ; Madame, finissez avec ces Messieurs, je vous le conseille.
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jolicoeur
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_JOLICOEUR *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jolicoeur
 
 Quoi ! C'est là la Ramée ?
 
@@ -894,7 +894,7 @@ Comment donc ? Sais-tu déjà que Cléante notre Capitaine est là-bas ?
 Que te voilà pris comme un sot. Le Guet à cheval est à la grande porte, et le Guet à pied à celle de derrière, regarde par où tu veux sortir ?
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemaitreachanter
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_LEMAITREACHANTER *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemaitreachanter
 
 Qu'est-ce donc que tout ceci ? Vous voilà tous deux en colère ?
 
@@ -961,7 +961,7 @@ Et fort vrai, Madame Thibaut. Vous le savez ; qui ne peut mais de la fécondit�
 Jusqu'à tantôt, je ne vous dis pas adieu.
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemaitreadanser
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_LEMAITREADANSER *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemaitreadanser
 
 Je sors de chez elle.
 
@@ -998,7 +998,7 @@ Pour qui me prenez-vous ?
 Vous êtes en colère, serviteur.
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorise
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_DORISE *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorise
 
 Il y a quinze jours, Madame, que j'épie l'occasion de pouvoir vous entretenir en particulier, ce que je n'ai pu trouver jusqu'aujourd'hui.
 
@@ -1027,7 +1027,7 @@ J'en suis à ma cinquième édition.
 Adieu, Madame. Vous qui connaissez tant de gens, faites, je vous prie, qu'on glisse dans le monde quelques mots en faveur de mes ouvrages, pour me procurer la place que je souhaite.
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_ANGELIQUE *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
 Bonjour, Madame.
 
@@ -1086,7 +1086,7 @@ Voilà un diamant de cent pistoles, prête-m'en cinquante, je te prie, je t'en p
 Je te suis obligée. Quand je devrais les perdre, je ferai beau bruit pour mon argent, et tu entendras parler de moi.
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_champagne
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_CHAMPAGNE *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_champagne
 
 Je suis mort, Monsieur.
 
@@ -1107,7 +1107,7 @@ Oui, Monsieur.
 Cela rompt vos mesures ; mais, il faut suivre l'ordre.
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_ERASTE *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
 
 Bonjour, ma chère Madame Thibaut.
 
@@ -1196,7 +1196,7 @@ La vieille folle !
 Moi, j'aurais épousé Madame Torquette, ma pauvre Madame Thibaut ? Voilà deux aventures dans le même jour qui me le persuadent : et malgré le désordre de mes affaires, j'aime mieux vivre garçon mal aisé, que d'avoir obligation à une vieille ou à une coquette. Adieu, je te laisse mon mémoire, si tu peux me rendre service, je n'en serai pas méconnaissant.
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_araminte
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_ARAMINTE *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_araminte
 
 Tu te moques de moi, ma bonne ; si elle n-y est pas, elle reviendra, et nous avons tout le loisir de l'attendre.
 
@@ -1223,7 +1223,7 @@ Ah ! Chevalier, il y a pour en mourir. Un homme que je devais épouser demain, 
 Ah ! Je n'en puis plus.
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_LECHEVALIER *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
 
 Ces sortes de femmes connaissent toute la terre : sait-on ce qui peut arriver ?
 
@@ -1238,7 +1238,7 @@ Je ne comprends rien à tout ceci, Madame.
 Quoi ! C'est là cet Éraste ? J'avais raison de vouloir demeurer dans le carrosse.
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_LEMARQUIS *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
 
 Bonjour, la belle enfant, pourrait-on dire un mot à votre maîtresse.
 
@@ -1327,7 +1327,7 @@ Vous moquez-vous ? Je prends garde à l'argent, et non pas aux années. Soixant
 Si je deviens marchand de marée, tu peux compter sur trois cents pistoles.
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecocher
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_LECOCHER *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecocher
 
 Par votre permission, Monsieur, n'est-il point monté ici un Monsieur et une Madame ?
 
@@ -1352,7 +1352,7 @@ Grand merci, Monsieur, grand bien vous fasse.
 Je vais m'y rendre, afin qu'on m'y trouve.
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_LEANDRE *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
 
 À la fin, je t'amène mon père.
 
@@ -1375,7 +1375,7 @@ Il en entrera quelques-unes dans la tienne. Mais voici mon père.
 Madame Thibaut le sait mieux qu'une autre. Voulez-vous que nous voyions la vaisselle ?
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_DORANTE *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
 
 Hé bien, Monsieur le Capitaine, est-ce Madame qui me doit faire si bon marché ?
 
@@ -1434,7 +1434,7 @@ Point, Monsieur, mon fils m'a tout dit. C'est une malheureuse, qui sous prétext
 Vous voyez bien, Monsieur, qu'on ne peut manquer de s'assurer de cette coquine-là.
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melinde
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_MELINDE *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melinde
 
 Ma mie, ce Monsieur dont le carrosse est là-bas, ne serait-il point ici.
 
@@ -1473,7 +1473,7 @@ Si je ne l'ai pas dans deux heures, je fais porter ce soir ma toilette chez vous
 Vous ferez bien : n'y manquez pas, ou vous m'aurez bientôt à vos trousses.
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdubois
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_MONSIEURDUBOIS *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdubois
 
 Je me meurs de chagrin, Madame Thibaut.
 
@@ -1544,7 +1544,7 @@ Voilà pour elle un diamant de quinze pistoles ; mais qu'elle prenne garde…
 Adieu, Madame Thibaut. Je n'aurais jamais cru que des enfants fussent un e si chère marchandise.
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdelaprotase
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_MONSIEURDELAPROTASE *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdelaprotase
 
 Peut-on voir Madame Thibaut ?
 
@@ -1585,7 +1585,7 @@ Je le crois comme cela. Adieu, je te laisse mon Placet, fais-le voir à ta Maît
 Adieu, ma fille, adieu.
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orgon
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_ORGON *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orgon
 
 Il est vrai que toutes les fois qu'elle sort, c'est toujours pour aller au Palais, ou chez Madame Thibaut. Si j'étais d'un tempérament jaloux…
 
@@ -1632,7 +1632,7 @@ Quand ce bureau sera venu, que nous le sachions, au moins.
 Allons mamour, allons essayer la garniture. Je meurs d'impatience de voir si cela te siéra bien.
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ardalise
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_ARDALISE *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ardalise
 
 Ma pauvre Madame Thibaut, je ne sais pas ce que je ferais sans toi. Je ne puis me lasser de te venir voir.
 
@@ -1677,7 +1677,7 @@ Tu donneras cent francs à Lisette, le reste est pour toi.
 Adieu, Madame Thibaut.
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_LISETTE *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Ma pauvre Gabrillon, ne sais-tu point ce qu'est devenu ce petit Dragon que tu as donné à Madame ?
 
@@ -1730,7 +1730,7 @@ Assurément, ce sont des améliorations qu'on fait à sa maison.
 Adieu.
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lepetitdragon
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_LEPETITDRAGON *date_1692 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lepetitdragon
 
 Hin, hin, hin, hin.
 
@@ -1769,7 +1769,7 @@ Hé bien, si vous m'y menez de force, j'irai ; mais vous verrai si je ne dis pa
 J'aurai le fouet, mais je vous ferai bien enrager.
 
 
-**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madametorquette
+**** *creator_dancourt *book_dancourt_femmedintrigues *style_prose *genre_comedy *dist1_dancourt_prose_comedy_femmedintrigues *dist2_dancourt_prose_comedy *id_MADAMETORQUETTE *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madametorquette
 
 Hum hum. Avez-vous songé à moi, ma chère Madame Thibaut ? Vous avez tant d'affaires…
 

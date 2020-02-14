@@ -1,6 +1,6 @@
 
 
-**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_ulisse
+**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *id_ulisse *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_ulisse
 
 Vostre Reyne aujourd'huy se fait beaucoup attendre ;
 J'ay crû qu'elle seroit la premiere à s'y rendre,
@@ -441,7 +441,7 @@ Et repande par tout des rayons de lumiere
 Aussi purs et brillans que ceux de vostre pere.
 
 
-**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_euriloche
+**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *id_euriloche *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_euriloche
 
 Non, Seigneur, nostre Grece en delices fertile
 N'a rien de comparable aux douceurs de cette Ile.
@@ -992,7 +992,7 @@ Amys qu'on se dispose au combat qui s'apreste
 Contre nos ennemis et contre la tempeste.
 
 
-**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_elpenor
+**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *id_elpenor *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_elpenor
 
 Quand flatté⁎ d'un bonheur qui passe⁎ mon attente,
 Je mesure au passé ma fortune⁎ presente,
@@ -1202,7 +1202,7 @@ Daignent les Dieux tesmoins si la vostre m'est chere,
 Punir qui de nous deux l'offrira moins sincere.
 
 
-**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_circe
+**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *id_circe *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_circe
 
 Je l'advouë aujourd'huy, vous m'avez attenduë,
 Mais tousjours cette ardeur⁎ ne m'a pas prevenuë⁎ :
@@ -1652,7 +1652,7 @@ Pour affranchir nos cœurs de ces malheurs extremes
 Vivons sans passions, et Reynes de nous-mesmes.
 
 
-**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phaetuse
+**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *id_phaetuse *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phaetuse
 
 Elle l'est, Elpenor, et la part que j'y prends,
 M'a donné vos transports⁎, et peut-estre plus grands.
@@ -1925,7 +1925,7 @@ Puisqu'Elpenor est mort, nul ne peut dignement    
 Apres un tel heros se dire mon amant⁎.
 
 
-**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leucosie
+**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *id_leucosie *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leucosie
  
 Quoy vous ne suivez pas ? quel ennuy⁎ vous possede ?
 Qu'est-ce ?
@@ -2165,7 +2165,7 @@ Moy, qui presumois trop d'un traistre et d'un coupable
 Je hay son sexe autant qu'il me parut aymable.
 
 
-**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_perimede
+**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *id_perimede *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_perimede
 
       Que voulez-vous grand Roy ?
 Dieu des vents, qui vous fait descendre jusqu'à moy.
@@ -2233,7 +2233,7 @@ Favorise un vaisseau qui semble nous poursuivre.
       Sauvez là donc, on vient vous l'arracher.
 
 
-**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *date_1650 *sexe_neutre *age_sans-age *statut_serviteur *fonction_autres *role_suiteulysse
+**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *id_suite-ulysse *date_1650 *sexe_neutre *age_sans-age *statut_serviteur *fonction_autres *role_suiteulysse
 
 Des plus profonds cachots du centre de la terre
 Je roule incessamment cette masse de pierre ;
@@ -2380,7 +2380,7 @@ Par elle doit encor triompher à son tour.    
 Adieu.
 
 
-**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_jupiter
+**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *id_jupiter *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_jupiter
 
 Du trosne où je m'assois dans le plus haut des Cieux,
 D'où je puis commander les hommes et les Dieux,

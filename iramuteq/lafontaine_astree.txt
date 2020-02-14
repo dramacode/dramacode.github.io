@@ -1,6 +1,6 @@
 
 
-**** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_astree
+**** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *id_ASTREE *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_astree
 
 Avais-je tort, Philis ? Tu vois ces témoignages
 De sa main propre ils sont tracés ;
@@ -175,7 +175,7 @@ Si l'Amour mesure ses charmes
 Sur les tourments qu'on a soufferts.
 
 
-**** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_celadon
+**** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *id_CELADON *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_celadon
 
 Hé quoi ! seule en ces lieux, sans songer à la fête
 Dont vous serez tout l'ornement !
@@ -302,7 +302,7 @@ La Nymphe vient à nous.
 Vous doit faire excuser ces marques de transport.
 
 
-**** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philis
+**** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *id_PHILIS *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philis
 
 Ne le soupçonnez pas, ma soeur.
 
@@ -394,7 +394,7 @@ Dans ces lieux règne le silence.
 Bergers, attendez-nous... Ils ne m'écoutent pas...
 
 
-**** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hylas
+**** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *id_HYLAS *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hylas
 
 Quoi ! Vous doutez si je vous aime ?
 Eh ! Qui pourrait, Philis, vous voir sans vous aimer ?
@@ -434,7 +434,7 @@ Et de faire
 Qu'à l'objet de vos voeux d'autres plaisent que vous.
 
 
-**** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tircis
+**** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *id_TIRCIS *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tircis
 
 C'est un devoir de persister toujours
 Dans les mêmes amours.
@@ -457,7 +457,7 @@ Ne troublons point du sort les mystères terribles ;
 Sortons : à nos hameaux allons tout raconter.
 
 
-**** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_galatee
+**** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *id_GALATEE *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_galatee
 
 Je ne me connais plus ; quelle nouvelle ardeur
 Se rend maîtresse de mon coeur ?
@@ -560,7 +560,7 @@ Inventez tous des divertissements
 Dignes de ma présence.
 
 
-**** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonide
+**** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *id_LEONIDE *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonide
 
 Princesse, cherchez-vous ici la solitude ?
 
@@ -617,7 +617,7 @@ Quels biens votre pouvoir ne va-t-il pas répandre
 Dans cet heureux séjour !
 
 
-**** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismene
+**** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *id_ISMENE *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismene
 
 Le Ciel exaucera vos voeux ;
 Il me l'a fait savoir. Je suis la fée Ismène.

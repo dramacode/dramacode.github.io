@@ -1,6 +1,6 @@
 
 
-**** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_penelope
+**** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *id_PENELOPE *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_penelope
 
 J'appelle en vain Ulysse : ô fatale journée !
 Pénélope, à quel choix te vois-tu condamnée !
@@ -470,7 +470,7 @@ Mais ce bonheur, mon fils, qu'ils rendent à mes voeux.
 Ne serait pas parfait, si vous n'étiez heureux.
 
 
-**** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulysse
+**** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *id_ULYSSE *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulysse
 
 Déesse, dont le soin et me guide et m'inspire,
 Est-ce donc l'air d'Ithaque enfin que je respire ?
@@ -786,7 +786,7 @@ Ce n'en est pas le temps, il faut vous secourir.
 Attendez, espérez.
 
 
-**** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_telemaque
+**** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *id_TELEMAQUE *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_telemaque
 
 Je vous dois trop, seigneur. Mais ne saurais-je apprendre
 D'où naît un changement qui vient de me surprendre ?
@@ -1120,7 +1120,7 @@ Et que devient Iphise ?
 Cherche Iphise...
 
 
-**** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eurimaque
+**** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *id_EURIMAQUE *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eurimaque
 
 Divine reine, enfin je vois cette journée
 Que pour me rendre heureux le ciel a destinée.
@@ -1338,7 +1338,7 @@ Je cours pour seconder les soins d'Antinoüs.
 L'arrêt est prononcé ; je ne pardonne plus.
 
 
-**** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iphise
+**** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *id_IPHISE *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iphise
 
 Ce désordre m'alarme, et j'ai trouvé mon père
 Moins enflammé d'amour qu'il ne l'est de colère.
@@ -1456,7 +1456,7 @@ Paraissez. Hâtez-vous. Le prince va périr.
 Ah ! s'il est temps encor je vais le secourir..
 
 
-**** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eumee
+**** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *id_EUMEE *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eumee
 
 Ce zèle qui ressent vos funestes alarmes,
 Madame, vient mêler mes regrets à vos larmes ;
@@ -1665,7 +1665,7 @@ Ulysse vous attend pour aller voir Laërte,
 Madame.
 
 
-**** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antinous
+**** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *id_ANTINOUS *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antinous
 
 Madame...
 
@@ -1793,7 +1793,7 @@ Et d'une autorité qui semble encor douteuse
 Cette épreuve, Seigneur, serait trop dangereuse.
 
 
-**** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ericlee
+**** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *id_ERICLEE *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ericlee
 
 Contraignez- vous encore, essuyez ces beaux yeux.
 Montrez-vous, reprenez cet air victorieux,
@@ -1860,7 +1860,7 @@ Madame !
       Le ciel semble vous l'envoyer.
 
 
-**** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_argine
+**** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *id_ARGINE *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_argine
 
 Sans cesse à ses regrets vous mêlez vos soupirs.
 Quel excès de pitié, quel soin vous importune,

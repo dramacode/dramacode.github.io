@@ -1,6 +1,6 @@
 
 
-**** *creator_dugazon *book_dugazon_modere *style_verse *genre_comedy *dist1_dugazon_verse_comedy_modere *dist2_dugazon_verse_comedy *date_1793 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moderantin
+**** *creator_dugazon *book_dugazon_modere *style_verse *genre_comedy *dist1_dugazon_verse_comedy_modere *dist2_dugazon_verse_comedy *id_MODERANTIN *date_1793 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moderantin
 
 Accrochez tout cela, Dufour, dans le salon.
 Quand l'écriteau civique est devant la maison,
@@ -270,7 +270,7 @@ Et servir de modèle à tout notre quartier.
 Vous avez bien raison. Dufour, et mon repas ?
 
 
-**** *creator_dugazon *book_dugazon_modere *style_verse *genre_comedy *dist1_dugazon_verse_comedy_modere *dist2_dugazon_verse_comedy *date_1793 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_dufour
+**** *creator_dugazon *book_dugazon_modere *style_verse *genre_comedy *dist1_dugazon_verse_comedy_modere *dist2_dugazon_verse_comedy *id_DUFOUR *date_1793 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_dufour
 
 Oui, je vous le soutiens, et je vous le répète :
 Si Monsieur faisait bien, il ferait maison nette.
@@ -472,7 +472,7 @@ Monsieur en est le chef.
 Nous allons le manger : allez vous mettre au pas.
 
 
-**** *creator_dugazon *book_dugazon_modere *style_verse *genre_comedy *dist1_dugazon_verse_comedy_modere *dist2_dugazon_verse_comedy *date_1793 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lestanville
+**** *creator_dugazon *book_dugazon_modere *style_verse *genre_comedy *dist1_dugazon_verse_comedy_modere *dist2_dugazon_verse_comedy *id_LESTANVILLE *date_1793 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lestanville
 
 Ma parole d'honneur, la chose est effroyable !
 Moi, m'aller caserner ! Mais je me donne au diable,
@@ -514,7 +514,7 @@ Ou qu'à sa Section le soir il vous dénonce.
 J'arrivais dans l'instant. Quoi ! Cela vous chagrine ?
 
 
-**** *creator_dugazon *book_dugazon_modere *style_verse *genre_comedy *dist1_dugazon_verse_comedy_modere *dist2_dugazon_verse_comedy *date_1793 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fablenville
+**** *creator_dugazon *book_dugazon_modere *style_verse *genre_comedy *dist1_dugazon_verse_comedy_modere *dist2_dugazon_verse_comedy *id_FABLENVILLE *date_1793 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fablenville
 
 J'Arrive le premier, mon cher, au rendez-vous.
 Chez toi, l'on fait toujours chère très délicate ;
@@ -550,7 +550,7 @@ Quoi ! Vous m'avez trahi.
 Y pensez-vous, Dufour ?
 
 
-**** *creator_dugazon *book_dugazon_modere *style_verse *genre_comedy *dist1_dugazon_verse_comedy_modere *dist2_dugazon_verse_comedy *date_1793 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_manette
+**** *creator_dugazon *book_dugazon_modere *style_verse *genre_comedy *dist1_dugazon_verse_comedy_modere *dist2_dugazon_verse_comedy *id_MANETTE *date_1793 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_manette
 
 Mais dites-nous pourquoi, Patriote enragé ?
 
@@ -637,7 +637,7 @@ Chez votre nièce enfin : trouvez-vous cela bon ?
       Il est fou, je parie.
 
 
-**** *creator_dugazon *book_dugazon_modere *style_verse *genre_comedy *dist1_dugazon_verse_comedy_modere *dist2_dugazon_verse_comedy *date_1793 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+**** *creator_dugazon *book_dugazon_modere *style_verse *genre_comedy *dist1_dugazon_verse_comedy_modere *dist2_dugazon_verse_comedy *id_JULIE *date_1793 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
 
       Non, ne l'espérez pas :
 Il ne peut à ce prix vous tirer d'embarras.

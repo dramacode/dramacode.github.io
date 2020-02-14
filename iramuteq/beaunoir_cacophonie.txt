@@ -1,6 +1,6 @@
 
 
-**** *creator_beaunoir *book_beaunoir_cacophonie *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_cacophonie *dist2_beaunoir_prose_comedy *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_silvestre
+**** *creator_beaunoir *book_beaunoir_cacophonie *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_cacophonie *dist2_beaunoir_prose_comedy *id_SILVESTRE *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_silvestre
 
 Je ne demanderais pas mieux que je fussions tous d'accord, si cela le pouvait; mais j'en sommes palsangué bian éloignés.
 
@@ -104,7 +104,7 @@ Non, palsanguoi! Ce n'est pas moi qui l'ai volé ; arrangez-vous.
 Oui-dà, diable ! Allons, j'y consens.
 
 
-**** *creator_beaunoir *book_beaunoir_cacophonie *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_cacophonie *dist2_beaunoir_prose_comedy *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_claudine
+**** *creator_beaunoir *book_beaunoir_cacophonie *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_cacophonie *dist2_beaunoir_prose_comedy *id_CLAUDINE *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_claudine
 
 Pardine, tu veux toujours agir à ta tête, aussi. Est-ce que tu crois qu'une femme n'a pas la sienne ? N'est-ce pas à une mère à marier sa fille ? Ne sait-elle pas mieux ce qui lui conviant qu'un homme ?
 
@@ -157,7 +157,7 @@ Eh bien ! Vous v'là pris.
 Me v'là contente ; et toi aussi, Lucette, n'est-ce pas ?
 
 
-**** *creator_beaunoir *book_beaunoir_cacophonie *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_cacophonie *dist2_beaunoir_prose_comedy *date_1779 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lucette
+**** *creator_beaunoir *book_beaunoir_cacophonie *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_cacophonie *dist2_beaunoir_prose_comedy *id_LUCETTE *date_1779 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lucette
 
 Je ne serai jamais capable de méconnaître mon père et ma mère.
 
@@ -224,7 +224,7 @@ Rien n'est plus vrai, mon père ; et c'est pour cela qu'on vous a donné le sob
 Oui, ma mère, il faut que Vincent soit bien adroit pour triompher d'un procureur.
 
 
-**** *creator_beaunoir *book_beaunoir_cacophonie *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_cacophonie *dist2_beaunoir_prose_comedy *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_vuidegousset
+**** *creator_beaunoir *book_beaunoir_cacophonie *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_cacophonie *dist2_beaunoir_prose_comedy *id_VUIDEGOUSSET *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_vuidegousset
 
 N'en doutez pas. Mais je vois votre fille qui s'en va ; je voudrais lui parler.
 
@@ -361,7 +361,7 @@ Oh ! Je ne serai pas le plus fort. Je me désiste de mes prétentions sur Lucet
 Il faut donc avaler la pilule toute entière ; allons, je paierai le grison. Mais consentez au mariage de Vincent ; car vous pourriez passer pour un receleur.
 
 
-**** *creator_beaunoir *book_beaunoir_cacophonie *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_cacophonie *dist2_beaunoir_prose_comedy *date_1779 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_vincent
+**** *creator_beaunoir *book_beaunoir_cacophonie *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_cacophonie *dist2_beaunoir_prose_comedy *id_VINCENT *date_1779 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_vincent
 
 Ah ! Te voilà, Lucette. Eh bien ! Sais-tu ce que ton père et ta mère pensent pour moi ?
 
@@ -434,7 +434,7 @@ J'ai tout vu, moi, de dessus cette maison-là où je couvrais.
 Il est vrai, ma chère Lucette ; mais ce n'est qu'au public qui nous a servi de témoins, que nous devons notre bonheur.
 
 
-**** *creator_beaunoir *book_beaunoir_cacophonie *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_cacophonie *dist2_beaunoir_prose_comedy *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_broutillard
+**** *creator_beaunoir *book_beaunoir_cacophonie *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_cacophonie *dist2_beaunoir_prose_comedy *id_BROUTILLARD *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_broutillard
 
 Diable ! Il est donc bien amoureux.
 
@@ -469,7 +469,7 @@ Eh ! Que voulez-vous donc dire ?
 Il suffit.
 
 
-**** *creator_beaunoir *book_beaunoir_cacophonie *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_cacophonie *dist2_beaunoir_prose_comedy *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
+**** *creator_beaunoir *book_beaunoir_cacophonie *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_cacophonie *dist2_beaunoir_prose_comedy *id_GILLES *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
 
 JE n'ai point encore pu vendre mon grison ; mais si je peux en avoir dix écus, cela fera, avec ce que j'ai déjà amassé, deux cens francs. Je serai bien content : car Colette , quoi qu'elle dise qu'elle m'aime bien, alle veut que j'aye queuque chose devant moi pour l'épouser. Ah ! Dame, alle a raison, au bout du compte, il faut de ça dans le ménage.
 
@@ -573,7 +573,7 @@ Tu feras bien. Adieu... Va, va, frippon , tu te souviendras de moi. Je serai ven
 Tout ça, tout ça est fort bien ; v'là bien du bruit. Mais tout ça ne me rend pas mon âne, à moi. Tu me l'as promis, Vincent.
 
 
-**** *creator_beaunoir *book_beaunoir_cacophonie *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_cacophonie *dist2_beaunoir_prose_comedy *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamecarpillon
+**** *creator_beaunoir *book_beaunoir_cacophonie *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_cacophonie *dist2_beaunoir_prose_comedy *id_MADAMECARPILLON *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamecarpillon
 
 Ah ! Pardi, oui. La ressemblance n'est pas difficile à trouver ; l'un porte les sacs au moulin et l'autre à l'audience. On sait bien ce qu'ils leur valent à tous deux. L'un gagne en les vidant, et l'autre en les remplissant.
 

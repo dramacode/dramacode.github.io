@@ -1,6 +1,6 @@
 
 
-**** *creator_harny *book_harny_sybille *style_verse *genre_comedy *dist1_harny_verse_comedy_sybille *dist2_harny_verse_comedy *date_1765 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lasybille
+**** *creator_harny *book_harny_sybille *style_verse *genre_comedy *dist1_harny_verse_comedy_sybille *dist2_harny_verse_comedy *id_LASYBILLE *date_1765 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lasybille
 
 
 
@@ -240,7 +240,7 @@ Rien ne plaît autant que cela
 La, la.
 
 
-**** *creator_harny *book_harny_sybille *style_verse *genre_comedy *dist1_harny_verse_comedy_sybille *dist2_harny_verse_comedy *date_1765 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_azor
+**** *creator_harny *book_harny_sybille *style_verse *genre_comedy *dist1_harny_verse_comedy_sybille *dist2_harny_verse_comedy *id_AZOR *date_1765 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_azor
 
 Amour lance dans mon âme
 Tous tes traits.
@@ -421,7 +421,7 @@ Pardonnez moi si j'ai pu vous déplaire
 Mon excuse est votre beauté.
 
 
-**** *creator_harny *book_harny_sybille *style_verse *genre_comedy *dist1_harny_verse_comedy_sybille *dist2_harny_verse_comedy *date_1765 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_euphrosine
+**** *creator_harny *book_harny_sybille *style_verse *genre_comedy *dist1_harny_verse_comedy_sybille *dist2_harny_verse_comedy *id_EUPHROSINE *date_1765 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_euphrosine
 
 Dieu charmant,
 Dieu de la tendresse,
@@ -544,7 +544,7 @@ Votre réponse.
       L'Amour les poursuit.
 
 
-**** *creator_harny *book_harny_sybille *style_verse *genre_comedy *dist1_harny_verse_comedy_sybille *dist2_harny_verse_comedy *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_francoeur
+**** *creator_harny *book_harny_sybille *style_verse *genre_comedy *dist1_harny_verse_comedy_sybille *dist2_harny_verse_comedy *id_FRANCOEUR *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_francoeur
 
 L'Amour fait dans ce temps
 Bonne Vendange ;

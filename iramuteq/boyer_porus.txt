@@ -1,6 +1,6 @@
 
 
-**** *creator_boyer *book_boyer_porus *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porus *dist2_boyer_verse_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_porus
+**** *creator_boyer *book_boyer_porus *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porus *dist2_boyer_verse_tragedy *id_PORUS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_porus
 
 Quoi verrai-je grands Dieux cet objet de ma haine !
 Sachant sa perfidie, et voyant que son coeur
@@ -452,7 +452,7 @@ Et puissent par son bras cent Princes étonnés
 Se voir à même temps captifs et couronnés
 
 
-**** *creator_boyer *book_boyer_porus *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porus *dist2_boyer_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_argire
+**** *creator_boyer *book_boyer_porus *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porus *dist2_boyer_verse_tragedy *id_ARGIRE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_argire
 
 Quelque juste douleur qui forme nos soupirs,
 Nous cessons de trouver notre sort déplorable ;
@@ -774,7 +774,7 @@ Un noeud si glorieux et si bien assorti
 Vous défend d'incliner à tout autre parti.
 
 
-**** *creator_boyer *book_boyer_porus *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porus *dist2_boyer_verse_tragedy *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_oraxene
+**** *creator_boyer *book_boyer_porus *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porus *dist2_boyer_verse_tragedy *id_ORAXENE *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_oraxene
 
 Ce Prince vaut beaucoup.
 
@@ -914,7 +914,7 @@ Et que l'infâme Attale ajoutait à ses crimes
 Cette fatale erreur qui vous rompait tous deux.
 
 
-**** *creator_boyer *book_boyer_porus *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porus *dist2_boyer_verse_tragedy *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_clairance
+**** *creator_boyer *book_boyer_porus *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porus *dist2_boyer_verse_tragedy *id_CLAIRANCE *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_clairance
 
 Perdiccas c'en est trop ; ce procédé m'offense :
 Si vous aviez pour moi la moindre complaisance ;
@@ -1068,7 +1068,7 @@ Perdiccas.
       Parlez.
 
 
-**** *creator_boyer *book_boyer_porus *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porus *dist2_boyer_verse_tragedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clarice
+**** *creator_boyer *book_boyer_porus *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porus *dist2_boyer_verse_tragedy *id_CLARICE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clarice
 
 Quand la Reine eut mandé Phradate devers lui ;
 Pour lui faire savoir l'excès de votre ennui,
@@ -1219,7 +1219,7 @@ On l'ignore.
 Il est vrai que l'on croit qu'avec Perdiccas.
 
 
-**** *creator_boyer *book_boyer_porus *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porus *dist2_boyer_verse_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phradate
+**** *creator_boyer *book_boyer_porus *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porus *dist2_boyer_verse_tragedy *id_PHRADATE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phradate
 
 Rien ne peut résister au destin d'Alexandre.
 Tout est perdu, Madame, il est temps de se rendre.
@@ -1293,7 +1293,7 @@ Les Dieux ont trop de soin de cette illustre vie,
 Qu'un sort capricieux a longtemps poursuivie.
 
 
-**** *creator_boyer *book_boyer_porus *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porus *dist2_boyer_verse_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arsacide
+**** *creator_boyer *book_boyer_porus *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porus *dist2_boyer_verse_tragedy *id_ARSACIDE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arsacide
 
       Seigneur je crains qu'on ne vous puisse entendre.
 Dévorez vos douleurs, ne parlez qu'à demi ;
@@ -1596,7 +1596,7 @@ Que dois-je devenir ? Et n'est-ce pas assez
 Maltraiter un amant pour des soupçons passés.
 
 
-**** *creator_boyer *book_boyer_porus *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porus *dist2_boyer_verse_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alexandre
+**** *creator_boyer *book_boyer_porus *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porus *dist2_boyer_verse_tragedy *id_ALEXANDRE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alexandre
 
 Enfin voici le jour favorable à ma gloire,
 Qui finissant la trêve avance ma victoire.
@@ -1797,7 +1797,7 @@ Aimer si justement ceux qu'il aura soumis,
 Et rencontrer partout de pareils ennemis.
 
 
-**** *creator_boyer *book_boyer_porus *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porus *dist2_boyer_verse_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_perdiccas
+**** *creator_boyer *book_boyer_porus *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porus *dist2_boyer_verse_tragedy *id_PERDICCAS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_perdiccas
 
 Ne vous étonnez point en l'état où vous êtes
 Si j'ose m'opposer aux cours de vos conquêtes :
@@ -2037,7 +2037,7 @@ Que je vous dois de voeux, et d'encens et d'autels.
 Ah ! Divine Clairance, adorable Princesse.
 
 
-**** *creator_boyer *book_boyer_porus *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porus *dist2_boyer_verse_tragedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
+**** *creator_boyer *book_boyer_porus *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_porus *dist2_boyer_verse_tragedy *id_ORONTE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
 
 Je vous plains. Mais, Seigneur, comment l'avez-vous su ?
 

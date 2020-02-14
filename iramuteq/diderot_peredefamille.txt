@@ -1,6 +1,6 @@
 
 
-**** *creator_diderot *book_diderot_peredefamille *style_prose *genre_comedy *dist1_diderot_prose_comedy_peredefamille *dist2_diderot_prose_comedy *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cecile
+**** *creator_diderot *book_diderot_peredefamille *style_prose *genre_comedy *dist1_diderot_prose_comedy_peredefamille *dist2_diderot_prose_comedy *id_CECILE *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cecile
 
 Mon oncle, qu'avez-vous ? Vous me paraissez inquiet.Le Commandeur, en s'agitant dans son fauteuil.Ce n'est rien, ma nièce. Ce n'est rien.
 
@@ -324,7 +324,7 @@ Mon père !
 Mon père, pardonnez-moi.
 
 
-**** *creator_diderot *book_diderot_peredefamille *style_prose *genre_comedy *dist1_diderot_prose_comedy_peredefamille *dist2_diderot_prose_comedy *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_saintalbin
+**** *creator_diderot *book_diderot_peredefamille *style_prose *genre_comedy *dist1_diderot_prose_comedy_peredefamille *dist2_diderot_prose_comedy *id_SAINTALBIN *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_saintalbin
 
 Ah !
 
@@ -802,7 +802,7 @@ Mon père, ma soeur, mon ami, je vous ai tous affligés. Mais voyez-la, et accus
 Ah ! Oui, mon papa.
 
 
-**** *creator_diderot *book_diderot_peredefamille *style_prose *genre_comedy *dist1_diderot_prose_comedy_peredefamille *dist2_diderot_prose_comedy *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sophie
+**** *creator_diderot *book_diderot_peredefamille *style_prose *genre_comedy *dist1_diderot_prose_comedy_peredefamille *dist2_diderot_prose_comedy *id_SOPHIE *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sophie
 
 Oui, monsieur.
 
@@ -987,7 +987,7 @@ Je me souviens, lorsque j'étais enfant : alors vous daigniez me caresser. Vous 
 Monsieur !
 
 
-**** *creator_diderot *book_diderot_peredefamille *style_prose *genre_comedy *dist1_diderot_prose_comedy_peredefamille *dist2_diderot_prose_comedy *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_germeuil
+**** *creator_diderot *book_diderot_peredefamille *style_prose *genre_comedy *dist1_diderot_prose_comedy_peredefamille *dist2_diderot_prose_comedy *id_GERMEUIL *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_germeuil
 
 Il n'est pas malheureux.
 
@@ -1153,7 +1153,7 @@ Il faut nous retirer.
 Allons, mon ami.
 
 
-**** *creator_diderot *book_diderot_peredefamille *style_prose *genre_comedy *dist1_diderot_prose_comedy_peredefamille *dist2_diderot_prose_comedy *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurlebon
+**** *creator_diderot *book_diderot_peredefamille *style_prose *genre_comedy *dist1_diderot_prose_comedy_peredefamille *dist2_diderot_prose_comedy *id_MONSIEURLEBON *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurlebon
 
 Ce débiteur, dont le billet est échu depuis un mois, demande encore à différer son payement.
 
@@ -1166,7 +1166,7 @@ Ce voisin, qui a formé des prétentions sur votre terre, s'en désisterait peut
 Monsieur, monsieur, écoutez-la.
 
 
-**** *creator_diderot *book_diderot_peredefamille *style_prose *genre_comedy *dist1_diderot_prose_comedy_peredefamille *dist2_diderot_prose_comedy *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoiselleclairet
+**** *creator_diderot *book_diderot_peredefamille *style_prose *genre_comedy *dist1_diderot_prose_comedy_peredefamille *dist2_diderot_prose_comedy *id_MADEMOISELLECLAIRET *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoiselleclairet
 
 Ce dessin est charmant.
 
@@ -1197,7 +1197,7 @@ Des épées, un exempt, des gardes ! Monsieur, accourez, si vous ne voulez pas q
 Mon tour va venir. Allons préparer nos paquets.
 
 
-**** *creator_diderot *book_diderot_peredefamille *style_prose *genre_comedy *dist1_diderot_prose_comedy_peredefamille *dist2_diderot_prose_comedy *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_labrie
+**** *creator_diderot *book_diderot_peredefamille *style_prose *genre_comedy *dist1_diderot_prose_comedy_peredefamille *dist2_diderot_prose_comedy *id_LABRIE *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_labrie
 
 Monsieur.
 
@@ -1214,7 +1214,7 @@ Monsieur ?
 Monsieur ?
 
 
-**** *creator_diderot *book_diderot_peredefamille *style_prose *genre_comedy *dist1_diderot_prose_comedy_peredefamille *dist2_diderot_prose_comedy *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philippe
+**** *creator_diderot *book_diderot_peredefamille *style_prose *genre_comedy *dist1_diderot_prose_comedy_peredefamille *dist2_diderot_prose_comedy *id_PHILIPPE *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philippe
 
 Oui, monsieur.
 
@@ -1229,7 +1229,7 @@ Monsieur...
 N'y a-t-il rien là dedans, dont monsieur votre père soit fâché ?
 
 
-**** *creator_diderot *book_diderot_peredefamille *style_prose *genre_comedy *dist1_diderot_prose_comedy_peredefamille *dist2_diderot_prose_comedy *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_deschamps
+**** *creator_diderot *book_diderot_peredefamille *style_prose *genre_comedy *dist1_diderot_prose_comedy_peredefamille *dist2_diderot_prose_comedy *id_DESCHAMPS *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_deschamps
 
 Monsieur, ne me perdez pas ; vous me l'avez promis.
 
@@ -1243,7 +1243,7 @@ Oui, monsieur.
 Oui, monsieur.
 
 
-**** *creator_diderot *book_diderot_peredefamille *style_prose *genre_comedy *dist1_diderot_prose_comedy_peredefamille *dist2_diderot_prose_comedy *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamehebert
+**** *creator_diderot *book_diderot_peredefamille *style_prose *genre_comedy *dist1_diderot_prose_comedy_peredefamille *dist2_diderot_prose_comedy *id_MADAMEHEBERT *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamehebert
 
 Monsieur, nous nous rendons à vos ordres.
 

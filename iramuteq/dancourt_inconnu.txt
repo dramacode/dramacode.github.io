@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
+**** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *id_THALIE *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
 
 Quelle favorable puissance
 A rétabli les agréments,
@@ -131,7 +131,7 @@ Je vous seconderai de toute ma puissance.
 Non, le simple.
 
 
-**** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
+**** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *id_CRISPIN *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
 
 Dieu vous garde, Madame Thalie.
 Hé ! Depuis quand à Paris de retour ?
@@ -312,7 +312,7 @@ Agréez nos efforts, louez, applaudissez,
 Venez en foule, et souvent, c'est assez.
 
 
-**** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoiselledesmarres
+**** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *id_MADEMOISELLEDESMARRES *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoiselledesmarres
 
 Pourquoi donc ? Nous venons de remettre Psyché,
 Avec tout le succès qu'on s'en pouvait promettre.
@@ -375,7 +375,7 @@ Sont en vos mains,
 C'est à vous de les faire, à nous de les attendre.
 
 
-**** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+**** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *id_LACOMTESSE *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
 
 Et qui les a conduits ?
 
@@ -562,7 +562,7 @@ Il est juste, et j'en fais le prix de votre flamme.
 Allons.
 
 
-**** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_olimpe
+**** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *id_OLIMPE *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_olimpe
 
 C'est encor l'Inconnu.
 
@@ -676,7 +676,7 @@ Si ma mère y consent, je vous réponds de moi.
 C'est un extravagant dont nous sommes défaits.
 
 
-**** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+**** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *id_LEMARQUIS *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
 
       Vous devez les attendre,
 Madame, et l'Inconnu ne saurait moins prétendre :
@@ -742,7 +742,7 @@ Que ne ferais-je point ?
       Puisse l'Amour ne nous quitter jamais.
 
 
-**** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+**** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *id_LECHEVALIER *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
 
 Quoique j'ignore encor quel spectacle on apprête,
 Je puis vous préparer à quelque grande fête,
@@ -777,7 +777,7 @@ Madame, je puis donc prétendre à votre foi ?
       La retraite est gaillarde.
 
 
-**** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levicomte
+**** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *id_LEVICOMTE *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levicomte
 
       Ah, serviteur. Ne vous manque-t-il rien,
 Pour nous pouvoir ici donner la Comédie ?
@@ -934,7 +934,7 @@ Se charge qui voudra du soin de vos procès.
 Adieu.
 
 
-**** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamontagne
+**** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *id_LAMONTAGNE *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamontagne
 
 Nous ne faisons qu'arriver de Paris,
 Où pour avoir dit des nouvelles

@@ -1,6 +1,6 @@
 
 
-**** *creator_sophocle *book_sophocle_trachiniennes *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_trachiniennes *dist2_sophocle_prose_tragedy *date_1877 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dejanire
+**** *creator_sophocle *book_sophocle_trachiniennes *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_trachiniennes *dist2_sophocle_prose_tragedy *id_DEJANIRE *date_1877 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dejanire
 
 C'est une parole antique et bien connue dans la bouche des hommes, qu'on ne saurait dire, avant qu'il soit mort, si la vie de chacun a été bonne ou mauvaise. Mais, moi, je sais, avant d'aller dans le Hadès, que ma vie a été malheureuse et lamentable, moi qui, habitant encore Pleuron, dans la demeure paternelle d'Oenée, ai souffert, plus que toute vierge Aitolienne, une très cruelle angoisse, à cause de mes noces. En effet, mon prétendant était un fleuve, Akhéloos, qui, revêtu d'une triple forme, me demandait à mon père. Tantôt, il venait tel qu'un taureau, tantôt, comme un dragon souple et changeant, tantôt comme un homme à tête de taureau, et de son menton poilu les eaux ruisselaient comme d'une source. En attendant un tel époux, malheureuse, je désirais toujours mourir plutôt que d'entrer dans son lit ; mais, à ma joie, survint plus tard l'illustre enfant de Zeus et d'Alcmène, qui lutta contre Akhéloos et me délivra. Je ne raconterai pas les faits de ce combat ; je les ignore, en effet. Qu'il les raconte, celui qui assista sans crainte à ce spectacle. Pour moi, j'étais assise, épouvantée, craignant que ma beauté me portât malheur. Enfin, Zeus, qui règle les combats, donna à celui-ci une heureuse fin, si je puis la dire heureuse ; car, depuis le jour où je fus choisie pour entrer dans le lit de Héraclès, je vais de terreurs en terreurs, toujours anxieuse de sa destinée, et la nuit qui dissipe mes angoisses m'en apporte de nouvelles. Nous avons procréé des enfants, mais il ne les a vus que rarement, tel qu'un laboureur qui possède un champ éloigné ne voit celui-ci que lorsqu'il l'ensemence ou qu'il le moissonne. Telle est la destinée qui ramène Héraclès en sa demeure et l'en fait sortir, toujours au service de quelque maître. Et maintenant qu'il a accompli ses travaux, je suis en proie à de plus grandes terreurs. En effet, depuis qu'il a tué la force d'Iphitos, ayant été chassés, nous habitons ici, chez un hôte Trachinien ; mais nul ne sait où est Héraclès. Il est parti, me laissant d'amères inquiétudes, et je crains qu'il lui soit arrivé quelque malheur ; car il n'y a pas peu de temps, mais il y a quinze mois qu'il est parti et qu'il n'a envoyé aucun message. Il est arrivé sans doute quelque grand malheur, si j'en juge par ces tablettes qu'il m'a laissées en partant, et je prie les dieux qu'elles ne me soient pas une cause de misère.
 
@@ -113,7 +113,7 @@ Que dis-tu, ô enfant ? D'où vient que tu sois certain que j'ai commis cette ac
 Parle, où as-tu rencontré l'homme et t'es-tu approché de lui ?
 
 
-**** *creator_sophocle *book_sophocle_trachiniennes *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_trachiniennes *dist2_sophocle_prose_tragedy *date_1877 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_hyllos
+**** *creator_sophocle *book_sophocle_trachiniennes *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_trachiniennes *dist2_sophocle_prose_tragedy *id_HYLLOS *date_1877 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_hyllos
 
 Qu'est-ce ? Fais que je le sache, mère, s'il m'est permis de le savoir.
 
@@ -220,7 +220,7 @@ Tout va être accompli sans retard, puisque tu l'ordonnes et que tu nous y contr
 Enlevez, compagnons ! Pardonnez-moi cette action et n'accusez que l'iniquité des dieux qui font ceci et regardent sans pitié les terribles douleurs de ceux qu'ils ont engendrés et dont ils se disent les pères. Nul ne prévoit les choses futures ; et les choses présentes, amères pour nous, sont honteuses pour les dieux. Mais elles sont très cruelles entre toutes pour celui qui subit de tels maux. Et toi, ne reste pas dans la demeure, ô vierge ! Tu as vu de grandes funérailles, des calamités inouïes et sans nombre ; mais rien n'est arrivé sans la volonté de Zeus !
 
 
-**** *creator_sophocle *book_sophocle_trachiniennes *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_trachiniennes *dist2_sophocle_prose_tragedy *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_heracles
+**** *creator_sophocle *book_sophocle_trachiniennes *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_trachiniennes *dist2_sophocle_prose_tragedy *id_HERACLES *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_heracles
 
 Ô Zeus ! Sur quelle terre suis-je ! Parmi quels mortels suis-je couché, consumé de douleurs sans fin ? Ah ! Malheureux ! Ce mal horrible me ronge de nouveau ! Hélas !
 
@@ -297,7 +297,7 @@ Tu finis bien. Ajoute la promptitude au bienfait, ô mon enfant, et porte-moi au
 Allons, ô âme rude ! Avant que je souffre de nouveau, étouffe mes cris avec un frein d'acier dans cette épreuve que tu acceptes avec joie, bien que malgré moi !
 
 
-**** *creator_sophocle *book_sophocle_trachiniennes *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_trachiniennes *dist2_sophocle_prose_tragedy *date_1877 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lechoeur
+**** *creator_sophocle *book_sophocle_trachiniennes *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_trachiniennes *dist2_sophocle_prose_tragedy *id_LECHOEUR *date_1877 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lechoeur
 
 Toi que la nuit pleine d'astres fait naître en disparaissant, ou endort dans son lit, Hélios, flamboyant Hélios, je te supplie, ô brûlant d'un éclat splendide, afin que tu me dises où habite le fils d'Alcmène ! Est-il retenu dans les gorges de la mer ou sur l'un des deux continents ? Dis, ô toi qui excelles par les yeux !
 J'apprends, en effet, que Déjanire qu'ont disputée deux rivaux, triste en son âme, et telle que l'oiseau malheureux, ne ferme plus jamais ses paupières affligées qui ne cessent de répandre des larmes ; mais que, troublée par le souvenir et le souci de l'homme absent, inquiète, elle se consume sur son lit veuf, prévoyant quelque destinée mauvaise et lamentable.
@@ -383,7 +383,7 @@ Amies, j'ai horreur d'entendre les lamentations du roi, et de voir les maux dont
 Ô misérable Hellas, de quel deuil je te vois menacée, si tu es privée de cet homme !
 
 
-**** *creator_sophocle *book_sophocle_trachiniennes *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_trachiniennes *dist2_sophocle_prose_tragedy *date_1877 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lemessager
+**** *creator_sophocle *book_sophocle_trachiniennes *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_trachiniennes *dist2_sophocle_prose_tragedy *id_LEMESSAGER *date_1877 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lemessager
 
 Maîtresse Déjanire, le premier de tous les messagers, je te tirerai d'inquiétude. Sache que le fils d'Alcmène, vivant et victorieux, rapporte du combat les prémices de la victoire pour les dieux de cette terre.
 
@@ -428,7 +428,7 @@ Que me parles-tu d'opinion ! N'as-tu pas affirmé par serment que tu amenais cet
 Un homme qui, présent, t'a entendu dire que c'était à cause de ce désir de Héraclès que toute une ville avait été détruite, que ce n'était pas une Lydienne mais l'amour seul qui avait amené cette ruine.
 
 
-**** *creator_sophocle *book_sophocle_trachiniennes *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_trachiniennes *dist2_sophocle_prose_tragedy *date_1877 *sexe_masculin *age_veteran *statut_serviteur *fonction_valet *role_unvieillard
+**** *creator_sophocle *book_sophocle_trachiniennes *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_trachiniennes *dist2_sophocle_prose_tragedy *id_UNVIEILLARD *date_1877 *sexe_masculin *age_veteran *statut_serviteur *fonction_valet *role_unvieillard
 
 Tais-toi, fils, n'éveille pas la cruelle douleur de ton père. Il vit, en effet, bien qu'il incline à la mort. Ferme et mords tes lèvres.
 
@@ -439,7 +439,7 @@ Ne savais-tu pas combien il fallait rester dans le silence et ne point chasser l
 Ô enfant de cet homme, ce travail est trop lourd et surpasse mes forces. Aide-moi. Tu verras beaucoup mieux que nous comment il peut être sauvé.
 
 
-**** *creator_sophocle *book_sophocle_trachiniennes *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_trachiniennes *dist2_sophocle_prose_tragedy *date_1877 *sexe_feminin *age_veteran *statut_serviteur *fonction_servante *role_lanourrice
+**** *creator_sophocle *book_sophocle_trachiniennes *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_trachiniennes *dist2_sophocle_prose_tragedy *id_LANOURRICE *date_1877 *sexe_feminin *age_veteran *statut_serviteur *fonction_servante *role_lanourrice
 
 Ô enfants, que de malheurs terribles nous a causés le don envoyé à Héraclès !
 
@@ -466,7 +466,7 @@ Certes ! Mais si tu avais vu de près ce qu'elle a fait, tu aurais ressenti une 
 D'une horrible façon. Tu l'attesteras comme moi, quand tu en seras sûre. Après être rentrée dans la demeure, et quand elle eut vu son fils préparer un lit creux afin de retourner vers son père, s'étant cachée pour que personne ne la vît, elle se jeta devant les autels, hurlant affreusement de ce qu'elle était devenue veuve. Et elle pleurait en touchant chacune des choses qui lui avaient servi, la malheureuse ! Et courant çà et là par les demeures, quand elle voyait quelqu'un de ses chers serviteurs, la malheureuse pleurait en le regardant, gémissant sur son propre démon et sur sa demeure abandonnée désormais par ses enfants. Et quand elle eut fini, je la vis se ruer dans la chambre nuptiale de Héraclès. Et comme je la regardais cachée dans l'ombre, je la vis couvrir le lit de Héraclès de tapis et de vêtements. Puis, s'élançant au milieu du lit, elle dit, versant de chauds torrents de larmes : – Ô lit, ô chambre nuptiale, je vous salue pour jamais, puisque vous ne me recevrez plus désormais ! – Ayant ainsi parlé, elle détacha d'une main rapide l'agrafe d'or qui retenait son péplum et elle mit à nu tout son flanc et son bras gauche. Et moi, je courus aussi vite que je le pus, et j'allai annoncer à son fils ce qu'elle méditait. Mais tandis que nous courions çà et là, nous la vîmes s'enfoncer une épée à deux tranchants dans le flanc, sous le foie. Voyant cela, son fils hurla, car il comprit, le malheureux, instruit trop tard par ceux qui sont dans la demeure, qu'elle avait fait cela, irritée par lui et poussée par les conseils du centaure. Alors le malheureux enfant, non avare de gémissements, se lamentant sur elle et l'embrassant, couché et le flanc appuyé contre son flanc, gémit de l'avoir faussement accusée, et de vivre encore, privé à la fois de son père et de sa mère. Les choses sont ainsi. Il est insensé celui qui compte sur deux ou plusieurs jours, car il n'y a de lendemain que si le jour présent s'est bien passé.
 
 
-**** *creator_sophocle *book_sophocle_trachiniennes *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_trachiniennes *dist2_sophocle_prose_tragedy *date_1877 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lichas
+**** *creator_sophocle *book_sophocle_trachiniennes *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_trachiniennes *dist2_sophocle_prose_tragedy *id_LICHAS *date_1877 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lichas
 
 Certes, nous revenons heureusement, et nous sommes bien accueillis, femme, pour les choses que nous avons faites. Il est juste de récompenser par de bonnes paroles l'homme qui a victorieusement combattu.
 

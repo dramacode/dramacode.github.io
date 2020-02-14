@@ -1,6 +1,6 @@
 
 
-**** *creator_legouve *book_legouve_laurenceorzano *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_laurenceorzano *dist2_legouve_verse_tragedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ziani
+**** *creator_legouve *book_legouve_laurenceorzano *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_laurenceorzano *dist2_legouve_verse_tragedy *id_ZIANI *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ziani
 
 Oui, de Venise enfin la gloire est affermie,
 Gradonigue ; longtemps cette altière ennemie,
@@ -236,7 +236,7 @@ Je viens joindre à vos pleurs les pleurs de l'amitié !
 On l'amène à vos yeux.
 
 
-**** *creator_legouve *book_legouve_laurenceorzano *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_laurenceorzano *dist2_legouve_verse_tragedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gradonigue
+**** *creator_legouve *book_legouve_laurenceorzano *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_laurenceorzano *dist2_legouve_verse_tragedy *id_GRADONIGUE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gradonigue
 
 Il est vrai, Ziani ; l'emploi qui m'est commis
 Pour surveiller de près les complots ennemis,
@@ -460,7 +460,7 @@ Calmez de votre esprit l'injuste défiance ;
 Oui, bientôt....
 
 
-**** *creator_legouve *book_legouve_laurenceorzano *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_laurenceorzano *dist2_legouve_verse_tragedy *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laurence
+**** *creator_legouve *book_legouve_laurenceorzano *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_laurenceorzano *dist2_legouve_verse_tragedy *id_LAURENCE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laurence
 
 Au bonheur ! Moi ?... Jamais !...
 
@@ -1139,7 +1139,7 @@ Je me meurs.
       Ô spectacle effroyable !
 
 
-**** *creator_legouve *book_legouve_laurenceorzano *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_laurenceorzano *dist2_legouve_verse_tragedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orzano
+**** *creator_legouve *book_legouve_laurenceorzano *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_laurenceorzano *dist2_legouve_verse_tragedy *id_ORZANO *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orzano
 
 Ô de mes jeunes ans protecteur généreux,
 C'est peu que, sur vos pas volant à la victoire,
@@ -1660,7 +1660,7 @@ Donnez-moi votre main, mon trépas est plus doux,
 Et mon dernier soupir n'est encor que pour vous.
 
 
-**** *creator_legouve *book_legouve_laurenceorzano *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_laurenceorzano *dist2_legouve_verse_tragedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_quirini
+**** *creator_legouve *book_legouve_laurenceorzano *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_laurenceorzano *dist2_legouve_verse_tragedy *id_QUIRINI *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_quirini
 
       Amour, comble mes voeux !
 
@@ -1976,7 +1976,7 @@ Qu'as-tu fait ?
 En peux-tu donc douter ? Je vois ton seul bienfait.
 
 
-**** *creator_legouve *book_legouve_laurenceorzano *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_laurenceorzano *dist2_legouve_verse_tragedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_montano
+**** *creator_legouve *book_legouve_laurenceorzano *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_laurenceorzano *dist2_legouve_verse_tragedy *id_MONTANO *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_montano
 
 Mes soins sauront toujours seconder votre zéle.
 Mais qui peut vous donner cette crainte nouvelle ?
@@ -2165,7 +2165,7 @@ Et l'on verra, dût-on nous frapper tous les deux,
 Qu'un ami m'est plus cher, quand il est malheureux.
 
 
-**** *creator_legouve *book_legouve_laurenceorzano *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_laurenceorzano *dist2_legouve_verse_tragedy *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucile
+**** *creator_legouve *book_legouve_laurenceorzano *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_laurenceorzano *dist2_legouve_verse_tragedy *id_LUCILE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucile
 
       Eh quoi ! Vous gémissiez !
 Vos yeux de pleurs encor me paraissent noyés.

@@ -1,6 +1,6 @@
 
 
-**** *creator_duryer *book_duryer_scevole *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_scevole *dist2_duryer_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tarquin
+**** *creator_duryer *book_duryer_scevole *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_scevole *dist2_duryer_verse_tragedy *id_TARQUIN *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tarquin
 
 Quoi ? Toujours différer le succès d'une guerre
 Qui doit intéresser tous les Rois de la terre,
@@ -278,7 +278,7 @@ C'est ce qui reste à faire au généreux Porsenne.
 Et nous vivrons au moins afin de nous venger.
 
 
-**** *creator_duryer *book_duryer_scevole *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_scevole *dist2_duryer_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_porsenne
+**** *creator_duryer *book_duryer_scevole *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_scevole *dist2_duryer_verse_tragedy *id_PORSENNE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_porsenne
 
       Qu'ai-je fait contre cette assistance
 Que mon affection donne à votre vengeance ?
@@ -653,7 +653,7 @@ Et je veux qu'elle compte à la fin de sa peine,
 Entre ses Fondateurs et Scévole et Porsenne.
 
 
-**** *creator_duryer *book_duryer_scevole *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_scevole *dist2_duryer_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marcile
+**** *creator_duryer *book_duryer_scevole *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_scevole *dist2_duryer_verse_tragedy *id_MARCILE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marcile
 
       Peut-être pris la ville.
 
@@ -748,7 +748,7 @@ Les feux sont allumés, il est prêt de périr,
 Et si l'on veut l'aider il est temps de courir.
 
 
-**** *creator_duryer *book_duryer_scevole *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_scevole *dist2_duryer_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arons
+**** *creator_duryer *book_duryer_scevole *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_scevole *dist2_duryer_verse_tragedy *id_ARONS *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arons
 
       Non, non.
 
@@ -1090,7 +1090,7 @@ Lui céder devant vous l'objet de son Amour.
 Oui Seigneur.
 
 
-**** *creator_duryer *book_duryer_scevole *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_scevole *dist2_duryer_verse_tragedy *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junie
+**** *creator_duryer *book_duryer_scevole *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_scevole *dist2_duryer_verse_tragedy *id_JUNIE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junie
 
 Je t'obéis, Porsenne, et te rends ce devoir
 Parce que le destin me met en ton pouvoir.
@@ -1683,7 +1683,7 @@ Vois si quelque justice accompagne une cause
 Dont le chef craint les Lois que l'équité propose.
 
 
-**** *creator_duryer *book_duryer_scevole *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_scevole *dist2_duryer_verse_tragedy *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fulvie
+**** *creator_duryer *book_duryer_scevole *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_scevole *dist2_duryer_verse_tragedy *id_FULVIE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fulvie
 
 Madame.
 
@@ -1742,7 +1742,7 @@ Faire choir son appui que d'en être incertain.
       Mais j'entends quelque bruit.
 
 
-**** *creator_duryer *book_duryer_scevole *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_scevole *dist2_duryer_verse_tragedy *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scevole
+**** *creator_duryer *book_duryer_scevole *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_scevole *dist2_duryer_verse_tragedy *id_SCEVOLE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scevole
 
 Est-ce vous que je vois ?
 

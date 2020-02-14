@@ -1,6 +1,6 @@
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_suitefoiresaintgermain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_suitefoiresaintgermain *dist2_dufresnyregnard_verse_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_dufresnyregnard *book_dufresnyregnard_suitefoiresaintgermain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_suitefoiresaintgermain *dist2_dufresnyregnard_verse_comedy *id_ARLEQUIN *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Alessandro magno, quel grand filosofo, aveva ragione di dire, che l'amore d'una dona est un sable mouvant, sur lequel on ne peut bâtir que des châteaux en Espagne.
 
@@ -171,7 +171,7 @@ Son argent foisonne toujours.
 Répondez-moi, trompettes et tambours.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_suitefoiresaintgermain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_suitefoiresaintgermain *dist2_dufresnyregnard_verse_comedy *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colombine
+**** *creator_dufresnyregnard *book_dufresnyregnard_suitefoiresaintgermain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_suitefoiresaintgermain *dist2_dufresnyregnard_verse_comedy *id_COLOMBINE *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colombine
 
 Lucrezia Romana, di castissima memoria, aveva costume di dire, ch'il cuore d'un uomo était bien trigaud, et qu'il ne s'y fallait non plus fier qu'à un almanach.
 
@@ -290,7 +290,7 @@ Et l'homme est un faible animal.
 Mon cher Toinon, mets là ta patte.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_suitefoiresaintgermain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_suitefoiresaintgermain *dist2_dufresnyregnard_verse_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurjacquemard
+**** *creator_dufresnyregnard *book_dufresnyregnard_suitefoiresaintgermain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_suitefoiresaintgermain *dist2_dufresnyregnard_verse_comedy *id_MONSIEURJACQUEMARD *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurjacquemard
 
 Que faites-vous donc ici, madame ?
 
@@ -329,7 +329,7 @@ Moi ? Je ne réponds de rien : je n'en paierai pas un sou.
 Ne tirez pas ; j'aime mieux payer : mais qu'on me laisse donc sortir.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_suitefoiresaintgermain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_suitefoiresaintgermain *dist2_dufresnyregnard_verse_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamejacquemard
+**** *creator_dufresnyregnard *book_dufresnyregnard_suitefoiresaintgermain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_suitefoiresaintgermain *dist2_dufresnyregnard_verse_comedy *id_MADAMEJACQUEMARD *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamejacquemard
 
 Vous voyez, monsieur de l'Épine ; c'est un petit déshabillé à bonnes fortunes, que je me suis donné exprès pour venir à la Foire.
 
@@ -431,7 +431,7 @@ Et moi je vous donne ma maison de la rue de la Huchette.
 Quoi !... N'importe, je suis contente, pourvu que mon benêt de mari n'épouse pas sa grisette.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_suitefoiresaintgermain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_suitefoiresaintgermain *dist2_dufresnyregnard_verse_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepine
+**** *creator_dufresnyregnard *book_dufresnyregnard_suitefoiresaintgermain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_suitefoiresaintgermain *dist2_dufresnyregnard_verse_comedy *id_LEPINE *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepine
 
 Je vous trouve à propos : vos affaires sont en bon train.
 Votre procureur ne manquera pas de se trouver tantôt dans ma boutique, pour voir mes momies, où il vous prépare une collation magnifique.
@@ -454,7 +454,7 @@ Il faudra, madame, que vous veniez voir mes momies d'Égypte. Elles sont très r
 Vous ne sauriez mieux faire ; c'est un homme d'un vrai mérite. J'ai une Égyptienne dans ma boutique, qui pourrait bien deviner le temps que vous l'épouserez. Mais je crois que je l'entends. Madame, je vous laisse pour me rendre chez moi. Si l'Égyptienne vous tente, venez-y, et je vous promets que je vous ferai parler à elle en toute sûreté. Serviteur.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_suitefoiresaintgermain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_suitefoiresaintgermain *dist2_dufresnyregnard_verse_comedy *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_osiris
+**** *creator_dufresnyregnard *book_dufresnyregnard_suitefoiresaintgermain *style_verse *genre_comedy *dist1_dufresnyregnard_verse_comedy_suitefoiresaintgermain *dist2_dufresnyregnard_verse_comedy *id_OSIRIS *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_osiris
 
 Je suis Osiris, le dieu de l'Égypte.
 

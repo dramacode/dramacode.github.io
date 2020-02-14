@@ -1,6 +1,6 @@
 
 
-**** *creator_moliere *book_moliere_precieusesridicules *style_prose *genre_comedy *dist1_moliere_prose_comedy_precieusesridicules *dist2_moliere_prose_comedy *date_1659 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lagrange
+**** *creator_moliere *book_moliere_precieusesridicules *style_prose *genre_comedy *dist1_moliere_prose_comedy_precieusesridicules *dist2_moliere_prose_comedy *id_lagrange *date_1659 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_lagrange
 
 Quoi ?
 
@@ -33,7 +33,7 @@ C'est trop que de nous supplanter, et de nous supplanter avec nos propres habits
 Qu'on emporte toutes ces hardes, dépêchez. Maintenant, mes Dames, en l'état qu'ils sont, vous pouvez continuer vos amours avec eux, tant qu'il vous plaira, nous vous laissons toute sorte de liberté pour cela, et nous vous protestons, Monsieur, et moi, que nous n'en serons aucunement jaloux.
 
 
-**** *creator_moliere *book_moliere_precieusesridicules *style_prose *genre_comedy *dist1_moliere_prose_comedy_precieusesridicules *dist2_moliere_prose_comedy *date_1659 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_ducroisy
+**** *creator_moliere *book_moliere_precieusesridicules *style_prose *genre_comedy *dist1_moliere_prose_comedy_precieusesridicules *dist2_moliere_prose_comedy *id_ducroisy *date_1659 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_ducroisy
 
 Seigneur la Grange.
 
@@ -58,7 +58,7 @@ Ha ha, coquins, vous avez l'audace d'aller sur nos brisées. Vous irez chercher 
 Vite qu'on leur ôte jusqu'à la moindre chose.
 
 
-**** *creator_moliere *book_moliere_precieusesridicules *style_prose *genre_comedy *dist1_moliere_prose_comedy_precieusesridicules *dist2_moliere_prose_comedy *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gorgibus
+**** *creator_moliere *book_moliere_precieusesridicules *style_prose *genre_comedy *dist1_moliere_prose_comedy_precieusesridicules *dist2_moliere_prose_comedy *id_gorgibus *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gorgibus
 
 Et bien vous avez vu ma nièce, et ma fille, les affaires iront-elles bien ? Quel est le résultat de cette visite ?
 
@@ -97,7 +97,7 @@ Oui c'est une pièce sanglante ; mais qui est un effet de votre impertinence, i
 Oui, oui, je vous vais contenter, et voici la monnaie, dont je vous veux payer. Et vous, pendardes, je ne sais qui me tient que je ne vous en fasse autant, nous allons servir de fable, et de risée à tout le monde, et voilà ce que vous vous êtes attiré par vos extravagances. Allez vous cacher, vilaines, allez vous cacher pour jamais. Et vous, qui êtes cause de leur folie, sottes billevesées, pernicieux amusements des esprits oisifs, Romans, Vers, Chansons, Sonnets et Sonnettes, puissiez‑vous être à tous les Diables.
 
 
-**** *creator_moliere *book_moliere_precieusesridicules *style_prose *genre_comedy *dist1_moliere_prose_comedy_precieusesridicules *dist2_moliere_prose_comedy *date_1659 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_magdelon
+**** *creator_moliere *book_moliere_precieusesridicules *style_prose *genre_comedy *dist1_moliere_prose_comedy_precieusesridicules *dist2_moliere_prose_comedy *id_magdelon *date_1659 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_magdelon
 
 Et quelle estime, mon père, voulez-vous que nous fassions du procédé irrégulier de ces gens-là ?
 
@@ -246,7 +246,7 @@ Ah ! mon père, c'est une pièce sanglante, qu'ils nous ont faite.
 Ah, je jure, que nous en serons vengées, ou que je mourrai en la peine. Et vous, marauds, osez-vous vous tenir ici, après votre insolence ?
 
 
-**** *creator_moliere *book_moliere_precieusesridicules *style_prose *genre_comedy *dist1_moliere_prose_comedy_precieusesridicules *dist2_moliere_prose_comedy *date_1659 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_cathos
+**** *creator_moliere *book_moliere_precieusesridicules *style_prose *genre_comedy *dist1_moliere_prose_comedy_precieusesridicules *dist2_moliere_prose_comedy *id_cathos *date_1659 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_cathos
 
 Le moyen, mon oncle, qu'une fille un peu raisonnable se pût accommoder de leur personne ?
 
@@ -343,7 +343,7 @@ Quoi, vous laisser battre de la sorte !
 Ah quelle confusion !
 
 
-**** *creator_moliere *book_moliere_precieusesridicules *style_prose *genre_comedy *dist1_moliere_prose_comedy_precieusesridicules *dist2_moliere_prose_comedy *date_1659 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_marotte
+**** *creator_moliere *book_moliere_precieusesridicules *style_prose *genre_comedy *dist1_moliere_prose_comedy_precieusesridicules *dist2_moliere_prose_comedy *id_marotte *date_1659 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_marotte
 
 Que désirez-vous Monsieur ?
 
@@ -370,7 +370,7 @@ Le Vicomte de Jodelet.
 Oui, Monsieur.
 
 
-**** *creator_moliere *book_moliere_precieusesridicules *style_prose *genre_comedy *dist1_moliere_prose_comedy_precieusesridicules *dist2_moliere_prose_comedy *date_1659 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_mascarille
+**** *creator_moliere *book_moliere_precieusesridicules *style_prose *genre_comedy *dist1_moliere_prose_comedy_precieusesridicules *dist2_moliere_prose_comedy *id_mascarille *date_1659 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_mascarille
 
 Holà, porteurs, holà. Là, là, là, là, là, là. Je pense que ces marauds-là ont dessein de me briser, à force de heurter contre les murailles, et les pavés.
 
@@ -570,7 +570,7 @@ Demandez à Monsieur le Vicomte.
 Traiter comme cela un Marquis ? Voilà ce que c'est que du monde, la moindre disgrâce nous fait mépriser de ceux qui nous chérissaient. Allons, camarade, allons chercher fortune autre part ; je vois bien qu'on n'aime ici, que la vaine apparence, et qu'on n y considère point la vertu toute nue.
 
 
-**** *creator_moliere *book_moliere_precieusesridicules *style_prose *genre_comedy *dist1_moliere_prose_comedy_precieusesridicules *dist2_moliere_prose_comedy *date_1659 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_jodelet
+**** *creator_moliere *book_moliere_precieusesridicules *style_prose *genre_comedy *dist1_moliere_prose_comedy_precieusesridicules *dist2_moliere_prose_comedy *id_jodelet *date_1659 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_jodelet
 
 Ah Marquis !
 
@@ -617,7 +617,7 @@ Adieu notre braverie.
 Demandez à Monsieur le Marquis.
 
 
-**** *creator_moliere *book_moliere_precieusesridicules *style_prose *genre_comedy *dist1_moliere_prose_comedy_precieusesridicules *dist2_moliere_prose_comedy *date_1659 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_porteur1
+**** *creator_moliere *book_moliere_precieusesridicules *style_prose *genre_comedy *dist1_moliere_prose_comedy_precieusesridicules *dist2_moliere_prose_comedy *id_porteur1 *date_1659 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_porteur1
 
 Dame, c'est que la porte est étroite. Vous avez voulu aussi, que nous soyons entrés jusqu'ici.
 

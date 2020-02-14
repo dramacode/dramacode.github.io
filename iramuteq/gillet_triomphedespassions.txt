@@ -1,6 +1,6 @@
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lenchanteur
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_l-enchanteur *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lenchanteur
 
 Toy qu'un sage dessein amene dans ces lieux,
 Pour rompre le bandeau qui t'aveugle les yeux,
@@ -200,7 +200,7 @@ Afin que nos neveux un jour en les lisant,
 Y puissent rencontrer l'utile et le plaisant.
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arthemidore
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_arthemidore *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arthemidore
 
 Helas! sage vieillard quoy que vous puissiez faire,
 Je ne crois pas dompter un si fier adversaire,
@@ -286,7 +286,7 @@ Et je connois enfin ayant ouvert les yeux,
 Qu'alors que l'on pardonne on imite les Dieux,
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_manlie
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_manlie *date_1642 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_manlie
 
 Quoy ? donc il est certain ; ah funeste nouvelle !
 Ah pere miserable ! ah fortune cruelle !
@@ -507,7 +507,7 @@ Hé! quoy mon fils est mort,
 Ha! maudit poinct d'honneur,
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lefils
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_le-fils *date_1642 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_lefils
 
       ah, mon pere!
 
@@ -617,7 +617,7 @@ Souffrez que je vous parle, et que je vous embrasse,
       à Dieu,
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arphace
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_arphace *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arphace
 
 Ouy, Seigneur,
 
@@ -651,7 +651,7 @@ Ah! Sire, c'est en vain qu'un remord vous travaille,
 O malheur sans pareil!
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_harmenie
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_harmenie *date_1642 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_harmenie
 
 Seigneur,
 
@@ -717,7 +717,7 @@ Soubs de si grands ennuis⁎ ma constance succombe,
 Porte moy sur mon lit, et du lit au tombeau.
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_pharasmane
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_pharasmane *date_1642 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_pharasmane
 
 Puisque tu veux sçavoir d'où provient ma tristesse,
 Et qu'il faut malgré moy te tenir ma promesse,
@@ -905,7 +905,7 @@ Pour secher les Lauriers qui vont cindre ta teste,
 Et t'envoyer les maux que tu nous fais souffrir.
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philoctate
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_philoctate *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philoctate
 
       je vous obeyré :
 
@@ -922,7 +922,7 @@ Sire, le Prince attend,
       dedans vostre tente,
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_radamiste
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_radamiste *date_1642 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_radamiste
 
 Enfin nous le tiendrons ce superbe⁎ chasteau
 Sans combler ses fossez, ny sapper⁎ ses murailles,
@@ -1091,7 +1091,7 @@ Et que tousjours son bras armé pour la justice
 Couronne la vertu comme il punit le vice.
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_mitridate
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_mitridate *date_1642 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_mitridate
 
 Pharasmane, advancez, non pas comme adversaire,
 Mais comme un sage Prince ou plustost comme un frere,
@@ -1137,7 +1137,7 @@ Mais je ne me plains point de cette trahison,
 Puisque dans peu les Dieux m'en feront la raison⁎.
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_feminin *age_veteran *statut_maitre *fonction_autres *role_parthenie
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_parthenie *date_1642 *sexe_feminin *age_veteran *statut_maitre *fonction_autres *role_parthenie
 
 Ha ! Seigneur, terminez cette fatalle guerre :
 Sauvez, et nostre honneur, et cette propre terre,
@@ -1168,7 +1168,7 @@ Par l'honneur,
       conservez mon espoux,
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orcas
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_orcas *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orcas
 
       Sire, vos gens sont entrez dans la ville,
 Dont Philon a rendu la conqueste facile;
@@ -1185,7 +1185,7 @@ Un Prince, comme vous doit tenir sa parole,
 Cruel commandement, Sire,
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_antioque
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_antioque *date_1642 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_antioque
 
 Enfin je me voy seul et las⁎ de me contraindre,
 Je puis en liberté souspirer et me plaindre :
@@ -1516,7 +1516,7 @@ Je succombe, et perdant la lumière du jour,
 Je meurs du seul regret d'avoir eu de l'amour.
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pericles
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_pericles *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pericles
 
       Seigneur, c'est Stratonice,
 Qui par un Page exprés vient d'envoyer sçavoir
@@ -1532,7 +1532,7 @@ Monsieur, je crois qu'il dort,
 Il se plaint seulement,
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_stratonice
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_stratonice *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_stratonice
 
 Monsieur, je ne sçaurois laisser passer un jour
 Sans venir prendre part dedans vostre infortune,
@@ -1633,7 +1633,7 @@ Que l'honneur est l'object qui nous doit enflâmer,
 Et que sans luy jamais nous ne devons aimer.
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_erostrate
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_erostrate *date_1642 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_erostrate
 
       gardez qu'on ne l'esveille.
 
@@ -1669,7 +1669,7 @@ Seigneur, j'ay remarqué que quand vous l'auriés veuë,
 Vostre poux,
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_emilie
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_emilie *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_emilie
 
 Tout est gros et noüé, mais as-tu bien pû veoir,
 Quelle ramure il porte,
@@ -1756,7 +1756,7 @@ Vivez,
 Allons, si tu peris je veux perir aussi.
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_martiane
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_martiane *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_martiane
 
 Pour ne me point flatter⁎ par ce charmant langage
 Dis qu'il n'en peut trouver qui l'aiment davantage,
@@ -2013,7 +2013,7 @@ Je vais par mon trespas⁎ expier mes forfaits.
       ah ! j'expire.
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_megiste
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_megiste *date_1642 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_megiste
 
       c'est ce qu'enfin j'en ai pû reconnoistre,
 
@@ -2028,7 +2028,7 @@ Je crois que nos coureurs reprendront leur haleine :
 Tirez,
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_bisathie
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_bisathie *date_1642 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_bisathie
 
 Ouy, j'aimay ce perfide, et dans ma flâme⁎ extréme,
 Il m'estoit plus sensible et plus cher que moy-méme,
@@ -2331,7 +2331,7 @@ O mort, viens me punir, et monstrer en ce jour
 Que l'on peut repasser de la haine à l'amour.
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_felismene
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_felismene *date_1642 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_felismene
 
 Madame, je venois pour l'apprendre de vous,
 Mais songez-vous encor, à ce parjure infame
@@ -2366,7 +2366,7 @@ Madame, vous feriez un inutille effort,
 Tout le monde dira,
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_calpurnie
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_calpurnie *date_1642 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_calpurnie
 
 Ah ! Princesse adorable, avez vous cette envie ?
 Pourrez vous concevoir tant d'horreur pour ma vie ?
@@ -2411,7 +2411,7 @@ Plustost que de me mettre entre les mains du Roy,
 Ah ! que j'ay du malheur !
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philidan
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_philidan *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philidan
 
 Vostre cœur a le bien qu'il avoit souhaitté,
 Madame, auray-je enfin le bon-heur que j'espere :
@@ -2425,7 +2425,7 @@ Tout,
 J'obeis,
 
 
-**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepage
+**** *creator_gillet *book_gillet_triomphedespassions *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_triomphedespassions *dist2_gillet_verse_tragedy *id_le-page *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepage
 
 Sire, je venois dire à vostre Majesté,
 Qu'Orcas,

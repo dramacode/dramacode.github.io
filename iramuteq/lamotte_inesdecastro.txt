@@ -1,6 +1,6 @@
 
 
-**** *creator_lamotte *book_lamotte_inesdecastro *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_inesdecastro *dist2_lamotte_verse_tragedy *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alphonse
+**** *creator_lamotte *book_lamotte_inesdecastro *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_inesdecastro *dist2_lamotte_verse_tragedy *id_ALPHONSE *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alphonse
 
 Mon fils ne me suit point ! Il a craint, je le vois,
 D'être ici le témoin du bruit de ses exploits.
@@ -538,7 +538,7 @@ Ah ! Mon fils, arrêtez.
       Comment survivre à nos malheurs !
 
 
-**** *creator_lamotte *book_lamotte_inesdecastro *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_inesdecastro *dist2_lamotte_verse_tragedy *date_1723 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lareine
+**** *creator_lamotte *book_lamotte_inesdecastro *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_inesdecastro *dist2_lamotte_verse_tragedy *id_LAREINE *date_1723 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lareine
 
 Ne prévoyez-vous point un peu de résistance,
 Seigneur ; de votre fils la longue indifférence
@@ -741,7 +741,7 @@ C'est par pitié pour vous que je m'arme contre eux.
 Songez en l'écoutant qu'elle est la plus coupable.
 
 
-**** *creator_lamotte *book_lamotte_inesdecastro *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_inesdecastro *dist2_lamotte_verse_tragedy *date_1723 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_constance
+**** *creator_lamotte *book_lamotte_inesdecastro *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_inesdecastro *dist2_lamotte_verse_tragedy *id_CONSTANCE *date_1723 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_constance
 
 Quoi ! Me flattai-je en vain, Seigneur, que ma prière
 Touche un roi que je dois regarder comme un père ?
@@ -908,7 +908,7 @@ Faut-il que vôtre amour aigrisse mes alarmes !
 Seigneur, jetez sur elle un regard favorable.
 
 
-**** *creator_lamotte *book_lamotte_inesdecastro *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_inesdecastro *dist2_lamotte_verse_tragedy *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donpedre
+**** *creator_lamotte *book_lamotte_inesdecastro *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_inesdecastro *dist2_lamotte_verse_tragedy *id_DONPEDRE *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donpedre
 
 Veillez-y, dom Fernand : Madame, quels malheurs
 M'annonce ce visage inondé de vos pleurs ?
@@ -1121,7 +1121,7 @@ Que j'expire à vos pieds ; et qu'unis l'un à l'autre,
 Mon âme se confonde encore avec la vôtre.
 
 
-**** *creator_lamotte *book_lamotte_inesdecastro *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_inesdecastro *dist2_lamotte_verse_tragedy *date_1723 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ines
+**** *creator_lamotte *book_lamotte_inesdecastro *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_inesdecastro *dist2_lamotte_verse_tragedy *id_INES *date_1723 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ines
 
 Madame, croyez-vous le prince si sauvage
 Qu'il puisse à la beauté refuser son hommage ?

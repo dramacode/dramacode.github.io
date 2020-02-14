@@ -1,6 +1,6 @@
 
 
-**** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_tamerlan
+**** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *id_tamerlan *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_tamerlan
 
 Prince, j'ai veu les Grecs, et leurs Ambassadeurs
 Ont remis dans mes mains leur Empire⁎ et leurs cœurs :
@@ -447,7 +447,7 @@ Araxide et ma gloire⁎ exigent cet effort,
 Je l'épouse, et je pars.
 
 
-**** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_bajazet
+**** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *id_bajazet *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_bajazet
 
       C'est à vous sans-doute⁎ à qui je dois
 Ce peu de liberté, Seigneur, où je me vois.
@@ -741,7 +741,7 @@ Console-toy, ma Fille, et malgré ta douleur
 Souvien-toy que ton Pere expire en Empereur.
 
 
-**** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *date_1676 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_asterie
+**** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *id_asterie *date_1676 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_asterie
 
 Tu m'aprens que la Cour est pleine d'allégresse,
 Que l'heureux⁎ Andronic va régner dans la Gréce,
@@ -1282,7 +1282,7 @@ Tu pers tout aujoud'huy, malheureuse⁎ Astérie,
 Et pour dernier malheur⁎ il te reste la vie.
 
 
-**** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *date_1676 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_andronic
+**** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *id_andronic *date_1676 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_andronic
 
 Enfin, Leon, tu vois cette grande Journée
 Qui doit de Tamerlan éclairer l'hymenée⁎ ;
@@ -1776,7 +1776,7 @@ Que la Gloire⁎ vangeât la Nature et l'Amour ?
 FIN.
 
 
-**** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *date_1676 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_leon
+**** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *id_leon *date_1676 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_leon
 
 Je l'espere⁎, Seigneur, la superbe⁎ Byzance,
 Apres tant de fureurs⁎, rentre en l'obeïssance ;
@@ -1848,7 +1848,7 @@ Va malgré luy peut-estre épouser Astérie.
 Tout le Camp est surpris d'un si grand changement.
 
 
-**** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *date_1676 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_zaide
+**** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *id_zaide *date_1676 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_zaide
 
 Il vient de me parler ; son desordre, Madame,
 M'a fait connoître⁎ assez le trouble de son ame ;

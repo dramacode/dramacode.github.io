@@ -1,6 +1,6 @@
 
 
-**** *creator_pain *book_pain_appartementalouer *style_verse *genre_comedy *dist1_pain_verse_comedy_appartementalouer *dist2_pain_verse_comedy *date_1799 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_theodore
+**** *creator_pain *book_pain_appartementalouer *style_verse *genre_comedy *dist1_pain_verse_comedy_appartementalouer *dist2_pain_verse_comedy *id_THEODORE *date_1799 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_theodore
 
 
 
@@ -270,7 +270,7 @@ Et vous êtes quitte envers moi;
 Il reste à l'aimable Rosette....
 
 
-**** *creator_pain *book_pain_appartementalouer *style_verse *genre_comedy *dist1_pain_verse_comedy_appartementalouer *dist2_pain_verse_comedy *date_1799 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosette
+**** *creator_pain *book_pain_appartementalouer *style_verse *genre_comedy *dist1_pain_verse_comedy_appartementalouer *dist2_pain_verse_comedy *id_ROSETTE *date_1799 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosette
 
 Paix, on pourrait nous entendre.
 
@@ -323,7 +323,7 @@ Par un petit bruit d'indulgence,
 Donnez-nous le denier-à-dieu.
 
 
-**** *creator_pain *book_pain_appartementalouer *style_verse *genre_comedy *dist1_pain_verse_comedy_appartementalouer *dist2_pain_verse_comedy *date_1799 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_vincent
+**** *creator_pain *book_pain_appartementalouer *style_verse *genre_comedy *dist1_pain_verse_comedy_appartementalouer *dist2_pain_verse_comedy *id_VINCENT *date_1799 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_vincent
 
 Rien de plus honnête. C'est ma fille qui m'a engagé à venir voir votre appartement qui est, dit-on, à louer.
 
@@ -419,7 +419,7 @@ Donne-lui, ma fille, en avance,
 Un baiser pour denier-à-dieu.
 
 
-**** *creator_pain *book_pain_appartementalouer *style_verse *genre_comedy *dist1_pain_verse_comedy_appartementalouer *dist2_pain_verse_comedy *date_1799 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dubois
+**** *creator_pain *book_pain_appartementalouer *style_verse *genre_comedy *dist1_pain_verse_comedy_appartementalouer *dist2_pain_verse_comedy *id_DUBOIS *date_1799 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dubois
 
 Que me voulez-vous ?
 
@@ -563,7 +563,7 @@ Vous ne risquez rien... Je gage qu'il n'a pas un sou.
 Me chargerez-vous encore de recevoir les visites ?
 
 
-**** *creator_pain *book_pain_appartementalouer *style_verse *genre_comedy *dist1_pain_verse_comedy_appartementalouer *dist2_pain_verse_comedy *date_1799 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sonore
+**** *creator_pain *book_pain_appartementalouer *style_verse *genre_comedy *dist1_pain_verse_comedy_appartementalouer *dist2_pain_verse_comedy *id_SONORE *date_1799 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sonore
 
 C'est ici l'appartement à louer, et vous êtes...
 

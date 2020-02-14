@@ -1,6 +1,6 @@
 
 
-**** *creator_abeille *book_abeille_lyncee *style_verse *genre_tragedy *dist1_abeille_verse_tragedy_lyncee *dist2_abeille_verse_tragedy *date_1681 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_danaus
+**** *creator_abeille *book_abeille_lyncee *style_verse *genre_tragedy *dist1_abeille_verse_tragedy_lyncee *dist2_abeille_verse_tragedy *id_danaus *date_1681 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_danaus
 
 Que ne puis je à vos yeux deguiser ma foiblesse !
 Si pres de ce moment si long-temps souhaité,
@@ -434,7 +434,7 @@ Je les disputeray mesme contre les Dieux.
 Demeurez.
 
 
-**** *creator_abeille *book_abeille_lyncee *style_verse *genre_tragedy *dist1_abeille_verse_tragedy_lyncee *dist2_abeille_verse_tragedy *date_1681 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_erigone
+**** *creator_abeille *book_abeille_lyncee *style_verse *genre_tragedy *dist1_abeille_verse_tragedy_lyncee *dist2_abeille_verse_tragedy *id_erigone *date_1681 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_erigone
 
 Mon fils à votre amour je ne mets plus d'obstacles,
 Le Ciel mesme pour vous fait parler ses oracles,
@@ -895,7 +895,7 @@ Couvert de vostre sang encor plus que du mien .
 Dircé , je voy Lyncée , ostons nous de sa veue .
 
 
-**** *creator_abeille *book_abeille_lyncee *style_verse *genre_tragedy *dist1_abeille_verse_tragedy_lyncee *dist2_abeille_verse_tragedy *date_1681 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_iphis
+**** *creator_abeille *book_abeille_lyncee *style_verse *genre_tragedy *dist1_abeille_verse_tragedy_lyncee *dist2_abeille_verse_tragedy *id_iphis *date_1681 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_iphis
 
 Non, Madame, ma mort ou celle de Lyncée,
 Je dois ou l'une ou l'autre à ma gloire⁎ offencée,
@@ -1079,7 +1079,7 @@ Infortuné vangeur, amant desesperé,
 Triste vertu c'est vous que je sacrifieray.
 
 
-**** *creator_abeille *book_abeille_lyncee *style_verse *genre_tragedy *dist1_abeille_verse_tragedy_lyncee *dist2_abeille_verse_tragedy *date_1681 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lyncee
+**** *creator_abeille *book_abeille_lyncee *style_verse *genre_tragedy *dist1_abeille_verse_tragedy_lyncee *dist2_abeille_verse_tragedy *id_lyncee *date_1681 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_lyncee
 
 Madame est il donc vray qu'apres tant de miseres,
 Le Ciel ait arresté les fureurs de nos Peres,
@@ -1280,7 +1280,7 @@ Achevez, prononcez l'arrest de mon trepas,
 Mais en le prononçant ne me haissez pas.
 
 
-**** *creator_abeille *book_abeille_lyncee *style_verse *genre_tragedy *dist1_abeille_verse_tragedy_lyncee *dist2_abeille_verse_tragedy *date_1681 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_hipermestre
+**** *creator_abeille *book_abeille_lyncee *style_verse *genre_tragedy *dist1_abeille_verse_tragedy_lyncee *dist2_abeille_verse_tragedy *id_hipermestre *date_1681 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_hipermestre
 
 Ceux par qui vostre bras produit tant de miracles,
 Ceux de qui vous tenez cette illustre valeur  
@@ -1696,7 +1696,7 @@ Il suffit . Laissez moy dans ce malheureux jour,
 Douter au moins s'ils sont de douleur ou d'amour.
 
 
-**** *creator_abeille *book_abeille_lyncee *style_verse *genre_tragedy *dist1_abeille_verse_tragedy_lyncee *dist2_abeille_verse_tragedy *date_1681 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lycaste
+**** *creator_abeille *book_abeille_lyncee *style_verse *genre_tragedy *dist1_abeille_verse_tragedy_lyncee *dist2_abeille_verse_tragedy *id_lycaste *date_1681 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lycaste
 
       Ah Seigneur accourez,
 Du dernier des malheurs la ville est menacée.
@@ -1750,7 +1750,7 @@ Et fumante qu'elle est de cet illustre sang,
 D'un second coup luy mesme il s'en perce le flanc.
 
 
-**** *creator_abeille *book_abeille_lyncee *style_verse *genre_tragedy *dist1_abeille_verse_tragedy_lyncee *dist2_abeille_verse_tragedy *date_1681 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_dirce
+**** *creator_abeille *book_abeille_lyncee *style_verse *genre_tragedy *dist1_abeille_verse_tragedy_lyncee *dist2_abeille_verse_tragedy *id_dirce *date_1681 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_dirce
 
       Qu'Iphis est devenu traittable⁎,
 Madame, et qu'à vos soins⁎ Lyncée est redevable !

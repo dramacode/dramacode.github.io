@@ -1,6 +1,6 @@
 
 
-**** *creator_laharpe *book_laharpe_philoctete *style_verse *genre_tragedy *dist1_laharpe_verse_tragedy_philoctete *dist2_laharpe_verse_tragedy *date_1783 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philoctete
+**** *creator_laharpe *book_laharpe_philoctete *style_verse *genre_tragedy *dist1_laharpe_verse_tragedy_philoctete *dist2_laharpe_verse_tragedy *id_PHILOCTETE *date_1783 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philoctete
 
 Hélas ! Au nom des dieux, qui que vous puissiez être,
 Étrangers que les vents dans cette île ont portés,
@@ -613,7 +613,7 @@ Remplissons le destin qui, nous est confié :
 Je sers, en vous suivant, les dieux et l'amitié.
 
 
-**** *creator_laharpe *book_laharpe_philoctete *style_verse *genre_tragedy *dist1_laharpe_verse_tragedy_philoctete *dist2_laharpe_verse_tragedy *date_1783 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulysse
+**** *creator_laharpe *book_laharpe_philoctete *style_verse *genre_tragedy *dist1_laharpe_verse_tragedy_philoctete *dist2_laharpe_verse_tragedy *id_ULYSSE *date_1783 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulysse
 
 Nous voici dans Lemnos, dans cette île sauvage,
 Dont jamais nul mortel n'habita le rivage.
@@ -843,7 +843,7 @@ Et la peine du moins suivra de près l'offense.
 Ulysse et tous les Grecs arrêteront vos pas.
 
 
-**** *creator_laharpe *book_laharpe_philoctete *style_verse *genre_tragedy *dist1_laharpe_verse_tragedy_philoctete *dist2_laharpe_verse_tragedy *date_1783 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pyrrhus
+**** *creator_laharpe *book_laharpe_philoctete *style_verse *genre_tragedy *dist1_laharpe_verse_tragedy_philoctete *dist2_laharpe_verse_tragedy *id_PYRRHUS *date_1783 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pyrrhus
 
 Au premier de vos soins je m'en vais satisfaire.
 Oui, je crois voir déjà ce sauvage repaire,

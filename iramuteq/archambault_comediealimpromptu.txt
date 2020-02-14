@@ -1,6 +1,6 @@
 
 
-**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *date_1780 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamelourdis
+**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *id_MADAMELOURDIS *date_1780 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamelourdis
 
 Monsieur, je ne puis rien répondre à tout cela. Mais voilà mon mari ; expliquez-vous avec lui.
 
@@ -49,7 +49,7 @@ Un valet, ah Ciel ! Et ma fille ?
 Mais je compte bien vous la tenir aussi.
 
 
-**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *date_1780 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_angelique
+**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *id_ANGELIQUE *date_1780 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_angelique
 
 Mais, mon père...
 
@@ -79,7 +79,7 @@ Pour notre intrigue adoptons la tendresse,
 Et le bonheur pour dénouement.
 
 
-**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *date_1780 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *id_LISETTE *date_1780 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Mais écoute donc...
 
@@ -181,7 +181,7 @@ Qui fait toujours le rôle le plus mince,
 Et s'en retourne au dénouement.
 
 
-**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *date_1780 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamefinot
+**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *id_MADAMEFINOT *date_1780 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamefinot
 
 Ce n'est pas parce que Finot est mon fils, mais je vous réponds qu'il jouera bien son rôle.
 
@@ -219,7 +219,7 @@ Madame, vous m'avez donné votre parole, et je m'y tiens.
 À la bonne heure, j'y consens.
 
 
-**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_finotfils
+**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *id_FINOTFILS *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_finotfils
 
 Eh bien, beau-père, vous nous laissez tous seuls ?
 
@@ -293,7 +293,7 @@ Je promets bien, de peur d'être encore dupe,
 D'aller tout droit au dénouement.
 
 
-**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *id_VALERE *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
 
 Ah ! Monsieur, prenez pitié d'un amoureux passionné qui n'a plus d'espérance qu'en vous.
 
@@ -359,7 +359,7 @@ Si ce moment n'est qu'une Comédie,
 Qu'amour en soit le dénouement.
 
 
-**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *id_FRONTIN *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
 
 Mon pauvre maître ! Ah ! Quel malheur ! Il en mourra !
 
@@ -553,7 +553,7 @@ Alors il voit couronner son Ouvrage
 Par le plus heureux dénouement.
 
 
-**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bonnefoi
+**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *id_BONNEFOI *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bonnefoi
 
 Pour vous servir, Monsieur ; voici le contrat que vous m'avez fait demander.
 

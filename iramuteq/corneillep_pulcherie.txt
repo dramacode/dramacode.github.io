@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillep *book_corneillep_pulcherie *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_pulcherie *dist2_corneillep_verse_tragedy *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pulcherie
+**** *creator_corneillep *book_corneillep_pulcherie *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_pulcherie *dist2_corneillep_verse_tragedy *id_PULCHERIE *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pulcherie
 
 Je vous aime, Léon, et n'en fais point mystère :
 Des feux tels que les miens n'ont rien qu'il faille taire.
@@ -736,7 +736,7 @@ Et laisse jusque-là ma faveur incertaine,
 Pour régler son destin sur le destin d'Irène.
 
 
-**** *creator_corneillep *book_corneillep_pulcherie *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_pulcherie *dist2_corneillep_verse_tragedy *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_martian
+**** *creator_corneillep *book_corneillep_pulcherie *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_pulcherie *dist2_corneillep_verse_tragedy *id_MARTIAN *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_martian
 
       À ses vertus on a rendu justice.
 Léon l'a proposée ; et quand je l'ai suivi,
@@ -1068,7 +1068,7 @@ Afin que par votre ordre et les conseils d'Aspar
 Nous l'installions au trône et le nommions César.
 
 
-**** *creator_corneillep *book_corneillep_pulcherie *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_pulcherie *dist2_corneillep_verse_tragedy *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leon
+**** *creator_corneillep *book_corneillep_pulcherie *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_pulcherie *dist2_corneillep_verse_tragedy *id_LEON *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leon
 
 Je vous suivrais, madame ; et du moins sans ombrage
 De ce que mes rivaux ont sur moi d'avantage,
@@ -1398,7 +1398,7 @@ et cette offre d'un coeur entre les mains d'une autre
 ne peut faire un amour qui mérite le vôtre.
 
 
-**** *creator_corneillep *book_corneillep_pulcherie *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_pulcherie *dist2_corneillep_verse_tragedy *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aspar
+**** *creator_corneillep *book_corneillep_pulcherie *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_pulcherie *dist2_corneillep_verse_tragedy *id_ASPAR *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aspar
 
 Vous m'obligez, seigneur ; mais en cette occurrence
 J'ai besoin avec vous d'un peu de conférence.
@@ -1624,7 +1624,7 @@ Elles sauront encor surprendre nos esprits.
 Je vous laisse en résoudre.
 
 
-**** *creator_corneillep *book_corneillep_pulcherie *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_pulcherie *dist2_corneillep_verse_tragedy *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_irene
+**** *creator_corneillep *book_corneillep_pulcherie *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_pulcherie *dist2_corneillep_verse_tragedy *id_IRENE *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_irene
 
 Un si faible secours vous est peu nécessaire,
 Madame, et le sénat…
@@ -1921,7 +1921,7 @@ Mais vous n'êtes, seigneur, avec ce sentiment,
 Ni véritable ami, ni véritable amant.
 
 
-**** *creator_corneillep *book_corneillep_pulcherie *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_pulcherie *dist2_corneillep_verse_tragedy *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_justine
+**** *creator_corneillep *book_corneillep_pulcherie *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_pulcherie *dist2_corneillep_verse_tragedy *id_JUSTINE *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_justine
 
 Notre illustre princesse est donc impératrice,
 Seigneur ?

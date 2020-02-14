@@ -1,6 +1,6 @@
 
 
-**** *creator_florian *book_florian_deuxbillets *style_prose *genre_comedy *dist1_florian_prose_comedy_deuxbillets *dist2_florian_prose_comedy *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_florian *book_florian_deuxbillets *style_prose *genre_comedy *dist1_florian_prose_comedy_deuxbillets *dist2_florian_prose_comedy *id_ARLEQUIN *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Voici la première fois que je suis bien aise de savoir lire. Quel bonheur ! Elle m'aime. J'en suis sûr à présent ; elle l'a dit, elle l'a écrit, et Argentine ne peut pas mentir : elle a la bouche trop jolie et la main trop blanche pour tromper. Relisons encore son billet.
 « Sois tranquille, mon bon ami, ton rival ne doit te donner aucune inquiétude. Je t'aime. Je t'aime ! Je n'ose pas baiser ce mot-là de peur de l'effacer. »
@@ -144,7 +144,7 @@ Quoi ? Qu'y a-t-il ? Nous a-t-il volé quelque chose ?
 Ce pauvre diable ! Il me fait pitié. Écoute, Scapin, madame a besoin d'un laquais ; si tu veux, nous te donnerons la préférence.
 
 
-**** *creator_florian *book_florian_deuxbillets *style_prose *genre_comedy *dist1_florian_prose_comedy_deuxbillets *dist2_florian_prose_comedy *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_argentine
+**** *creator_florian *book_florian_deuxbillets *style_prose *genre_comedy *dist1_florian_prose_comedy_deuxbillets *dist2_florian_prose_comedy *id_ARGENTINE *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_argentine
 
 Ah ! C'est vous, Monsieur Scapin !
 
@@ -245,7 +245,7 @@ Non, mon ami ; j'ai au contraire rattrape ton billet. Le voilà tu es à présen
 Ah ! Pour cela non : il n'est pas assez fidèle. Adieu, monsieur Scapin. Monsieur Pandolfe, le père de ma maîtresse, retourne à Bergame dans peu de jours ; Arlequin et moi nous l'y suivrons. Si vous avez quelque commission à nous donner pour ce pays-là, nous nous en chargerons volontiers mais : si, vous voulez réussir dans celui-ci, souvenez-vous bien qu'il ne faut jamais brouiller deux amants, parce qu'ils se raccommodent toujours anx dépens de celui qui les a brouillés.
 
 
-**** *creator_florian *book_florian_deuxbillets *style_prose *genre_comedy *dist1_florian_prose_comedy_deuxbillets *dist2_florian_prose_comedy *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_scapin
+**** *creator_florian *book_florian_deuxbillets *style_prose *genre_comedy *dist1_florian_prose_comedy_deuxbillets *dist2_florian_prose_comedy *id_SCAPIN *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_scapin
 
 Bonjour, Arlequin.
 

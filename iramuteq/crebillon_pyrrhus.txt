@@ -1,6 +1,6 @@
 
 
-**** *creator_crebillon *book_crebillon_pyrrhus *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_pyrrhus *dist2_crebillon_verse_tragedy *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pyrrhus
+**** *creator_crebillon *book_crebillon_pyrrhus *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_pyrrhus *dist2_crebillon_verse_tragedy *id_PYRRHUS *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pyrrhus
 
 Je puis avoir pour lui d'autres empressements.
 Androclide, je sais que je vous dois la vie ;
@@ -217,7 +217,7 @@ Dès qu'il leur plaît ainsi, jouissez de la vie :
 Moi, je vous rends le sceptre en faveur d'Éricie.
 
 
-**** *creator_crebillon *book_crebillon_pyrrhus *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_pyrrhus *dist2_crebillon_verse_tragedy *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_glaucias
+**** *creator_crebillon *book_crebillon_pyrrhus *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_pyrrhus *dist2_crebillon_verse_tragedy *id_GLAUCIAS *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_glaucias
 
 Vous, à qui j'offre ici tant de voeux inutiles,
 Dieux vengeurs des forfaits, protecteurs des asiles,
@@ -602,7 +602,7 @@ Sont-ce les mouvements qu'il te doit inspirer ?
 Il se livre à tes coups ; que veux-tu ?
 
 
-**** *creator_crebillon *book_crebillon_pyrrhus *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_pyrrhus *dist2_crebillon_verse_tragedy *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_neoptoleme
+**** *creator_crebillon *book_crebillon_pyrrhus *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_pyrrhus *dist2_crebillon_verse_tragedy *id_NEOPTOLEME *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_neoptoleme
 
 Vous ne m'apprenez rien de cette vive ardeur,
 Que je n'eusse déjà pénétré, dans son coeur.
@@ -924,7 +924,7 @@ Recevez votre fils pour prix d'un si grand bien ;
 Et vous, mon cher Pyrrhus, daignez être le mien.
 
 
-**** *creator_crebillon *book_crebillon_pyrrhus *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_pyrrhus *dist2_crebillon_verse_tragedy *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_illyrus
+**** *creator_crebillon *book_crebillon_pyrrhus *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_pyrrhus *dist2_crebillon_verse_tragedy *id_ILLYRUS *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_illyrus
 
       Prince, un moment.
 J'ai besoin avec vous d'un éclaircissement.
@@ -1048,7 +1048,7 @@ Si j'avais mérité de vous quelque retour.
       Dieux ! Qu'est-ce que je vois ?
 
 
-**** *creator_crebillon *book_crebillon_pyrrhus *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_pyrrhus *dist2_crebillon_verse_tragedy *date_1726 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ericie
+**** *creator_crebillon *book_crebillon_pyrrhus *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_pyrrhus *dist2_crebillon_verse_tragedy *id_ERICIE *date_1726 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ericie
 
 S'il dépendait de moi de le rendre plus doux,
 Seigneur, bientôt la paix règnerait entre nous.
@@ -1473,7 +1473,7 @@ Si d'un infortuné je veux sauver les jours,
 C'est à d'autres que lui qu'il faut avoir recours.
 
 
-**** *creator_crebillon *book_crebillon_pyrrhus *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_pyrrhus *dist2_crebillon_verse_tragedy *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_androclide
+**** *creator_crebillon *book_crebillon_pyrrhus *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_pyrrhus *dist2_crebillon_verse_tragedy *id_ANDROCLIDE *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_androclide
 
 Seigneur, un sort plus doux n'a pas servi le zèle
 D'un sujet malheureux, et cependant fidèle,

@@ -1,6 +1,6 @@
 
 
-**** *creator_nadal *book_nadal_saul *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_saul *dist2_nadal_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_saul
+**** *creator_nadal *book_nadal_saul *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_saul *dist2_nadal_verse_tragedy *id_SAUL *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_saul
 
 Que vois-je ici ? Quel soin rassemble ma famille,
 Et présente à mes yeux Jonathas et ma Fille ?
@@ -549,7 +549,7 @@ Seigneur ; et profitant de cet exemple affreux,
 Vivez aussi puissant, et mourez plus heureux.
 
 
-**** *creator_nadal *book_nadal_saul *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_saul *dist2_nadal_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jonathas
+**** *creator_nadal *book_nadal_saul *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_saul *dist2_nadal_verse_tragedy *id_JONATHAS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jonathas
 
 Et ne connais-tu pas le trouble de mon Père ?
 Dans les divers transports dont il est combattu,
@@ -846,7 +846,7 @@ Bientôt mon amitié vous rejoint dans ces lieux.
 Adieu, ne craignez rien.
 
 
-**** *creator_nadal *book_nadal_saul *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_saul *dist2_nadal_verse_tragedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_michol
+**** *creator_nadal *book_nadal_saul *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_saul *dist2_nadal_verse_tragedy *id_MICHOL *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_michol
 
 Ah ! Venez avec moi combattre ses transports.
 C'est maintenant qu'il faut redoubler nos efforts.
@@ -1211,7 +1211,7 @@ Dieu tout-puissant !
 Dieu puissant !
 
 
-**** *creator_nadal *book_nadal_saul *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_saul *dist2_nadal_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_david
+**** *creator_nadal *book_nadal_saul *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_saul *dist2_nadal_verse_tragedy *id_DAVID *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_david
 
       Non, Seigneur. À ma gloire fidèle,
 N'attendez rien de moi qui soit indigne d'elle.
@@ -1463,7 +1463,7 @@ Que pour elle à jamais mon amour éclatant,
 Que ma foi...
 
 
-**** *creator_nadal *book_nadal_saul *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_saul *dist2_nadal_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_asser
+**** *creator_nadal *book_nadal_saul *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_saul *dist2_nadal_verse_tragedy *id_ASSER *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_asser
 
 Ah ! Prévenez les maux qui menacent l'État.
 D'un Enfant d'Israël apprenez l'attentat.
@@ -1643,7 +1643,7 @@ C'est à moi de la suivre, et je cours sans effroi,
 À ma gloire du moins rendre ce que je dois.
 
 
-**** *creator_nadal *book_nadal_saul *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_saul *dist2_nadal_verse_tragedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elise
+**** *creator_nadal *book_nadal_saul *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_saul *dist2_nadal_verse_tragedy *id_ELISE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elise
 
 Quel est le fondement d'un discours qui m'étonne ?
 Ô Ciel ! Que dites-vous ?
@@ -1680,7 +1680,7 @@ Et du moins attendez que l'on vous avertisse.
 On vient, Madame, on vient.
 
 
-**** *creator_nadal *book_nadal_saul *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_saul *dist2_nadal_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achas
+**** *creator_nadal *book_nadal_saul *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_saul *dist2_nadal_verse_tragedy *id_ACHAS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achas
 
 Quoi ? Saül, qui partout vainqueur des Philistins,
 D'Israël abattu releva les destins,

@@ -1,6 +1,6 @@
 
 
-**** *creator_scarron *book_scarron_jodelet *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodelet *dist2_scarron_verse_comedy *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjuan
+**** *creator_scarron *book_scarron_jodelet *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodelet *dist2_scarron_verse_comedy *id_DONJUAN *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjuan
 
 Taisez-vous maître sot, cette rue où nous sommes
 Est celle que je cherche.
@@ -525,7 +525,7 @@ Vous que je haïssais tantôt de tous mon coeur,
 Sachez que je suis vôtre aussi bien que ma soeur.
 
 
-**** *creator_scarron *book_scarron_jodelet *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodelet *dist2_scarron_verse_comedy *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donlouis
+**** *creator_scarron *book_scarron_jodelet *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodelet *dist2_scarron_verse_comedy *id_DONLOUIS *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donlouis
 
 Étienne.
 
@@ -821,7 +821,7 @@ Vous dont l'amitié m'est un don inestimable,
 Recevez de ma main cette fille adorable.
 
 
-**** *creator_scarron *book_scarron_jodelet *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodelet *dist2_scarron_verse_comedy *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donfernand
+**** *creator_scarron *book_scarron_jodelet *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodelet *dist2_scarron_verse_comedy *id_DONFERNAND *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donfernand
 
 Qu'avez-vous Béatrix, vous faites la pleureuse.
 
@@ -1170,7 +1170,7 @@ Allons, mes chers enfants, finir cette journée
 Par l'accomplissement de ce double hyménée.
 
 
-**** *creator_scarron *book_scarron_jodelet *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodelet *dist2_scarron_verse_comedy *date_1643 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+**** *creator_scarron *book_scarron_jodelet *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodelet *dist2_scarron_verse_comedy *id_ISABELLE *date_1643 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
 
 Croyez-moi Béatrix, faites votre paquet,
 Sans penser m'éblouir avec votre caquet,
@@ -1435,7 +1435,7 @@ Et pour ce brave époux pareille aversion.
       Ô ma chère Lucresse !
 
 
-**** *creator_scarron *book_scarron_jodelet *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodelet *dist2_scarron_verse_comedy *date_1643 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucrece
+**** *creator_scarron *book_scarron_jodelet *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodelet *dist2_scarron_verse_comedy *id_LUCRECE *date_1643 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucrece
 
 Je n'attendais pas moins d'une âme si civile,
 Je viens, ô Don Fernand, chez vous chercher asile,
@@ -1609,7 +1609,7 @@ Et bien avais-je tort lorsque vous vous plaigniez
 D'assurer qu'il n'était pas tel que vous disiez.
 
 
-**** *creator_scarron *book_scarron_jodelet *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodelet *dist2_scarron_verse_comedy *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jodelet
+**** *creator_scarron *book_scarron_jodelet *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodelet *dist2_scarron_verse_comedy *id_JODELET *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jodelet
 
 Oui je n'en doute plus, ou bien vous êtes fou.
 Ou le Diable d'Enfer, qui vous casse le cou,
@@ -2351,7 +2351,7 @@ Oui je la veux avoir cette idole de prix
 Pour en favoriser ma chère Béatrix.
 
 
-**** *creator_scarron *book_scarron_jodelet *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodelet *dist2_scarron_verse_comedy *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_etienne
+**** *creator_scarron *book_scarron_jodelet *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodelet *dist2_scarron_verse_comedy *id_ETIENNE *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_etienne
 
       Qui va là ?
 
@@ -2383,7 +2383,7 @@ Non, c'est le grand Mogor.
       Adieu donc faux teston.
 
 
-**** *creator_scarron *book_scarron_jodelet *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodelet *dist2_scarron_verse_comedy *date_1643 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_beatrix
+**** *creator_scarron *book_scarron_jodelet *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodelet *dist2_scarron_verse_comedy *id_BEATRIX *date_1643 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_beatrix
 
       Et du moins que je sache
 Pour quel mal contre moi ma maîtresse se fâche.

@@ -1,6 +1,6 @@
 
 
-**** *creator_racine *book_racine_esther *style_verse *genre_tragedy *dist1_racine_verse_tragedy_esther *dist2_racine_verse_tragedy *date_1689 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_assuerus
+**** *creator_racine *book_racine_esther *style_verse *genre_tragedy *dist1_racine_verse_tragedy_esther *dist2_racine_verse_tragedy *id_ASSUERUS *date_1689 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_assuerus
 
       Ainsi donc, sans cet avis fidèle,
 Deux traîtres dans son lit assassinaient leur roi ?
@@ -213,7 +213,7 @@ Oui, je t'entends. Allons par des ordres contraires
 Révoquer d'un méchant les ordres sanguinaires.
 
 
-**** *creator_racine *book_racine_esther *style_verse *genre_tragedy *dist1_racine_verse_tragedy_esther *dist2_racine_verse_tragedy *date_1689 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_esther
+**** *creator_racine *book_racine_esther *style_verse *genre_tragedy *dist1_racine_verse_tragedy_esther *dist2_racine_verse_tragedy *id_ESTHER *date_1689 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_esther
 
 Est-ce toi, chère Élise ? Ô jour trois fois heureux !
 Que béni soit le ciel qui te rend à mes voeux ;
@@ -558,7 +558,7 @@ Tremble. Son jour approche, et ton règne est passé.
 Ta sagesse conduit ses desseins éternels !
 
 
-**** *creator_racine *book_racine_esther *style_verse *genre_tragedy *dist1_racine_verse_tragedy_esther *dist2_racine_verse_tragedy *date_1689 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mardochee
+**** *creator_racine *book_racine_esther *style_verse *genre_tragedy *dist1_racine_verse_tragedy_esther *dist2_racine_verse_tragedy *id_MARDOCHEE *date_1689 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mardochee
 
       Ô Reine infortunée !
 Ô d'un peuple innocent barbare destinée !
@@ -628,7 +628,7 @@ Roi, qu'à jamais le ciel prenne soin de vos jours.
 Le péril des Juifs presse, et veut un prompt secours.
 
 
-**** *creator_racine *book_racine_esther *style_verse *genre_tragedy *dist1_racine_verse_tragedy_esther *dist2_racine_verse_tragedy *date_1689 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aman
+**** *creator_racine *book_racine_esther *style_verse *genre_tragedy *dist1_racine_verse_tragedy_esther *dist2_racine_verse_tragedy *id_AMAN *date_1689 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aman
 
 Hé quoi ? Lorsque le jour ne commence qu'à luire,
 Dans ce lieu redoutable oses-tu m'introduire ?
@@ -837,7 +837,7 @@ Daignez d'un roi terrible apaiser le courroux.
 Sauvez Aman, qui tremble à vos sacrés genoux.
 
 
-**** *creator_racine *book_racine_esther *style_verse *genre_tragedy *dist1_racine_verse_tragedy_esther *dist2_racine_verse_tragedy *date_1689 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hydaspe
+**** *creator_racine *book_racine_esther *style_verse *genre_tragedy *dist1_racine_verse_tragedy_esther *dist2_racine_verse_tragedy *id_HYDASPE *date_1689 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hydaspe
 
 Vous savez qu'on s'en peut reposer sur ma foi,
 Que ces portes, Seigneur, n'obéissent qu'à moi.
@@ -938,7 +938,7 @@ Sans doute leur concert va commencer la fête.
 Entrez, et recevez l'honneur qu'on vous apprête.
 
 
-**** *creator_racine *book_racine_esther *style_verse *genre_tragedy *dist1_racine_verse_tragedy_esther *dist2_racine_verse_tragedy *date_1689 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_asaph
+**** *creator_racine *book_racine_esther *style_verse *genre_tragedy *dist1_racine_verse_tragedy_esther *dist2_racine_verse_tragedy *id_ASAPH *date_1689 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_asaph
 
 On lui promit beaucoup, c'est tout ce que j'ai su.
 
@@ -960,7 +960,7 @@ On traîne, on va donner en spectacle funeste
 De son corps tout sanglant le misérable reste.
 
 
-**** *creator_racine *book_racine_esther *style_verse *genre_tragedy *dist1_racine_verse_tragedy_esther *dist2_racine_verse_tragedy *date_1689 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elise
+**** *creator_racine *book_racine_esther *style_verse *genre_tragedy *dist1_racine_verse_tragedy_esther *dist2_racine_verse_tragedy *id_ELISE *date_1689 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elise
 
 Au bruit de votre mort justement éplorée
 Du reste des humains je vivais séparée,
@@ -1034,7 +1034,7 @@ Je le vois, mes soeurs, je le vois.
 A déjà pris sa place.
 
 
-**** *creator_racine *book_racine_esther *style_verse *genre_tragedy *dist1_racine_verse_tragedy_esther *dist2_racine_verse_tragedy *date_1689 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_choeur
+**** *creator_racine *book_racine_esther *style_verse *genre_tragedy *dist1_racine_verse_tragedy_esther *dist2_racine_verse_tragedy *id_CHOEUR *date_1689 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_choeur
 
 Ma soeur, quelle voix nous appelle ?
 

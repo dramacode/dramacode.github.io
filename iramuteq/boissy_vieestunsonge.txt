@@ -1,6 +1,6 @@
 
 
-**** *creator_boissy *book_boissy_vieestunsonge *style_verse *genre_comedie heroique *dist1_boissy_verse_comedie heroique_vieestunsonge *dist2_boissy_verse_comedie heroique *date_1732 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_sigismond
+**** *creator_boissy *book_boissy_vieestunsonge *style_verse *genre_comedie heroique *dist1_boissy_verse_comedie heroique_vieestunsonge *dist2_boissy_verse_comedie heroique *id_SIGISMOND *date_1732 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_sigismond
 
       Parle, n'es-tu point las,
 Ô Ciel ! Injuste Ciel, de m'accabler de chaînes ?
@@ -687,7 +687,7 @@ Que notre prévoyance est un tissu d'erreurs,
 Notre espoir un fantôme, et notre vie un songe.
 
 
-**** *creator_boissy *book_boissy_vieestunsonge *style_verse *genre_comedie heroique *dist1_boissy_verse_comedie heroique_vieestunsonge *dist2_boissy_verse_comedie heroique *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_federic
+**** *creator_boissy *book_boissy_vieestunsonge *style_verse *genre_comedie heroique *dist1_boissy_verse_comedie heroique_vieestunsonge *dist2_boissy_verse_comedie heroique *id_FEDERIC *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_federic
 
 Prince dont le noble courage...
 
@@ -705,7 +705,7 @@ Mais j'ai le suffrage du Roi,
 Et vous-même y devez souscrire.
 
 
-**** *creator_boissy *book_boissy_vieestunsonge *style_verse *genre_comedie heroique *dist1_boissy_verse_comedie heroique_vieestunsonge *dist2_boissy_verse_comedie heroique *date_1732 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_sophronie
+**** *creator_boissy *book_boissy_vieestunsonge *style_verse *genre_comedie heroique *dist1_boissy_verse_comedie heroique_vieestunsonge *dist2_boissy_verse_comedie heroique *id_SOPHRONIE *date_1732 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_sophronie
 
       Seigneur, vous voulez bien
 Que je vous rende ici mon hommage sincère.
@@ -869,7 +869,7 @@ Mon bonheur est parfait, si je comble le vôtre,
 Je haïrais le Sceptre, en le tenant d'un autre.
 
 
-**** *creator_boissy *book_boissy_vieestunsonge *style_verse *genre_comedie heroique *dist1_boissy_verse_comedie heroique_vieestunsonge *dist2_boissy_verse_comedie heroique *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clotalde
+**** *creator_boissy *book_boissy_vieestunsonge *style_verse *genre_comedie heroique *dist1_boissy_verse_comedie heroique_vieestunsonge *dist2_boissy_verse_comedie heroique *id_CLOTALDE *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clotalde
 
 Sigismond va, Seigneur, paraître dans ces lieux,
 Souffrez, pour l'écouter, qu'on vous cache à ses yeux.
@@ -1079,7 +1079,7 @@ Que je guide vos pas dans ces rochers affreux ;
 Ce sentier est plus court, et bien moins périlleux.
 
 
-**** *creator_boissy *book_boissy_vieestunsonge *style_verse *genre_comedie heroique *dist1_boissy_verse_comedie heroique_vieestunsonge *dist2_boissy_verse_comedie heroique *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulric
+**** *creator_boissy *book_boissy_vieestunsonge *style_verse *genre_comedie heroique *dist1_boissy_verse_comedie heroique_vieestunsonge *dist2_boissy_verse_comedie heroique *id_ULRIC *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulric
 
 De rochers escarpés, quelle chaîne effroyable
 Sert de remparts à cette affreuse tour ?
@@ -1156,7 +1156,7 @@ Pour la mettre en état d'opposer sa défense
 Aux efforts des séditieux.
 
 
-**** *creator_boissy *book_boissy_vieestunsonge *style_verse *genre_comedie heroique *dist1_boissy_verse_comedie heroique_vieestunsonge *dist2_boissy_verse_comedie heroique *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roderic
+**** *creator_boissy *book_boissy_vieestunsonge *style_verse *genre_comedie heroique *dist1_boissy_verse_comedie heroique_vieestunsonge *dist2_boissy_verse_comedie heroique *id_RODERIC *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roderic
 
 Vive, vive Sigismond.
 
@@ -1191,7 +1191,7 @@ Il vient d'être arrêté dans la forêt prochaine.
 Avec Cloralde on vous l'amène.
 
 
-**** *creator_boissy *book_boissy_vieestunsonge *style_verse *genre_comedie heroique *dist1_boissy_verse_comedie heroique_vieestunsonge *dist2_boissy_verse_comedie heroique *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_boissy *book_boissy_vieestunsonge *style_verse *genre_comedie heroique *dist1_boissy_verse_comedie heroique_vieestunsonge *dist2_boissy_verse_comedie heroique *id_ARLEQUIN *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Voyons un peu ce qui se fait ici.
 Mes semblables par tout entrent sans conséquence,

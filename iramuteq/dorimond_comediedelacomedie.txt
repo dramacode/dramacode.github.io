@@ -1,6 +1,6 @@
 
 
-**** *creator_dorimond *book_dorimond_comediedelacomedie *style_verse *genre_comedy *dist1_dorimond_verse_comedy_comediedelacomedie *dist2_dorimond_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucidor
+**** *creator_dorimond *book_dorimond_comediedelacomedie *style_verse *genre_comedy *dist1_dorimond_verse_comedy_comediedelacomedie *dist2_dorimond_verse_comedy *id_LUCIDOR *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucidor
 
 Allons-y, je le veux ; au coin de cette rue,
 Une affiche à propos se montre à notre vue.
@@ -44,7 +44,7 @@ On rencontre des gens qui tondraient sur un oeuf
 Et qui bien souvent ont l'esprit comme un boeuf.
 
 
-**** *creator_dorimond *book_dorimond_comediedelacomedie *style_verse *genre_comedy *dist1_dorimond_verse_comedy_comediedelacomedie *dist2_dorimond_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_galant
+**** *creator_dorimond *book_dorimond_comediedelacomedie *style_verse *genre_comedy *dist1_dorimond_verse_comedy_comediedelacomedie *dist2_dorimond_verse_comedy *id_GALANT *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_galant
 
 Isabelle, bonjour, votre humble serviteur !
 Que votre habit est riche et de belle couleur !
@@ -83,7 +83,7 @@ On me vient de donner un sonnet merveilleux.
       Au moins trente.
 
 
-**** *creator_dorimond *book_dorimond_comediedelacomedie *style_verse *genre_comedy *dist1_dorimond_verse_comedy_comediedelacomedie *dist2_dorimond_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepinai
+**** *creator_dorimond *book_dorimond_comediedelacomedie *style_verse *genre_comedy *dist1_dorimond_verse_comedy_comediedelacomedie *dist2_dorimond_verse_comedy *id_LEPINAI *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepinai
 
 Et moi des gants d'Espagne.
 
@@ -106,7 +106,7 @@ J'aime Thomas Morus, les vers en sont forts beaux.
 Combien a-t-il de vers.
 
 
-**** *creator_dorimond *book_dorimond_comediedelacomedie *style_verse *genre_comedy *dist1_dorimond_verse_comedy_comediedelacomedie *dist2_dorimond_verse_comedy *date_(inc *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_leportier
+**** *creator_dorimond *book_dorimond_comediedelacomedie *style_verse *genre_comedy *dist1_dorimond_verse_comedy_comediedelacomedie *dist2_dorimond_verse_comedy *id_LEPORTIER *date_(inc *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_leportier
 
 Ce téton est-il bon ? Cette piastre est légère !
 Ils sont sans conscience ou bien ils n'en ont guère :
@@ -169,7 +169,7 @@ Ils s'en vont revenir peut-être avec main forte.
 On s'en va commencer, rentrons, fermons la porte.
 
 
-**** *creator_dorimond *book_dorimond_comediedelacomedie *style_verse *genre_comedy *dist1_dorimond_verse_comedy_comediedelacomedie *dist2_dorimond_verse_comedy *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomedienne
+**** *creator_dorimond *book_dorimond_comediedelacomedie *style_verse *genre_comedy *dist1_dorimond_verse_comedy_comediedelacomedie *dist2_dorimond_verse_comedy *id_LACOMEDIENNE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomedienne
 
 Ah Dieu ! Je vois passer un qui fait l'idolâtre
 En venant m'aborder quand je suis au théâtre ;
@@ -262,7 +262,7 @@ Allons les divertir par nos accents mignards
 Et recevoir l'honneur d'attirer leurs regards.
 
 
-**** *creator_dorimond *book_dorimond_comediedelacomedie *style_verse *genre_comedy *dist1_dorimond_verse_comedy_comediedelacomedie *dist2_dorimond_verse_comedy *date_(inc *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_filou
+**** *creator_dorimond *book_dorimond_comediedelacomedie *style_verse *genre_comedy *dist1_dorimond_verse_comedy_comediedelacomedie *dist2_dorimond_verse_comedy *id_FILOU *date_(inc *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_filou
 
 Ouvre !
 

@@ -1,6 +1,6 @@
 
 
-**** *creator_durant *book_durant_telmaitretelvalet *style_prose *genre_proverbe *dist1_durant_prose_proverbe_telmaitretelvalet *dist2_durant_prose_proverbe *date_(non *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_eraste
+**** *creator_durant *book_durant_telmaitretelvalet *style_prose *genre_proverbe *dist1_durant_prose_proverbe_telmaitretelvalet *dist2_durant_prose_proverbe *id_ERASTE *date_(non *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_eraste
 
 Me tiendrez-vous toujours en suspend, Madame ? Ne consentirez-vous jamais à mon bonheur ? Il y a tantôt deux ans que je meurs d'amour pour vous, que je vous suis en tous lieux, que je porte vos chaînes en véritable Amadis, et si je l'ose dire, vous n'avez pas dédaigné de me découvrir des sentiments assez tendres ; mais comme dans votre reconnaissance : ce vous n'avez pas tout-à-fait suivi les pas d'Oriane, ma foi ce n'est pas contentement ; je suis homme réel, et...
 
@@ -21,7 +21,7 @@ Ma pauvre Marton , elle est méchante comme un petit diable ; ne pourrais-tu poi
 Adieu donc, Marton ; je vois bien qu'il faut prendre son parti : une maîtresse réprimandeuse, une suivante lasse de mon Pasquin ; le moyen de sortir à son honneur d'une pareille entreprise ? Il ne me reste plus que d'être premier pris aux quatre pistoles dans une grosse partie ; ce fera une belle journée pour moi.
 
 
-**** *creator_durant *book_durant_telmaitretelvalet *style_prose *genre_proverbe *dist1_durant_prose_proverbe_telmaitretelvalet *dist2_durant_prose_proverbe *date_(non *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_isabelle
+**** *creator_durant *book_durant_telmaitretelvalet *style_prose *genre_proverbe *dist1_durant_prose_proverbe_telmaitretelvalet *dist2_durant_prose_proverbe *id_ISABELLE *date_(non *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_isabelle
 
 Taisez-vous, Eraste , vous êtes fou ; vos saillies vous mènent quelquefois loin ; il faut vous défaire de ces petites vivacités, si vous voulez que je pense à des choses sérieuses ; mon cour est dans vos intérêts, vous n'en êtes que trop persuadé ; mais vous avez une conduite toute propre à me dégoûter.
 
@@ -34,7 +34,7 @@ N'êtes-vous point honteux ; Eraste, de ce que je viens de voir ? Il ne vous man
 Non, Eraste , voilà qui est fait, je romps avec vous pour toujours. Vous ne feriez que de vains efforts poux l'arrêter : adieu.
 
 
-**** *creator_durant *book_durant_telmaitretelvalet *style_prose *genre_proverbe *dist1_durant_prose_proverbe_telmaitretelvalet *dist2_durant_prose_proverbe *date_(non *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_pasquin
+**** *creator_durant *book_durant_telmaitretelvalet *style_prose *genre_proverbe *dist1_durant_prose_proverbe_telmaitretelvalet *dist2_durant_prose_proverbe *id_PASQUIN *date_(non *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_pasquin
 
 Marton, ma charmante Marton, veux-tu encore faire longtemps languir ton petit Pasquin ? Il t'aime depuis qu'Eraste aime ta maîtresse ; voilà mon époque.
 
@@ -49,7 +49,7 @@ Rien ne me touche de tout ceci, que de t'avoir manqué de respect ; mais toujour
 Et bien, ne nous marions point, mon amour, je t'aimerai autant sur ce pied là : Ah ! Tu te mêles d'avoir des mours . Adieu donc, beauté cruelle ; puis-je trouver Gros-Jean moins inflexible que toi?
 
 
-**** *creator_durant *book_durant_telmaitretelvalet *style_prose *genre_proverbe *dist1_durant_prose_proverbe_telmaitretelvalet *dist2_durant_prose_proverbe *date_(non *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_marton
+**** *creator_durant *book_durant_telmaitretelvalet *style_prose *genre_proverbe *dist1_durant_prose_proverbe_telmaitretelvalet *dist2_durant_prose_proverbe *id_MARTON *date_(non *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_marton
 
 Moi, monsieur ? Ma foi je suis une malheureuse intrigante, et puis vous avez un coquin dont je serai ravie d'être défaite, et je ne puis en être défaite, que quand ma maîtresse le sera de vous,
 

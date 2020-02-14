@@ -1,6 +1,6 @@
 
 
-**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *date_1632 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lisandre
+**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *id_lisandre *date_1632 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_lisandre
 
 Indiscrets mouvemens⁎ d'une Amour insensee
 Ne sortirez vous point de ma triste pensee ?
@@ -703,7 +703,7 @@ Grand Roy juste par tout, que sans peyne et sans guerre
 Le ciel charge vos mains du sceptre de la terre.
 
 
-**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *date_1632 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crisante
+**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *id_crisante *date_1632 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crisante
 
 Cloridan outragé de la seule memoire,
 Qui met devant ses yeux sa honte et votre gloire⁎,
@@ -759,7 +759,7 @@ Se noyant dans son sang acheve de mourir.
 Je m'en vay le treuver dedans la nuit profonde.
 
 
-**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *date_1632 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_leon
+**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *id_leon *date_1632 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_leon
 
 Clarinde je sçay bien que mon ame asservie
 Doit à ton amitié⁎ le bonheur⁎ de ma vie,
@@ -882,7 +882,7 @@ Et si quelque coupable a le feu mérité
 L'on doit ce chastiment à ma meschanceté.
 
 
-**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *date_1632 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_clarinde
+**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *id_clarinde *date_1632 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_clarinde
 
 Leon, comment cela demeurant chez Caliste ?
 Le debuoir qui m'oblige à la suivre tousjours
@@ -919,7 +919,7 @@ Caliste vient icy pour y passer la nuit.
 Aupres de ce tesmoing je ne le puis deffendre.
 
 
-**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *date_1632 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_beronte
+**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *id_beronte *date_1632 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_beronte
 
       Amy je viens d'apprendre
 Que quelques malcontents ont appellé Lisandre,
@@ -1029,7 +1029,7 @@ Lisandre aveq Tirsis estoit hors de la ville
 Et contre vos fureurs, il cherchoit un asile.
 
 
-**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *date_1632 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcidon
+**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *id_alcidon *date_1632 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcidon
 
       Je m'en vay chez Cleandre
 M'instruire du combat de nostre amy Lisandre,
@@ -1081,7 +1081,7 @@ Vous gaigneriés du pain allant de porte en porte.
 Allons donq.
 
 
-**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *date_1632 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleandre
+**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *id_cleandre *date_1632 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleandre
 
 Puis qu'il faut obéïr à la necessité
 Qui borne en vous chassant nostre felicité,
@@ -1112,7 +1112,7 @@ Ou de ta propre espee : hà le traistre me tuë,
 Et son mauvais dessein dessus moy s'effectue.
 
 
-**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *date_1632 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_caliste
+**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *id_caliste *date_1632 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_caliste
 
 Vous voulez de la sorte augmenter son soucy.
 
@@ -1387,7 +1387,7 @@ Si nous avons du bien, Madame, nous devons
 A vos rares vertus⁎ celuy que nous avons.
 
 
-**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *date_1632 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_leboucher
+**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *id_le-boucher *date_1632 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_leboucher
 
 Dy ce que tu voudras, que ton esprit s'en pique,
 Je ne veux plus souffrir⁎ qu'il vienne en ma boutique,
@@ -1440,7 +1440,7 @@ Et que c'est un mestier où l'on ne gaigne guere !
 Soit de jour soit de nuit soyez libre chez nous.
 
 
-**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *date_1632 *sexe_feminin *age_sans-age *statut_exterieur *fonction_autres *role_labouchere
+**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *id_la-bouchere *date_1632 *sexe_feminin *age_sans-age *statut_exterieur *fonction_autres *role_labouchere
 
 Alors qu' il vous donna de si belles pistolles,
 Que ne luy teniez vous de semblables paroles.
@@ -1469,7 +1469,7 @@ Mais dites qu'il avoit dans ses mains enfermé
 Plustost qu'en son humeur ce qui vous a charmé.
 
 
-**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *date_1632 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_legeolier
+**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *id_le-geolier *date_1632 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_legeolier
 
 Madame, descendons, il est temps de partir.
 
@@ -1485,7 +1485,7 @@ Cherchons la seureté qui nous est necessaire.
 Nous sommes tous perdus si quelqu'un nous entend.
 
 
-**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *date_1632 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_dorilas
+**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *id_dorilas *date_1632 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_dorilas
 
 O Deplorable fille ! et moy plus deplorable
 D'avoir produit le mal qui me rend miserable !
@@ -1596,7 +1596,7 @@ Et qu'un parfait accord prenne icy sa naissance.
 Et de vostre vouloir nous tirons des plaisirs.
 
 
-**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *date_1632 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_orante
+**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *id_orante *date_1632 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_orante
 
 Quoique la passion⁎ vous suggere contre elle,
 Je n'ay jamais pensé qu'elle fut criminelle.
@@ -1674,7 +1674,7 @@ Elle vid des faveurs presentes et certaines⁎
 Que l'espoir incertain n'offroit pas à ses peynes.
 
 
-**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *date_1632 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_adraste
+**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *id_adraste *date_1632 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_adraste
 
 Mon fils, unique appuy du bonheur⁎ de ma vie,
 Que vostre longue absence a mille fois ravie ,
@@ -1815,7 +1815,7 @@ Que ton heureux retour convertit en plaisirs.
 De vostre volonté dépendent nos desirs,
 
 
-**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *date_1632 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lidian
+**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *id_lidian *date_1632 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lidian
 
 Quelques difficultez, que tout le monde fasse
 J'obligeray⁎ Lisandre en obtenant sa grace,
@@ -1897,7 +1897,7 @@ L'amour est vostre mal, l'amour est vostre excuse.
 Si vous avez du mal, laissez vous secourir.
 
 
-**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *date_1632 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hyppolite
+**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *id_hyppolite *date_1632 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hyppolite
 
 Ne dis plus que ton cœur a triomphé des charmes⁎
 Qui font vivre l'amour, et luy donne des armes,
@@ -2185,7 +2185,7 @@ Et le bien qui finit les ennuis⁎ de Caliste
 Rend mon cœur plus content, qu'il n'avoit esté triste.
 
 
-**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *date_1632 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_leroi
+**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *id_le-roi *date_1632 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_leroi
 
 En fin voicy le jour où le Ciel equitable
 Nous fera voir Lisandre innocent ou coupable,
@@ -2339,7 +2339,7 @@ L'innocence et l'amour triomphent des malheurs.
 FIN
 
 
-**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *date_1632 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucidan
+**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *id_lucidan *date_1632 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucidan
 
 Grand Roy victorieux sur la terre et sur l'onde,
 Dont la gloire⁎ remplit et l'un et l'autre monde,
@@ -2460,7 +2460,7 @@ Que ces liens plairont à mon ame asservie.
 Si la belle Hyppolite y veut joindre sa vie.
 
 
-**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *date_1632 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_levalet
+**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *id_le-valet *date_1632 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_levalet
 
       Mon maistre m'a chargé
 De vous donner ce mot.                         1120
@@ -2512,7 +2512,7 @@ Monsieur, voicy Caliste avec les mesmes armes
 Qui couvrirent pour vous ses beautez et ses charmes.
 
 
-**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *date_1632 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_page
+**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *id_page *date_1632 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_page
 
 Clarinde.
 
@@ -2527,7 +2527,7 @@ De la part d'Hyppolite, et de Lisandre aussy.
       Je ne sçay.
 
 
-**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *date_1632 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_courrier
+**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *id_courrier *date_1632 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_courrier
 
 Je reviens de la Cour,
 
@@ -2551,7 +2551,7 @@ Moderent par la peur le feu qui les tourmente.
 Voila ce que l'on dit.
 
 
-**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *date_1632 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lejugedecamp
+**** *creator_duryer *book_duryer_lisandrecaliste *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lisandrecaliste *dist2_duryer_verse_tragedy *id_le-juge-de-camp *date_1632 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lejugedecamp
 
 Tirez.
 

@@ -1,6 +1,6 @@
 
 
-**** *creator_donneaudevise *book_donneaudevise_zelinde *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_zelinde *dist2_donneaudevise_prose_comedy *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_oriane
+**** *creator_donneaudevise *book_donneaudevise_zelinde *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_zelinde *dist2_donneaudevise_prose_comedy *id_ORIANE *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_oriane
 
 Le Patron ne m'en plaît pas.
 
@@ -145,7 +145,7 @@ Vous ne deviez pas le quitter en l'état où il est, et je connais que l'amour, 
 Ah ! Mon père, ne vous emportez point contre Mélante, après la perte qu'il vient de faire ; et s'il est encore dans la résolution de m'épouser, consentez plutôt à notre mariage.
 
 
-**** *creator_donneaudevise *book_donneaudevise_zelinde *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_zelinde *dist2_donneaudevise_prose_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_melante
+**** *creator_donneaudevise *book_donneaudevise_zelinde *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_zelinde *dist2_donneaudevise_prose_comedy *id_MELANTE *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_melante
 
 Je crois que mon bonheur m'a fait venir ici, et je ne croyais pas y trouver une si belle compagnie.
 
@@ -166,7 +166,7 @@ J'ai trop d'amour pour la belle Oriane, pour n'y pas consentir.
 Vous me permettrez de vous quitter, et d'aller songer à ce que je dois à mon oncle, avant que de penser à ce que je dois à mon amour.
 
 
-**** *creator_donneaudevise *book_donneaudevise_zelinde *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_zelinde *dist2_donneaudevise_prose_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clearque
+**** *creator_donneaudevise *book_donneaudevise_zelinde *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_zelinde *dist2_donneaudevise_prose_comedy *id_CLEARQUE *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clearque
 
 Quoi ! Perfide, est-ce ici que demeure votre cousine Orphise ? Et vous Monsieur
 
@@ -177,7 +177,7 @@ Puisque son mérite est soutenu du bien de son oncle, je n'ai plus de sujet de m
 Lorsque je vous ai fait épier, et que je suis venu vous trouver ici, je ne croyais pas que ma colère dût être si tôt apaisée.
 
 
-**** *creator_donneaudevise *book_donneaudevise_zelinde *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_zelinde *dist2_donneaudevise_prose_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_argimont
+**** *creator_donneaudevise *book_donneaudevise_zelinde *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_zelinde *dist2_donneaudevise_prose_comedy *id_ARGIMONT *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_argimont
 
 Si vous voulez avoir un beau Point d'Alençon, je vous en vais montrer un que l'on prendra pour un Point de Venise, tenez.
 
@@ -293,7 +293,7 @@ Quand j'aurais vendu, aujourd'hui pour dix mille écus de dentelles, le gain que
 Il m'en est arrivé ce matin d'admirables, qui sont là bas.
 
 
-**** *creator_donneaudevise *book_donneaudevise_zelinde *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_zelinde *dist2_donneaudevise_prose_comedy *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_zelinde
+**** *creator_donneaudevise *book_donneaudevise_zelinde *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_zelinde *dist2_donneaudevise_prose_comedy *id_ZELINDE *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_zelinde
 
 Ne bougez, mon enfant, je trouverai bien la chambre ; mais je pense que m'y voici.
 
@@ -393,7 +393,7 @@ Monsieur, montrez-moi, s'il vous plaît, un point de Venise.
 Je les verrai en passant.
 
 
-**** *creator_donneaudevise *book_donneaudevise_zelinde *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_zelinde *dist2_donneaudevise_prose_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aristide
+**** *creator_donneaudevise *book_donneaudevise_zelinde *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_zelinde *dist2_donneaudevise_prose_comedy *id_ARISTIDE *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aristide
 
 Si je pouvais trouver un mot qui eût assez de force pour exprimer seul... Mais il est impossible. Il faut que... Il se trouve tout contre Oriane. Ah ! Madame, excusez, je... Si... Je ne vous voyais pas.
 
@@ -472,7 +472,7 @@ Je crois que tout ce que l'on ferait contre lui, ne servirait qu'à augmenter sa
 Je vais descendre avec vous et comme j'ai envie d'en avoir un, vous me direz s'ils sont beaux.
 
 
-**** *creator_donneaudevise *book_donneaudevise_zelinde *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_zelinde *dist2_donneaudevise_prose_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleronte
+**** *creator_donneaudevise *book_donneaudevise_zelinde *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_zelinde *dist2_donneaudevise_prose_comedy *id_CLERONTE *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleronte
 
 Si vous avez quelques dentelles à la mode...
 
@@ -483,7 +483,7 @@ Je ne vois rien pourtant...
 Il faut donc, enfin, devenir semblables aux porteurs de blés, puisque la mode le veut : et suivre aveuglément ses caprices, sans examiner, si des pieds, elle passe à la tête. Ô temps ridicule ! Où l'on juge de l'homme par le soulier ; où l'on l'estime par le chapeau ; et où l'on l'honore par l'habit. L'homme n'est plus que l'image de la mode, et bien qu'elle ne tâche qu'à le ruiner, il ne laisse pas de suivre ses lois avec plaisir. Au commencement d'un hiver, ou d'un été, l'on n'ose faire faire des habits ; pour ce que l'on ne sait pas encore ce qui sera à la mode : quand on le sait, il faut encore attendre, à cause qu'il y a des modes qui meurent en naissant. La mode va jusqu'aux comédies, et de même que l'on ne trouverait pas un rabat bien fait, s'il n'était de la bonne faiseuse, l'on n'approuverait pas présentement une comédie, si elle n'était d'Élomire. La mode nous oblige à dire du bien de tout ce qui vient de lui, aussi bien qu'à porter des chapeaux ronds. Je connais des vieillards de quatre-vingt-dix ans qui en portent, et des gens qui n'ont jamais su ce que c'est qu'une comédie, qui disent du bien de celles d'Élomire, pour ce qu'elles sont à la mode. Il faut cependant faire comme les autres, si l'on ne veut passer pour ridicule ; mais ce qui me console, est que l'on dit, que les fous inventent les modes, et que les sages les suivent. Il faut prendre celle du Chapeau rond ; puisqu'elle est déjà dans son plein. Je sais bien que c'est tout ce que je pourrai faire, que d'en user un, avant que la mode s'en passe ; puisque les gens de qualité ont coutume de quitter les modes, qu'ils ont inventées, dès qu'ils voient qu'elles sont trop communes. Mais je ne songe pas que je suis ici trop longtemps, et que la pointe de mon Chapeau, vous pourrait faire mal aux yeux, si j'y demeurais davantage ; c'est pourquoi je m'en vais de ce pas en acheter un rond.
 
 
-**** *creator_donneaudevise *book_donneaudevise_zelinde *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_zelinde *dist2_donneaudevise_prose_comedy *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucie
+**** *creator_donneaudevise *book_donneaudevise_zelinde *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_zelinde *dist2_donneaudevise_prose_comedy *id_LUCIE *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucie
 
 Vous ne pouvez mieux faire.
 

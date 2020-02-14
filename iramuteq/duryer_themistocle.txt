@@ -1,6 +1,6 @@
 
 
-**** *creator_duryer *book_duryer_themistocle *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_themistocle *dist2_duryer_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
+**** *creator_duryer *book_duryer_themistocle *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_themistocle *dist2_duryer_verse_tragedy *id_LEROI *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
 
 Ne crois pas que mon âme ouverte à la fureur
 Te considère ici comme un objet d'horreur,
@@ -246,7 +246,7 @@ Et qu'un Roi sait régner et se rend bienheureux
 Quand il sait honorer les hommes généreux.
 
 
-**** *creator_duryer *book_duryer_themistocle *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_themistocle *dist2_duryer_verse_tragedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mandane
+**** *creator_duryer *book_duryer_themistocle *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_themistocle *dist2_duryer_verse_tragedy *id_MANDANE *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mandane
 
       Roxane il faut t'apprendre
 Un secret que je cache et qui doit te surprendre,
@@ -673,7 +673,7 @@ Et tous ses sentiments vont où vous les portez.
       Ainsi je suis contente.
 
 
-**** *creator_duryer *book_duryer_themistocle *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_themistocle *dist2_duryer_verse_tragedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_palmis
+**** *creator_duryer *book_duryer_themistocle *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_themistocle *dist2_duryer_verse_tragedy *id_PALMIS *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_palmis
 
       Ce Grec est-il jugé ?
 L'a-t-on perdu, Roxane, ou bien l'a-t-on vengé ?
@@ -883,7 +883,7 @@ Mais ta vertu demande, et qu'on l'aime, et qu'on t'aime.
 Est le plus haut degré de mes félicités.
 
 
-**** *creator_duryer *book_duryer_themistocle *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_themistocle *dist2_duryer_verse_tragedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_roxane
+**** *creator_duryer *book_duryer_themistocle *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_themistocle *dist2_duryer_verse_tragedy *id_ROXANE *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_roxane
 
 Si tu savais ses maux comme tu sais sa gloire,
 Tu verrais les Persans vengés de sa victoire.
@@ -1320,7 +1320,7 @@ C'est forcer ton destin de t'être rigoureux
 Quand ce même destin te force d'être heureux.
 
 
-**** *creator_duryer *book_duryer_themistocle *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_themistocle *dist2_duryer_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_themistocle
+**** *creator_duryer *book_duryer_themistocle *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_themistocle *dist2_duryer_verse_tragedy *id_THEMISTOCLE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_themistocle
 
 Ils sont mes ennemis ! Et leur inimitié
 Se couvrent lâchement d'un voile de pitié !
@@ -1881,7 +1881,7 @@ Déjà je suis à vous par vos premiers bienfaits,
 Et ce dernier honneur me ravit à moi-même.
 
 
-**** *creator_duryer *book_duryer_themistocle *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_themistocle *dist2_duryer_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artabaze
+**** *creator_duryer *book_duryer_themistocle *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_themistocle *dist2_duryer_verse_tragedy *id_ARTABAZE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artabaze
 
 Ha que c'est à propos que je te trouve ici.
 
@@ -2379,7 +2379,7 @@ Ne fuis pas de ton bien quand tu le vois paraître.
 Ainsi toujours le ciel remplisse votre attente.
 
 
-**** *creator_duryer *book_duryer_themistocle *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_themistocle *dist2_duryer_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pharnaspe
+**** *creator_duryer *book_duryer_themistocle *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_themistocle *dist2_duryer_verse_tragedy *id_PHARNASPE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pharnaspe
 
 C'est outrager sans doute une grande Princesse
 Que de la soupçonner d'une telle bassesse.
@@ -2411,7 +2411,7 @@ Si vous avez besoin d'un courage fidèle,
 Seigneur, vous connaissez et mon bras et mon zèle.
 
 
-**** *creator_duryer *book_duryer_themistocle *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_themistocle *dist2_duryer_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hydaspe
+**** *creator_duryer *book_duryer_themistocle *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_themistocle *dist2_duryer_verse_tragedy *id_HYDASPE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hydaspe
 
 Qui ne s'étonnerait après tant de traverse
 De voir chez les Persans l'ennemi de la Perse ?

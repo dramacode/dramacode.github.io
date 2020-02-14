@@ -1,6 +1,6 @@
 
 
-**** *creator_nadal *book_nadal_osarphismoise *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_osarphismoise *dist2_nadal_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amenophis
+**** *creator_nadal *book_nadal_osarphismoise *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_osarphismoise *dist2_nadal_verse_tragedy *id_AMENOPHIS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amenophis
 
 Je te cherchais, Phanés. Oui, c'est dans ce grand jour
 Que tu dois me montrer ton zèle et ton amour.
@@ -190,7 +190,7 @@ Allez, si toutefois tremblants de leur côté
 Les Dieux qui l'habitaient ne l'ont point déserté.
 
 
-**** *creator_nadal *book_nadal_osarphismoise *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_osarphismoise *dist2_nadal_verse_tragedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jocabel
+**** *creator_nadal *book_nadal_osarphismoise *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_osarphismoise *dist2_nadal_verse_tragedy *id_JOCABEL *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jocabel
 
 D'un Dieu qui nous éprouve et ne fait rien en vain,
 Dites plutôt, Seigneur, qu'il respecte la main.
@@ -555,7 +555,7 @@ Esclaves dans l'Égypte, et toutefois nos frères.
 Ô Ciel !
 
 
-**** *creator_nadal *book_nadal_osarphismoise *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_osarphismoise *dist2_nadal_verse_tragedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_tharbis
+**** *creator_nadal *book_nadal_osarphismoise *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_osarphismoise *dist2_nadal_verse_tragedy *id_THARBIS *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_tharbis
 
 C'est ici le Palais où je fus amenée,
 Où dans le doux espoir d'un auguste Hyménée,
@@ -791,7 +791,7 @@ En tire moins d'éclat que toi de ta vertu.
       Grands Dieux !
 
 
-**** *creator_nadal *book_nadal_osarphismoise *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_osarphismoise *dist2_nadal_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aaron
+**** *creator_nadal *book_nadal_osarphismoise *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_osarphismoise *dist2_nadal_verse_tragedy *id_AARON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aaron
 
 Ses drapeaux ont paru, Madame ; le Grand-Prêtre
 Se dispose à venir recevoir ses serments,
@@ -936,7 +936,7 @@ Il ne m'est plus permis de vous nommer mon frère,
 Entre le Ciel et nous, arbitre glorieux...
 
 
-**** *creator_nadal *book_nadal_osarphismoise *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_osarphismoise *dist2_nadal_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phanes
+**** *creator_nadal *book_nadal_osarphismoise *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_osarphismoise *dist2_nadal_verse_tragedy *id_PHANES *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phanes
 
 Je sais que par son père en ces lieux amenée
 Au lit d'Aménophis, Tharbis fut destinée.
@@ -1137,7 +1137,7 @@ Qu'attendez-vous, Seigneur ? Venez dans ces moments
 De l'Armée en vos mains recevoir les serments.
 
 
-**** *creator_nadal *book_nadal_osarphismoise *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_osarphismoise *dist2_nadal_verse_tragedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_asaph
+**** *creator_nadal *book_nadal_osarphismoise *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_osarphismoise *dist2_nadal_verse_tragedy *id_ASAPH *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_asaph
 
       Seigneur, le Grand-Prêtre s'avance,
 Devant lui d'Osiris marche l'auguste Loi.

@@ -1,6 +1,6 @@
 
 
-**** *creator_voltaire *book_voltaire_charlot *style_verse *genre_piece dramatique *dist1_voltaire_verse_piece dramatique_charlot *dist2_voltaire_verse_piece dramatique *date_1767 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+**** *creator_voltaire *book_voltaire_charlot *style_verse *genre_piece dramatique *dist1_voltaire_verse_piece dramatique_charlot *dist2_voltaire_verse_piece dramatique *id_LACOMTESSE *date_1767 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
 
       Eh ! qu'est-ce que je vois ?
 Je le cherche partout : que ses moeurs sont rustiques !
@@ -196,7 +196,7 @@ Ah, Julie ! entends-tu ?
 Adorons des Français le vainqueur et le père.
 
 
-**** *creator_voltaire *book_voltaire_charlot *style_verse *genre_piece dramatique *dist1_voltaire_verse_piece dramatique_charlot *dist2_voltaire_verse_piece dramatique *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+**** *creator_voltaire *book_voltaire_charlot *style_verse *genre_piece dramatique *dist1_voltaire_verse_piece dramatique_charlot *dist2_voltaire_verse_piece dramatique *id_LEMARQUIS *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
 
 Mon vieux faiseur de conte, il me faut de l'argent.
 Bonjour, belle Babet ; bonjour, ma vieille bonne...
@@ -316,7 +316,7 @@ Je n'aurais pas beau jeu : c'est une étrange affaire
 De combattre à la fois deux femmes en colère.
 
 
-**** *creator_voltaire *book_voltaire_charlot *style_verse *genre_piece dramatique *dist1_voltaire_verse_piece dramatique_charlot *dist2_voltaire_verse_piece dramatique *date_1767 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+**** *creator_voltaire *book_voltaire_charlot *style_verse *genre_piece dramatique *dist1_voltaire_verse_piece dramatique_charlot *dist2_voltaire_verse_piece dramatique *id_JULIE *date_1767 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
 
       Je vous suis... Je rougis ; ma toilette
 M'a trop longtemps tenue, et n'est pas encor faite.
@@ -575,7 +575,7 @@ Ferait donc la troisième.
 Madame, cette fois, voici le grand Henri.
 
 
-**** *creator_voltaire *book_voltaire_charlot *style_verse *genre_piece dramatique *dist1_voltaire_verse_piece dramatique_charlot *dist2_voltaire_verse_piece dramatique *date_1767 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameaubonne
+**** *creator_voltaire *book_voltaire_charlot *style_verse *genre_piece dramatique *dist1_voltaire_verse_piece dramatique_charlot *dist2_voltaire_verse_piece dramatique *id_MADAMEAUBONNE *date_1767 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameaubonne
 
 Il est vrai.
 
@@ -800,7 +800,7 @@ C'est un brave soldat que ce grand prince estime.
 Tout est prouvé.
 
 
-**** *creator_voltaire *book_voltaire_charlot *style_verse *genre_piece dramatique *dist1_voltaire_verse_piece dramatique_charlot *dist2_voltaire_verse_piece dramatique *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_charlot
+**** *creator_voltaire *book_voltaire_charlot *style_verse *genre_piece dramatique *dist1_voltaire_verse_piece dramatique_charlot *dist2_voltaire_verse_piece dramatique *id_CHARLOT *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_charlot
 
       Elle pleure toujours ;
 Et j'implore pour moi votre puissant secours,
@@ -916,7 +916,7 @@ Ils ne sont pas pour moi... la source en est plus belle...
 Adieu... Conduisez-moi.
 
 
-**** *creator_voltaire *book_voltaire_charlot *style_verse *genre_piece dramatique *dist1_voltaire_verse_piece dramatique_charlot *dist2_voltaire_verse_piece dramatique *date_1767 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_babet
+**** *creator_voltaire *book_voltaire_charlot *style_verse *genre_piece dramatique *dist1_voltaire_verse_piece dramatique_charlot *dist2_voltaire_verse_piece dramatique *id_BABET *date_1767 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_babet
 
       Que ce jour sera beau,
 Madame Aubonne ! ici nous le verrons paraître,
@@ -1035,7 +1035,7 @@ Chacun vous aidera ; tout le château vous prie.
 Les morts ont toujours tort, et Charlot est en vie.
 
 
-**** *creator_voltaire *book_voltaire_charlot *style_verse *genre_piece dramatique *dist1_voltaire_verse_piece dramatique_charlot *dist2_voltaire_verse_piece dramatique *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillot
+**** *creator_voltaire *book_voltaire_charlot *style_verse *genre_piece dramatique *dist1_voltaire_verse_piece dramatique_charlot *dist2_voltaire_verse_piece dramatique *id_GUILLOT *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillot
 
 Ah ! le méchant marquis ! comme il est malhonnête !
 

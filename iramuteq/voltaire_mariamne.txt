@@ -1,6 +1,6 @@
 
 
-**** *creator_voltaire *book_voltaire_mariamne *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_mariamne *dist2_voltaire_verse_tragedy *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_herode
+**** *creator_voltaire *book_voltaire_mariamne *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_mariamne *dist2_voltaire_verse_tragedy *id_HERODE *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_herode
 
 Eh quoi ! Sohême aussi semble éviter ma vue ! 
 Quelle horreur devant moi s'est partout répandue ! 
@@ -405,7 +405,7 @@ Armez-vous contre moi, sujets qui la perdez ; 
 Tonnez, écrasez-moi, cieux qui la possédez !
 
 
-**** *creator_voltaire *book_voltaire_mariamne *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_mariamne *dist2_voltaire_verse_tragedy *date_1724 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mariamne
+**** *creator_voltaire *book_voltaire_mariamne *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_mariamne *dist2_voltaire_verse_tragedy *id_MARIAMNE *date_1724 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mariamne
 
 Je ne prétends de vous ni n'attends ce service : 
 Je vous connais, madame, et je vous rends justice ; 
@@ -709,7 +709,7 @@ Je suis perdue, hélas ! c'est Hérode lui-même. 
 Pour la dernière fois, seigneur, ne souffrez pas... 
 
 
-**** *creator_voltaire *book_voltaire_mariamne *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_mariamne *dist2_voltaire_verse_tragedy *date_1724 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_salome
+**** *creator_voltaire *book_voltaire_mariamne *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_mariamne *dist2_voltaire_verse_tragedy *id_SALOME *date_1724 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_salome
 
 Mazaël, il est vrai qu'Hérode va paraître ; 
 Et ces peuples et moi nous aurons tous un maître. 
@@ -976,7 +976,7 @@ Le nom de Mariamne excite leur furie ; 
 De vos mains, de ces lieux, ils viennent l'arracher. 
 
 
-**** *creator_voltaire *book_voltaire_mariamne *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_mariamne *dist2_voltaire_verse_tragedy *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_soheme
+**** *creator_voltaire *book_voltaire_mariamne *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_mariamne *dist2_voltaire_verse_tragedy *id_SOHEME *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_soheme
 
 Il faut donc m'expliquer, il faut donc vous apprendre 
 Ce que votre fierté ne craindra point d'entendre. 
@@ -1235,7 +1235,7 @@ Et je cours réparer, en cherchant votre époux, 
 Ce temps que j'ai perdu sans combattre pour vous. 
 
 
-**** *creator_voltaire *book_voltaire_mariamne *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_mariamne *dist2_voltaire_verse_tragedy *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mazael
+**** *creator_voltaire *book_voltaire_mariamne *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_mariamne *dist2_voltaire_verse_tragedy *id_MAZAEL *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mazael
 
 Oui, cette autorité qu'Hérode vous confie, 
 Jusques à son retour est du moins affermie. 
@@ -1424,7 +1424,7 @@ Saisissez, achevez une vengeance aisée. 
 Seigneur, vos ennemis sont déjà sous vos yeux. 
 
 
-**** *creator_voltaire *book_voltaire_mariamne *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_mariamne *dist2_voltaire_verse_tragedy *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_idamas
+**** *creator_voltaire *book_voltaire_mariamne *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_mariamne *dist2_voltaire_verse_tragedy *id_IDAMAS *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_idamas
 
 Veuille le juste ciel, formidable au parjure, 
 Écarter loin de lui l'erreur et l'imposture ! 
@@ -1498,7 +1498,7 @@ Oui, seigneur. 
 Votre vengeance, hélas ! sera trop bien servie. 
 
 
-**** *creator_voltaire *book_voltaire_mariamne *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_mariamne *dist2_voltaire_verse_tragedy *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_narbas
+**** *creator_voltaire *book_voltaire_mariamne *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_mariamne *dist2_voltaire_verse_tragedy *id_NARBAS *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_narbas
 
 Cet effroi généreux n'a rien que je n'admire ; 
 Tout injuste qu'il est, la vertu vous l'inspire. 
@@ -1665,7 +1665,7 @@ Avez-vous pu, seigneur, oublier son trépas ? 
 Il ne se connaît plus. 
 
 
-**** *creator_voltaire *book_voltaire_mariamne *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_mariamne *dist2_voltaire_verse_tragedy *date_1724 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elise
+**** *creator_voltaire *book_voltaire_mariamne *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_mariamne *dist2_voltaire_verse_tragedy *id_ELISE *date_1724 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elise
 
 La mère de la reine, en proie à ses douleurs, 
 Vous conjure, Sohême, au nom de tant de pleurs, 

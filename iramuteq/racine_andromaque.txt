@@ -1,6 +1,6 @@
 
 
-**** *creator_racine *book_racine_andromaque *style_verse *genre_tragedy *dist1_racine_verse_tragedy_andromaque *dist2_racine_verse_tragedy *date_1667 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_andromaque
+**** *creator_racine *book_racine_andromaque *style_verse *genre_tragedy *dist1_racine_verse_tragedy_andromaque *dist2_racine_verse_tragedy *id_andromaque *date_1667 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_andromaque
 
 Je passais jusqu'aux lieux, où l'on garde mon Fils.
 Puisqu'une fois le jour vous souffrez que je voie
@@ -299,7 +299,7 @@ Et sans verser ton sang, ni causer tant d'alarmes,
 Il ne t'en eût coûté peut-être que des larmes.
 
 
-**** *creator_racine *book_racine_andromaque *style_verse *genre_tragedy *dist1_racine_verse_tragedy_andromaque *dist2_racine_verse_tragedy *date_1667 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pyrrhus
+**** *creator_racine *book_racine_andromaque *style_verse *genre_tragedy *dist1_racine_verse_tragedy_andromaque *dist2_racine_verse_tragedy *id_pyrrhus *date_1667 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pyrrhus
 
 La Grèce en ma faveur est trop inquiétée.
 De soins plus importants je l'ai crue agitée,
@@ -668,7 +668,7 @@ Rien ne vous engageait à m'aimer en effet.
 Andromaque m'attend. Phœnix, garde son Fils.
 
 
-**** *creator_racine *book_racine_andromaque *style_verse *genre_tragedy *dist1_racine_verse_tragedy_andromaque *dist2_racine_verse_tragedy *date_1667 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_oreste
+**** *creator_racine *book_racine_andromaque *style_verse *genre_tragedy *dist1_racine_verse_tragedy_andromaque *dist2_racine_verse_tragedy *id_oreste *date_1667 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_oreste
 
 Oui, puisque je retrouve un Ami si fidèle,
 Ma Fortune va prendre une face nouvelle ;
@@ -1164,7 +1164,7 @@ L'Ingrate mieux que vous saura me déchirer,
 Et je lui porte enfin mon coeur à dévorer.
 
 
-**** *creator_racine *book_racine_andromaque *style_verse *genre_tragedy *dist1_racine_verse_tragedy_andromaque *dist2_racine_verse_tragedy *date_1667 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_hermione
+**** *creator_racine *book_racine_andromaque *style_verse *genre_tragedy *dist1_racine_verse_tragedy_andromaque *dist2_racine_verse_tragedy *id_hermione *date_1667 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_hermione
 
 Je fais ce que tu veux. Je consens qu'il me voie.
 Je lui veux bien encore accorder cette joie ;
@@ -1638,7 +1638,7 @@ De nos derniers devoirs allons nous dégager.
 Montrons qui de nous deux saura mieux le venger.
 
 
-**** *creator_racine *book_racine_andromaque *style_verse *genre_tragedy *dist1_racine_verse_tragedy_andromaque *dist2_racine_verse_tragedy *date_1667 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_pylade
+**** *creator_racine *book_racine_andromaque *style_verse *genre_tragedy *dist1_racine_verse_tragedy_andromaque *dist2_racine_verse_tragedy *id_pylade *date_1667 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_pylade
 
 J'en rends grâces au Ciel, qui m'arrêtant sans cesse,
 Semblait m'avoir fermé le chemin de la Grèce,
@@ -1792,7 +1792,7 @@ Sauvons-le. Nos efforts deviendraient impuissants,
 S'il reprenait ici sa rage avec ses sens.
 
 
-**** *creator_racine *book_racine_andromaque *style_verse *genre_tragedy *dist1_racine_verse_tragedy_andromaque *dist2_racine_verse_tragedy *date_1667 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cleone
+**** *creator_racine *book_racine_andromaque *style_verse *genre_tragedy *dist1_racine_verse_tragedy_andromaque *dist2_racine_verse_tragedy *id_cleone *date_1667 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cleone
 
 Et qu'est-ce que sa vue a pour vous de funeste ?
 Madame, n'est-ce pas toujours le même Oreste,
@@ -1900,7 +1900,7 @@ Enfin il est entré, sans savoir dans son coeur,
 S'il en devait sortir Coupable, ou Spectateur.
 
 
-**** *creator_racine *book_racine_andromaque *style_verse *genre_tragedy *dist1_racine_verse_tragedy_andromaque *dist2_racine_verse_tragedy *date_1667 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cephise
+**** *creator_racine *book_racine_andromaque *style_verse *genre_tragedy *dist1_racine_verse_tragedy_andromaque *dist2_racine_verse_tragedy *id_cephise *date_1667 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cephise
 
 Je croirais ses conseils, et je verrais Pyrrhus.
 Un regard confondrait Hermione et la Grèce...
@@ -1969,7 +1969,7 @@ Ah ! ne prétendez pas que je puisse survivre.
 Hélas !
 
 
-**** *creator_racine *book_racine_andromaque *style_verse *genre_tragedy *dist1_racine_verse_tragedy_andromaque *dist2_racine_verse_tragedy *date_1667 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_phoenix
+**** *creator_racine *book_racine_andromaque *style_verse *genre_tragedy *dist1_racine_verse_tragedy_andromaque *dist2_racine_verse_tragedy *id_phoenix *date_1667 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_phoenix
 
 Ainsi vous l'envoyez aux pieds de sa Maîtresse ?
 

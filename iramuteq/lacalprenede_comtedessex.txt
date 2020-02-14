@@ -1,6 +1,6 @@
 
 
-**** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elisabeth
+**** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *id_ELISABETH *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elisabeth
 
 Donc après tant de biens ton âme déloyale
 Abuse lâchement d'une bonté Royale,
@@ -593,7 +593,7 @@ Je perds le sentiment, et mon coeur s'affaiblit,
 Pour la dernière fois mène-moi sur mon lit.
 
 
-**** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_essex
+**** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *id_ESSEX *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_essex
 
 Quelque confusion où ce discours plonge
 N'en donnez point la cause au remords qui me ronge
@@ -1103,7 +1103,7 @@ Et que jusqu'au tombeau je suis son serviteur,
 Prendrez-vous cette peine ?
 
 
-**** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_soubtantonne
+**** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *id_SOUBTANTONNE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_soubtantonne
 
 Je ne vous flatte point, sa menace m'étonne.
 
@@ -1319,7 +1319,7 @@ Mais si le Comte meurt soyez tous assurés.
       Bien, bien, vous le saurez.
 
 
-**** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cecile
+**** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *id_CECILE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cecile
 
 Dans un crime si grand, et de telle importance
 Il faut que la justice emporte la clémence,
@@ -1433,7 +1433,7 @@ Consolez-vous, Madame, et recevez la Reine,
 Elle entre dans la Chambre et vous vient visiter.
 
 
-**** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_raleig
+**** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *id_RALEIG *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_raleig
 
 Je suis homme d'honneur.
 
@@ -1477,7 +1477,7 @@ Mais de vous affliger à la fin de vos jours,
 Semblerait inhumain et de mauvaise grâce.
 
 
-**** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamececile
+**** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *id_MADAMECECILE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamececile
 
 Madame, se peut-il.
 
@@ -1731,7 +1731,7 @@ Où je me garantis de ses justes reproches,
 Par cette douce mort dont je sens les approches.
 
 
-**** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alix
+**** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *id_ALIX *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alix
 
       Ah Madame.
 
@@ -1809,7 +1809,7 @@ Juste Ciel ! Apaisez ces mortelles douleurs.
 Souvenez-vous Madame.
 
 
-**** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonore
+**** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *id_LEONORE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonore
 
 Le Comte est mort, Madame.
 
@@ -1842,7 +1842,7 @@ Elle m'a témoigné que son dernier désir,
 N'était que de vous voir, faites-lui ce plaisir.
 
 
-**** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_capitaine
+**** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *id_CAPITAINE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_capitaine
 
       Que vous plaît-il Madame ?
 

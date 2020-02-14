@@ -1,6 +1,6 @@
 
 
-**** *creator_lamotte *book_lamotte_machabees *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_machabees *dist2_lamotte_verse_tragedy *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antiochus
+**** *creator_lamotte *book_lamotte_machabees *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_machabees *dist2_lamotte_verse_tragedy *id_ANTIOCHUS *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antiochus
 
 Gardes, exécutez l'ordre que je vous donne.
 Et vous, Barsès, allez avertir Antigone :
@@ -314,7 +314,7 @@ Je ne suis point vengé, grands dieux ! Je suis vaincu.
 Je doute si c'est elle, ou Dieu qui m'a parlé.
 
 
-**** *creator_lamotte *book_lamotte_machabees *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_machabees *dist2_lamotte_verse_tragedy *date_1721 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_salmonee
+**** *creator_lamotte *book_lamotte_machabees *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_machabees *dist2_lamotte_verse_tragedy *id_SALMONEE *date_1721 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_salmonee
 
 Eh bien ! Nous périrons ; et Dieu nous vengera.
 
@@ -738,7 +738,7 @@ Mais, si de ton courroux je ne deviens la proie,
 Je mourrai, malgré toi, de l'excès de ma joie.
 
 
-**** *creator_lamotte *book_lamotte_machabees *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_machabees *dist2_lamotte_verse_tragedy *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thares
+**** *creator_lamotte *book_lamotte_machabees *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_machabees *dist2_lamotte_verse_tragedy *id_THARES *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thares
 
 De vos maux avec vous je ressens la rigueur.
 Mais il vous reste encor l'espérance au Seigneur.
@@ -773,7 +773,7 @@ Puisque la suite enfin peut être légitime ;
 Puisqu'elle était permise...
 
 
-**** *creator_lamotte *book_lamotte_machabees *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_machabees *dist2_lamotte_verse_tragedy *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_barses
+**** *creator_lamotte *book_lamotte_machabees *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_machabees *dist2_lamotte_verse_tragedy *id_BARSES *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_barses
 
 Suivez-moi, Misaël : le roi veut vous parler.
 
@@ -787,7 +787,7 @@ Commandez, je suis prêt, mon zèle et ma prudence
 Répondront dignement à votre confiance.
 
 
-**** *creator_lamotte *book_lamotte_machabees *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_machabees *dist2_lamotte_verse_tragedy *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_misael
+**** *creator_lamotte *book_lamotte_machabees *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_machabees *dist2_lamotte_verse_tragedy *id_MISAEL *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_misael
 
 Ah ! Ma mère, l'effroi glace encore mes sens.
 Sous les coups des bourreaux eux-mêmes frémissants,
@@ -1181,7 +1181,7 @@ Je ne décide rien, Madame : mais j'expire.
       Recevez mes adieux ; et j'y cours.
 
 
-**** *creator_lamotte *book_lamotte_machabees *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_machabees *dist2_lamotte_verse_tragedy *date_1721 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_antigone
+**** *creator_lamotte *book_lamotte_machabees *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_machabees *dist2_lamotte_verse_tragedy *id_ANTIGONE *date_1721 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_antigone
 
 Oui, je vois luire encore un reste d'espérance ;
 Le roi laisse à mes pleurs désarmer sa vengeance.
@@ -1556,7 +1556,7 @@ Cher époux, nous mourrons, du moins en nous aimant.
       Adieu, cher Misaël.
 
 
-**** *creator_lamotte *book_lamotte_machabees *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_machabees *dist2_lamotte_verse_tragedy *date_1721 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cephise
+**** *creator_lamotte *book_lamotte_machabees *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_machabees *dist2_lamotte_verse_tragedy *id_CEPHISE *date_1721 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cephise
 
 Qu'espérez-vous pour lui de ce retardement ?
 

@@ -1,6 +1,6 @@
 
 
-**** *creator_pradon *book_pradon_regulus *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_regulus *dist2_pradon_verse_tragedy *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_regulus
+**** *creator_pradon *book_pradon_regulus *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_regulus *dist2_pradon_verse_tragedy *id_regulus *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_regulus
 
                   Priscus quand Rome vous envoye
 Je dois vous recevoir comme un de ses enfans
@@ -441,7 +441,7 @@ Ou s'il les doit finir par quelque coup du sort,
 Qu'il prenne pour modelle & ma vie & ma mort.
 
 
-**** *creator_pradon *book_pradon_regulus *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_regulus *dist2_pradon_verse_tragedy *date_1688 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_metellus
+**** *creator_pradon *book_pradon_regulus *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_regulus *dist2_pradon_verse_tragedy *id_metellus *date_1688 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_metellus
 
 SEIGNEUR, je suis charmé de vous voir prés de nous,
 Regulus considere un Romain tel que vous,
@@ -813,7 +813,7 @@ Esperez cependant⁎, Priscus, moy, les Romains,
 Nous allons l'arracher aux cruels Africains.
 
 
-**** *creator_pradon *book_pradon_regulus *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_regulus *dist2_pradon_verse_tragedy *date_1688 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_fulvie
+**** *creator_pradon *book_pradon_regulus *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_regulus *dist2_pradon_verse_tragedy *id_fulvie *date_1688 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_fulvie
 
 PRISCUS est dans ce Camp, enfin Rome est instruite
 Du dessein de mon pere & de nostre conduite,
@@ -1195,7 +1195,7 @@ La mort de Regulus luy poura coûter cher,
 Qu'elle nous serve, au moins ! à tous deux de bucher ?
 
 
-**** *creator_pradon *book_pradon_regulus *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_regulus *dist2_pradon_verse_tragedy *date_1688 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_attilius
+**** *creator_pradon *book_pradon_regulus *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_regulus *dist2_pradon_verse_tragedy *id_attilius *date_1688 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_attilius
 
 Seigneur, où courez-vous ? quel dessein parricide⁎
 Vous fait fuir sans pitié, vous fait m'abandonner,
@@ -1233,7 +1233,7 @@ Et que mon pere enfin puisse voir aujourd'huy,
 Qu'il laisse à sa patrie un fils digne de luy.
 
 
-**** *creator_pradon *book_pradon_regulus *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_regulus *dist2_pradon_verse_tragedy *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_priscus
+**** *creator_pradon *book_pradon_regulus *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_regulus *dist2_pradon_verse_tragedy *id_priscus *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_priscus
  
 Oüy, Seigneur, le Senat qui m'envoye en ces lieux
 Croit que de Regulus le bras victorieux,
@@ -1451,7 +1451,7 @@ Craignant un desespoir.... Mais venez, qu'à vos yeux
 Nous vangions Regulus à la face des Dieux.
 
 
-**** *creator_pradon *book_pradon_regulus *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_regulus *dist2_pradon_verse_tragedy *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mannius
+**** *creator_pradon *book_pradon_regulus *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_regulus *dist2_pradon_verse_tragedy *id_mannius *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mannius
 
 Tout flate vos desseins, & tout vous favorise,
 Seigneur dans peu de temps Cartage sera prise,
@@ -1608,7 +1608,7 @@ Quoy ? Seigneur.
 Moy, Seigneur ? je pourois....
 
 
-**** *creator_pradon *book_pradon_regulus *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_regulus *dist2_pradon_verse_tragedy *date_1688 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lepide
+**** *creator_pradon *book_pradon_regulus *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_regulus *dist2_pradon_verse_tragedy *id_lepide *date_1688 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lepide
 
 Ah ! Madame, esperez que dans peu les Romains
 Reprendront Regulus des mains des Africains,
@@ -1678,7 +1678,7 @@ Hé bien ? Seigneur, allons, il faut vous satisfaire,
 Ah ! trop genereux fils d'un trop malheureux pere !
 
 
-**** *creator_pradon *book_pradon_regulus *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_regulus *dist2_pradon_verse_tragedy *date_1688 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_faustine
+**** *creator_pradon *book_pradon_regulus *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_regulus *dist2_pradon_verse_tragedy *id_faustine *date_1688 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_faustine
 
 Madame, il me souvient qu'une grande tempeste⁎
 Déroba la moitié d'une telle conqueste ;

@@ -1,6 +1,6 @@
 
 
-**** *creator_boyer *book_boyer_aristodeme *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_aristodeme *dist2_boyer_verse_tragedy *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aristodeme
+**** *creator_boyer *book_boyer_aristodeme *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_aristodeme *dist2_boyer_verse_tragedy *id_ARISTODEME *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aristodeme
 
 N'aggravez pas, Seigneur, les malheurs de Messène,
 Bien que le Ciel sur elle ait déployé sa haine,
@@ -170,7 +170,7 @@ La veux-tu voir périr ?
 Je vais la disposer à ce rare bonheur.
 
 
-**** *creator_boyer *book_boyer_aristodeme *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_aristodeme *dist2_boyer_verse_tragedy *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcidamas
+**** *creator_boyer *book_boyer_aristodeme *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_aristodeme *dist2_boyer_verse_tragedy *id_ALCIDAMAS *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcidamas
 
       Enfin, Roi magnanime,
 Les Dieux vont retirer Messène de ses fers,
@@ -618,7 +618,7 @@ Se plaint de ne pouvoir endurer mille morts.
 Je me meurs.
 
 
-**** *creator_boyer *book_boyer_aristodeme *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_aristodeme *dist2_boyer_verse_tragedy *date_1647 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_cresphonte
+**** *creator_boyer *book_boyer_aristodeme *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_aristodeme *dist2_boyer_verse_tragedy *id_CRESPHONTE *date_1647 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_cresphonte
 
 Apprenez, apprenez ce qu'a fait mon amour.
 J'étais auprès d'Androcle inconnu dans sa cour,
@@ -811,7 +811,7 @@ Et pour ne pas trahir un exemple si beau,
 Ensevelissons-nous dans le même tombeau.
 
 
-**** *creator_boyer *book_boyer_aristodeme *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_aristodeme *dist2_boyer_verse_tragedy *date_1647 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_argie
+**** *creator_boyer *book_boyer_aristodeme *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_aristodeme *dist2_boyer_verse_tragedy *id_ARGIE *date_1647 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_argie
 
 Épargne ma faiblesse, et tâche de suspendre
 Le noble sentiment d'une amitié si tendre.
@@ -1088,7 +1088,7 @@ Cette obstination me pique au dernier point.
 Va, ce n'est pas ainsi qu'un tel affront s'efface.
 
 
-**** *creator_boyer *book_boyer_aristodeme *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_aristodeme *dist2_boyer_verse_tragedy *date_1647 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_merope
+**** *creator_boyer *book_boyer_aristodeme *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_aristodeme *dist2_boyer_verse_tragedy *id_MEROPE *date_1647 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_merope
 
 Argie, à qui le Ciel m'unit si fortement,
 Enfin nous approchons de ce fatal moment,
@@ -1267,7 +1267,7 @@ Quel coup peut s'égaler à la perte du Roi ?
 Adieu.
 
 
-**** *creator_boyer *book_boyer_aristodeme *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_aristodeme *dist2_boyer_verse_tragedy *date_1647 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alcmene
+**** *creator_boyer *book_boyer_aristodeme *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_aristodeme *dist2_boyer_verse_tragedy *id_ALCMENE *date_1647 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alcmene
 
 Ignoriez-vous encor cet important mystère ?
 Tout le monde l'a su.

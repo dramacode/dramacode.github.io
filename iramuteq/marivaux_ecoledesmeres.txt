@@ -1,6 +1,6 @@
 
 
-**** *creator_marivaux *book_marivaux_ecoledesmeres *style_prose *genre_comedy *dist1_marivaux_prose_comedy_ecoledesmeres *dist2_marivaux_prose_comedy *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameargante
+**** *creator_marivaux *book_marivaux_ecoledesmeres *style_prose *genre_comedy *dist1_marivaux_prose_comedy_ecoledesmeres *dist2_marivaux_prose_comedy *id_MADAMEARGANTE *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameargante
 
 Où est ma fille, Lisette ?
 
@@ -107,7 +107,7 @@ Votre fils ?
 Allons, Monsieur, je suivrai vos conseils, et me conduirai comme il vous plaira.
 
 
-**** *creator_marivaux *book_marivaux_ecoledesmeres *style_prose *genre_comedy *dist1_marivaux_prose_comedy_ecoledesmeres *dist2_marivaux_prose_comedy *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+**** *creator_marivaux *book_marivaux_ecoledesmeres *style_prose *genre_comedy *dist1_marivaux_prose_comedy_ecoledesmeres *dist2_marivaux_prose_comedy *id_ANGELIQUE *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
 Que souhaitez-vous, ma mère ?
 
@@ -271,7 +271,7 @@ Ah ! Je suis perdue !
 Puis-je espérer d'obtenir grâce ?
 
 
-**** *creator_marivaux *book_marivaux_ecoledesmeres *style_prose *genre_comedy *dist1_marivaux_prose_comedy_ecoledesmeres *dist2_marivaux_prose_comedy *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_marivaux *book_marivaux_ecoledesmeres *style_prose *genre_comedy *dist1_marivaux_prose_comedy_ecoledesmeres *dist2_marivaux_prose_comedy *id_LISETTE *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Oui, vous voilà fort bien déguisé, et avec cet habit-là, vous disant mon cousin, je crois que vous pouvez paraître ici en toute sûreté ; il n'y a que votre air qui n'est pas trop d'accord avec la livrée.
 
@@ -402,7 +402,7 @@ Nous voici, Monsieur.
 En effet, rêvez-vous, Monsieur ?
 
 
-**** *creator_marivaux *book_marivaux_ecoledesmeres *style_prose *genre_comedy *dist1_marivaux_prose_comedy_ecoledesmeres *dist2_marivaux_prose_comedy *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+**** *creator_marivaux *book_marivaux_ecoledesmeres *style_prose *genre_comedy *dist1_marivaux_prose_comedy_ecoledesmeres *dist2_marivaux_prose_comedy *id_ERASTE *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
 
 Il n'y a rien à craindre ; je n'ai pas même, en entrant, fait mention de notre parenté. J'ai dit que je voulais te parler, et l'on m'a répondu que je te trouverais ici, sans m'en demander davantage.
 
@@ -471,7 +471,7 @@ Oui, ma joie, à ce que j'entends là, va jusqu'au transport ! Mais il s'agit de
 Que je vous ai d'obligation, mon père ! Nous pardonnerez-vous, Madame, tout ce qui vient de se passer ?
 
 
-**** *creator_marivaux *book_marivaux_ecoledesmeres *style_prose *genre_comedy *dist1_marivaux_prose_comedy_ecoledesmeres *dist2_marivaux_prose_comedy *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_frontin
+**** *creator_marivaux *book_marivaux_ecoledesmeres *style_prose *genre_comedy *dist1_marivaux_prose_comedy_ecoledesmeres *dist2_marivaux_prose_comedy *id_FRONTIN *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_frontin
 
 Ah ! Te voilà, Lisette. Avec qui es-tu donc là ?
 
@@ -565,7 +565,7 @@ La Ramée !
 Tenez, Monsieur, marchez et promenez-vous du mieux que vous pourrez en attendant.
 
 
-**** *creator_marivaux *book_marivaux_ecoledesmeres *style_prose *genre_comedy *dist1_marivaux_prose_comedy_ecoledesmeres *dist2_marivaux_prose_comedy *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_champagne
+**** *creator_marivaux *book_marivaux_ecoledesmeres *style_prose *genre_comedy *dist1_marivaux_prose_comedy_ecoledesmeres *dist2_marivaux_prose_comedy *id_CHAMPAGNE *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_champagne
 
 Bonsoir, la jolie fille, bonsoir, Messieurs ; je viens attendre ici mon maître qui m'envoie dire qu'il va venir ; et je suis charmé d'une rencontre...
 Mais comment appelez-vous Monsieur ?

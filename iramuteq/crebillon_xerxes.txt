@@ -1,6 +1,6 @@
 
 
-**** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_xerces
+**** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *id_XERCES *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_xerces
 
 Quel jour ! quel triste jour ! et que viens-je de faire ?
 Pourquoi t'ai-je écouté sur un choix téméraire ?
@@ -237,7 +237,7 @@ Artaban, c'est à toi que ton roi le confie,
 De son sort désormais je te laisse le soin.
 
 
-**** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_darius
+**** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *id_DARIUS *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_darius
 
 Enfin libre des soins que m'imposait la guerre,
 Je puis à vos genoux, monarque de la terre,
@@ -739,7 +739,7 @@ Seigneur, vous le pouvez ; rendez-moi le seul bien
 Qui puisse désarmer un coeur comme le mien.
 
 
-**** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artaxerce
+**** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *id_ARTAXERCE *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artaxerce
 
 Dût sur ce fils tremblant tomber votre courroux,
 Je ne puis résister à mon impatience ;
@@ -1033,7 +1033,7 @@ Afin qu'à mes bienfaits tout le reste réponde,
 Je te rends la moitié de l'empire du monde.
 
 
-**** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amestris
+**** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *id_AMESTRIS *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amestris
 
 Ah ! Seigneur, pardonnez au transport qui m'agite.
 En vain à mon amour la plainte est interdite ;
@@ -1392,7 +1392,7 @@ Et l'attends sans trembler, s'il est digne de vous.
 Vous mourir ! Ah ! Seigneur, c'est en vain qu'un barbare...
 
 
-**** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artaban
+**** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *id_ARTABAN *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artaban
 
 Et si de son malheur j'étais auteur moi-même ?
 Je suis prêt d'éclaircir tes doutes curieux,
@@ -1898,7 +1898,7 @@ Sur quoi prétendez-vous que l'on vous éclaircisse ?
 Pourriez-vous de ma part craindre quelque artifice ?
 
 
-**** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_barsine
+**** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *id_BARSINE *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_barsine
 
 Qu'un si rare bonheur, si j'osais vous en croire,
 Aurait de quoi flatter mes désirs et ma gloire !
@@ -2032,7 +2032,7 @@ Heureuse d'effacer, dans ces tristes moments,
 Ce qu'un père cruel t'a causé de tourments.
 
 
-**** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tysapherne
+**** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *id_TYSAPHERNE *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tysapherne
 
 C'en est donc fait, Seigneur, et l'heureux Artaxerce
 Va faire désormais le destin de la Perse,

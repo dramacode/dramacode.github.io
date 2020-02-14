@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phocas
+**** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *id_PHOCAS *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phocas
 
 Crispe, il n'est que trop vrai, la plus belle couronne
 N'a que de faux brillants dont l'éclat l'environne,
@@ -451,7 +451,7 @@ Et du moins, quelque erreur qui puisse me troubler,
 J'ai trouvé les moyens de te faire trembler.
 
 
-**** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_heraclius
+**** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *id_HERACLIUS *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_heraclius
 
 Seigneur…
 
@@ -980,7 +980,7 @@ Allons lui rendre hommage, et, d'un esprit content,
 Montrer Héraclius au peuple qui l'attend.
 
 
-**** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_martian
+**** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *id_MARTIAN *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_martian
 
 Ah, mon prince ! Ah, Madame ! Il vaut mieux vous résoudre,
 Par un heureux hymen, à dissiper ce foudre.
@@ -1336,7 +1336,7 @@ Un fils ne peut moins rendre à qui l'a mis au jour ;
 Ce n'est pas tout d'un coup qu'à ce titre on renonce.
 
 
-**** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pulcherie
+**** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *id_PULCHERIE *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pulcherie
 
 J'ai rendu jusqu'ici cette reconnaissance
 À ces soins tant vantés d'élever mon enfance,
@@ -1741,7 +1741,7 @@ J'en baise en soupirant le sacré caractère.
 Ah ! Vous êtes mon frère !
 
 
-**** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leontine
+**** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *id_LEONTINE *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leontine
 
 Voilà ce que j'ai craint de son âme enflammée.
 
@@ -1964,7 +1964,7 @@ Mais pardonnez, Seigneur, à mon zèle parfait,
 Ce que j'ai voulu faire, et ce qu'un autre a fait.
 
 
-**** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eudoxe
+**** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *id_EUDOXE *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eudoxe
 
 S'il m'eût caché son sort, il m'aurait mal aimée.
 
@@ -2064,7 +2064,7 @@ Seigneur, ne croyez rien de ce qu'il vous va dire.
 Seigneur, vous agissez en prince généreux.
 
 
-**** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispe
+**** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *id_CRISPE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispe
 
 Il nomme Héraclius celui qu'il ressuscite.
 
@@ -2107,7 +2107,7 @@ Lui seul et ses amis ont dompté vos mutins ;
 Il a fait prisonnier leurs chefs qu'il vous amène.
 
 
-**** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_exupere
+**** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *id_EXUPERE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_exupere
 
 Madame, Héraclius vient d'être découvert.
 
@@ -2282,7 +2282,7 @@ Seigneur, il me faut grâce ou de l'un ou de l'autre :
 J'ai répandu son sang, si j'ai vengé le vôtre.
 
 
-**** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amyntas
+**** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *id_AMYNTAS *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amyntas
 
 Quelque allégresse ici que vous fassiez paraître,
 Trouvez-vous doux les noms de perfide et de traître ?

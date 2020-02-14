@@ -1,6 +1,6 @@
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brute
+**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *id_brute *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brute
 
 Qu'un Estat est mal sain dans le siecle où nous sommes,
 Lors qu'il n'a pour soustien que le grand nombre d'hommes,
@@ -545,7 +545,7 @@ Approche, cher amy, qu'à ce coup je t'embrasse;
 Adieu, je nâquis libre, et libre je trespasse⁎.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_straton
+**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *id_straton *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_straton
 
 Brute, la liberté, l'honneur et la victoire
 Demeureront toujours dedans⁎ nostre memoire:
@@ -608,7 +608,7 @@ Ha ! je tombe, je meurs, mon œil est obscurcy,
 Mais je souffre trop peu; mort redouble ta rage.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cassie
+**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *id_cassie *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cassie
 
 Resolu qu'aujourd'huy la bataille se donne ?
 
@@ -753,7 +753,7 @@ Lors que dans le Senat il mourut par nos mains.
 Adieu, ne suy jamais le party du vainqueur.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_porcie
+**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *id_porcie *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_porcie
 
 Tu vas donc au combat ?
 
@@ -1105,7 +1105,7 @@ Non, fuyons le plustost, et perdons la clarté
 Puis que Rome a perdu Rome et la liberté.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octave
+**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *id_octave *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octave
 
 Tous ceux qui comme nous combatent pour la gloire,
 Se peuvent asseurer d'emporter la victoire,
@@ -1255,7 +1255,7 @@ Monstre à tout l'univers que Cæsar est vengé.
 FIN.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marcanthoine
+**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *id_marc-anthoine *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marcanthoine
 
 Puis que c'est aujourd'huy qu'un destin favorable,
 Nous promet de venger ce crime detestable,
@@ -1411,7 +1411,7 @@ Puis les ayans bruslez conservez-en la cendre,
 Parce qu'à leurs parens nous desirons la rendre.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_titine
+**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *id_titine *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_titine
 
 Les Dieux seront pour nous, s'ils sont pour la Justice,
 Leur bonté ne sçauroit favoriser le vice,
@@ -1534,7 +1534,7 @@ Ha, Brute !
 Celle d'un innocent que la parque⁎ va prendre.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pindare
+**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *id_pindare *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pindare
 
 J'approuve ce conseil.
 
@@ -1579,7 +1579,7 @@ Qu'il vive, mais vivant que ses cuisans remorts
 L'exposent tous les jours à de nouvelles morts.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_demetrie
+**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *id_demetrie *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_demetrie
 
       Et je l'estime aussi.
 
@@ -1629,7 +1629,7 @@ Pour dire à ces Seigneurs combien je suis heureux,
 Si le Destin permet que je meure pour eux.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *date_1637 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_compagne
+**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *id_compagne *date_1637 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_compagne
 
 Mais vous ne dites pas qu'il choque la raison,
 Madame, moderez cette boüillante rage,
@@ -1693,7 +1693,7 @@ Je mourray mille fois avant que je vous laisse.
 Bons Dieux assistez moy pour empescher sa mort.
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *date_1637 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_chef1brute
+**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *id_chef1-brute *date_1637 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_chef1brute
 
 Quand le ressentiment des libertez ravies
 Ne nous forceroit pas à prodiguer nos vies,
@@ -1707,7 +1707,7 @@ O malheur sans pareil ! Cassie est aussi mort.
       O dure loy du sort !
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *date_1637 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_soldat
+**** *creator_guerindebouscal *book_guerindebouscal_mortbrute *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_mortbrute *dist2_guerindebouscal_verse_tragedy *id_soldat *date_1637 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_soldat
 
 Le sensible regret où le sort me reduit
 D'estre contraint à dire un mal qu'il a produit,

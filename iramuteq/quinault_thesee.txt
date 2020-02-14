@@ -1,6 +1,6 @@
 
 
-**** *creator_quinault *book_quinault_thesee *style_verse *genre_show *dist1_quinault_verse_show_thesee *dist2_quinault_verse_show *date_1675 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
+**** *creator_quinault *book_quinault_thesee *style_verse *genre_show *dist1_quinault_verse_show_thesee *dist2_quinault_verse_show *id_VENUS *date_1675 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
 
 Revenez, amours, revenez ;
 Pourquoi quitter ces lieux où l'on est sans alarmes ?
@@ -37,7 +37,7 @@ Vénus répand sur lui tout ce qui peut charmer.
 Tout doit l'aimer.
 
 
-**** *creator_quinault *book_quinault_thesee *style_verse *genre_show *dist1_quinault_verse_show_thesee *dist2_quinault_verse_show *date_1675 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mars
+**** *creator_quinault *book_quinault_thesee *style_verse *genre_show *dist1_quinault_verse_show_thesee *dist2_quinault_verse_show *id_MARS *date_1675 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mars
 
 Que rien ne trouble ici Vénus et les amours.
 Que sous d'aimables lois, dans ces douces retraites,
@@ -70,7 +70,7 @@ Un si grand héros à s'armer.
 Tout doit le craindre.
 
 
-**** *creator_quinault *book_quinault_thesee *style_verse *genre_show *dist1_quinault_verse_show_thesee *dist2_quinault_verse_show *date_1675 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aegle
+**** *creator_quinault *book_quinault_thesee *style_verse *genre_show *dist1_quinault_verse_show_thesee *dist2_quinault_verse_show *id_AEGLE *date_1675 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aegle
 
 Quel que soit mon destin, il faut ici l'attendre,
 Minerve, c'est à vous que je viens recourir.
@@ -267,7 +267,7 @@ C'est par mon seul trépas qu'il faut nous désunir.
 Conservez ce héros, sauvez-le pour vous-même.
 
 
-**** *creator_quinault *book_quinault_thesee *style_verse *genre_show *dist1_quinault_verse_show_thesee *dist2_quinault_verse_show *date_1675 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleone
+**** *creator_quinault *book_quinault_thesee *style_verse *genre_show *dist1_quinault_verse_show_thesee *dist2_quinault_verse_show *id_CLEONE *date_1675 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleone
 
 Pardonnez à la peur qui me force à me taire.
 Mes yeux troublés d'effroi n'ont rien considéré :
@@ -339,7 +339,7 @@ Viens me défendre Arcas.
 Où pourrait-il voir plus d'attraits ?
 
 
-**** *creator_quinault *book_quinault_thesee *style_verse *genre_show *dist1_quinault_verse_show_thesee *dist2_quinault_verse_show *date_1675 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
+**** *creator_quinault *book_quinault_thesee *style_verse *genre_show *dist1_quinault_verse_show_thesee *dist2_quinault_verse_show *id_ARCAS *date_1675 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
 
 Le combat dure encor, il est sanglant, affreux,
 Et le succès en est douteux.
@@ -414,7 +414,7 @@ Ne l'abandonne pas.
 Ce n'est pas d'aujourd'hui que je te trouve belle.
 
 
-**** *creator_quinault *book_quinault_thesee *style_verse *genre_show *dist1_quinault_verse_show_thesee *dist2_quinault_verse_show *date_1675 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_medee
+**** *creator_quinault *book_quinault_thesee *style_verse *genre_show *dist1_quinault_verse_show_thesee *dist2_quinault_verse_show *id_MEDEE *date_1675 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_medee
 
 Doux repos, innocente paix,
 Heureux, heureux un cour qui ne vous perd jamais !
@@ -707,7 +707,7 @@ Je veux que les enfers détruisent mon ouvrage,
 C'est ainsi qu'en partant je vous fais mes adieux.
 
 
-**** *creator_quinault *book_quinault_thesee *style_verse *genre_show *dist1_quinault_verse_show_thesee *dist2_quinault_verse_show *date_1675 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorine
+**** *creator_quinault *book_quinault_thesee *style_verse *genre_show *dist1_quinault_verse_show_thesee *dist2_quinault_verse_show *id_DORINE *date_1675 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorine
 
 Recommencez d'aimer, reprenez l'espérance ;
 Thésée est un héros charmant,
@@ -790,7 +790,7 @@ Le roi le doit choisir ici pour successeur ;
 Votre soin pour lui se déclare.
 
 
-**** *creator_quinault *book_quinault_thesee *style_verse *genre_show *dist1_quinault_verse_show_thesee *dist2_quinault_verse_show *date_1675 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thesee
+**** *creator_quinault *book_quinault_thesee *style_verse *genre_show *dist1_quinault_verse_show_thesee *dist2_quinault_verse_show *id_THESEE *date_1675 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thesee
 
 C'est assez, amis, c'est assez,
 Allez, et que chacun en bon ordre se rende

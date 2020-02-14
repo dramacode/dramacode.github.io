@@ -1,6 +1,6 @@
 
 
-**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pourceaugnac
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_pourceaugnac *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pourceaugnac
 
 Hé bien, quoi ? qu'est-ce ? qu'y a-t-il ? Au diantre soit la sotte Ville, et les sottes Gens qui y sont : ne pouvoir faire un pas sans trouver des Nigauds qui vous regardent, et se mettent à rire ! Eh, Messieurs les Badauds, faites vos affaires, et laissez passer les Personnes sans leur rire au nez. Je me donne au Diable, si je ne baille un coup de poing au premier que je verrai rire.
 
@@ -378,7 +378,7 @@ Ah !
 Adieu. Voilà le seul honnête Homme que j'ai trouvé en cette Ville.
 
 
-**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_oronte *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
 
 Oui, je l'attends de Limoges, et il devrait être arrivé.
 
@@ -515,7 +515,7 @@ Ah que de bruit. Çà, votre main, vous dis-je. Ah, ah, ah.
 Je vous suis beaucoup obligé, et j'augmente de dix mille écus le Mariage de ma Fille. Allons, qu'on fasse venir le Notaire pour dresser le Contrat.
 
 
-**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_julie
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_julie *date_1669 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_julie
 
 Mon Dieu, Éraste, gardons d'être surpris ; je tremble qu'on ne nous voie ensemble ; et tout serait perdu, après la défense que l'on m'a faite.
 
@@ -572,7 +572,7 @@ Non, je n'en ferai rien.
 Je ne…
 
 
-**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_nerine *date_1669 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
 
 Reposez-vous sur moi, et dites hardiment ce que vous avez à vous dire.
 
@@ -617,7 +617,7 @@ Venez, Madelaine, me n'ainfain, venez-ves-en ichy faire honte à vo père de l'i
 Ne rougis-tu mie de dire ches mots-là, et d'estre insainsible aux cairesses de chette pauvre ainfain ? Tu ne te sauveras mie de mes pates ; et en dépit de tes dains ; je feray bien voir que je sis ta Femme, et je te feray pindre.
 
 
-**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lucette
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_lucette *date_1669 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lucette
 
 Ah ! tu es assy, et à la fy yeu te trobi aprés abé fait tant de passés. Podes-tu, scélérat, podes-tu sousteni ma bisto ?
 
@@ -656,7 +656,7 @@ Beny Françon, beny, Jeanet, beny, toustou, beny, toustoune, beny fayre beyre à
 Coussy, trayte, tu nou sios pas dins la darnière confusiu, de ressaupre à tal tous Enfants, et de ferma l'aureillo à la tendresso paternello ? Tu nou m'escaperas pas, infame, yeu te boly seguy per tout, et te reproucha ton crime jusquos à tant que me sio beniado, et que t'ayo fayt penia, couqui, te boli fayré penia.
 
 
-**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_eraste
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_eraste *date_1669 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_eraste
 
 Je regarde de tous côtés, et je n'aperçois rien.
 
@@ -822,7 +822,7 @@ Ne croyez pas que ce soit pour l'amour de vous que je vous donne la main ; ce n
 En attendant qu'il vienne, nous pouvons jouir du divertissement de la Saison, et faire entrer les Masques que le bruit des Noces de Monsieur de Pourceaugnac a attirés ici de tous les endroits de la Ville.
 
 
-**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_sbrigani
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_sbrigani *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_sbrigani
 
 Monsieur, votre Homme arrive, je l'ai vu à trois lieues d'ici, où a couché le Coche ; et dans la Cuisine où il est descendu pour déjeuner, je l'ai étudié une bonne grosse demie heure, et je le sais déjà par cœur. Pour sa figure, je ne veux point vous en parler, vous verrez de quel air la Nature l'a dessinée, et si l'ajustement qui l'accompagne y répond comme il faut : mais pour son Esprit, je vous avertis par avance qu'il est des plus épais qui se fassent ; que nous trouvons en lui une matière tout à fait disposée pour ce que nous voulons, et qu'il est Homme enfin à donner dans tous les panneaux qu'on lui présentera.
 
@@ -1087,7 +1087,7 @@ Ah ! Monsieur, ce perfide de Limosin, ce traître de Monsieur de Pourceaugnac v
 Oui ; elle en est devenue si folle, qu'elle vous quitte pour le suivre ; et l'on dit qu'il a un Caractère pour se faire aimer de toutes les Femmes.
 
 
-**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_medecin1
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_medecin1 *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_medecin1
 
 Le Malade est un sot, d'autant plus que dans la maladie dont il est attaqué, ce n'est pas la tête, selon Galien, mais la rate, qui lui doit faire mal.
 
@@ -1194,7 +1194,7 @@ Et si je ne le trouve, je m'en prendrai à vous, et je vous guérirai au lieu de
 Il n'importe, il me faut un Malade, et je prendrai qui je pourrai.
 
 
-**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_apothicaire
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_apothicaire *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_apothicaire
 
 Non, Monsieur, ce n'est pas moi qui suis le Médecin ; à moi n'appartient pas cet honneur, et je ne suis qu'Apothicaire, Apothicaire indigne, pour vous servir.
 
@@ -1225,7 +1225,7 @@ Prenez-le, Monsieur, prenez-le : il ne vous fera point de mal, il ne vous fera 
 C'est un petit Clystère, un petit Clystère, bénin, bénin ; il est bénin, bénin : là, prenez, prenez, prenez, Monsieur ; c'est pour déterger, pour déterger, déterger…
 
 
-**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_paysanne
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_paysanne *date_1669 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_paysanne
 
 Mon Père, Monsieur, est toujours malade de plus en plus.
 
@@ -1236,7 +1236,7 @@ Oui.
 Non, Monsieur.
 
 
-**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_suisse1
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_suisse1 *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_suisse1
 
 Allons, dépêchons, Camerade, li faut allair tous deux nous à la Crève pour regarter un peu chousticier sti Monsiu de Porcegnac qui l'a esté contané par Ortonnance à l'être pendu par son cou.
 
@@ -1269,7 +1269,7 @@ Toi l'avoir menty toi-même.
 Parti pon, toi ne l'afoir point.
 
 
-**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_suisse2
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_suisse2 *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_suisse2
 
 Ly sira, ma foi, un grand plaisir, d'y regarter pendre sti Limosin.
 
@@ -1286,7 +1286,7 @@ Laisse, toi, l'est moi qui le veut couchair avec elle.
 Parti pon aussi, toi ne l'afoir point encore.
 
 
-**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_exempt
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_exempt *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_exempt
 
 Qu'est-ce ? quelle violence est-ce là ? et que voulez-vous faire à Madame ? Allons, que l'on sorte de là, si vous ne voulez que je vous mette en prison.
 
@@ -1315,7 +1315,7 @@ Il faut donc que je m'enfuie avec lui, car il n'y aurait point ici de sûreté p
 Je vous promets de ne le point quitter, que je ne l'aie mis en lieu de sûreté.
 
 
-**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_feminin *age_sans-age *statut_exterieur *fonction_autres *role_egyptienne
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_egyptienne *date_1669 *sexe_feminin *age_sans-age *statut_exterieur *fonction_autres *role_egyptienne
 
 Sortez, sortez de ces lieux,
 Soucis, chagrins et tristesse,
@@ -1338,7 +1338,7 @@ Les sceptres qui font tant d'envie.
 Il n'est point, sans l'amour, de plaisir dans la vie.
 
 
-**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_egyptien
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_egyptien *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_egyptien
 
 Aimons jusques au trépas,
 La raison nous y convie :

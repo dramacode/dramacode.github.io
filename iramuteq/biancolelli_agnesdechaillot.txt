@@ -1,6 +1,6 @@
 
 
-**** *creator_biancolelli *book_biancolelli_agnesdechaillot *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_agnesdechaillot *dist2_biancolelli_verse_comedy *date_1723 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_labaillive
+**** *creator_biancolelli *book_biancolelli_agnesdechaillot *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_agnesdechaillot *dist2_biancolelli_verse_comedy *id_LABAILLIVE *date_1723 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_labaillive
 
 Pour me dire ces mots faut-il tant de mystère ?
 Moi qui fus de Gonnesse, autrefois boulangère,
@@ -80,7 +80,7 @@ Mais son galant paraît ; qui le conduit ici ?
 Quoiqu'il en soit, sachons ce que fait le Bailly.
 
 
-**** *creator_biancolelli *book_biancolelli_agnesdechaillot *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_agnesdechaillot *dist2_biancolelli_verse_comedy *date_1723 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_pierrot
+**** *creator_biancolelli *book_biancolelli_agnesdechaillot *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_agnesdechaillot *dist2_biancolelli_verse_comedy *id_PIERROT *date_1723 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_pierrot
 
       Je vous vois toute émue,
 Qu'avez-vous belle Agnès ?
@@ -245,7 +245,7 @@ Ah ! Que je fuis content ! Puisqu'Agnés n'est pas morte,
 Chantons, cabriolions, et de la bonne forte.
 
 
-**** *creator_biancolelli *book_biancolelli_agnesdechaillot *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_agnesdechaillot *dist2_biancolelli_verse_comedy *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agnes
+**** *creator_biancolelli *book_biancolelli_agnesdechaillot *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_agnesdechaillot *dist2_biancolelli_verse_comedy *id_AGNES *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agnes
 
 Moi, Madame ?
 

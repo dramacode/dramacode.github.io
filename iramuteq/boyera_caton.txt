@@ -1,6 +1,6 @@
 
 
-**** *creator_boyera *book_boyera_caton *style_prose *genre_tragedy *dist1_boyera_prose_tragedy_caton *dist2_boyera_prose_tragedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caton
+**** *creator_boyera *book_boyera_caton *style_prose *genre_tragedy *dist1_boyera_prose_tragedy_caton *dist2_boyera_prose_tragedy *id_CATON *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caton
 
 Pères conscrits, l'approche de César est la cause et le sujet de cette assemblée : Rome attend son sort de nos délibérations. Il s'agit de savoir de quelle manière nous devons nous comporter à l'égard de cet homme altier et ambitieux ! La fortune se déclare pour lui, et autorise ses forfaits : Pharsale l'a rendu maître de Rome ; l'Égypte a ensuite subi le joug, et le Nil reconnaît ses lois. Qu'est-il besoin de vous retracer l'image de la défaite de Juba et de la mort de Scipion ? Les sables brûlants de la Numidie fument encore de sang : il est temps de résoudre quelle conduite nous devons tenir. L'ennemi vient à vous à grands pas, et semble nous envier les stériles déserts de la Libye. Pères conscrits, expliquez vos sentiments : êtes-vous encore dans la résolution de vous défendre, jusqu'à la dernière extrémité ? Ou votre courage succombera-t-il enfin, et voulez-vous céder au temps, et à la mauvaise fortune. Sempronius, quel est votre avis ?
 
@@ -138,7 +138,7 @@ Portius, tu peux te reposer sur ma conduite ; et compter que ton père ne fera 
 Arrêtez. Portius, approche-toi de moi. Mes amis sont-ils embarqués ? Peut-on encore faire quelque chose pour leur service ? Que le peu de vie qui me reste, ne soit pas inutile. Ah ! Lucius, es-tu encore ici ? Tu as trop de générosité. Perpétuons, je t'en prie dans nos familles l'amitié qui est entre nous ; et rends Portius heureux en lui donnant ta fille Lucie. Hélas ! Il fond en larmes ! Marcie, ma fille. Ah ! Soutenez-moi. Marcie, Juba a de l'amour pour toi : lorsque la République était encore debout, un Sénateur de Rome eût dédaigné l'alliance d'un Roi ; mais les armes de César ont tout renversé, et tout confondu. Quiconque est brave et vertueux, est Romain. Ah ! Je pâme ! Qu'il me tarde de me voir délivré d'un monde plein de vanité, et le séjour du crime et du repentir. Mais il me semble qu'un rayon de lumière vient éclairer mon âme dans son essor. Hélas ! Je crains de m'être trop précipité. Dieux immortels, scrutateurs du coeur de l'homme, qui en développez les replis les plus cachés, et qui examinez ses pensées les plus secrètes, si j'ai commis un crime, ne me l'imputez pas ! Le plus sage des humains est sujet à faillir ; mais votre bonté est infinie ! Et ...Ah !
 
 
-**** *creator_boyera *book_boyera_caton *style_prose *genre_tragedy *dist1_boyera_prose_tragedy_caton *dist2_boyera_prose_tragedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucius
+**** *creator_boyera *book_boyera_caton *style_prose *genre_tragedy *dist1_boyera_prose_tragedy_caton *dist2_boyera_prose_tragedy *id_LUCIUS *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucius
 
 Caton sera bientôt en ces lieux, pour nous informer lui-même du sujet de cette Assemblée. Mais le voici qui vient : puissent les dieux tutélaires de Rome diriger ses conseils !
 
@@ -183,7 +183,7 @@ Hélas ! Rome n'est plus !
 Ah ! La plus grande Âme qui ait jamais animé un Romain, vient de s'envoler ! Ah ! Caton ! Ah ! Cher ami ! Ta dernière Volonté sera religieusement exécutée. Mais portons ce corps majestueux et respectable au camp de César, et étalons-le à sa vue, afin qu'il nous serve comme de bouclier contre la fureur du Vainqueur. Caton, quoique mort, protégera encore ses amis. La fin tragique de ce grand homme montre aux Nations, quels sont les terribles effets des divisions domestiques. C'est le démon de la discorde qui déchire les entrailles de notre patrie : c'est lui qui porte partout l'épouvante et l'effroi ; qui livre Rome en proie à Rome même ; qui enfante la fraude et la cruauté ; c'est lui, enfin, qui pour mettre le comble à ses fureurs, enlève Caton aux humains criminels, et indignes de sa présence.
 
 
-**** *creator_boyera *book_boyera_caton *style_prose *genre_tragedy *dist1_boyera_prose_tragedy_caton *dist2_boyera_prose_tragedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sempronius
+**** *creator_boyera *book_boyera_caton *style_prose *genre_tragedy *dist1_boyera_prose_tragedy_caton *dist2_boyera_prose_tragedy *id_SEMPRONIUS *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sempronius
 
 Le succès d'une conspiration dépend de la prompte exécution, et le retardement est toujours dangereux dans ces sortes d'entreprises. Mais que fait Portius en ces lieux ? Le flegme de ce jeune homme ne me revient pas. Il faut que je dissimule, et que ma langue trahisse mon coeur.
 Cher Portius, que je vous embrasse ! Encore une fois embrassons-nous, pendant que nous sommes libres. Peut-être que si nous remettions à demain à nous entredonner ces marques d'amitié, nous pourrions l'un et l'autre n'embrasser qu'un esclave. Peut-être que le soleil qui nous éclaire aujourd'hui, est le dernier qui éclairera la liberté romaine.
@@ -267,7 +267,7 @@ Lui-même. Mon épée t'expliquera le reste. En garde.
 Destin maudit ! Faut-il que je succombe sous les coups d'un enfant, déguisé en vil Numide ! Et pour une misérable femme ! Dieux ! Je suis confondu. Est-ce ainsi que je finis la vie ! Gronde, gronde tonnerre affreux, secoue par ton horrible fracas la terre, la mer, l'air, et le ciel, et fais trembler Caton même !
 
 
-**** *creator_boyera *book_boyera_caton *style_prose *genre_tragedy *dist1_boyera_prose_tragedy_caton *dist2_boyera_prose_tragedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_juba
+**** *creator_boyera *book_boyera_caton *style_prose *genre_tragedy *dist1_boyera_prose_tragedy_caton *dist2_boyera_prose_tragedy *id_JUBA *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_juba
 
 Syphax, je suis bien aise de te rencontrer seul : j'ai observé depuis peu que tu as le visage abattu, et l'air sombre et rêveur : dis-moi je t'en conjure, quels noirs chagrins te froncent le sourcil, et te donnent un regard effaré à la vue de ton prince ?
 
@@ -434,7 +434,7 @@ Lucius, la cavalerie que j'avais fait sortir pour battre l'estrade, et pour reco
 Voilà, César, le fruit de tes exploits ! Voilà à quoi se réduisent tes triomphes !
 
 
-**** *creator_boyera *book_boyera_caton *style_prose *genre_tragedy *dist1_boyera_prose_tragedy_caton *dist2_boyera_prose_tragedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_syphax
+**** *creator_boyera *book_boyera_caton *style_prose *genre_tragedy *dist1_boyera_prose_tragedy_caton *dist2_boyera_prose_tragedy *id_SYPHAX *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_syphax
 
 Sempronius, tout est prêt pour notre dessein : j'ai sondé mes Numides, et je les trouve tous disposés à la révolte. Ils se plaignent d'une commune voix de la sévère discipline de Caton, et n'attendent que le Mot pour changer de maître.
 
@@ -553,7 +553,7 @@ Voilà qui est digne de vous ! Mais, Sempronius, puisque vous êtes dans ce sen
 Tu prendras l'habit et les gardes de Juba, et les esclaves qui gardent les portes de cette belle, te les ouvriront d'abord que le prince de Numidie paraîtra approcher.
 
 
-**** *creator_boyera *book_boyera_caton *style_prose *genre_tragedy *dist1_boyera_prose_tragedy_caton *dist2_boyera_prose_tragedy *date_(inc *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_portius
+**** *creator_boyera *book_boyera_caton *style_prose *genre_tragedy *dist1_boyera_prose_tragedy_caton *dist2_boyera_prose_tragedy *id_PORTIUS *date_(inc *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_portius
 
 L'Aurore s'obscurcit et se couvrant d'affreux Nuages n'amène qu'avec peine le jour fatal, qui doit décider du sort de Caton et de Rome. Oui, Marcus la furieuse discorde semble maintenant n'avoir d'autre objet que de terrasser ce grand homme, pour assouvir sa rage et mettre le comble aux horreurs d'une guerre Civile. César a déjà désolé plus de la moitié de la Terre, et s'aperçoit des vastes ravages que son épée a faits parmi les mortels. S'il n'arrête son bras destructeur, il manquera bientôt d'Hommes pour former des armées, et pour soutenir ses crimes. Dieux ! Quelle horrible désolation l'ambition cause parmi vos ouvrages !
 
@@ -665,7 +665,7 @@ Comme j'allais à grands pas vers le port, où les amis de mon père, impatients
 Je l'ai relevé, et placé sur son siège, où blême, faible, et palpitant, il est prêt à rendre le dernier soupir ; mais comme, avant que son âme s'envole, il demande à voir ses amis, ses gens, pour obéir à ses ordres, le portent en ces lieux, fondant en larmes.
 
 
-**** *creator_boyera *book_boyera_caton *style_prose *genre_tragedy *dist1_boyera_prose_tragedy_caton *dist2_boyera_prose_tragedy *date_(inc *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_marcius
+**** *creator_boyera *book_boyera_caton *style_prose *genre_tragedy *dist1_boyera_prose_tragedy_caton *dist2_boyera_prose_tragedy *id_MARCIUS *date_(inc *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_marcius
 
 Cher Portius, doué d'une fermeté à toute épreuve, tu peux, d'un oeil tranquille, et dans un point de vue philosophique regarder le crime, la rébellion, la fraude, et césar lui-même. Pour moi, je souffre la torture, et je perds la raison, quand je songe à ce fier vainqueur. Toutes les fois que j'entends son nom ; il me remet devant les yeux l'image de Pharsale. Je vois le tyran altier se promener d'un air insultant sur le champ de bataille, jonché des corps morts des citoyens Romains, et rempli de meurtre et de carnage : je vois les pieds de son cheval fougueux teints de sang patricien. Hé quoi, Portius ! Le Ciel, juste vengeur des crimes, manque-t-il de foudres pour écraser le mortel qui doit sa grandeur à la ruine de sa patrie ?
 
@@ -716,7 +716,7 @@ Qu'ai-je dit, Portius ? Excuse, je t'en prie, mon emportement : un esprit acca
 Ah ! Qu'il me serait doux de mourir glorieusement les armes à la main ! Lucie ! Je suis la victime de tes mépris ; et dans les tourments que j'endure, je n'attends du soulagement que du trépas.
 
 
-**** *creator_boyera *book_boyera_caton *style_prose *genre_tragedy *dist1_boyera_prose_tragedy_caton *dist2_boyera_prose_tragedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_decius
+**** *creator_boyera *book_boyera_caton *style_prose *genre_tragedy *dist1_boyera_prose_tragedy_caton *dist2_boyera_prose_tragedy *id_DECIUS *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_decius
 
 César salue Caton.
 
@@ -741,7 +741,7 @@ Est-ce là la réponse que Caton envoie à César, pour tous les soins généreu
 Votre courage indompté vous fait oublier que vous êtes homme ; et vous fait courir à votre perte. Je n'ai plus rien à dire. Hélas ! Que de larmes le récit de cette triste ambassade va faire verser à Rome !
 
 
-**** *creator_boyera *book_boyera_caton *style_prose *genre_tragedy *dist1_boyera_prose_tragedy_caton *dist2_boyera_prose_tragedy *date_(inc *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_marcie
+**** *creator_boyera *book_boyera_caton *style_prose *genre_tragedy *dist1_boyera_prose_tragedy_caton *dist2_boyera_prose_tragedy *id_MARCIE *date_(inc *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_marcie
 
 Prince, je serais fâchée que ma présence divertit votre attention de ce qui la demande toute entière, et que vous puissiez songer à autre chose qu'aux armes, pendant que l'ennemi Victorieux, encore tout fumant de carnage, nous menace de si près, et vous appelle au champ de bataille.
 
@@ -824,7 +824,7 @@ Hélas ! Hélas ! Ce n'est point là la voix d'une personne qui dort ! Ce son
 Dieux ! Donnez-moi la force de soutenir la vue d'un objet plus terrible que la mort même ! Aidez-moi à rendre les derniers devoirs à un père !
 
 
-**** *creator_boyera *book_boyera_caton *style_prose *genre_tragedy *dist1_boyera_prose_tragedy_caton *dist2_boyera_prose_tragedy *date_(inc *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lucie
+**** *creator_boyera *book_boyera_caton *style_prose *genre_tragedy *dist1_boyera_prose_tragedy_caton *dist2_boyera_prose_tragedy *id_LUCIE *date_(inc *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lucie
 
 Ma chère Marcie, tu es trop sévère : comment as-tu pu faire des reproches si durs à ce généreux prince, et avec tant de rudesse rebuter un amant qui te chérit plus que sa propre vie ?
 
@@ -896,7 +896,7 @@ C'est de lui seul que dépend entièrement notre félicité : Marcie, nos chagr
 Le Destin, dis-je, a affranchi mon âme, et m'a dégagée de mon voeu. Mais qui sait les sentiments de Caton ? Qui sait ses intentions à l'égard de Portius ; ou de quelle manière il a résolu de disposer de Vous ?
 
 
-**** *creator_boyera *book_boyera_caton *style_prose *genre_tragedy *dist1_boyera_prose_tragedy_caton *dist2_boyera_prose_tragedy *date_(inc *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_soldats
+**** *creator_boyera *book_boyera_caton *style_prose *genre_tragedy *dist1_boyera_prose_tragedy_caton *dist2_boyera_prose_tragedy *id_SOLDATS *date_(inc *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_soldats
 
 Nous sommes tous en sûreté : Sempronius est notre ami, et Sempronius n'est pas moins brave que Caton. Mais le voici qui vient. Marchez hardiment à lui ; jetez-le par terre, et chargez-le de chaînes. Ce jour va finir nos Travaux ; ne craignez rien, puisque Sempronius est notre Ami.
 

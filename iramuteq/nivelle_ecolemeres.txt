@@ -1,6 +1,6 @@
 
 
-**** *creator_nivelle *book_nivelle_ecolemeres *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecolemeres *dist2_nivelle_verse_comedy *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marianne
+**** *creator_nivelle *book_nivelle_ecolemeres *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecolemeres *dist2_nivelle_verse_comedy *id_MARIANNE *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marianne
 
 J'ai fait ce que j'ai pu.
 
@@ -325,7 +325,7 @@ Et de son désespoir extrême.
 Sa faute et ses remords.
 
 
-**** *creator_nivelle *book_nivelle_ecolemeres *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecolemeres *dist2_nivelle_verse_comedy *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosette
+**** *creator_nivelle *book_nivelle_ecolemeres *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecolemeres *dist2_nivelle_verse_comedy *id_ROSETTE *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosette
 
       Monsieur, ma maîtresse est visible.
 
@@ -589,7 +589,7 @@ On pourra le sauver.
       Mais il pourrait un jour...
 
 
-**** *creator_nivelle *book_nivelle_ecolemeres *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecolemeres *dist2_nivelle_verse_comedy *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafleur
+**** *creator_nivelle *book_nivelle_ecolemeres *style_verse *genre_comedy *dist1_nivelle_verse_comedy_ecolemeres *dist2_nivelle_verse_comedy *id_LAFLEUR *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafleur
 
 Ouf !
 

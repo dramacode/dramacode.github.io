@@ -1,6 +1,6 @@
 
 
-**** *creator_barbier *book_barbier_faucon *style_verse *genre_comedy *dist1_barbier_verse_comedy_faucon *dist2_barbier_verse_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_federic
+**** *creator_barbier *book_barbier_faucon *style_verse *genre_comedy *dist1_barbier_verse_comedy_faucon *dist2_barbier_verse_comedy *id_FEDERIC *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_federic
 
 Te voilà bien chagrin ?
 
@@ -290,7 +290,7 @@ Permettez qu'à vos pieds j'expire de plaisir.
       Amour, ai-je trop fait pour toi ?
 
 
-**** *creator_barbier *book_barbier_faucon *style_verse *genre_comedy *dist1_barbier_verse_comedy_faucon *dist2_barbier_verse_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_axiane
+**** *creator_barbier *book_barbier_faucon *style_verse *genre_comedy *dist1_barbier_verse_comedy_faucon *dist2_barbier_verse_comedy *id_AXIANE *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_axiane
 
 Il faut bien vous chercher, quand vous nous fuyez tous.
 
@@ -447,7 +447,7 @@ Mon coeur est tout à vous, ma main dépend de moi,
 Je vous la donne.
 
 
-**** *creator_barbier *book_barbier_faucon *style_verse *genre_comedy *dist1_barbier_verse_comedy_faucon *dist2_barbier_verse_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pasquin
+**** *creator_barbier *book_barbier_faucon *style_verse *genre_comedy *dist1_barbier_verse_comedy_faucon *dist2_barbier_verse_comedy *id_PASQUIN *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pasquin
 
       N'en ai-je pas raison ?
 Vainement dans les airs vous lâchez ce faucon ;
@@ -730,7 +730,7 @@ Qu'un repas succulent commence un sort si doux ?
 Mais croyez-moi, Madame, allons dîner chez vous.
 
 
-**** *creator_barbier *book_barbier_faucon *style_verse *genre_comedy *dist1_barbier_verse_comedy_faucon *dist2_barbier_verse_comedy *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisette
+**** *creator_barbier *book_barbier_faucon *style_verse *genre_comedy *dist1_barbier_verse_comedy_faucon *dist2_barbier_verse_comedy *id_LISETTE *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisette
 
 Ah ! mon pauvre Pasquin : éloignement máudir !
 En cessant de me voir, il a perdu l'esprit.

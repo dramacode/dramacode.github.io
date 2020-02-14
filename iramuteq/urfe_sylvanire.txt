@@ -1,6 +1,6 @@
 
 
-**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *date_1617 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aglante
+**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *id_AGLANTE *date_1617 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aglante
 
 Le prix d'amour, c'est seulement amour,
 Et sois certain Hylas,
@@ -1701,7 +1701,7 @@ Ce qu'en moi j'estimais,
 Et crois-le ainsi, Tirinte.
 
 
-**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *date_1617 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alciron
+**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *id_ALCIRON *date_1617 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alciron
 
 Que c'est bien Sylvanire.
 Tyr parce que la bergère
@@ -3051,7 +3051,7 @@ Mais les voici qui viennent.
 Et de mes artifices ?
 
 
-**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *date_1617 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hylas
+**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *id_HYLAS *date_1617 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hylas
 
 Et qui peut accuser
 Hylas de n'aimer point ?
@@ -4384,7 +4384,7 @@ Un coeur fidèle attend,
 Que je serai constant.
 
 
-**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *date_1617 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tirinte
+**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *id_TIRINTE *date_1617 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tirinte
 
 Quelle heureuse rencontre
 Est celle que je fais,
@@ -5626,7 +5626,7 @@ Puisque les dieux ainsi l'ont ordonné,
 De l'amour de Fossinde.
 
 
-**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *date_1617 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adraste
+**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *id_ADRASTE *date_1617 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adraste
 
 Amour, gente fillette,
 Ne va pas au marché,
@@ -5785,7 +5785,7 @@ A fait d'un Palemon
 Une bête sauvage.
 
 
-**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *date_1617 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_sylvanire
+**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *id_SYLVANIRE *date_1617 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_sylvanire
 
 Bergers, pourriez-vous point
 Me donner des nouvelles
@@ -7189,7 +7189,7 @@ J'en dis autant, ma mère.
 Tout, tout, Fossinde, il n'en faut plus parler.
 
 
-**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *date_1617 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fossinde
+**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *id_FOSSINDE *date_1617 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fossinde
 
 Je le veux bien, puisque vous le voulez,
 Je ne contredirai
@@ -8238,7 +8238,7 @@ Soient oubliés dans vos contentements ?
 Aglante et toi ?
 
 
-**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *date_1617 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_menandre
+**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *id_MENANDRE *date_1617 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_menandre
 
 C'est un grand cas que je ne puis trouver,
 En quelque lieu que j'aille,
@@ -9310,7 +9310,7 @@ Doit espérer des dieux
 D'avoir encore mieux.
 
 
-**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *date_1617 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lerice
+**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *id_LERICE *date_1617 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lerice
 
 Je ne croirai jamais
 Que Sylvanire fuit
@@ -9542,7 +9542,7 @@ Et comme tels je veux que vous m'aimiez,
 Et vivez bienheureux.
 
 
-**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *date_1617 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_messager
+**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *id_MESSAGER *date_1617 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_messager
 
 Ô dieu quelle pitié !
 Quelle compassion !
@@ -9769,7 +9769,7 @@ Iront suivant ce deuil,
 Puis avec elle entreront au cercueil.
 
 
-**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *date_1617 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_satyre
+**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *id_SATYRE *date_1617 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_satyre
 
 Injuste amour, pourquoi si rarement
 Unis tu les desseins
@@ -10393,7 +10393,7 @@ Maudit qui l'allaita,
 Et maudit soit qui jamais le suivra.
 
 
-**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *date_1617 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_echo
+**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *id_ECHO *date_1617 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_echo
 
       Haine.
 
@@ -10440,7 +10440,7 @@ Et maudit soit qui jamais le suivra.
       Attends.
 
 
-**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *date_1617 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_choeur
+**** *creator_urfe *book_urfe_sylvanire *style_verse *genre_pastorale heroique *dist1_urfe_verse_pastorale heroique_sylvanire *dist2_urfe_verse_pastorale heroique *id_CHOEUR *date_1617 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_choeur
 
 Ceux qui d'amour font la peinture,
 Enfant ailé nous le feignant,

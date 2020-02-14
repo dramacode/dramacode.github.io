@@ -1,6 +1,6 @@
 
 
-**** *creator_colle *book_colle_alfonse *style_verse *genre_comedy *dist1_colle_verse_comedy_alfonse *dist2_colle_verse_comedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alfonse
+**** *creator_colle *book_colle_alfonse *style_verse *genre_comedy *dist1_colle_verse_comedy_alfonse *dist2_colle_verse_comedy *id_ALFONSE *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alfonse
 
 Le sceptre va bientôt passer en d'autres mains.
 Tu sais depuis quel temps un stérile hyménée
@@ -145,7 +145,7 @@ Je brave les complots des plus séditieux.
 Nous aurons un infant : rendons grâces aux Dieux !
 
 
-**** *creator_colle *book_colle_alfonse *style_verse *genre_comedy *dist1_colle_verse_comedy_alfonse *dist2_colle_verse_comedy *date_1737 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonor
+**** *creator_colle *book_colle_alfonse *style_verse *genre_comedy *dist1_colle_verse_comedy_alfonse *dist2_colle_verse_comedy *id_LEONOR *date_1737 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonor
 
       Seigneur,
 J'ai cru trouver le roi dans ces lieux.
@@ -222,7 +222,7 @@ Vont étaler leur honte aux yeux de l'univers.
 Adieu, Seigneur.
 
 
-**** *creator_colle *book_colle_alfonse *style_verse *genre_comedy *dist1_colle_verse_comedy_alfonse *dist2_colle_verse_comedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alvares
+**** *creator_colle *book_colle_alfonse *style_verse *genre_comedy *dist1_colle_verse_comedy_alfonse *dist2_colle_verse_comedy *id_ALVARES *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alvares
 
       Eh quoi ! Madame,
 Dans sa prévention votre esprit affermi
@@ -310,7 +310,7 @@ Alcimadure !... Ami ! Dans peu tu connaîtras...
 Ah ! Traître !... Je me meurs !...
 
 
-**** *creator_colle *book_colle_alfonse *style_verse *genre_comedy *dist1_colle_verse_comedy_alfonse *dist2_colle_verse_comedy *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcimadure
+**** *creator_colle *book_colle_alfonse *style_verse *genre_comedy *dist1_colle_verse_comedy_alfonse *dist2_colle_verse_comedy *id_ALCIMADURE *date_1737 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcimadure
 
 Les États, en tumulte, assemblés dans Lisbonne,
 Au perfide Alvarès assurent la couronne,

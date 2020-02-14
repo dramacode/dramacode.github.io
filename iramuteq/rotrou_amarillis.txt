@@ -1,6 +1,6 @@
 
 
-**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisimene
+**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *id_LISIMENE *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisimene
 
 Je commence à vous voir, et vous n'avez qu'à peine
 Visité ce grand bois et cette riche plaine,
@@ -134,7 +134,7 @@ Pourrait avecque vous coucher innocemment.
 Et bien espériez-vous un changement pareil ?
 
 
-**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_belise
+**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *id_BELISE *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_belise
 
 Je confesse qu'ici sans haine et sans ennui
 On goûte les plaisirs les plus purs de la vie,
@@ -337,7 +337,7 @@ Et m'envoie un habit.
       Adieu.
 
 
-**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tyrene
+**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *id_TYRENE *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tyrene
 
 
 
@@ -581,7 +581,7 @@ Sur les autels d'hymen demain au point du jour,
 De cet événement rendre grâce à l'amour.
 
 
-**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *date_1652 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_cleonte
+**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *id_CLEONTE *date_1652 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_cleonte
 
 Surpris, saisi, confus auprès tant d'excellence,
 Mon meilleur compliment dépend de mon silence ;
@@ -922,7 +922,7 @@ Vous devez toutes deux accorder à mes maux
 De pareilles faveurs, et des plaisirs égaux.
 
 
-**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amarillis
+**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *id_AMARILLIS *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amarillis
 
 Où peut être ma soeur ?
 
@@ -1345,7 +1345,7 @@ Certes un tel Amant pouvait bien être aimé ;
 Une faute si belle est toujours pardonnable.
 
 
-**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philidas
+**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *id_PHILIDAS *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philidas
 
       Je la vois l'inhumaine.
 
@@ -1606,7 +1606,7 @@ Pourquoi me donnez-vous ces noms injurieux ?
 Je vanterai partout votre feinte agréable.
 
 
-**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_daphne
+**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *id_DAPHNE *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_daphne
 
 Quelque si libre humeur dont un esprit puisse être,
 Il est bien malaisé qu'il fasse tout paraître ;
@@ -1878,7 +1878,7 @@ Excuse, Célidan, mon infidélité,
 Ou bien de cette offense accuse sa beauté.
 
 
-**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_celidan
+**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *id_CELIDAN *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_celidan
 
 Philidas elle est fille, et la fille est changeante,
 Nous la verrons un jour t'être plus indulgente,
@@ -2076,7 +2076,7 @@ Je rentre en ma prison sans en avoir de honte.
 Lignon n'en a point vu qui lui soit comparable.
 
 
-**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *date_1652 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_satyre1
+**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *id_SATYRE1 *date_1652 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_satyre1
 
 As-tu vu dans ce fond ces deux belles bergères ?
 
@@ -2139,7 +2139,7 @@ Ah vous n'en mourrez pas, suivez-nous promptement.
       Ha bons Dieux je suis mort ?
 
 
-**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *date_1652 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_satyre2
+**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *id_SATYRE2 *date_1652 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_satyre2
 
 Trop pour leur intérêt, fussent-elles légères,
 Plus que les jeunes Daims qu'en courant j'atterrai,
@@ -2186,7 +2186,7 @@ Moi sur mon instrument, vous sur vos flûtes douces.
 Diable de ce grand coup j'ai la hanche démise.
 
 
-**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *date_1652 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_satyre3
+**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *id_SATYRE3 *date_1652 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_satyre3
 
 Pour se mieux délasser, au bord d'une fontaine,
 De se laver les pieds elles prenaient la peine ;
@@ -2278,7 +2278,7 @@ Allons il faut venir.
 Il se faut retirer.
 
 
-**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_climante
+**** *creator_rotrou *book_rotrou_amarillis *style_verse *genre_show *dist1_rotrou_verse_show_amarillis *dist2_rotrou_verse_show *id_CLIMANTE *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_climante
 
 Je vous cherchais partout.
 

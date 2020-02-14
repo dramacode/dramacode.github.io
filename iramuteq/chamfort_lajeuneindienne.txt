@@ -1,6 +1,6 @@
 
 
-**** *creator_chamfort *book_chamfort_lajeuneindienne *style_verse *genre_comedy *dist1_chamfort_verse_comedy_lajeuneindienne *dist2_chamfort_verse_comedy *date_1764 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_betti
+**** *creator_chamfort *book_chamfort_lajeuneindienne *style_verse *genre_comedy *dist1_chamfort_verse_comedy_lajeuneindienne *dist2_chamfort_verse_comedy *id_BETTI *date_1764 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_betti
 
 Ah ! Jet e trouve enfin. L'on m'assiège sans cesse.
 D'où vient qu'autour de moi tout le monde s'empresse ?
@@ -251,7 +251,7 @@ Donne-moi cet écrit.
 S'il cessait de m'aimer, je le lui montrerais.
 
 
-**** *creator_chamfort *book_chamfort_lajeuneindienne *style_verse *genre_comedy *dist1_chamfort_verse_comedy_lajeuneindienne *dist2_chamfort_verse_comedy *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_belton
+**** *creator_chamfort *book_chamfort_lajeuneindienne *style_verse *genre_comedy *dist1_chamfort_verse_comedy_lajeuneindienne *dist2_chamfort_verse_comedy *id_BELTON *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_belton
 
 Ah ! J'ai fait mon malheur ! Comment puis-je être heureux ?
 La jeunesse d'un fils est le vrai bien d'un père.
@@ -541,7 +541,7 @@ Vous m'assurez l'objet qui m'avait su charmer.
 En doutant de mes feux vous affligez mon âme.
 
 
-**** *creator_chamfort *book_chamfort_lajeuneindienne *style_verse *genre_comedy *dist1_chamfort_verse_comedy_lajeuneindienne *dist2_chamfort_verse_comedy *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mowbrai
+**** *creator_chamfort *book_chamfort_lajeuneindienne *style_verse *genre_comedy *dist1_chamfort_verse_comedy_lajeuneindienne *dist2_chamfort_verse_comedy *id_MOWBRAI *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mowbrai
 
 Laisse-là tes saluts, mon cher, couvre ta tête.
 Pour être un peu plus franc, sois un peu moins honnête.
@@ -720,7 +720,7 @@ Lui-même en t'embrassant voudra tout oublier :
 Consoler ses vieux jours, c'est te justifier.
 
 
-**** *creator_chamfort *book_chamfort_lajeuneindienne *style_verse *genre_comedy *dist1_chamfort_verse_comedy_lajeuneindienne *dist2_chamfort_verse_comedy *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mylford
+**** *creator_chamfort *book_chamfort_lajeuneindienne *style_verse *genre_comedy *dist1_chamfort_verse_comedy_lajeuneindienne *dist2_chamfort_verse_comedy *id_MYLFORD *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mylford
 
 À Charlestown, enfin, vous voilà revenu :
 L'ami que je pleurais à mes voeux s'est rendu.

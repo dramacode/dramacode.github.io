@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisis
+**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *id_LISIS *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisis
 
 Paissez, chères brebis, mes fidèles compagnes,
 Paissez en liberté dans ces vertes compagnes,
@@ -926,7 +926,7 @@ Et qu'autour de ton bois loin que jamais on danse,
 Ton bois ne servira qu'à faire une potence.
 
 
-**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *id_ANGELIQUE *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
 Certes, gentils bergers, ma joie est sans égale
 De vous voir imiter si bien la Pastorale.
@@ -1161,7 +1161,7 @@ Retournons au château mettre bas la houlette,
 Lisis est désarbré, la comédie est faite.
 
 
-**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hircan
+**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *id_HIRCAN *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hircan
 
 Voici ce Fou sans doute avec sa Bergerie,
 Dont on m'a tant vanté l'aimable rêverie.
@@ -1312,7 +1312,7 @@ Est un obstacle à fuir pour qui cherche à rêver.
 Adieu.
 
 
-**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_montenor
+**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *id_MONTENOR *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_montenor
 
 Quoi, d'un amour si pur la douce violence
 Pour vous persuader a si peu de puissance,
@@ -1410,7 +1410,7 @@ Mes Soeurs, il nous répond d'une étrange manière.
 De grâce en quelle langue ?
 
 
-**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anselme
+**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *id_ANSELME *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anselme
 
 Quoi, Clarimond, ce semble, a peine à me connaître ?
 
@@ -1569,7 +1569,7 @@ Pour vouloir m'opposer à ce qu'il pronostique.
 Seulement, grande Nymphe, ayant su m'obliger...
 
 
-**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clarimond
+**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *id_CLARIMOND *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clarimond
 
       Il n'en est pas besoin,
 Je n'ai point d'appétit, mais tirez-moi de peine.
@@ -1947,7 +1947,7 @@ Puisque nous le pouvons, faisons valoir la pièce.
 Mais s'il vous aperçoit ?
 
 
-**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucide
+**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *id_LUCIDE *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucide
 
 Un peu de complaisance, et l'habit de Berger
 À ces propos d'amour ont dû vous engager,
@@ -2086,7 +2086,7 @@ Qui joignant ce grand parc fait ce beau paysage,
 C'est là que de ses cris ayant ouï le bruit...
 
 
-**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_charite
+**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *id_CHARITE *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_charite
 
 Que fait ce Fou seul, et qu'est-ce qu'il médite ?
 
@@ -2498,7 +2498,7 @@ Sûr que toutes les nuits la troupe dansera,
 Autour du tronc sacré qui vous enfermera.
 
 
-**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sinope
+**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *id_SINOPE *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sinope
 
 À peine le Soleil a fait place à la Lune,
 Que nous avons appris votre bonne Fortune,
@@ -2615,7 +2615,7 @@ Venez.
 Ne suivez que de loin.
 
 
-**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clorise
+**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *id_CLORISE *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clorise
 
 Nous habitons de jour un Bois fort écarté.
 
@@ -2644,7 +2644,7 @@ Au jardin d'Angélique il consent qu'on vous plante.
 N'en doutez point.
 
 
-**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adrian
+**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *id_ADRIAN *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adrian
 
 Ah, fou ! Te voilà donc ?
 
@@ -2756,7 +2756,7 @@ Lui renverser l'esprit, et brouiller le cerveau.
 Je cours donc emprunter du secours pour l'abattre.
 
 
-**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *date_1652 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_satyre
+**** *creator_corneillet *book_corneillet_bergerextravagant *style_verse *genre_show *dist1_corneillet_verse_show_bergerextravagant *dist2_corneillet_verse_show *id_SATYRE *date_1652 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_satyre
 
 Ne vous étonnez point, Nymphe, si cette fois,
 Pour hanter vos Palais, nous sortons de nos bois.

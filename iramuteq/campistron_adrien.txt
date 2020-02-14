@@ -1,6 +1,6 @@
 
 
-**** *creator_campistron *book_campistron_adrien *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_adrien *dist2_campistron_verse_tragedy *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_diocletien
+**** *creator_campistron *book_campistron_adrien *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_adrien *dist2_campistron_verse_tragedy *id_DIOCLETIEN *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_diocletien
 
 Ma fille, Marcellin arrivé dans ces lieux,
 Vient de me confirmer les succès glorieux
@@ -339,7 +339,7 @@ Et du moins pour un Dieu dont la gloire me gêne,
 Nourrir dans la retraite une immortelle haine.
 
 
-**** *creator_campistron *book_campistron_adrien *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_adrien *dist2_campistron_verse_tragedy *date_1690 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_valerie
+**** *creator_campistron *book_campistron_adrien *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_adrien *dist2_campistron_verse_tragedy *id_VALERIE *date_1690 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_valerie
 
 Hélas !
 
@@ -1054,7 +1054,7 @@ Et joignant mes devoirs à leurs actes pieux,
 Honorer d'un Époux les restes précieux.
 
 
-**** *creator_campistron *book_campistron_adrien *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_adrien *dist2_campistron_verse_tragedy *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adrien
+**** *creator_campistron *book_campistron_adrien *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_adrien *dist2_campistron_verse_tragedy *id_ADRIEN *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adrien
 
 Que les moments sont longs loin de votre présence !
 Madame, que mon cœur sentait d'impatience !
@@ -1382,7 +1382,7 @@ Ce nom saint durera plus que leur vaste Empire.
 Allons.
 
 
-**** *creator_campistron *book_campistron_adrien *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_adrien *dist2_campistron_verse_tragedy *date_1690 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+**** *creator_campistron *book_campistron_adrien *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_adrien *dist2_campistron_verse_tragedy *id_JULIE *date_1690 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
 
 Vous vous cachez, Madame, et vous fuyez mes soins ;
 Mes yeux sont-ils ici de profanes témoins ?
@@ -1576,7 +1576,7 @@ Sont gardés avec soin pour punir les coupables,
 C'est vous en dire assez.
 
 
-**** *creator_campistron *book_campistron_adrien *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_adrien *dist2_campistron_verse_tragedy *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marcellin
+**** *creator_campistron *book_campistron_adrien *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_adrien *dist2_campistron_verse_tragedy *id_MARCELLIN *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marcellin
 
 Je cherchais l'Empereur, Madame, pour lui dire
 Que nos dieux font vengés, et que le traître expire.
@@ -1689,7 +1689,7 @@ Mais puissai-je éprouver le plus cruel tourment,
 Si j'ai manqué pour vous ni de soin, ni de zèle.
 
 
-**** *creator_campistron *book_campistron_adrien *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_adrien *dist2_campistron_verse_tragedy *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sergeste
+**** *creator_campistron *book_campistron_adrien *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_adrien *dist2_campistron_verse_tragedy *id_SERGESTE *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sergeste
 
 Est-ce vous, Marcellin ? Sébaste est arrêté.
 De César, par mes soins, l'ordre est exécuté.

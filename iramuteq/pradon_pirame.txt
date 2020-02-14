@@ -1,6 +1,6 @@
 
 
-**** *creator_pradon *book_pradon_pirame *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_pirame *dist2_pradon_verse_tragedy *date_1674 *sexe_feminin *age_veteran *statut_maitre *fonction_autres *role_amestris
+**** *creator_pradon *book_pradon_pirame *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_pirame *dist2_pradon_verse_tragedy *id_amestris *date_1674 *sexe_feminin *age_veteran *statut_maitre *fonction_autres *role_amestris
 
 Vous verrez à quel point pour vous je m'intéresse⁎,
 Prince, & vostre destin vous fera des jaloux,
@@ -366,7 +366,7 @@ Qu'ay-je fait ? que d'horreurs où mon ame est plongée !
 Pirame est mort, ah Ciel ! vous m'avez trop vangée.
 
 
-**** *creator_pradon *book_pradon_pirame *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_pirame *dist2_pradon_verse_tragedy *date_1674 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_belus
+**** *creator_pradon *book_pradon_pirame *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_pirame *dist2_pradon_verse_tragedy *id_belus *date_1674 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_belus
 
 La Princesse est icy ; retirez- vous, Hircus,
 Et sur tout observez les démarches d'Arsace.
@@ -719,7 +719,7 @@ Malgré son desespoir, allons la secourir,
 Elle est ma Mere, il faut l'empescher de mourir.
 
 
-**** *creator_pradon *book_pradon_pirame *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_pirame *dist2_pradon_verse_tragedy *date_1674 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_thisbe
+**** *creator_pradon *book_pradon_pirame *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_pirame *dist2_pradon_verse_tragedy *id_thisbe *date_1674 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_thisbe
 
 Ismene, penses-tu, nous voyant en ces lieux,
 Que nous ayons flechy la colere des Dieux ?
@@ -1179,7 +1179,7 @@ Hé bien, Seigneur, allons où le sort nous entraîne.
 Fin du Quatriéme Acte.
 
 
-**** *creator_pradon *book_pradon_pirame *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_pirame *dist2_pradon_verse_tragedy *date_1674 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_pirame
+**** *creator_pradon *book_pradon_pirame *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_pirame *dist2_pradon_verse_tragedy *id_pirame *date_1674 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_pirame
 
 Seigneur, je connois⁎ bien que je vais vous déplaire⁎,
 Qu'au seul nom de Thisbé…Déja remply d'éfroy⁎,
@@ -1409,7 +1409,7 @@ Vous vous repentirez d'avoir trop attendu
 Il ne sera plus temps, je mourray…
 
 
-**** *creator_pradon *book_pradon_pirame *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_pirame *dist2_pradon_verse_tragedy *date_1674 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_arsace
+**** *creator_pradon *book_pradon_pirame *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_pirame *dist2_pradon_verse_tragedy *id_arsace *date_1674 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_arsace
 
 Je veux te faire part de ma peine secrete.
 Licas, mon Fils m'allarme, & Thisbé m'inquiete⁎ ;
@@ -1746,7 +1746,7 @@ Et soit moins pitoyable, ou plus juste que luy.
 FIN.
 
 
-**** *creator_pradon *book_pradon_pirame *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_pirame *dist2_pradon_verse_tragedy *date_1674 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_licas
+**** *creator_pradon *book_pradon_pirame *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_pirame *dist2_pradon_verse_tragedy *id_licas *date_1674 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_licas
 
 D'où peut venir, Seigneur, cette implacable haine ?
 L'on vous vit triompher du Pere de Thisbé :
@@ -1786,7 +1786,7 @@ N'ait pû charmer⁎ son cœur par un juste retour ?
 La gloire⁎ a ses momens, aussi-bien que l'amour.
 
 
-**** *creator_pradon *book_pradon_pirame *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_pirame *dist2_pradon_verse_tragedy *date_1674 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_hircus
+**** *creator_pradon *book_pradon_pirame *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_pirame *dist2_pradon_verse_tragedy *id_hircus *date_1674 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_hircus
 
 Enfin, Seigneur, les Dieux sont declarez pour vous,
 La Reine est arrestée, Arcas percé de coups,
@@ -1858,7 +1858,7 @@ J'ay rompu, grace aux Dieux, & la force & l'atteinte⁎ ;
 Mais, Seigneur, sa douleur nous donne de la crainte.
 
 
-**** *creator_pradon *book_pradon_pirame *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_pirame *dist2_pradon_verse_tragedy *date_1674 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_ismene
+**** *creator_pradon *book_pradon_pirame *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_pirame *dist2_pradon_verse_tragedy *id_ismene *date_1674 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_ismene
 
 Que craindre, si Belus parle pour vostre flâme⁎ ?
 Il semble partager les soûpirs de Pirame,

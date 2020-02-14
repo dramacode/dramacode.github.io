@@ -1,6 +1,6 @@
 
 
-**** *creator_ouville *book_ouville_coifeusealamode *style_verse *genre_comedy *dist1_ouville_verse_comedy_coifeusealamode *dist2_ouville_verse_comedy *date_1647 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_acaste
+**** *creator_ouville *book_ouville_coifeusealamode *style_verse *genre_comedy *dist1_ouville_verse_comedy_coifeusealamode *dist2_ouville_verse_comedy *id_acaste *date_1647 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_acaste
  
 Certainement amy je commence à connestre
 Que je suis moins aymé que je ne pensois l'estre,
@@ -599,7 +599,7 @@ Que vous estes contente aussi bien comme moy.
 Madame mettons fin à ce double Hymenée.
 
 
-**** *creator_ouville *book_ouville_coifeusealamode *style_verse *genre_comedy *dist1_ouville_verse_comedy_coifeusealamode *dist2_ouville_verse_comedy *date_1647 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_arimant
+**** *creator_ouville *book_ouville_coifeusealamode *style_verse *genre_comedy *dist1_ouville_verse_comedy_coifeusealamode *dist2_ouville_verse_comedy *id_arimant *date_1647 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_arimant
 
 Mais suis-je si troublé pour vous mettre en soucy,
 Je voy bien en effect quelque metamorphose
@@ -1009,7 +1009,7 @@ Cet heur⁎ inesperé surpassoit notre attente.
       Ah ! l'heureuse journée.
 
 
-**** *creator_ouville *book_ouville_coifeusealamode *style_verse *genre_comedy *dist1_ouville_verse_comedy_coifeusealamode *dist2_ouville_verse_comedy *date_1647 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_flore
+**** *creator_ouville *book_ouville_coifeusealamode *style_verse *genre_comedy *dist1_ouville_verse_comedy_coifeusealamode *dist2_ouville_verse_comedy *id_flore *date_1647 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_flore
 
 Qu'on ne m'en parle point, je ne le veux pas faire.
 Que sert de contester plus long-temps sur ce point?
@@ -1466,7 +1466,7 @@ Madame excusez-moy.
 C'est ce que je souhaite.
 
 
-**** *creator_ouville *book_ouville_coifeusealamode *style_verse *genre_comedy *dist1_ouville_verse_comedy_coifeusealamode *dist2_ouville_verse_comedy *date_1647 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_beatrix
+**** *creator_ouville *book_ouville_coifeusealamode *style_verse *genre_comedy *dist1_ouville_verse_comedy_coifeusealamode *dist2_ouville_verse_comedy *id_beatrix *date_1647 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_beatrix
 
 Il faut peu de suject pour vous mettre en colere.
 
@@ -1514,7 +1514,7 @@ A ce que dit son homme elle s'appelle ainsi.
       Madame elle est tres-belle.
 
 
-**** *creator_ouville *book_ouville_coifeusealamode *style_verse *genre_comedy *dist1_ouville_verse_comedy_coifeusealamode *dist2_ouville_verse_comedy *date_1647 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_dorotee
+**** *creator_ouville *book_ouville_coifeusealamode *style_verse *genre_comedy *dist1_ouville_verse_comedy_coifeusealamode *dist2_ouville_verse_comedy *id_dorotee *date_1647 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_dorotee
 
 A quoy bon ce discours? mon amy que veux-tu?
 Que cette action soit ou folie ou vertu,
@@ -2122,7 +2122,7 @@ Je la feray venir tanstot, elle est chez moy,
 Qui te garde la foy qu'elle t'avoit promise.
 
 
-**** *creator_ouville *book_ouville_coifeusealamode *style_verse *genre_comedy *dist1_ouville_verse_comedy_coifeusealamode *dist2_ouville_verse_comedy *date_1647 *sexe_masculin *age_veteran *statut_serviteur *fonction_valet *role_pamphile
+**** *creator_ouville *book_ouville_coifeusealamode *style_verse *genre_comedy *dist1_ouville_verse_comedy_coifeusealamode *dist2_ouville_verse_comedy *id_pamphile *date_1647 *sexe_masculin *age_veteran *statut_serviteur *fonction_valet *role_pamphile
 
 Madame excusez moy, je ne puis nullement
 Comprendre le suject de ce déguisement,
@@ -2211,7 +2211,7 @@ Si vous le desirez,
 Adieu Monsieur.
 
 
-**** *creator_ouville *book_ouville_coifeusealamode *style_verse *genre_comedy *dist1_ouville_verse_comedy_coifeusealamode *dist2_ouville_verse_comedy *date_1647 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_pauline
+**** *creator_ouville *book_ouville_coifeusealamode *style_verse *genre_comedy *dist1_ouville_verse_comedy_coifeusealamode *dist2_ouville_verse_comedy *id_pauline *date_1647 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_pauline
 
 Mais Madame je croy quelque subtile ruse,
 Dont vous puissiez user qu'il n'est pas fort aisé,
@@ -2246,7 +2246,7 @@ Trouver une plus belle et rare invention ?
 Vous le faictes, Madame, aujourd'hui bien paroistre.
 
 
-**** *creator_ouville *book_ouville_coifeusealamode *style_verse *genre_comedy *dist1_ouville_verse_comedy_coifeusealamode *dist2_ouville_verse_comedy *date_1647 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_leonor
+**** *creator_ouville *book_ouville_coifeusealamode *style_verse *genre_comedy *dist1_ouville_verse_comedy_coifeusealamode *dist2_ouville_verse_comedy *id_leonor *date_1647 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_leonor
 
       Ouy tres-excellemment,
 Vous ne pourriez jamais estre plus proprement,
@@ -2349,7 +2349,7 @@ Vous voyez bien, Monsieur, que je ne ments jamais,
 Tiens-je pas en effet plus que je ne promets ?
 
 
-**** *creator_ouville *book_ouville_coifeusealamode *style_verse *genre_comedy *dist1_ouville_verse_comedy_coifeusealamode *dist2_ouville_verse_comedy *date_1647 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_philipin
+**** *creator_ouville *book_ouville_coifeusealamode *style_verse *genre_comedy *dist1_ouville_verse_comedy_coifeusealamode *dist2_ouville_verse_comedy *id_philipin *date_1647 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_philipin
 
 Je viens expres icy pour vous tirer de peyne⁎,
 Je viens presentement⁎, Monsieur, de recevoir,

@@ -1,6 +1,6 @@
 
 
-**** *creator_archambault *book_archambault_cenestpas *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_cenestpas *dist2_archambault_prose_proverbe *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_janot
+**** *creator_archambault *book_archambault_cenestpas *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_cenestpas *dist2_archambault_prose_proverbe *id_JANOT *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_janot
 
 Oui, mon ami, fais-moi compliment, que je te dis, de ça, parce que c'est pas de ces choses qui arrivent deux fois dans la vie d'un homme, da ! de faire sa fortune tout d'un coup.
 
@@ -283,7 +283,7 @@ C'est le diabe qui te puisse emporter.
 Eh ben ! Messieurs, ça n'en est donc pas. Que de brillantes espérances on voit tous les jours s'évanouir ! Que de gens rêvent avoir trouvé un trésor et que le réveil désabuse ! Pour nous, le seul que nous ambitionnons, c'est le bonheur de vous plaire.
 
 
-**** *creator_archambault *book_archambault_cenestpas *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_cenestpas *dist2_archambault_prose_proverbe *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dodinet
+**** *creator_archambault *book_archambault_cenestpas *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_cenestpas *dist2_archambault_prose_proverbe *id_DODINET *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dodinet
 
 Oh ! Oui : t'as raison. T'es ben là ; faut t'y tenir.
 
@@ -430,7 +430,7 @@ Non-da, mais i' me faut mes effets, à moi.
 Me v'là bien avancé, moi, à présent. Que le diable t'emporte, va, avec ton maudit lingot : je te l'avais-t-i' pas répété cent fois tantôt que ça n'en était pas ?
 
 
-**** *creator_archambault *book_archambault_cenestpas *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_cenestpas *dist2_archambault_prose_proverbe *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ragot
+**** *creator_archambault *book_archambault_cenestpas *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_cenestpas *dist2_archambault_prose_proverbe *id_RAGOT *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ragot
 
 Ah ! Monsieur, pardon. C'est pas ma faute.
 
@@ -513,7 +513,7 @@ Ah ! Monsieur Janot, vous v'là bien maussade pour un jour de noce. Qu'est-ce qu
 Oui, oui, ne vous gênez pas, mon ami ; nous ne vous retenons pas.
 
 
-**** *creator_archambault *book_archambault_cenestpas *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_cenestpas *dist2_archambault_prose_proverbe *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameragot
+**** *creator_archambault *book_archambault_cenestpas *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_cenestpas *dist2_archambault_prose_proverbe *id_MADAMERAGOT *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameragot
 
 Qu'est-ce que tu me ragotes là, toi, depis une heure, avec ton dîner au cabaret, pour une noce ? Et de qui est c'te noce? Voyons, de not' chat ?
 
@@ -536,7 +536,7 @@ Dame, oui, c'était ben tentant : c'était apparemment là-dessus que vous vouli
 Oui, si je n'avons pas mieux dîné, ça n'est pas de votre faute. Nous vous sommes toujours ben obligés de la bonne volonté.
 
 
-**** *creator_archambault *book_archambault_cenestpas *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_cenestpas *dist2_archambault_prose_proverbe *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_simon
+**** *creator_archambault *book_archambault_cenestpas *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_cenestpas *dist2_archambault_prose_proverbe *id_SIMON *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_simon
 
 Monsieur...
 
@@ -613,7 +613,7 @@ Eh ! Par la ventrebleu ! Zst-ce qu'on invite les gens pour les faire payer donc 
 Si vous voulez venir collationner avec nous, Mam'selle Perrette, je vous remettrons chez vous après.
 
 
-**** *creator_archambault *book_archambault_cenestpas *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_cenestpas *dist2_archambault_prose_proverbe *date_1779 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_suzon
+**** *creator_archambault *book_archambault_cenestpas *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_cenestpas *dist2_archambault_prose_proverbe *id_SUZON *date_1779 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_suzon
 
 Oui ; mais j'avons fait main basse, et je mettrons c'te bouteille-là à fin, s'i' plaît à Dieu.
 
@@ -626,7 +626,7 @@ Mon p'tit Janot, était-ce-t-i' pour moi vot' lingot ?
 Adieu, Monsieur Janot. Je souhaite que le jour de la noce vous réussisse mieux que celui des accordailles.
 
 
-**** *creator_archambault *book_archambault_cenestpas *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_cenestpas *dist2_archambault_prose_proverbe *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_perrette
+**** *creator_archambault *book_archambault_cenestpas *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_cenestpas *dist2_archambault_prose_proverbe *id_PERRETTE *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_perrette
 
 Comment ! C'est de la part de ce Monsieur qui m'avait tant promis de choses, au sujet de mes mailles, quand j'en aurais.
 

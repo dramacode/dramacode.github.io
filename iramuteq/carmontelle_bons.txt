@@ -1,6 +1,6 @@
 
 
-**** *creator_carmontelle *book_carmontelle_bons *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_bons *dist2_carmontelle_prose_proverbe *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdegrantier
+**** *creator_carmontelle *book_carmontelle_bons *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_bons *dist2_carmontelle_prose_proverbe *id_MONSIEURDEGRANTIER *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdegrantier
 
 Ah, vous êtes ici, Monsieur Dupont , je vous faisais chercher partout.
 
@@ -180,7 +180,7 @@ C'est très bien. Adieu, adieu.
 Allons, Monsieur Dupont, allez-vous-en dîner, nous achèverons cela tantôt. Revenez de bonne heure.
 
 
-**** *creator_carmontelle *book_carmontelle_bons *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_bons *dist2_carmontelle_prose_proverbe *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdupont
+**** *creator_carmontelle *book_carmontelle_bons *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_bons *dist2_carmontelle_prose_proverbe *id_MONSIEURDUPONT *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdupont
 
 Il y a une demi-heure que j'attends.
 
@@ -227,7 +227,7 @@ Monsieur, c'est fini.
 Oui, Monsieur.
 
 
-**** *creator_carmontelle *book_carmontelle_bons *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_bons *dist2_carmontelle_prose_proverbe *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedevillemare
+**** *creator_carmontelle *book_carmontelle_bons *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_bons *dist2_carmontelle_prose_proverbe *id_MADAMEDEVILLEMARE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedevillemare
 
 Ah, mon frère, je suis charmée de vous trouver.
 
@@ -273,7 +273,7 @@ Oui, avec mon estomac. Ah ça, adieu mon frère. Embrassez-moi donc.
 Quand est-ce que je vous verrai ?
 
 
-**** *creator_carmontelle *book_carmontelle_bons *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_bons *dist2_carmontelle_prose_proverbe *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdespres
+**** *creator_carmontelle *book_carmontelle_bons *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_bons *dist2_carmontelle_prose_proverbe *id_MONSIEURDESPRES *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdespres
 
 Monsieur, c'est que je viens vous demander vos bontés.
 
@@ -296,7 +296,7 @@ Monsieur, j'espère que vous me pardonnerez.
 Monsieur, je suis bien fâché...
 
 
-**** *creator_carmontelle *book_carmontelle_bons *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_bons *dist2_carmontelle_prose_proverbe *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdemerin
+**** *creator_carmontelle *book_carmontelle_bons *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_bons *dist2_carmontelle_prose_proverbe *id_MONSIEURDEMERIN *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdemerin
 
 Monsieur, Madame votre soeur a eu la bonté de vous parler en ma faveur.
 
@@ -313,7 +313,7 @@ Cela suffit, Monsieur.
 Monsieur, comme vous voudrez.
 
 
-**** *creator_carmontelle *book_carmontelle_bons *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_bons *dist2_carmontelle_prose_proverbe *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dubois
+**** *creator_carmontelle *book_carmontelle_bons *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_bons *dist2_carmontelle_prose_proverbe *id_DUBOIS *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dubois
 
 Monsieur, Madame de Franville vous fait bien ses compliments, et voilà une lettre qu'elle m'a chargé de vous remettre.
 
@@ -330,7 +330,7 @@ Ah, Monsieur, vous pouvez en être bien sûr.
 Nous vous avons bien de l'obligation, et nous ne l'oublierons jamais.
 
 
-**** *creator_carmontelle *book_carmontelle_bons *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_bons *dist2_carmontelle_prose_proverbe *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_delisle
+**** *creator_carmontelle *book_carmontelle_bons *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_bons *dist2_carmontelle_prose_proverbe *id_DELISLE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_delisle
 
 Monsieur l'Abbé de la Sourdière.
 

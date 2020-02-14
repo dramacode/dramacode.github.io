@@ -1,6 +1,6 @@
 
 
-**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
+**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *id_LEROI *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
 
       Capitaine,
 Allez prendre le Prince, et qu'on me l'amène.
@@ -244,7 +244,7 @@ De ce château Concierge, et Juge du village
 Il peut quand il voudra la prendre en mariage.
 
 
-**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leprince
+**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *id_LEPRINCE *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leprince
 
 Tant que j'aurai de vie, ô Princesse adorable ;
 J'aurai devant les yeux cet accueil favorable :
@@ -316,7 +316,7 @@ Et vous aurez, Madame, outre ma liberté
 Un empire absolu dessus ma volonté.
 
 
-**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcandre
+**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *id_ALCANDRE *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcandre
 
       Ha ! Tais-toi je te prie,
 Trouves-tu dans mes maux matière à raillerie ?
@@ -691,7 +691,7 @@ Sulpice des mortels le plus grand imposteur
 De ces enchantements est le fabricateur.
 
 
-**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *date_1655 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *id_ISABELLE *date_1655 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
 
 Mais, Sire, un cher parent.
 
@@ -1004,7 +1004,7 @@ D'un mérite pareil au mérite d'Alcandre ?
       Avez-vous en ce Prince intérêt ?
 
 
-**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *date_1655 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_constance
+**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *id_CONSTANCE *date_1655 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_constance
 
 Ces conseils ne sont bons qu'aux âmes insensibles.
 Il est vrai, la tristesse a des charmes nuisibles ;
@@ -1441,7 +1441,7 @@ D'un ingrat qui me rend le mal pour le bienfait.
       Je n'ai plus dessein que de vous plaire.
 
 
-**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *date_1655 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_helene
+**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *id_HELENE *date_1655 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_helene
 
 Madame, vos sujets sont venus du village,
 Vous faire une harangue en leur grossier langage.
@@ -1454,7 +1454,7 @@ J'ai bien ouï mentir.
 Pourquoi vous aurait-il appris un tel secret ?
 
 
-**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *date_1655 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sabine
+**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *id_SABINE *date_1655 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sabine
 
 Le meurtrier, du prince, en sa possession.
 
@@ -1501,7 +1501,7 @@ Et moi, mon Prince ?
 Des discours surprenants de ce fou maladroit ?
 
 
-**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_filipin
+**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *id_FILIPIN *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_filipin
 
 Peste du cheval...
 
@@ -2018,7 +2018,7 @@ Ou si ma qualité doit bientôt prendre fin,
 Accordez Mauricette au moins à Filipin.
 
 
-**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sulpice
+**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *id_SULPICE *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sulpice
 
 L'accident fut terrible, et nos pauvres chevaux
 Firent dans ces rochers le dernier de leurs sauts.
@@ -2286,7 +2286,7 @@ Faut-il faire le fou.
 Ha, Seigneur.
 
 
-**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_licaste
+**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *id_LICASTE *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_licaste
 
 Mes compagnons, la fin de notre quête est proche,
 Le corps de son cheval au pied de cette roche,
@@ -2456,7 +2456,7 @@ Approche.
 Oui, Sire, avec grand ordre, et vous offrent la paix.
 
 
-**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *date_1655 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mauricette
+**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *id_MAURICETTE *date_1655 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mauricette
 
 Vois-tu Perrin Dandin donne-lui ton suffrage,
 Philipin est l'honneur de tout notre village,
@@ -2514,7 +2514,7 @@ Je me pourrai vanter d'avoir pour mon époux
 En un petit mari le plus grand fou des fous.
 
 
-**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *date_1655 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_soldat
+**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *id_SOLDAT *date_1655 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_soldat
 
       J'y vais tout de ce pas.
 
@@ -2540,7 +2540,7 @@ Il est temps d'entrouvrir tes deux paupières closes.
 Je le tiens mort ou sourd.
 
 
-**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *date_1655 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_paysan
+**** *creator_scarron *book_scarron_gardiendesoimeme *style_verse *genre_comedy *dist1_scarron_verse_comedy_gardiendesoimeme *dist2_scarron_verse_comedy *id_PAYSAN *date_1655 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_paysan
 
       Il y va trop du nôtre,
 Pourquoi plutôt que moi ? Pourquoi plutôt qu'un autre ?

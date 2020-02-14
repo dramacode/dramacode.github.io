@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *date_1636 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_alcandre
+**** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *id_ALCANDRE *date_1636 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_alcandre
 
 Dorante, c'est assez, je sais ce qui l'amène :
 Ce fils est aujourd'hui le sujet de sa peine.
@@ -215,7 +215,7 @@ J'ai pris ma récompense en vous faisant plaisir.
 Adieu : je suis content, puisque je vous vois l'être.
 
 
-**** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pridamant
+**** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *id_PRIDAMANT *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pridamant
 
 J'en attends peu de chose, et brûle de le voir.
 J'ai de l'impatience, et je manque d'espoir.
@@ -350,7 +350,7 @@ Mais, grand mage, du moins croyez qu'à l'avenir
 Mon âme en gardera l'éternel souvenir.
 
 
-**** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+**** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *id_DORANTE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
 
 Ce mage, qui d'un mot renverse la nature,
 N'a choisi pour palais que cette grotte obscure.
@@ -430,7 +430,7 @@ Il nous faut sans réplique accepter ses arrêts ;
 Je vous attends chez moi.
 
 
-**** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_matamore
+**** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *id_MATAMORE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_matamore
 
 Il est vrai que je rêve, et ne saurais résoudre
 Lequel je dois des deux le premier mettre en poudre,
@@ -781,7 +781,7 @@ Si je laisse une fois échapper ma colère…
 Un sot les attendrait.
 
 
-**** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *date_1636 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_clindor
+**** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *id_CLINDOR *date_1636 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_clindor
 
 Quoi ! Monsieur, vous rêvez ! Et cette âme hautaine,
 Après tant de beaux faits, semble être encore en peine !
@@ -1171,7 +1171,7 @@ Ce coeur, inexpugnable aux assauts de leurs yeux,
 N'aura plus que les tiens pour maîtres et pour dieux.
 
 
-**** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *date_1636 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_adraste
+**** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *id_ADRASTE *date_1636 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_adraste
 
 Hélas ! S'il est ainsi, quel malheur est le mien !
 Je soupire, j'endure, et je n'avance rien ;
@@ -1284,7 +1284,7 @@ Cet insolent discours te coûtera la vie,
 Suborneur.
 
 
-**** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *date_1636 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_geronte
+**** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *id_GERONTE *date_1636 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_geronte
 
 Apaisez vos soupirs et tarissez vos larmes ;
 Contre ma volonté ce sont de faibles armes :
@@ -1367,7 +1367,7 @@ C'en est fait, emportez ce corps à la maison ;
 Et vous, conduisez tôt ce traître à la prison.
 
 
-**** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *date_1636 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_isabelle
+**** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *id_ISABELLE *date_1636 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_isabelle
 
 Je ne sais pas, monsieur, de quoi vous me blâmez.
 Je me connais aimable, et crois que vous m'aimez :
@@ -1842,7 +1842,7 @@ Son vif excès me tue ensemble et me console,
 Et puisqu'il nous rejoint…
 
 
-**** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *date_1636 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lyse
+**** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *id_LYSE *date_1636 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lyse
 
 À ce compte, monsieur, votre esprit est malade ?
 
@@ -2158,7 +2158,7 @@ Madame… Elle se meurt ; épargnons les discours,
 Et courons au logis appeler du secours.
 
 
-**** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *date_1636 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_geolier
+**** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *id_GEOLIER *date_1636 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_geolier
 
 Bannissez vos frayeurs : tout va le mieux du monde ;
 Il ne faut que partir, j'ai des chevaux tous prêts,

@@ -1,6 +1,6 @@
 
 
-**** *creator_montfleury *book_montfleury_fillecapitaine *style_verse *genre_comedy *dist1_montfleury_verse_comedy_fillecapitaine *dist2_montfleury_verse_comedy *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurleblanc
+**** *creator_montfleury *book_montfleury_fillecapitaine *style_verse *genre_comedy *dist1_montfleury_verse_comedy_fillecapitaine *dist2_montfleury_verse_comedy *id_monsieur-le-blanc *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurleblanc
 
 Ma divine Moitié, vous n'en avez que faire :
 Si vous voulez me plaire, il faut changer de ton.
@@ -918,7 +918,7 @@ J'y consens : Cependant je vay reprendre haleine;
 Et saluë humblement LA FILLE CAPITAINE.
 
 
-**** *creator_montfleury *book_montfleury_fillecapitaine *style_verse *genre_comedy *dist1_montfleury_verse_comedy_fillecapitaine *dist2_montfleury_verse_comedy *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameleblanc
+**** *creator_montfleury *book_montfleury_fillecapitaine *style_verse *genre_comedy *dist1_montfleury_verse_comedy_fillecapitaine *dist2_montfleury_verse_comedy *id_madame-le-blanc *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameleblanc
 
 Où voulez-vous aller ? Je ne sçay point d'affaire…
 
@@ -1068,7 +1068,7 @@ Je le veux bien pourveu que ce soit avec vous.
 Pouvez-vous me blâmer, de baiser une Fille?
 
 
-**** *creator_montfleury *book_montfleury_fillecapitaine *style_verse *genre_comedy *dist1_montfleury_verse_comedy_fillecapitaine *dist2_montfleury_verse_comedy *date_1672 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_lucinde
+**** *creator_montfleury *book_montfleury_fillecapitaine *style_verse *genre_comedy *dist1_montfleury_verse_comedy_fillecapitaine *dist2_montfleury_verse_comedy *id_lucinde *date_1672 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_lucinde
 
 C'est un honneur pour moy qui passe mon attente.
 
@@ -1377,7 +1377,7 @@ Nous en pourrons sçavoir…
 Mon Frere est arrivé, nous voila hors de peine.
 
 
-**** *creator_montfleury *book_montfleury_fillecapitaine *style_verse *genre_comedy *dist1_montfleury_verse_comedy_fillecapitaine *dist2_montfleury_verse_comedy *date_1672 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_angelique
+**** *creator_montfleury *book_montfleury_fillecapitaine *style_verse *genre_comedy *dist1_montfleury_verse_comedy_fillecapitaine *dist2_montfleury_verse_comedy *id_angelique *date_1672 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_angelique
 
 Je suis libre à present, & maistresse de moy,
 Cousine, & je m'en vais passer huit jours chez toy.
@@ -1912,7 +1912,7 @@ Il n'en est pas besoin, voila vostre Garent.
 Comment, le Capitaine?
 
 
-**** *creator_montfleury *book_montfleury_fillecapitaine *style_verse *genre_comedy *dist1_montfleury_verse_comedy_fillecapitaine *dist2_montfleury_verse_comedy *date_1672 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_damon
+**** *creator_montfleury *book_montfleury_fillecapitaine *style_verse *genre_comedy *dist1_montfleury_verse_comedy_fillecapitaine *dist2_montfleury_verse_comedy *id_damon *date_1672 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_damon
 
 Oüy, Madame, il est vray, ce long retardement
 Mettroit au desespoir le moins sensible Amant.
@@ -2170,7 +2170,7 @@ Une Fille!
 Non, vous pouvez l'en croire, apres cette assurance.
 
 
-**** *creator_montfleury *book_montfleury_fillecapitaine *style_verse *genre_comedy *dist1_montfleury_verse_comedy_fillecapitaine *dist2_montfleury_verse_comedy *date_1672 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lesperance
+**** *creator_montfleury *book_montfleury_fillecapitaine *style_verse *genre_comedy *dist1_montfleury_verse_comedy_fillecapitaine *dist2_montfleury_verse_comedy *id_l-esperance *date_1672 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lesperance
 
 Madame, Serviteur à vostre Compagnie,
 Fussiez-vous trente.
@@ -2360,7 +2360,7 @@ Je partirons tanstot⁎, puis que vous le voulez;
 Je m'en vay boire un coup en attendant.
 
 
-**** *creator_montfleury *book_montfleury_fillecapitaine *style_verse *genre_comedy *dist1_montfleury_verse_comedy_fillecapitaine *dist2_montfleury_verse_comedy *date_1672 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cato
+**** *creator_montfleury *book_montfleury_fillecapitaine *style_verse *genre_comedy *dist1_montfleury_verse_comedy_fillecapitaine *dist2_montfleury_verse_comedy *id_cato *date_1672 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cato
 
 Ah que pour vostre amour j'ay de bonnes nouvelles !
 Nous irons à la Nopce, & l'Hymen⁎ achevé…

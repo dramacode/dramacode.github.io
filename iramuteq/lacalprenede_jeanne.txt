@@ -1,6 +1,6 @@
 
 
-**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marie
+**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_MARIE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marie
 
 Le Ciel qui m'a rendu la fortune prospère,
 Me guidant par la main au trône de mon père,
@@ -313,7 +313,7 @@ Et pour vous souhaiter une fortune pire,
 Que ma soeur après moi succède à cet Empire.
 
 
-**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elisabeth
+**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_ELISABETH *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elisabeth
 
 Ils ne peuvent souffrir qu'un malheur légitime,
 Et si le traitement se mesure à leur crime :
@@ -442,7 +442,7 @@ Et pour tout intérêt je n'en ai que le vôtre.
 Je n'ai pas mérité.
 
 
-**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jeanne
+**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_JEANNE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jeanne
 
 Quoiqu'en me consolant tu penses m'obliger,
 Tes consolations ne font que m'affliger.
@@ -915,7 +915,7 @@ Et ne t'oppose plus au bonheur que j'attends :
 Allons, Monsieur, allons, nous y serons à temps.
 
 
-**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilfort
+**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_GILFORT *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilfort
 
 Quoique le triste état où nos jours sont réduits
 Puisse en quelque façon excuser vos ennuis,
@@ -1142,7 +1142,7 @@ Je prendrai congé d'elle, adieu, Madame, adieu.
       Adieu, Madame.
 
 
-**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leducdenorthbelant
+**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_LEDUCDENORTHBELANT *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leducdenorthbelant
 
 Madame tout va mal.
 
@@ -1334,7 +1334,7 @@ Et comble les auteurs de mon dernier bonheur,
 De gloire, de plaisir, de repos, et d'honneur.
 
 
-**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leducdenolfoc
+**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_LEDUCDENOLFOC *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leducdenolfoc
 
 Retiré par vos mains d'une prison barbare,
 J'éprouve le premier une bonté si rare,
@@ -1459,7 +1459,7 @@ Mais le comte d'Erby qui revient de la tour,
 Vous en peut mieux que tous apprendre la nouvelle.
 
 
-**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomtedeclocestre
+**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_LECOMTEDECLOCESTRE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomtedeclocestre
 
 Invincibles Anglais, peuple jadis fidèle,
 Et maintenant ingrat, pardonnez à mon zèle,
@@ -1625,7 +1625,7 @@ Et témoigné pour elle une si vive ardeur,
 Qu'on a cru sur le champ qu'il mourait de douleur.
 
 
-**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomtederby
+**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_LECOMTEDERBY *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomtederby
 
       Jugez-le par mes pleurs,
 Ma douleur sur mon front est assez manifeste,
@@ -1728,7 +1728,7 @@ Qui murmure en mourant une basse parole,
 Le corps tombe sanglant, et son âme s'envole.
 
 
-**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomtedarondel
+**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_LECOMTEDARONDEL *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomtedarondel
 
 Quand vous n'y seriez pas obligés de naissance
 Votre salut dépend de votre obéissance,
@@ -1748,7 +1748,7 @@ Madame vous pourrez le revoir aujourd'hui.
 Vous plaît-il de partir '
 
 
-**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eleonor
+**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_ELEONOR *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eleonor
 
 Madame quelqu'un entre, et si j'ai bonne vue,
 C'est le Prince Gilfort, je ne suis point déçue.
@@ -1849,7 +1849,7 @@ Et qu'après son trépas je n'en jouirai plus.
       Juste ciel !
 
 
-**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecapitainedesgardes
+**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_LECAPITAINEDESGARDES *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecapitainedesgardes
 
 Je viens vous consoler d'une bonne nouvelle,
 Ne croyez pas, Monsieur, la Reine si cruelle,
@@ -1870,7 +1870,7 @@ Lisez-y ma pensée, et mon affliction.
 Madame on vous attend.
 
 
-**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *date_1637 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_soldats
+**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_SOLDATS *date_1637 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_soldats
 
 Ha ! Seigneur.
 

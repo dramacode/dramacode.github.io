@@ -1,6 +1,6 @@
 
 
-**** *creator_marivaux *book_marivaux_faussesuivante *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesuivante *dist2_marivaux_prose_comedy *date_1724 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+**** *creator_marivaux *book_marivaux_faussesuivante *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesuivante *dist2_marivaux_prose_comedy *id_LACOMTESSE *date_1724 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
 
 Quoi ! Chevalier, vous prenez de pareils prétextes pour nous quitter ? Si vous nous disiez les véritables raisons qui pressent votre retour à Paris, on ne vous retiendrait peut-être pas.
 
@@ -273,7 +273,7 @@ Ah juste ciel !
 Je n'en connais point de plus triste que celui que vous me jouez vous-même.
 
 
-**** *creator_marivaux *book_marivaux_faussesuivante *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesuivante *dist2_marivaux_prose_comedy *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lelio
+**** *creator_marivaux *book_marivaux_faussesuivante *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesuivante *dist2_marivaux_prose_comedy *id_LELIO *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lelio
 
 Arlequin !... Ah ! Chevalier, je vous cherchais.
 
@@ -696,7 +696,7 @@ Et le dédit, Madame, vous voulez donc bien l'acquitter ?
 Ah, fourbe !
 
 
-**** *creator_marivaux *book_marivaux_faussesuivante *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesuivante *dist2_marivaux_prose_comedy *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+**** *creator_marivaux *book_marivaux_faussesuivante *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesuivante *dist2_marivaux_prose_comedy *id_LECHEVALIER *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
 
 Eh bien, m'avez-vous trouvé un domestique ?
 
@@ -1234,7 +1234,7 @@ Elle est, je vous en avertis,
 Cent fois plus drôle, je vous jure.
 
 
-**** *creator_marivaux *book_marivaux_faussesuivante *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesuivante *dist2_marivaux_prose_comedy *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trivelin
+**** *creator_marivaux *book_marivaux_faussesuivante *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesuivante *dist2_marivaux_prose_comedy *id_TRIVELIN *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trivelin
 
 À merveille, mon cher Frontin, à merveille. Je n'ai rien perdu des vrais biens que tu me connaissais, santé admirable et grand appétit. Mais toi, que fais-tu à présent ? Je t'ai vu dans un petit négoce qui t'allait bientôt rendre citoyen de Paris ; l'as-tu quitté ?
 
@@ -1541,7 +1541,7 @@ Il y a une heure que je vous l'ai proposé.
 Voici les musiciens qui viennent vous donner la fête qu'ils ont promise.
 
 
-**** *creator_marivaux *book_marivaux_faussesuivante *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesuivante *dist2_marivaux_prose_comedy *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_marivaux *book_marivaux_faussesuivante *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesuivante *dist2_marivaux_prose_comedy *id_ARLEQUIN *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Vous m'avez l'air d'un bon vivant.
 
@@ -1663,7 +1663,7 @@ Tenez, Monsieur, écoutez mes raisons ; je suis venu tantôt, que Trivelin lui d
 Ayez donc soin de mon bien. Hé, hé, hé
 
 
-**** *creator_marivaux *book_marivaux_faussesuivante *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesuivante *dist2_marivaux_prose_comedy *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+**** *creator_marivaux *book_marivaux_faussesuivante *style_prose *genre_comedy *dist1_marivaux_prose_comedy_faussesuivante *dist2_marivaux_prose_comedy *id_FRONTIN *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
 
 Je pense que voilà le seigneur Trivelin ; c'est lui-même. Eh ! Comment te portes-tu, mon cher ami ?
 

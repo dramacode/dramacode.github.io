@@ -1,6 +1,6 @@
 
 
-**** *creator_riccoboni-riccoboni-romagnesi *book_riccoboni-riccoboni-romagnesi_echodupublic *style_verse *genre_comedy *dist1_riccoboni-riccoboni-romagnesi_verse_comedy_echodupublic *dist2_riccoboni-riccoboni-romagnesi_verse_comedy *date_1741 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacritique
+**** *creator_riccoboni-riccoboni-romagnesi *book_riccoboni-riccoboni-romagnesi_echodupublic *style_verse *genre_comedy *dist1_riccoboni-riccoboni-romagnesi_verse_comedy_echodupublic *dist2_riccoboni-riccoboni-romagnesi_verse_comedy *id_LACRITIQUE *date_1741 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacritique
 
 Non, c'est en vain que votre Rhétorique
 Veut me faire tremper dans un pareil projet.
@@ -395,7 +395,7 @@ Et que vos jeux, dans ces jardins,
 Annoncent le retour de Flore.
 
 
-**** *creator_riccoboni-riccoboni-romagnesi *book_riccoboni-riccoboni-romagnesi_echodupublic *style_verse *genre_comedy *dist1_riccoboni-riccoboni-romagnesi_verse_comedy_echodupublic *dist2_riccoboni-riccoboni-romagnesi_verse_comedy *date_1741 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_belise
+**** *creator_riccoboni-riccoboni-romagnesi *book_riccoboni-riccoboni-romagnesi_echodupublic *style_verse *genre_comedy *dist1_riccoboni-riccoboni-romagnesi_verse_comedy_echodupublic *dist2_riccoboni-riccoboni-romagnesi_verse_comedy *id_BELISE *date_1741 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_belise
 
 Déesse permettez qu'en ce moment heureux.
 Mon coeur vous témoigne sa joie,
@@ -532,7 +532,7 @@ La médisance et l'imposture
 Ne m'en épargneraient pas plus.
 
 
-**** *creator_riccoboni-riccoboni-romagnesi *book_riccoboni-riccoboni-romagnesi_echodupublic *style_verse *genre_comedy *dist1_riccoboni-riccoboni-romagnesi_verse_comedy_echodupublic *dist2_riccoboni-riccoboni-romagnesi_verse_comedy *date_1741 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_larlequinfrancais
+**** *creator_riccoboni-riccoboni-romagnesi *book_riccoboni-riccoboni-romagnesi_echodupublic *style_verse *genre_comedy *dist1_riccoboni-riccoboni-romagnesi_verse_comedy_echodupublic *dist2_riccoboni-riccoboni-romagnesi_verse_comedy *id_LARLEQUINFRANCAIS *date_1741 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_larlequinfrancais
 
 Je viens ici pour savoir bien des choses.
 En premier lieu vous voyez Arlequin.
@@ -717,7 +717,7 @@ Expliquez-vous mieux, s'il vous plaît.
       C'en est assez.
 
 
-**** *creator_riccoboni-riccoboni-romagnesi *book_riccoboni-riccoboni-romagnesi_echodupublic *style_verse *genre_comedy *dist1_riccoboni-riccoboni-romagnesi_verse_comedy_echodupublic *dist2_riccoboni-riccoboni-romagnesi_verse_comedy *date_1741 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_larlequinitalien
+**** *creator_riccoboni-riccoboni-romagnesi *book_riccoboni-riccoboni-romagnesi_echodupublic *style_verse *genre_comedy *dist1_riccoboni-riccoboni-romagnesi_verse_comedy_echodupublic *dist2_riccoboni-riccoboni-romagnesi_verse_comedy *id_LARLEQUINITALIEN *date_1741 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_larlequinitalien
 
 Montrez-moi mon panégyrique,
 Peste soit de ces mots français
@@ -782,7 +782,7 @@ Comment cela se peut-il faire ?
 Je vous entends.
 
 
-**** *creator_riccoboni-riccoboni-romagnesi *book_riccoboni-riccoboni-romagnesi_echodupublic *style_verse *genre_comedy *dist1_riccoboni-riccoboni-romagnesi_verse_comedy_echodupublic *dist2_riccoboni-riccoboni-romagnesi_verse_comedy *date_1741 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+**** *creator_riccoboni-riccoboni-romagnesi *book_riccoboni-riccoboni-romagnesi_echodupublic *style_verse *genre_comedy *dist1_riccoboni-riccoboni-romagnesi_verse_comedy_echodupublic *dist2_riccoboni-riccoboni-romagnesi_verse_comedy *id_LEMARQUIS *date_1741 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
 
 Parbleu, Déesse ; sans mentir,
 Je vous donne bien de la peine,
@@ -930,7 +930,7 @@ Il se dit l'écho du public,
 Et n'est l'écho que de lui-même.
 
 
-**** *creator_riccoboni-riccoboni-romagnesi *book_riccoboni-riccoboni-romagnesi_echodupublic *style_verse *genre_comedy *dist1_riccoboni-riccoboni-romagnesi_verse_comedy_echodupublic *dist2_riccoboni-riccoboni-romagnesi_verse_comedy *date_1741 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_filemon
+**** *creator_riccoboni-riccoboni-romagnesi *book_riccoboni-riccoboni-romagnesi_echodupublic *style_verse *genre_comedy *dist1_riccoboni-riccoboni-romagnesi_verse_comedy_echodupublic *dist2_riccoboni-riccoboni-romagnesi_verse_comedy *id_FILEMON *date_1741 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_filemon
 
       Déesse, je m'ennuie.
 
@@ -1019,7 +1019,7 @@ M'attribuant la moitié de la gloire,
 Du succès de l'auteur me feront compliment.
 
 
-**** *creator_riccoboni-riccoboni-romagnesi *book_riccoboni-riccoboni-romagnesi_echodupublic *style_verse *genre_comedy *dist1_riccoboni-riccoboni-romagnesi_verse_comedy_echodupublic *dist2_riccoboni-riccoboni-romagnesi_verse_comedy *date_1741 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lauteur
+**** *creator_riccoboni-riccoboni-romagnesi *book_riccoboni-riccoboni-romagnesi_echodupublic *style_verse *genre_comedy *dist1_riccoboni-riccoboni-romagnesi_verse_comedy_echodupublic *dist2_riccoboni-riccoboni-romagnesi_verse_comedy *id_LAUTEUR *date_1741 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lauteur
 
 Déesse, je vous en supplie,
 Honorez-moi de vos sages avis,

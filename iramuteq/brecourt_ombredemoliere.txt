@@ -1,6 +1,6 @@
 
 
-**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *date_1674 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_ombre
+**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *id_ombre *date_1674 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_ombre
 
 Donne, donne-moy ce Balay.
 
@@ -43,7 +43,7 @@ Il faut bien qu'il luy ait fait quelque chose.
 Oüy, Messieurs, et vous pouvez quereller icy fort proprement.
 
 
-**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caron
+**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *id_caron *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caron
 
 Que font là ces Coquins ? Allons, tout est-il net ?
 
@@ -123,7 +123,7 @@ Messieurs, Pluton se va coucher ; son Bonnet de nuit l'attend ; Vous avez oüy
 FIN.
 
 
-**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_poete
+**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *id_poete *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_poete
 
 Helas, Caron ! helas !
 
@@ -142,7 +142,7 @@ Où veux-tu donc que j'aille ?
 Helas, Car…
 
 
-**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_pluton
+**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *id_pluton *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_pluton
 
 Ça, il est donc question de rendre justice aujourd'huy. Fay venir l'Accusé, Caron ; et que l'Envie ameine les Complaignans. Nous avons donc bien des affaires, Messieurs ?
 
@@ -302,7 +302,7 @@ Entre Térence et Plaute occupe le milieu.
 Le carillon se fait.
 
 
-**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_radamante
+**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *id_radamante *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_radamante
 
 Sans-doute, et il nous est arrivé aujourd'huy une Ombre qui nous va bien donner de la besogne.
 
@@ -313,7 +313,7 @@ Il n'y a qu'honneur à juger en sa faveur.
 Je suis de cet avis.
 
 
-**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_minos
+**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *id_minos *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_minos
 
 Ce ne sera pas une bagatelle que cette affaire-cy.
 
@@ -332,7 +332,7 @@ Moy ? Que cette Ombre est de bon sens, et qu'elle mérite bien quelque Jugement
 Hé, oüyda ; car il est vray que nous avons quelque mesure à garder avec la Faculté.
 
 
-**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moliere
+**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *id_moliere *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moliere
 
 Rien, et cette matiere est indigne de moy.
 
@@ -387,7 +387,7 @@ Il me souvient icy, avec quelque douleur, de la foiblesse d'un de mes Amis qui s
 Qu'ils se plaignent maintenant de moy, et que ton équité, Grand Monarque, paroisse dans tes Jugemens.
 
 
-**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *date_1674 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lapretieuse
+**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *id_la-pretieuse *date_1674 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lapretieuse
 
 Grand Monarque des sombres Habitations, plaise aux Destins que vous prestiez attentivement le sens auriculaire de vostre Justice aux éloquentes articulations de nos clameurs, et que par le triste 37 visage de nostre ame vous puissiez estre pénétré de nos unanimes sentimens.
 
@@ -402,7 +402,7 @@ Quoy ! la dureté de vostre Compréhension ne peut estre amolie par le concert 
 Quoy, Monarque enfumé ! vous répandrez de vos propres bontez sur le gemissement de nos altercations ?
 
 
-**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *date_1674 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nicole
+**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *id_nicole *date_1674 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nicole
 
 Hé, oüy, c'est moy. Quand j'ay appris que vous estiez icy, par ma figue, ay-je dit en moy-mesme, il faut que j'aille voir ce pauvre Homme qui m'a tant fait rire en l'autre Monde.
 
@@ -423,7 +423,7 @@ Je viens vous prier, Mon- sieur… de me… laisser… de me laisser… de me la
 Monsieur, je vous prie… s'il vous plaist… de m'accorder le plaisir… le plaisir de rire tout mon sou, de vous, et de vostre Royaume.
 
 
-**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pourceaugnac
+**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *id_pourceaugnac *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pourceaugnac
 
 Grand Roy des Morts, vous me voyez icy, Député de la part de tous les Limousins trépassez, qui vous demandent qu'il leur soit permis ajourner cette Ombre, leur Partie, par-devant Vous, à trois jours, pour se voir condamner à reparation d'hon- neur envers les Pourceaugnacs passez, presens, et futurs, tant des affronts reçeus, que de ceux qu'ils recevront. A quoy je conclus.
 
@@ -442,7 +442,7 @@ Il a quelque raison au fonds.
 Ma foy, apres tout, je pense en effet que j'ay tort de m'estre fâché contre luy. Qui diantre sont les sottes Ombres aussi qui s'avisent de me mettre des fariboles dans la teste ? Allez, vous estes des Bestes : Monsieur est une honneste Ombre, qui a pris la peine de me faire connoistre, et vous ne sçavez pas prendre les choses du bon costé. Monsieur, je suis fâché de tout cecy, et je vous de- mande pardon pour les Ombres de Limoge. Je suis vostre Valet, tout à vous, vostre Serviteur, et vostre Amy. Je vay chercher mon Cousin l'Assesseur, et mon Neveu le Chanoine, afin que nous beuvions ensemble quelques Verres d'oubly, pour ne nous plus souvenir du passé.
 
 
-**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *date_1674 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mmejourdain
+**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *id_mme-jourdain *date_1674 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mmejourdain
 
 Justice, justice, justice, justice, justice.
 
@@ -461,7 +461,7 @@ Oüy, Jean Ridoux.
 Oüy, qu'avez-vous à me frire ?
 
 
-**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_medecins
+**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *id_medecins *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_medecins
 
 Grand Monarque des Morts, vous voyez icy la fleur de vos plus fidelles Pensionnaires.
 
@@ -486,7 +486,7 @@ Quoy, Pluton…
 Nous demandons justice, justice.
 
 
-**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
+**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *id_oronte *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
 
 Point, vous dis-je ; C'est une raillerie qu'on vous a faite de moy.
 
@@ -514,7 +514,7 @@ Ne me faites pas rougir davantage, Cleante ; et venez seulement donner vostre a
 Fin du prologue.
 
 
-**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleante
+**** *creator_brecourt *book_brecourt_ombredemoliere *style_prose *genre_comedy *dist1_brecourt_prose_comedy_ombredemoliere *dist2_brecourt_prose_comedy *id_cleante *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleante
 
 Je vous dis que je suis seûr de la chose.
 

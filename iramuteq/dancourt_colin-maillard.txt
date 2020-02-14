@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_colin-maillard *style_prose *genre_comedy *dist1_dancourt_prose_comedy_colin-maillard *dist2_dancourt_prose_comedy *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurrobinot
+**** *creator_dancourt *book_dancourt_colin-maillard *style_prose *genre_comedy *dist1_dancourt_prose_comedy_colin-maillard *dist2_dancourt_prose_comedy *id_MONSIEURROBINOT *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurrobinot
 
 Je reviendrai ce soir, mon enfant, je ne vais qu'à deux lieux d'ici, consulter un peu le Bailli de Pontoise, mon parent et mon ami, sur une petite affaire dans laquelle tu me feras aussi besoin.
 
@@ -180,7 +180,7 @@ Ah, je suis trahi, je suis assassiné !
 Vous étiez tous de concert, vous êtes des coquins, des canailles. Allons, cousin, ils ne peuvent être loin ; courons après ; et si je les attrape, je ferai tout pendre, et ma tante et Angélique même.
 
 
-**** *creator_dancourt *book_dancourt_colin-maillard *style_prose *genre_comedy *dist1_dancourt_prose_comedy_colin-maillard *dist2_dancourt_prose_comedy *date_1701 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_madamebrillard
+**** *creator_dancourt *book_dancourt_colin-maillard *style_prose *genre_comedy *dist1_dancourt_prose_comedy_colin-maillard *dist2_dancourt_prose_comedy *id_MADAMEBRILLARD *date_1701 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_madamebrillard
 
 Ah, ah ! Mon neveu, vous voilà encore ? Je vous croyais bien loin.
 
@@ -307,7 +307,7 @@ Je vous accompagnerai moi, je servirai de chaperon, j'aime à voyager.
 Cela est vrai, mon neveu, je le sais mieux que personne ?
 
 
-**** *creator_dancourt *book_dancourt_colin-maillard *style_prose *genre_comedy *dist1_dancourt_prose_comedy_colin-maillard *dist2_dancourt_prose_comedy *date_1701 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+**** *creator_dancourt *book_dancourt_colin-maillard *style_prose *genre_comedy *dist1_dancourt_prose_comedy_colin-maillard *dist2_dancourt_prose_comedy *id_ANGELIQUE *date_1701 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
 Ah, ma pauvre Claudine, à quoi t'amuses-tu donc ? Que tu es lente ! As-tu trouvé ce jeune Monsieur ?
 
@@ -388,7 +388,7 @@ Oh, non, Monsieur, vous y jouerez : cela serait beau vraiment, qu'au moment de 
 Donne, donne-moi que je tire la première.
 
 
-**** *creator_dancourt *book_dancourt_colin-maillard *style_prose *genre_comedy *dist1_dancourt_prose_comedy_colin-maillard *dist2_dancourt_prose_comedy *date_1701 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_claudine
+**** *creator_dancourt *book_dancourt_colin-maillard *style_prose *genre_comedy *dist1_dancourt_prose_comedy_colin-maillard *dist2_dancourt_prose_comedy *id_CLAUDINE *date_1701 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_claudine
 
 Hé ! Venez vite, Madame ; venez vite.
 
@@ -583,7 +583,7 @@ C'est ce Monsieur du cabinet d'hier au soir.
 Vous n'êtes pas heureux à Colin-Maillard, n'y jouez plus.
 
 
-**** *creator_dancourt *book_dancourt_colin-maillard *style_prose *genre_comedy *dist1_dancourt_prose_comedy_colin-maillard *dist2_dancourt_prose_comedy *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+**** *creator_dancourt *book_dancourt_colin-maillard *style_prose *genre_comedy *dist1_dancourt_prose_comedy_colin-maillard *dist2_dancourt_prose_comedy *id_ERASTE *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
 
 Ah ! Madame, que j'ai de grâces à vous rendre des avis que vous m'avez donnés par votre lettre : mais suis-je assez tôt arrivé pour mettre obstacle à mon malheur ?
 
@@ -738,7 +738,7 @@ S'il vous en faut encore quelque autre, voilà Mathurin qui vous rendra compte�
 Je dégagerai votre parole, avouez-moi de tout seulement, et consentez au dessein que l'on vous a dit.
 
 
-**** *creator_dancourt *book_dancourt_colin-maillard *style_prose *genre_comedy *dist1_dancourt_prose_comedy_colin-maillard *dist2_dancourt_prose_comedy *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepine
+**** *creator_dancourt *book_dancourt_colin-maillard *style_prose *genre_comedy *dist1_dancourt_prose_comedy_colin-maillard *dist2_dancourt_prose_comedy *id_LEPINE *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepine
 
 Moi-même, Madame, à votre service.
 

@@ -1,6 +1,6 @@
 
 
-**** *creator_duryer *book_duryer_anaxandre *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_anaxandre *dist2_duryer_verse_tragedy *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
+**** *creator_duryer *book_duryer_anaxandre *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_anaxandre *dist2_duryer_verse_tragedy *id_LEROI *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
 
 Que voulez-vous, ma fille ? Il semble que la peur
 Vous ait lié la langue, et vous serre le coeur,
@@ -182,7 +182,7 @@ Et puisse avecque vous régner toujours la paix
 Qui doit des Potentats faire tous les souhaits.
 
 
-**** *creator_duryer *book_duryer_anaxandre *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_anaxandre *dist2_duryer_verse_tragedy *date_1654 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cephise
+**** *creator_duryer *book_duryer_anaxandre *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_anaxandre *dist2_duryer_verse_tragedy *id_CEPHISE *date_1654 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cephise
 
 De quoi peux-tu te plaindre, et de quoi te plains-tu ?
 Est-ce d'avoir montré ce que peut ta vertu ?
@@ -828,7 +828,7 @@ J'obéis sans contrainte à des lois équitables.
 Au moins sais-je obéir, et je l'ai fait paraître.
 
 
-**** *creator_duryer *book_duryer_anaxandre *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_anaxandre *dist2_duryer_verse_tragedy *date_1654 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alcione
+**** *creator_duryer *book_duryer_anaxandre *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_anaxandre *dist2_duryer_verse_tragedy *id_ALCIONE *date_1654 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alcione
 
 Devez-vous en douter ?
 
@@ -1099,7 +1099,7 @@ Quoi donc, faut-il aimer ? Je sais vous obéir.
       M'y voilà prête.
 
 
-**** *creator_duryer *book_duryer_anaxandre *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_anaxandre *dist2_duryer_verse_tragedy *date_1654 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_asterie
+**** *creator_duryer *book_duryer_anaxandre *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_anaxandre *dist2_duryer_verse_tragedy *id_ASTERIE *date_1654 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_asterie
 
 Il semble qu'Alphénor se retire en colère.
 
@@ -1292,7 +1292,7 @@ Et si l'on doit enfin en croire l'apparence,
 Ma fortune a pour guide un rayon d'espérance.
 
 
-**** *creator_duryer *book_duryer_anaxandre *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_anaxandre *dist2_duryer_verse_tragedy *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anaxandre
+**** *creator_duryer *book_duryer_anaxandre *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_anaxandre *dist2_duryer_verse_tragedy *id_ANAXANDRE *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anaxandre
 
 Voici l'heure à peu près qu'en cette promenade
 Je trouve du secours à mon esprit malade,
@@ -1702,7 +1702,7 @@ Conduit par Alphénor, je venais vous le dire.
 Ainsi je suis heureux.
 
 
-**** *creator_duryer *book_duryer_anaxandre *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_anaxandre *dist2_duryer_verse_tragedy *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phedime
+**** *creator_duryer *book_duryer_anaxandre *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_anaxandre *dist2_duryer_verse_tragedy *id_PHEDIME *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phedime
 
 Pour moi que le Destin semblant vous méconnaître
 Fait au moins en prison compagnon de mon Maître,
@@ -1786,7 +1786,7 @@ Nous faire par nous-même une chaîne nouvelle.
 Ainsi nous devenons plus captifs que jamais.
 
 
-**** *creator_duryer *book_duryer_anaxandre *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_anaxandre *dist2_duryer_verse_tragedy *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alphenor
+**** *creator_duryer *book_duryer_anaxandre *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_anaxandre *dist2_duryer_verse_tragedy *id_ALPHENOR *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alphenor
 
 N'ai-je donc remporté victoire sur victoire
 Que pour trouver la honte où j'apporte la gloire ?
@@ -2054,7 +2054,7 @@ Ha, Sire, vos bontés ont bien plus fait que moi,
 Pour me faire obtenir le prix que je reçois !
 
 
-**** *creator_duryer *book_duryer_anaxandre *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_anaxandre *dist2_duryer_verse_tragedy *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_prodote
+**** *creator_duryer *book_duryer_anaxandre *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_anaxandre *dist2_duryer_verse_tragedy *id_PRODOTE *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_prodote
 
       Que ce m'est, Madame, un grand ravissement
 De pouvoir aujourd'hui vous parler librement,

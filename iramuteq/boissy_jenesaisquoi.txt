@@ -1,6 +1,6 @@
 
 
-**** *creator_boissy *book_boissy_jenesaisquoi *style_verse *genre_comedy *dist1_boissy_verse_comedy_jenesaisquoi *dist2_boissy_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
+**** *creator_boissy *book_boissy_jenesaisquoi *style_verse *genre_comedy *dist1_boissy_verse_comedy_jenesaisquoi *dist2_boissy_verse_comedy *id_MOMUS *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
 
 Que vient faire Cypris dans ce lieu solitaire ?
 
@@ -154,7 +154,7 @@ Partout mon régiment;
 Par mon ordre déjà la fête est préparée.
 
 
-**** *creator_boissy *book_boissy_jenesaisquoi *style_verse *genre_comedy *dist1_boissy_verse_comedy_jenesaisquoi *dist2_boissy_verse_comedy *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
+**** *creator_boissy *book_boissy_jenesaisquoi *style_verse *genre_comedy *dist1_boissy_verse_comedy_jenesaisquoi *dist2_boissy_verse_comedy *id_VENUS *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
 
 Et qu'y cherche Momus ?
 
@@ -213,7 +213,7 @@ Une mortelle aura peut-être le secret
 De venger ma disgrâce.
 
 
-**** *creator_boissy *book_boissy_jenesaisquoi *style_verse *genre_comedy *dist1_boissy_verse_comedy_jenesaisquoi *dist2_boissy_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
+**** *creator_boissy *book_boissy_jenesaisquoi *style_verse *genre_comedy *dist1_boissy_verse_comedy_jenesaisquoi *dist2_boissy_verse_comedy *id_APOLLON *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
 
 Le Dieu Momus l'y cherche aussi.
 Est-ce pour lui donner un brevet de Calotte ?
@@ -272,7 +272,7 @@ Honteux d'avoir tenté des efforts superflus,
 Je vais suivre trop tard le conseil de Momus.
 
 
-**** *creator_boissy *book_boissy_jenesaisquoi *style_verse *genre_comedy *dist1_boissy_verse_comedy_jenesaisquoi *dist2_boissy_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_legeometre
+**** *creator_boissy *book_boissy_jenesaisquoi *style_verse *genre_comedy *dist1_boissy_verse_comedy_jenesaisquoi *dist2_boissy_verse_comedy *id_LEGEOMETRE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_legeometre
 
 Plus je combine, plus je pense,
 Et moins dans le fond je conçois
@@ -340,7 +340,7 @@ Et dans cette occurrence,
 Mes yeux sont convaincus, mais non pas mon esprit.
 
 
-**** *creator_boissy *book_boissy_jenesaisquoi *style_verse *genre_comedy *dist1_boissy_verse_comedy_jenesaisquoi *dist2_boissy_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepetitmaitre
+**** *creator_boissy *book_boissy_jenesaisquoi *style_verse *genre_comedy *dist1_boissy_verse_comedy_jenesaisquoi *dist2_boissy_verse_comedy *id_LEPETITMAITRE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepetitmaitre
 
 Au Dieu de l'Agrément je fais la révérence,
 En qualité d'ambassadeur.
@@ -457,7 +457,7 @@ Une humeur brusque, un air sombre et sauvage.
 Vous faites sagement de rester au village.
 
 
-**** *creator_boissy *book_boissy_jenesaisquoi *style_verse *genre_comedy *dist1_boissy_verse_comedy_jenesaisquoi *dist2_boissy_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesuisse
+**** *creator_boissy *book_boissy_jenesaisquoi *style_verse *genre_comedy *dist1_boissy_verse_comedy_jenesaisquoi *dist2_boissy_verse_comedy *id_LESUISSE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesuisse
 
 Li Tieu qui préside à la Tonne,
 Monsir Pacchus, me preserir à tous,
@@ -545,7 +545,7 @@ Pendant trente-cinq ans, moil'asre pu sans toi,
 Et li poire encor pien li reste de mon fie.
 
 
-**** *creator_boissy *book_boissy_jenesaisquoi *style_verse *genre_comedy *dist1_boissy_verse_comedy_jenesaisquoi *dist2_boissy_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepublicfeminin
+**** *creator_boissy *book_boissy_jenesaisquoi *style_verse *genre_comedy *dist1_boissy_verse_comedy_jenesaisquoi *dist2_boissy_verse_comedy *id_LEPUBLICFEMININ *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepublicfeminin
 
 Ah, vous voilà, Seigneur, je vous trouve à la fin,
 Mais ce n'est pas sans une peine extrême:
@@ -791,7 +791,7 @@ L'Auteur, plein d'agrément :
 Et, jusqu'à mon Mari, tout va m'être charmant.
 
 
-**** *creator_boissy *book_boissy_jenesaisquoi *style_verse *genre_comedy *dist1_boissy_verse_comedy_jenesaisquoi *dist2_boissy_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lacteurfrancais
+**** *creator_boissy *book_boissy_jenesaisquoi *style_verse *genre_comedy *dist1_boissy_verse_comedy_jenesaisquoi *dist2_boissy_verse_comedy *id_LACTEURFRANCAIS *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lacteurfrancais
 
 Dans l'état déplorable où nous sommes réduits,
 Je ne sais où je vais, je ne sais où je suis !
@@ -872,7 +872,7 @@ Et signalant mes coups par des débris illustres,
 Poignarder le souffleur, et briser tous nos lustres.
 
 
-**** *creator_boissy *book_boissy_jenesaisquoi *style_verse *genre_comedy *dist1_boissy_verse_comedy_jenesaisquoi *dist2_boissy_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemusicien
+**** *creator_boissy *book_boissy_jenesaisquoi *style_verse *genre_comedy *dist1_boissy_verse_comedy_jenesaisquoi *dist2_boissy_verse_comedy *id_LEMUSICIEN *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemusicien
 
 De nos communs efforts nous devons tout attendre.
 Vos pas brillants...
@@ -936,7 +936,7 @@ Que l'Art toujours doit être préféré.
 Un Pigeon qui roucoule.
 
 
-**** *creator_boissy *book_boissy_jenesaisquoi *style_verse *genre_comedy *dist1_boissy_verse_comedy_jenesaisquoi *dist2_boissy_verse_comedy *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ladanseuse
+**** *creator_boissy *book_boissy_jenesaisquoi *style_verse *genre_comedy *dist1_boissy_verse_comedy_jenesaisquoi *dist2_boissy_verse_comedy *id_LADANSEUSE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ladanseuse
 
       Votre Voix tendre....
 
@@ -1008,7 +1008,7 @@ A Fille qui fait un saut,
 Deux sauts, etc.
 
 
-**** *creator_boissy *book_boissy_jenesaisquoi *style_verse *genre_comedy *dist1_boissy_verse_comedy_jenesaisquoi *dist2_boissy_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_silvia
+**** *creator_boissy *book_boissy_jenesaisquoi *style_verse *genre_comedy *dist1_boissy_verse_comedy_jenesaisquoi *dist2_boissy_verse_comedy *id_SILVIA *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_silvia
 
 C'est Momus dont je suis la Loi,
 Et de la part de cet aimable Maître,

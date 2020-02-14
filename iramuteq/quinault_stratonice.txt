@@ -1,6 +1,6 @@
 
 
-**** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_barsine
+**** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *id_BARSINE *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_barsine
 
 Orgueilleux mouvement des âmes généreuses,
 Qui jamais sans régner ne peuvent être heureuses,
@@ -395,7 +395,7 @@ Mon oncle règne encore à Pergame aujourd'hui,
 Et je vais maintenant retourner près de lui.
 
 
-**** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cephise
+**** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *id_CEPHISE *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cephise
 
 Quoi, vous êtes, Madame, et rêveuse, et chagrine,
 Dans un jour que le roi pour votre hymen destine ?
@@ -451,7 +451,7 @@ Si proche d'un grand bien que le Ciel vous envoie,
 Madame, Vous montrez en effet peu de joie.
 
 
-**** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_seleucus
+**** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *id_SELEUCUS *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_seleucus
 
 Quoi, Princesse, à me fuir vous semblez déjà prête ?
 
@@ -1067,7 +1067,7 @@ Et par des nouds sacrés qui confirment la paix,
 Venez tous deux au temple être unis à jamais.
 
 
-**** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_policrate
+**** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *id_POLICRATE *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_policrate
 
 Mais son dessein, Seigneur, devrait vous satisfaire ;
 Allant voir Stratonice elle cherche à vous plaire.
@@ -1107,7 +1107,7 @@ J'ai fait ramer après, mais malgré mon envie
 On l'a trouvé si tard, qu'on l'a trouvé sans vie.
 
 
-**** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antiochus
+**** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *id_ANTIOCHUS *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antiochus
 
 Quand vous pourriez changer, je sais ce que je dois
 Aux désirs d'un père, aux ordres de mon roi,
@@ -1584,7 +1584,7 @@ Je ressens tout à coup ma santé de retour,
 Et ne puis plus mourir que de joie et d'amour.
 
 
-**** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_timante
+**** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *id_TIMANTE *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_timante
 
       À ce nom votre pâleur augmente,
 Reposez-vous, Seigneur.
@@ -1652,7 +1652,7 @@ Mais tout votre visage et s'altère et se trouble,
 Sortez d'ici, Seigneur, votre mal y redouble.
 
 
-**** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_stratonice
+**** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *id_STRATONICE *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_stratonice
 
       Oui, je le sais, Seigneur,
 Vous pouvez tout sur moi, ma mère et votre sour.
@@ -2053,7 +2053,7 @@ Je ne puis être à vous qu'en m'obtenant de lui.
 Puisqu'il a votre aveu, le mien n'est pas douteux.
 
 
-**** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_zenone
+**** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *id_ZENONE *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_zenone
 
 Mais contre Seleucus quel sujet vous anime ?
 Madame, il n'a pour vous fait voir que de l'estime.

@@ -1,6 +1,6 @@
 
 
-**** *creator_florian *book_florian_jumeauxdebergame *style_prose *genre_comedy *dist1_florian_prose_comedy_jumeauxdebergame *dist2_florian_prose_comedy *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_florian *book_florian_jumeauxdebergame *style_prose *genre_comedy *dist1_florian_prose_comedy_jumeauxdebergame *dist2_florian_prose_comedy *id_ARLEQUIN *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Comme il vous plaira; la rue est libre.
 
@@ -158,7 +158,7 @@ Te jure une ardeur éternelle,
 Prends-y garde, c'est mon jumeau.
 
 
-**** *creator_florian *book_florian_jumeauxdebergame *style_prose *genre_comedy *dist1_florian_prose_comedy_jumeauxdebergame *dist2_florian_prose_comedy *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_arlequincadet
+**** *creator_florian *book_florian_jumeauxdebergame *style_prose *genre_comedy *dist1_florian_prose_comedy_jumeauxdebergame *dist2_florian_prose_comedy *id_ARLEQUINCADET *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_arlequincadet
 
 Toujours joyeux, toujours content,
 Je sais braver la misère ;
@@ -254,7 +254,7 @@ Que vous m'aimerez pour moi-même,
 Et non pas comme son jumeau.
 
 
-**** *creator_florian *book_florian_jumeauxdebergame *style_prose *genre_comedy *dist1_florian_prose_comedy_jumeauxdebergame *dist2_florian_prose_comedy *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rosette
+**** *creator_florian *book_florian_jumeauxdebergame *style_prose *genre_comedy *dist1_florian_prose_comedy_jumeauxdebergame *dist2_florian_prose_comedy *id_ROSETTE *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rosette
 
 Bonjour, mon ami, je t'attendais avec impatience. Jamais je ne me suis tant ennuyée qu'aujourd'hui ; c'est sans doute parce que je dois t'épouser demain, et que la veille d'un beau jour est bien longue.
 
@@ -365,7 +365,7 @@ Si mon coeur a pu se méprendre,
 Ce n'était que pour ton jumeau.
 
 
-**** *creator_florian *book_florian_jumeauxdebergame *style_prose *genre_comedy *dist1_florian_prose_comedy_jumeauxdebergame *dist2_florian_prose_comedy *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
+**** *creator_florian *book_florian_jumeauxdebergame *style_prose *genre_comedy *dist1_florian_prose_comedy_jumeauxdebergame *dist2_florian_prose_comedy *id_NERINE *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
 
 Je te suivrai partout.
 

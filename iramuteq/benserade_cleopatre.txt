@@ -1,6 +1,6 @@
 
 
-**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antoine
+**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *id_ANTOINE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antoine
 
 Trouves-tu ma misère à quelque autre commune ?
 Ne puis-je pas sans peur défier la fortune ?
@@ -491,7 +491,7 @@ C'en est fait, je me sens réduit au dernier terme,
 L'amour m'ouvre les yeux, mais la mort les referme.
 
 
-**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucile
+**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *id_LUCILE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucile
 
 Ce sont traits de fortune.
 
@@ -602,7 +602,7 @@ Entrons dans son palais, ô dieux quelle harangue !
 Juste ciel que ne suis-je ou sans vie, ou sans langue !
 
 
-**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dircet
+**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *id_DIRCET *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dircet
 
 En ce noble dessein où l'honneur vous engage,
 Nous ferons voir aussi des effets de courage,
@@ -750,7 +750,7 @@ Par son commandement j'apporte cette épée
 Au sang d'un empereur tout fraîchement trempée.
 
 
-**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleopatre
+**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *id_CLEOPATRE *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleopatre
 
 Avez-vous résolu de sortir aujourd'hui
 Pour combler tous mes sens de frayeur, et d'ennui ?
@@ -1279,7 +1279,7 @@ Je sens bien que la mort achève mon martyre,
 Portez-moi sur mon lit qu'à mon aise j'expire.
 
 
-**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eras
+**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *id_ERAS *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eras
 
 Madame, il a raison de vous en soupçonner.
 
@@ -1381,7 +1381,7 @@ Et c'est à moi l'honneur de ce second trépas,
 Je vous suis au chemin que vous allez tenir ?
 
 
-**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_charmion
+**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *id_CHARMION *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_charmion
 
 Que votre majesté pense au doux nom de mère,
 Songez à vos enfants.
@@ -1476,7 +1476,7 @@ N'importe, on ne peut plus m'empêcher de mourir.
 Il est digne de nous, et de sa majesté.
 
 
-**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cesar
+**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *id_CESAR *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cesar
 
 Rome, il faut obéir, cette grandeur suprême
 Qui t'élevait au ciel te rabaisse elle-même,
@@ -1838,7 +1838,7 @@ Inhumons ce beau corps, pâle, immobile, froid,
 Et rendons des honneurs à qui m'en préparait.
 
 
-**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agripe
+**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *id_AGRIPE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agripe
 
 En de plus hauts desseins vous n'en pourriez pas faire,
 Qui peut autant que vous n'est jamais téméraire,
@@ -1981,7 +1981,7 @@ Et de voir élevé si haut l'aigle de Rome,
 Quoi qu'il ne soit posé que sur le front d'un homme.
 
 
-**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eros
+**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *id_EROS *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eros
 
 Ma liberté me sert de légitime excuse,
 Reprenez ma franchise, ou souffrez que j'en use,
@@ -2043,7 +2043,7 @@ Ou ma main, si j'ai dû vous donner le trépas,
 Me l'offrant me punit de ne vous l'offrir pas.
 
 
-**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_epaphrodite
+**** *creator_benserade *book_benserade_cleopatre *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_cleopatre *dist2_benserade_verse_tragedy *id_EPAPHRODITE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_epaphrodite
 
 Faut-il goûter si peu le fruit d'une victoire,
 Et pour cacher leur honte obscurcir votre gloire ?

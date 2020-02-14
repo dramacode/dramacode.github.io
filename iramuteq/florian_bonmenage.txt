@@ -1,6 +1,6 @@
 
 
-**** *creator_florian *book_florian_bonmenage *style_prose *genre_comedy *dist1_florian_prose_comedy_bonmenage *dist2_florian_prose_comedy *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_florian *book_florian_bonmenage *style_prose *genre_comedy *dist1_florian_prose_comedy_bonmenage *dist2_florian_prose_comedy *id_ARLEQUIN *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Veux-tu danser une contre-danse à quatre ?
 
@@ -149,7 +149,7 @@ Chut, chut, je comprends toute ma méprise : je ne me la pardonnerais pas si j'a
 Mes enfants, vous vous marierez un de ces jours ; si vous avez le bonheur, comme moi, de trouver une honnête femme, souvenez-vous qu'il faut toujours la croire plus que vos propres yeux. Sans cela, point de bon ménage.
 
 
-**** *creator_florian *book_florian_bonmenage *style_prose *genre_comedy *dist1_florian_prose_comedy_bonmenage *dist2_florian_prose_comedy *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_argentine
+**** *creator_florian *book_florian_bonmenage *style_prose *genre_comedy *dist1_florian_prose_comedy_bonmenage *dist2_florian_prose_comedy *id_ARGENTINE *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_argentine
 
 Cela est fort joli, mon ami.
 
@@ -299,7 +299,7 @@ Ah ! Rien ne manque à mon bonheur.
 Voilà ce grand secret que j'avais promis de te cacher. De peur qu'il ne fût découvert, je recevais sous mon adresse tes lettres de Monsieur Lelio pour sa femme... Celle d'aujourd'hui...
 
 
-**** *creator_florian *book_florian_bonmenage *style_prose *genre_comedy *dist1_florian_prose_comedy_bonmenage *dist2_florian_prose_comedy *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laine
+**** *creator_florian *book_florian_bonmenage *style_prose *genre_comedy *dist1_florian_prose_comedy_bonmenage *dist2_florian_prose_comedy *id_LAINE *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laine
 
 Voyons.
 Ah, ah, ah.
@@ -349,7 +349,7 @@ Nous avons entendu mon papa qui grondait bien fort. Est-ce lui qui vous fait ple
 Ah ! Mon frère, comme il a du chagrin.
 
 
-**** *creator_florian *book_florian_bonmenage *style_prose *genre_comedy *dist1_florian_prose_comedy_bonmenage *dist2_florian_prose_comedy *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecadet
+**** *creator_florian *book_florian_bonmenage *style_prose *genre_comedy *dist1_florian_prose_comedy_bonmenage *dist2_florian_prose_comedy *id_LECADET *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecadet
 
 Maman, regardez donc.
 
@@ -383,7 +383,7 @@ Ah ; le voilà.
 Venez donc vite, mon papa ; maman pleure, et elle dit que vous seul pouvez la consoler.
 
 
-**** *creator_florian *book_florian_bonmenage *style_prose *genre_comedy *dist1_florian_prose_comedy_bonmenage *dist2_florian_prose_comedy *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosalba
+**** *creator_florian *book_florian_bonmenage *style_prose *genre_comedy *dist1_florian_prose_comedy_bonmenage *dist2_florian_prose_comedy *id_ROSALBA *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosalba
 
 Es-tu seule ; ma chère amie ?
 
@@ -424,7 +424,7 @@ Ma tendresse pour toi pouvait seule me donner le courage que je viens d'avoir. E
 Venez, mes amis, venez avec moi : je cours chercher Lelio ; je vais le conduire aux pieds de mon père. Soyez les témoins d'une félicité que je dois à ma chère Argentine.
 
 
-**** *creator_florian *book_florian_bonmenage *style_prose *genre_comedy *dist1_florian_prose_comedy_bonmenage *dist2_florian_prose_comedy *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mezzetin
+**** *creator_florian *book_florian_bonmenage *style_prose *genre_comedy *dist1_florian_prose_comedy_bonmenage *dist2_florian_prose_comedy *id_MEZZETIN *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mezzetin
 
 N'est-ce pas ici, monsieur, que demeure une Madame Argentine ?
 

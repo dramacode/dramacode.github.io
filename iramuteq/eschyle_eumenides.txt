@@ -1,6 +1,6 @@
 
 
-**** *creator_eschyle *book_eschyle_eumenides *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_eumenides *dist2_eschyle_prose_tragedy *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_oreste
+**** *creator_eschyle *book_eschyle_eumenides *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_eumenides *dist2_eschyle_prose_tragedy *id_ORESTE *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_oreste
 
 Roi Apollon, certes, tu sais ne pas être injuste. Certes tu le sais ; n'oublie donc point ton suppliant. Ta puissance doit suffire à me sauver.
 
@@ -39,7 +39,7 @@ Maintenant, je finirai par la corde, ou je verrai encore la lumière !
 Ô Pallas, tu as sauvé ma maison, tu m'as rendu la terre de la patrie d'où j'étais exilé ! Chacun dira parmi les Hellènes : Cet homme Argien est enfin rétabli dans les biens paternels par la faveur de Pallas et de Loxias, et aussi de celui qui accomplit toutes choses et qui m'a sauvé, plein de pitié pour la destinée fatale de mon père, quand il a vu ces vengeresses de ma mère. Pour moi, en retournant dans ma demeure, je me lie à cette terre et à ton peuple par ce serment, que, jamais, dans la longue suite des temps, aucun roi d'Argos n'entrera la lance en main dans la terre Attique. Certes, moi-même, alors enfermé dans le tombeau, je frapperai d'un inévitable châtiment ceux qui violeront le serment que je fais. Je rendrai leur chemin morne et malheureux, et je les ferai se repentir de leur action. Mais si les Argiens gardent la foi que j'ai jurée à la ville de Pallas, s'ils combattent toujours pour elle, je leur serai toujours bienveillant. Salut, ô toi, Pallas ! Et toi, peuple de la ville ! Puissiez-vous toujours accabler inévitablement vos ennemis ! Puissent vos armes vous sauver toujours, et toujours être victorieuses !
 
 
-**** *creator_eschyle *book_eschyle_eumenides *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_eumenides *dist2_eschyle_prose_tragedy *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_athena
+**** *creator_eschyle *book_eschyle_eumenides *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_eumenides *dist2_eschyle_prose_tragedy *id_ATHENA *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_athena
 
 De loin j'ai entendu le cri d'une voix, des bords du Scamandre, tandis que je prenais possession de cette terre, magnifique part des dépouilles conquises que les chefs et les princes Achéens m'ont consacrée à jamais, don sans égal fait aux fils de Thésée. De là je suis venue, d'une course infatigable, enflant le milieu de l'Aigide et irrésistiblement emportée sur mon char. Je vois sur cette terre une foule qui m'est inconnue. Je n'en suis pas effrayée, mais la surprise est dans mes yeux. Qui êtes-vous ? Je vous le demande à tous, à cet étranger assis aux pieds de mon image et à vous qui n'êtes semblables à personne et à rien, qui n'avez jamais été vues par les dieux entre les déesses et qui n'avez point la figure humaine. Mais offenser autrui sans raison n'est ni juste, ni équitable.
 
@@ -112,7 +112,7 @@ Je vous salue aussi. Il faut que je marche la première, afin de vous montrer vo
 Je me réjouis de vos paroles et de vos prières, et j'enverrai la clarté des torches flamboyantes vers les lieux souterrains, avec les gardiennes de mon sanctuaire, selon le rite. Que la fleur de toute la terre de Thésée s'avance, la brillante troupe des jeunes filles, et les femmes et les mères âgées ! Revêtez des robes pourprées, afin d'honorer ces déesses, et que la clarté des torches précède, afin que cette foule divine, toujours bienveillante pour cette terre, la rende à jamais illustre par la prospérité de son peuple !
 
 
-**** *creator_eschyle *book_eschyle_eumenides *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_eumenides *dist2_eschyle_prose_tragedy *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_apollon
+**** *creator_eschyle *book_eschyle_eumenides *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_eumenides *dist2_eschyle_prose_tragedy *id_APOLLON *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_apollon
 
 Je ne te trahirai pas. Je veillerai toujours debout près de toi, et, de loin, je tiendrai tête à tes ennemis. Maintenant tu vois ces furieuses saisies par le sommeil. Elles sont domptées par le sommeil, les abominables vieilles filles, les antiques vierges dont ne voudrait ni aucun dieu ni aucun homme, ni aucune bête ! Elles ne sont nées que pour le mal. Elles habitent les mauvaises ténèbres et le Tartaros souterrain en horreur aux hommes et aux dieux Olympiens. Mais fuis sans tarder davantage et sans perdre courage, car elles vont te poursuivre à travers le large continent, partout ou tu iras dans tes courses vagabondes, par delà la mer et les îles. Ne succombe pas à tant d'épreuves. Parviens à la ville de Pallas et embrasse l'image antique de la déesse. Là, nous trouverons les juges que nos paroles persuaderont, et tu seras délivré de tes misères ; car c'est moi qui t'ai poussé à tuer ta mère.
 
@@ -163,7 +163,7 @@ Bientôt tu vas être vaincue, et tu ne vomiras plus contre tes ennemis qu'un po
 Comptez bien les cailloux, étrangers ! Respectez la justice et ne vous trompez point. Si une seule voix est oubliée, ce sera un grand malheur. Un seul suffrage peut relever une maison !
 
 
-**** *creator_eschyle *book_eschyle_eumenides *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_eumenides *dist2_eschyle_prose_tragedy *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lespectredeclytemnestre
+**** *creator_eschyle *book_eschyle_eumenides *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_eumenides *dist2_eschyle_prose_tragedy *id_LESPECTREDECLYTEMNESTRE *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lespectredeclytemnestre
 
 Vous dormez ! Holà ! À quoi bon dormir ? Oubliée par vous, seule entre tous les morts, moi qui ai tué je vais errant au milieu des ombres, détestée et couverte d'opprobre. Je vous le dis, je suis tourmentée à cause de mon crime et, moi, qui ai subi tant de maux affreux de la part de ceux qui m'étaient très chers, je n'ai aucun dieu qui s'irrite et me défende, bien que des mains impies et parricides m'aient égorgée ! Vois ces plaies ! Vois-les en esprit. L'esprit, quand on dort, a des yeux perçants. À la lumière du jour, les choses sont moins visibles aux hommes. Mais vous vous êtes repues des nombreux sacrifices offerts ; vous avez bu les libations sans vin, de miel et d'eau, et mangé les repas sacrés préparés pendant la nuit, au feu du foyer, à l'heure que vous ne partagiez avec aucun des autres dieux, Et toutes ces choses, je vous vois les fouler aux pieds ! Et lui, il s'est échappé, fuyant comme un faon ; et, se jouant de vous, il a bondi aisément hors le filet. Entendez ce que vous dit mon âme. Réveillez-vous, déesses souterraines ! C'est moi, c'est le spectre de Klytaimnestra qui vous appelle.
 Vous ronflez, et l'homme s'échappe et fuit au loin ! Seule, je ne suis point écoutée des dieux que je supplie !
@@ -176,7 +176,7 @@ Le sommeil et la fatigue ont dompté la fureur de ces horribles bêtes !
 Tu poursuis la bête en songe, et tu hurles comme un chien qui se croit encore sur la piste. À quoi bon ? Debout ! Que la fatigue ne te dompte point ; vois le mal qu'a causé ton sommeil ! Que mes justes reproches vous pénètrent de douleur, car les reproches sont des aiguillons pour les sages. Soufflez sur lui votre haleine sanglante, consumez-le du souffle enflammé de vos entrailles ! Courez ! Épuisez-le en le poursuivant encore !
 
 
-**** *creator_eschyle *book_eschyle_eumenides *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_eumenides *dist2_eschyle_prose_tragedy *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lechoeurdeseumenides
+**** *creator_eschyle *book_eschyle_eumenides *style_prose *genre_tragedy *dist1_eschyle_prose_tragedy_eumenides *dist2_eschyle_prose_tragedy *id_LECHOEURDESEUMENIDES *date_1872 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lechoeurdeseumenides
 
 Oh ! Oh ! Oh !
 

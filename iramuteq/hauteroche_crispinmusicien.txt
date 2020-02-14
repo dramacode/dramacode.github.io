@@ -1,6 +1,6 @@
 
 
-**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *date_1674 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_phelonte
+**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *id_phelonte *date_1674 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_phelonte
 
       Quel bruit entens-je ?
 
@@ -672,7 +672,7 @@ Fay donc.
 S'il est ainsy, Monsieur, ah ma joye est parfaite.
 
 
-**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *date_1674 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_melante
+**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *id_melante *date_1674 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_melante
 
       Qu'a donc Phélonte à se mettre en colere ?
 
@@ -774,7 +774,7 @@ Eh Monsieur, par pitié…
 Se peut-il que vous…
 
 
-**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *date_1674 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_dorame
+**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *id_dorame *date_1674 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_dorame
 
 Vous allez au Convent, pour voir vostre Cousine ?
 
@@ -1255,7 +1255,7 @@ Il a raison.
 Allons, je suis sincére, & ne sçay point farder⁎.
 
 
-**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *date_1674 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_daphnis
+**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *id_daphnis *date_1674 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_daphnis
 
 Mon Pere est donc sorty ?
 
@@ -1460,7 +1460,7 @@ Mon Pere, pardonnez, si pour oüir chanter…
       Ah Toinon, qu'est-ce-cy ?
 
 
-**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *date_1674 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_lise
+**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *id_lise *date_1674 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_lise
 
 Oüy, mon Pere.
 
@@ -1498,7 +1498,7 @@ Je sçay que j'ay failly, j'ay tort, je le confesse ;
 Mais pardonnez…
 
 
-**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *date_1674 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_toinon
+**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *id_toinon *date_1674 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_toinon
 
 Vous me reconnoissez !
 
@@ -2045,7 +2045,7 @@ Je vous l'ay dit cent fois.
 Et si par de faux tons tu me gastes la voix…
 
 
-**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *date_1674 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_fanchon
+**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *id_fanchon *date_1674 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_fanchon
 
 Bon-jour, Crispin. Toûjours dans ton humeur grondeuse ?
 
@@ -2337,7 +2337,7 @@ Bon-soir.
 Quel Air chanterons-nous ?
 
 
-**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *date_1674 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_boniface
+**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *id_boniface *date_1674 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_boniface
 
 Oüy, Monsieur.
 
@@ -2390,7 +2390,7 @@ Non, demeurez, je sors.
       Ah !
 
 
-**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *date_1674 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_anastase
+**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *id_anastase *date_1674 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_anastase
 
       Oüy, Madame, excusez si j'ay tort.
 
@@ -2558,7 +2558,7 @@ En ce fâcheux état, il n'est pas à propos…
       Craignez un transport⁎ au cerveau.
 
 
-**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *date_1674 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_crispin
+**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *id_crispin *date_1674 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_crispin
 
 Ah Crispin ! ah Crispin ! Quel destin rigoureux
 T'a laissé voir Toinon, pour en estre amoureux ?
@@ -3496,7 +3496,7 @@ On le repete icy trois fois par Semaine,
 Venez l'oüir en foule, il en vaut bien la peine.
 
 
-**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *date_1674 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lebreton
+**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *id_le-breton *date_1674 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lebreton
 
       Je veux…
 
@@ -3548,7 +3548,7 @@ Monsieur, je m'en allois, demandez à La Ronce.
 C'est… Nous allons tous deux boire à vostre santé.
 
 
-**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *date_1674 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_laronce
+**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *id_la-ronce *date_1674 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_laronce
 
 Eh, Messieurs, un moment concertons⁎ entre nous ;
 De nostre peu de soin, Monsieur est en courroux :
@@ -3650,7 +3650,7 @@ On ne peut mieux dancer.
 Point.
 
 
-**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *date_1674 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lemusicien
+**** *creator_hauteroche *book_hauteroche_crispinmusicien *style_verse *genre_comedy *dist1_hauteroche_verse_comedy_crispinmusicien *dist2_hauteroche_verse_comedy *id_le-musicien *date_1674 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lemusicien
 
 Monsieur.
 

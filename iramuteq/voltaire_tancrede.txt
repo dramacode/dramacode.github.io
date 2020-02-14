@@ -1,6 +1,6 @@
 
 
-**** *creator_voltaire *book_voltaire_tancrede *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_tancrede *dist2_voltaire_verse_tragedy *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_argire
+**** *creator_voltaire *book_voltaire_tancrede *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_tancrede *dist2_voltaire_verse_tragedy *id_ARGIRE *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_argire
 
 Illustres chevaliers, vengeurs de la Sicile,
 Qui daignez, par égard au déclin de mes ans,
@@ -404,7 +404,7 @@ Ah ! Ma fille !
 Qu'avant ma mort, hélas ! On la rende à la vie.
 
 
-**** *creator_voltaire *book_voltaire_tancrede *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_tancrede *dist2_voltaire_verse_tragedy *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tancrede
+**** *creator_voltaire *book_voltaire_tancrede *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_tancrede *dist2_voltaire_verse_tragedy *id_TANCREDE *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tancrede
 
 À tous les coeurs bien nés que la patrie est chère !
 Qu'avec ravissement je revois ce séjour !
@@ -725,7 +725,7 @@ Ma chère Aménaïde ! ...
 Ce malheureux amant... et jurez-moi de vivre...
 
 
-**** *creator_voltaire *book_voltaire_tancrede *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_tancrede *dist2_voltaire_verse_tragedy *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orbassan
+**** *creator_voltaire *book_voltaire_tancrede *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_tancrede *dist2_voltaire_verse_tragedy *id_ORBASSAN *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orbassan
 
 Argire, il est trop vrai que les divisions
 Ont régné trop longtemps entre nos deux maisons :
@@ -930,7 +930,7 @@ D'un combat singulier la gloire est périssable ;
 Mais servir la patrie est l'honneur véritable.
 
 
-**** *creator_voltaire *book_voltaire_tancrede *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_tancrede *dist2_voltaire_verse_tragedy *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_loredan
+**** *creator_voltaire *book_voltaire_tancrede *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_tancrede *dist2_voltaire_verse_tragedy *id_LOREDAN *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_loredan
 
 Quelle honte, en effet, dans nos jours déplorables,
 Que Solamir, un maure, un chef des musulmans,
@@ -1098,7 +1098,7 @@ De ton coeur généreux son coeur est-il haï ?
 Peux-tu me soupçonner ?
 
 
-**** *creator_voltaire *book_voltaire_tancrede *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_tancrede *dist2_voltaire_verse_tragedy *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_catane
+**** *creator_voltaire *book_voltaire_tancrede *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_tancrede *dist2_voltaire_verse_tragedy *id_CATANE *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_catane
 
       Oui, nous y souscrivons.
 Que Tancrède, s'il veut, soit puissant à Byzance ;
@@ -1194,7 +1194,7 @@ Il expire... et nos coeurs de regrets pénétrés...
 Qui l'ont connu trop tard...
 
 
-**** *creator_voltaire *book_voltaire_tancrede *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_tancrede *dist2_voltaire_verse_tragedy *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aldamon
+**** *creator_voltaire *book_voltaire_tancrede *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_tancrede *dist2_voltaire_verse_tragedy *id_ALDAMON *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aldamon
 
 Seigneur, c'est trop vanter mes services vulgaires,
 Et c'est trop relever un sort tel que le mien ;
@@ -1350,7 +1350,7 @@ Je m'acquitte en tremblant de cet affreux devoir.
 Lisez donc ; pardonnez ce triste ministère.
 
 
-**** *creator_voltaire *book_voltaire_tancrede *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_tancrede *dist2_voltaire_verse_tragedy *date_1765 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_amenaide
+**** *creator_voltaire *book_voltaire_tancrede *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_tancrede *dist2_voltaire_verse_tragedy *id_AMENAIDE *date_1765 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_amenaide
 
 De Tancrède !
 
@@ -1939,7 +1939,7 @@ Je meurs en vous aimant... j'expire entre tes bras,
 Cher Tancrède...
 
 
-**** *creator_voltaire *book_voltaire_tancrede *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_tancrede *dist2_voltaire_verse_tragedy *date_1765 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fanie
+**** *creator_voltaire *book_voltaire_tancrede *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_tancrede *dist2_voltaire_verse_tragedy *id_FANIE *date_1765 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fanie
 
 Je sens combien cet ordre est douloureux pour vous.
 J'ai vu vos sentiments, j'en ai connu la force.

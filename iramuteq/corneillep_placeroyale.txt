@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillep *book_corneillep_placeroyale *style_verse *genre_comedy *dist1_corneillep_verse_comedy_placeroyale *dist2_corneillep_verse_comedy *date_1634 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_alidor
+**** *creator_corneillep *book_corneillep_placeroyale *style_verse *genre_comedy *dist1_corneillep_verse_comedy_placeroyale *dist2_corneillep_verse_comedy *id_ALIDOR *date_1634 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_alidor
 
 
       Te rencontrer dans la place Royale,
@@ -579,7 +579,7 @@ Comme je la donnais sans regret à Cléandre,
 Je verrai sans regret qu'elle se donne à Dieu.
 
 
-**** *creator_corneillep *book_corneillep_placeroyale *style_verse *genre_comedy *dist1_corneillep_verse_comedy_placeroyale *dist2_corneillep_verse_comedy *date_1634 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_cleandre
+**** *creator_corneillep *book_corneillep_placeroyale *style_verse *genre_comedy *dist1_corneillep_verse_comedy_placeroyale *dist2_corneillep_verse_comedy *id_CLEANDRE *date_1634 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_cleandre
 
 
 
@@ -850,7 +850,7 @@ Que votre ravisseur vous cède à votre amant.
 N'achèverez-vous point ?
 
 
-**** *creator_corneillep *book_corneillep_placeroyale *style_verse *genre_comedy *dist1_corneillep_verse_comedy_placeroyale *dist2_corneillep_verse_comedy *date_1634 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_doraste
+**** *creator_corneillep *book_corneillep_placeroyale *style_verse *genre_comedy *dist1_corneillep_verse_comedy_placeroyale *dist2_corneillep_verse_comedy *id_DORASTE *date_1634 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_doraste
 
       Le voici.
 Ma soeur, ne cherche plus une chose trouvée :
@@ -992,7 +992,7 @@ Je vous eus par dépit, lui seul il vous mérite :
 Ne lui refusez point ma part que je lui quitte.
 
 
-**** *creator_corneillep *book_corneillep_placeroyale *style_verse *genre_comedy *dist1_corneillep_verse_comedy_placeroyale *dist2_corneillep_verse_comedy *date_1634 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lysis
+**** *creator_corneillep *book_corneillep_placeroyale *style_verse *genre_comedy *dist1_corneillep_verse_comedy_placeroyale *dist2_corneillep_verse_comedy *id_LYSIS *date_1634 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_lysis
 
 Comme vous le chassez !
 
@@ -1026,7 +1026,7 @@ Le bal, où le tient-on ?
 De votre bon avis je ferai mon profit.
 
 
-**** *creator_corneillep *book_corneillep_placeroyale *style_verse *genre_comedy *dist1_corneillep_verse_comedy_placeroyale *dist2_corneillep_verse_comedy *date_1634 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_angelique
+**** *creator_corneillep *book_corneillep_placeroyale *style_verse *genre_comedy *dist1_corneillep_verse_comedy_placeroyale *dist2_corneillep_verse_comedy *id_ANGELIQUE *date_1634 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_angelique
 
 Ton frère, je l'avoue, a beaucoup de mérite,
 Tu reçois aujourd'hui ma dernière visite,
@@ -1468,7 +1468,7 @@ Qui me retienne au monde, ou m'arrête en ce lieu :
 Cherche une autre à trahir ; et pour jamais, adieu.
 
 
-**** *creator_corneillep *book_corneillep_placeroyale *style_verse *genre_comedy *dist1_corneillep_verse_comedy_placeroyale *dist2_corneillep_verse_comedy *date_1634 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_philis
+**** *creator_corneillep *book_corneillep_placeroyale *style_verse *genre_comedy *dist1_corneillep_verse_comedy_placeroyale *dist2_corneillep_verse_comedy *id_PHILIS *date_1634 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_philis
 
 Vraiment tu me prescris une fâcheuse loi,
 Je ne puis sans forcer celles de la nature,
@@ -1850,7 +1850,7 @@ Adieu : par mon exemple apprends comme il faut vivre,
 Et prends pour Alidor un naturel plus doux.
 
 
-**** *creator_corneillep *book_corneillep_placeroyale *style_verse *genre_comedy *dist1_corneillep_verse_comedy_placeroyale *dist2_corneillep_verse_comedy *date_1634 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_polymas
+**** *creator_corneillep *book_corneillep_placeroyale *style_verse *genre_comedy *dist1_corneillep_verse_comedy_placeroyale *dist2_corneillep_verse_comedy *id_POLYMAS *date_1634 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_polymas
 
 Assez imprudemment il m'en fait le porteur.
 Comme il se rend par là digne qu'on le prévienne,

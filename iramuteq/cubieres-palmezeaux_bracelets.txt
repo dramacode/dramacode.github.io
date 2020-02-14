@@ -1,6 +1,6 @@
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_bracelets *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_bracelets *dist2_cubieres-palmezeaux_prose_comedy *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_bracelets *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_bracelets *dist2_cubieres-palmezeaux_prose_comedy *id_ANGELIQUE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
 Que la musique est une sotte chose !... Voilà un gros quart-d'heure que je suis après cet air, sans pouvoir l'exécuter. Il est de Rameau : cet homme était un géomètre, plutôt qu'un Musicien ; il a fait de l'algèbre. Qu'une autre se tue à le déchiffrer ! Pour moi j'y renonce.
 Voyons un peu cette tête que j'avais commencée, elle a un grand caractère. Comme tout est prononcé dans cette figure ! On m'a dit qu'elle représentait celle de Socrate ; ce grand Philosophe !
@@ -173,7 +173,7 @@ Lucas a des parents très pauvres, il ne peut pas subvenir à leurs besoins quoi
 Mais, Lucas, tu oublies que tu n'es pas riche, et que si tu l'étais tu épouserais Colette la fille de notre Fermier.
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_bracelets *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_bracelets *dist2_cubieres-palmezeaux_prose_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_bracelets *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_bracelets *dist2_cubieres-palmezeaux_prose_comedy *id_VALERE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
 
 Tu vois comme elle me fuit ! Tu ne lui as point parlé de moi !
 
@@ -255,7 +255,7 @@ Mais, Monsieur, songez donc que mon amour ne s'accommode point de ce retardement
 Ah ! Monsieur, vous n'avez plus de raison pour retarder mon bonheur.
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_bracelets *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_bracelets *dist2_cubieres-palmezeaux_prose_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rose
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_bracelets *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_bracelets *dist2_cubieres-palmezeaux_prose_comedy *id_ROSE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rose
 
 Si fait.
 
@@ -413,7 +413,7 @@ Monsieur, nous vous apportons les bracelets. Il n'a fallu qu'un coup de baguette
 Ah ! Monsieur, cela vous plaît à dire ; Lucas est un homme qui ne reçoit rien de personne. Il avait déjà refusé nos offres.
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_bracelets *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_bracelets *dist2_cubieres-palmezeaux_prose_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colette
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_bracelets *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_bracelets *dist2_cubieres-palmezeaux_prose_comedy *id_COLETTE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colette
 
 Allons, Lucas, danse avec moi ce rigaudon que tu m'as appris, et qui est si drôle.
 
@@ -457,7 +457,7 @@ Eh bien ! Soit. Pourvu que je sauve l'honneur de Lucas.
 Je te conseille, moi..., de ne point fâcher Mademoiselle Angélique.
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_bracelets *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_bracelets *dist2_cubieres-palmezeaux_prose_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucas
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_bracelets *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_bracelets *dist2_cubieres-palmezeaux_prose_comedy *id_LUCAS *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucas
 
 Morguié, je n'avons pas envie de danser. La saison de not'bon temps est passée.
 

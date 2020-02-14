@@ -1,6 +1,6 @@
 
 
-**** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_constantin
+**** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *id_constantin *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_constantin
 
 Ce repos me plaist bien qui vient de mes travaux,
 Je n'ay plus d'ennemis, n'ayant plus de Rivaux ;
@@ -518,7 +518,7 @@ Et que dans sa défaite il trouve sa victoire.
 FIN.
 
 
-**** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *date_1639 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_fauste
+**** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *id_fauste *date_1639 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_fauste
 
 Procle, ne te feins⁎ point ; c'est de la jeune Helene
 Que ton ame reçoit et sa joye, et sa peine :
@@ -1232,7 +1232,7 @@ Pour punir un tel crime on fait trop de mysteres.
 Tout supplice m'est doux, bien qu'il soit violent.
 
 
-**** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *date_1639 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_helenemere
+**** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *id_helene-mere *date_1639 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_helenemere
 
 C'est un objet bien rare à mes yeux de te voir.
 
@@ -1389,7 +1389,7 @@ Dedans la probité son mal ne me plaist pas,
 Mais j'ay bien de la peine à pleurer son trépas.
 
 
-**** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *date_1639 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_crispe
+**** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *id_crispe *date_1639 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_crispe
 
 Je choque⁎ mon desir autant que mon devoir,
 Je m'accuse, Madame, entendant vôtre plainte ;
@@ -1615,7 +1615,7 @@ Et nous separera lors que vous le sçaurez,
 Car je pretens mourir.
 
 
-**** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *date_1639 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_helenefille
+**** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *id_helene-fille *date_1639 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_helenefille
 
 Madame, l'Empereur éloigne de nos yeux,
 Ce Prince qui faisoit et sa gloire, et nos voeux.
@@ -1764,7 +1764,7 @@ Oüy, Procle, je me rends à ce doux compliment,
 Et sans qu'il faut mourir nous vivrions doucement.
 
 
-**** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *date_1639 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_procle
+**** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *id_procle *date_1639 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_procle
 
 Madame, dés qu'on sent l'ardeur d'un si grand feu⁎,
 Pour bien couvert⁎ qu'il soit, il paroist quelque peu,
@@ -2048,7 +2048,7 @@ Il passoit pour mon Prince, et vous serez ma Reine.
 On a porté le corps de Crispe.
 
 
-**** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *date_1639 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_adelaide
+**** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *id_adelaide *date_1639 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_adelaide
 
 Je sçay que l'Empereur vous a dit son dessein⁎;
 Il ne s'esclorra pas s'il n'est que dans mon sein⁎.
@@ -2178,7 +2178,7 @@ Allons nous informer si Fauste est étouffée,
 Mon amour de sa mort doit dresser son trophée.
 
 
-**** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artaban
+**** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *id_artaban *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artaban
 
 Nul ne peut desirer plus de prosperitez,
 Mais vous en avez moins que vous n'en meritez ;

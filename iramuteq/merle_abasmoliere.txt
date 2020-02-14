@@ -1,6 +1,6 @@
 
 
-**** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *date_1809 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_malingre
+**** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *id_MALINGRE *date_1809 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_malingre
 
 Ma foi, Monsieur de Lahausse, j'attends, pour le déplacer quelqu'un...
 
@@ -153,7 +153,7 @@ Mais pourquoi venir
 M'attaquer, moi qui vais mourir.
 
 
-**** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *date_1809 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lariffardiere
+**** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *id_LARIFFARDIERE *date_1809 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lariffardiere
 
 Alain , une demi-tasse.
 
@@ -489,7 +489,7 @@ Car un nom si beau
 N'a jamais eu que des bravo.
 
 
-**** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *date_1809 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_adele
+**** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *id_ADELE *date_1809 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_adele
 
 Ah ! Monieur de Lariffardière, vous voilà.
 
@@ -558,7 +558,7 @@ Car pour nos tableaux
 Il aurait fallu ses pinceaux.
 
 
-**** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *date_1809 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_geronte
+**** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *id_GERONTE *date_1809 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_geronte
 
 Eh ! Bonjour , mon vieil ami.
 
@@ -695,7 +695,7 @@ C'est aussi trop fort :
 Garder son or n'est un tort.
 
 
-**** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *date_1809 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dramantour
+**** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *id_DRAMANTOUR *date_1809 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dramantour
 
 Toujours Molière ; on n'entend que ce nom, comme si mes pièces n'avaient pas un autre mérite que les siennes.
 
@@ -777,7 +777,7 @@ Bon ; mais que Cotin
 Soit à l'abri du trait malin.
 
 
-**** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *date_1809 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tantmieux
+**** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *id_TANTMIEUX *date_1809 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tantmieux
 
 Je ne devais pas ménager un auteur de mauvais ton.
 
@@ -890,7 +890,7 @@ Bravo ; mais qu'enfin
 Il apprécie un médecin.
 
 
-**** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *date_1809 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dandinville
+**** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *id_DANDINVILLE *date_1809 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dandinville
 
 C'est un fou.
 
@@ -914,7 +914,7 @@ J'applaudirai ; mais
 Qu'il laisse les maris en paix.
 
 
-**** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *date_1809 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alain
+**** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *id_ALAIN *date_1809 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alain
 
 Voilà, monsieur, voilà. Versez à Molière.
 

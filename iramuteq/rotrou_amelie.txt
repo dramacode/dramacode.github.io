@@ -1,6 +1,6 @@
 
 
-**** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amelie
+**** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *id_AMELIE *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amelie
 
 Et bien veux-tu savoir l'état de ma fortune ?
 J'accorde ce discours à ta plainte importune,
@@ -518,7 +518,7 @@ Rien ne peut égaler, ce que vous méritez.
 Adieu terreur du monde.
 
 
-**** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dionys
+**** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *id_DIONYS *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dionys
 
 Mais, si je l'importune ?
 
@@ -1103,7 +1103,7 @@ Allons y célébrer ces heureux hyménées,
 Qui de biens infinis vont combler nos années.
 
 
-**** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_erante
+**** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *id_ERANTE *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_erante
 
       Courrez vite à mon père.
 
@@ -1344,7 +1344,7 @@ Le voici qui revient.
 Adieu divin charmeur des âmes et des yeux.
 
 
-**** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisidan
+**** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *id_LISIDAN *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisidan
 
 Que tu peux espérer, et sans présomption.
 
@@ -1575,7 +1575,7 @@ Ce dessein est plaisant.
       Adieu race des Dieux !
 
 
-**** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+**** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *id_ERASTE *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
 
 Je vous nuis en ce lieu ?
 
@@ -1720,7 +1720,7 @@ Et pour moins que son ombre, il met les armes bas.
 Adieu le plus vaillant de la terre et de l'onde.
 
 
-**** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cloris
+**** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *id_CLORIS *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cloris
 
 Vous dois-je révéler mon amoureux souci ?
 M'est-il permis de soupirer ici ?
@@ -1925,7 +1925,7 @@ L'affaire est d'importance, et différée, empire.
 Adieu le plus grand fou qui soit en tout le monde.
 
 
-**** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorise
+**** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *id_DORISE *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorise
 
 C'est lui que vous aimez.
 
@@ -2017,7 +2017,7 @@ Autrement le sommeil ne lui fournirait pas,
 Un portrait si puissant de vos rares appas.
 
 
-**** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_emile
+**** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *id_EMILE *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_emile
 
 Et très cher confident que t'a dit mon Aurore ?
 
@@ -2246,7 +2246,7 @@ Quelque dessein qu'ils aient d'exercer mon courroux,
 Ils n'auront pas l'honneur de mourir de mes coups.
 
 
-**** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valet
+**** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *id_VALET *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valet
 
 Ô qu'elle vous chérit et qu'elle vous honore
 Comment, a-t-elle dit ; l'honneur de l'univers

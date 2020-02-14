@@ -1,6 +1,6 @@
 
 
-**** *creator_carmontelle *book_carmontelle_etranger *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_etranger *dist2_carmontelle_prose_proverbe *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurtrotberg
+**** *creator_carmontelle *book_carmontelle_etranger *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_etranger *dist2_carmontelle_prose_proverbe *id_MONSIEURTROTBERG *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurtrotberg
 
 Appartement ?
 
@@ -231,7 +231,7 @@ Je ferai avec plaisir, je suis embarrassé avec vous de mon colère.
 Je marche avec vous, Messieurs.
 
 
-**** *creator_carmontelle *book_carmontelle_etranger *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_etranger *dist2_carmontelle_prose_proverbe *date_1780 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_monsieurdubreuilfils
+**** *creator_carmontelle *book_carmontelle_etranger *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_etranger *dist2_carmontelle_prose_proverbe *id_MONSIEURDUBREUILFils *date_1780 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_monsieurdubreuilfils
 
 Ah, Monsieur Trotberg, je suis charmé de vous voir à Paris.
 
@@ -272,7 +272,7 @@ C'est l'heure que vous voulez vous coucher.
 En buvant tout cela se passera.
 
 
-**** *creator_carmontelle *book_carmontelle_etranger *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_etranger *dist2_carmontelle_prose_proverbe *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lapierre
+**** *creator_carmontelle *book_carmontelle_etranger *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_etranger *dist2_carmontelle_prose_proverbe *id_LAPIERRE *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lapierre
 
 Monsieur, il y a un Monsieur dans votre cabinet qui vous attend.
 

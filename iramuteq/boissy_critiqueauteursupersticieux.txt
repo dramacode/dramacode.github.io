@@ -1,6 +1,6 @@
 
 
-**** *creator_boissy *book_boissy_critiqueauteursupersticieux *style_verse *dist1_boissy_verse__critiqueauteursupersticieux *dist2_boissy_verse_ *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+**** *creator_boissy *book_boissy_critiqueauteursupersticieux *style_verse *id_CLITANDRE *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
 
 Cher ami, c'est l'effet d'une faiblesse extrême,
 Que je ne puis dompter, dont j'ai honte moi-même^
@@ -272,7 +272,7 @@ Mais voyons au plus tôt cet objet ravissant,
 Et nous visiterons le parterre en passant.
 
 
-**** *creator_boissy *book_boissy_critiqueauteursupersticieux *style_verse *dist1_boissy_verse__critiqueauteursupersticieux *dist2_boissy_verse_ *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_damon
+**** *creator_boissy *book_boissy_critiqueauteursupersticieux *style_verse *id_DAMON *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_damon
 
 Qui vous fait brusquement quitter ainsi la table
 Au milieu d'un repas et d'une troupe aimable ?
@@ -373,7 +373,7 @@ Moi, j'espère au retour vous faire compliment ;
 Et je cours me placer sans perdre un seul moment.
 
 
-**** *creator_boissy *book_boissy_critiqueauteursupersticieux *style_verse *dist1_boissy_verse__critiqueauteursupersticieux *dist2_boissy_verse_ *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_boissy *book_boissy_critiqueauteursupersticieux *style_verse *id_ARLEQUIN *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Peste ! Quand vous frappez, ce n'est pas de main morte.
 
@@ -470,7 +470,7 @@ Quand j'ai fait ce beau coup.
 Mais d'ouïr ma Complainte ayez la politesse.
 
 
-**** *creator_boissy *book_boissy_critiqueauteursupersticieux *style_verse *dist1_boissy_verse__critiqueauteursupersticieux *dist2_boissy_verse_ *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
+**** *creator_boissy *book_boissy_critiqueauteursupersticieux *style_verse *id_APOLLON *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
 
 Dans le monde on a d'elle une autre opinion ;
 Par un injuste effet de la prévention,
@@ -651,7 +651,7 @@ Dans le haut rang où je vous place ;
 Et donnez le précepte et l'exemple à la fois.
 
 
-**** *creator_boissy *book_boissy_critiqueauteursupersticieux *style_verse *dist1_boissy_verse__critiqueauteursupersticieux *dist2_boissy_verse_ *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chrisante
+**** *creator_boissy *book_boissy_critiqueauteursupersticieux *style_verse *id_CHRISANTE *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chrisante
 
       Je viens voir la Critique ;
 Pour un dessein qu'il faut que je lui communique.
@@ -874,7 +874,7 @@ Se moque aussi de la Critique,
 Et d'Apollon et de toute sa clique.
 
 
-**** *creator_boissy *book_boissy_critiqueauteursupersticieux *style_verse *dist1_boissy_verse__critiqueauteursupersticieux *dist2_boissy_verse_ *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamedisance
+**** *creator_boissy *book_boissy_critiqueauteursupersticieux *style_verse *id_LAMEDISANCE *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamedisance
 
 Madame, je prends part, comme votre parente,
 À votre fortune brillante.
@@ -1040,7 +1040,7 @@ D'arriver à Paris pour soulager mon coeur,
 Et la tourner en ridicule;
 
 
-**** *creator_boissy *book_boissy_critiqueauteursupersticieux *style_verse *dist1_boissy_verse__critiqueauteursupersticieux *dist2_boissy_verse_ *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_levaudeville
+**** *creator_boissy *book_boissy_critiqueauteursupersticieux *style_verse *id_LEVAUDEVILLE *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_levaudeville
 
 Votre règne aimable ;
 Critique agréable,

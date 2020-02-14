@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillemin
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *id_GUILLEMIN *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillemin
 
 Angélique ?
 
@@ -19,7 +19,7 @@ Je vais sortir, il n'y a aucun de mes garçons à la boutique, prenez-y bien gar
 Je ne tarderai pas à revenir.
 
 
-**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *id_ANGELIQUE *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
 Mon père ?
 
@@ -117,7 +117,7 @@ Mais, comment faire ? Je suis seule ; il vient ici du monde à tout moment, po
 Ma chère tante, vous m'avez promis...
 
 
-**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamepernelle
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *id_MADAMEPERNELLE *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamepernelle
 
 Qu'est-ce que c'est donc que tout ceci, ma nièce ? J'apprends de belles nouvelles vraiment.
 
@@ -182,7 +182,7 @@ Vous voyez bien que c'est un homme de qualité, mon frère.
 Vous le voyez, mon frère, on ne pouvait pas mieux choisir. Allons, venez chez moi, Monsieur, et dépêchez-vous d'être mon neveu, je me charge d'y faire consentir mon frère.
 
 
-**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fillon
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *id_FILLON *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fillon
 
 Ma mère est sortie. Je me suis lassée d'ourler des coiffes, et de montrer des rubans : je suis accourue pour te féliciter de ton mariage.
 
@@ -303,7 +303,7 @@ Si vous pouviez persuader cette maxime à ma mère, je vous aurais bien de l'obl
 Et la gazette aura dit vrai, tu seras mariée.
 
 
-**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *id_CLITANDRE *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
 
 Comment donc faire, Monsieur de la Rose ?
 
@@ -388,7 +388,7 @@ Comment, coquin...
 Je ne prétends pas y mener personne par force. Otez-leur, cet équipage, Monsieur de la Rose.
 
 
-**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *id_CRISPIN *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
 
 Son père est avec elle, Monsieur, il n'y a rien à faire.
 
@@ -630,7 +630,7 @@ Rien, Monsieur, c'est un petit échantillon d'une recrue que Monsieur de la Rose
 Ma foi, Monsieur, j'en demande pardon à Monsieur Guillemin. Mais ces Messieurs sont venus pour se faire mettre dans la gazette, et je les ai mis dans votre Régiment.
 
 
-**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crassin
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *id_CRASSIN *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crassin
 
 À ce que je puis juger, Monsieur, vous êtes Monsieur Guillemin, apparemment ?
 
@@ -661,7 +661,7 @@ C'est la vérité, Monsieur, je ne veux point aller à la guerre.
 Par ma foi, voilà un honnête homme.
 
 
-**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_robichon
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *id_ROBICHON *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_robichon
 
 Monsieur Guillemin n'est pas ici Monsieur ?
 
@@ -698,7 +698,7 @@ Monsieur de la Rose, j'airai raison de la violence que vous me faites.
 Vous voyez bien que ce n'est pas mon métier.
 
 
-**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *id_LECHEVALIER *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
 
 Je m'alarme mal à propos. Ce mariage est sans apparence.
 
@@ -712,7 +712,7 @@ Depuis que j'ai lu cette malheureuse gazette, je suis le plus bourru des hommes,
 Qui êtes-vous ? Demandez-vous ici quelque chose ?
 
 
-**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesergent
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *id_LESERGENT *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesergent
 
 C'est temps perdu, Monsieur, J'ai cherché dans tous les Fours de Paris, et je n'ai pu trouver ce qu'il vous faut. Les hommes sont chers par le temps qu'il fait, et comme vous les demandez surtout.
 
@@ -743,7 +743,7 @@ Vous direz tout cela quand nous serons en Flandres.
 Paix, taisez-vous, Monsieur le Capitaine.
 
 
-**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *id_LAMARQUISE *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
 
 Mon cher Monsieur, je n'ai recours qu'à vous, donnez-moi la santé, le repos de la vie.
 
@@ -768,7 +768,7 @@ Oui vraiment. Dans l'espérance de l'épouser, je lui ai donné un bon Contrat d
 Que je vous aurai d'obligation ! Voilà déjà quatre pistoles que je vous donne. Si je retrouve mon Chevalier, je vous donnerai tout ce qu'il vous plaira.
 
 
-**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *id_LACOMTESSE *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
 
 La boutique de Monsieur Guillemin ? Enseignez-moi, Monsieur, le Bureau d'adresse de la Gazette, je vous prie.
 
@@ -829,7 +829,7 @@ Dites-lui bien que si elle obéit à son père, elle me mettra au désespoir, et
 Qu'elle y songe. Je vais vous attendre.
 
 
-**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chonchon
+**** *creator_dancourt *book_dancourt_gazette *style_prose *genre_comedy *dist1_dancourt_prose_comedy_gazette *dist2_dancourt_prose_comedy *id_CHONCHON *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chonchon
 
 Bonjour, Monsieur, comment vous portez-vous ?
 

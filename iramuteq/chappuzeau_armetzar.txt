@@ -1,6 +1,6 @@
 
 
-**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *date_1656 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_tamerlan
+**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *id_tamerlan *date_1656 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_tamerlan
 
 Enfin, je suis vainqueur de tous mes ennemis,
 Tous les Roys de l'Asie à mes piés sont soûmis,
@@ -215,7 +215,7 @@ Ouy, par de tels bienfaits je veux vous enchaîner,
 Et Tamerlan enfin sçait vaincre et pardonner.
 
 
-**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *date_1656 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_armetzar
+**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *id_armetzar *date_1656 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_armetzar
 
 Organte, as-tu tout dit ? et puis-je enfin respondre ?
 Tu crois par ces raisons aisement me confondre ;
@@ -824,7 +824,7 @@ Quel bonheur impreveu ! Dieux, que viens-je d'entendre ?
 Ha mon pere ! ha grand Roy ! que pourray-je vous rendre !
 
 
-**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *date_1656 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_organte
+**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *id_organte *date_1656 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_organte
 
 Seigneur, il ne faut pas consulter davantage,
 Evitez les perils où l'amour vous engage ;
@@ -948,7 +948,7 @@ La Princesse survient.
 Allons, Seigneur, allons, je vous suis en tous lieux.
 
 
-**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *date_1656 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_zinton
+**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *id_zinton *date_1656 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_zinton
 
 En vain à m'attaquer Tamerlan se prepare,
 Je ne redoute point les efforts du Tartare ;
@@ -1261,7 +1261,7 @@ Je ne dois pas reprendre un don que j'avois fait,
 Il en a ma parole, et peut en voir l'effet.
 
 
-**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *date_1656 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_vanlie
+**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *id_vanlie *date_1656 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_vanlie
 
 Destiné dans ce jour à de si grans exploits,
 Sire, un exces de joye a retenu ma voix.
@@ -1634,7 +1634,7 @@ De vos rares bontez c'est une illustre marque ;
 Que ne vous dois-je point, invincible Monarque !
 
 
-**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *date_1656 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_artaban
+**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *id_artaban *date_1656 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_artaban
 
 Recevez d'Artaban le méme compliment.
 
@@ -1734,7 +1734,7 @@ Mais voicy la beauté pour qui souffroit mon cœur,
 Ne nous exposons plus aux traits⁎ de sa rigueur.
 
 
-**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *date_1656 *sexe_feminin *age_veteran *statut_maitre *fonction_autres *role_zarimene
+**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *id_zarimene *date_1656 *sexe_feminin *age_veteran *statut_maitre *fonction_autres *role_zarimene
 
 Je viens mesler ma joye à vos ravissemens,
 Et nous devons au Ciel mille remercimens ;
@@ -1881,7 +1881,7 @@ Les Dieux sont irritez, cedons à leur colere.
 Puisque mon fils est mort, il faut mourir aussy.
 
 
-**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *date_1656 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_ladice
+**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *id_ladice *date_1656 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_ladice
 
 Tu ne me parles point des fureurs⁎ d'une guerre
 Qui vient insolemment menacer nôtre terre,
@@ -2325,7 +2325,7 @@ S'il est ainsi, cher Prince, evitez sa colere.
 Sauvez moy, sauvez vous.
 
 
-**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *date_1656 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_iliane
+**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *id_iliane *date_1656 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_iliane
 
 Quoy, parêtre si triste⁎ en un jour plein de joye !
 C'est peu goûter les biens que le Ciel vous envoye.
@@ -2402,7 +2402,7 @@ Mais le voicy, Madame ; ô ciel tout est perdu,
 Et déja le Tartare en ces lieux s'est rendu !
 
 
-**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *date_1656 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_garde
+**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *id_garde *date_1656 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_garde
 
 Sire, le Prince arrive.
 

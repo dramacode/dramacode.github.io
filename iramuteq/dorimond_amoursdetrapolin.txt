@@ -1,6 +1,6 @@
 
 
-**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucidor
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_lucidor *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucidor
 
 Allons-y, je le veux ; au coin de cette ruë,
 Une affiche à propos se montre à nostre veuë.
@@ -46,7 +46,7 @@ On rencontre des gens qui tondroient sur un œuf⁎
 Et qui bien souvent ont l'esprit comme un boeuf.
 
 
-**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_galant1
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_galant1 *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_galant1
 
 Isabelle, bon jour, vostre humble serviteur !
 Que vostre habit est riche et de belle couleur !
@@ -81,7 +81,7 @@ On me vient de donner un sonnet merveilleux.
       Au moins trente.
 
 
-**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lespinay
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_l-espinay *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lespinay
 
 Et moy des gans d'Espagne.
 
@@ -104,7 +104,7 @@ J'ayme Thomas Morus, les vers en sont forts beaux.
 Combien a-t-il de vers.
 
 
-**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_portier
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_portier *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_portier
 
 Ce teston⁎ est-il bon ? Cette piastre⁎ est legere !
 Ils sont sans conscience ou bien ils n'en ont guere :
@@ -168,7 +168,7 @@ On s'en va commencer, rentrons, fermons la porte.
 FIN.
 
 
-**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *date_1662 *sexe_feminin *age_sans-age *statut_exterieur *fonction_autres *role_comedienne
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_comedienne *date_1662 *sexe_feminin *age_sans-age *statut_exterieur *fonction_autres *role_comedienne
 
 Al Dieu ! je voy passer un qui fait l'idolastre
 En venant m'aborder quand je suis au theâtre;
@@ -265,7 +265,7 @@ Allons les divertir par nos accens mignards
 Et recevoir l'honneur d'attirer leurs regards.
 
 
-**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_filou1
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_filou1 *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_filou1
 
       Ah ventre !
 
@@ -282,7 +282,7 @@ Je n'en ay point, amy, redoute ma colere !
 Ah c'est trop endurer, Portier tu periras.
 
 
-**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *act_II *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_ignorance
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_ignorance *act_II *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_ignorance
 
 Et bien mon cher, mon beau, mon tout, mon agreable,
 L'essence des amans, coquet le plus aimable,
@@ -357,7 +357,7 @@ Par moy de mille maux tu te pouras parer;
 Allons mon gros poupon !
 
 
-**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *act_II *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_trapolin
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_trapolin *act_II *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_trapolin
 
 Beauté, beaux yeux, mon cœur, belle bouche, beau teint.
 
@@ -618,7 +618,7 @@ Le plus grand ennemy de l'homme est la raison.
 FIN.
 
 
-**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *act_II *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_ledocteur
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_le-docteur *act_II *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_ledocteur
 
 J'ay des filles chez moy, doctes, spirituelles;
 La matiere, et l'esprit sont excellens en elles,
@@ -817,7 +817,7 @@ Sans que tu fasses des enfans,
 Que la terre a trop d'ignorans.
 
 
-**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *act_II *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_philosophie
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_philosophie *act_II *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_philosophie
 
 Idsum tibi Papa, quid de me cupis ?
 
@@ -871,7 +871,7 @@ Et moy je vais monter dessus mes grands chevaux
 Et te mettre vilain, dans le rang des brutaux.
 
 
-**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *act_II *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_poesie
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_poesie *act_II *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_poesie
 
 Qvid vis Papa ego sum paratissima.
 
@@ -949,7 +949,7 @@ Je te vais faire faire, au lieu d'epitalame,
 De satyriques vers, et quelque écrit infame.
 
 
-**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *act_II *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_galanterie
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_galanterie *act_II *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_galanterie
 
 Avec moy vous aurez liberté toute entière :
 Ouy, chacun avec moy peut vivre à sa maniere.

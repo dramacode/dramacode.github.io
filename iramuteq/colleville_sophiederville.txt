@@ -1,6 +1,6 @@
 
 
-**** *creator_colleville *book_colleville_sophiederville *style_prose *genre_comedy *dist1_colleville_prose_comedy_sophiederville *dist2_colleville_prose_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedorsan
+**** *creator_colleville *book_colleville_sophiederville *style_prose *genre_comedy *dist1_colleville_prose_comedy_sophiederville *dist2_colleville_prose_comedy *id_MADAMEDORSAN *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedorsan
 
 Oui, eh bien ! Quoi ? Que sais-tu ?
 
@@ -130,7 +130,7 @@ Chère Sophie ! Pardonne à une mère les pleurs qu'elle t'a coûtés. Il fallai
 Il devient ton époux... Qu'il soit toujours ton ami.
 
 
-**** *creator_colleville *book_colleville_sophiederville *style_prose *genre_comedy *dist1_colleville_prose_comedy_sophiederville *dist2_colleville_prose_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sophie
+**** *creator_colleville *book_colleville_sophiederville *style_prose *genre_comedy *dist1_colleville_prose_comedy_sophiederville *dist2_colleville_prose_comedy *id_SOPHIE *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sophie
 
 Ô ma chère maman ! Je viens de lire un traité sur l'amitié... Quel ouvrage, oh, dieux ! Et quel sentiment ! L'auteur dit que, quand on l'éprouve, on est vertueux.
 
@@ -349,7 +349,7 @@ Derville !
 Lui... Ô maman ! Quel est votre bienfait ! J'avais de l'amour pour Derville.
 
 
-**** *creator_colleville *book_colleville_sophiederville *style_prose *genre_comedy *dist1_colleville_prose_comedy_sophiederville *dist2_colleville_prose_comedy *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_derville
+**** *creator_colleville *book_colleville_sophiederville *style_prose *genre_comedy *dist1_colleville_prose_comedy_sophiederville *dist2_colleville_prose_comedy *id_DERVILLE *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_derville
 
 Ce livre est détestable. Malheureux pédant ! Sois touché de nos misères, au lieu de les fronder. Le moraliste qui me console, c'est celui qui sait me plaindre. Ah ! Te voilà.
 
@@ -492,7 +492,7 @@ Ne crains point cette expérience de l'âge, cette sévérité de caractère que
 C'est ton époux que tu vois à tes pieds.
 
 
-**** *creator_colleville *book_colleville_sophiederville *style_prose *genre_comedy *dist1_colleville_prose_comedy_sophiederville *dist2_colleville_prose_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_colleville *book_colleville_sophiederville *style_prose *genre_comedy *dist1_colleville_prose_comedy_sophiederville *dist2_colleville_prose_comedy *id_LISETTE *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Je n'ai point oublié que Madame m'a demandé des instructions sur le compte de Mademoiselle.
 
@@ -596,7 +596,7 @@ Ayant vu Monsieur Derville aux pieds de Madame... qui lui parlait de mariage...
 J'ai dit à Mademoiselle...
 
 
-**** *creator_colleville *book_colleville_sophiederville *style_prose *genre_comedy *dist1_colleville_prose_comedy_sophiederville *dist2_colleville_prose_comedy *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dubois
+**** *creator_colleville *book_colleville_sophiederville *style_prose *genre_comedy *dist1_colleville_prose_comedy_sophiederville *dist2_colleville_prose_comedy *id_DUBOIS *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dubois
 
 Le voilà Dubois, on ne l'appelle que pour le faire jaser ; mais vous ne voulez pas croire à ce que je vous ai dit, je ne saurais qu'y faire, moi.
 

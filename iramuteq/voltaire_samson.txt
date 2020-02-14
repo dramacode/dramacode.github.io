@@ -1,6 +1,6 @@
 
 
-**** *creator_voltaire *book_voltaire_samson *style_verse *genre_opera *dist1_voltaire_verse_opera_samson *dist2_voltaire_verse_opera *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_samson
+**** *creator_voltaire *book_voltaire_samson *style_verse *genre_opera *dist1_voltaire_verse_opera_samson *dist2_voltaire_verse_opera *id_SAMSON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_samson
 
 Quel spectacle d'horreur !
 Quoi ! ces fiers enfants de l'erreur
@@ -301,7 +301,7 @@ Sur moi, sur ce peuple en fureur !
 J'ai réparé ma honte, et j'expire en vainqueur.
 
 
-**** *creator_voltaire *book_voltaire_samson *style_verse *genre_opera *dist1_voltaire_verse_opera_samson *dist2_voltaire_verse_opera *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dalila
+**** *creator_voltaire *book_voltaire_samson *style_verse *genre_opera *dist1_voltaire_verse_opera_samson *dist2_voltaire_verse_opera *id_DALILA *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dalila
 
 Ô Vénus ! Déesse charmante,
 Ne permets pas que ces beaux jours
@@ -484,7 +484,7 @@ Voix barbares ! Cris odieux !
 Allons partager son supplice.
 
 
-**** *creator_voltaire *book_voltaire_samson *style_verse *genre_opera *dist1_voltaire_verse_opera_samson *dist2_voltaire_verse_opera *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
+**** *creator_voltaire *book_voltaire_samson *style_verse *genre_opera *dist1_voltaire_verse_opera_samson *dist2_voltaire_verse_opera *id_LEROI *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
 
 Ainsi ce peuple esclave, oubliant son devoir,
 Contre son roi lève un front indocile.
@@ -576,7 +576,7 @@ Ils y sont tous, explique-toi.
 Oui, tu la touches des mains.
 
 
-**** *creator_voltaire *book_voltaire_samson *style_verse *genre_opera *dist1_voltaire_verse_opera_samson *dist2_voltaire_verse_opera *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_legrandpretre
+**** *creator_voltaire *book_voltaire_samson *style_verse *genre_opera *dist1_voltaire_verse_opera_samson *dist2_voltaire_verse_opera *id_LEGRANDPRETRE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_legrandpretre
 
 Esclaves, demeurez,
 Demeurez : votre roi par ma voix vous l'ordonne.

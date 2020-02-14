@@ -1,6 +1,6 @@
 
 
-**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *id_LEMARQUIS *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
 
 Enfin me voici donc dans l'Hôtel du Marais
 Et dessus un théâtre où je ne viens jamais.
@@ -107,7 +107,7 @@ Pour éloigner de nous l'humeur mélancolique
 Allons voir l'Impromptu, ou la Contre-critique.
 
 
-**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebaron
+**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *id_LEBARON *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebaron
 
 Et moi, mon cher Marquis, ici je te déclare
 Que le Palais-Royal me devient aussi rare ;
@@ -263,7 +263,7 @@ Ce que j'en dis ? Je dis que je m'en vais, ma foi.
 Moi, si j'y reste plus, je veux qu'on m'y dépouille.
 
 
-**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *id_LECHEVALIER *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
 
 Une chaise, l'ami ; commence-t-on bientôt ?
 
@@ -354,7 +354,7 @@ Qu'en dis-tu, cher Baron ? Cela s'adresse à toi.
 Ma foi, je suis d'avis de m'en aller aussi.
 
 
-**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebarondelacrasse
+**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *id_LEBARONDELACRASSE *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebarondelacrasse
 
 Villeneuve, quelqu'un ?
 
@@ -383,7 +383,7 @@ Si je demeure ici, je veux bien qu'on m'étrille.
 Auteurs, comédiens, sont des vrais rien qui vaille.
 
 
-**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquisdemascarille
+**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *id_LEMARQUISDEMASCARILLE *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquisdemascarille
 
       Holà ! L'ami Clément ?
 Ouvre-nous notre loge.
@@ -401,7 +401,7 @@ Comment diable, en tous lieux la satire nous suit;
 Nous n'osons nous montrer, ni même ouvrir la bouche.
 
 
-**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leportier
+**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *id_LEPORTIER *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leportier
 
 Sans chaise vous pouvez vous placer comme il faut ;
 Vous avez là des bancs où l'on est à son aise.
@@ -414,7 +414,7 @@ Si vous ne me payez, que le diable m'emporte.
 Monsieur, un gentilhomme est là qui vous demande.
 
 
-**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_policarpe
+**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *id_POLICARPE *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_policarpe
 
 Bonjour, sieur Gorgibus, j'allais chez vous me rendre,
 Pour nous entretenir de Julie et Tersandre,
@@ -452,7 +452,7 @@ Ragotin, fais venir et Julie, et ton maître.
       Demain l'hymen vous lie.
 
 
-**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_boniface
+**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *id_BONIFACE *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_boniface
 
 Apprenez-moi, de grâce, où loge Gorgibus ?
 
@@ -480,7 +480,7 @@ Quoi vous ne savez pas où peut être Climene ?
 Oui, oui, je lui pardonne, ôte-nous donc de peine.
 
 
-**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gorgibus
+**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *id_GORGIBUS *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gorgibus
 
       Après, si bon vous semble,
 Vous me ferez l'honneur que nous soupions ensemble.
@@ -519,7 +519,7 @@ Mais avant que d'aller l'un l'autre les unir,
 Si les danseurs sont prêts, qu'on les fasse venir.
 
 
-**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *date_1663 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_tersandre
+**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *id_TERSANDRE *date_1663 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_tersandre
 
       Mais quoi, la chose est faite.
 
@@ -639,7 +639,7 @@ Comment, que vous pensez, qui vous fait hésiter ?
       C'est vous, Climène ! Ah ! Que je suis heureux !
 
 
-**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clarimond
+**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *id_CLARIMOND *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clarimond
 
 Ragotin, est-il rien d'égal à mon malheur ?
 Je n'y saurais songer, sans mourir de douleur.
@@ -715,7 +715,7 @@ Ragotin, reste ici pour voir ce qui se passe.
 Monsieur, que de bonté !
 
 
-**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *date_1663 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_climene
+**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *id_CLIMENE *date_1663 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_climene
 
 Je m'imagine ouïr Monsieur de Mascarille,
 Alors que dans sa chaise il faisait tant de bruit.
@@ -888,7 +888,7 @@ Ainsi...
       Elle est en page.
 
 
-**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosette
+**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *id_ROSETTE *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosette
 
 Nous l'allons commencer.
 
@@ -964,7 +964,7 @@ Ce n'est pas encor là l'endroit le plus fatal.
 Oui, Guillot, sois certain que mon coeur est tout tien.
 
 
-**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *date_1663 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_julie
+**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *id_JULIE *date_1663 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_julie
 
 Vous voir assurément fait mon unique bien:
 Mais, Clarimond, que faire où nous ne pouvons rien?
@@ -1035,7 +1035,7 @@ Je vais songer à vous. Adieu, je me retire,
 Je crains qu'on ne me voie avec vous en ce lieu.
 
 
-**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *id_LISETTE *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Guillot dit vrai, car c'est l'ordinaire habitude
 De débuter toujours par quelque beau prélude.
@@ -1065,7 +1065,7 @@ N'oserait-on causer ?
 Adieu, maître badin, le plus grand des ivrognes.
 
 
-**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_beatrix
+**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *id_BEATRIX *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_beatrix
 
 Et Guillot rend mon coeur épris.
 
@@ -1088,7 +1088,7 @@ Que sais-je ?
 Adieu, beau contrôleur.
 
 
-**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillot
+**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *id_GUILLOT *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillot
 
       Hé bien, Monsieur mon maître,
 Par votre seule faute on nous envoie paître;
@@ -1290,7 +1290,7 @@ Te voudraient bien avoir je crois pour camarade ;
 Mais, Rosette, t'aimant, tu dois être le mien.
 
 
-**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ragotin
+**** *creator_chevalier *book_chevalier_amoursdecalotin *style_verse *genre_comedy *dist1_chevalier_verse_comedy_amoursdecalotin *dist2_chevalier_verse_comedy *id_RAGOTIN *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ragotin
 
 Vous seriez assez fou, d'abandonner la vie.
 Pourquoi donc, s'il vous plaît ?

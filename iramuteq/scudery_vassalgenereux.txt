@@ -1,6 +1,6 @@
 
 
-**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_theandre
+**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_theandre *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_theandre
 
 STANCES.
 
@@ -452,7 +452,7 @@ Et sa foy vous promet avec du repentir,
 En ne manquant jamais, de n'en jamais sentir.
 
 
-**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosilee
+**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_rosilee *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosilee
 
 De quoy s'entretenoit la moitié de mon ame?
 
@@ -588,7 +588,7 @@ Sur la foy de Theandre il est icy venu;
 Reconnoissez le Roy, puis qu'il s'est reconnu.
 
 
-**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucidan
+**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_lucidan *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucidan
 
 La fortune me rit, le sort m'est favorable;
 Je suis autant heureux, que j'estois miserable;
@@ -1143,7 +1143,7 @@ Et que de vostre Nom, les Siècles amoureux,
 Consacrent un Autel au VASSAL GENEREUX.
 
 
-**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_androphile
+**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_androphile *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_androphile
 
 L'esperance est le bien qui devance les autres;
 N'estant point de vertus qui ne paroissent aux vostres;
@@ -1251,7 +1251,7 @@ Grave en ton souvenir, que par ton fol amour,
 Tu ravis la lumière à qui te mis au jour.
 
 
-**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_glacitide
+**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_glacitide *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_glacitide
  
 Ouy, je vous le permets, Theandre le merite:
 
@@ -1336,7 +1336,7 @@ Et soyez asseurez qu'on vous verra benir,
 Le fidele Vassal qui l'a fait revenir.
 
 
-**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *date_1636 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lindorante
+**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_lindorante *date_1636 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lindorante
 
 Le respect vous oblige, et la raison aussi,
 D'esteindre, ou de couvrir ce feu qui brusle ainsi.
@@ -1395,7 +1395,7 @@ Je finis à vos pieds, percé de part en part;
 Et je veux que mon corps vous serve de rempart.
 
 
-**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *date_1636 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_philidaspe
+**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_philidaspe *date_1636 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_philidaspe
 
 Ignorans Medecins, stupides que nous sommes,
 De mesurer les grands au vulgaire des hommes;
@@ -1481,7 +1481,7 @@ Le nombre excusera ce peu de lascheté;
 Sire consolez vous;
 
 
-**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *date_1636 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_perintor
+**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_perintor *date_1636 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_perintor
 
 Monsieur, soyez certain, que jamais Artesie,
 Puis que pour s'en servir Madame l'a choisie,
@@ -1526,7 +1526,7 @@ En mourant du premier, tu n'en feras point trois.
 Je vous attaqueray dans une autre saison⁎;
 
 
-**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *date_1636 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_artesie
+**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_artesie *date_1636 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_artesie
 
 Mon logis escarté trompera sa poursuite;
 Icy rien ne sçauroit empescher nostre fuite;
@@ -1592,7 +1592,7 @@ Entrez au champ de Mars, la barriere est ouverte:
 Je seray tousjours prest à vous faire raison.
 
 
-**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rosimar
+**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_rosimar *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rosimar
 
 Comment? peuple Gaulois, la valeur indomptée,
 De vos braves Ayeuls, est-elle surmontée?

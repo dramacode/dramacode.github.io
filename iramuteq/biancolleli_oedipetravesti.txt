@@ -1,6 +1,6 @@
 
 
-**** *creator_biancolleli *book_biancolleli_oedipetravesti *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_oedipetravesti *dist2_biancolleli_verse_parodie *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colombine
+**** *creator_biancolleli *book_biancolleli_oedipetravesti *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_oedipetravesti *dist2_biancolleli_verse_parodie *id_COLOMBINE *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colombine
 
 Qu'ai-je entendu, grands Dieux ? On peut le soupçonner !
 Une telle injustice a lieu de m'étonner,
@@ -158,7 +158,7 @@ Votre coeur à ce nom n'est-il point attendri ?
 Qu'entends-je !
 
 
-**** *creator_biancolleli *book_biancolleli_oedipetravesti *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_oedipetravesti *dist2_biancolleli_verse_parodie *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_claudine
+**** *creator_biancolleli *book_biancolleli_oedipetravesti *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_oedipetravesti *dist2_biancolleli_verse_parodie *id_CLAUDINE *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_claudine
 
       Ma surprise est extrême.
 
@@ -175,7 +175,7 @@ Puisqu'il vous plaisait tant, que ne l'épousiez-vous ?
 Ah ! Madone, en ces lieux Finebrette s'avance.
 
 
-**** *creator_biancolleli *book_biancolleli_oedipetravesti *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_oedipetravesti *dist2_biancolleli_verse_parodie *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trivelin
+**** *creator_biancolleli *book_biancolleli_oedipetravesti *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_oedipetravesti *dist2_biancolleli_verse_parodie *id_TRIVELIN *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trivelin
 
 Scaramouche, est-ce là le seigneur Finebrette ?
 
@@ -394,7 +394,7 @@ Irrite en ce moment la douleur qui m'accable.
 Pierrot était mon père, et je suis votre fils.
 
 
-**** *creator_biancolleli *book_biancolleli_oedipetravesti *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_oedipetravesti *dist2_biancolleli_verse_parodie *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_finebrette
+**** *creator_biancolleli *book_biancolleli_oedipetravesti *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_oedipetravesti *dist2_biancolleli_verse_parodie *id_FINEBRETTE *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_finebrette
 
       Non : j'ai trop de courage,
 Va, va, j'ai vu la mort de plus près sans effroi ;
@@ -552,7 +552,7 @@ Mais tu n'ignores pas, que j'ai trop de vertu,
 Pour vouloir épouser la veuve d'un pendu.
 
 
-**** *creator_biancolleli *book_biancolleli_oedipetravesti *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_oedipetravesti *dist2_biancolleli_verse_parodie *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucas
+**** *creator_biancolleli *book_biancolleli_oedipetravesti *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_oedipetravesti *dist2_biancolleli_verse_parodie *id_LUCAS *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucas
 
 Non, morgué, s'il vous plaît, cette affaire nous touche,
 Et je voulons savoir de votre propre bouche,
@@ -574,7 +574,7 @@ Pour nous je n'irons point demander votre grâce,
 Il faut tout au plutôt que justice se fasse.
 
 
-**** *creator_biancolleli *book_biancolleli_oedipetravesti *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_oedipetravesti *dist2_biancolleli_verse_parodie *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillaume
+**** *creator_biancolleli *book_biancolleli_oedipetravesti *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_oedipetravesti *dist2_biancolleli_verse_parodie *id_GUILLAUME *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillaume
 
 Cher Trivelin !
 
@@ -632,7 +632,7 @@ Parlez, ne craignez rien.
       Et fi donc, vous rêvez.
 
 
-**** *creator_biancolleli *book_biancolleli_oedipetravesti *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_oedipetravesti *dist2_biancolleli_verse_parodie *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blaise
+**** *creator_biancolleli *book_biancolleli_oedipetravesti *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_oedipetravesti *dist2_biancolleli_verse_parodie *id_BLAISE *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blaise
 
 Finebrette au Bourget ! À quoi donc pensiez-vous ?
 Morgue, gardez-vous bien d'habiter parmi nous :

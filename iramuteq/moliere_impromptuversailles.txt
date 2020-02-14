@@ -1,6 +1,6 @@
 
 
-**** *creator_moliere *book_moliere_impromptuversailles *style_prose *genre_comedy *dist1_moliere_prose_comedy_impromptuversailles *dist2_moliere_prose_comedy *date_1663 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_moliere
+**** *creator_moliere *book_moliere_impromptuversailles *style_prose *genre_comedy *dist1_moliere_prose_comedy_impromptuversailles *dist2_moliere_prose_comedy *id_moliere *date_1663 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_moliere
 
 Allons donc, messieurs et mesdames, vous moquez-vous avec votre longueur, et ne voulez-vous pas tous venir ici ? La peste soit des gens ! Holà ho ! Monsieur de Brécourt
 
@@ -239,7 +239,7 @@ Monsieur, vous venez pour nous dire de commencer, mais...
 Ah ! Monsieur, vous me redonnez la vie ! Le roi nous fait la plus grande grâce du monde de nous donner du temps pour ce qu'il avait souhaité ; et nous allons tous le remercier des extrêmes bontés qu'il nous fait paraître.
 
 
-**** *creator_moliere *book_moliere_impromptuversailles *style_prose *genre_comedy *dist1_moliere_prose_comedy_impromptuversailles *dist2_moliere_prose_comedy *date_1663 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_brecourt
+**** *creator_moliere *book_moliere_impromptuversailles *style_prose *genre_comedy *dist1_moliere_prose_comedy_impromptuversailles *dist2_moliere_prose_comedy *id_brecourt *date_1663 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_brecourt
 
 Quoi ?
 
@@ -276,7 +276,7 @@ Va, va, peut-être qu'il y trouvera plus de sujets de rire que tu ne penses. On 
 Sur la réponse ? Ma foi, je le trouverais un grand fou, s'il se mettait en peine de répondre à leurs invectives. Tout le monde sait assez de quel motif elles peuvent partir ; et la meilleure réponse qu'il leur puisse faire, c'est une comédie qui réussisse comme toutes ses autres. Voilà le vrai moyen de se venger d'eux comme il faut ; et de l'humeur dont je les connais, je suis fort assuré qu'une pièce nouvelle qui leur enlèvera le monde, les fâchera bien plus que toutes les satires qu'on pourrait faire de leurs personnes.
 
 
-**** *creator_moliere *book_moliere_impromptuversailles *style_prose *genre_comedy *dist1_moliere_prose_comedy_impromptuversailles *dist2_moliere_prose_comedy *date_1663 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lagrange
+**** *creator_moliere *book_moliere_impromptuversailles *style_prose *genre_comedy *dist1_moliere_prose_comedy_impromptuversailles *dist2_moliere_prose_comedy *id_la-grange *date_1663 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_lagrange
 
 Qu'est-ce ?
 
@@ -319,7 +319,7 @@ Et moi aussi, Dieu me sauve !
 Les comédiens m'ont dit qu'ils l'attendaient sur la réponse, et que...
 
 
-**** *creator_moliere *book_moliere_impromptuversailles *style_prose *genre_comedy *dist1_moliere_prose_comedy_impromptuversailles *dist2_moliere_prose_comedy *date_1663 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_ducroisy
+**** *creator_moliere *book_moliere_impromptuversailles *style_prose *genre_comedy *dist1_moliere_prose_comedy_impromptuversailles *dist2_moliere_prose_comedy *id_du-croisy *date_1663 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_ducroisy
 
 Plaît-il ?
 
@@ -334,7 +334,7 @@ Il est vrai que j'ai l'avantage de ne point faire d'ennemis, et que tous mes ouv
 Je ne sais ; mais je me prépare fort à paraître des premiers sur les rangs, pour crier : "Voilà qui est beau !"
 
 
-**** *creator_moliere *book_moliere_impromptuversailles *style_prose *genre_comedy *dist1_moliere_prose_comedy_impromptuversailles *dist2_moliere_prose_comedy *date_1663 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lathorilliere
+**** *creator_moliere *book_moliere_impromptuversailles *style_prose *genre_comedy *dist1_moliere_prose_comedy_impromptuversailles *dist2_moliere_prose_comedy *id_la-thorilliere *date_1663 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_lathorilliere
 
 Bonjour, Monsieur Molière.
 
@@ -376,7 +376,7 @@ Pourquoi ? Il n'y a point de danger pour moi.
 Je m'en vais donc dire que vous êtes prêts.
 
 
-**** *creator_moliere *book_moliere_impromptuversailles *style_prose *genre_comedy *dist1_moliere_prose_comedy_impromptuversailles *dist2_moliere_prose_comedy *date_1663 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_mademoiselleduparc
+**** *creator_moliere *book_moliere_impromptuversailles *style_prose *genre_comedy *dist1_moliere_prose_comedy_impromptuversailles *dist2_moliere_prose_comedy *id_mademoiselle-du-parc *date_1663 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_mademoiselleduparc
 
 Hé bien ?
 
@@ -425,7 +425,7 @@ Ni moi le mien.
 Vous devez vous aller excuser.
 
 
-**** *creator_moliere *book_moliere_impromptuversailles *style_prose *genre_comedy *dist1_moliere_prose_comedy_impromptuversailles *dist2_moliere_prose_comedy *date_1663 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_mademoisellebejart
+**** *creator_moliere *book_moliere_impromptuversailles *style_prose *genre_comedy *dist1_moliere_prose_comedy_impromptuversailles *dist2_moliere_prose_comedy *id_mademoiselle-bejart *date_1663 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_mademoisellebejart
 
 Qu'y a-t-il ?
 
@@ -460,7 +460,7 @@ Par ma foi, la frayeur me prend, et je ne saurais aller jouer mon rôle, si je n
 Non.
 
 
-**** *creator_moliere *book_moliere_impromptuversailles *style_prose *genre_comedy *dist1_moliere_prose_comedy_impromptuversailles *dist2_moliere_prose_comedy *date_1663 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_mademoiselledebrie
+**** *creator_moliere *book_moliere_impromptuversailles *style_prose *genre_comedy *dist1_moliere_prose_comedy_impromptuversailles *dist2_moliere_prose_comedy *id_mademoiselle-de-brie *date_1663 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_mademoiselledebrie
 
 Que veut-on ?
 
@@ -505,7 +505,7 @@ Vous en étiez à l'endroit...
 Ni moi non plus.
 
 
-**** *creator_moliere *book_moliere_impromptuversailles *style_prose *genre_comedy *dist1_moliere_prose_comedy_impromptuversailles *dist2_moliere_prose_comedy *date_1663 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_mademoisellemoliere
+**** *creator_moliere *book_moliere_impromptuversailles *style_prose *genre_comedy *dist1_moliere_prose_comedy_impromptuversailles *dist2_moliere_prose_comedy *id_mademoiselle-moliere *date_1663 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_mademoisellemoliere
 
 Et moi aussi.
 
@@ -558,7 +558,7 @@ C'est fort bien dit.
 Ni moi.
 
 
-**** *creator_moliere *book_moliere_impromptuversailles *style_prose *genre_comedy *dist1_moliere_prose_comedy_impromptuversailles *dist2_moliere_prose_comedy *date_1663 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_mademoiselleducroisy
+**** *creator_moliere *book_moliere_impromptuversailles *style_prose *genre_comedy *dist1_moliere_prose_comedy_impromptuversailles *dist2_moliere_prose_comedy *id_mademoiselle-du-croisy *date_1663 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_mademoiselleducroisy
 
 Qu'est-ce que c'est ?
 
@@ -573,7 +573,7 @@ Sans doute.
 Ni moi.
 
 
-**** *creator_moliere *book_moliere_impromptuversailles *style_prose *genre_comedy *dist1_moliere_prose_comedy_impromptuversailles *dist2_moliere_prose_comedy *date_1663 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_mademoiselleherve
+**** *creator_moliere *book_moliere_impromptuversailles *style_prose *genre_comedy *dist1_moliere_prose_comedy_impromptuversailles *dist2_moliere_prose_comedy *id_mademoiselle-herve *date_1663 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_mademoiselleherve
 
 On y va.
 

@@ -1,6 +1,6 @@
 
 
-**** *creator_montfleury *book_montfleury_trigaudin *style_verse *genre_comedy *dist1_montfleury_verse_comedy_trigaudin *dist2_montfleury_verse_comedy *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trigaudin
+**** *creator_montfleury *book_montfleury_trigaudin *style_verse *genre_comedy *dist1_montfleury_verse_comedy_trigaudin *dist2_montfleury_verse_comedy *id_trigaudin *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trigaudin
 
 Non ; point ; Ayant soupé l'autre jour chez Géronte,
 En tirant par hazard de ma poche un Mouchoir,
@@ -918,7 +918,7 @@ Et je veux oublier ce tour dés cet instant,
 Pourveu qu'en ma faveur Géronte en fasse autant.
 
 
-**** *creator_montfleury *book_montfleury_trigaudin *style_verse *genre_comedy *dist1_montfleury_verse_comedy_trigaudin *dist2_montfleury_verse_comedy *date_1674 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucie
+**** *creator_montfleury *book_montfleury_trigaudin *style_verse *genre_comedy *dist1_montfleury_verse_comedy_trigaudin *dist2_montfleury_verse_comedy *id_lucie *date_1674 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucie
 
 D'où vient ce sombre accueil, & ce regard farouche,
 Ce trouble qui vous ouvre & vous ferme la bouche ?
@@ -1255,7 +1255,7 @@ Et que je me pouvois servir d'un stratagéme,
 Puisqu'on doit tout risquer pour sauver ce qu'on aime.
 
 
-**** *creator_montfleury *book_montfleury_trigaudin *style_verse *genre_comedy *dist1_montfleury_verse_comedy_trigaudin *dist2_montfleury_verse_comedy *date_1674 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_geronte
+**** *creator_montfleury *book_montfleury_trigaudin *style_verse *genre_comedy *dist1_montfleury_verse_comedy_trigaudin *dist2_montfleury_verse_comedy *id_geronte *date_1674 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_geronte
 
 O le charmant Portrait !
 
@@ -1816,7 +1816,7 @@ FIN.
 Permis d'imprimer ce 10 Mars 1674. DE LA REYNIE.
 
 
-**** *creator_montfleury *book_montfleury_trigaudin *style_verse *genre_comedy *dist1_montfleury_verse_comedy_trigaudin *dist2_montfleury_verse_comedy *date_1674 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_julie
+**** *creator_montfleury *book_montfleury_trigaudin *style_verse *genre_comedy *dist1_montfleury_verse_comedy_trigaudin *dist2_montfleury_verse_comedy *id_julie *date_1674 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_julie
 
 Vos bontez ont pour moy de si frequents effets,
 Que mes remercîemens ne finiroient jamais,
@@ -1906,7 +1906,7 @@ Et dont chaque grimace a toûjours quelque but.
       Tout m'en plaira, quand vous serez content.
 
 
-**** *creator_montfleury *book_montfleury_trigaudin *style_verse *genre_comedy *dist1_montfleury_verse_comedy_trigaudin *dist2_montfleury_verse_comedy *date_1674 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_valere
+**** *creator_montfleury *book_montfleury_trigaudin *style_verse *genre_comedy *dist1_montfleury_verse_comedy_trigaudin *dist2_montfleury_verse_comedy *id_valere *date_1674 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_valere
 
 Toinette, que dis-tu ?
 
@@ -2121,7 +2121,7 @@ Est mon Valet de Chambre.
 Ah de trop de bontez c'est combler mon espoir.
 
 
-**** *creator_montfleury *book_montfleury_trigaudin *style_verse *genre_comedy *dist1_montfleury_verse_comedy_trigaudin *dist2_montfleury_verse_comedy *date_1674 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_toinette
+**** *creator_montfleury *book_montfleury_trigaudin *style_verse *genre_comedy *dist1_montfleury_verse_comedy_trigaudin *dist2_montfleury_verse_comedy *id_toinette *date_1674 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_toinette
 
 Ah Monsieur Trigaudin, est-il vray…
 
@@ -2264,7 +2264,7 @@ Je sçaurois … Mais tenez, le voicy qui rumine.
 Quel Galant ! La figure en est-elle pas bonne ?
 
 
-**** *creator_montfleury *book_montfleury_trigaudin *style_verse *genre_comedy *dist1_montfleury_verse_comedy_trigaudin *dist2_montfleury_verse_comedy *date_1674 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_laforest
+**** *creator_montfleury *book_montfleury_trigaudin *style_verse *genre_comedy *dist1_montfleury_verse_comedy_trigaudin *dist2_montfleury_verse_comedy *id_la-forest *date_1674 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_laforest
 
 Ma Sœur, vous dans Paris !
 
@@ -2401,7 +2401,7 @@ Vous estes donc, Monsieur, son Epoux à ce compte ?
 Vous voyez dans vos jours ce qu'on a pris de part.
 
 
-**** *creator_montfleury *book_montfleury_trigaudin *style_verse *genre_comedy *dist1_montfleury_verse_comedy_trigaudin *dist2_montfleury_verse_comedy *date_1674 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lariviere
+**** *creator_montfleury *book_montfleury_trigaudin *style_verse *genre_comedy *dist1_montfleury_verse_comedy_trigaudin *dist2_montfleury_verse_comedy *id_la-riviere *date_1674 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lariviere
 
 Je vay changer d'habit.
 
@@ -2542,7 +2542,7 @@ Car la Belle ne peut offencer son Epoux,
 Sans qu'un pareil affront se répande sur vous.
 
 
-**** *creator_montfleury *book_montfleury_trigaudin *style_verse *genre_comedy *dist1_montfleury_verse_comedy_trigaudin *dist2_montfleury_verse_comedy *date_1674 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lindustrie
+**** *creator_montfleury *book_montfleury_trigaudin *style_verse *genre_comedy *dist1_montfleury_verse_comedy_trigaudin *dist2_montfleury_verse_comedy *id_l-industrie *date_1674 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lindustrie
 
 Bon, pour vous divertir, vous me faites un conte.
 

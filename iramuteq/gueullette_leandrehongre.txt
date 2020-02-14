@@ -1,6 +1,6 @@
 
 
-**** *creator_gueullette *book_gueullette_leandrehongre *style_prose *genre_parade *dist1_gueullette_prose_parade_leandrehongre *dist2_gueullette_prose_parade *date_1720 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+**** *creator_gueullette *book_gueullette_leandrehongre *style_prose *genre_parade *dist1_gueullette_prose_parade_leandrehongre *dist2_gueullette_prose_parade *id_ISABELLE *date_1720 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
 
 Hi, hi, haye, aye, que dira mon cher père !
 
@@ -112,7 +112,7 @@ Il est de lui.
 Non, mon père, c'est que je me trompe.
 
 
-**** *creator_gueullette *book_gueullette_leandrehongre *style_prose *genre_parade *dist1_gueullette_prose_parade_leandrehongre *dist2_gueullette_prose_parade *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+**** *creator_gueullette *book_gueullette_leandrehongre *style_prose *genre_parade *dist1_gueullette_prose_parade_leandrehongre *dist2_gueullette_prose_parade *id_LEANDRE *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
 
 Dissimulez vos, oui, vos pleures et vos larmes, queuques-uns pourraient fort bien nous surprendre sans miraque.
 
@@ -198,7 +198,7 @@ Que dites-vous, Monsieur ?
 Arrêtez, Monsieur, z'arrêtez, j'aime mieux ne point t'épouser Mamselle votre fille, je craindrais comme le feu que cet accouchement forcé ne lui fit un peu de mal, et que mon cher fils qu'elle porte dans son sein, n'en mourût avant que de vivre sans pouvoir recevoir le baptême.
 
 
-**** *creator_gueullette *book_gueullette_leandrehongre *style_prose *genre_parade *dist1_gueullette_prose_parade_leandrehongre *dist2_gueullette_prose_parade *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
+**** *creator_gueullette *book_gueullette_leandrehongre *style_prose *genre_parade *dist1_gueullette_prose_parade_leandrehongre *dist2_gueullette_prose_parade *id_GILLES *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
 
 Mamselle, je suis sur vous dans un moment ; que vous plaît-il de moi Mamselle ?
 

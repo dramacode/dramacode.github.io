@@ -1,6 +1,6 @@
 
 
-**** *creator_pompigny *book_pompigny_noeuddamour *style_prose *genre_comedy *dist1_pompigny_prose_comedy_noeuddamour *dist2_pompigny_prose_comedy *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colin
+**** *creator_pompigny *book_pompigny_noeuddamour *style_prose *genre_comedy *dist1_pompigny_prose_comedy_noeuddamour *dist2_pompigny_prose_comedy *id_COLIN *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colin
 
 Ah ! Babet !
 
@@ -90,7 +90,7 @@ Cesse aussitôt d'être cruelle:
 Voilà le noeud, voilà le noeud.
 
 
-**** *creator_pompigny *book_pompigny_noeuddamour *style_prose *genre_comedy *dist1_pompigny_prose_comedy_noeuddamour *dist2_pompigny_prose_comedy *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamerebazu
+**** *creator_pompigny *book_pompigny_noeuddamour *style_prose *genre_comedy *dist1_pompigny_prose_comedy_noeuddamour *dist2_pompigny_prose_comedy *id_LAMEREBAZU *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamerebazu
 
 Assurément. Je n'ai aucun reproche à me faire. Son père et sa mère me l'ont confiée tour-à-tour en mourant, et j'ai pris autant de soin de son bien que de son honneur : car l'honneur....
 
@@ -136,7 +136,7 @@ On veut jouir de sa jeunesse :
 Voilà le noeud, voilà le noeud.
 
 
-**** *creator_pompigny *book_pompigny_noeuddamour *style_prose *genre_comedy *dist1_pompigny_prose_comedy_noeuddamour *dist2_pompigny_prose_comedy *date_1779 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_babet
+**** *creator_pompigny *book_pompigny_noeuddamour *style_prose *genre_comedy *dist1_pompigny_prose_comedy_noeuddamour *dist2_pompigny_prose_comedy *id_BABET *date_1779 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_babet
 
 Moi ! Je ne veux fâcher personne. Je désirerais pouvoir contenter tout le monde. Qu'ils tirent au sort, et nous verrons après.
 

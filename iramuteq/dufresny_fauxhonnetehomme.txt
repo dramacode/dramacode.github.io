@@ -1,6 +1,6 @@
 
 
-**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ariste
+**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *id_ARISTE *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ariste
 
 De mes perfections, Monsieur ! C'est de quoi je ne parle jamais.
 
@@ -263,7 +263,7 @@ Qu'attendez-vous ? Allons.
 Allons, Monsieur, allons donc.
 
 
-**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laveuve
+**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *id_LAVEUVE *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laveuve
 
 Oui Frosine, oui, Monsieur Ariste est un vrai homme d'honneur.
 
@@ -398,7 +398,7 @@ Très volontiers.
 Voilà ce qui s'appelle un vrai homme d'honneur.
 
 
-**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_frosine
+**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *id_FROSINE *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_frosine
 
 Je conviens que feu votre mari s'en était coiffé un peu avant sa mort ; mais ce n'est pas là une preuve pour moi ; je vous demande quelque autre preuve convaincante.
 
@@ -646,7 +646,7 @@ Vous en faut-il davantage ?
 Puisque mon bon ami Flamand nous a servi à démasquer notre fourbe, il faut le récompenser en me donnant tout à lui.
 
 
-**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *id_ANGELIQUE *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
 Je vous avais dit, ma tante, que je ne partirais pas sitôt : mais j'ai peine à rester longtemps en même logis avec un homme qui emporte toute une succession que je pouvais espérer légitimement : j'avoue que Monsieur Ariste me fait peine à voir ici, souffrez que je me retire.
 
@@ -763,7 +763,7 @@ Hé bien, ma tante, êtes-vous convaincue ?
 Délivrez-nous d'un objet odieux, laissez-le aller.
 
 
-**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecapitaine
+**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *id_LECAPITAINE *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecapitaine
 
 Avant de vous répondre, Madame, que je vous fasse une question, me haïssez-vous autant que vous me haïssiez autrefois ?
 
@@ -927,7 +927,7 @@ Oui : il est juste que ce mariage se fasse aux dépens de la succession.
 Je vous ai promis, Madame, de vous rendre tout ; mais ce sera pour marier Angélique à Monsieur, qui est galant homme.
 
 
-**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
+**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *id_LAMARQUISE *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
 
 Voyons ta liste, Jasmin, voyons ta liste. Où dois-je aller en sortant d'ici ? Combien ai-je de parties faites pour aujourd'hui.
 
@@ -1079,7 +1079,7 @@ Embrassez-moi, ma bru.
 Et le contraire d'un faux homme d'honneur.
 
 
-**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jasmin
+**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *id_JASMIN *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jasmin
 
 Madame la Comtesse vous attend à cinq heures.
 
@@ -1090,7 +1090,7 @@ On joue dans l'Isle à cinq heures aussi.
 Mais, Madame, vous ne pouvez pas aller partout là tout à la fois.
 
 
-**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *id_VALERE *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
 
 Dès qu'elle vous convient, elle doit me convenir. Mais Madame ; vous ne m'avez averti qu'hier de ce mariage, vous voulez le terminer aujourd'hui ; cela est un peu précipité.
 
@@ -1215,7 +1215,7 @@ Quoi ! Vous changez déjà ?
 N'insultez pas mon vrai ami.
 
 
-**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_flamand
+**** *creator_dufresny *book_dufresny_fauxhonnetehomme *style_prose *genre_comedy *dist1_dufresny_prose_comedy_fauxhonnetehomme *dist2_dufresny_prose_comedy *id_FLAMAND *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_flamand
 
 Je suis votre serviteur.
 

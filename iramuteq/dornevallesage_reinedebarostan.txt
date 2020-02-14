@@ -1,6 +1,6 @@
 
 
-**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *date_1730 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lareine
+**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *id_LAREINE *date_1730 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lareine
 
 Vous l'avez troublé, Madame.
 
@@ -117,7 +117,7 @@ Qui vous donne pour maître
 Le Prince Almoraddin.
 
 
-**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_almoraddin
+**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *id_ALMORADDIN *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_almoraddin
 
 Je crains moins la Mer en colère.
 Que je ne redoute les noeuds,
@@ -363,7 +363,7 @@ Oui, votre rang suprême
 Me plaît bien moins que vous.
 
 
-**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *date_1730 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nour
+**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *id_NOUR *date_1730 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nour
 
 Ô vous, que le hasard attire
 Ici pour la première fois,
@@ -471,7 +471,7 @@ Se croire heureux,
 N'est-ce pas l'être.
 
 
-**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *date_1730 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amine
+**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *id_AMINE *date_1730 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amine
 
 Finir votre peine,
 Me serait bien doux ;
@@ -496,7 +496,7 @@ Souhaiter plus que moi.
 Je cours annoncer à la Reine ce Nouveau-venu.
 
 
-**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_assan
+**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *id_ASSAN *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_assan
 
 En vain tous les jours je vous presse
 De couronner ma tendre ardeur ;
@@ -567,7 +567,7 @@ L'Amour se trouve toujours
 Sur son passage.
 
 
-**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hanif
+**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *id_HANIF *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hanif
 
 Noble Etranger , l'on nous ordonne
 De venir avec grand respect:.,
@@ -623,7 +623,7 @@ Lurelu, larela, lirette...
 Mais, tenez, le voilà.
 
 
-**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sindbad
+**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *id_SINDBAD *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sindbad
 
 Dans ce moment, fans résister,
 Seigneur, laissez-vous arrêter.
@@ -664,7 +664,7 @@ Pour trouver un homme à son gré.
 Vous voyez le Capitaine des Gardes.
 
 
-**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+**** *creator_dornevallesage *book_dornevallesage_reinedebarostan *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_reinedebarostan *dist2_dornevallesage_verse_opera comique *id_PIERROT *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
 
 Seigneur, n'avez vous point envie
 De changer votre train de vie ?

@@ -1,6 +1,6 @@
 
 
-**** *creator_voltaire *book_voltaire_olympie *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_olympie *dist2_voltaire_verse_tragedy *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cassandre
+**** *creator_voltaire *book_voltaire_olympie *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_olympie *dist2_voltaire_verse_tragedy *id_CASSANDRE *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cassandre
 
 Sostène, on va finir ces mystères terribles.
 Cassandre espère enfin des dieux moins inflexibles :
@@ -448,7 +448,7 @@ De ma félicité si ton grand coeur s'irrite,
 Partage-la, crois-moi, prends ce fer, et m'imite.
 
 
-**** *creator_voltaire *book_voltaire_olympie *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_olympie *dist2_voltaire_verse_tragedy *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antigone
+**** *creator_voltaire *book_voltaire_olympie *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_olympie *dist2_voltaire_verse_tragedy *id_ANTIGONE *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antigone
 
 Ce secret m'importune, il le faut arracher ;
 Je lirai dans son coeur ce qu'il croit me cacher.
@@ -800,7 +800,7 @@ Qu'avait fait Statira ? Qu'avait fait Olympie ?
 A quoi réservez-vous ma déplorable vie ?
 
 
-**** *creator_voltaire *book_voltaire_olympie *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_olympie *dist2_voltaire_verse_tragedy *date_1764 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_statira
+**** *creator_voltaire *book_voltaire_olympie *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_olympie *dist2_voltaire_verse_tragedy *id_STATIRA *date_1764 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_statira
 
 Ô ciel ! Après quinze ans qu'en ces murs écartés,
 Dans l'ombre du silence, au monde inaccessible,
@@ -1134,7 +1134,7 @@ Console au moins ta mère en la faisant mourir.
 Va, je suis malheureuse, et tu n'es point coupable.
 
 
-**** *creator_voltaire *book_voltaire_olympie *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_olympie *dist2_voltaire_verse_tragedy *date_1764 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_olympie
+**** *creator_voltaire *book_voltaire_olympie *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_olympie *dist2_voltaire_verse_tragedy *id_OLYMPIE *date_1764 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_olympie
 
 Protégez à jamais, ô dieux en qui j'espère,
 Le maître généreux qui m'a servi de père,
@@ -1577,7 +1577,7 @@ Apprends... que je t'adore... et que je m'en punis.
 Cendres de Statira, recevez Olympie.
 
 
-**** *creator_voltaire *book_voltaire_olympie *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_olympie *dist2_voltaire_verse_tragedy *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lhierophante
+**** *creator_voltaire *book_voltaire_olympie *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_olympie *dist2_voltaire_verse_tragedy *id_LHIEROPHANTE *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lhierophante
 
 Quoi ! Dans ces jours sacrés ! Quoi ! Dans ce temple auguste
 Où Dieu pardonne au crime, et console le juste,
@@ -1867,7 +1867,7 @@ Arrêtez !... Ô saint temple ! Ô Dieu juste et vengeur !
 Dans quel palais profane a-t-on vu plus d'horreur !
 
 
-**** *creator_voltaire *book_voltaire_olympie *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_olympie *dist2_voltaire_verse_tragedy *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sostene
+**** *creator_voltaire *book_voltaire_olympie *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_olympie *dist2_voltaire_verse_tragedy *id_SOSTENE *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sostene
 
       Seigneur, près d'Éphèse assemblés,
 Les guerriers qui servaient sous le roi votre père
@@ -1936,7 +1936,7 @@ Tremblez pour votre amour, tremblez pour votre vie.
 Venez.
 
 
-**** *creator_voltaire *book_voltaire_olympie *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_olympie *dist2_voltaire_verse_tragedy *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hermas
+**** *creator_voltaire *book_voltaire_olympie *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_olympie *dist2_voltaire_verse_tragedy *id_HERMAS *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hermas
 
 Seigneur, vous m'étonnez quand l'Asie en alarmes
 Voit cent trônes sanglants disputés par les armes,

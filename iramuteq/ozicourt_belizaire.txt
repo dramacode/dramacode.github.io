@@ -1,6 +1,6 @@
 
 
-**** *creator_ozicourt *book_ozicourt_belizaire *style_verse *genre_drame *dist1_ozicourt_verse_drame_belizaire *dist2_ozicourt_verse_drame *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_justinien
+**** *creator_ozicourt *book_ozicourt_belizaire *style_verse *genre_drame *dist1_ozicourt_verse_drame_belizaire *dist2_ozicourt_verse_drame *id_JUSTINIEN *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_justinien
 
 Voilà donc le réduit de ce fameux vainqueur !
 D'un héros qui, vingt fois, fut mon libérateur !
@@ -206,7 +206,7 @@ Tibère, c'est à toi que j'en suis redevable.
 Quel prix d'un tel bonheur l'égaleront jamais !
 
 
-**** *creator_ozicourt *book_ozicourt_belizaire *style_verse *genre_drame *dist1_ozicourt_verse_drame_belizaire *dist2_ozicourt_verse_drame *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_belisaire
+**** *creator_ozicourt *book_ozicourt_belizaire *style_verse *genre_drame *dist1_ozicourt_verse_drame_belizaire *dist2_ozicourt_verse_drame *id_BELISAIRE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_belisaire
 
 Depuis que je suis libre, ô ma chère Antonine !
 Je désire et je crains d'arriver en ce lieu.
@@ -729,7 +729,7 @@ Les flambeaux de l'hymen vont éclairer ma mort...
 Mes chers enfants !... Je meurs... contente de mon sort.
 
 
-**** *creator_ozicourt *book_ozicourt_belizaire *style_verse *genre_drame *dist1_ozicourt_verse_drame_belizaire *dist2_ozicourt_verse_drame *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_antonine
+**** *creator_ozicourt *book_ozicourt_belizaire *style_verse *genre_drame *dist1_ozicourt_verse_drame_belizaire *dist2_ozicourt_verse_drame *id_ANTONINE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_antonine
 
 Chère Eudoxe, fuyons cet horrible séjour...
 Le soleil a fini la moitié de son tour...
@@ -981,7 +981,7 @@ Cachez-moi vos regrets... Ô mon cher Bélisaire !
 Ah ! mon dernier instant est pour moi le plus doux...
 
 
-**** *creator_ozicourt *book_ozicourt_belizaire *style_verse *genre_drame *dist1_ozicourt_verse_drame_belizaire *dist2_ozicourt_verse_drame *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eudoxe
+**** *creator_ozicourt *book_ozicourt_belizaire *style_verse *genre_drame *dist1_ozicourt_verse_drame_belizaire *dist2_ozicourt_verse_drame *id_EUDOXE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eudoxe
 
 Vous désespérez trop de notre destinée.
 
@@ -1226,7 +1226,7 @@ Ah !
 Ma mère !
 
 
-**** *creator_ozicourt *book_ozicourt_belizaire *style_verse *genre_drame *dist1_ozicourt_verse_drame_belizaire *dist2_ozicourt_verse_drame *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tibere
+**** *creator_ozicourt *book_ozicourt_belizaire *style_verse *genre_drame *dist1_ozicourt_verse_drame_belizaire *dist2_ozicourt_verse_drame *id_TIBERE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tibere
 
 Est-ce bien Antonine ? En croirai-je mes yeux ?
 L'état où je les vois, m'annonce qu'en ces lieux
@@ -1499,7 +1499,7 @@ Plus précieux pour moi que tous ceux de l'Empire.
       Madame !
 
 
-**** *creator_ozicourt *book_ozicourt_belizaire *style_verse *genre_drame *dist1_ozicourt_verse_drame_belizaire *dist2_ozicourt_verse_drame *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bessas
+**** *creator_ozicourt *book_ozicourt_belizaire *style_verse *genre_drame *dist1_ozicourt_verse_drame_belizaire *dist2_ozicourt_verse_drame *id_BESSAS *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bessas
 
 Elle fuit... Ce n'est plus cette Antonine altière...
 Implacable ennemi ! Quel triomphe pour moi !
@@ -1594,7 +1594,7 @@ Le hasard m'a servi bien mieux que la prudence ;
 Au gré de mes souhaits, il hâte ma vengeance.
 
 
-**** *creator_ozicourt *book_ozicourt_belizaire *style_verse *genre_drame *dist1_ozicourt_verse_drame_belizaire *dist2_ozicourt_verse_drame *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroidesbulgares
+**** *creator_ozicourt *book_ozicourt_belizaire *style_verse *genre_drame *dist1_ozicourt_verse_drame_belizaire *dist2_ozicourt_verse_drame *id_LEROIDESBULGARES *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroidesbulgares
 
 L'aspect de ces débris excite ma colère.
 Qu'on le cherche, Soldats : Ce malheureux héros

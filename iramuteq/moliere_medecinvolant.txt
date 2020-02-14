@@ -1,6 +1,6 @@
 
 
-**** *creator_moliere *book_moliere_medecinvolant *style_prose *genre_comedy *dist1_moliere_prose_comedy_medecinvolant *dist2_moliere_prose_comedy *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_valere
+**** *creator_moliere *book_moliere_medecinvolant *style_prose *genre_comedy *dist1_moliere_prose_comedy_medecinvolant *dist2_moliere_prose_comedy *id_valere *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_valere
 
 Hé bien !Sabine, quel conseil me donneras-tu ?
 
@@ -25,7 +25,7 @@ Il faut que j'avoue que je n'eusse jamais cru que Sganarelle se fût si bien acq
 Ah !Mon pauvre garçon, que je t'ai d'obligation !Que j'ai de joie !Et que...
 
 
-**** *creator_moliere *book_moliere_medecinvolant *style_prose *genre_comedy *dist1_moliere_prose_comedy_medecinvolant *dist2_moliere_prose_comedy *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_sabine
+**** *creator_moliere *book_moliere_medecinvolant *style_prose *genre_comedy *dist1_moliere_prose_comedy_medecinvolant *dist2_moliere_prose_comedy *id_sabine *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_sabine
 
 Vraiment, il y a bien des nouvelles.Mon oncle veut résolument que ma cousine épouse Villebrequin, et les affaires sont tellement avancées que je crois qu'ils eussent été mariés dès aujourd'hui, si vous n'étiez aimé ; mais comme ma cousine m'a confié le secret de l'amour qu'elle vous porte, et que nous nous sommes vues à l'extrémité par l'avarice de mon vilain oncle, nous nous sommes avisées d'une bonne invention pour différer le mariage.C'est que ma cousine, dès l'heure que je vous parle, contrefait la malade ; et le bon vieillard, qui est assez crédule, m'envoie quérir un médecin.Si vous en pouviez envoyer quelqu'un qui fût de vos bons amis, et qui fût de notre intelligence, il conseillerait à la malade de prendre l'air à la campagne.Le bonhomme ne manquera pas de faire loger ma cousine à ce pavillon qui est au bout de notre jardin, et par ce moyen vous pourriez l'entretenir à l'insu de notre vieillard, l'épouser, et le laisser pester tout son soûl avec Villebrequin.
 
@@ -46,7 +46,7 @@ Voilà tout ce qu'on peut avoir : elle ne peut pas pisser davantage.
 Elle est levée ; si vous voulez, je la ferai venir.
 
 
-**** *creator_moliere *book_moliere_medecinvolant *style_prose *genre_comedy *dist1_moliere_prose_comedy_medecinvolant *dist2_moliere_prose_comedy *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_sganarelle
+**** *creator_moliere *book_moliere_medecinvolant *style_prose *genre_comedy *dist1_moliere_prose_comedy_medecinvolant *dist2_moliere_prose_comedy *id_sganarelle *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_sganarelle
 
 Ce que je sais faire, Monsieur ?Employez-moi seulement en vos affaires de conséquence, en quelque chose d'importance : par exemple, envoyez-moi voir quelle heure il est à une horloge, voir combien le beurre vaut au marché, abreuver un cheval ; c'est alors que vous connaîtrez ce que je sais faire.
 
@@ -153,7 +153,7 @@ Monsieur, qu'allez-vous faire de me pendre ?Écoutez un mot, s'il vous plaît 
 Nous nous jetons à vos pieds.
 
 
-**** *creator_moliere *book_moliere_medecinvolant *style_prose *genre_comedy *dist1_moliere_prose_comedy_medecinvolant *dist2_moliere_prose_comedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gorgibus
+**** *creator_moliere *book_moliere_medecinvolant *style_prose *genre_comedy *dist1_moliere_prose_comedy_medecinvolant *dist2_moliere_prose_comedy *id_gorgibus *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gorgibus
 
 Allez vitement chercher un médecin ; car ma fille est bien malade, et dépêchez-vous.
 
@@ -237,7 +237,7 @@ Ah !Que je suis malheureux !Mais tu seras pendu, fourbe, coquin.
 Je vous pardonne, et suis heureusement trompé par Sganarelle, ayant un si brave gendre.Allons tous faire noces, et boire à la santé de toute la compagnie.
 
 
-**** *creator_moliere *book_moliere_medecinvolant *style_prose *genre_comedy *dist1_moliere_prose_comedy_medecinvolant *dist2_moliere_prose_comedy *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_grosrene
+**** *creator_moliere *book_moliere_medecinvolant *style_prose *genre_comedy *dist1_moliere_prose_comedy_medecinvolant *dist2_moliere_prose_comedy *id_gros-rene *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_grosrene
 
 Que diable aussi !Pourquoi vouloir donner votre fille à un vieillard ?Croyez-vous que ce ne soit pas le désir qu'elle a d'avoir un jeune homme qui la travaille ?Voyez-vous la connexité qu'il y a, etc.
 
@@ -260,7 +260,7 @@ Où pensez-vous que soit à présent le médecin ?
 Je le tiens sous mon bras.Voilà le coquin qui faisait le médecin, et qui vous trompe.Cependant qu'il vous trompe et joue la farce chez vous, Valère et votre fille sont ensemble, qui s'en vont à tous les diables.
 
 
-**** *creator_moliere *book_moliere_medecinvolant *style_prose *genre_comedy *dist1_moliere_prose_comedy_medecinvolant *dist2_moliere_prose_comedy *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_avocat
+**** *creator_moliere *book_moliere_medecinvolant *style_prose *genre_comedy *dist1_moliere_prose_comedy_medecinvolant *dist2_moliere_prose_comedy *id_avocat *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_avocat
 
 J'ai ouï dire que la fille de M. Gorgibus était malade : il faut que je m'informe de sa santé, et que je lui offre mes services comme ami de toute sa famille.Holà !Holà !M. Gorgibus y est-il ?
 

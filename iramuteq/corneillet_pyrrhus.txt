@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillet *book_corneillet_pyrrhus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_pyrrhus *dist2_corneillet_verse_tragedy *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_neoptolemus
+**** *creator_corneillet *book_corneillet_pyrrhus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_pyrrhus *dist2_corneillet_verse_tragedy *id_NEOPTOLEMUS *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_neoptolemus
 
 Cesse de condamner les transports de ma flamme.
 Leur triste excès sans doute aveugle trop mon âme,
@@ -554,7 +554,7 @@ Et rendre grâce au Ciel dont l'infaillible voix,
 Quand il faut qu'elle éclate, est toujours pour les Rois.
 
 
-**** *creator_corneillet *book_corneillet_pyrrhus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_pyrrhus *dist2_corneillet_verse_tragedy *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pyrrhus
+**** *creator_corneillet *book_corneillet_pyrrhus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_pyrrhus *dist2_corneillet_verse_tragedy *id_PYRRHUS *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pyrrhus
 
 Dans les maux que pour moi chaque moment redouble
 Pouvez-vous m'envier la douceur de ce trouble,
@@ -830,7 +830,7 @@ A plus d'attraits pour moi que le plus vaste Empire.
 Et si pour Hippias l'amitié qui nous joint...
 
 
-**** *creator_corneillet *book_corneillet_pyrrhus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_pyrrhus *dist2_corneillet_verse_tragedy *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hippias
+**** *creator_corneillet *book_corneillet_pyrrhus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_pyrrhus *dist2_corneillet_verse_tragedy *id_HIPPIAS *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hippias
 
 Ma soeur, c'est tout de bon qu'enfin le Roi s'explique.
 Nommez ce qui l'engage amour, ou politique,
@@ -1115,7 +1115,7 @@ Que le frère est ravi de céder à l'Amant.
 Madame, se peut-il...
 
 
-**** *creator_corneillet *book_corneillet_pyrrhus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_pyrrhus *dist2_corneillet_verse_tragedy *date_1664 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_antigone
+**** *creator_corneillet *book_corneillet_pyrrhus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_pyrrhus *dist2_corneillet_verse_tragedy *id_ANTIGONE *date_1664 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_antigone
 
 Oui, Camille, il est vrai, par ce grand hyménée
 Tous nos maux sont finis, la guerre terminée,
@@ -1431,7 +1431,7 @@ Il arrête son sang, et veut... mais le voici.
 Daigne achever le Ciel ce qu'il a commencé.
 
 
-**** *creator_corneillet *book_corneillet_pyrrhus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_pyrrhus *dist2_corneillet_verse_tragedy *date_1664 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_deidamie
+**** *creator_corneillet *book_corneillet_pyrrhus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_pyrrhus *dist2_corneillet_verse_tragedy *id_DEIDAMIE *date_1664 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_deidamie
 
       Prince, allez, je vous tiendrai parole,
 Vous vous alarmez trop.
@@ -1956,7 +1956,7 @@ Et c'est en l'achevant...
 Quoi, ma Mère, Gélon...
 
 
-**** *creator_corneillet *book_corneillet_pyrrhus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_pyrrhus *dist2_corneillet_verse_tragedy *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_androclide
+**** *creator_corneillet *book_corneillet_pyrrhus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_pyrrhus *dist2_corneillet_verse_tragedy *id_ANDROCLIDE *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_androclide
 
 Sa modération m'est d'un heureux présage ;
 Mais, Madame, voyez tous nos soins superflus
@@ -2357,7 +2357,7 @@ Le mettre hors d'état de partager l'Épire,
 L'en voir seul possesseur, et lui rendre...
 
 
-**** *creator_corneillet *book_corneillet_pyrrhus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_pyrrhus *dist2_corneillet_verse_tragedy *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gelon
+**** *creator_corneillet *book_corneillet_pyrrhus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_pyrrhus *dist2_corneillet_verse_tragedy *id_GELON *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gelon
 
 Je sais que rejetant l'hymen qu'elle refuse,
 Des bontés de son Roi Déidamie abuse,
@@ -2474,7 +2474,7 @@ Voyez, sans qu'il l'ait su, ce qu'elle m'a laissé.
       Seigneur, que n'ai-je pu...
 
 
-**** *creator_corneillet *book_corneillet_pyrrhus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_pyrrhus *dist2_corneillet_verse_tragedy *date_1664 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_neree
+**** *creator_corneillet *book_corneillet_pyrrhus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_pyrrhus *dist2_corneillet_verse_tragedy *id_NEREE *date_1664 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_neree
 
 Dans la joie où vous met l'heureux destin d'un frère
 Tout à vos sens charmés paraît facile à faire,
@@ -2514,7 +2514,7 @@ Mais pourquoi si longtemps lui laisser l'espérance
 Dont l'a toujours flatté l'erreur de sa naissance ?
 
 
-**** *creator_corneillet *book_corneillet_pyrrhus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_pyrrhus *dist2_corneillet_verse_tragedy *date_1664 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_camille
+**** *creator_corneillet *book_corneillet_pyrrhus *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_pyrrhus *dist2_corneillet_verse_tragedy *id_CAMILLE *date_1664 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_camille
 
 Ces maux que vous craignez me font peine à comprendre.
 Dans le plus doux accord que vous puissiez attendre.

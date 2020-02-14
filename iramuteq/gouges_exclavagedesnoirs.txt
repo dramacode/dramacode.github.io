@@ -1,6 +1,6 @@
 
 
-**** *creator_gouges *book_gouges_exclavagedesnoirs *style_prose *genre_drame *dist1_gouges_prose_drame_exclavagedesnoirs *dist2_gouges_prose_drame *date_1789 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zamor
+**** *creator_gouges *book_gouges_exclavagedesnoirs *style_prose *genre_drame *dist1_gouges_prose_drame_exclavagedesnoirs *dist2_gouges_prose_drame *id_ZAMOR *date_1789 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zamor
 
 Dissipe tes frayeurs, ma chère Mirza ; ce vaisseau n'est point envoyé par nos persécuteurs ; autant que je puis en juger il est français. Hélas ! il vient de se briser sur ces côtes, personne de l'équipage ne s'est sauvé.
 
@@ -88,7 +88,7 @@ Non, mon maître ; gardez vos bienfaits. Le plus précieux à notre coeur est de
 Oui, ma chère Mirza ; oui, nous serons toujours heureux.
 
 
-**** *creator_gouges *book_gouges_exclavagedesnoirs *style_prose *genre_drame *dist1_gouges_prose_drame_exclavagedesnoirs *dist2_gouges_prose_drame *date_1789 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mirza
+**** *creator_gouges *book_gouges_exclavagedesnoirs *style_prose *genre_drame *dist1_gouges_prose_drame_exclavagedesnoirs *dist2_gouges_prose_drame *id_MIRZA *date_1789 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mirza
 
 Zamor, je ne crains que pour toi ; le supplice n'a rien qui m'effraie ; je bénirai mon sort si nous terminons nos jours ensemble.
 
@@ -159,7 +159,7 @@ Grand Dieu ! Vous changez notre malheureux sort ; vous comblez notre félicité 
 Nous allons vivre pour nous aimer. Nous serons toujours heureux, toujours, toujours.
 
 
-**** *creator_gouges *book_gouges_exclavagedesnoirs *style_prose *genre_drame *dist1_gouges_prose_drame_exclavagedesnoirs *dist2_gouges_prose_drame *date_1789 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+**** *creator_gouges *book_gouges_exclavagedesnoirs *style_prose *genre_drame *dist1_gouges_prose_drame_exclavagedesnoirs *dist2_gouges_prose_drame *id_VALERE *date_1789 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
 
 Rien ne paraît sur les vagues encore émues. Ô ma femme ! Tu es perdue à jamais ! Eh ! Pourrais-je te survivre ? Non : il faut me réunir à toi. J'ai recueilli mes forces pour te sauver le vie, et j'ai seul échappé à la fureur des flots. Je ne respire qu'avec horreur : séparé de toi, chaque instant redouble mes peines. En vain je te cherche, en vain je t'appelle : ta voix retentit dans mon coeur, mais elle ne frappe pas mon oreille. Je te suis.
 Un nuage épais couvre mes yeux, ma force m'abandonne ! Grand Dieu, accorde-moi celle de me traîner jusqu'à la mer ! Je ne puis plus me soutenir.
@@ -249,7 +249,7 @@ Que nous sommes à plaindre ! Je ne survivrai pas à leur perte.
 Je partage ta félicité.
 
 
-**** *creator_gouges *book_gouges_exclavagedesnoirs *style_prose *genre_drame *dist1_gouges_prose_drame_exclavagedesnoirs *dist2_gouges_prose_drame *date_1789 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sophie
+**** *creator_gouges *book_gouges_exclavagedesnoirs *style_prose *genre_drame *dist1_gouges_prose_drame_exclavagedesnoirs *dist2_gouges_prose_drame *id_SOPHIE *date_1789 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sophie
 
 Qui que vous soyez, laissez-moi. Votre pitié m'est plus cruelle que les flots. J'ai perdu ce que j'avais de plus cher. La vie m'est odieuse. Ô Valère ! Ô mon époux ! Qu'es-tu devenu ?
 
@@ -327,7 +327,7 @@ Hélas ! Ma pauvre mère n'est plus ! Mais, mon père, qu'il m'est doux de vous 
 Cher Valère !
 
 
-**** *creator_gouges *book_gouges_exclavagedesnoirs *style_prose *genre_drame *dist1_gouges_prose_drame_exclavagedesnoirs *dist2_gouges_prose_drame *date_1789 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_betzi
+**** *creator_gouges *book_gouges_exclavagedesnoirs *style_prose *genre_drame *dist1_gouges_prose_drame_exclavagedesnoirs *dist2_gouges_prose_drame *id_BETZI *date_1789 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_betzi
 
 Eh bien, Azor, que dit-on de Mirza et de Zamor ? On les fait chercher partout.
 
@@ -376,7 +376,7 @@ Ah ! Laissez-moi reprendre mes sens... Nous étions sur la terrasse ; de temps e
 Je tremble pour mes camarades.
 
 
-**** *creator_gouges *book_gouges_exclavagedesnoirs *style_prose *genre_drame *dist1_gouges_prose_drame_exclavagedesnoirs *dist2_gouges_prose_drame *date_1789 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_azor
+**** *creator_gouges *book_gouges_exclavagedesnoirs *style_prose *genre_drame *dist1_gouges_prose_drame_exclavagedesnoirs *dist2_gouges_prose_drame *id_AZOR *date_1789 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_azor
 
 On parle de les faire mourir sur le rocher de l'habitation ; je crois même qu'on fait les préparatifs de leur supplice. Je tremble qu'on ne les trouve.
 

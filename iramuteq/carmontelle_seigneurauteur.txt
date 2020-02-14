@@ -1,6 +1,6 @@
 
 
-**** *creator_carmontelle *book_carmontelle_seigneurauteur *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_seigneurauteur *dist2_carmontelle_prose_proverbe *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leduc
+**** *creator_carmontelle *book_carmontelle_seigneurauteur *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_seigneurauteur *dist2_carmontelle_prose_proverbe *id_LEDUC *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leduc
 
 Quoi, je ne pourrai pas faire un vers, un vers seulement ! Ah voyons.
 Non, il est trop long. Oui, mais de cette façon ?
@@ -150,7 +150,7 @@ Je t'en réponds, il est charmant !
 Allons, viens, je te le chanterai en m'habillant.
 
 
-**** *creator_carmontelle *book_carmontelle_seigneurauteur *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_seigneurauteur *dist2_carmontelle_prose_proverbe *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurronflant
+**** *creator_carmontelle *book_carmontelle_seigneurauteur *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_seigneurauteur *dist2_carmontelle_prose_proverbe *id_MONSIEURRONFLANT *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurronflant
 
 Monsieur le Duc cultive toujours les Muses sans doute.
 
@@ -233,7 +233,7 @@ Et moi aussi, je vous en réponds.
 Je vous en demanderai une copie la première fois.
 
 
-**** *creator_carmontelle *book_carmontelle_seigneurauteur *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_seigneurauteur *dist2_carmontelle_prose_proverbe *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdecousu
+**** *creator_carmontelle *book_carmontelle_seigneurauteur *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_seigneurauteur *dist2_carmontelle_prose_proverbe *id_MONSIEURDECOUSU *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdecousu
 
 Et il a raison ; elles le favorisent assez pour qu'il ne les délaisse pas.
 
@@ -307,7 +307,7 @@ C'est-là tout ce qui me retient, les rôles sont déjà distribués, et cela ir
 Pour votre couplet, Monsieur le Duc, je voudrais l'avoir fait.
 
 
-**** *creator_carmontelle *book_carmontelle_seigneurauteur *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_seigneurauteur *dist2_carmontelle_prose_proverbe *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dupre
+**** *creator_carmontelle *book_carmontelle_seigneurauteur *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_seigneurauteur *dist2_carmontelle_prose_proverbe *id_DUPRE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dupre
 
 Mais, Monseigneur, pourquoi faire ces vers vous-même, puisque vous avez tant de peine ?
 

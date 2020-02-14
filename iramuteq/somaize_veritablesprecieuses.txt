@@ -1,6 +1,6 @@
 
 
-**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *date_1660 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_artemise
+**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *id_artemise *date_1660 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_artemise
 
 Ah ! ma chere il faut que vous sçachiez qu'un certain Marquis, m'est venu voir.
 
@@ -61,7 +61,7 @@ C'est une ame du premier ordre.r
 Je demeure muëtte d'estonnement.
 
 
-**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *date_1660 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_iscarie
+**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *id_iscarie *date_1660 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_iscarie
 
 Que l'attente d'Artemise, me cause de chagrin⁎, je suis la personne du monde la plus impatiente. Allez luy dire que je suis dans le dernieremportement⁎ de ne la point voir.
 
@@ -164,7 +164,7 @@ Ah ! je me lasse de vous entendre⁎, & si vous ne sortez j'envoyeray querir un
 (t Un Sergent.)
 
 
-**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *date_1660 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lebaron
+**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *id_le-baron *date_1660 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_lebaron
 
 Vous aurez sujet, mes Dames, de trouver mon procedé audacieux ; mais il est bien difficile de ne pas visiter souvent l'extrait de l'esprit humain.d
 (d L'Abregé.)
@@ -232,7 +232,7 @@ Nous craignons peu vos menaces, & nous sommes tous trois bien resolus de nous de
 Puis que mon rolle est achevé, il faut bien que je sorte. Allons mes compagnons. Adieu, mes Dames.
 
 
-**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *date_1660 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_beatrix
+**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *id_beatrix *date_1660 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_beatrix
 
 Dites moy donc ; quelle langue est-ce que parlent nos Maistresses ; ma foy je n'entends⁎ point ce jargon & s'il faut qu'elles continuënt à parler de la sorte, elles seront contraintes de nous donner un Maistre pour apprendre ce langage & de nous remettre à l'abc.
 
@@ -261,7 +261,7 @@ La drosle de sensuë qu'une épingle.
 Adieu beau Pretieux.
 
 
-**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *date_1660 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_isabelle
+**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *id_isabelle *date_1660 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_isabelle
 
 Je vais vous obeïr Madame, mais la voicy qui vient.
 
@@ -303,7 +303,7 @@ Nous en avons plusieurs, & de la vieille roche,l mesme des femmes de la petite v
 Madame, voila Monsieur de Greval qui vient.
 
 
-**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *date_1660 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_flanquin
+**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *id_flanquin *date_1660 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_flanquin
 
 Ah ! ma chere, ma toute aymable, que je suis heureux de vous voir.
 
@@ -348,7 +348,7 @@ Si tu veux venir dans nostre Troupe, nous gagnerons bien de l'argent ; car nous
 FIN.
 
 
-**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepoete
+**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *id_le-poete *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepoete
 
 Ah ! vrayment Monsieur, je feray chanter à ma Callioppe en vers bien montez, & d'une veine bien guindée, les remerciemens que je vous dois de l'heureuse & inesperée connoissance que vous me pro-/ /curez de ces deux divinitez charmeresses dont les beaux yeux vont esclairer mon esprit & embraser mon uranie, d'un feu plus devorant, que n'est celuy de ce mont si renommé dans la Sicile, où le vieux Boiteux tenoit jadis sa forge, & bien plus endoctrinant que celuy qu'Appollon inspire aux neuf sœurs.
 

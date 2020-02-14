@@ -1,6 +1,6 @@
 
 
-**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_acis
+**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *id_ACIS *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_acis
 
 C'est vain qu'en ces lieux j'ai devancé l'Aurore,
 Hélas ! Je n'y vois point la beauté que j'adore,
@@ -129,7 +129,7 @@ Déesse c'en est fait, je vous perds, et j'expire.
       Galatée ?
 
 
-**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *date_1686 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_galatee
+**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *id_GALATEE *date_1686 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_galatee
 
 J'ai cru trouver ici la Nymphe qui m'est chère,
 Je vais lui reprocher son peu d'empressement.
@@ -307,7 +307,7 @@ Et s'il se peut encor augmentez son amour.
 Cher Acis !
 
 
-**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polipheme
+**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *id_POLIPHEME *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polipheme
 
 Je regarde partout, et ma recherche est vaine,
 Ces nymphes, ces bergers que sont-ils devenus,
@@ -418,7 +418,7 @@ J'immole dans le même jour
 Mon rival et mon amour.
 
 
-**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_teleme
+**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *id_TELEME *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_teleme
 
 Vous n'êtes pas le seul de qui la voix plaintive
 Se fait entendre en ces lieux chaque jour,
@@ -471,7 +471,7 @@ Et vous serez un jour par ce retour sévère
 L'objet le plus funeste et le plus odieux.
 
 
-**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *date_1686 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_scylla
+**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *id_SCYLLA *date_1686 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_scylla
 
 Quoi ! M'arrêterez-vous en dépit de moi-même !
 
@@ -509,7 +509,7 @@ Je me bannis de votre Cour,
 Pour éviter votre colère.
 
 
-**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *date_1686 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aminte
+**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *id_AMINTE *date_1686 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aminte
 
 Que mon âme est contente !
 
@@ -527,7 +527,7 @@ Qu'au bruit de nos chansons la plus fière beauté
 Ne puisse un seul moment garder sa liberté.
 
 
-**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_neptune
+**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *id_NEPTUNE *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_neptune
 
 Je sors de mes grottes profondes,
 Tes cris ont pénétré jusques au fond des ondes,

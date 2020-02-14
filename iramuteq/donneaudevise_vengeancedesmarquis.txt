@@ -1,6 +1,6 @@
 
 
-**** *creator_donneaudevise *book_donneaudevise_vengeancedesmarquis *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_vengeancedesmarquis *dist2_donneaudevise_prose_comedy *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleante
+**** *creator_donneaudevise *book_donneaudevise_vengeancedesmarquis *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_vengeancedesmarquis *dist2_donneaudevise_prose_comedy *id_CLEANTE *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleante
 
 Ha ha ha ha ha ha ha !
 
@@ -117,7 +117,7 @@ Comme ma nièce n'a pas accoutumé de manger si tard, vous n'avez qu'à souper s
 Et toi, si tu ne quittes au plus tôt tes habits, je te rouerai de coups. Holà ! Qu'on m'apporte un bâton.
 
 
-**** *creator_donneaudevise *book_donneaudevise_vengeancedesmarquis *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_vengeancedesmarquis *dist2_donneaudevise_prose_comedy *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_orphise
+**** *creator_donneaudevise *book_donneaudevise_vengeancedesmarquis *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_vengeancedesmarquis *dist2_donneaudevise_prose_comedy *id_ORPHISE *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_orphise
 
 Enfin, Monsieur, je viens de voir (puisque vous l'avez voulu) cet admirable Impromptu, cet ouvrage de plusieurs années que l'on veut faire passer pour un enfant de huit jours ; ou plutôt, je viens de voir l'amende honorable que le Peintre, votre bon ami, vient de faire aux marquis.
 
@@ -174,7 +174,7 @@ Il m'en souvient, et Philippin n'a pas tort.
 Je ne crois pas que le puissiez rendre sage. Il faut que vous l'envoyiez au Peintre, il fait ce qu'il veut des marquis.
 
 
-**** *creator_donneaudevise *book_donneaudevise_vengeancedesmarquis *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_vengeancedesmarquis *dist2_donneaudevise_prose_comedy *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucile
+**** *creator_donneaudevise *book_donneaudevise_vengeancedesmarquis *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_vengeancedesmarquis *dist2_donneaudevise_prose_comedy *id_LUCILE *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucile
 
 Je vous assure, en vérité, mon oncle, que je me suis tout autant divertie avant que les chandelles fussent allumées que lorsqu'elles l'ont été. Il me souvient pourtant que l'on y parle bien des fois de marquis. Il y avait auprès de nous une jeune fille qui disait que l'on lui en voulait faire épouser un, mais que depuis qu'elle les avait vus jouer, elle n'en voulait point. Ils sont toutefois bien mignons et bien propres. Il faut qu'elle soit bien dégoûtée, car en vérité c'est une jolie chose qu'un marquis. L'on m'en a montré plusieurs qui étaient auprès de celui qui les contrefaisait, et je ne pouvais m'imaginer comment il osait se moquer d'eux ; mais je me suis souvenue qu'il leur en avait peut-être demandé la permission.
 
@@ -189,7 +189,7 @@ Je sais bien comment il le faut contrefaire, il n'y a qu'à se boursoufler.
 Ah ! Ma tante, il est plus drôle que la comédie.
 
 
-**** *creator_donneaudevise *book_donneaudevise_vengeancedesmarquis *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_vengeancedesmarquis *dist2_donneaudevise_prose_comedy *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ariste
+**** *creator_donneaudevise *book_donneaudevise_vengeancedesmarquis *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_vengeancedesmarquis *dist2_donneaudevise_prose_comedy *id_ARISTE *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ariste
 
 Mais...
 
@@ -286,7 +286,7 @@ Il contrefaisait d'abord les marquis avec le masque de Mascarille ; il n'osait l
 J'y vais avec toi.
 
 
-**** *creator_donneaudevise *book_donneaudevise_vengeancedesmarquis *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_vengeancedesmarquis *dist2_donneaudevise_prose_comedy *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alcipe
+**** *creator_donneaudevise *book_donneaudevise_vengeancedesmarquis *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_vengeancedesmarquis *dist2_donneaudevise_prose_comedy *id_ALCIPE *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alcipe
 
 Je crois qu'il est impossible de le rencontrer au logis.
 
@@ -347,7 +347,7 @@ Voici l'heure d'aller faire notre cour. Je m'en vais au Louvre, et j'espère que
 Tu n'as garde d'y manquer aujourd'hui, tu es un des illustres espions de ton Peintre, et tu veux savoir tout ce que l'on dira ce soir de sa pièce.
 
 
-**** *creator_donneaudevise *book_donneaudevise_vengeancedesmarquis *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_vengeancedesmarquis *dist2_donneaudevise_prose_comedy *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clarice
+**** *creator_donneaudevise *book_donneaudevise_vengeancedesmarquis *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_vengeancedesmarquis *dist2_donneaudevise_prose_comedy *id_CLARICE *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clarice
 
 Je ne croyais pas trouver si bonne compagnie.
 
@@ -386,7 +386,7 @@ Il faudrait le faire enfermer.
 Songez à ce que vous dites et ressouvenez-vous que vous n'êtes qu'un valet.
 
 
-**** *creator_donneaudevise *book_donneaudevise_vengeancedesmarquis *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_vengeancedesmarquis *dist2_donneaudevise_prose_comedy *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ergaste
+**** *creator_donneaudevise *book_donneaudevise_vengeancedesmarquis *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_vengeancedesmarquis *dist2_donneaudevise_prose_comedy *id_ERGASTE *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ergaste
 
 Il est allé voir la première représentation de L'Impromptu de Versailles. Comme il est des amis du Peintre, il n'avait garde d'y manquer.
 
@@ -403,7 +403,7 @@ Monsieur a promis de les placer dans un lieu où elles ne seraient point vues. M
 Monsieur, Philippin se fait tenir à quatre dans votre garde-robe. Il veut mettre un de vos habits et une de vos perruques, et dit qu'il sait bien que vous en demeurerez d'accord.
 
 
-**** *creator_donneaudevise *book_donneaudevise_vengeancedesmarquis *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_vengeancedesmarquis *dist2_donneaudevise_prose_comedy *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philippin
+**** *creator_donneaudevise *book_donneaudevise_vengeancedesmarquis *style_prose *genre_comedy *dist1_donneaudevise_prose_comedy_vengeancedesmarquis *dist2_donneaudevise_prose_comedy *id_PHILIPPIN *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philippin
 
 Qui vous a fait si hardi de me parler de la sorte ?
 

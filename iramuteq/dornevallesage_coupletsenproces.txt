@@ -1,6 +1,6 @@
 
 
-**** *creator_dornevallesage *book_dornevallesage_coupletsenproces *style_verse *genre_prologue *dist1_dornevallesage_verse_prologue_coupletsenproces *dist2_dornevallesage_verse_prologue *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepresident
+**** *creator_dornevallesage *book_dornevallesage_coupletsenproces *style_verse *genre_prologue *dist1_dornevallesage_verse_prologue_coupletsenproces *dist2_dornevallesage_verse_prologue *id_LEPRESIDENT *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepresident
 
 Appelez les placets.
 
@@ -49,7 +49,7 @@ Toque le Tambourin, toque,
 Toque le Tambourinet.
 
 
-**** *creator_dornevallesage *book_dornevallesage_coupletsenproces *style_verse *genre_prologue *dist1_dornevallesage_verse_prologue_coupletsenproces *dist2_dornevallesage_verse_prologue *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maitregouffin
+**** *creator_dornevallesage *book_dornevallesage_coupletsenproces *style_verse *genre_prologue *dist1_dornevallesage_verse_prologue_coupletsenproces *dist2_dornevallesage_verse_prologue *id_MAITREGOUFFIN *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maitregouffin
 
 Cela suffit, Seigneur Menuet :
 Vous m'avez fort bien mis au fait.
@@ -130,7 +130,7 @@ Mais, Messieurs, considérez donc que ce mélange...
 Ah ! Qu'il fera beau voir en scène une Musette avec un Ramonez,la !
 
 
-**** *creator_dornevallesage *book_dornevallesage_coupletsenproces *style_verse *genre_prologue *dist1_dornevallesage_verse_prologue_coupletsenproces *dist2_dornevallesage_verse_prologue *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maitregrossel
+**** *creator_dornevallesage *book_dornevallesage_coupletsenproces *style_verse *genre_prologue *dist1_dornevallesage_verse_prologue_coupletsenproces *dist2_dornevallesage_verse_prologue *id_MAITREGROSSEL *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maitregrossel
 
 Que demandez-vous, vieux Soldat ?
 
@@ -278,7 +278,7 @@ S'ils vous abandonnaient, hélas !
 Vous, fermeriez bientôt boutique.
 
 
-**** *creator_dornevallesage *book_dornevallesage_coupletsenproces *style_verse *genre_prologue *dist1_dornevallesage_verse_prologue_coupletsenproces *dist2_dornevallesage_verse_prologue *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_flonflon
+**** *creator_dornevallesage *book_dornevallesage_coupletsenproces *style_verse *genre_prologue *dist1_dornevallesage_verse_prologue_coupletsenproces *dist2_dornevallesage_verse_prologue *id_FLONFLON *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_flonflon
 
 Monsieur, enseignez-nous, de grâce,
 Quelque habilissime Avocat
@@ -305,7 +305,7 @@ Je vous serons bien obligés, Monsieur Grossel.
 Serpedié ! Monsieur Grossel, vous nous remettez le coeur au ventre.
 
 
-**** *creator_dornevallesage *book_dornevallesage_coupletsenproces *style_verse *genre_prologue *dist1_dornevallesage_verse_prologue_coupletsenproces *dist2_dornevallesage_verse_prologue *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lacomerevoire
+**** *creator_dornevallesage *book_dornevallesage_coupletsenproces *style_verse *genre_prologue *dist1_dornevallesage_verse_prologue_coupletsenproces *dist2_dornevallesage_verse_prologue *id_LACOMEREVOIRE *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lacomerevoire
 
 Nous sommes de vieux Vaudevilles,
 À la Critique fort utiles,

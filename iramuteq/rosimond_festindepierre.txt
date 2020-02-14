@@ -1,6 +1,6 @@
 
 
-**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjuan
+**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *id_donjuan *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjuan
 
 Ah, Carrille ! Sais-tu ce que je viens de faire ?
 
@@ -861,7 +861,7 @@ Et pour te faire voir qu'on ne peut m'y résoudre
 Tonne quand il voudra, j'attends le coup de foudre.
 
 
-**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_carrille
+**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *id_carrille *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_carrille
 
 Oui, l'affaire est conclue, et moi-même j'enrage
 Qu'il me veut malgré moi forcer à ce voyage.
@@ -1654,7 +1654,7 @@ Libertins comme lui, qui n'appréhendez rien,
 Après un tel exemple, hélas ! pensez-y bien.
 
 
-**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donlope
+**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *id_donlope *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donlope
 
       L'affaire est faite,
 Nous avons un vaisseau prêt pour notre retraite.
@@ -1771,7 +1771,7 @@ Oui, voyons s'il lui reste encore quelque vigueur,
 Et délivrons nos yeux de ce fâcheux censeur.
 
 
-**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donfelix
+**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *id_donfelix *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donfelix
 
 Ne nous contraignons point du tout dans nos plaisirs,
 Que chacun à son gré contente ses désirs,
@@ -1884,7 +1884,7 @@ Va, va, nous le croirons, si tu nous le fais voir.
 Ah ! C'est trop endurer, qu'une Ombre nous menace.
 
 
-**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *date_1669 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonor
+**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *id_leonor *date_1669 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonor
 
 Quoi ! Don Juan ainsi me manquerait de foi ?
 
@@ -1968,7 +1968,7 @@ Ah ! Crains leur châtiment...
 Accordez à mes pleurs une prompte vengeance !
 
 
-**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ormin
+**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *id_ormin *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ormin
 
 Rentrez à la maison, vite.
 
@@ -2028,7 +2028,7 @@ Moi je vais convier nos parents, nos amis,
 Et ne tarderai pas à me rendre au logis.
 
 
-**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *date_1669 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_paquette
+**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *id_paquette *date_1669 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_paquette
 
       D'où vient ce bruit ?
 
@@ -2126,7 +2126,7 @@ Pouvons-nous nous fier ?
 N'y manquez pas au moins.
 
 
-**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *date_1669 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thomasse
+**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *id_thomasse *date_1669 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thomasse
 
 Mon Dieu, qu'ils sont bien faits ! Et qu'ils ont bonne grâce !
 
@@ -2232,7 +2232,7 @@ Je l'aimais.
       Il y faut bien souscrire.
 
 
-**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leprevot
+**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *id_leprevot *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leprevot
 
       Sans doute ce sont eux.
 Comme on me l'a dépeint, c'est Don Juan.
@@ -2245,7 +2245,7 @@ Courage, mes amis.
       Retirons-nous.
 
 
-**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_lombre
+**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *id_lombre *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_lombre
 
 Je ne viens point ici pour faire un repas,
 Ces soutiens infinis de la terre et de l'onde,
@@ -2325,7 +2325,7 @@ Va, méchant, expier tes crimes dans les fers
 Et connaître les Dieux par l'horreur des Enfers.
 
 
-**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thomas
+**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *id_thomas *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thomas
 
 On enlève ma fille ; ah ! Courons après elle.
 
@@ -2346,7 +2346,7 @@ C'est un point résolu, je veux te secourir.
       Ton maître vient de m'enlever ma fille.
 
 
-**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rollin
+**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *id_rollin *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rollin
 
       Oui da, je le veux bien.
 
@@ -2390,7 +2390,7 @@ Et complice du mal...
       Beau-père, sauvons-nous.
 
 
-**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *date_1669 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amarille
+**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *id_amarille *date_1669 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amarille
 
 Ah, donne-moi la mort après ta violence,
 Perfide !
@@ -2421,7 +2421,7 @@ Et par des voeux ardents sollicitons les Dieux,
 De punir les forfaits de ce monstre odieux.
 
 
-**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *date_1669 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_voix
+**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *id_voix *date_1669 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_voix
 
 À la force, au secours !
 
@@ -2449,7 +2449,7 @@ Et ta fin doit servir d'exemple à l'Univers.
 Les nommant tu les crois.
 
 
-**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dongaspard
+**** *creator_rosimond *book_rosimond_festindepierre *style_verse *genre_comedy *dist1_rosimond_verse_comedy_festindepierre *dist2_rosimond_verse_comedy *id_dongaspard *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dongaspard
 
 J'en ai reçu l'avis, et, vous sachant ici,
 J'ai voulu vous montrer la lettre que voici.

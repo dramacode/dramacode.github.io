@@ -1,6 +1,6 @@
 
 
-**** *creator_chevreau *book_chevreau_avocatdupe *style_verse *genre_comedy *dist1_chevreau_verse_comedy_avocatdupe *dist2_chevreau_verse_comedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_atalante
+**** *creator_chevreau *book_chevreau_avocatdupe *style_verse *genre_comedy *dist1_chevreau_verse_comedy_avocatdupe *dist2_chevreau_verse_comedy *id_atalante *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_atalante
 
 Ma Sœur, que la misere est aujourd'huy commune !
 Qu'on fait par la beauté rarement sa fortune⁎ !
@@ -245,7 +245,7 @@ Nos parens avertis, il faut bien que je croie
 Que rien ne peut troubler une semblable joie.
 
 
-**** *creator_chevreau *book_chevreau_avocatdupe *style_verse *genre_comedy *dist1_chevreau_verse_comedy_avocatdupe *dist2_chevreau_verse_comedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isidore
+**** *creator_chevreau *book_chevreau_avocatdupe *style_verse *genre_comedy *dist1_chevreau_verse_comedy_avocatdupe *dist2_chevreau_verse_comedy *id_isidore *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isidore
 
 Il se faut consoler, et tascher desormais
 De posseder du moins une éternelle paix
@@ -324,7 +324,7 @@ Et vous apreuverez un aussi joli tour
 Qu'on en ait veu dans l'art de pratiquer l'amour.
 
 
-**** *creator_chevreau *book_chevreau_avocatdupe *style_verse *genre_comedy *dist1_chevreau_verse_comedy_avocatdupe *dist2_chevreau_verse_comedy *date_1637 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_philemon
+**** *creator_chevreau *book_chevreau_avocatdupe *style_verse *genre_comedy *dist1_chevreau_verse_comedy_avocatdupe *dist2_chevreau_verse_comedy *id_philemon *date_1637 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_philemon
 
 Mes Dames quel sujet vous servoit d'entretien⁎ ?
 
@@ -428,7 +428,7 @@ Rabatés toutes deux de vôtre vanité,
 Et vous m'aporterés moins d'incommodité.
 
 
-**** *creator_chevreau *book_chevreau_avocatdupe *style_verse *genre_comedy *dist1_chevreau_verse_comedy_avocatdupe *dist2_chevreau_verse_comedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polydas
+**** *creator_chevreau *book_chevreau_avocatdupe *style_verse *genre_comedy *dist1_chevreau_verse_comedy_avocatdupe *dist2_chevreau_verse_comedy *id_polydas *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polydas
 
 Ma sœur vous sçavez bien que le monde l'estime,
 Et confessez par là mon amour legitime ;
@@ -1040,7 +1040,7 @@ N'aprehendons plus rien, nous serons trop contents,
 Et nos plêsirs iront par delà tous les temps.
 
 
-**** *creator_chevreau *book_chevreau_avocatdupe *style_verse *genre_comedy *dist1_chevreau_verse_comedy_avocatdupe *dist2_chevreau_verse_comedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_flaminie
+**** *creator_chevreau *book_chevreau_avocatdupe *style_verse *genre_comedy *dist1_chevreau_verse_comedy_avocatdupe *dist2_chevreau_verse_comedy *id_flaminie *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_flaminie
 
       Cessez, cessez mon frere
 Je vous la ferai voir si vous m'en voulez crere.
@@ -1315,7 +1315,7 @@ J'aime ce qui vous plaist, que mon frere commande,
 Lors il pourra sans pene obtenir sa demande.
 
 
-**** *creator_chevreau *book_chevreau_avocatdupe *style_verse *genre_comedy *dist1_chevreau_verse_comedy_avocatdupe *dist2_chevreau_verse_comedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mainalte
+**** *creator_chevreau *book_chevreau_avocatdupe *style_verse *genre_comedy *dist1_chevreau_verse_comedy_avocatdupe *dist2_chevreau_verse_comedy *id_mainalte *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mainalte
 
 Enfin je suis rendu, j'ay fini mes traverses,
 J'ai couru trop long temps des fortunes diverses :
@@ -1568,7 +1568,7 @@ Car son choix seulement finira la querelle.
 C'est bien mal ordonner, mon cœur qu'en juges-tu.
 
 
-**** *creator_chevreau *book_chevreau_avocatdupe *style_verse *genre_comedy *dist1_chevreau_verse_comedy_avocatdupe *dist2_chevreau_verse_comedy *date_1637 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_sicandre
+**** *creator_chevreau *book_chevreau_avocatdupe *style_verse *genre_comedy *dist1_chevreau_verse_comedy_avocatdupe *dist2_chevreau_verse_comedy *id_sicandre *date_1637 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_sicandre
 
 Je vous sçai distinguer en quatre traits de plume
 Les statuts des arrests, la loi de la coutume,
@@ -1846,7 +1846,7 @@ Mon esprit ne s'est pas vainement ocuppé,
 Car on ne vit jamais ADVOCAT mieux DUPPÉ.
 
 
-**** *creator_chevreau *book_chevreau_avocatdupe *style_verse *genre_comedy *dist1_chevreau_verse_comedy_avocatdupe *dist2_chevreau_verse_comedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tharzinte
+**** *creator_chevreau *book_chevreau_avocatdupe *style_verse *genre_comedy *dist1_chevreau_verse_comedy_avocatdupe *dist2_chevreau_verse_comedy *id_tharzinte *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tharzinte
 
 Je ne te puis celer cher ami Calliante
 Un mal⁎ assez puissant, et contre ton attente,
@@ -1981,7 +1981,7 @@ Madame il faut banir cette melancolie,
 Ne vouloir pas son bien, c'est un trait de folie.
 
 
-**** *creator_chevreau *book_chevreau_avocatdupe *style_verse *genre_comedy *dist1_chevreau_verse_comedy_avocatdupe *dist2_chevreau_verse_comedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_calliante
+**** *creator_chevreau *book_chevreau_avocatdupe *style_verse *genre_comedy *dist1_chevreau_verse_comedy_avocatdupe *dist2_chevreau_verse_comedy *id_calliante *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_calliante
 
       Ce discours m'importune,
 Un chacun doit soufrir⁎ qu'on cherche sa fortune⁎.

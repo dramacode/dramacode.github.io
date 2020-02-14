@@ -1,6 +1,6 @@
 
 
-**** *creator_gresset *book_gresset_edouardiii *style_verse *genre_tragedy *dist1_gresset_verse_tragedy_edouardiii *dist2_gresset_verse_tragedy *date_1740 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alzonde
+**** *creator_gresset *book_gresset_edouardiii *style_verse *genre_tragedy *dist1_gresset_verse_tragedy_edouardiii *dist2_gresset_verse_tragedy *id_ALZONDE *date_1740 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alzonde
 
 Par de faibles conseils ne crois plus m'arrêter :
 Au comble du malheur, que peut-on redouter ?
@@ -280,7 +280,7 @@ Et dans l'instant fatal où tu peux me connaître
 Je sais comme un grand coeur doit fuir l'aspect d'un maître.
 
 
-**** *creator_gresset *book_gresset_edouardiii *style_verse *genre_tragedy *dist1_gresset_verse_tragedy_edouardiii *dist2_gresset_verse_tragedy *date_1740 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eugenie
+**** *creator_gresset *book_gresset_edouardiii *style_verse *genre_tragedy *dist1_gresset_verse_tragedy_edouardiii *dist2_gresset_verse_tragedy *id_EUGENIE *date_1740 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eugenie
 
 Cruelle ! Par quel art viens-tu de m'arracher
 Un secret qu'à jamais je prétendais cacher ?
@@ -601,7 +601,7 @@ Oui, le ciel l'un pour l'autre avait formé nos coeurs.
 Prince... je vous aimais... je vous aime... je meurs.
 
 
-**** *creator_gresset *book_gresset_edouardiii *style_verse *genre_tragedy *dist1_gresset_verse_tragedy_edouardiii *dist2_gresset_verse_tragedy *date_1740 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_volfax
+**** *creator_gresset *book_gresset_edouardiii *style_verse *genre_tragedy *dist1_gresset_verse_tragedy_edouardiii *dist2_gresset_verse_tragedy *id_VOLFAX *date_1740 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_volfax
 
 Trop longtemps votre fuite est ici différée,
 Madame : à s'affranchir l'Ecosse est préparée;
@@ -758,7 +758,7 @@ Vous entendrez ici ce qu'il prétend vous dire ;
 Holà, gardes, à moi ! Saisissez-les tous deux.
 
 
-**** *creator_gresset *book_gresset_edouardiii *style_verse *genre_tragedy *dist1_gresset_verse_tragedy_edouardiii *dist2_gresset_verse_tragedy *date_1740 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismene
+**** *creator_gresset *book_gresset_edouardiii *style_verse *genre_tragedy *dist1_gresset_verse_tragedy_edouardiii *dist2_gresset_verse_tragedy *id_ISMENE *date_1740 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismene
 
 Que craignez-vous ? Pourquoi regrettez-vous, madame,
 De m'avoir dévoilé le secret de votre âme ?
@@ -783,7 +783,7 @@ Madame, vous pourrez les apprendre de lui.
 Ses amis, sa vertu, la voix de la justice...
 
 
-**** *creator_gresset *book_gresset_edouardiii *style_verse *genre_tragedy *dist1_gresset_verse_tragedy_edouardiii *dist2_gresset_verse_tragedy *date_1740 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amelie
+**** *creator_gresset *book_gresset_edouardiii *style_verse *genre_tragedy *dist1_gresset_verse_tragedy_edouardiii *dist2_gresset_verse_tragedy *id_AMELIE *date_1740 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amelie
 
 Ah ! Madame, arrêtez ; que prétendez-vous faire ?
 Le conseil du courroux est toujours téméraire :

@@ -1,6 +1,6 @@
 
 
-**** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
+**** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *id_APOLLON *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
 
       Qui ? Les Auteurs sublimes.
 
@@ -145,7 +145,7 @@ Allez ? Ces marbres vivants,
 Allez tous rallumer le flambeau des talents.
 
 
-**** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
+**** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *id_THALIE *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
 
 C'est trop d'honneur que l'on nous fait.
 Dès qu'un nouvel auteur sur la scène s'élance,
@@ -173,7 +173,7 @@ Il louche.
 Vous, le don de les essuyer.
 
 
-**** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
+**** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *id_MELPOMENE *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
 
 Je vous en sais bon gré, mon frère.
 Vous n'êtes pas en ces lieux étrangers.
@@ -206,7 +206,7 @@ Et recevez avec ce noble acier
 Le pouvoir d'arracher des larmes.
 
 
-**** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+**** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *id_MERCURE *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
 
 Thalie et Melpomène arrivent en ces lieux ;
 Dans ce Temple nouveau qu'on destine à leurs jeux.
@@ -325,7 +325,7 @@ Mais comme de sa cendre il se plaît à renaître,
 À la porte il faudrait, je crois, le consigner.
 
 
-**** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacabale
+**** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *id_LACABALE *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacabale
 
 Seigneur Mercure, agréez mon hommage.
 J'ai l'air étranger à vos yeux?
@@ -376,7 +376,7 @@ Et pour comble de maux Apollon me poursuit !
 Est-ce ainsi que les Arts sont protégés en France ?
 
 
-**** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacritique
+**** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *id_LACRITIQUE *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacritique
 
 Oui : j'ai souvent le don de leur déplaire ;
 Mais c'est surtout aux sots que je fais peur.

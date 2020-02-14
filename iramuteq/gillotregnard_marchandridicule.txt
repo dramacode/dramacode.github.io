@@ -1,6 +1,6 @@
 
 
-**** *creator_gillotregnard *book_gillotregnard_marchandridicule *style_prose *genre_comedy *dist1_gillotregnard_prose_comedy_marchandridicule *dist2_gillotregnard_prose_comedy *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurlemarquis
+**** *creator_gillotregnard *book_gillotregnard_marchandridicule *style_prose *genre_comedy *dist1_gillotregnard_prose_comedy_marchandridicule *dist2_gillotregnard_prose_comedy *id_MONSIEURLEMARQUIS *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurlemarquis
 
 Dis-moi, coquin, depuis le temps que je te cherche, d'où viens-tu ?
 
@@ -29,7 +29,7 @@ Maraud, si tu ne me dis la vérité, je te vais rouer de coups de bâton dans l'
 Va, va, tu es un malheureux, il faut que tu l'épouses.
 
 
-**** *creator_gillotregnard *book_gillotregnard_marchandridicule *style_prose *genre_comedy *dist1_gillotregnard_prose_comedy_marchandridicule *dist2_gillotregnard_prose_comedy *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polichinelle
+**** *creator_gillotregnard *book_gillotregnard_marchandridicule *style_prose *genre_comedy *dist1_gillotregnard_prose_comedy_marchandridicule *dist2_gillotregnard_prose_comedy *id_POLICHINELLE *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polichinelle
 
 Ma foi, monsieur, j'étais à la garde-robe à faire des vers.
 
@@ -70,7 +70,7 @@ Monsieur, tenez, ne vous mettez pas en colère. Je vais vous dire la vérité ;
 Bon, bon, tant mieux, voilà mon affaire.
 
 
-**** *creator_gillotregnard *book_gillotregnard_marchandridicule *style_prose *genre_comedy *dist1_gillotregnard_prose_comedy_marchandridicule *dist2_gillotregnard_prose_comedy *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_janbroche
+**** *creator_gillotregnard *book_gillotregnard_marchandridicule *style_prose *genre_comedy *dist1_gillotregnard_prose_comedy_marchandridicule *dist2_gillotregnard_prose_comedy *id_JANBROCHE *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_janbroche
 
 Monsieur, je suis votre serviteur. Pourriez-vous me faire un plaisir ?
 
@@ -103,7 +103,7 @@ Comment ! Un garçon couché avec ma fille ! Me voilà perdu d'honneur et de r
 Tiens, voilà ta culotte.
 
 
-**** *creator_gillotregnard *book_gillotregnard_marchandridicule *style_prose *genre_comedy *dist1_gillotregnard_prose_comedy_marchandridicule *dist2_gillotregnard_prose_comedy *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+**** *creator_gillotregnard *book_gillotregnard_marchandridicule *style_prose *genre_comedy *dist1_gillotregnard_prose_comedy_marchandridicule *dist2_gillotregnard_prose_comedy *id_PIERROT *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
 
 Monsieur, qu'y a-t-il pour votre service ?
 
@@ -122,7 +122,7 @@ Hé bien, monsieur, puisqu'il faut que cela soit, je vous dirai qu'il y a un gro
 Mais, monsieur... mais, monsieur, laissez divertir la jeunesse.
 
 
-**** *creator_gillotregnard *book_gillotregnard_marchandridicule *style_prose *genre_comedy *dist1_gillotregnard_prose_comedy_marchandridicule *dist2_gillotregnard_prose_comedy *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecompere
+**** *creator_gillotregnard *book_gillotregnard_marchandridicule *style_prose *genre_comedy *dist1_gillotregnard_prose_comedy_marchandridicule *dist2_gillotregnard_prose_comedy *id_LECOMPERE *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecompere
 
 Quel plaisir voulez-vous de moi ?
 

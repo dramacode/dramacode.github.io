@@ -1,6 +1,6 @@
 
 
-**** *creator_lesagedorneval *book_lesagedorneval_ilegougou *style_prose *genre_comedy *dist1_lesagedorneval_prose_comedy_ilegougou *dist2_lesagedorneval_prose_comedy *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesagamo
+**** *creator_lesagedorneval *book_lesagedorneval_ilegougou *style_prose *genre_comedy *dist1_lesagedorneval_prose_comedy_ilegougou *dist2_lesagedorneval_prose_comedy *id_LESAGAMO *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesagamo
 
 Coquinec ! Brutalec serec empalec !
 
@@ -66,7 +66,7 @@ Serec maîtrec !
 Accordec.
 
 
-**** *creator_lesagedorneval *book_lesagedorneval_ilegougou *style_prose *genre_comedy *dist1_lesagedorneval_prose_comedy_ilegougou *dist2_lesagedorneval_prose_comedy *date_1720 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_tourmentine
+**** *creator_lesagedorneval *book_lesagedorneval_ilegougou *style_prose *genre_comedy *dist1_lesagedorneval_prose_comedy_ilegougou *dist2_lesagedorneval_prose_comedy *id_TOURMENTINE *date_1720 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_tourmentine
 
 Avertic, faitic réflexionic ? Voulic m'épousic ?
 Ha, ha, méprisic charmic ? Insolentic ! Oh, bien ! Seric dévoric !
@@ -107,7 +107,7 @@ Qui a découvric secretic !
 Etranglic, étranglic scélératic !
 
 
-**** *creator_lesagedorneval *book_lesagedorneval_ilegougou *style_prose *genre_comedy *dist1_lesagedorneval_prose_comedy_ilegougou *dist2_lesagedorneval_prose_comedy *date_1720 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_carabosse
+**** *creator_lesagedorneval *book_lesagedorneval_ilegougou *style_prose *genre_comedy *dist1_lesagedorneval_prose_comedy_ilegougou *dist2_lesagedorneval_prose_comedy *id_CARABOSSE *date_1720 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_carabosse
 
 Non mangeoc ! Non mangeoc !
 
@@ -133,7 +133,7 @@ Et Arlequinoc pour Carabossoc ?
 Sagamo ! Gougou !
 
 
-**** *creator_lesagedorneval *book_lesagedorneval_ilegougou *style_prose *genre_comedy *dist1_lesagedorneval_prose_comedy_ilegougou *dist2_lesagedorneval_prose_comedy *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_lesagedorneval *book_lesagedorneval_ilegougou *style_prose *genre_comedy *dist1_lesagedorneval_prose_comedy_ilegougou *dist2_lesagedorneval_prose_comedy *id_ARLEQUIN *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Ahi ! Siamo perduti !
 
@@ -343,7 +343,7 @@ Troisièmement que l'anneau nous restera en propre pour notre sûreté, et pour 
 Et enfin que ces cadets de lutins qui mériteraient bien d'être remboursés des coups de fouets qu'ils nous ont appliqués en seront quittes en monnaie de singe, c'est-à-dire qu'ils feront tout à l'heure un ballet pour nous divertir ainsi que ces dames qui sont nos maîtresses.
 
 
-**** *creator_lesagedorneval *book_lesagedorneval_ilegougou *style_prose *genre_comedy *dist1_lesagedorneval_prose_comedy_ilegougou *dist2_lesagedorneval_prose_comedy *date_1720 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_argentine
+**** *creator_lesagedorneval *book_lesagedorneval_ilegougou *style_prose *genre_comedy *dist1_lesagedorneval_prose_comedy_ilegougou *dist2_lesagedorneval_prose_comedy *id_ARGENTINE *date_1720 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_argentine
 
 Ahi !
 
@@ -356,7 +356,7 @@ Ahi, ahi !
 Ah !
 
 
-**** *creator_lesagedorneval *book_lesagedorneval_ilegougou *style_prose *genre_comedy *dist1_lesagedorneval_prose_comedy_ilegougou *dist2_lesagedorneval_prose_comedy *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+**** *creator_lesagedorneval *book_lesagedorneval_ilegougou *style_prose *genre_comedy *dist1_lesagedorneval_prose_comedy_ilegougou *dist2_lesagedorneval_prose_comedy *id_PIERROT *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
 
 Gougou, Gougou,
 Gougou, Gougou,

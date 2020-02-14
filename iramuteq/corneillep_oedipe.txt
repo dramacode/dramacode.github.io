@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillep *book_corneillep_oedipe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_oedipe *dist2_corneillep_verse_tragedy *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oedipe
+**** *creator_corneillep *book_corneillep_oedipe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_oedipe *dist2_corneillep_verse_tragedy *id_OEDIPE *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oedipe
 
 Au milieu des malheurs que le ciel nous envoie,
 Prince, nous croiriez-vous capables d'une joie,
@@ -628,7 +628,7 @@ Et ne m'enviez pas un secret entretien,
 Pour affermir son cour sur l'exemple du mien.
 
 
-**** *creator_corneillep *book_corneillep_oedipe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_oedipe *dist2_corneillep_verse_tragedy *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thesee
+**** *creator_corneillep *book_corneillep_oedipe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_oedipe *dist2_corneillep_verse_tragedy *id_THESEE *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thesee
 
 N'écoutez plus, madame, une pitié cruelle,
 Qui d'un fidèle amant vous ferait un rebelle :
@@ -1012,7 +1012,7 @@ Son ombre est satisfaite ; et ce malheureux crime
 Ne laisse plus douter du choix de sa victime.
 
 
-**** *creator_corneillep *book_corneillep_oedipe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_oedipe *dist2_corneillep_verse_tragedy *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jocaste
+**** *creator_corneillep *book_corneillep_oedipe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_oedipe *dist2_corneillep_verse_tragedy *id_JOCASTE *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jocaste
 
 J'ai perdu temps, seigneur ; et cette âme embrasée
 Met trop de différence entre Æmon et Thésée.
@@ -1414,7 +1414,7 @@ Je sens qu'Œdipe enfin sera toujours aimé.
 Peut-être que demain nous le saurons des dieux.
 
 
-**** *creator_corneillep *book_corneillep_oedipe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_oedipe *dist2_corneillep_verse_tragedy *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dirce
+**** *creator_corneillep *book_corneillep_oedipe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_oedipe *dist2_corneillep_verse_tragedy *id_DIRCE *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dirce
 
 Le trouvez-vous douteux quand toute votre suite
 Par cet affreux ravage à Phædime est réduite,
@@ -2076,7 +2076,7 @@ Pleurer auprès de lui notre destin funeste,
 Et remettons aux dieux à disposer du reste.
 
 
-**** *creator_corneillep *book_corneillep_oedipe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_oedipe *dist2_corneillep_verse_tragedy *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dymas
+**** *creator_corneillep *book_corneillep_oedipe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_oedipe *dist2_corneillep_verse_tragedy *id_DYMAS *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dymas
 
       Aucune.
 
@@ -2149,7 +2149,7 @@ De sa part tout d'un coup nous annoncent la paix.
 Cléante vous a dit que par toute la ville…
 
 
-**** *creator_corneillep *book_corneillep_oedipe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_oedipe *dist2_corneillep_verse_tragedy *date_1659 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_phorbas
+**** *creator_corneillep *book_corneillep_oedipe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_oedipe *dist2_corneillep_verse_tragedy *id_PHORBAS *date_1659 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_phorbas
 
       Je crois vous avoir dit
 Que je ne l'ai point vu depuis qu'on le perdit,
@@ -2226,7 +2226,7 @@ Oui, seigneur, j'ai tout fait, sauvant votre personne :
 M'en punissent les dieux si je me le pardonne !
 
 
-**** *creator_corneillep *book_corneillep_oedipe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_oedipe *dist2_corneillep_verse_tragedy *date_1659 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_iphicrate
+**** *creator_corneillep *book_corneillep_oedipe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_oedipe *dist2_corneillep_verse_tragedy *id_IPHICRATE *date_1659 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_iphicrate
 
       Oui, seigneur.
 
@@ -2309,7 +2309,7 @@ Il avait lieu de craindre, en me disant le reste,
 Que son crime par moi devenu manifeste…
 
 
-**** *creator_corneillep *book_corneillep_oedipe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_oedipe *dist2_corneillep_verse_tragedy *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
+**** *creator_corneillep *book_corneillep_oedipe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_oedipe *dist2_corneillep_verse_tragedy *id_NERINE *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
 
 Ah ! Madame, il en faut de la même innocence
 Pour apaiser du ciel l'implacable vengeance ;
@@ -2415,7 +2415,7 @@ Et n'osant le nommer son fils ni son époux,
 Sa dernière tendresse a toute été pour vous.
 
 
-**** *creator_corneillep *book_corneillep_oedipe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_oedipe *dist2_corneillep_verse_tragedy *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_megare
+**** *creator_corneillep *book_corneillep_oedipe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_oedipe *dist2_corneillep_verse_tragedy *id_MEGARE *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_megare
 
 Madame.
 

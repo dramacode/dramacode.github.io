@@ -1,6 +1,6 @@
 
 
-**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_saul
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *id_SAUL *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_saul
 
 Ô mon cher Baza ! Heureux mille fois celui qui conduit en paix les troupeaux bêlants de Benjamin, et presse le doux raisin de la vallée d'Engaddi ! Hélas ! Je cherchais les ânesses de mon père, je trouvai un royaume ; depuis ce jour je n'ai connu que la douleur. Plût à Dieu, au contraire, que j'eusse cherché un royaume, et trouvé des ânesses ! j'aurais fait un meilleur marché.
 
@@ -73,7 +73,7 @@ Ah ! Je suis perdu.
 Allons donc ; mais le coeur ne me dit rien de bon.
 
 
-**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_david
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *id_DAVID *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_david
 
 Il est vrai, ma chère Michol, que je lui dois le bonheur de posséder vos charmes ; il m'en a coûté assez cher : il me fallut apporter à votre père deux cents prépuces de Philistins pour présent de noces : deux cents prépuces ne se trouvent pas si aisément : je fus obligé de tuer deux cents hommes pour venir à bout de cette entreprise ; et je n'avais pas la mâchoire d'âne de Samson : mais eût-il fallu combattre toutes les forces de Babylone et d'Égypte, je l'aurais fait pour vous mériter ; je vous adorais et je vous adore.
 
@@ -254,7 +254,7 @@ J'ai la mémoire mauvaise : attendez, il y a encore un certain Semeï qui m'a di
 Va, tu seras le plus sage des rois, et le Seigneur te donnera mille femmes pour récompense : je me meurs ! Que je t'embrasse encore ! Adieu.
 
 
-**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agag
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *id_AGAG *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agag
 
 Doux et puissant vainqueur, modèle des princes, qui savez vaincre et pardonner, je me jette à vos sacrés genoux ; daignez ordonner vous-même ce que je dois donner pour ma rançon ; je serai désormais un voisin, un allié fidèle, un vassal soumis ; je ne vois plus en vous qu'un bienfaiteur et un maître : je vous dois la vie, je vous devrai encore la liberté : j'admirerai, j'aimerai en vous l'image du Dieu qui punit et pardonne.
 
@@ -277,7 +277,7 @@ Frappez donc, bourreaux !
 Ô mort ! Ô tourments ! Ô barbares !
 
 
-**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_samuel
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *id_SAMUEL *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_samuel
 
 De la part de Dieu.
 
@@ -311,7 +311,7 @@ Emportez ce corps et cette table : qu'on brûle les restes de cet infidèle, et 
 Et vous, prince, apprenez à jamais qu'obéissance vaut mieux que sacrifice.
 
 
-**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_michol
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *id_MICHOL *date_1763 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_michol
 
 Impitoyable époux, prétends-tu attenter à la vie de mon père, de ton bienfaiteur, de celui qui, t'ayant d'abord pris pour son joueur de harpe, te fit bientôt après son écuyer, qui enfin t'a mis dans mes bras ?
 
@@ -358,7 +358,7 @@ Mon père, je vois que votre mal vous prend ; si David était ici, il vous jouer
 C'est cette malheureuse boucherie d'Agag qui lui a donné des vapeurs ; dérobons-nous à sa furie.
 
 
-**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_abigail
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *id_ABIGAIL *date_1763 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_abigail
 
 Mon cher, mon tendre époux, maître de mon coeur et de ma vie, venez, sortez avec moi de ces lieux dangereux ; Saül arme contre vous, et Akis vous attend.
 
@@ -410,7 +410,7 @@ La vilaine famille que la famille de David ! Tu n'as donc plus rien, brigand ? T
 Adieu, madame.
 
 
-**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_bethsabee
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *id_BETHSABEE *date_1763 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_bethsabee
 
 Hélas, milord ! Vous en disiez ce matin autant à la jeune Abigail.
 
@@ -492,7 +492,7 @@ Puisse-t-il mourir tout à l'heure, le vilain ladre, et nous laisser régner en 
 Dieu merci, nous en voilà défaits.
 
 
-**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lapythonisse
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *id_LAPYTHONISSE *date_1763 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lapythonisse
 
 Quel mortel veut arracher les secrets du destin à l'abîme qui les couvre ? Qui de vous deux s'adresse à moi pour connaître l'avenir ?
 
@@ -515,7 +515,7 @@ Oh ! L'on ne change jamais de caractère : elle vous menace, elle vous fait des 
 Au moins j'ai son argent ; mais voilà un sot capitaine.
 
 
-**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_joab
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *id_JOAB *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_joab
 
 Oui, milord ; votre altesse royale a très bien fait de faire pendre celui qui vous a apporté la nouvelle de la mort de Saül ; car il n'est jamais permis de dire qu'un roi est mort : cet acte de justice vous conciliera tous les esprits ; il fera voir qu'au fond vous aimiez votre beau-père, et que vous êtes un bon homme.
 
@@ -554,7 +554,7 @@ Milord, la voilà qui vient, je vous la présente.
 Comment, monstre ! Je t'étranglerai de mes mains ; va, va, je ferai bien casser ton testament, et ton Salomon verra quel homme je suis.
 
 
-**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_baza
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *id_BAZA *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_baza
 
 Ô grand Saül ! Le plus puissant des rois, vous qui régnez sur les
 
@@ -593,7 +593,7 @@ En plein midi ! Quel miracle !
 Eh, Seigneur ! Pouvez-vous vous amuser à ces fadaises ? N'entendez-vous pas le son des trompettes ? Les Philistins approchent.
 
 
-**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_salomon
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *id_SALOMON *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_salomon
 
 Milord, j'aime bien mieux apprendre à régner sous vous.
 
@@ -610,7 +610,7 @@ Votre volonté sera exécutée, mon cher père.
 Viens çà, viens çà, tu seras plus contente de moi que de mon bonhomme de père.
 
 
-**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gag
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *id_GAG *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gag
 
 Je viens vous dire que vous avez commis un grand péché.
 
@@ -621,7 +621,7 @@ Tout cela est bel et bon ; mais Dieu vous donne à choisir de la famine, de la g
 Dieu soit béni !
 
 
-**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ebind
+**** *creator_voltaire *book_voltaire_saul *style_prose *genre_drame *dist1_voltaire_prose_drame_saul *dist2_voltaire_prose_drame *id_EBIND *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ebind
 
 Ah, princesse ! Votre Jonathas, savez-vous ?
 

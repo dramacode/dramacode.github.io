@@ -1,6 +1,6 @@
 
 
-**** *creator_poisson *book_poisson_actricenouvelle *style_verse *genre_comedy *dist1_poisson_verse_comedy_actricenouvelle *dist2_poisson_verse_comedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_labaronne
+**** *creator_poisson *book_poisson_actricenouvelle *style_verse *genre_comedy *dist1_poisson_verse_comedy_actricenouvelle *dist2_poisson_verse_comedy *id_LABARONNE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_labaronne
 
 Lisette savez-vous ce qu'on joue aujourd'hui ?
 
@@ -142,7 +142,7 @@ Dites nous votre avis qu'en pensez vous.
       Allons nous mettre à table.
 
 
-**** *creator_poisson *book_poisson_actricenouvelle *style_verse *genre_comedy *dist1_poisson_verse_comedy_actricenouvelle *dist2_poisson_verse_comedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+**** *creator_poisson *book_poisson_actricenouvelle *style_verse *genre_comedy *dist1_poisson_verse_comedy_actricenouvelle *dist2_poisson_verse_comedy *id_LACOMTESSE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
 
 Chevalier faites trêve à cette humeur rêveuse,
 Ou je vais devenir plus que vous sérieuse :
@@ -203,7 +203,7 @@ C'en est fait Chevalier je serai votre épouse.
 Chimène est un prodige.
 
 
-**** *creator_poisson *book_poisson_actricenouvelle *style_verse *genre_comedy *dist1_poisson_verse_comedy_actricenouvelle *dist2_poisson_verse_comedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lactrice
+**** *creator_poisson *book_poisson_actricenouvelle *style_verse *genre_comedy *dist1_poisson_verse_comedy_actricenouvelle *dist2_poisson_verse_comedy *id_LACTRICE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lactrice
 
 Vous pouvez acheter ce nouveau Régiment,
 Monsieur, j'en ai pour vous obtenu l'agrément ;
@@ -267,7 +267,7 @@ Adieu ce mot lâché, me fait rougir de honte. »
 À trop flatter les gens, on se rend condamnable ,
 
 
-**** *creator_poisson *book_poisson_actricenouvelle *style_verse *genre_comedy *dist1_poisson_verse_comedy_actricenouvelle *dist2_poisson_verse_comedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+**** *creator_poisson *book_poisson_actricenouvelle *style_verse *genre_comedy *dist1_poisson_verse_comedy_actricenouvelle *dist2_poisson_verse_comedy *id_LECHEVALIER *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
 
 Mais Madame ai-je tort rendez-moi donc justice ;
 Mes mouvements jaloux viennent-t-ils du caprice ?
@@ -339,7 +339,7 @@ On ne peut que louer, sur tout monsieur l'Abbé.
 Madame il a fait rage.
 
 
-**** *creator_poisson *book_poisson_actricenouvelle *style_verse *genre_comedy *dist1_poisson_verse_comedy_actricenouvelle *dist2_poisson_verse_comedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lefinancier
+**** *creator_poisson *book_poisson_actricenouvelle *style_verse *genre_comedy *dist1_poisson_verse_comedy_actricenouvelle *dist2_poisson_verse_comedy *id_LEFINANCIER *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lefinancier
 
 Moi je parle toujours à table ou bien au jeu ;
 Mais à la Comédie, oh par la ventrebleu !
@@ -391,7 +391,7 @@ Lui combattre l'Abbé ?
 Je n'ai point vu d'actrice avoir un si grand jeu.
 
 
-**** *creator_poisson *book_poisson_actricenouvelle *style_verse *genre_comedy *dist1_poisson_verse_comedy_actricenouvelle *dist2_poisson_verse_comedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_labbe
+**** *creator_poisson *book_poisson_actricenouvelle *style_verse *genre_comedy *dist1_poisson_verse_comedy_actricenouvelle *dist2_poisson_verse_comedy *id_LABBE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_labbe
 
 Mademoiselle.
 
@@ -436,7 +436,7 @@ Mais si vous la trouvez en mérite seconde.
 Venez la voir en foule, elle aime le grand monde.
 
 
-**** *creator_poisson *book_poisson_actricenouvelle *style_verse *genre_comedy *dist1_poisson_verse_comedy_actricenouvelle *dist2_poisson_verse_comedy *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+**** *creator_poisson *book_poisson_actricenouvelle *style_verse *genre_comedy *dist1_poisson_verse_comedy_actricenouvelle *dist2_poisson_verse_comedy *id_FRONTIN *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
 
 Te rendre ce Billet, et t'embrasser.
 
@@ -552,7 +552,7 @@ Avec l'abbé Bidet, et le gros Financier ;
 Mais la voici.
 
 
-**** *creator_poisson *book_poisson_actricenouvelle *style_verse *genre_comedy *dist1_poisson_verse_comedy_actricenouvelle *dist2_poisson_verse_comedy *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_poisson *book_poisson_actricenouvelle *style_verse *genre_comedy *dist1_poisson_verse_comedy_actricenouvelle *dist2_poisson_verse_comedy *id_LISETTE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Que veut le beau Frontin aujourd'hui dans ce lieu ?
 

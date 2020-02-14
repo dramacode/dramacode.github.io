@@ -1,6 +1,6 @@
 
 
-**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artaxerce
+**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *id_ARTAXERCE *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artaxerce
 
 Enfin, grâces aux dieux, nous sommes dans Sardis,
 Ma fille mille soins occupent mes esprits ;
@@ -284,7 +284,7 @@ Mais loin de condamner de si justes douleurs
 Je suis prêt avec vous de répandre des pleurs.
 
 
-**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *date_1685 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_palmis
+**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *id_PALMIS *date_1685 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_palmis
 
 Je vous cherche Madame, un désir curieux
 Précipite mes pas et m'amène en ces lieux ;
@@ -509,7 +509,7 @@ Moi, Madame !
 Il expire.
 
 
-**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *date_1685 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_artemise
+**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *id_ARTEMISE *date_1685 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_artemise
 
 Moi, Seigneur ?
 
@@ -743,7 +743,7 @@ Hâtez-vous et des Grecs prévenez la vengeance.
 Quel malheur, justes dieux !
 
 
-**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pharnabaze
+**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *id_PHARNABAZE *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pharnabaze
 
 Venez, Memnon, venez, dans mon impatience,
 J'osais vous soupçonner d'un peu de négligence.
@@ -966,7 +966,7 @@ Ne vous étonnez point si l'on vient vous surprendre,
 Vous me verrez bientôt voler pour vous défendre.
 
 
-**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcibiade
+**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *id_ALCIBIADE *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcibiade
 
 Grâce aux bontés du ciel, je puis enfin vous rendre
 Seigneur, tous les devoirs que vous pouvez attendre
@@ -1556,7 +1556,7 @@ Pour remplir mon destin sans en être abattu,
 Je sens que j'ai besoin de toute ma vertu.
 
 
-**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *date_1685 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amestris
+**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *id_AMESTRIS *date_1685 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amestris
 
 Ciel !
 
@@ -1593,7 +1593,7 @@ Mais quoi vous soupirez, faut-il vous attendrir ?
 Madame...
 
 
-**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amintas
+**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *id_AMINTAS *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amintas
 
 Après un tel aveu nous vous verrons reprendre
 Le rang dont vos soupçons vous avaient fait descendre.
@@ -1676,7 +1676,7 @@ Vos yeux seront témoins de son empressement ;
 Mais la voici.
 
 
-**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_memnon
+**** *creator_campistron *book_campistron_alcibiade *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_alcibiade *dist2_campistron_verse_tragedy *id_MEMNON *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_memnon
 
 Eh pouvais-je prévoir que votre prompt réveil,
 Seigneur devancerait le retour du soleil,

@@ -1,6 +1,6 @@
 
 
-**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lahollande
+**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *id_LAHOLLANDE *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lahollande
 
 Ah, Beline, mon mal pénètre jusqu'aux os.
 
@@ -166,7 +166,7 @@ Cependant j'ai dansé plus que je ne voulais.
 Ma langue s'épaissit.
 
 
-**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_beline
+**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *id_BELINE *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_beline
 
 Si vous pouviez un peu demeurer en repos...
 
@@ -204,7 +204,7 @@ Vous me serriez les bras d'une étrange façon !
 Peut-elle encor durer quelque temps ?
 
 
-**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marille
+**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *id_MARILLE *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marille
 
 Chacun la tient fort mal.
 
@@ -277,7 +277,7 @@ Jamais canon ne fit moins de mal que le vôtre.
       Hélas ! Quel crève-cour !
 
 
-**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_goulemer
+**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *id_GOULEMER *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_goulemer
 
 Buvons ce pot. À vous ?
 
@@ -349,7 +349,7 @@ Et votre marchandise aigrit en peu de temps.
 Elle veut du débit.
 
 
-**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_frelingue
+**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *id_FRELINGUE *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_frelingue
 
       C'est ce que je demande.
 
@@ -368,7 +368,7 @@ Taisons nous ; ces gens-là sont je crois de chez elle.
       Debout ? Doit-on permettre...
 
 
-**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_badzin
+**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *id_BADZIN *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_badzin
 
       Oui, je la viens de voir.
 
@@ -400,7 +400,7 @@ On ne pouvait pas être en meilleure santé.
 Cà.
 
 
-**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laflamande
+**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *id_LAFLAMANDE *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laflamande
 
 Je li viens point vous voir pour li fer vous jurer,
 Mon Dame je li viens pour li vous assurer...
@@ -434,7 +434,7 @@ Toute ces médicins li sont bourreaux, mon Dame.
 Ils vont faire mourir vous, Dieu prenne vous votre âme
 
 
-**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lhote
+**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *id_LHOTE *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lhote
 
       Payez là-dedans. Hélas ! Que c'est dommage !
 
@@ -485,7 +485,7 @@ Le grand mal de Madame attriste mes chalands.
 J'entends d'ici les cris de Madame Hollande.
 
 
-**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bourguemestre1
+**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *id_BOURGUEMESTRE1 *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bourguemestre1
 
 Hé Madame, tout-beau.
 
@@ -518,7 +518,7 @@ Une telle insolence excite mon courroux.
 Vous m'appeliez maroufle, Insolent ?
 
 
-**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bourguemestre2
+**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *id_BOURGUEMESTRE2 *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bourguemestre2
 
 Pouvons-nous empêcher, Madame, que l'air n'entre ?
 Un air subtil encor comme l'est celui-là.
@@ -543,7 +543,7 @@ Hé...
       Insolent !
 
 
-**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_francais
+**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *id_FRANCAIS *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_francais
 
       Qu'avez-vous donc ?
 
@@ -635,7 +635,7 @@ Messieurs, séparons-nous.
 Serviteur.
 
 
-**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_espagnol
+**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *id_ESPAGNOL *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_espagnol
 
 Monsieur, Madame Hollande est je pense tombée.
 
@@ -694,7 +694,7 @@ Pour moi, je ne sais pas ce que l'on en fera.
       Serviteur, Serviteur.
 
 
-**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anglais
+**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *id_ANGLAIS *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anglais
 
       Vos transports sont extrêmes.
 
@@ -769,7 +769,7 @@ Ma foi, ni moi non plus.
       Serviteur.
 
 
-**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pacole
+**** *creator_poisson *book_poisson_holandemalade *style_verse *genre_comedy *dist1_poisson_verse_comedy_holandemalade *dist2_poisson_verse_comedy *id_PACOLE *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pacole
 
 Marille, venez donc ? Vite l'on vous demande.
 

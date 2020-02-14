@@ -1,6 +1,6 @@
 
 
-**** *creator_piron *book_piron_metromanie *style_verse *genre_comedy *dist1_piron_verse_comedy_metromanie *dist2_piron_verse_comedy *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_francaleu
+**** *creator_piron *book_piron_metromanie *style_verse *genre_comedy *dist1_piron_verse_comedy_metromanie *dist2_piron_verse_comedy *id_FRANCALEU *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_francaleu
 
 Peste soit de ces coups où l'on ne s'attend pas !
 Voilà ma pièce au diable, et mon théâtre à bas.
@@ -652,7 +652,7 @@ Maîtresse, amis, parents, puisque tout est pour vous,
 Aimez donc bien Lucile, et soyez son époux.
 
 
-**** *creator_piron *book_piron_metromanie *style_verse *genre_comedy *dist1_piron_verse_comedy_metromanie *dist2_piron_verse_comedy *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_baliveau
+**** *creator_piron *book_piron_metromanie *style_verse *genre_comedy *dist1_piron_verse_comedy_metromanie *dist2_piron_verse_comedy *id_BALIVEAU *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_baliveau
 
 L'heureux tempérament ! Ma joie en est extrême.
 Gai, vif, aimant à rire ; enfin, toujours le même.
@@ -982,7 +982,7 @@ Va ! Maudit soit l'instant où mon malheureux frère
 M'embarrassa d'un monstre en devenant ton père !
 
 
-**** *creator_piron *book_piron_metromanie *style_verse *genre_comedy *dist1_piron_verse_comedy_metromanie *dist2_piron_verse_comedy *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
+**** *creator_piron *book_piron_metromanie *style_verse *genre_comedy *dist1_piron_verse_comedy_metromanie *dist2_piron_verse_comedy *id_DAMIS *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
 
 Non ! Jamais si beau feu ne m'échauffa la veine.
 Ma foi, j'ai fait pour vous bien des vers jusqu'ici,
@@ -1962,7 +1962,7 @@ Vous à qui cependant je consacre mes jours,
 Muses, tenez-moi lieu de fortune et d'amours !
 
 
-**** *creator_piron *book_piron_metromanie *style_verse *genre_comedy *dist1_piron_verse_comedy_metromanie *dist2_piron_verse_comedy *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+**** *creator_piron *book_piron_metromanie *style_verse *genre_comedy *dist1_piron_verse_comedy_metromanie *dist2_piron_verse_comedy *id_DORANTE *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
 
       Ah ! Lisette ! Ah ! Ma belle !
 Que je t'embrasse ! Eh bien, dis-moi donc la nouvelle !
@@ -2497,7 +2497,7 @@ J'ai demain, pour ma part, cent places retenues ;
 Et veux, après-demain, vous faire aller aux nues.
 
 
-**** *creator_piron *book_piron_metromanie *style_verse *genre_comedy *dist1_piron_verse_comedy_metromanie *dist2_piron_verse_comedy *date_1733 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucile
+**** *creator_piron *book_piron_metromanie *style_verse *genre_comedy *dist1_piron_verse_comedy_metromanie *dist2_piron_verse_comedy *id_LUCILE *date_1733 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucile
 
 J'y prends peu garde.
 
@@ -2678,7 +2678,7 @@ Je fermerai les yeux sur ce qu'il a d'attraits.
 Puisse le ciel m'y rendre insensible à jamais !
 
 
-**** *creator_piron *book_piron_metromanie *style_verse *genre_comedy *dist1_piron_verse_comedy_metromanie *dist2_piron_verse_comedy *date_1733 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_piron *book_piron_metromanie *style_verse *genre_comedy *dist1_piron_verse_comedy_metromanie *dist2_piron_verse_comedy *id_LISETTE *date_1733 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
       Tu l'appelles ?
 
@@ -3250,7 +3250,7 @@ Tenez, voilà l'auteur que l'on vient de siffler.
       Tenez bon ; je vais chercher Dorante.
 
 
-**** *creator_piron *book_piron_metromanie *style_verse *genre_comedy *dist1_piron_verse_comedy_metromanie *dist2_piron_verse_comedy *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mondor
+**** *creator_piron *book_piron_metromanie *style_verse *genre_comedy *dist1_piron_verse_comedy_metromanie *dist2_piron_verse_comedy *id_MONDOR *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mondor
 
 Cette maison des champs me paraît un bon gîte.
 Je voudrais bien ne pas en décamper si vite :

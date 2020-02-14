@@ -1,6 +1,6 @@
 
 
-**** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecapitan
+**** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *id_LECAPITAN *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecapitan
 
 Ce siècle est si fertile en animaux connus,
 On voit tant de coquettes, on voit tant de cocus,
@@ -186,7 +186,7 @@ Je vous enfermerai désormais, ignorante,
 Rentrez, rentrez ici, sotte, bête, innocente.
 
 
-**** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *date_(inc *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_trapolin
+**** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *id_TRAPOLIN *date_(inc *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_trapolin
 
 Et pour moi je sais bien de meilleures nouvelles.
 
@@ -232,7 +232,7 @@ Voilà Pallas par terre, amour lui fait le loi.
 Adieu belle Pallas.
 
 
-**** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledocteur
+**** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *id_LEDOCTEUR *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledocteur
 
       Et bien cerveau léger,
 Ne vas pas sur la mer si tu crains le danger.
@@ -340,7 +340,7 @@ Capitan, nous verrons qui s'en pourra parer.
 Allez vous en chanter avecque les coucous.
 
 
-**** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *date_(inc *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_philis
+**** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *id_PHILIS *date_(inc *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_philis
 
 Et bien cher Capitan, votre âme est-elle encore,
 Dans ce doute que le jaloux dévore ?
@@ -410,7 +410,7 @@ Allez dire aux maris des champs et de la ville,
 Que la précaution leur est choses inutile.
 
 
-**** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cloris
+**** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *id_CLORIS *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cloris
 
 Jadis le Capitan m'adressait tout ses voeux.
 
@@ -450,7 +450,7 @@ J'ai brûlé du désir de les pouvoir apprendre,
 Et lui-même a voulu me les faire comprendre.
 
 
-**** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *date_(inc *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_leandre
+**** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *id_LEANDRE *date_(inc *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_leandre
 
 Ce climat est fort doux, les dames en sont belles.
 

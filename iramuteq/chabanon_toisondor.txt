@@ -1,6 +1,6 @@
 
 
-**** *creator_chabanon *book_chabanon_toisondor *style_verse *genre_tragedie lyrique *dist1_chabanon_verse_tragedie lyrique_toisondor *dist2_chabanon_verse_tragedie lyrique *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aetes
+**** *creator_chabanon *book_chabanon_toisondor *style_verse *genre_tragedie lyrique *dist1_chabanon_verse_tragedie lyrique_toisondor *dist2_chabanon_verse_tragedie lyrique *id_AETES *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aetes
 
 Jason en nous servant, vient d'illustrer son bras;
 Les Scythes sont défaits, l'indomptable Athamas
@@ -116,7 +116,7 @@ J'ensevelis ma honte et mes regrets,
 Sous les débris de mon empire.
 
 
-**** *creator_chabanon *book_chabanon_toisondor *style_verse *genre_tragedie lyrique *dist1_chabanon_verse_tragedie lyrique_toisondor *dist2_chabanon_verse_tragedie lyrique *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_medee
+**** *creator_chabanon *book_chabanon_toisondor *style_verse *genre_tragedie lyrique *dist1_chabanon_verse_tragedie lyrique_toisondor *dist2_chabanon_verse_tragedie lyrique *id_MEDEE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_medee
 
 Oui, ce que j'éprouve Nérine,
 Ce trouble de mes sens, ce désordre inconnu,
@@ -430,7 +430,7 @@ Que t'ouvrit mon bras parricide.
 D'un forfait odieux, laisse-moi me punir.
 
 
-**** *creator_chabanon *book_chabanon_toisondor *style_verse *genre_tragedie lyrique *dist1_chabanon_verse_tragedie lyrique_toisondor *dist2_chabanon_verse_tragedie lyrique *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jason
+**** *creator_chabanon *book_chabanon_toisondor *style_verse *genre_tragedie lyrique *dist1_chabanon_verse_tragedie lyrique_toisondor *dist2_chabanon_verse_tragedie lyrique *id_JASON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jason
 
 Princesse, confirmez le bonheur où j'aspire.
 
@@ -607,7 +607,7 @@ Que fais-tu ? Jusques-là pourrais-tu me haïr ?
 J'obéis à ta voix, et vole au sein de l'onde.
 
 
-**** *creator_chabanon *book_chabanon_toisondor *style_verse *genre_tragedie lyrique *dist1_chabanon_verse_tragedie lyrique_toisondor *dist2_chabanon_verse_tragedie lyrique *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pollux
+**** *creator_chabanon *book_chabanon_toisondor *style_verse *genre_tragedie lyrique *dist1_chabanon_verse_tragedie lyrique_toisondor *dist2_chabanon_verse_tragedie lyrique *id_POLLUX *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pollux
 
 Amis, n'êtes-vous plus les enfants de la gloire ?
 Ne sommes-nous venus dans cet affreux séjour,
@@ -639,7 +639,7 @@ Ne commettez qu'à ma vailance,
 L'espoir de vos brillants succès.
 
 
-**** *creator_chabanon *book_chabanon_toisondor *style_verse *genre_tragedie lyrique *dist1_chabanon_verse_tragedie lyrique_toisondor *dist2_chabanon_verse_tragedie lyrique *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_idamas
+**** *creator_chabanon *book_chabanon_toisondor *style_verse *genre_tragedie lyrique *dist1_chabanon_verse_tragedie lyrique_toisondor *dist2_chabanon_verse_tragedie lyrique *id_IDAMAS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_idamas
 
 Ces jeux seront suivis des jeux de la victoire.
 

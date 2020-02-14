@@ -1,6 +1,6 @@
 
 
-**** *creator_segur *book_segur_fou *style_verse *genre_drame *dist1_segur_verse_drame_fou *dist2_segur_verse_drame *date_1791 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorval
+**** *creator_segur *book_segur_fou *style_verse *genre_drame *dist1_segur_verse_drame_fou *dist2_segur_verse_drame *id_DORVAL *date_1791 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorval
 
 Quoi ! Déjà me quitter, ma chère Adélaïde !
 Nous n'étions réunis que depuis un moment !
@@ -272,7 +272,7 @@ Est-ce toi... Est-ce toi ?
       J'en vois deux...
 
 
-**** *creator_segur *book_segur_fou *style_verse *genre_drame *dist1_segur_verse_drame_fou *dist2_segur_verse_drame *date_1791 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+**** *creator_segur *book_segur_fou *style_verse *genre_drame *dist1_segur_verse_drame_fou *dist2_segur_verse_drame *id_LACOMTESSE *date_1791 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
 
 Dumont, l'on vous a dit combien je m'intéresse
 À celui près de qui l'on vient de vous placer ;
@@ -506,7 +506,7 @@ Soyez mon guide.
       Cher Dorval !
 
 
-**** *creator_segur *book_segur_fou *style_verse *genre_drame *dist1_segur_verse_drame_fou *dist2_segur_verse_drame *date_1791 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_segur *book_segur_fou *style_verse *genre_drame *dist1_segur_verse_drame_fou *dist2_segur_verse_drame *id_LISETTE *date_1791 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
       Je le veux.
 
@@ -621,7 +621,7 @@ Et ce signal t'avertira :
 Je viens t'en prévenir. Adieu, le temps s'avance.
 
 
-**** *creator_segur *book_segur_fou *style_verse *genre_drame *dist1_segur_verse_drame_fou *dist2_segur_verse_drame *date_1791 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mondor
+**** *creator_segur *book_segur_fou *style_verse *genre_drame *dist1_segur_verse_drame_fou *dist2_segur_verse_drame *id_MONDOR *date_1791 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mondor
 
 Je vous trouve à propos ; ici calmes, tranquilles,
 Nous causerons en paix ; tous détours inutiles
@@ -741,7 +741,7 @@ Je me sens entraîné...
 Venez, je suis rendu.
 
 
-**** *creator_segur *book_segur_fou *style_verse *genre_drame *dist1_segur_verse_drame_fou *dist2_segur_verse_drame *date_1791 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dumont
+**** *creator_segur *book_segur_fou *style_verse *genre_drame *dist1_segur_verse_drame_fou *dist2_segur_verse_drame *id_DUMONT *date_1791 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dumont
 
 Qui ? Moi, servir un sou !
 

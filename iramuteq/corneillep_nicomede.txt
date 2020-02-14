@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillep *book_corneillep_nicomede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_nicomede *dist2_corneillep_verse_tragedy *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_prusias
+**** *creator_corneillep *book_corneillep_nicomede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_nicomede *dist2_corneillep_verse_tragedy *id_PRUSIAS *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_prusias
 
 Revenir sans mon ordre, et se montrer ici !
 
@@ -332,7 +332,7 @@ Et demandons aux dieux, nos dignes souverains,
 Pour comble de bonheur l'amitié des Romains.
 
 
-**** *creator_corneillep *book_corneillep_nicomede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_nicomede *dist2_corneillep_verse_tragedy *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_flaminius
+**** *creator_corneillep *book_corneillep_nicomede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_nicomede *dist2_corneillep_verse_tragedy *id_FLAMINIUS *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_flaminius
 
 Sur le point de partir, Rome, Seigneur, me mande
 Que je vous fasse encor pour elle une demande.
@@ -592,7 +592,7 @@ Et qu'il croira se faire un illustre ennemi,
 S'il ne vous reçoit pas pour généreux ami.
 
 
-**** *creator_corneillep *book_corneillep_nicomede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_nicomede *dist2_corneillep_verse_tragedy *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_arsinoe
+**** *creator_corneillep *book_corneillep_nicomede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_nicomede *dist2_corneillep_verse_tragedy *id_ARSINOE *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_arsinoe
 
       Seigneur, vous êtes donc ici ?
 
@@ -1010,7 +1010,7 @@ Et j'ai l'esprit, Seigneur, d'autant plus satisfait,
 Que mon sang rompt le cours du mal que j'avais fait.
 
 
-**** *creator_corneillep *book_corneillep_nicomede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_nicomede *dist2_corneillep_verse_tragedy *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laodice
+**** *creator_corneillep *book_corneillep_nicomede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_nicomede *dist2_corneillep_verse_tragedy *id_LAODICE *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laodice
 
 Après tant de hauts faits, il m'est bien doux, Seigneur,
 De voir encor mes yeux régner sur votre coeur ;
@@ -1358,7 +1358,7 @@ S'il ne faisait paraître un coeur toujours égal.
 Mais le voici : voyez si je le connais mal.
 
 
-**** *creator_corneillep *book_corneillep_nicomede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_nicomede *dist2_corneillep_verse_tragedy *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicomede
+**** *creator_corneillep *book_corneillep_nicomede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_nicomede *dist2_corneillep_verse_tragedy *id_NICOMEDE *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicomede
 
 Je le sais, ma princesse, et qu'il vous fait la cour ;
 Je sais que les Romains, qui l'avaient en otage,
@@ -1938,7 +1938,7 @@ Nous vous la demandons hors de la servitude,
 Ou le nom d'ennemi nous semblera moins rude.
 
 
-**** *creator_corneillep *book_corneillep_nicomede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_nicomede *dist2_corneillep_verse_tragedy *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_attale
+**** *creator_corneillep *book_corneillep_nicomede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_nicomede *dist2_corneillep_verse_tragedy *id_ATTALE *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_attale
 
 Quoi ? Madame, toujours un front inexorable ?
 Ne pourrai-je surprendre un regard favorable,
@@ -2202,7 +2202,7 @@ Si j'eusse mal jugé de tout ce que je vois.
 Mais, madame…
 
 
-**** *creator_corneillep *book_corneillep_nicomede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_nicomede *dist2_corneillep_verse_tragedy *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_araspe
+**** *creator_corneillep *book_corneillep_nicomede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_nicomede *dist2_corneillep_verse_tragedy *id_ARASPE *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_araspe
 
 Sire, vous auriez tort d'en prendre aucun souci,
 Et la haute vertu du prince Nicomède
@@ -2252,7 +2252,7 @@ Le prince entre mes mains ne sera pas longtemps ;
 je n'en puis plus répondre.
 
 
-**** *creator_corneillep *book_corneillep_nicomede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_nicomede *dist2_corneillep_verse_tragedy *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleone
+**** *creator_corneillep *book_corneillep_nicomede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_nicomede *dist2_corneillep_verse_tragedy *id_CLEONE *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleone
 
 Vous lui cachez, Madame, un dessein qui le touche !
 

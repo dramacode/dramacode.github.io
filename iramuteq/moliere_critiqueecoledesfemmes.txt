@@ -1,6 +1,6 @@
 
 
-**** *creator_moliere *book_moliere_critiqueecoledesfemmes *style_prose *genre_comedy *dist1_moliere_prose_comedy_critiqueecoledesfemmes *dist2_moliere_prose_comedy *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_uranie
+**** *creator_moliere *book_moliere_critiqueecoledesfemmes *style_prose *genre_comedy *dist1_moliere_prose_comedy_critiqueecoledesfemmes *dist2_moliere_prose_comedy *id_uranie *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_uranie
 
 Quoi, Cousine, personne ne t'est venu rendre visite ?
 
@@ -177,7 +177,7 @@ Il faudrait rêver quelque incident pour cela.
 La Comédie ne peut pas mieux finir, et nous ferons bien d'en demeurer là.
 
 
-**** *creator_moliere *book_moliere_critiqueecoledesfemmes *style_prose *genre_comedy *dist1_moliere_prose_comedy_critiqueecoledesfemmes *dist2_moliere_prose_comedy *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elise
+**** *creator_moliere *book_moliere_critiqueecoledesfemmes *style_prose *genre_comedy *dist1_moliere_prose_comedy_critiqueecoledesfemmes *dist2_moliere_prose_comedy *id_elise *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elise
 
 Personne du monde.
 
@@ -288,7 +288,7 @@ Cela fait pitié.
 Et moi je fournirais de bon cœur mon personnage.
 
 
-**** *creator_moliere *book_moliere_critiqueecoledesfemmes *style_prose *genre_comedy *dist1_moliere_prose_comedy_critiqueecoledesfemmes *dist2_moliere_prose_comedy *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_climene
+**** *creator_moliere *book_moliere_critiqueecoledesfemmes *style_prose *genre_comedy *dist1_moliere_prose_comedy_critiqueecoledesfemmes *dist2_moliere_prose_comedy *id_climene *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_climene
 
 Eh de grâce, ma chère, faites-moi vite donner un siège.
 
@@ -412,7 +412,7 @@ Pour moi, je souhaiterais que cela se fît, pourvu qu'on traitât l'affaire comm
 Il n'aurait garde, sans doute, et ce ne serait pas des vers à sa louange.
 
 
-**** *creator_moliere *book_moliere_critiqueecoledesfemmes *style_prose *genre_comedy *dist1_moliere_prose_comedy_critiqueecoledesfemmes *dist2_moliere_prose_comedy *date_1663 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_galopin
+**** *creator_moliere *book_moliere_critiqueecoledesfemmes *style_prose *genre_comedy *dist1_moliere_prose_comedy_critiqueecoledesfemmes *dist2_moliere_prose_comedy *id_galopin *date_1663 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_galopin
 
 Voilà Climène, Madame, qui vient ici pour vous voir.
 
@@ -443,7 +443,7 @@ N'en voilà-t-il pas un ?
 Madame, on a servi sur table.
 
 
-**** *creator_moliere *book_moliere_critiqueecoledesfemmes *style_prose *genre_comedy *dist1_moliere_prose_comedy_critiqueecoledesfemmes *dist2_moliere_prose_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marquis
+**** *creator_moliere *book_moliere_critiqueecoledesfemmes *style_prose *genre_comedy *dist1_moliere_prose_comedy_critiqueecoledesfemmes *dist2_moliere_prose_comedy *id_marquis *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marquis
 
 Tu ne me connais pas, sans doute.
 
@@ -560,7 +560,7 @@ La, la, la, lare, la, la, la, la, la, la, la, la, la, la.
 Parbleu, Chevalier, tu jouerais là-dedans un rôle qui ne te serait pas avantageux.
 
 
-**** *creator_moliere *book_moliere_critiqueecoledesfemmes *style_prose *genre_comedy *dist1_moliere_prose_comedy_critiqueecoledesfemmes *dist2_moliere_prose_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+**** *creator_moliere *book_moliere_critiqueecoledesfemmes *style_prose *genre_comedy *dist1_moliere_prose_comedy_critiqueecoledesfemmes *dist2_moliere_prose_comedy *id_dorante *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
 
 Ne bougez, de grâce, et n'interrompez point votre discours. Vous êtes là sur une matière, qui depuis quatre jours fait presque l'entretien de toutes les maisons de Paris ; et jamais on n'a rien vu de si plaisant, que la diversité des jugements, qui se font là-dessus. Car enfin, j'ai ouï condamner cette Comédie à certaines gens, par les mêmes choses, que j'ai vu d'autres estimer le plus.
 
@@ -687,7 +687,7 @@ Oui ; mais quel dénouement pourrait-il trouver à ceci ? Car il ne saurait y 
 Ah ! voilà justement ce qu'il faut pour le dénouement que nous cherchions, et l'on ne peut rien trouver de plus naturel. On disputera fort et ferme de part et d'autre, comme nous avons fait, sans que personne se rende ; un petit laquais viendra dire qu'on a servi ; on se lèvera, et chacun ira souper.
 
 
-**** *creator_moliere *book_moliere_critiqueecoledesfemmes *style_prose *genre_comedy *dist1_moliere_prose_comedy_critiqueecoledesfemmes *dist2_moliere_prose_comedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lysidas
+**** *creator_moliere *book_moliere_critiqueecoledesfemmes *style_prose *genre_comedy *dist1_moliere_prose_comedy_critiqueecoledesfemmes *dist2_moliere_prose_comedy *id_lysidas *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lysidas
 
 Madame ; je viens un peu tard ; mais il m'a fallu lire ma Pièce chez Madame la Marquise, dont je vous avais parlé ; et les louanges, qui lui ont été données, m'ont retenu une heure, plus que je ne croyais.
 

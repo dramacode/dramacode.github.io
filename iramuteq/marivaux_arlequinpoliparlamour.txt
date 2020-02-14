@@ -1,6 +1,6 @@
 
 
-**** *creator_marivaux *book_marivaux_arlequinpoliparlamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_arlequinpoliparlamour *dist2_marivaux_prose_comedy *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trivelin
+**** *creator_marivaux *book_marivaux_arlequinpoliparlamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_arlequinpoliparlamour *dist2_marivaux_prose_comedy *id_TRIVELIN *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trivelin
 
 Vous soupirez, Madame, et malheureusement pour vous, vous risquez de soupirer longtemps si votre raison n'y met ordre ; me permettrez-vous de vous dire ici mon petit sentiment ?
 
@@ -47,7 +47,7 @@ Préparez-vous, je vais amener ici la Fée.
 Je crois, Madame, que vous aurez lieu d'être contente.
 
 
-**** *creator_marivaux *book_marivaux_arlequinpoliparlamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_arlequinpoliparlamour *dist2_marivaux_prose_comedy *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_marivaux *book_marivaux_arlequinpoliparlamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_arlequinpoliparlamour *dist2_marivaux_prose_comedy *id_ARLEQUIN *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Moi, je n'en sais rien.
 
@@ -260,7 +260,7 @@ Tout doux, je suis le maître ; allons, qu'on nous regarde tout à l'heure agr�
 Je lui pardonne, mais je veux qu'on chante, qu'on danse, et puis après nous irons nous faire roi quelque part.
 
 
-**** *creator_marivaux *book_marivaux_arlequinpoliparlamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_arlequinpoliparlamour *dist2_marivaux_prose_comedy *date_1720 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_silvia
+**** *creator_marivaux *book_marivaux_arlequinpoliparlamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_arlequinpoliparlamour *dist2_marivaux_prose_comedy *id_SILVIA *date_1720 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_silvia
 
 Que voulez-vous que je fasse, vous m'entretenez d'une chose qui m'ennuie, vous me parlez toujours d'amour.
 

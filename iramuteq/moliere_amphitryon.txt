@@ -1,6 +1,6 @@
 
 
-**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *id_mercure *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
 
 Tout beau, charmante Nuit ; daignez vous arrêter.
 Il est certain secours, que de vous on désire :
@@ -482,7 +482,7 @@ Et je m'en vais au Ciel, avec de l'Ambrosie,
 M'en débarbouiller tout à fait.
 
 
-**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *date_1668 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nuit
+**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *id_nuit *date_1668 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nuit
 
 Ah, ah, c'est vous, Seigneur Mercure !
 Qui vous eût deviné là, dans cette posture ?
@@ -546,7 +546,7 @@ Je vais faire une Station.
       Adieu, Mercure.
 
 
-**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
+**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *id_jupiter *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
 
 Défendez, chère Alcmène, aux Flambeaux d'approcher ;
 Ils m'offrent des plaisirs, en m'offrant votre vue :
@@ -859,7 +859,7 @@ Les paroles de Jupiter,
 Sont des Arrêts des Destinées.
 
 
-**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amphitryon
+**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *id_amphitryon *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amphitryon
 
 Viens çà, Bourreau, viens çà. Sais-tu, Maître Fripon,
 Qu'à te faire assommer, ton discours peut suffire ?
@@ -1325,7 +1325,7 @@ Suis-moi.
 Quelle est la peur, que je t'inspire ?
 
 
-**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *date_1668 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alcmene
+**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *id_alcmene *date_1668 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alcmene
 
 Je prends, Amphitryon, grande part à la gloire,
 Que répandent sur vous vos illustres Exploits ;
@@ -1626,7 +1626,7 @@ N'est-ce pas dire qu'on pardonne ?
 Laissez. Je me veux mal de mon trop de faiblesse.
 
 
-**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *date_1668 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cleanthis
+**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *id_cleanthis *date_1668 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cleanthis
 
 Ô Ciel ! que d'aimables caresses
 D'un Époux ardemment chéri !
@@ -1794,7 +1794,7 @@ On se lasse, parfois, d'être Femme de bien.
 Las ! vous êtes là-haut, et je vous vois ici !
 
 
-**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *date_1668 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_sosie
+**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *id_sosie *date_1668 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_sosie
 
 Qui va là ? Heu ? Ma peur, à chaque pas s'accroît.
 Messieurs, Ami de tout le Monde.
@@ -2566,7 +2566,7 @@ Sur telles Affaires, toujours,
 Le meilleur est de ne rien dire.
 
 
-**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *date_1668 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_naucrates
+**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *id_naucrates *date_1668 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_naucrates
 
 Ah ! de grâce, arrêtez.
 

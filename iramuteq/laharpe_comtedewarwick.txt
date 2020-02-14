@@ -1,6 +1,6 @@
 
 
-**** *creator_laharpe *book_laharpe_comtedewarwick *style_verse *genre_tragedy *dist1_laharpe_verse_tragedy_comtedewarwick *dist2_laharpe_verse_tragedy *date_1763 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elisabeth
+**** *creator_laharpe *book_laharpe_comtedewarwick *style_verse *genre_tragedy *dist1_laharpe_verse_tragedy_comtedewarwick *dist2_laharpe_verse_tragedy *id_ELISABETH *date_1763 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elisabeth
 
 De mon père, il est vrai, l'injuste tyrannie
 À ces tristes liens a condamné ma vie ;
@@ -218,7 +218,7 @@ Dans la nuit du tombeau tous les deux renfermés,
 Unis malgré la mort.
 
 
-**** *creator_laharpe *book_laharpe_comtedewarwick *style_verse *genre_tragedy *dist1_laharpe_verse_tragedy_comtedewarwick *dist2_laharpe_verse_tragedy *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_suffolk
+**** *creator_laharpe *book_laharpe_comtedewarwick *style_verse *genre_tragedy *dist1_laharpe_verse_tragedy_comtedewarwick *dist2_laharpe_verse_tragedy *id_SUFFOLK *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_suffolk
 
 Avez-vous su du moins, prêt à former ces noeuds,
 Si cet objet si cher est sensible à vos feux ?
@@ -281,7 +281,7 @@ Apaise le désordre, et rétablit la paix.
 Mais, le voici lui-même.
 
 
-**** *creator_laharpe *book_laharpe_comtedewarwick *style_verse *genre_tragedy *dist1_laharpe_verse_tragedy_comtedewarwick *dist2_laharpe_verse_tragedy *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_summer
+**** *creator_laharpe *book_laharpe_comtedewarwick *style_verse *genre_tragedy *dist1_laharpe_verse_tragedy_comtedewarwick *dist2_laharpe_verse_tragedy *id_SUMMER *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_summer
 
 Tous ces titres brillants vont s'embellir encore
 Des faveurs dont l'amour vous comble et vous honore :
@@ -345,7 +345,7 @@ Paraissez, c'est à vous d'achever la victoire.
 Ami, venez chercher la vengeance et la gloire.
 
 
-**** *creator_laharpe *book_laharpe_comtedewarwick *style_verse *genre_tragedy *dist1_laharpe_verse_tragedy_comtedewarwick *dist2_laharpe_verse_tragedy *date_1763 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nevil
+**** *creator_laharpe *book_laharpe_comtedewarwick *style_verse *genre_tragedy *dist1_laharpe_verse_tragedy_comtedewarwick *dist2_laharpe_verse_tragedy *id_NEVIL *date_1763 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nevil
 
 Quoi ! Lorsque les Destins ont comble vos revers,
 Quand votre époux gémit dans l'opprobre des fers ;

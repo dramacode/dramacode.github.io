@@ -1,6 +1,6 @@
 
 
-**** *creator_chazetdupaty *book_chazetdupaty_arlequinjournaliste *style_prose *genre_comedy *dist1_chazetdupaty_prose_comedy_arlequinjournaliste *dist2_chazetdupaty_prose_comedy *date_1797 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laronde
+**** *creator_chazetdupaty *book_chazetdupaty_arlequinjournaliste *style_prose *genre_comedy *dist1_chazetdupaty_prose_comedy_arlequinjournaliste *dist2_chazetdupaty_prose_comedy *id_LARONDE *date_1797 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laronde
 
 Que faites-vous là ?...
 
@@ -154,7 +154,7 @@ Vous, Arlequin !...
 J'y consens ; et je suis sûr que l'on dira par-tout, La Ronde ne s'est pas mésallié.
 
 
-**** *creator_chazetdupaty *book_chazetdupaty_arlequinjournaliste *style_prose *genre_comedy *dist1_chazetdupaty_prose_comedy_arlequinjournaliste *dist2_chazetdupaty_prose_comedy *date_1797 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_delphine
+**** *creator_chazetdupaty *book_chazetdupaty_arlequinjournaliste *style_prose *genre_comedy *dist1_chazetdupaty_prose_comedy_arlequinjournaliste *dist2_chazetdupaty_prose_comedy *id_DELPHINE *date_1797 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_delphine
 
 C'est vous ! Je descends....
 
@@ -310,7 +310,7 @@ Au nom-bre des mo-des nou-vel--les,
 Au nombre des mo-des nou - velles.
 
 
-**** *creator_chazetdupaty *book_chazetdupaty_arlequinjournaliste *style_prose *genre_comedy *dist1_chazetdupaty_prose_comedy_arlequinjournaliste *dist2_chazetdupaty_prose_comedy *date_1797 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_chazetdupaty *book_chazetdupaty_arlequinjournaliste *style_prose *genre_comedy *dist1_chazetdupaty_prose_comedy_arlequinjournaliste *dist2_chazetdupaty_prose_comedy *id_ARLEQUIN *date_1797 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 C'est pourtant Arlequin qui fait ce journal ; et pourquoi ? Parce qu'il sait que mon père ne veut me donner qu'à un homme de lettres.
 Du choix brillant qu'on me destine,
@@ -692,7 +692,7 @@ Afin que demain mon journal
 Puisse en donner bonne nouvelle.
 
 
-**** *creator_chazetdupaty *book_chazetdupaty_arlequinjournaliste *style_prose *genre_comedy *dist1_chazetdupaty_prose_comedy_arlequinjournaliste *dist2_chazetdupaty_prose_comedy *date_1797 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
+**** *creator_chazetdupaty *book_chazetdupaty_arlequinjournaliste *style_prose *genre_comedy *dist1_chazetdupaty_prose_comedy_arlequinjournaliste *dist2_chazetdupaty_prose_comedy *id_GILLES *date_1797 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
 
 C'est donc ici qu'habite la maison de mademoiselle La Ronde, et cependant je ne puis jamais lui parler... Elle vous a une manière si singulière de vous regarder... qu'aussitôt que je m'approche d'elle, je n'ai plus la parole à la main... Écrivons-lui... Écrire ! C'est fort bien ; mais c'est que je ne suis fort ni sur l'écriture, ni sur l'orthographe... Comment faire !... Pardi ! Adressons nous à monsieur son père, qui est au fait de ça...
 Voyons, je m'en vais lui dicter,
@@ -1075,7 +1075,7 @@ Replacent de mauvais bons mots
 Dans de vieilles pièces nouvelles.
 
 
-**** *creator_chazetdupaty *book_chazetdupaty_arlequinjournaliste *style_prose *genre_comedy *dist1_chazetdupaty_prose_comedy_arlequinjournaliste *dist2_chazetdupaty_prose_comedy *date_1797 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_balourd
+**** *creator_chazetdupaty *book_chazetdupaty_arlequinjournaliste *style_prose *genre_comedy *dist1_chazetdupaty_prose_comedy_arlequinjournaliste *dist2_chazetdupaty_prose_comedy *id_BALOURD *date_1797 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_balourd
 
 Dix pages.... C'est long.... mais c'est beau.
 
@@ -1131,7 +1131,7 @@ On fait plus de cas en France.
 Ailleurs, oui, l'on m'imprimera.
 
 
-**** *creator_chazetdupaty *book_chazetdupaty_arlequinjournaliste *style_prose *genre_comedy *dist1_chazetdupaty_prose_comedy_arlequinjournaliste *dist2_chazetdupaty_prose_comedy *date_1797 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_limprimeur
+**** *creator_chazetdupaty *book_chazetdupaty_arlequinjournaliste *style_prose *genre_comedy *dist1_chazetdupaty_prose_comedy_arlequinjournaliste *dist2_chazetdupaty_prose_comedy *id_LIMPRIMEUR *date_1797 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_limprimeur
 
 Il me chicane toujours pour la dépense.
 
@@ -1200,7 +1200,7 @@ Adieu...
 Je lui fais crédit.
 
 
-**** *creator_chazetdupaty *book_chazetdupaty_arlequinjournaliste *style_prose *genre_comedy *dist1_chazetdupaty_prose_comedy_arlequinjournaliste *dist2_chazetdupaty_prose_comedy *date_1797 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leprote
+**** *creator_chazetdupaty *book_chazetdupaty_arlequinjournaliste *style_prose *genre_comedy *dist1_chazetdupaty_prose_comedy_arlequinjournaliste *dist2_chazetdupaty_prose_comedy *id_LEPROTE *date_1797 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leprote
 
 Moi, pour l'impression.
 

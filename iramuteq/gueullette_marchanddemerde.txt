@@ -1,6 +1,6 @@
 
 
-**** *creator_gueullette *book_gueullette_marchanddemerde *style_prose *genre_parade *dist1_gueullette_prose_parade_marchanddemerde *dist2_gueullette_prose_parade *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+**** *creator_gueullette *book_gueullette_marchanddemerde *style_prose *genre_parade *dist1_gueullette_prose_parade_marchanddemerde *dist2_gueullette_prose_parade *id_LEANDRE *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
 
 Écoute, mon citer z'Arlequin.
 
@@ -43,7 +43,7 @@ Croyez-moi cependant, ne venez plus chier à la porte des gens, gardez votre mar
 Ni moi d'un voisin qui vienne tous les jours chier à ma porte.
 
 
-**** *creator_gueullette *book_gueullette_marchanddemerde *style_prose *genre_parade *dist1_gueullette_prose_parade_marchanddemerde *dist2_gueullette_prose_parade *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_gueullette *book_gueullette_marchanddemerde *style_prose *genre_parade *dist1_gueullette_prose_parade_marchanddemerde *dist2_gueullette_prose_parade *id_ARLEQUIN *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Oui da, Monsieur, car je ne suis pas sourd.
 
@@ -118,7 +118,7 @@ Nous t'avons donné sur le corps la pièce de ton échantillon...
 Et moi je ne veux jamais parler z'à un homme qui sait aussi mal vendre sa marchandise.
 
 
-**** *creator_gueullette *book_gueullette_marchanddemerde *style_prose *genre_parade *dist1_gueullette_prose_parade_marchanddemerde *dist2_gueullette_prose_parade *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
+**** *creator_gueullette *book_gueullette_marchanddemerde *style_prose *genre_parade *dist1_gueullette_prose_parade_marchanddemerde *dist2_gueullette_prose_parade *id_GILLES *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
 
 Depuis que je n'ai plus mon onque ; je m'ennuie cheux nous, je ne sais que faire de mes dix doigts ; car enfin on ne peut toujours se gratter ; il faut que je me marie ; ma femme me grattera, je la gratterai, nous nous gratterons, je la battrai, elle me battra, nous nous battrons, et puis nous ferons la paix, et puis... parguenne, la voici ; quand on parle du loup on en voit la queue. Je voudrais bien qu'elle parlât de moi.
 
@@ -182,7 +182,7 @@ Tu vois, j'ai voulu lever boutique pour être en état de t'épouser, je me suis
 Adieu donc. Pardienne aussi la vie du monde est bien difficile.
 
 
-**** *creator_gueullette *book_gueullette_marchanddemerde *style_prose *genre_parade *dist1_gueullette_prose_parade_marchanddemerde *dist2_gueullette_prose_parade *date_1720 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_catin
+**** *creator_gueullette *book_gueullette_marchanddemerde *style_prose *genre_parade *dist1_gueullette_prose_parade_marchanddemerde *dist2_gueullette_prose_parade *id_CATIN *date_1720 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_catin
 
 Que regardez-vous là, Monsieur Gilles ?
 
@@ -207,7 +207,7 @@ Hé mon pauvre Gilles, comment te voilà fait, on ne saurait t'approcher.
 Je le sens bien nigaud ; je ne veux pas d'un mari qui soit aussi sot, je veux que ce soit moi qui le fasse. Votre servante, Monsieur.
 
 
-**** *creator_gueullette *book_gueullette_marchanddemerde *style_prose *genre_parade *dist1_gueullette_prose_parade_marchanddemerde *dist2_gueullette_prose_parade *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lapothicaire
+**** *creator_gueullette *book_gueullette_marchanddemerde *style_prose *genre_parade *dist1_gueullette_prose_parade_marchanddemerde *dist2_gueullette_prose_parade *id_LAPOTHICAIRE *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lapothicaire
 
 Voyons, Monsieur, voyons.
 

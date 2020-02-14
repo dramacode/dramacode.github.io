@@ -1,6 +1,6 @@
 
 
-**** *creator_carmontelle *book_carmontelle_veuveavare *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_veuveavare *dist2_carmontelle_prose_proverbe *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamederupert
+**** *creator_carmontelle *book_carmontelle_veuveavare *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_veuveavare *dist2_carmontelle_prose_proverbe *id_MADAMEDERUPERT *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamederupert
 
 Je ne sais, Monsieur, si j'ai l'honneur d'être connue de vous ?
 
@@ -73,7 +73,7 @@ Allons, messieurs, venez chez moi puisqu'il le faut absolument.
 Ah ! Mon Dieu ! Pourquoi suis-je venue ici ?
 
 
-**** *creator_carmontelle *book_carmontelle_veuveavare *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_veuveavare *dist2_carmontelle_prose_proverbe *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lapierre
+**** *creator_carmontelle *book_carmontelle_veuveavare *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_veuveavare *dist2_carmontelle_prose_proverbe *id_LAPIERRE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lapierre
 
 Monsieur ?
 

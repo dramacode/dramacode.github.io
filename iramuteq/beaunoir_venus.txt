@@ -1,6 +1,6 @@
 
 
-**** *creator_beaunoir *book_beaunoir_venus *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_venus *dist2_beaunoir_prose_comedy *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
+**** *creator_beaunoir *book_beaunoir_venus *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_venus *dist2_beaunoir_prose_comedy *id_VENUS *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
 
 Hélas ! Que trop véritable.
 
@@ -197,7 +197,7 @@ J'aperçois les Grâces!
 Ah ! Mon fils, il y a longtemps que je vous cherche.
 
 
-**** *creator_beaunoir *book_beaunoir_venus *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_venus *dist2_beaunoir_prose_comedy *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
+**** *creator_beaunoir *book_beaunoir_venus *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_venus *dist2_beaunoir_prose_comedy *id_MOMUS *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
 
 Belle Vénus, la chose est donc bien véritable ?
 
@@ -333,7 +333,7 @@ Sans doute que l'Amour n'est pas loin.
 Tenez, voici là-bas notre petit libertin.
 
 
-**** *creator_beaunoir *book_beaunoir_venus *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_venus *dist2_beaunoir_prose_comedy *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_beaunoir *book_beaunoir_venus *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_venus *dist2_beaunoir_prose_comedy *id_ARLEQUIN *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Oui, Monsieur.
 

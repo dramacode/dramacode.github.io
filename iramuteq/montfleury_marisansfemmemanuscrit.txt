@@ -1,6 +1,6 @@
 
 
-**** *creator_montfleury *book_montfleury_marisansfemmemanuscrit *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemmemanuscrit *dist2_montfleury_verse_comedy *date_1664 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_brusquin
+**** *creator_montfleury *book_montfleury_marisansfemmemanuscrit *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemmemanuscrit *dist2_montfleury_verse_comedy *id_brusquin *date_1664 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_brusquin
 
 Si julie encor vous est chere
 Ne songez point a la chercher
@@ -638,7 +638,7 @@ Mais qui ferois je enfin il faut m'en consoler
 Bien de gens que je voy voudroient me ressembler
 
 
-**** *creator_montfleury *book_montfleury_marisansfemmemanuscrit *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemmemanuscrit *dist2_montfleury_verse_comedy *date_1664 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_julie
+**** *creator_montfleury *book_montfleury_marisansfemmemanuscrit *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemmemanuscrit *dist2_montfleury_verse_comedy *id_julie *date_1664 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_julie
 
 Ah Carlos
 
@@ -784,7 +784,7 @@ Chacun doit sa jeunesse
 Aux tendres amours
 
 
-**** *creator_montfleury *book_montfleury_marisansfemmemanuscrit *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemmemanuscrit *dist2_montfleury_verse_comedy *date_1664 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_carlos
+**** *creator_montfleury *book_montfleury_marisansfemmemanuscrit *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemmemanuscrit *dist2_montfleury_verse_comedy *id_carlos *date_1664 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_carlos
 
       ah julie
 
@@ -1014,7 +1014,7 @@ La plus fiere maistresse
 Ne l'est pas toujours
 
 
-**** *creator_montfleury *book_montfleury_marisansfemmemanuscrit *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemmemanuscrit *dist2_montfleury_verse_comedy *date_1664 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_fatiman
+**** *creator_montfleury *book_montfleury_marisansfemmemanuscrit *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemmemanuscrit *dist2_montfleury_verse_comedy *id_fatiman *date_1664 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_fatiman
 
 Ta femme ? ce n'est pas julie aparemment
 
@@ -1398,7 +1398,7 @@ Mais il n'a point de peines
 Qu'il n'ayt ses douceurs
 
 
-**** *creator_montfleury *book_montfleury_marisansfemmemanuscrit *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemmemanuscrit *dist2_montfleury_verse_comedy *date_1664 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_celime
+**** *creator_montfleury *book_montfleury_marisansfemmemanuscrit *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemmemanuscrit *dist2_montfleury_verse_comedy *id_celime *date_1664 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_celime
 
 Ah qu'un nouvel amour met de trouble en mon cœur
 Sur tout quand la douleur d'avoir une rivalle...
@@ -1704,7 +1704,7 @@ Et je regarde enfin comme indigne de moy
 Qui peut porter un cœur a manquer a sa foy
 
 
-**** *creator_montfleury *book_montfleury_marisansfemmemanuscrit *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemmemanuscrit *dist2_montfleury_verse_comedy *date_1664 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_zaire
+**** *creator_montfleury *book_montfleury_marisansfemmemanuscrit *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemmemanuscrit *dist2_montfleury_verse_comedy *id_zaire *date_1664 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_zaire
 
 Ma maistresse est contente allez retirez Vous
 Vous venez a propos car Celime entre nous
@@ -1884,7 +1884,7 @@ Mais enfin si son feu ne peut repondre au vostre
       je les entens qui chantent et tous deux
 
 
-**** *creator_montfleury *book_montfleury_marisansfemmemanuscrit *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemmemanuscrit *dist2_montfleury_verse_comedy *date_1664 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_marine
+**** *creator_montfleury *book_montfleury_marisansfemmemanuscrit *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemmemanuscrit *dist2_montfleury_verse_comedy *id_marine *date_1664 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_marine
 
       ah Tomire
 Ne pleure donc plus tant car tu me feras rire
@@ -2176,7 +2176,7 @@ R'entrons et s'il se peut tandis que lon le presse
 Scachons que deviendront ton maistre et ma maistresse
 
 
-**** *creator_montfleury *book_montfleury_marisansfemmemanuscrit *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemmemanuscrit *dist2_montfleury_verse_comedy *date_1664 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_tomire
+**** *creator_montfleury *book_montfleury_marisansfemmemanuscrit *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemmemanuscrit *dist2_montfleury_verse_comedy *id_tomire *date_1664 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_tomire
 
 Si Celime est bien tost d humeur a Vous entendre
 Quelqu'un... Sa naine vient qui poura nous l'aprendre
@@ -2538,7 +2538,7 @@ On pouroit marier marine avec tomire
 Et lon feroit enfin d'une pierre deux coups
 
 
-**** *creator_montfleury *book_montfleury_marisansfemmemanuscrit *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemmemanuscrit *dist2_montfleury_verse_comedy *date_1664 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_gusman
+**** *creator_montfleury *book_montfleury_marisansfemmemanuscrit *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemmemanuscrit *dist2_montfleury_verse_comedy *id_gusman *date_1664 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_gusman
 
 Quoy monsieur sur le point de revoir en julie
 Aprez six mois d'absence une femme cherie
@@ -2576,7 +2576,7 @@ Si c'estoit un complot que julie eust pu faire
 Seroit elle captive et vous eust on escrit
 
 
-**** *creator_montfleury *book_montfleury_marisansfemmemanuscrit *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemmemanuscrit *dist2_montfleury_verse_comedy *date_1664 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_stamorat
+**** *creator_montfleury *book_montfleury_marisansfemmemanuscrit *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemmemanuscrit *dist2_montfleury_verse_comedy *id_stamorat *date_1664 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_stamorat
 
 Voila cet Espagnol dont on vous a parlé
 

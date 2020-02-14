@@ -1,6 +1,6 @@
 
 
-**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_legouverneur
+**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *id_LEGOUVERNEUR *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_legouverneur
 
 Oui si tu veux monter en ce degré suprême,
 Et régner sur autrui, règne dessus toi-même,
@@ -149,7 +149,7 @@ Sois juste, Continent, Généreux et Clément,
 Lors je m'efforcerai de t'en produire d'autres.
 
 
-**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_leprince
+**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *id_LEPRINCE *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_leprince
 
 Par quelle invention ?
 
@@ -179,7 +179,7 @@ Ravi que ces tableaux me viennent d'enseigner,
 Et l'Art de vivre heureux, et celui de Régner.
 
 
-**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_philippe
+**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *id_PHILIPPE *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_philippe
 
       Va, ce n'est qu'une femme,
 Que te peut-elle faire, et pourquoi la crains-tu ?
@@ -346,7 +346,7 @@ Hélas, quelqu'un à moi, garde !
       Tu ne peux éviter.
 
 
-**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_alexandre
+**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *id_ALEXANDRE *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_alexandre
 
 Ami que fait le Roi, qu'a-t-il ?
 
@@ -667,7 +667,7 @@ Je veux faire aujourd'hui triompher la vertu,
 En montrant à ses pieds Alexandre abattu.
 
 
-**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_minerve
+**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *id_MINERVE *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_minerve
 
 Après un tel affront me refuser Justice,
 Rebuter l'innocence, et soutenir le vice,
@@ -871,7 +871,7 @@ Je suis une furie attachée à tes pas.
 Je crains ta garde encor bien moins que ta personne.
 
 
-**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_megare
+**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *id_MEGARE *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_megare
 
       Ah ! Madame.
 Quelle est cette douleur qui trouble ainsi votre âme,
@@ -898,7 +898,7 @@ Fuyons pour éviter une peine infinie,
 Et voyons sans regret l'injustice punie.
 
 
-**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_fabie
+**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *id_FABIE *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_fabie
 
       Rendez-la, je l'ordonne.
 
@@ -1100,7 +1100,7 @@ Je t'ai tout pardonné, songe à me satisfaire.
 Non, je veux que l'Hymen finisse votre ennui.
 
 
-**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_camille
+**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *id_CAMILLE *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_camille
 
 Cesse de me parler avec un si grand zèle,
 Tu te rends importun pour être trop fidèle,
@@ -1358,7 +1358,7 @@ Si mon bien te déplaît, j'y renonce aujourd'hui.
 Ainsi qu'aux immortels nous vous devons un temple.
 
 
-**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_arbas
+**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *id_ARBAS *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_arbas
 
 Vous éloigner du Camp et de nuit et sans suite,
 C'est un peu s'oublier et manquer de conduite,
@@ -1415,7 +1415,7 @@ J'y cours.
 Sire, cette action augmente votre estime.
 
 
-**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_lucipe
+**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *id_LUCIPE *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_lucipe
 
       Je suis comme je dois.
 
@@ -1462,7 +1462,7 @@ Et je le haïrai, s'il vous manque de foi.
 Ah ! Clémence adorable !
 
 
-**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_cesar
+**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *id_CESAR *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_cesar
 
 Enfin je l'ai vaincu ce brave conquérant,
 On ne le verra plus comme un fameux torrent,
@@ -1639,7 +1639,7 @@ Et je te laisse ici dans l'horreur des ténèbres,
 Pour suivre encor ce chef dans ces pompes funèbres.
 
 
-**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_ptolomee
+**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *id_PTOLOMEE *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_ptolomee
 
 Hélas ! Dites plutôt faire une trahison.
 Oui Madame, il est vrai dans cette conjoncture,
@@ -1934,7 +1934,7 @@ Et que mon sort apprenne à la postérité,
 Que le Ciel ne hait rien comme la lâcheté.
 
 
-**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_cleopatre
+**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *id_CLEOPATRE *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_cleopatre
 
 Hé quoi ? Vous redoutez un malheur nécessaire,
 Et quand il faut agir votre Esprit délibère.
@@ -1981,7 +1981,7 @@ Sans lui donner le temps de songer à la Mort.
 Je vous obéirai.
 
 
-**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_statira
+**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *id_STATIRA *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_statira
 
       Il n'aura donc point d'armes.
 
@@ -2164,7 +2164,7 @@ La force de votre âme, et ce que vous pouvez.
 Vous nous rendez confus, par ces faveurs extrêmes !
 
 
-**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_berenice
+**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *id_BERENICE *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_berenice
 
 Ma soeur, il faut aller recevoir Alexandre,
 Ses trompettes déjà se font partout entendre,
@@ -2195,7 +2195,7 @@ Ah ! Seigneur la douleur l'afflige tellement,
 Qu'elle n'a pu sortir de son appartement.
 
 
-**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_oroondate
+**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *id_OROONDATE *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_oroondate
 
 Madame, vous pouvez par un trait de vos charmes
 Triompher d'Alexandre.
@@ -2333,7 +2333,7 @@ Esclave ? Ah ! Quel affront, non, je feignais, je suis...
 Ah ! Grand Prince.
 
 
-**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_persee
+**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *id_PERSEE *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_persee
 
 Sachez qu'Octavian le lieutenant d'Émile,
 Doit dedans un moment entrer dedans la ville,
@@ -2578,7 +2578,7 @@ Allons, mais essayons par un dernier effort,
 De guérir de cent morts, par une seule mort.
 
 
-**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_alcmene
+**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *id_ALCMENE *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_alcmene
 
 Mais pourquoi nous résoudre avecque des Échelles ?
 Et n'en pas avertir ceux qui me sont fidèles ?
@@ -2631,7 +2631,7 @@ Hélas ! Modérez-vous dans ce ressentiment.
 Par lui nous allons être au comble des malheurs.
 
 
-**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_eudee
+**** *creator_gillet *book_gillet_artderegner *style_verse *genre_tragedy *dist1_gillet_verse_tragedy_artderegner *dist2_gillet_verse_tragedy *id_EUDEE *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_eudee
 
 Seigneur.
 

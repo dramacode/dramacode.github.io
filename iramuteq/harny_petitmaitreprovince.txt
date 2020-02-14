@@ -1,6 +1,6 @@
 
 
-**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebaron
+**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *id_LEBARON *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebaron
 
 Maraud, je te rouerai de coups.
 
@@ -180,7 +180,7 @@ En termes clairs et nets ce billet-là  s'explique.
 Je lui conseille encor de faire le plaisant !
 
 
-**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *date_1765 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_labaronne
+**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *id_LABARONNE *date_1765 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_labaronne
 
 Eh ! mais, Monsieur, y pensez-vous ?
 
@@ -292,7 +292,7 @@ Rien de vrai, beaucoup de clinquant ;
 Voilà  les hommes d'à  présent.
 
 
-**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *date_1765 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *id_JULIE *date_1765 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
 
 Que craignez-vous, Dainval ?
 
@@ -382,7 +382,7 @@ Rien de vrai, beaucoup de clinquant,
 Voilà  les hommes d'à  présent.
 
 
-**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *id_LEMARQUIS *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
 
 De ma voiture nouvelle
 Est-ce-là  le modèle ?
@@ -736,7 +736,7 @@ Sans adieu, belle Dame. Au premier jour j'espere
 Recevoir de vos mains un billet plus sincère.
 
 
-**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dainval
+**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *id_DAINVAL *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dainval
 
 Ah ! Voici le Marquis. On le dit mon rival.
 Sachons s'il est aimé.
@@ -863,7 +863,7 @@ Si de vous je suis oubliée.
 Ah ! Julie ! Ah ! Marquis, je te suis obligé.
 
 
-**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *date_1765 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
+**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *id_MARTON *date_1765 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
 
 Ah, ah.
 
@@ -922,7 +922,7 @@ Vous plairez à  Julie ainsi qu'à ses parents ?
       Ah ! Ciel !
 
 
-**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepine
+**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *id_LEPINE *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepine
 
 Le voici, Monsieur.
 
@@ -943,7 +943,7 @@ Ah !
       Ah ! Monsieur.
 
 
-**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blaise
+**** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *id_BLAISE *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blaise
 
 Morgué, je n'y pouvais que faire.
 

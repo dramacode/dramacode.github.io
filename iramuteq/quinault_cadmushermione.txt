@@ -1,6 +1,6 @@
 
 
-**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *date_1673 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pales
+**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_PALES *date_1673 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pales
 
 Hâtez-vous, Pasteurs, accourez.
 
@@ -19,7 +19,7 @@ Il se découvre aux yeux de tous.
 Suivons tous la même envie.
 
 
-**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *date_1673 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melisse
+**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_MELISSE *date_1673 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melisse
 
 La voix des oiseaux nous appelle.
 
@@ -35,7 +35,7 @@ D'ornements immortels.
 Aimons, tout nous y convie.
 
 
-**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *date_1673 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cadmus
+**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_CADMUS *date_1673 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cadmus
 
 J'aimerais à revoir les lieux de ma naissance ;
 Mais avant que je puisse en goûter la douceur,
@@ -232,7 +232,7 @@ Deux coeurs prêts d'être unis par des Liens si doux ?
 Belle Hermione, hélas, puis-je être heureux sans vous.
 
 
-**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *date_1673 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arbas
+**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_ARBAS *date_1673 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arbas
 
 Vos ordres sont suivis, Seigneur, et tout est prêt !
 Mais le tyran s'est mis en tête
@@ -401,7 +401,7 @@ Seigneur, vous m'honnorez plus que je ne mérite :
 Seigneur exigez-vous de mon obéissance.
 
 
-**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *date_1673 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hermione
+**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_HERMIONE *date_1673 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hermione
 
 Cet aimable séjour
 Si paisible et si sombre,
@@ -505,7 +505,7 @@ De la main d'un vainqueur aimé !
 Ô Ciel !
 
 
-**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *date_1673 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_charite
+**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_CHARITE *date_1673 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_charite
 
 La peine d'aimer est charmante,
 Il n'est point de coeur qui s'exempte
@@ -583,7 +583,7 @@ Mais pour un si grand bien
 Tous les maux ne sont rien.
 
 
-**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *date_1673 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junon
+**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_JUNON *date_1673 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junon
 
 Où vas-tu téméraire ?
 Où cours-tu te précipiter ?
@@ -611,7 +611,7 @@ Exécute à l'instant ce que Junon t'ordonne.
 Junon en veut former les noeuds.
 
 
-**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *date_1673 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pallas
+**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_PALLAS *date_1673 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pallas
 
 Va, Cadmus, que rien ne t'étonne,
 Va, ne crains ni Junon, ni le Dieu des Combats :
@@ -655,7 +655,7 @@ Le Ciel veut que ce jour soit célébré à jamais.
 Attendez de Pallas mille faveurs nouvelles.
 
 
-**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *date_1673 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lamour
+**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_LAMOUR *date_1673 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lamour
 
 Calme tes déplaisirs, dissipe tes alarmes,
 L'Amour vient essuyer tes larmes,

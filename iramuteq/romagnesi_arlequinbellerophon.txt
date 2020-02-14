@@ -1,6 +1,6 @@
 
 
-**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *date_1738 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_stenobee
+**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_stenobee *date_1738 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_stenobee
 
 Air 35. Le fameux Diogenes.
 Quand cessera ta haine ?
@@ -97,7 +97,7 @@ Oh ! l'excellent remede
 Pour les forfaits.
 
 
-**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *date_1738 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philonoe
+**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_philonoe *date_1738 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philonoe
 
 Air 85. Le plaisir passe la peine.
 Amour, lorsque sous ton Empire,
@@ -163,7 +163,7 @@ Quel bonheur ! mon cher Bellerophon.
 Expliquez, expliquez-vous sans détour.
 
 
-**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_leroi
+**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_le-roi *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_leroi
 
 Air 96. Trois voleurs insolens.
 Un Monstre bien méchant
@@ -232,7 +232,7 @@ Allons donnez-vous la main,
 Je couronne votre flame.
 
 
-**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bellerophon
+**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_bellerophon *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bellerophon
 
 Ah vous voilà, Princesse ? que je suis content !
 Air I. Zon, zon.
@@ -394,7 +394,7 @@ Ce seroit trop pour un jour.
 FIN
 
 
-**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amisodar
+**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_amisodar *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amisodar
 
 Voyez quel conte,
 
@@ -474,7 +474,7 @@ Je puis ne faire qu'un venin,
 Tout antidote est inutile.
 
 
-**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesacrificateur
+**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_le-sacrificateur *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesacrificateur
 
 Air 19. Quand on a prononcé ce malheureux oüi.
 Reçois, grand Apollon, reçois ce Sacrifice,
@@ -497,7 +497,7 @@ Peuples, réjoüissez-vous, & dansez autour du feu.
 Grand Apollon nous n'attendons plus que votre réponse.
 
 
-**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_poete
+**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_poete *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_poete
 
 Qu'est-ce, Seigneur Bellerophon, vous me paroissez bien embarassé ? vous attendez sans doute Pallas pour vous tirer d'affaire ? car il faut toûjours que le merveilleux s'en mêle point du tout, c'est moi qui vais faire ce miracle-là.
 
@@ -525,7 +525,7 @@ Venez-vous, dis-je, suivez-moi, & ne craignez rien ; montez hardiment ce superb
 Belle demande ! montez sur le Pegaze & soyez sûr de la victoire.
 
 
-**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *date_1738 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_amazone1
+**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_amazone1 *date_1738 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_amazone1
 
 Air 86. Digue, diguedon.
 Un heureux penchant vous entraîne ;
@@ -553,7 +553,7 @@ Sa brûlante ardeur pour la gloire
 En lui ne peut se moderer.
 
 
-**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *date_1738 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_amazone2
+**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_amazone2 *date_1738 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_amazone2
 
 Palsanbleu ! la Princesse a raison, elle parle en connoisseuse.
 

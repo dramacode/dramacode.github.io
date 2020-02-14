@@ -1,6 +1,6 @@
 
 
-**** *creator_lacalprenede *book_lacalprenede_hermenegilde *style_prose *genre_tragedy *dist1_lacalprenede_prose_tragedy_hermenegilde *dist2_lacalprenede_prose_tragedy *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hermenegilde
+**** *creator_lacalprenede *book_lacalprenede_hermenegilde *style_prose *genre_tragedy *dist1_lacalprenede_prose_tragedy_hermenegilde *dist2_lacalprenede_prose_tragedy *id_HERMENEGILDE *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hermenegilde
 
 Que demain avant le lever du Soleil les troupes soient prêtes et disposées à cette sortie. Je veux donner le premier à la tête de trois cents chevaux dans le quartier d'Atalaric, et je veux encore conserver pour mon père un respect duquel sa cruauté m'aurait dispensé si je voulais faillir à son exemple. Vous sortirez, Gontran, par la porte des Goths avec quinze cents hommes armés de piques et de corselets, et cinq cents archers sous la conduite de Clodomire, que vous ferez couler sans bruit le long de nos vieux retranchements. Sigeric commandera dans la ville jusques à notre retour, et Ataulphe nous attendra hors des portes avec deux cents chevaux pour favoriser notre retraite. Je vous prie que cet ordre soit exactement observé, que les armes soient en bon état, et que deux heures avant le jour naissant ces troupes soient rangées dans la grande place d'armes. C'est par cet ordre, père sans pitié, que je repousserai ta violence, et que je me défendrai d'une cruauté qui détruit et toutes les Lois, et tous les sentiments de la Nature. C'est ainsi, ô ma chère Indegonde ! Que je soutiendrai ta querelle, que par le sang des impitoyables Ministres de Levegilde je réparerai la perte de celui que l'inhumaine Goisinte tira de ton beau corps, et que jusqu'à la dernière goutte du mien je défendrai les beaux sentiments que tu m'as inspirés. Dieu de ma chère Indegonde, Dieu que par les charitables instructions de cette moitié de mon âme je reconnais maintenant sans erreur ! Tu pénètres et dans l'innocence de mes intentions, et dans la justice de mes armes. Tu sais, père des hommes et protecteur de l'innocence opprimée, que c'est ici ta querelle, et que c'est moins la considération de mes intérêts et de mon amour, que la défense de ta cause, et de la Religion à laquelle tu m'as appelé qui m'a armé contre les persécutions de nos communs ennemis. Je les ai longtemps souffertes sans murmurer, et tu m'es témoin que si l'on m'eût seulement laissé la liberté de ma conscience et celle de ma chère Indegonde, je me serais soumis aux plus dures conditions qu'un Roi peut imposer au moindre de ses sujets avant que de prendre les armes contre mon père. Tu sais même que j'ai étouffé mes justes ressentiments dans le respect que je lui dois, et qu'au lieu de me venger des inhumains qui m'avaient outragé par la plus sensible partie de mon âme, je me suis seulement tenu sur la défensive, et ne me suis opposé que derrière des murailles à leurs dernières cruautés. C'est ce qui me fait espérer la protection que tu refuses aux causes injustes, et te demander, ou du secours sans l'extrémité où nous sommes réduits par un siège de deux années, ou de la constance pour mourir courageusement dans ta sainte Religion.
 
@@ -101,7 +101,7 @@ Mon âme est dans quelque tranquillité par l'ordre qu'on met à vos affaires, e
 À Dieu ma chère Princesse, aimez la mémoire de votre Herménégilde, et souffrez qu'il vive encore dans votre coeur, c'est le tombeau qu'il vous demande, et la dernière prière qu'il vous fait. Adieu.
 
 
-**** *creator_lacalprenede *book_lacalprenede_hermenegilde *style_prose *genre_tragedy *dist1_lacalprenede_prose_tragedy_hermenegilde *dist2_lacalprenede_prose_tragedy *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_indegonde
+**** *creator_lacalprenede *book_lacalprenede_hermenegilde *style_prose *genre_tragedy *dist1_lacalprenede_prose_tragedy_hermenegilde *dist2_lacalprenede_prose_tragedy *id_INDEGONDE *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_indegonde
 
 Hé bien, Monsieur, êtes-vous toujours résolu à persévérer dans une résistance criminelle, et fatale à vous et à tous les vôtres ? Voulez-vous vous ensevelir dans les ruines de cette ville, et perdre avec vous tant de braves hommes qui s'attachent inséparablement à vos intérêts ? Ne considérez-vous point enfin la nature de vos ennemis : et ne rendez-vous point à votre père ce que vous seriez forcé de rendre à toute sorte d'ennemis dans l'extrémité où vous êtes ?
 
@@ -180,7 +180,7 @@ C'est assez, Sigeric, je suis satisfaite d'Herménégilde puisque le Ciel le doi
 Cessez de me donner des assistances inutiles, et que je ne désire plus de vous, ma vie par la grâce du Ciel et par la faveur d'Herménégilde est arrivée à la fin que je leur ai demandée, je vais rejoindre mon cher mari, et je vole après lui sur les ailes de mon amour. Celui qui me donne ces dernières assistances ne vous abandonnera pas, et vous donnera la récompense de vos services. Je vous recommande cette pauvre fille, ô Godomar, et le soin de fermer mon corps avec celui de mon cher époux, la parole me manque, à Dieu.
 
 
-**** *creator_lacalprenede *book_lacalprenede_hermenegilde *style_prose *genre_tragedy *dist1_lacalprenede_prose_tragedy_hermenegilde *dist2_lacalprenede_prose_tragedy *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_recarede
+**** *creator_lacalprenede *book_lacalprenede_hermenegilde *style_prose *genre_tragedy *dist1_lacalprenede_prose_tragedy_hermenegilde *dist2_lacalprenede_prose_tragedy *id_RECAREDE *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_recarede
 
 Je ne sais, Monsieur mon Frère, de quelle façon je dois traiter avec vous ; si je regarde ces murs bordés de soldats, et ces troupes armées pour la défaite de notre camp, je pense être parmi nos ennemis ; mais si je considère la douceur de cet accueil, et les caresses que vous me faites, je dois reconnaître les marques de cette première affection que vous aviez pour les vôtres, et croire que l'amitié que vous aviez pour moi n'est pas entièrement éteinte.
 
@@ -231,7 +231,7 @@ Seigneur, si vous pouvez encore souffrir à vos pieds celui de vos enfants que v
 Pour moi j'abandonne cette Cour pour jamais, et si votre Majesté a des sceptres à donner après la mort d'Herménégilde, qu'elle en laisse la disposition à Goisinte et à Atalaric, je renonce à des grandeurs achetées par un sang si précieux, et je renonce à une vie que je ne conserverais plus qu'avecque honte puisque j'ai sacrifié moi-même celle de mon cher père à la rage de ses ennemis.
 
 
-**** *creator_lacalprenede *book_lacalprenede_hermenegilde *style_prose *genre_tragedy *dist1_lacalprenede_prose_tragedy_hermenegilde *dist2_lacalprenede_prose_tragedy *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levigilde
+**** *creator_lacalprenede *book_lacalprenede_hermenegilde *style_prose *genre_tragedy *dist1_lacalprenede_prose_tragedy_hermenegilde *dist2_lacalprenede_prose_tragedy *id_LEVIGILDE *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levigilde
 
 Vous êtes aveuglé Recarede, et vous ne connaissez pas ce que la fortune et le crime d'Herménégilde font pour vous, ils vous conduisent au trône que les lois et le rang de la naissance vous défendaient de regarder.
 
@@ -282,7 +282,7 @@ Cette insolence me déplaît qu'on se taise.
 Retirez-vous enfants aveuglés, votre importunité m'irrite, Herménégilde doit périr et toutes vos prières sont désormais criminelles. Toutefois je relâche encore pour vous de ma résolution, et si dans cette extrémité Herménégilde se dispose à m'obéir il se peut encore sauver ; vous irez dans sa prison Atalaric avec les Ministres de ma justice, proposez-lui encore une fois la grâce que je lui offre, s'il veut abandonner sa prétendue Religion, et s'il ne cède à cette première proposition, qu'il meure sans délai. Vous aurez le soin Godomar de faire ramener Indegonde en France, et d'éloigner de nous pour jamais cette malheureuse femme qui a apporté le désordre dans ma maison, voilà ma dernière intention, et les derniers ordres que je donne sur peine de la vie à ceux qui se mettraient en devoir de les emfreindre.
 
 
-**** *creator_lacalprenede *book_lacalprenede_hermenegilde *style_prose *genre_tragedy *dist1_lacalprenede_prose_tragedy_hermenegilde *dist2_lacalprenede_prose_tragedy *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_goisinte
+**** *creator_lacalprenede *book_lacalprenede_hermenegilde *style_prose *genre_tragedy *dist1_lacalprenede_prose_tragedy_hermenegilde *dist2_lacalprenede_prose_tragedy *id_GOISINTE *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_goisinte
 
 Herménégilde ne peut trouver de meilleurs asiles que dans son innocence, et puisqu'il n'est point coupable il ne doit point redouter la justice du roi son père.
 
@@ -311,7 +311,7 @@ Si Herménégilde recouvre la liberté, vous ne devez point douter qu'il ne se s
 Godomar se porte toujours assez facilement à combattre les sentiments de votre Majesté
 
 
-**** *creator_lacalprenede *book_lacalprenede_hermenegilde *style_prose *genre_tragedy *dist1_lacalprenede_prose_tragedy_hermenegilde *dist2_lacalprenede_prose_tragedy *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mathilde
+**** *creator_lacalprenede *book_lacalprenede_hermenegilde *style_prose *genre_tragedy *dist1_lacalprenede_prose_tragedy_hermenegilde *dist2_lacalprenede_prose_tragedy *id_MATHILDE *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mathilde
 
 Mon Frère, abandonnez cette indifférence que vous avez pour la vie, et conservez en vous conservant toute la joie, et la consolation qui nous restent, vous êtes réservé à une meilleure fortune si vous ne la rejetez, et l'Espagne ne vous peut encore regarder que comme son Prince légitime.
 
@@ -326,7 +326,7 @@ Puisque vous êtes si ferme dans une résolution si funeste, et que vous vous se
 Ah ! Seigneur, c'est votre fils, et de plus c'est un fils bien fait, un fils qui a donné à toute l'Espagne de belles espérances, et un fils que vous avez bien aimé, c'est le premier et le plus précieux gage qui vous reste de la Reine notre mère, donnez-le à son souvenir, donnez-le à nos larmes, et donnez-le à votre considération propre, puisque vous ne pouvez le faire périr sans perdre la meilleure partie de vous-même.
 
 
-**** *creator_lacalprenede *book_lacalprenede_hermenegilde *style_prose *genre_tragedy *dist1_lacalprenede_prose_tragedy_hermenegilde *dist2_lacalprenede_prose_tragedy *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hildegarde
+**** *creator_lacalprenede *book_lacalprenede_hermenegilde *style_prose *genre_tragedy *dist1_lacalprenede_prose_tragedy_hermenegilde *dist2_lacalprenede_prose_tragedy *id_HILDEGARDE *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hildegarde
 
 Ô Dieu, faut-il que je sois réduite à pleurer avec ma Princesse au lieu de la consoler, et que pour toutes les assistances que je lui dois, je ne lui donne que des larmes.
 
@@ -341,7 +341,7 @@ Elle revient, elle ouvre les yeux.
 Ô Dieu elle se meurt, et la vie lui manque avec la parole, donnons-lui toutefois les dernières assistances, et ne négligeons rien pour son salut.
 
 
-**** *creator_lacalprenede *book_lacalprenede_hermenegilde *style_prose *genre_tragedy *dist1_lacalprenede_prose_tragedy_hermenegilde *dist2_lacalprenede_prose_tragedy *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_atalaric
+**** *creator_lacalprenede *book_lacalprenede_hermenegilde *style_prose *genre_tragedy *dist1_lacalprenede_prose_tragedy_hermenegilde *dist2_lacalprenede_prose_tragedy *id_ATALARIC *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_atalaric
 
 Les sentiments de la Reine ne peuvent être condamnés, puisque c'est le bien de l'État qu'elle a pour votre Majesté, qui les lui inspirent, et les matières de cette nature sont si délicates, que les moindres conjectures méritent de grands soins et de grands éclaircissements ; puisque votre majesté m'a commandé de lui dire mon opinion, je lui dirai malgré moi, qu'il me semble que l'affaire du Prince doit être examinée et traitée à le rigueur, et que les fautes sont assez exemplaires pour mériter une procédure, qui serve aussi d'exemple à toute la terre.
 
@@ -372,7 +372,7 @@ Godomar a ordre de la ramener en France, et je pense qu'il viendra bientôt la d
 Toutes choses sont prêtes dans la cour prochaine, et c'est là que vous devez être amené si vous n'acceptez encore la grâce que le Roi vous a offerte.
 
 
-**** *creator_lacalprenede *book_lacalprenede_hermenegilde *style_prose *genre_tragedy *dist1_lacalprenede_prose_tragedy_hermenegilde *dist2_lacalprenede_prose_tragedy *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_godomar
+**** *creator_lacalprenede *book_lacalprenede_hermenegilde *style_prose *genre_tragedy *dist1_lacalprenede_prose_tragedy_hermenegilde *dist2_lacalprenede_prose_tragedy *id_GODOMAR *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_godomar
 
 Ô Dieu ! Que son aveuglément est étrange, et que cette passion frénétique, que les artifices de cette femme ont introduits dans son âme, le va précipiter dans de grands malheurs.
 
@@ -411,7 +411,7 @@ Secourons-la Hildegarde, elle n'est qu'évanouie.
 Je crois qu'elle rend véritablement l'âme, ô merveille d'amour et de vertu, faut-il que sa destinée soit si cruelle, et qu'une si belle vie ait une fin si tragique et si déplorable.
 
 
-**** *creator_lacalprenede *book_lacalprenede_hermenegilde *style_prose *genre_tragedy *dist1_lacalprenede_prose_tragedy_hermenegilde *dist2_lacalprenede_prose_tragedy *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sigeric
+**** *creator_lacalprenede *book_lacalprenede_hermenegilde *style_prose *genre_tragedy *dist1_lacalprenede_prose_tragedy_hermenegilde *dist2_lacalprenede_prose_tragedy *id_SIGERIC *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sigeric
 
 Cette dernière considération est très juste, Seigneur, et si votre Altesse me donne la liberté de lui dire ma pensée, je lui représenterai que la seule paix peut établir son repos et ses avantages : ce n'est pas que nous ne soyons tous résolus à suivre votre destinée jusqu'au bout, et que... Mais voici la Princesse.
 

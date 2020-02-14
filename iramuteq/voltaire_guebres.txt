@@ -1,6 +1,6 @@
 
 
-**** *creator_voltaire *book_voltaire_guebres *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_guebres *dist2_voltaire_verse_tragedy *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_iradan
+**** *creator_voltaire *book_voltaire_guebres *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_guebres *dist2_voltaire_verse_tragedy *id_IRADAN *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_iradan
 
 Ah des mêmes chagrins mes sens sont pénétrés ;
 Moins violent que vous, je les ai dévorés :
@@ -639,7 +639,7 @@ Je crois entendre un dieu, du haut d'un trône auguste,
 Qui parle au genre humain pour le rendre plus juste.
 
 
-**** *creator_voltaire *book_voltaire_guebres *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_guebres *dist2_voltaire_verse_tragedy *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_cesene
+**** *creator_voltaire *book_voltaire_guebres *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_guebres *dist2_voltaire_verse_tragedy *id_CESENE *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_cesene
 
 Je suis las de servir. Souffrirons-nous, mon frère,
 Cet avilissement du grade militaire ?
@@ -1018,7 +1018,7 @@ Nos jours étaient affreux, ils sont du moins finis.
 On m'a fermé l'accès.
 
 
-**** *creator_voltaire *book_voltaire_guebres *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_guebres *dist2_voltaire_verse_tragedy *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_jeunearzemon
+**** *creator_voltaire *book_voltaire_guebres *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_guebres *dist2_voltaire_verse_tragedy *id_JEUNEARZEMON *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_jeunearzemon
 
       Ô mort ! Ô Dieu vengeur !
 Ils me l'ont enlevée ; ils m'arrachent le coeur...
@@ -1246,7 +1246,7 @@ Que leur sang satisfasse au sang de l'innocent :
 Mon père, entre vos bras je mourrai trop content.
 
 
-**** *creator_voltaire *book_voltaire_guebres *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_guebres *dist2_voltaire_verse_tragedy *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_arzame
+**** *creator_voltaire *book_voltaire_guebres *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_guebres *dist2_voltaire_verse_tragedy *id_ARZAME *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_arzame
 
 Oui, seigneur, il est vrai.
 
@@ -1688,7 +1688,7 @@ Ainsi nous touchons tous à nos derniers moments !
 Nous tombons tous, seigneur, à vos sacrés genoux.
 
 
-**** *creator_voltaire *book_voltaire_guebres *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_guebres *dist2_voltaire_verse_tragedy *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_megatise
+**** *creator_voltaire *book_voltaire_guebres *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_guebres *dist2_voltaire_verse_tragedy *id_MEGATISE *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_megatise
 
       Des prêtres d'Apamé
 Une horde nombreuse, inquiète, alarmée,
@@ -1878,7 +1878,7 @@ Je sais qu'ils ont proscrit ce généreux vieillard,
 Et le frère et la soeur.
 
 
-**** *creator_voltaire *book_voltaire_guebres *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_guebres *dist2_voltaire_verse_tragedy *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lempereur
+**** *creator_voltaire *book_voltaire_guebres *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_guebres *dist2_voltaire_verse_tragedy *id_LEMPEREUR *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lempereur
 
 Enfin de la justice à mes sujets rendue
 Il est temps qu'en ces lieux la voix soit entendue ;

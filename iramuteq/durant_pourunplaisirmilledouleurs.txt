@@ -1,6 +1,6 @@
 
 
-**** *creator_durant *book_durant_pourunplaisirmilledouleurs *style_prose *genre_proverbe *dist1_durant_prose_proverbe_pourunplaisirmilledouleurs *dist2_durant_prose_proverbe *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elise
+**** *creator_durant *book_durant_pourunplaisirmilledouleurs *style_prose *genre_proverbe *dist1_durant_prose_proverbe_pourunplaisirmilledouleurs *dist2_durant_prose_proverbe *id_ELISE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elise
 
 Avouez, ma bonne, que nous avons eu bien du plaisir ; qu'il est horriblement triste de ne voir que des gens à qui on est destinés qu'une petite escapade n'est pas indifférente de temps en temps.
 
@@ -19,7 +19,7 @@ Quoi ! Alcandre, vous souffrez cet insolent nous dire ?...
 Malheureuse nuit ! Malheureux plaisir, qui nous coûte si cher ! Donnez-nous du moins la consolation de nous mettre Julie et moi dans la même retraite.
 
 
-**** *creator_durant *book_durant_pourunplaisirmilledouleurs *style_prose *genre_proverbe *dist1_durant_prose_proverbe_pourunplaisirmilledouleurs *dist2_durant_prose_proverbe *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+**** *creator_durant *book_durant_pourunplaisirmilledouleurs *style_prose *genre_proverbe *dist1_durant_prose_proverbe_pourunplaisirmilledouleurs *dist2_durant_prose_proverbe *id_JULIE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
 
 Comment, indifférente ! Je la tiens nécessaire, après l'épreuve que nous en avons faite. Quelle facilité n'a point eu le portier de Madame Dubens à tromper sa maîtresse, moyennant une petite rétribution ? Ah ! Sans doute, le ciel aide aux personnes de notre âge, que l'on veut trop contraindre à ne voir que leurs futurs époux.
 
@@ -30,7 +30,7 @@ J'ai tort, Madame, je le confesse : je vous en demande pardon ; je mènerai à l
 Ah ! Lisidor, est-ce là ce que vous m'aviez, juré ? Et si vous êtes aussi rebutant qu'Alcandre, n'aurai-je pas lieu de vous croire ou le plus trompeur, ou le plus lege de tous les hommes !
 
 
-**** *creator_durant *book_durant_pourunplaisirmilledouleurs *style_prose *genre_proverbe *dist1_durant_prose_proverbe_pourunplaisirmilledouleurs *dist2_durant_prose_proverbe *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedubens
+**** *creator_durant *book_durant_pourunplaisirmilledouleurs *style_prose *genre_proverbe *dist1_durant_prose_proverbe_pourunplaisirmilledouleurs *dist2_durant_prose_proverbe *id_MADAMEDUBENS *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedubens
 
 Vous voilà levée de grand matin, ma fille ; votre diligence est surprenante, coiffée, habillée à l'heure qu'il est, vous qui à peine pouvez-vous l'être à l'heure de l'opéra ; et Julie qui est bien aussi paresseuse que vous, vous rend déjà une visite ; il y a quelque mystère à tout ceci.
 
@@ -57,7 +57,7 @@ Je n'ai que trop de penchant vers la clémence : mais il n'y a rien cependant qu
 Oui, Monsieur, je vous la promets, et je réponds pour Madame de Cimiere de la même chose à l'égard de Lisidor. Ne perdons plus de temps après cela, à faire sentir à nos ingrates filles le malheur de leur état.
 
 
-**** *creator_durant *book_durant_pourunplaisirmilledouleurs *style_prose *genre_proverbe *dist1_durant_prose_proverbe_pourunplaisirmilledouleurs *dist2_durant_prose_proverbe *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedecimiere
+**** *creator_durant *book_durant_pourunplaisirmilledouleurs *style_prose *genre_proverbe *dist1_durant_prose_proverbe_pourunplaisirmilledouleurs *dist2_durant_prose_proverbe *id_MADAMEDECIMIERE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedecimiere
 
 Ah, je trouve ma fille ici ! C'est quelque chose du moins qu'elle ait passé la nuit dans une honnête maison ; mais, Madame, oserais-je vous dire que votre santé n'en sera pas meilleure, de faire des veilles si extraordinaires ?
 
@@ -70,7 +70,7 @@ Non, Julie, la nature en vain voudrait parler : vous serez punie, et punie rigou
 Non pas, Mademoiselle, non pas : vous serez séparées ; Madame Dubens y a le même intérêt que moi.
 
 
-**** *creator_durant *book_durant_pourunplaisirmilledouleurs *style_prose *genre_proverbe *dist1_durant_prose_proverbe_pourunplaisirmilledouleurs *dist2_durant_prose_proverbe *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcandre
+**** *creator_durant *book_durant_pourunplaisirmilledouleurs *style_prose *genre_proverbe *dist1_durant_prose_proverbe_pourunplaisirmilledouleurs *dist2_durant_prose_proverbe *id_ALCANDRE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcandre
 
 Il y a une heure que nous attendons à quoi tout ceci aboutira. Mais, mesdames, comme Romarin est un grand harangueur de son naturel, et que nous avons intérêt Lisidor et moi au fait dont il s'agit, je vous dirai que mesdemoiselles vos filles, nos épouses futures, ont passé cette nuit dans une assemblée fort tumultueuse, avec la jeunesse la plus emportée de la Cour ; que leur coquetterie a été poussée si loin, que plusieurs petits-maîtres se font vantés, que la feule occasion leur avait manqué pour achever l'aventure. Nous croyons que ce font médisances : mais ainsi que César, nous ne voulons même pas que nos femmes soient soupçonnées ; et vous trouverez bon, mesdames, s'il vous plaît, que nous reprenions les paroles que nous vous avions données.
 
@@ -81,7 +81,7 @@ Ma foi, Mademoiselle, nous nous croyons dispensés de la politesse que notre sex
 Nous savons, Madame, distinguer les innocentes des coupables : vous voulez bien nous permettre d'espérer que vous ne nous priverez pas de votre amitié ?
 
 
-**** *creator_durant *book_durant_pourunplaisirmilledouleurs *style_prose *genre_proverbe *dist1_durant_prose_proverbe_pourunplaisirmilledouleurs *dist2_durant_prose_proverbe *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_durant *book_durant_pourunplaisirmilledouleurs *style_prose *genre_proverbe *dist1_durant_prose_proverbe_pourunplaisirmilledouleurs *dist2_durant_prose_proverbe *id_LISETTE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Vous voilà toutes deux bien contentes d'une action qui pourra avoir son retour. Vous êtes des ingrates, premièrement ; et ce même ciel, dont vous vous louez, vous punira de ne pas me remercier de tous les tours de souplesse qu'il m'a fallu jouer pour mener cette belle entreprise à bien. Qui est-ce, à votre avis, qui a fait entendre raison au portier ? Qui est-ce qui a suborné le cocher ? Qui lui a fait répandre la litière de toute une année dans la cour, pour qu'on n'entendit point sortir le carrosse ? Qui est-ce enfin, qui avec une adresse inouie, a écarté Romarin d'une maison où sa présence aurait été fort gênante ? C'est à moi, mesdemoiselles, que vous devez ces divers foins ; et avec tout cela, quoique la chose ait été bien conduite, je ne laisse pas de craindre, que ce secret ne s'évente. Vous avez été diablement coquettes avec cette jeunesse éventée ! Quelque curieux aura peut-être suivi le carrosse, et cette nouvelle courra beau train.
 
@@ -98,7 +98,7 @@ Oh ! Bien, mâtin, vas-tu nous accuser d'avoir fait de la fausse monnaie ? Quel 
 Oh ! Pour moi, je ne puis plus me taire : nous avons tort ; car je dois me mettre de la partie, puisque je n'y ai pas été un personnage indifférent. L'étourderie a été complète ; mais qu'on nous accuse de crimes !....
 
 
-**** *creator_durant *book_durant_pourunplaisirmilledouleurs *style_prose *genre_proverbe *dist1_durant_prose_proverbe_pourunplaisirmilledouleurs *dist2_durant_prose_proverbe *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_romarin
+**** *creator_durant *book_durant_pourunplaisirmilledouleurs *style_prose *genre_proverbe *dist1_durant_prose_proverbe_pourunplaisirmilledouleurs *dist2_durant_prose_proverbe *id_ROMARIN *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_romarin
 
 Cessez, Madame, de presser deux coupables qui ne veulent pas s'accuser, je vais vous éclaircir de vos doutes.
 

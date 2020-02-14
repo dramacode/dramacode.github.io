@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dongarcie
+**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *id_DONGARCIE *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dongarcie
 
 Et bien, selon ton ordre as-tu fait son message  ?
 
@@ -208,7 +208,7 @@ Et si de l'intérêt écoutant la chaleur...
 Allons voir ce que c'est.
 
 
-**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donbertran
+**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *id_DONBERTRAN *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donbertran
 
       Je me soutiens à peine,
 Au Diable soit la mule avec le Muletier.
@@ -1138,7 +1138,7 @@ Peut-être que ma Soeur est prête à rendre l'âme,
 Et vous voulez ici faire le gracieux  ?
 
 
-**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donalvar
+**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *id_DONALVAR *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donalvar
 
       Le Ciel, ô Don Garcie,
 Vous comble d'un bonheur où chacun porte envie !
@@ -1487,7 +1487,7 @@ De grâce oublions tout.
 Suivons, et devant lui ne parlons que des yeux.
 
 
-**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donfelix
+**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *id_DONFELIX *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donfelix
 
 Ô lieu pour moi funeste ! Hélas, Mendoce, hélas !
 Ne me demande point le sujet qui m'amène ;
@@ -1743,7 +1743,7 @@ L'envoyer par Amis, ou par lettres de change.
 Je craignais autre chose, adieu.
 
 
-**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonor
+**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *id_LEONOR *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonor
 
 Quand vous vous marierez il n'y paraîtra plus.
 
@@ -1923,7 +1923,7 @@ Mais s'il se résolvait enfin à m'épouser  ?
 Quoi, sur sa trahison loin de le quereller...
 
 
-**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *id_ISABELLE *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
 
 Jacinte, que veux-tu  ? J'en suis au désespoir,
 Mais dans mon déplaisir j'écoute mon devoir,
@@ -2351,7 +2351,7 @@ Après un tel bienfait...
       Est-il un plus grand fou  ?
 
 
-**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jacinte
+**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *id_JACINTE *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jacinte
 
 L'affaire me paraît bientôt expédiée.
 Vous, aujourd'hui promise, et demain mariée !
@@ -2571,7 +2571,7 @@ D'aimer... mais je l'entends, ce me semble, à sa toux.
 De peur d'être surprise, adieu, je me retire.
 
 
-**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guzman
+**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *id_GUZMAN *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guzman
 
       Don Alvar, Madame, ici m'envoie.
 
@@ -3048,7 +3048,7 @@ Je pense bien plutôt qu'elle s'est évanouie,
 L'Hôtesse tout à l'heure appelait au secours.
 
 
-**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mendoce
+**** *creator_corneillet *book_corneillet_dombertrandecigarral *style_verse *genre_comedy *dist1_corneillet_verse_comedy_dombertrandecigarral *dist2_corneillet_verse_comedy *id_MENDOCE *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mendoce
 
 À la fin nous voici, Monsieur, dans Yllescas.
 

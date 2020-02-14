@@ -1,6 +1,6 @@
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_galathee *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_galathee *dist2_cubieres-palmezeaux_verse_comedy *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pigmalion
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_galathee *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_galathee *dist2_cubieres-palmezeaux_verse_comedy *id_PIGMALION *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pigmalion
 
 Hélas ! Ma Galathée, il faut s'y préparer.
 
@@ -320,7 +320,7 @@ La cherche vainement. Il parlait à des arbres.
 Ton Art s'étend plus loin, tu fais vivre des marbres.
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_galathee *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_galathee *dist2_cubieres-palmezeaux_verse_comedy *date_1777 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_galathee
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_galathee *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_galathee *dist2_cubieres-palmezeaux_verse_comedy *id_GALATHEE *date_1777 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_galathee
 
 Eh ! Quoi ? Sitôt nous séparer !
 
@@ -688,7 +688,7 @@ Tous les dehors sacrés d'un ministre des Dieux.
 Qui le suivait...
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_galathee *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_galathee *dist2_cubieres-palmezeaux_verse_comedy *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_parmenon
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_galathee *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_galathee *dist2_cubieres-palmezeaux_verse_comedy *id_PARMENON *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_parmenon
 
       Me voilà.
 

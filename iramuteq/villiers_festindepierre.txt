@@ -1,6 +1,6 @@
 
 
-**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donalvaros
+**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *id_donalvaros *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donalvaros
 
       Ah, malheur déplorable !
 Père trop malheureux d'un enfant exécrable !
@@ -149,7 +149,7 @@ Oui, plutôt que de voir les maux que j'appréhende,
 Dieux, donnez-moi la mort que mon coeur vous demande.
 
 
-**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjuan
+**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *id_donjuan *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjuan
 
 Je vous y préviendrai, pour vous faire connaître
 Qu'un amant méprisé méprise le danger,
@@ -862,7 +862,7 @@ Sache que ni l'Enfer, ni le Ciel ne me touche,
 Et que c'est un arrêt prononcé par ma bouche.
 
 
-**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donphilippe
+**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *id_donphilippe *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donphilippe
 
 Adorable beauté pour qui mon coeur soupire,
 Incomparable objet dont j'adore l'empire,
@@ -1027,7 +1027,7 @@ Il faut que de ces mains...
 Adorable Amarille, hélas ! plaignez mon sort.
 
 
-**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amarille
+**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *id_amarille *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amarille
 
 Vraiment, vous tardez bien à me venir trouver !
 
@@ -1181,7 +1181,7 @@ De toutes les bontés que vous avez pour moi ?
 Non, non, songez plutôt...
 
 
-**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucie
+**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *id_lucie *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucie
 
 Don Philippe, Madame...
 
@@ -1233,7 +1233,7 @@ Ne vous en pensez pas moquer, je sais fort bien
 Qu'il ne s'ennuierait pas dedans mon entretien.
 
 
-**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_prevot
+**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *id_prevot *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_prevot
 
 Madame, je sais trop le sujet de vos plaintes,
 Je sais avec combien de sensibles atteintes
@@ -1328,7 +1328,7 @@ Enfants, retirons-nous, et craignons sa puissance.
 Seigneur.
 
 
-**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_archers
+**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *id_archers *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_archers
 
 Monsieur, je vous promets, quand il aurait cent bras,
 Dès que je le joindrai, de le porter à bas ;
@@ -1342,7 +1342,7 @@ Roquetaillade, avance à moi.
 Mais prenons garde aussi, Monsieur, de nous méprendre.
 
 
-**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pelerin
+**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *id_pelerin *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pelerin
 
 Cour, jadis mes plus grandes délices,
 Cour, le plus grand de mes supplices,
@@ -1433,7 +1433,7 @@ Ne m'ont jamais tenté.
 Entrons dans cette grotte où j'aurai moins de honte.
 
 
-**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_oriane
+**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *id_oriane *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_oriane
 
 Mais l'on en pense mal.
 
@@ -1550,7 +1550,7 @@ Dont la Justice enfin me va faire raison :
 Je n'en puis plus, sortons de ce lieu si funeste.
 
 
-**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_belinde
+**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *id_belinde *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_belinde
 
 Ma Mère, sans mentir, presse trop mon devoir.
 
@@ -1624,7 +1624,7 @@ Mais après tout, Monsieur, que voulez vous nous dire ?
       Cher Damon !
 
 
-**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philemon
+**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *id_philemon *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philemon
 
 Non, non, je ne puis pas croire que de mon âge
 On ait jamais parlé d'un semblable naufrage :
@@ -1761,7 +1761,7 @@ Qu'est devenu ton maître, et sans déguisement.
 La mort enfin nous rend les plus heureux du monde.
 
 
-**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_spectre
+**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *id_spectre *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_spectre
 
       Oui.
 
@@ -1887,7 +1887,7 @@ Et les loups dévorants, les chiens et les corbeaux.
 Trébuche, malheureux, dans la nuit éternelle.
 
 
-**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philipin
+**** *creator_villiers *book_villiers_festindepierre *style_verse *genre_comedy *dist1_villiers_verse_comedy_festindepierre *dist2_villiers_verse_comedy *id_philipin *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philipin
 
 Monsieur, un tel souhait n'est pas fort raisonnable ;
 Si Madame la Mort au coeur impitoyable

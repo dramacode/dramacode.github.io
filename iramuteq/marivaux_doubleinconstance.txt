@@ -1,6 +1,6 @@
 
 
-**** *creator_marivaux *book_marivaux_doubleinconstance *style_prose *genre_comedy *dist1_marivaux_prose_comedy_doubleinconstance *dist2_marivaux_prose_comedy *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leprince
+**** *creator_marivaux *book_marivaux_doubleinconstance *style_prose *genre_comedy *dist1_marivaux_prose_comedy_doubleinconstance *dist2_marivaux_prose_comedy *id_LEPRINCE *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leprince
 
 Eh bien, as-tu quelque espérance à me donner ? Que dit-elle ?
 
@@ -155,7 +155,7 @@ Notre union est donc assurée !
 Flaminia, c'est à vous que je remets Arlequin ; je l'estime et je vais le combler de biens. Toi, Arlequin, accepte de ma main Flaminia pour épouse, et sois pour jamais assuré de la bienveillance de ton prince. Belle Silvia, souffrez que des fêtes qui vous sont préparées annoncent ma joie à des sujets dont vous allez être la souveraine.
 
 
-**** *creator_marivaux *book_marivaux_doubleinconstance *style_prose *genre_comedy *dist1_marivaux_prose_comedy_doubleinconstance *dist2_marivaux_prose_comedy *date_1723 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_flaminia
+**** *creator_marivaux *book_marivaux_doubleinconstance *style_prose *genre_comedy *dist1_marivaux_prose_comedy_doubleinconstance *dist2_marivaux_prose_comedy *id_FLAMINIA *date_1723 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_flaminia
 
 J'ai déjà dit la même chose au Prince, mais cela est inutile. Ainsi continuons, et ne songeons qu'à détruire l'amour de Silvia pour Arlequin.
 
@@ -459,7 +459,7 @@ Eh bien, il vous aime encore, et vous en êtes fâchée ; que vous faut-il donc 
 Votre amant vous cherche ; croyez-moi, finissez avec lui sans vous inquiéter du reste.
 
 
-**** *creator_marivaux *book_marivaux_doubleinconstance *style_prose *genre_comedy *dist1_marivaux_prose_comedy_doubleinconstance *dist2_marivaux_prose_comedy *date_1723 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_marivaux *book_marivaux_doubleinconstance *style_prose *genre_comedy *dist1_marivaux_prose_comedy_doubleinconstance *dist2_marivaux_prose_comedy *id_LISETTE *date_1723 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Je viens recevoir tes ordres, que me veux-tu ?
 
@@ -578,7 +578,7 @@ Vous me répondez d'une étrange manière ! Quoi qu'il en soit, avant qu'il soit
 Adieu, Mademoiselle, chacune de nous fera ce qu'elle pourra. J'ai satisfait à ce qu'on exigeait de moi à votre égard, et je vous prie d'oublier tout ce qui s'est passé entre nous !
 
 
-**** *creator_marivaux *book_marivaux_doubleinconstance *style_prose *genre_comedy *dist1_marivaux_prose_comedy_doubleinconstance *dist2_marivaux_prose_comedy *date_1723 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_silvia
+**** *creator_marivaux *book_marivaux_doubleinconstance *style_prose *genre_comedy *dist1_marivaux_prose_comedy_doubleinconstance *dist2_marivaux_prose_comedy *id_SILVIA *date_1723 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_silvia
 
 Vous m'ennuyez.
 
@@ -853,7 +853,7 @@ Ah, mon cher Prince ! J'allais faire un beau serment ; si vous avez cherché le 
 Eh bien, Arlequin, je n'aurai donc pas la peine de vous le dire ; consolez-vous comme vous pourrez de vous-même ; le Prince vous parlera, j'ai le coeur tout entrepris : voyez, accommodez-vous, il n'y a plus de raison à moi, c'est la vérité. Qu'est-ce que vous me diriez ? Que je vous quitte. Qu'est-ce que je vous répondrais ? Que je le sais bien. Prenez que vous l'avez dit, prenez que j'ai répondu, laissez-moi après, et voilà qui sera fini.
 
 
-**** *creator_marivaux *book_marivaux_doubleinconstance *style_prose *genre_comedy *dist1_marivaux_prose_comedy_doubleinconstance *dist2_marivaux_prose_comedy *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_marivaux *book_marivaux_doubleinconstance *style_prose *genre_comedy *dist1_marivaux_prose_comedy_doubleinconstance *dist2_marivaux_prose_comedy *id_ARLEQUIN *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Que diantre, qu'est-ce que cette maison-là et moi avons affaire ensemble ? Qu'est-ce que c'est que vous ? Que me voulez-vous ? Où allons-nous ?
 
@@ -1404,7 +1404,7 @@ J'ai tout entendu, Silvia.
 À présent, je me moque du tour que notre amitié nous a joué ; patience, tantôt nous lui en jouerons d'un autre !
 
 
-**** *creator_marivaux *book_marivaux_doubleinconstance *style_prose *genre_comedy *dist1_marivaux_prose_comedy_doubleinconstance *dist2_marivaux_prose_comedy *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trivelin
+**** *creator_marivaux *book_marivaux_doubleinconstance *style_prose *genre_comedy *dist1_marivaux_prose_comedy_doubleinconstance *dist2_marivaux_prose_comedy *id_TRIVELIN *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trivelin
 
 Mais, Madame, écoutez-moi.
 

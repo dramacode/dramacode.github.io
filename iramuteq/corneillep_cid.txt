@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillep *book_corneillep_cid *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cid *dist2_corneillep_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_fernand
+**** *creator_corneillep *book_corneillep_cid *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cid *dist2_corneillep_verse_tragedy *id_FERNAND *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_fernand
 
 Le Comte est donc si vain, et si peu raisonnable !
 Ose-t-il croire encor son crime pardonnable ?
@@ -244,7 +244,7 @@ Pour vaincre un point d'honneur qui combat contre toi,
 Laisse faire le temps, ta vaillance et ton roi.
 
 
-**** *creator_corneillep *book_corneillep_cid *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cid *dist2_corneillep_verse_tragedy *date_1637 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_infante
+**** *creator_corneillep *book_corneillep_cid *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cid *dist2_corneillep_verse_tragedy *id_INFANTE *date_1637 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_infante
 
 Va-t-en trouver Chimène, et lui dit de ma part
 Qu'aujourd'hui pour me voir elle attend un peu tard,
@@ -521,7 +521,7 @@ Sèche tes pleurs, Chimène, et reçois sans tristesse
 Ce généreux vainqueur des mains de ta princesse.
 
 
-**** *creator_corneillep *book_corneillep_cid *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cid *dist2_corneillep_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_diegue
+**** *creator_corneillep *book_corneillep_cid *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cid *dist2_corneillep_verse_tragedy *id_DIEGUE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_diegue
 
 Cette marque d'honneur qu'il met dans ma famille
 Montre à tous qu'il est juste, et fait connaître assez
@@ -807,7 +807,7 @@ Enfin, elle aime, Sire, et ne croit plus un crime
 D'avouer par sa bouche un amour légitime.
 
 
-**** *creator_corneillep *book_corneillep_cid *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cid *dist2_corneillep_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_comte
+**** *creator_corneillep *book_corneillep_cid *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cid *dist2_corneillep_verse_tragedy *id_COMTE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_comte
 
 Elle est dans le devoir, tous deux sont dignes d'elle,
 Tous deux formés d'un sang, noble, vaillants, fidèle,
@@ -981,7 +981,7 @@ Viens, tu fais ton devoir, et le fils dégénère
 Qui survit un moment à l'honneur de son père.
 
 
-**** *creator_corneillep *book_corneillep_cid *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cid *dist2_corneillep_verse_tragedy *date_1637 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_rodrigue
+**** *creator_corneillep *book_corneillep_cid *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cid *dist2_corneillep_verse_tragedy *id_RODRIGUE *date_1637 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_rodrigue
 
       Tout autre que mon père
 L'éprouverait sur l'heure.
@@ -1443,7 +1443,7 @@ Quoi qu'absent de ses yeux il me faille endurer,
 Sire, ce m'est trop d'heur de pouvoir espérer.
 
 
-**** *creator_corneillep *book_corneillep_cid *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cid *dist2_corneillep_verse_tragedy *date_1637 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_sanche
+**** *creator_corneillep *book_corneillep_cid *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cid *dist2_corneillep_verse_tragedy *id_SANCHE *date_1637 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_sanche
 
 Peut-être un peu de temps le rendrait moins rebelle,
 On l'a pris tout bouillant encor de sa querelle,
@@ -1517,7 +1517,7 @@ Perdant infiniment, j'aime encor ma défaite,
 Qui fait le beau succès d'une amour si parfaite.
 
 
-**** *creator_corneillep *book_corneillep_cid *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cid *dist2_corneillep_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arias
+**** *creator_corneillep *book_corneillep_cid *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cid *dist2_corneillep_verse_tragedy *id_ARIAS *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arias
 
 Qu'aux volontés du roi ce grand courage cède,
 Il y prend grande part, et son coeur irrité
@@ -1567,7 +1567,7 @@ Combien votre présence assure vos conquêtes.
 Vous n'avez rien à craindre.
 
 
-**** *creator_corneillep *book_corneillep_cid *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cid *dist2_corneillep_verse_tragedy *date_1637 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_chimene
+**** *creator_corneillep *book_corneillep_cid *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cid *dist2_corneillep_verse_tragedy *id_CHIMENE *date_1637 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_chimene
 
 Et bien, Elvire, enfin, que faut-il que j'espère ?
 Que dois-je devenir, et que t'as dit mon père ?
@@ -2128,7 +2128,7 @@ Et souiller mon honneur d'un reproche éternel,
 D'avoir trempé mes mains dans le sang paternel.
 
 
-**** *creator_corneillep *book_corneillep_cid *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cid *dist2_corneillep_verse_tragedy *date_1637 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_leonor
+**** *creator_corneillep *book_corneillep_cid *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cid *dist2_corneillep_verse_tragedy *id_LEONOR *date_1637 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_leonor
 
 Madame, chaque jour même désir vous presse,
 Et dans son entretien je vous vois chaque jour
@@ -2211,7 +2211,7 @@ Puisse l'autoriser à paraître apaisée.
 Le Ciel vous doit un Roi, vous aimez un sujet.
 
 
-**** *creator_corneillep *book_corneillep_cid *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cid *dist2_corneillep_verse_tragedy *date_1637 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_elvire
+**** *creator_corneillep *book_corneillep_cid *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cid *dist2_corneillep_verse_tragedy *id_ELVIRE *date_1637 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_elvire
 
 Entre tous ces amants dont la jeune ferveur
 Adore votre fille, et brigue ma faveur,
@@ -2342,7 +2342,7 @@ Vous lairra par sa mort Don Sanche pour époux.
 Mais, Madame, écoutez.
 
 
-**** *creator_corneillep *book_corneillep_cid *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cid *dist2_corneillep_verse_tragedy *date_1637 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_page
+**** *creator_corneillep *book_corneillep_cid *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cid *dist2_corneillep_verse_tragedy *id_PAGE *date_1637 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_page
 
 Par vos commandements Chimène vous vient voir.
 

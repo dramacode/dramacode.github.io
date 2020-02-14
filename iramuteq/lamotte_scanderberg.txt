@@ -1,6 +1,6 @@
 
 
-**** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
+**** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *id_MELPOMENE *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
 
 De l'Antiquité mémorable
 J'ai chanté les héros fameux :
@@ -33,7 +33,7 @@ Qu'importe que le sort ait trahi ses désirs ?
 Tu règnes par les pleurs, comme par les plaisirs.
 
 
-**** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amurat
+**** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *id_AMURAT *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amurat
 
 Voyez, charmante Servilie,
 Quels sont mes premiers soins en entrant dans ces lieux ;
@@ -237,7 +237,7 @@ Loin de moi, va pleurer notre commun malheur,
 Que s'il se peut la gloire le répare.
 
 
-**** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roxane
+**** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *id_ROXANE *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roxane
 
 Toi qui pour ce héros fit naître mon ardeur,
 Amour ! Daigne en ce jour daigne fléchir son coeur.
@@ -416,7 +416,7 @@ Sultan, connais l'objet dont ton coeur est charmé,
 Ce Prince est ton rival ; ce rival est aimé.
 
 
-**** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_scanderberg
+**** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *id_SCANDERBERG *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_scanderberg
 
 Enfin, Osman, le jour qui commence à nous luire,
 Sera-t-il le dernier de ma captivité ?
@@ -612,7 +612,7 @@ Non, je ne puis survivre à son destin fatal.
 Assouvis-toi, cruel ! Du sang de ton rival.
 
 
-**** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_servilie
+**** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *id_SERVILIE *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_servilie
 
       Où suis-je ! justes Cieux !
 Ah ! Cher Prince, est-ce vous ?
@@ -729,7 +729,7 @@ Oubliez tous deux vos fureurs :
 Que ma mort vous réconcilie.
 
 
-**** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_osman
+**** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *id_OSMAN *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_osman
 
 Princes, à vos desseins tout conspire ;
 J'ai su hâter l'instant de votre liberté.
@@ -764,7 +764,7 @@ Le peuple loin des murs l'est allé recevoir.
 Je vous laisse, et je vole où mon devoir m'appelle.
 
 
-**** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemuphti
+**** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *id_LEMUPHTI *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemuphti
 
 
 

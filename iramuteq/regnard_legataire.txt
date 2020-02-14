@@ -1,6 +1,6 @@
 
 
-**** *creator_regnard *book_regnard_legataire *style_verse *genre_comedy *dist1_regnard_verse_comedy_legataire *dist2_regnard_verse_comedy *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_geronte
+**** *creator_regnard *book_regnard_legataire *style_verse *genre_comedy *dist1_regnard_verse_comedy_legataire *dist2_regnard_verse_comedy *id_GERONTE *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_geronte
 
 Ah ! Bonjour, mon neveu.
 
@@ -546,7 +546,7 @@ Fléaux plus dangereux, animaux plus funestes
 Que ne fusent jamais les guerres ni les pestes.
 
 
-**** *creator_regnard *book_regnard_legataire *style_verse *genre_comedy *dist1_regnard_verse_comedy_legataire *dist2_regnard_verse_comedy *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+**** *creator_regnard *book_regnard_legataire *style_verse *genre_comedy *dist1_regnard_verse_comedy_legataire *dist2_regnard_verse_comedy *id_ERASTE *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
 
       Ah ! Te voilà, Lisette !
 Guéris-moi, si tu peux, du soin qui m'inquiète.
@@ -1096,7 +1096,7 @@ Voulez-vous aujourd'hui nous désespérer tous ?
       Quelle action de grâce !...
 
 
-**** *creator_regnard *book_regnard_legataire *style_verse *genre_comedy *dist1_regnard_verse_comedy_legataire *dist2_regnard_verse_comedy *date_1704 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameargante
+**** *creator_regnard *book_regnard_legataire *style_verse *genre_comedy *dist1_regnard_verse_comedy_legataire *dist2_regnard_verse_comedy *id_MADAMEARGANTE *date_1704 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameargante
 
 Nous avons, ce matin, appris de vos nouvelles,
 Qui nous ont mis pour vous en des peines mortelles.
@@ -1158,7 +1158,7 @@ Qu'il prenne à vos désirs un sentiment contraire ?
 Je crois que vous et moi nous ne saurions mieux faire.
 
 
-**** *creator_regnard *book_regnard_legataire *style_verse *genre_comedy *dist1_regnard_verse_comedy_legataire *dist2_regnard_verse_comedy *date_1704 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+**** *creator_regnard *book_regnard_legataire *style_verse *genre_comedy *dist1_regnard_verse_comedy_legataire *dist2_regnard_verse_comedy *id_ISABELLE *date_1704 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
 
 Je ne sais pas, monsieur, pour quoi vous me prenez ;
 Mais ce choix m'interdit, et vous me surprenez.
@@ -1214,7 +1214,7 @@ Non, monsieur, je vous jure ; il est en son entier,
 Et vous retrouverez jusqu'au moindre papier.
 
 
-**** *creator_regnard *book_regnard_legataire *style_verse *genre_comedy *dist1_regnard_verse_comedy_legataire *dist2_regnard_verse_comedy *date_1704 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_regnard *book_regnard_legataire *style_verse *genre_comedy *dist1_regnard_verse_comedy_legataire *dist2_regnard_verse_comedy *id_LISETTE *date_1704 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Bonjour, Crispin, bonjour.
 
@@ -1864,7 +1864,7 @@ Eh ! Monsieur.
 J'ai du bien maintenant assez pour être sage.
 
 
-**** *creator_regnard *book_regnard_legataire *style_verse *genre_comedy *dist1_regnard_verse_comedy_legataire *dist2_regnard_verse_comedy *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
+**** *creator_regnard *book_regnard_legataire *style_verse *genre_comedy *dist1_regnard_verse_comedy_legataire *dist2_regnard_verse_comedy *id_CRISPIN *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
 
       Bonjour, belle Lisette.
 Mon maître, toujours plein du soin qui l'inquiète,
@@ -2645,7 +2645,7 @@ Et femme au par-dessus : mais ce n'est pas assez ;
 Je renonce à mon legs, si vous n'applaudissez.
 
 
-**** *creator_regnard *book_regnard_legataire *style_verse *genre_comedy *dist1_regnard_verse_comedy_legataire *dist2_regnard_verse_comedy *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurscrupule
+**** *creator_regnard *book_regnard_legataire *style_verse *genre_comedy *dist1_regnard_verse_comedy_legataire *dist2_regnard_verse_comedy *id_MONSIEURSCRUPULE *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurscrupule
 
 Cela ne vous doit point chagriner un moment ;
 Rien n'est désespéré : cette cérémonie
@@ -2753,7 +2753,7 @@ Quel éclaircissement voulez-vous qu'on vous donne ?
 Et je n'écris jamais que ce que l'on m'ordonne.
 
 
-**** *creator_regnard *book_regnard_legataire *style_verse *genre_comedy *dist1_regnard_verse_comedy_legataire *dist2_regnard_verse_comedy *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgaspard
+**** *creator_regnard *book_regnard_legataire *style_verse *genre_comedy *dist1_regnard_verse_comedy_legataire *dist2_regnard_verse_comedy *id_MONSIEURGASPARD *date_1704 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgaspard
 
 D'ordinaire, monsieur, nous apportons nos soins
 Que ces actes secrets se passent sans témoins.

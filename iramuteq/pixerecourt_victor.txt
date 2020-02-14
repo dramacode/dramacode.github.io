@@ -1,6 +1,6 @@
 
 
-**** *creator_pixerecourt *book_pixerecourt_victor *style_prose *genre_drame *dist1_pixerecourt_prose_drame_victor *dist2_pixerecourt_prose_drame *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roger
+**** *creator_pixerecourt *book_pixerecourt_victor *style_prose *genre_drame *dist1_pixerecourt_prose_drame_victor *dist2_pixerecourt_prose_drame *id_ROGER *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roger
 
 Moi, fuir !... Amis, secondez ma fureur.
 
@@ -118,7 +118,7 @@ J'ai voulu te voir à mes derniers moments, mon fils, j'ai voulu te faire l'aveu
 Vous à qui je dois le bonheur d'avoir vu mon fils, et qui l'avez préservé de la séduction et des crimes auxquels mon exemple aurait pu le porter ; vous qui méritez seul d'être nommé son père, ne l'abandonnez pas ; oubliez le sang dont il sort pour ne vous souvenir que de ses vertus... Consentez à l'unir à votre fille. Combien sa douleur m'avait ému ! Ah ! Si la mort n'était pas venue m'arracher à tout ce que j'aime, Roger aurait pu vous forcer peut-être à l'estimer, Clémence aurait pu sans rougir se nommer ma fille... Adieu... Victor... N'oublie jamais mon exemple... Mes remords... Que ce triste moment soit sans cesse présent à ta pensée... qu'il te rappelle qu'il est une heure suprême, où le coupable ne peut plus se faire illusion sur ces crimes, adieu... Pardonne-moi ta triste existence.
 
 
-**** *creator_pixerecourt *book_pixerecourt_victor *style_prose *genre_drame *dist1_pixerecourt_prose_drame_victor *dist2_pixerecourt_prose_drame *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_victor
+**** *creator_pixerecourt *book_pixerecourt_victor *style_prose *genre_drame *dist1_pixerecourt_prose_drame_victor *dist2_pixerecourt_prose_drame *id_VICTOR *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_victor
 
 Oui, je dois fuir ce séjour ; l'honneur l'exige. Ce château où l'on éleva mon enfance ; ce jardin où je reçus cent fois les innocentes caresses de ma Clémence, de Clémence qui ne voit qu'un frère dans celui que le plus violent amour consume, je quitterai tout... Oui, tout. Mais mon protecteur !... Cet homme respectable et vertueux qui compte sur moi pour adoucir les ennuis de sa vieillesse ; aurai-je bien le courage de l'abandonner ?... Ingrat Victor ! L'as-tu pu concevoir cet affreux projet ?... Et pourquoi fuir ?... Si je lui déclarais mon amour pour sa fille, cet amour pur et fondé sur la reconnaissance, pourrait-il me repousser de son sein après m'avoir tant de fois accable des bontés les plus touchantes ?... Non Le baron de Fritzierne est sage, il fait peu de cas de la naissance, des dons de la fortune : il n'estime que l'honneur et la probité ; il me jugera digne de sa fille, il nous unira !... Ô ma Clémence !... Et que dis-je, insensé !... Toi, malheureux enfant, trouvé dans une foret : toi, sans parents, sans amis, sans appui sur la terre, tu deviendrais le gendre de l'un des plus riches seigneurs d'Allemagne !... Non, non. Victor ; cesse de t'abuser : ce bonheur n'est pas fait pour toi. Fuis, malheureux !... Fuis des lieux que ta présence ne tarderait point à troubler.
 
@@ -530,7 +530,7 @@ Mais Roger, pourquoi nous retenir ?
 Adieu, Roger.
 
 
-**** *creator_pixerecourt *book_pixerecourt_victor *style_prose *genre_drame *dist1_pixerecourt_prose_drame_victor *dist2_pixerecourt_prose_drame *date_1798 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_valentin
+**** *creator_pixerecourt *book_pixerecourt_victor *style_prose *genre_drame *dist1_pixerecourt_prose_drame_victor *dist2_pixerecourt_prose_drame *id_VALENTIN *date_1798 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_valentin
 
 Non, monsieur, vous ne fuirez pas.
 
@@ -706,7 +706,7 @@ Les voilà !... Les voilà !... Sauvez-les...
 Les enragés ; comme ils y allaient !
 
 
-**** *creator_pixerecourt *book_pixerecourt_victor *style_prose *genre_drame *dist1_pixerecourt_prose_drame_victor *dist2_pixerecourt_prose_drame *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_forban
+**** *creator_pixerecourt *book_pixerecourt_victor *style_prose *genre_drame *dist1_pixerecourt_prose_drame_victor *dist2_pixerecourt_prose_drame *id_FORBAN *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_forban
 
 Merci, l'ami. Jamais porte ne fut ouverte plus à propos.
 
@@ -766,7 +766,7 @@ Laisse-moi venger mes camarades.
 Le voici.
 
 
-**** *creator_pixerecourt *book_pixerecourt_victor *style_prose *genre_drame *dist1_pixerecourt_prose_drame_victor *dist2_pixerecourt_prose_drame *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_morneck
+**** *creator_pixerecourt *book_pixerecourt_victor *style_prose *genre_drame *dist1_pixerecourt_prose_drame_victor *dist2_pixerecourt_prose_drame *id_MORNECK *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_morneck
 
 Forban, les prises sont-elles considérables ?
 
@@ -791,7 +791,7 @@ Capitaine, un envoyé du baron de Fritzierne demande à te voir.
 Capitaine, le corps considérable qui nous poursuit, et que nos vedettes avaient signalé hier, s'avance sur la forêt. Si tu n'y prends garde, nous ne tarderons point à être investis.
 
 
-**** *creator_pixerecourt *book_pixerecourt_victor *style_prose *genre_drame *dist1_pixerecourt_prose_drame_victor *dist2_pixerecourt_prose_drame *date_1798 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clemence
+**** *creator_pixerecourt *book_pixerecourt_victor *style_prose *genre_drame *dist1_pixerecourt_prose_drame_victor *dist2_pixerecourt_prose_drame *id_CLEMENCE *date_1798 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clemence
 
 Bonjour Victor.
 
@@ -931,7 +931,7 @@ Ah, Victor ! Qu'allons-nous devenir ?
 Pauvre Victor ! Quels dangers tu as couru !
 
 
-**** *creator_pixerecourt *book_pixerecourt_victor *style_prose *genre_drame *dist1_pixerecourt_prose_drame_victor *dist2_pixerecourt_prose_drame *date_1798 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamegermain
+**** *creator_pixerecourt *book_pixerecourt_victor *style_prose *genre_drame *dist1_pixerecourt_prose_drame_victor *dist2_pixerecourt_prose_drame *id_MADAMEGERMAIN *date_1798 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamegermain
 
 Ah ! Monsieur le Baron ! Parlez.... Rendez-moi la vie. Vous venez de recevoir une lettre ?
 

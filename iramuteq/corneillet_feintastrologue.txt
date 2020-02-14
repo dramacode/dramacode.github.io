@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillet *book_corneillet_feintastrologue *style_verse *genre_comedy *dist1_corneillet_verse_comedy_feintastrologue *dist2_corneillet_verse_comedy *date_1651 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_leonard
+**** *creator_corneillet *book_corneillet_feintastrologue *style_verse *genre_comedy *dist1_corneillet_verse_comedy_feintastrologue *dist2_corneillet_verse_comedy *id_leonard *date_1651 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_leonard
 
 Quelle affaire avez-vous avec ce Cavalier⁎ ?
 
@@ -282,7 +282,7 @@ Allons y donner ordre, et d'un esprit content
 Asseurer à D. Juan le bonheur qu'il attend.
 
 
-**** *creator_corneillet *book_corneillet_feintastrologue *style_verse *genre_comedy *dist1_corneillet_verse_comedy_feintastrologue *dist2_corneillet_verse_comedy *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_d.juan
+**** *creator_corneillet *book_corneillet_feintastrologue *style_verse *genre_comedy *dist1_corneillet_verse_comedy_feintastrologue *dist2_corneillet_verse_comedy *id_d.-juan *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_d.juan
 
 Qui va là ?
 
@@ -523,7 +523,7 @@ O joye inesperée ! ô supréme bon-heur !
 D'une femme en couroux la menace est frivole.
 
 
-**** *creator_corneillet *book_corneillet_feintastrologue *style_verse *genre_comedy *dist1_corneillet_verse_comedy_feintastrologue *dist2_corneillet_verse_comedy *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_d.fernand
+**** *creator_corneillet *book_corneillet_feintastrologue *style_verse *genre_comedy *dist1_corneillet_verse_comedy_feintastrologue *dist2_corneillet_verse_comedy *id_d.-fernand *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_d.fernand
 
 Que ce que tu me dis m'embarasse l'esprit !
 Est-il vray, Philipin ?
@@ -1163,7 +1163,7 @@ Je vous entretiendray⁎ de mon Astrologie⁎⁎,
 Mais il faut que ce soit avec plus de loisir.
 
 
-**** *creator_corneillet *book_corneillet_feintastrologue *style_verse *genre_comedy *dist1_corneillet_verse_comedy_feintastrologue *dist2_corneillet_verse_comedy *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_d.lope
+**** *creator_corneillet *book_corneillet_feintastrologue *style_verse *genre_comedy *dist1_corneillet_verse_comedy_feintastrologue *dist2_corneillet_verse_comedy *id_d.-lope *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_d.lope
 
       Et tousjours miserable⁎.
  
@@ -1338,7 +1338,7 @@ Encor tout maintenant⁎ il vient d'entrer chez elle.
       Madame !
 
 
-**** *creator_corneillet *book_corneillet_feintastrologue *style_verse *genre_comedy *dist1_corneillet_verse_comedy_feintastrologue *dist2_corneillet_verse_comedy *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_d.louis
+**** *creator_corneillet *book_corneillet_feintastrologue *style_verse *genre_comedy *dist1_corneillet_verse_comedy_feintastrologue *dist2_corneillet_verse_comedy *id_d.-louis *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_d.louis
 
       De vostre joye, amy, faites moy part.
 Vous me semblez tout gay. Pour moy je m'imagine
@@ -1616,7 +1616,7 @@ C'est par cette raison que vous le voyez feindre⁎.
       Il est tout satisfait.
 
 
-**** *creator_corneillet *book_corneillet_feintastrologue *style_verse *genre_comedy *dist1_corneillet_verse_comedy_feintastrologue *dist2_corneillet_verse_comedy *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucrece
+**** *creator_corneillet *book_corneillet_feintastrologue *style_verse *genre_comedy *dist1_corneillet_verse_comedy_feintastrologue *dist2_corneillet_verse_comedy *id_lucrece *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucrece
 
 Que te puis-je répondre, et que demandes-tu ?
 De cent soucys⁎ divers mon cœur est combatu,
@@ -1823,7 +1823,7 @@ J'advoüeray ma foiblesse, et que depuis un an
 J'ay donné mon estime aux vertus⁎ de D. Juan.
 
 
-**** *creator_corneillet *book_corneillet_feintastrologue *style_verse *genre_comedy *dist1_corneillet_verse_comedy_feintastrologue *dist2_corneillet_verse_comedy *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonor
+**** *creator_corneillet *book_corneillet_feintastrologue *style_verse *genre_comedy *dist1_corneillet_verse_comedy_feintastrologue *dist2_corneillet_verse_comedy *id_leonor *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonor
 
 C'est un bonheur pour moy de vous avoir trouvé.
 D. Juan à Sarragoce enfin est arrivé,
@@ -2083,7 +2083,7 @@ Le Ciel me vangera de ta desloyauté.
 Allons, D. Lope, allons, je vous tiendray parole.
 
 
-**** *creator_corneillet *book_corneillet_feintastrologue *style_verse *genre_comedy *dist1_corneillet_verse_comedy_feintastrologue *dist2_corneillet_verse_comedy *date_1651 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_beatrix
+**** *creator_corneillet *book_corneillet_feintastrologue *style_verse *genre_comedy *dist1_corneillet_verse_comedy_feintastrologue *dist2_corneillet_verse_comedy *id_beatrix *date_1651 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_beatrix
 
 A quoy donc penses-tu ?
 
@@ -2224,7 +2224,7 @@ Ouy, nostre bon vieillard, et l'Astrologue aussi,
 Ils entrent au jardin.
 
 
-**** *creator_corneillet *book_corneillet_feintastrologue *style_verse *genre_comedy *dist1_corneillet_verse_comedy_feintastrologue *dist2_corneillet_verse_comedy *date_1651 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_jacinte
+**** *creator_corneillet *book_corneillet_feintastrologue *style_verse *genre_comedy *dist1_corneillet_verse_comedy_feintastrologue *dist2_corneillet_verse_comedy *id_jacinte *date_1651 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_jacinte
 
       Madame, il est Sorcier⁎⁎,
 Et si vous escrivez, c'est chose indubitable
@@ -2285,7 +2285,7 @@ Pouvez-vous ignorer qu'il adore Lucrece ?
 D. Lope vous l'a dit.
 
 
-**** *creator_corneillet *book_corneillet_feintastrologue *style_verse *genre_comedy *dist1_corneillet_verse_comedy_feintastrologue *dist2_corneillet_verse_comedy *date_1651 *sexe_masculin *age_veteran *statut_serviteur *fonction_valet *role_mendoce
+**** *creator_corneillet *book_corneillet_feintastrologue *style_verse *genre_comedy *dist1_corneillet_verse_comedy_feintastrologue *dist2_corneillet_verse_comedy *id_mendoce *date_1651 *sexe_masculin *age_veteran *statut_serviteur *fonction_valet *role_mendoce
 
 Monsieur.
 
@@ -2448,7 +2448,7 @@ Le Diable vous a-t'il aussi fourny de mule ?
       Ah, traistre Philipin.
 
 
-**** *creator_corneillet *book_corneillet_feintastrologue *style_verse *genre_comedy *dist1_corneillet_verse_comedy_feintastrologue *dist2_corneillet_verse_comedy *date_1651 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_philipin
+**** *creator_corneillet *book_corneillet_feintastrologue *style_verse *genre_comedy *dist1_corneillet_verse_comedy_feintastrologue *dist2_corneillet_verse_comedy *id_philipin *date_1651 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_philipin
 
       Beatrix me l'a dit.
  

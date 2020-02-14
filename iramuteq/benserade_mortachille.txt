@@ -1,6 +1,6 @@
 
 
-**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_achille
+**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *id_achille *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_achille
 
 Je ne sçay, mon cher coeur, ce qui doit m'arriver,
 Mais depuis quelque temps je ne fay que resver,
@@ -535,7 +535,7 @@ Je ne veux pas me plaindre, & j'endure beaucoup.
       Il est vray, mais je meurs.
 
 
-**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_briseide
+**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *id_briseide *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_briseide
 
 Si vous n'estiez Achille, ou si je n'estois femme,
 Je voudrois vous oster cette frayeur de l'ame.
@@ -684,7 +684,7 @@ S'il faut souffrir sa mort, son change ou mon trépas,
 Qu'il vive, que je meure, & qu'il ne m'ayme pas.
 
 
-**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *date_1636 *sexe_masculin *age_jeune *statut_serviteur *fonction_valet *role_alcimede
+**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *id_alcimede *date_1636 *sexe_masculin *age_jeune *statut_serviteur *fonction_valet *role_alcimede
 
 Le souverain de Troye, & des femmes dolentes
 En faveur de la treve arrivent dans vos tentes,
@@ -795,7 +795,7 @@ Pour vous faire éviter ce funeste accident,
 Alcimede vivoit, il meurt vous deffendant.
 
 
-**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *date_1636 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_priam
+**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *id_priam *date_1636 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_priam
 
 Ma suitte n'attend point de respect, ny d'honneur,
 Elle est bien moins qu'esclave, & vous estes Seigneur,
@@ -955,7 +955,7 @@ Et qu'il faut pour son bien qu'Achille desormais
 Change une courte tresve en une longue paix.
 
 
-**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *date_1636 *sexe_feminin *age_veteran *statut_maitre *fonction_autres *role_hecube
+**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *id_hecube *date_1636 *sexe_feminin *age_veteran *statut_maitre *fonction_autres *role_hecube
 
 Nous sommes comme il faut.
 
@@ -1179,7 +1179,7 @@ Sois lent, que je me vange, haste-toy, que je pleure.
 Ha ! si vous le pouvez apportez moy son coeur.
 
 
-**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *date_1636 *sexe_feminin *age_jeune *statut_maitre *fonction_autres *role_polixene
+**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *id_polixene *date_1636 *sexe_feminin *age_jeune *statut_maitre *fonction_autres *role_polixene
 
 La mere n'y peut rien, la soeur perdra sa peine.
 
@@ -1285,7 +1285,7 @@ Cet amour fut de vous, il estoit tout nouveau,
 Vous avez estouffé vostre enfant au berceau.
 
 
-**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *date_1636 *sexe_masculin *age_jeune *statut_maitre *fonction_autres *role_paris
+**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *id_paris *date_1636 *sexe_masculin *age_jeune *statut_maitre *fonction_autres *role_paris
 
 Que n'estois-je avec vous ? j'eusse veu sa pensée,
 De quelle affection elle estoit traversée,
@@ -1405,7 +1405,7 @@ C'est comme nous traittons nos mauvais alliez.
       Moy, Polixene, & Troye.
 
 
-**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_deiphobe
+**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *id_deiphobe *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_deiphobe
 
 Je suis bien resolu d'en faire aussi de mesme,
 Quand nous aurons passé le jour de nostre dueil,
@@ -1425,7 +1425,7 @@ Ha ! qu'il meure, ou mourons, consultons-nous encor ?
 Elle sera dans peu de la tienne suivie.
 
 
-**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ajax
+**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *id_ajax *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ajax
 
 Mais tu pardonnerois, si tu me voulois croire,
 A cette ingratitude, à cause de ta gloire.
@@ -1705,7 +1705,7 @@ Mais dans mon sang ma vie, & ma honte se noye,
 Puis qu'Ajax est tombé, subsiste, heureuse Troye.
 
 
-**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulisse
+**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *id_ulisse *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulisse
 
 Si je combas sans vous, ma foiblesse est extresme,
 Et les plus valeureux sans doute en sont de mesme,
@@ -2003,7 +2003,7 @@ Mais puis que c'est un mal qui n'a point de remede ;
 Dissimulons au moins le dueïl qui nous possede.
 
 
-**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agamemnon
+**** *creator_benserade *book_benserade_mortachille *style_verse *genre_tragedy *dist1_benserade_verse_tragedy_mortachille *dist2_benserade_verse_tragedy *id_agamemnon *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agamemnon
 
 Que ne suis-je privé du Sceptre, & du pouvoir
 Que malgré mes desirs le Ciel m'a fait avoir,

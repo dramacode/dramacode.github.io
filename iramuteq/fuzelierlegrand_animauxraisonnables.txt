@@ -1,6 +1,6 @@
 
 
-**** *creator_fuzelierlegrand *book_fuzelierlegrand_animauxraisonnables *style_verse *genre_opera comique *dist1_fuzelierlegrand_verse_opera comique_animauxraisonnables *dist2_fuzelierlegrand_verse_opera comique *date_1718 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_circe
+**** *creator_fuzelierlegrand *book_fuzelierlegrand_animauxraisonnables *style_verse *genre_opera comique *dist1_fuzelierlegrand_verse_opera comique_animauxraisonnables *dist2_fuzelierlegrand_verse_opera comique *id_CIRCE *date_1718 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_circe
 
       Feinte inutile.
 Là. Séparons-nous sans tricher.
@@ -50,7 +50,7 @@ Jean,
 Va-t-en voir s'ils viennent.
 
 
-**** *creator_fuzelierlegrand *book_fuzelierlegrand_animauxraisonnables *style_verse *genre_opera comique *dist1_fuzelierlegrand_verse_opera comique_animauxraisonnables *dist2_fuzelierlegrand_verse_opera comique *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulysse
+**** *creator_fuzelierlegrand *book_fuzelierlegrand_animauxraisonnables *style_verse *genre_opera comique *dist1_fuzelierlegrand_verse_opera comique_animauxraisonnables *dist2_fuzelierlegrand_verse_opera comique *id_ULYSSE *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulysse
 
 Charmante Circé, de votre île
 Il faut donc enfin m'arracher.

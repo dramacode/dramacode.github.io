@@ -1,6 +1,6 @@
 
 
-**** *creator_fuzelier *book_fuzelier_orphee *style_verse *genre_divertissement *dist1_fuzelier_verse_divertissement_orphee *dist2_fuzelier_verse_divertissement *date_1716 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_fuzelier *book_fuzelier_orphee *style_verse *genre_divertissement *dist1_fuzelier_verse_divertissement_orphee *dist2_fuzelier_verse_divertissement *id_ARLEQUIN *date_1716 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Si je reprends ma femme hélas !
 Quels caquets ne fera-t-on pas ?

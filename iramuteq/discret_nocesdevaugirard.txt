@@ -1,6 +1,6 @@
 
 
-**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *date_1638 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_pancrace
+**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *id_pancrace *date_1638 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_pancrace
 
 En fin le juste Ciel par un sainct Hymenee,
 De ma fille ce jour borne la destinee,
@@ -375,7 +375,7 @@ Et qu'à coigne festu⁎ pas un de nous ressemble.
 FIN.
 
 
-**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_floridon
+**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *id_floridon *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_floridon
 
 RAvy dans un bon-heur qui me suit à la piste,
 Qui condamne ma peine & ma fortune assiste,
@@ -665,7 +665,7 @@ O ma douce Amarille, ô ma chere moitié !
 Vivons tous deux contans en parfaite amitié.
 
 
-**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polydas
+**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *id_polydas *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polydas
 
 BErger Infortuné Polydas miserable,
 Que la rage possede & le malheur accable,
@@ -1212,7 +1212,7 @@ Pour la faire honnorer comme elle a merité,
 Mais je veux qu'en ce lieu nostre Hymen s'acomplisse,
 
 
-**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pysandre
+**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *id_pysandre *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pysandre
 
 Quel heur⁎ ont ces Amans, est il pas vray ma Reine,
 Nous voudrions bien tous deux estre en la mesme peine.
@@ -1499,7 +1499,7 @@ Que de bon-heur nous suit certes faut advouër
 Que le ciel nous cherit & qu'il le faut loüer.
 
 
-**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *date_1638 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lidiane
+**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *id_lidiane *date_1638 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lidiane
 
 Berger pour mon subjet c'est prendre trop de peine,
 Souffrez que Floridon ou Pysandre me meine
@@ -1836,7 +1836,7 @@ Ha mon cher Polydas que d'estranges merveilles
 Je ne sçay si mes yeux demantent mes oreilles.
 
 
-**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *date_1638 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleanide
+**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *id_cleanide *date_1638 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleanide
 
 Mon espoir qui n'attend que le vouloir des Dieux
 Me fait imaginer qu'ils font tout pour le mieux.
@@ -1963,7 +1963,7 @@ Chere ame en verité les Dieux sont adorables,
 Aux maux desesperez se rendans secourables.
 
 
-**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *date_1638 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amarille
+**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *id_amarille *date_1638 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amarille
 
 C'est le moindre soucy de mon contentement.
 
@@ -2233,7 +2233,7 @@ Vange toy Floridon de mon ingratitude,
 Je veux vivre à jamais dessous ta servitude.
 
 
-**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *date_1638 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_luciane
+**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *id_luciane *date_1638 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_luciane
 
 Pancrace prestez moy s'il vous plaist vostre main,
 Car de vostre maison je sçay mal le chemin.
@@ -2460,7 +2460,7 @@ Baisez moy, puis allez embrasser vostre amant :
 Et que chacun berger face ainsi de la sienne,
 
 
-**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_pecheur2
+**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *id_pecheur2 *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_pecheur2
 
 Ma foy ny moy non-plus; car de toute l'annee
 Nous n'avons tant gaigné comme cette journee.
@@ -2472,7 +2472,7 @@ Nous n'avons tant gaigné comme cette journee.
 Nous boirons en passant dans ce petit village.
 
 
-**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *date_1638 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lejuge
+**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *id_le-juge *date_1638 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lejuge
 
 NOus qui tenons des Dieux la balance à la main,
 Pour juger icy bas le differend humain :
@@ -2583,7 +2583,7 @@ Je vois bien que le Ciel ses Amours favorise :
 Enfans vivez joyeux que tout vous soit propice.
 
 
-**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *date_1638 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_leprocureur
+**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *id_le-procureur *date_1638 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_leprocureur
 
                   Tout chacun veut qu'il meure
 Si tost qu'il sera pris,
@@ -2641,7 +2641,7 @@ Il la faut condamner à mourir :
                   Gardez qu'elle s'absente.
 
 
-**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lafortune
+**** *creator_discret *book_discret_nocesdevaugirard *style_verse *genre_show *dist1_discret_verse_show_nocesdevaugirard *dist2_discret_verse_show *id_la-fortune *date_1638 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lafortune
 
 Belle vous n'este assez fine
 Pour veoir des yeux de vostre esprit,

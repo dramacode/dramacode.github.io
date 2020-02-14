@@ -1,6 +1,6 @@
 
 
-**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *id_LEMARQUIS *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
 
 Parbleu, Chevalier, je suis charmé de te trouver ici, nous causerons ensemble, en attendant que la comédie commence.
 
@@ -44,7 +44,7 @@ Vous deviez changer votre titre à cause des dames.
 Allons donc prendre nos places. Pour moi, je verrai vos hommes tout aussi petits qu'il vous plaira.
 
 
-**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *id_LECHEVALIER *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
 
 De tout mon coeur, Marquis.
 
@@ -77,7 +77,7 @@ Les Petits Hommes, Madame.
 Ah, ce n'est pas la peine : les nôtres sont fort bons pour figurer en petit : la taille n'y fera rien pour moi.
 
 
-**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *date_1727 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *id_LACOMTESSE *date_1727 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
 
 Ah ! Vous voilà, Marquis ! Bonjour, Chevalier ; êtes-vous venu avec des dames ?
 
@@ -196,7 +196,7 @@ Oui, Seigneur, mettez le comble à vos bienfaits : je vous ai mille obligations 
 Tendrement.
 
 
-**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_legouverneur
+**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *id_LEGOUVERNEUR *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_legouverneur
 
 Vous me montrez là quelque chose de bien extraordinaire : il n'y a assurément rien de pareil dans le monde. Quelle petitesse ! Et cependant ces petits animaux ont parfaitement la figure d'homme, et même à peu près nos gestes et notre façon de regarder. En vérité, puisque vous me les donnez, je les accepte avec plaisir. Approchons.
 
@@ -224,7 +224,7 @@ Et cette jolie fille ?
 Nous n'en avons point d'autre ici que la présence de ceux devant qui on se marie. Quand on a de la raison, toutes les conventions sont faites. Puissent les dieux vous combler de leurs faveurs ! Quelqu'uns de vos camarades languissent encore dans leur malheur ; je vous exhorte à ne rien oublier pour les en tirer. L'usage le plus digne qu'on puisse faire de son bonheur, c'est de s'en servir à l'avantage des autres. Que des fêtes à présent annoncent la joie que nous avons de vous voir devenus raisonnables.
 
 
-**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_parmenes
+**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *id_PARMENES *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_parmenes
 
 Mon père, je me charge de cette petite femelle-ci, car je la crois telle.
 
@@ -279,7 +279,7 @@ Allez, Madame, n'épargnez rien pour le tirer d'affaire.
 Oui, mon père.
 
 
-**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *date_1727 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_floris
+**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *id_FLORIS *date_1727 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_floris
 
 En voilà un que je serais bien aise d'avoir aussi : je crois que c'est un petit mâle.
 
@@ -350,7 +350,7 @@ Oui, cela est fait : en voilà assez ; et je me charge du reste auprès de mon p
 J'ai besoin de la même grâce, mon père, et je vous demande Alvarès.
 
 
-**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blectrue
+**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *id_BLECTRUE *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blectrue
 
 Seigneur, je me rappelle un fait ; c'est que j'ai lü dans les registres de l'Etat, qu'il y a près de deux cents ans qu'on en prit de semblables à ceux-là ; ils sont dépeints de même. On crut que c'étaient des animaux, et cependant c'étaient des hommes : car il est dit qu'ils devinrent aussi grands que nous, et qu'on voyait croître leur taille à vue d'oeil, à mesure qu'ils goûtaient notre raison et nos idées.
 
@@ -538,7 +538,7 @@ Allons, suivez-moi tous deux.
 Plus de raisonnement, il faut qu'on vienne.
 
 
-**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecourtisan
+**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *id_LECOURTISAN *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecourtisan
 
 Pour moi, j'ai été entre les mains de deux insulaires qui voulaient d'abord m'apprendre à parler comme on le fait aux perroquets.
 
@@ -657,7 +657,7 @@ J'aurais peur de finir vos alarmes, que je ne hais point.
 Vous le voyez bien.
 
 
-**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *date_1727 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *id_LACOMTESSE *date_1727 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
 
 Ah ! Vous voilà, Marquis ! Bonjour, Chevalier ; êtes-vous venu avec des dames ?
 
@@ -776,7 +776,7 @@ Oui, Seigneur, mettez le comble à vos bienfaits : je vous ai mille obligations 
 Tendrement.
 
 
-**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fontignac
+**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *id_FONTIGNAC *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fontignac
 
 Ils ont essayé dé mé nourrir dé graine.
 
@@ -995,7 +995,7 @@ Vous n'irez pas lé chercher, car il entre.
 Jé rougis sous lé chapeau.
 
 
-**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *date_1727 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_spinette
+**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *id_SPINETTE *date_1727 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_spinette
 
 Vous avez raison.
 
@@ -1092,7 +1092,7 @@ Et moi aussi, et je sors.
 Il en faut venir là, Monsieur. Il n'y a pas moyen de faire autrement.
 
 
-**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepoete
+**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *id_LEPOETE *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepoete
 
 Que signifie tout cela ? quel sort que le nôtre !
 
@@ -1171,7 +1171,7 @@ Ni ne guériras.
 Un poète aux Petites-Maisons !
 
 
-**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lephilosophe
+**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *id_LEPHILOSOPHE *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lephilosophe
 
 Pourquoi nous dites-vous cela ?
 
@@ -1214,7 +1214,7 @@ C'est que tu ne crois pas l'être.
 Comment, on me fera violence ?
 
 
-**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemedecin
+**** *creator_marivaux *book_marivaux_iledelaraison *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledelaraison *dist2_marivaux_prose_comedy *id_LEMEDECIN *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemedecin
 
 C'est-à-dire ?
 

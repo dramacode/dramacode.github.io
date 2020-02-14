@@ -1,6 +1,6 @@
 
 
-**** *creator_aigueberre *book_aigueberre_prologue *style_prose *genre_prologue *dist1_aigueberre_prose_prologue_prologue *dist2_aigueberre_prose_prologue *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+**** *creator_aigueberre *book_aigueberre_prologue *style_prose *genre_prologue *dist1_aigueberre_prose_prologue_prologue *dist2_aigueberre_prose_prologue *id_LECHEVALIER *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
 
 Eh, Madame, y a-t-il à délibérer ? On est à la Campagne. On veut s'amuser, on veut rire et la chose est toute simple, toute naturelle, toute décidée. C'est du comique qu'il nous faut.
 
@@ -27,7 +27,7 @@ Une tragédie, un opéra, une comédie ; mais oui, cela peut être amusant. Qu'e
 Il me tarde de voir cette bigarrure.
 
 
-**** *creator_aigueberre *book_aigueberre_prologue *style_prose *genre_prologue *dist1_aigueberre_prose_prologue_prologue *dist2_aigueberre_prose_prologue *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecommandeur
+**** *creator_aigueberre *book_aigueberre_prologue *style_prose *genre_prologue *dist1_aigueberre_prose_prologue_prologue *dist2_aigueberre_prose_prologue *id_LECOMMANDEUR *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecommandeur
 
 Elle l'est quelque fois, Madame, mais de grâce peut-on donner ce nom à une pièce en un acte.
 
@@ -50,7 +50,7 @@ Il s'agit, Mesdames, de savoir la pièce que nous jouerons aujourd'hui.
 Pour moi je ne m'y oppose point, pourvu qu'il me soit permis de faire un tour de promenade dans le jardin, pendant qu'on jouera la tragédie en un acte.
 
 
-**** *creator_aigueberre *book_aigueberre_prologue *style_prose *genre_prologue *dist1_aigueberre_prose_prologue_prologue *dist2_aigueberre_prose_prologue *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levicomte
+**** *creator_aigueberre *book_aigueberre_prologue *style_prose *genre_prologue *dist1_aigueberre_prose_prologue_prologue *dist2_aigueberre_prose_prologue *id_LEVICOMTE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levicomte
 
 J'avoue que cette dispute me fait plaisir, et que la vivacité du Commandeur ne me réjouit pas moins, que je suis charmé du bon sens de Madame la Marquise.
 
@@ -65,7 +65,7 @@ C'est bien le moins qu'on doive à la tragédie, de lui accorder le pas sur la c
 Sa singularité peut lui tenir lieu de mérite.
 
 
-**** *creator_aigueberre *book_aigueberre_prologue *style_prose *genre_prologue *dist1_aigueberre_prose_prologue_prologue *dist2_aigueberre_prose_prologue *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
+**** *creator_aigueberre *book_aigueberre_prologue *style_prose *genre_prologue *dist1_aigueberre_prose_prologue_prologue *dist2_aigueberre_prose_prologue *id_LAMARQUISE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
 
 Eh, pourquoi ne jouerions-nous pas du Tragique ?
 
@@ -94,7 +94,7 @@ J'y consens volontiers.
 Pour ne pas retarder la promenade de Monsieur le Commandeur, je suis d'avis qu'on commence par jouer cette tragédie qui lui déplaît tant.
 
 
-**** *creator_aigueberre *book_aigueberre_prologue *style_prose *genre_prologue *dist1_aigueberre_prose_prologue_prologue *dist2_aigueberre_prose_prologue *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celimene
+**** *creator_aigueberre *book_aigueberre_prologue *style_prose *genre_prologue *dist1_aigueberre_prose_prologue_prologue *dist2_aigueberre_prose_prologue *id_CELIMENE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celimene
 
 Et moi j'opine pour la pastorale, telle est la disposition de mon coeur, que les paroles les plus touchantes ne sauraient l'émouvoir, si la musique n'est de la partie, mais aussi ma sensibilité est alors extrême, de je ne sais plus ce qui me touche davantage ou du chant ou des paroles.
 

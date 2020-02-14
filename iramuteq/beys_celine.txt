@@ -1,6 +1,6 @@
 
 
-**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *date_1637 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lisanor
+**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *id_lisanor *date_1637 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_lisanor
 
 Quoy peux-tu bien encor esperer du secours ?
 Croy-tu que ma raison se rende à tes discours,
@@ -237,7 +237,7 @@ Songes que si l'amour que je porte en mon sein,
 A commencé bien tard, il n'aura point de fin.
 
 
-**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *date_1637 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_celine
+**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *id_celine *date_1637 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_celine
 
 Madame, le malheur m'en oste la puissance,
 Je ne connois point ceux dont je tiens ma naissance :
@@ -538,7 +538,7 @@ Mes delices, mon tout.
 Cheris moy seulement, et tu n'es plus coupable.
 
 
-**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *date_1637 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_thersandre
+**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *id_thersandre *date_1637 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_thersandre
 
 Quoy que Prince estranger, il faut que je soupire
 Du mal-heur impreveu de ce puissant Empire.
@@ -795,7 +795,7 @@ Je ne suis point content, si Celine souspire,
 Donnez luy s'il vous plaist le bien qu'elle desire.
 
 
-**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *date_1637 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lisidas
+**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *id_lisidas *date_1637 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_lisidas
 
       Ce combat est l'objet⁎,
 De la valeur⁎ d'un Prince, et non pas d'un sujet ;
@@ -971,7 +971,7 @@ Grand Roy, je vous dois plus qu'à ceux qui m'ont fait naistre,
 Et crains de ne pouvoir assez le reconnaistre.
 
 
-**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *date_1637 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_agante
+**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *id_agante *date_1637 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_agante
 
 Un violent desir me presse⁎ et m'importune,
 Pour apprendre ta bonne ou mauvaise fortune⁎.
@@ -1353,7 +1353,7 @@ Oubliez s'il vous plaist nos actions passées.
 Thersandre assurement peut autant que mon pere.
 
 
-**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *date_1637 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_caliste
+**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *id_caliste *date_1637 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_caliste
 
       Il faut estre discrette⁎.
 Quoy ma sœur vostre joye est elle si secrette ?
@@ -1477,7 +1477,7 @@ O detestable feinte !
 Nous avons maintenant de plus justes pensées.
 
 
-**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_leroy
+**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *id_leroy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_leroy
  
 Vrayment je ne pouvois venir plus à propos,
 Celine voulez-vous nous ravir le repos ?
@@ -1591,7 +1591,7 @@ Et dans un long excez de festins et de jeux.
 FIN.
 
 
-**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcire
+**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *id_alcire *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcire
 
 Grands Princes, apprenez des destins conjurez,
 Que les plus puissans Roys sont les moins assurez⁎
@@ -1639,7 +1639,7 @@ Et presenta la fille⁎ à la Princesse Agante.
       Celine.
 
 
-**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chrisante
+**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *id_chrisante *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chrisante
  
       Sire, il m'a deputé,
 Pour porter cette lettre à vostre Majesté.
@@ -1712,7 +1712,7 @@ Elle se vit bien-tost de secours despourveuë,
 Car presque en ce moment je la perdis de veuë.
 
 
-**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *date_1637 *sexe_masculin *age_veteran *statut_serviteur *fonction_valet *role_clarin
+**** *creator_beys *book_beys_celine *style_verse *genre_tragedy *dist1_beys_verse_tragedy_celine *dist2_beys_verse_tragedy *id_clarin *date_1637 *sexe_masculin *age_veteran *statut_serviteur *fonction_valet *role_clarin
 
 Quand le Ciel a conclu d'exercer sa fureur⁎,
 Il a bien tost ravy l'espoir d'un laboureur ;

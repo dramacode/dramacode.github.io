@@ -1,6 +1,6 @@
 
 
-**** *creator_beaumarchais *book_beaumarchais_autretartuffe *style_prose *genre_drame *dist1_beaumarchais_prose_drame_autretartuffe *dist2_beaumarchais_prose_drame *date_1792 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_almaviva
+**** *creator_beaumarchais *book_beaumarchais_autretartuffe *style_prose *genre_drame *dist1_beaumarchais_prose_drame_autretartuffe *dist2_beaumarchais_prose_drame *id_ALMAVIVA *date_1792 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_almaviva
 
 Monsieur Bégearss, je vous cherchais.
 
@@ -330,7 +330,7 @@ Mes enfants nous y reviendrons, et nous consulterons, sous des noms supposés, d
 Les deux mille louis qu'il avait soustraits, je te les donne, en attendant la récompense qui t'est bien due.
 
 
-**** *creator_beaumarchais *book_beaumarchais_autretartuffe *style_prose *genre_drame *dist1_beaumarchais_prose_drame_autretartuffe *dist2_beaumarchais_prose_drame *date_1792 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamealmaviva
+**** *creator_beaumarchais *book_beaumarchais_autretartuffe *style_prose *genre_drame *dist1_beaumarchais_prose_drame_autretartuffe *dist2_beaumarchais_prose_drame *id_MADAMEALMAVIVA *date_1792 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamealmaviva
 
 Figaro m'avait dit que vous vous trouviez mal ; effrayée, j'accours, et je vois....
 
@@ -532,7 +532,7 @@ Almaviva ! N'est-ce pas qu'elle est ma fille ?
 Mon fils !
 
 
-**** *creator_beaumarchais *book_beaumarchais_autretartuffe *style_prose *genre_drame *dist1_beaumarchais_prose_drame_autretartuffe *dist2_beaumarchais_prose_drame *date_1792 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_leon
+**** *creator_beaumarchais *book_beaumarchais_autretartuffe *style_prose *genre_drame *dist1_beaumarchais_prose_drame_autretartuffe *dist2_beaumarchais_prose_drame *id_LEON *date_1792 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_leon
 
 Mon père ! Agréez mon respect ; avez-vous bien passé la nuit ?
 
@@ -657,7 +657,7 @@ J'y cours.
 Dieux ! Maman, quel espoir !
 
 
-**** *creator_beaumarchais *book_beaumarchais_autretartuffe *style_prose *genre_drame *dist1_beaumarchais_prose_drame_autretartuffe *dist2_beaumarchais_prose_drame *date_1792 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_florestine
+**** *creator_beaumarchais *book_beaumarchais_autretartuffe *style_prose *genre_drame *dist1_beaumarchais_prose_drame_autretartuffe *dist2_beaumarchais_prose_drame *id_FLORESTINE *date_1792 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_florestine
 
 On vous disait, Monsieur, si occupé, que je n'ai pas osé vous fatiguer de mon respect.
 
@@ -726,7 +726,7 @@ Mon frère !
 Eh ! Quoi, Monsieur, n'êtes-vous plus ?...
 
 
-**** *creator_beaumarchais *book_beaumarchais_autretartuffe *style_prose *genre_drame *dist1_beaumarchais_prose_drame_autretartuffe *dist2_beaumarchais_prose_drame *date_1792 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_begearss
+**** *creator_beaumarchais *book_beaumarchais_autretartuffe *style_prose *genre_drame *dist1_beaumarchais_prose_drame_autretartuffe *dist2_beaumarchais_prose_drame *id_BEGEARSS *date_1792 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_begearss
 
 Eh ! Mais quel bruit ! Depuis une heure j'entends disputer de chez moi.
 
@@ -1083,7 +1083,7 @@ Ce que je vais dénoncer à Madrid ; n'y eût-il que le buste, en grand, d'un Wa
 Adieu, famille abandonnée, maison sans moeurs et sans honneur ! Vous aurez l'impudeur de conclure un mariage abominable, en unissant le frère avec la soeur ; mais l'univers saura votre infamie !
 
 
-**** *creator_beaumarchais *book_beaumarchais_autretartuffe *style_prose *genre_drame *dist1_beaumarchais_prose_drame_autretartuffe *dist2_beaumarchais_prose_drame *date_1792 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_figaro
+**** *creator_beaumarchais *book_beaumarchais_autretartuffe *style_prose *genre_drame *dist1_beaumarchais_prose_drame_autretartuffe *dist2_beaumarchais_prose_drame *id_FIGARO *date_1792 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_figaro
 
 Peut-on vous parler librement ?
 
@@ -1357,7 +1357,7 @@ D'ailleurs, nul ne sait mieux que lui, que par la nature et la loi, ces jeunes g
 À moi, Monsieur ? Non, s'il vous plaît : gâter, par un vil salaire, le bon service que j'ai fait ! Ma récompense est de mourir chez vous. Jeune, si j'ai failli souvent, que ce jour acquitte ma vie ! Ô ma vieillesse ! Pardonne à ma jeunesse ; elle s'honorera de toi. Quelle heureuse révolution ! Un jour a changé notre état. Plus d'oppresseur, d'hypocrite insolent : chacun a bien fait son devoir. Ne plaignons point quelques moments de trouble ; on gagne assez dans les famille, quand on en expulse un méchant.
 
 
-**** *creator_beaumarchais *book_beaumarchais_autretartuffe *style_prose *genre_drame *dist1_beaumarchais_prose_drame_autretartuffe *dist2_beaumarchais_prose_drame *date_1792 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_suzanne
+**** *creator_beaumarchais *book_beaumarchais_autretartuffe *style_prose *genre_drame *dist1_beaumarchais_prose_drame_autretartuffe *dist2_beaumarchais_prose_drame *id_SUZANNE *date_1792 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_suzanne
 
 Entre donc, Figaro ! Tu prends l'air d'un amant en bonne fortune chez ta femme !
 
@@ -1524,7 +1524,7 @@ Monsieur Bégéaaaaaaaarss !
 Achève, achève !
 
 
-**** *creator_beaumarchais *book_beaumarchais_autretartuffe *style_prose *genre_drame *dist1_beaumarchais_prose_drame_autretartuffe *dist2_beaumarchais_prose_drame *date_1792 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillaume
+**** *creator_beaumarchais *book_beaumarchais_autretartuffe *style_prose *genre_drame *dist1_beaumarchais_prose_drame_autretartuffe *dist2_beaumarchais_prose_drame *id_GUILLAUME *date_1792 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillaume
 
 Meissieir Bégearss, ché vois qu'il est pas pour ici !
 

@@ -1,6 +1,6 @@
 
 
-**** *creator_nadal *book_nadal_paradisterrestre *style_verse *genre_divertissement *dist1_nadal_verse_divertissement_paradisterrestre *dist2_nadal_verse_divertissement *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adam
+**** *creator_nadal *book_nadal_paradisterrestre *style_verse *genre_divertissement *dist1_nadal_verse_divertissement_paradisterrestre *dist2_nadal_verse_divertissement *id_ADAM *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adam
 
 Cher objet avec qui je me trouve lié
 Des noeuds sacrée d'une ardeur mutuelle,
@@ -41,7 +41,7 @@ Il a soumis à notre empire
 L'air, la terre, la mer, et tout ce qui respire.
 
 
-**** *creator_nadal *book_nadal_paradisterrestre *style_verse *genre_divertissement *dist1_nadal_verse_divertissement_paradisterrestre *dist2_nadal_verse_divertissement *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eve
+**** *creator_nadal *book_nadal_paradisterrestre *style_verse *genre_divertissement *dist1_nadal_verse_divertissement_paradisterrestre *dist2_nadal_verse_divertissement *id_EVE *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eve
 
 Digne présent du ciel, hôte de ces beaux lieux,
 Auteur d'un doux transport que je ne puis comprendre,

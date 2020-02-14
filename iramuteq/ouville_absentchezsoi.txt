@@ -1,6 +1,6 @@
 
 
-**** *creator_ouville *book_ouville_absentchezsoi *style_verse *genre_comedy *dist1_ouville_verse_comedy_absentchezsoi *dist2_ouville_verse_comedy *date_1643 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_diane
+**** *creator_ouville *book_ouville_absentchezsoi *style_verse *genre_comedy *dist1_ouville_verse_comedy_absentchezsoi *dist2_ouville_verse_comedy *id_diane *date_1643 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_diane
 
 JE beny cette nuict qui me donne le bien
 De goûter les plaisirs d'un si doux entretien.
@@ -277,7 +277,7 @@ Monsieur je suis à vous, & vous donne la main.
 Clitandre j'ayme Octave, & je hay l'inconstance⁎.
 
 
-**** *creator_ouville *book_ouville_absentchezsoi *style_verse *genre_comedy *dist1_ouville_verse_comedy_absentchezsoi *dist2_ouville_verse_comedy *date_1643 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_elize
+**** *creator_ouville *book_ouville_absentchezsoi *style_verse *genre_comedy *dist1_ouville_verse_comedy_absentchezsoi *dist2_ouville_verse_comedy *id_elize *date_1643 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_elize
 
 Je me tiens de cét heur⁎ moy-mesme glorieuse,
 Chery cette rencontre, & vous dy sans mentir,
@@ -878,7 +878,7 @@ Monsieur je mets en vous toute mon esperance.
 Amour vous m'octroyez tout ce que je souhaite.
 
 
-**** *creator_ouville *book_ouville_absentchezsoi *style_verse *genre_comedy *dist1_ouville_verse_comedy_absentchezsoi *dist2_ouville_verse_comedy *date_1643 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_pauline
+**** *creator_ouville *book_ouville_absentchezsoi *style_verse *genre_comedy *dist1_ouville_verse_comedy_absentchezsoi *dist2_ouville_verse_comedy *id_pauline *date_1643 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_pauline
 
 JE me réjoüys fort de voir que nos maistresses
 S'entr'ayment, & se font ainsi tant de caresses⁎,
@@ -1106,7 +1106,7 @@ Je vay trouver Elize, attend.
 Ma maistresse m'a dit que je te face attendre.
 
 
-**** *creator_ouville *book_ouville_absentchezsoi *style_verse *genre_comedy *dist1_ouville_verse_comedy_absentchezsoi *dist2_ouville_verse_comedy *date_1643 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_julie
+**** *creator_ouville *book_ouville_absentchezsoi *style_verse *genre_comedy *dist1_ouville_verse_comedy_absentchezsoi *dist2_ouville_verse_comedy *id_julie *date_1643 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_julie
 
 Je ne sçay qui l'aura si long temps retenu,
 Le lacquais que j'attens ne m'a point advertie.
@@ -1201,7 +1201,7 @@ De m'aymer à jamais, & de m'estre fidelle.
 Ormin tu m'as quittée & je te quitte aussy.
 
 
-**** *creator_ouville *book_ouville_absentchezsoi *style_verse *genre_comedy *dist1_ouville_verse_comedy_absentchezsoi *dist2_ouville_verse_comedy *date_1643 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_clorimant
+**** *creator_ouville *book_ouville_absentchezsoi *style_verse *genre_comedy *dist1_ouville_verse_comedy_absentchezsoi *dist2_ouville_verse_comedy *id_clorimant *date_1643 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_clorimant
 
 Bien que t'a-t-elle dit ?
 
@@ -1757,7 +1757,7 @@ Se range sous les loix de son premier vainqueur.
 Aussi bien que les miens esteindre tous tes feux⁎.
 
 
-**** *creator_ouville *book_ouville_absentchezsoi *style_verse *genre_comedy *dist1_ouville_verse_comedy_absentchezsoi *dist2_ouville_verse_comedy *date_1643 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_clitandre
+**** *creator_ouville *book_ouville_absentchezsoi *style_verse *genre_comedy *dist1_ouville_verse_comedy_absentchezsoi *dist2_ouville_verse_comedy *id_clitandre *date_1643 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_clitandre
 
 Quand vous estes au bal vous ne vous sçauriez rendre,
 Je pensois sans mentir estre encor arrivé
@@ -2180,7 +2180,7 @@ Vous mocquez⁎ vous Madame, à quoy bon ce desdain ?
 Que vois-je ? Justes Dieux ! est-ce ainsi qu'on me traite ?
 
 
-**** *creator_ouville *book_ouville_absentchezsoi *style_verse *genre_comedy *dist1_ouville_verse_comedy_absentchezsoi *dist2_ouville_verse_comedy *date_1643 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_geraste
+**** *creator_ouville *book_ouville_absentchezsoi *style_verse *genre_comedy *dist1_ouville_verse_comedy_absentchezsoi *dist2_ouville_verse_comedy *id_geraste *date_1643 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_geraste
 
       Le Ciel vous est prospere,
 N'apprehendez plus rien, car son pere & son frere
@@ -2345,7 +2345,7 @@ Monsieur voulez vous pas nous marier ensemble,
 Pauline & moy j'entends.
 
 
-**** *creator_ouville *book_ouville_absentchezsoi *style_verse *genre_comedy *dist1_ouville_verse_comedy_absentchezsoi *dist2_ouville_verse_comedy *date_1643 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_ormin
+**** *creator_ouville *book_ouville_absentchezsoi *style_verse *genre_comedy *dist1_ouville_verse_comedy_absentchezsoi *dist2_ouville_verse_comedy *id_ormin *date_1643 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_ormin
 
 Mesprisez vous aussi l'amour que je vous porte ?
 N'aurez vous point pitié d'un miserable Amant
@@ -2490,7 +2490,7 @@ Qu'on se mocque, Monsieur, & de vous & de moy.
 FIN
 
 
-**** *creator_ouville *book_ouville_absentchezsoi *style_verse *genre_comedy *dist1_ouville_verse_comedy_absentchezsoi *dist2_ouville_verse_comedy *date_1643 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_polemas
+**** *creator_ouville *book_ouville_absentchezsoi *style_verse *genre_comedy *dist1_ouville_verse_comedy_absentchezsoi *dist2_ouville_verse_comedy *id_polemas *date_1643 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_polemas
 
 Elize ne vient point !
 
@@ -2830,7 +2830,7 @@ Si Monsieur m'eust parlé plustost, j'eusse sur l'heure
 Terminé cette affaire.
 
 
-**** *creator_ouville *book_ouville_absentchezsoi *style_verse *genre_comedy *dist1_ouville_verse_comedy_absentchezsoi *dist2_ouville_verse_comedy *date_1643 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_octave
+**** *creator_ouville *book_ouville_absentchezsoi *style_verse *genre_comedy *dist1_ouville_verse_comedy_absentchezsoi *dist2_ouville_verse_comedy *id_octave *date_1643 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_octave
 
       Elle est toute deffaitte,
 Avec certain chagrin⁎.

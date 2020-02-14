@@ -1,6 +1,6 @@
 
 
-**** *creator_sophocle *book_sophocle_ajax *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_ajax *dist2_sophocle_prose_tragedy *date_1877 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_athena
+**** *creator_sophocle *book_sophocle_ajax *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_ajax *dist2_sophocle_prose_tragedy *id_ATHENA *date_1877 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_athena
 
 Ô fils de Laërte, je te vois toujours à l'affût et cherchant à assaillir l'ennemi. Et voici que je te rencontre auprès des tentes marines d'Ajax, à l'extrémité de la flotte, déjà en chasse et mesurant les traces récentes de l'homme, afin de savoir s'il est dedans ou dehors. Tu es venu conduit comme par le flair sagace d'une chienne Lakainienne, car cet homme est là, la tête trempée de sueur et les mains ensanglantées. Tu n'as pas besoin d'épier davantage à travers cette porte. Dis-moi la raison des peines que tu t'es données, afin que je t'apprenne ce que je sais de celui-ci.
 
@@ -59,7 +59,7 @@ Vois, Ulysse, combien est grande la puissance des dieux. As-tu jamais rencontré
 Puisque tu vois ceci, garde-toi de jamais parler insolemment des dieux, et de ne point t'enfler d'orgueil, si tu l'emportes sur quelqu'un par ta force ou par l'abondance des richesses. Un seul jour abaisse ou relève les choses humaines. Les dieux aiment les modestes et haïssent les impies.
 
 
-**** *creator_sophocle *book_sophocle_ajax *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_ajax *dist2_sophocle_prose_tragedy *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulysse
+**** *creator_sophocle *book_sophocle_ajax *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_ajax *dist2_sophocle_prose_tragedy *id_ULYSSE *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulysse
 
 Ô voix d'Athéna, de celle de toutes les déesses qui m'est la plus chère ! Bien que tu restes invisible, ta parole entre dans mes oreilles et résonne dans mon esprit, telle que le son éclatant de la trompette d'airain des Tyrrhéniens ! Et, maintenant, tu as bien compris que je rôdais autour de cet ennemi, Ajax, le porteur de bouclier ; car c'est lui-même, et non un autre, que j'épie depuis longtemps. Cette nuit, il a commis contre nous une action mauvaise que nous n'avons pas vue ; s'il l'a commise cependant, car nous ne savons rien de sûr, et nous errons incertains. C'est pourquoi je me suis donné la tâche d'aller à la découverte. Nous avons trouvé tout le bétail du butin mort et égorgé par une main inconnue avec les gardiens du troupeau. Tous accusent Ajax de cette action ; et un des gardes m'a rapporté et m'a affirmé qu'il l'avait vu marchant seul à grands pas à travers la plaine, tenant une épée récemment teinte de sang. J'ai aussitôt suivi ses traces et voici que j'en trouve quelques-unes non douteuses et d'autres dont je suis troublé ; et je ne sais qui me donnera une certitude. Ainsi tu viens à temps, car, pour les choses passées et pour les choses futures, je suis conduit par toi.
 
@@ -134,7 +134,7 @@ Je déclare ceci à Teucros : autant j'ai été ennemi, autant je serai désorma
 Je voulais en effet vous aider, mais si cela ne t'est pas agréable, je pars, cédant à ton désir.
 
 
-**** *creator_sophocle *book_sophocle_ajax *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_ajax *dist2_sophocle_prose_tragedy *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ajax
+**** *creator_sophocle *book_sophocle_ajax *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_ajax *dist2_sophocle_prose_tragedy *id_AJAX *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ajax
 
 Salut, ô Athéna, salut, fille de Zeus ! Combien tu viens à temps ! Je te comblerai de dépouilles dorées, en retour de ce butin.
 
@@ -221,7 +221,7 @@ Le temps long et infini manifeste à la lumière toutes choses cachées et cache
 L'épée meurtrière est dressée de façon que, même en y songeant à loisir, elle ne pourrait mieux pénétrer. Ce don de Hector, de cet hôte très détesté et odieux à voir, il est enfoncé dans la terre ennemie de Troie. J'en ai récemment aiguisé le fer sur la pierre, et je l'ai fixé et apprêté pour qu'il me soit très bienveillant et que je meure promptement. Ainsi nous sommes bien préparés. Après ceci, toi, le premier, ô Zeus, aide-moi, comme il convient. Je ne te demanderai pas un grand don. Envoie pour moi un messager qui porte à Teucros la nouvelle lamentable, afin qu'avant tous les autres il m'enlève, traversé de cette épée sanglante, et de peur qu'un de mes ennemis m'ayant vu d'abord, je sois jeté en proie aux chiens et aux oiseaux carnassiers. Je ne te demande que cela, ô Zeus ! En même temps, j'invoque Hermès souterrain, conducteur des âmes, afin qu'il m'endorme doucement, et que, là où j'aurai percé mon flanc de cette épée, je meure d'une chute facile et prompte. J'appelle aussi à l'aide les vierges qui voient toujours les actions des mortels, les vénérables Erinnyes aux pieds rapides, afin qu'elles sachent comment je meurs misérable par les Atrides. Allez, ô Erinnyes vengeresses et rapides, dévouez toute l'armée et n'épargnez rien ! Et toi, qui mènes ton char à travers le haut Ouranos, Helios ! quand tu verras la terre de ma patrie, retenant un peu tes rênes d'or, annonce mes calamités et ma destinée à mon vieux père et à ma mère misérable. Sans doute que la malheureuse, dès qu'elle aura entendu cette nouvelle, répandra dans toute la ville un grand hurlement. Mais que sert-il de se lamenter en vain ? Il importe plutôt d'agir promptement. Ô Thanathos, Thanathos ! viens maintenant et regarde-moi, bien que je doive t'invoquer aussi, là où nous habiterons tous deux. Et toi, vivant éclat du jour splendide, et toi, Hèlios, conducteur de char, je vous parle pour la dernière fois, et jamais plus désormais ! Ô lumière, ô terre de la patrie, sol sacré de Salamis ! Ô foyer paternel, illustre Athènaiè ! Ô ma génération, sources, fleuves, plaines Troiènnes, je vous appelle ! salut, ô nourris avec moi ! Ajax vous dit ces dernières paroles. Je raconterai le reste aux ombres dans le Hadès.
 
 
-**** *creator_sophocle *book_sophocle_ajax *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_ajax *dist2_sophocle_prose_tragedy *date_1877 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_tecmesse
+**** *creator_sophocle *book_sophocle_ajax *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_ajax *dist2_sophocle_prose_tragedy *id_TECMESSE *date_1877 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_tecmesse
 
 Compagnons marins d'Ajax, issus des Érekhthéides nés de Gaia, il nous faut gémir, nous qui avons souci de la maison de Télamôn, car le terrible, le grand, le très vigoureux Ajax gît maintenant en proie à la violence du mal.
 
@@ -324,7 +324,7 @@ La fille terrible de Zeus, la déesse Pallas, n'a que trop ourdi cette calamité
 Qu'ils rient et qu'ils se réjouissent donc des maux de celui-ci ! Peut-être, le désirant moins quand il vivait, le pleureront-ils mort, dans le regret de sa lance ; car les insensés qui possédaient un bien ne l'estiment que lorsqu'ils l'ont perdu. Il est plus cruel pour moi qu'il ait péri que cela ne leur est agréable ; mais pour lui cela est doux, puisqu'il possède ce qu'il désirait et qu'il est mort comme il l'a voulu. Qu'ont donc ceux-ci à rire de lui ? II a été tué par les dieux, et non, certes, par eux. Qu'Ulysse prodigue donc ses vains outrages ! Désormais, pour eux, Ajax n'est plus ; mais il est mort, me laissant les douleurs et les lamentions.
 
 
-**** *creator_sophocle *book_sophocle_ajax *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_ajax *dist2_sophocle_prose_tragedy *date_1877 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lechoeur
+**** *creator_sophocle *book_sophocle_ajax *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_ajax *dist2_sophocle_prose_tragedy *id_LECHOEUR *date_1877 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lechoeur
 
 Télamonien, qui possèdes Salamis entourée des flots, si tu prospères, je me réjouis ; mais si la haine de Zeus ou la parole violente et mauvaise des Danaens t'assiège, alors je suis saisi d'une grande crainte, et je frémis comme l'oeil de la colombe ailée. Ainsi les hautes clameurs d'un bruit sinistre nous ont appris que, la nuit passée, te ruant dans la prairie où paillent les chevaux, tu as égorgé les troupeaux des Danaens et tué par le fer luisant tout ce qui restait du butin de la lance. Ulysse répand de telles rumeurs, et il les murmure à l'oreille de tous, et il les persuade sans peine. Les choses qu'il dit de toi sont aisément crues, et quiconque l'entend insulte à tes misères et s'en réjouit plus encore que celui qui les révèle. Les injures qu'on lance aux grands hommes ne dévient pas facilement ; mais qui en dirait autant de moi ne persuaderait point, car l'envie court au puissant. Les humbles, cependant, sans les puissants, sont d'un faible appui pour la cité. L'humble prospère à l'aide des puissants, et l'homme puissant s'élève à l'aide des humbles. Mais on ne peut enseigner ces choses vraies à des insensés. Et, maintenant, tu es assailli par la clameur des hommes ; et, sans toi, nous ne pouvons nous y opposer, ô roi, car, ayant fui de tes yeux, ils bavardent comme une bande d'oiseaux. Mais, si tu t'avançais, épouvantés par le grand vautour, ils garderaient aussitôt le silence et resteraient muets.
 Est-ce donc la fille de Zeus, portée par des taureaux, Artémis, – ô nouvelle terrible ! – ô mère de ma honte ! – qui t'a poussé contre ces troupeaux de boeufs qui sont à tous, soit qu'elle ait été laissée sans récompense de quelque victoire ou de quelque chasse, soit qu'elle ait été frustrée d'illustres dépouilles ? Est-ce Arès, vêtu d'une cuirasse d'airain, qui, te reprochant l'aide de sa lance, a vengé son injure par ces embûches nocturnes ?
@@ -461,7 +461,7 @@ Puisque tu as eu cette bonne pensée Ulysse, il serait un insensé celui qui dir
 Certes, l'expérience enseigne beaucoup de choses aux hommes. Avant que l'événement nous soit manifeste, aucun divinateur ne nous dira ce qui doit arriver.
 
 
-**** *creator_sophocle *book_sophocle_ajax *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_ajax *dist2_sophocle_prose_tragedy *date_1877 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_choeur1
+**** *creator_sophocle *book_sophocle_ajax *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_ajax *dist2_sophocle_prose_tragedy *id_CHOEUR1 *date_1877 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_choeur1
 
 Le travail ajouté au travaille porte au comble. Où, en effet, n'ai-je point pénétré ? Cependant, aucun lieu ne m'a rien révélé. Mais voici, voici que j'entends quelque bruit.
 
@@ -472,7 +472,7 @@ Qu'as-tu trouvé ?
 Moi, j'ai parcouru le côté oriental, et l'homme ne s'est laissé voir nulle part.
 
 
-**** *creator_sophocle *book_sophocle_ajax *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_ajax *dist2_sophocle_prose_tragedy *date_1877 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_unmessager
+**** *creator_sophocle *book_sophocle_ajax *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_ajax *dist2_sophocle_prose_tragedy *id_UNMESSAGER *date_1877 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_unmessager
 
 Avant tout, amis, je veux vous annoncer ceci : Teucros vient d'arriver des hautes montagnes Mysiennes. Étant parvenu au milieu du camp, il a été insulté par la multitude unanime des Argiens. Dès qu'ils l'eurent vu de loin, ils s'assemblèrent autour de lui, et, alors, ils l'accablèrent de malédictions, aucun ne modérant sa langue ; et ils le nommaient le frère de l'insensé, de celui qui trahissait l'armée, et ils affirmaient que rien ne le préserverait de mourir, écrasé par les pierres ; et ils en vinrent à tirer déjà leurs épées des gaines. Cependant, la querelle, poussée au plus haut point, s'est apaisée, ayant été calmée par les paroles des vieillards. Mais où est Ajax, afin que je lui raconte ces choses, car il faut tout dire à qui commande ?
 
@@ -493,7 +493,7 @@ Il vient d'arriver et craint que cette sortie d'Ajax lui soit fatale.
 Du divinateur Thestoride qui a dit que ce jour même verrait la mort ou la vie d'Ajax.
 
 
-**** *creator_sophocle *book_sophocle_ajax *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_ajax *dist2_sophocle_prose_tragedy *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_teucros
+**** *creator_sophocle *book_sophocle_ajax *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_ajax *dist2_sophocle_prose_tragedy *id_TEUCROS *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_teucros
 
 Malheur à moi !
 
@@ -558,7 +558,7 @@ Excellent Ulysse, je puis te louer de toute façon, puisque tu as entièrement t
 C'est assez, un long temps s'est déjà écoulé. Pour vous, que les uns préparent une fosse creuse ; que les autres posent sur le feu un haut trépied destiné aux bains pieux, et qu'une troupe d'hommes apporte de la tente les armes d'Ajax. Toi, enfant, entoure avec tendresse de tes bras le corps de ton père, autant que tu le pourras, et soulève ses flancs avec moi. En effet, les chaudes bouches de sa plaie rendent encore un sang noir. Allons ! que quiconque se dit son ami vienne et se hâte de venir en aide à cet homme bon entre tous et le meilleur des mortels !
 
 
-**** *creator_sophocle *book_sophocle_ajax *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_ajax *dist2_sophocle_prose_tragedy *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_menelas
+**** *creator_sophocle *book_sophocle_ajax *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_ajax *dist2_sophocle_prose_tragedy *id_MENELAS *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_menelas
 
 Holà ! Toi ! Je te le dis : n'ensevelis point ce cadavre et laisse-le tel qu'il est.
 
@@ -593,7 +593,7 @@ J'ai vu récemment un homme, audacieux de la langue, qui excitait les marins à 
 Je m'en vais, car ceci serait honteux qu'on apprît qu'il a combattu en paroles celui qui peut contraindre par la force.
 
 
-**** *creator_sophocle *book_sophocle_ajax *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_ajax *dist2_sophocle_prose_tragedy *date_1877 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_agamemnon
+**** *creator_sophocle *book_sophocle_ajax *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_ajax *dist2_sophocle_prose_tragedy *id_AGAMEMNON *date_1877 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_agamemnon
 
 On m'annonce que tu oses te répandre impunément en insolences contre nous ? Cependant, tu es né d'une captive. Combien, te dressant sur l'extrémité de tes pieds, ne te vanterais-tu pas orgueilleusement, si tu avais été nourri par une mère libre, puisque n'étant qu'un homme de rien tu combats pour celui qui n'est plus rien, disant que nous ne sommes les chefs ni des nefs, ni des Achéens, ni des tiens, et qu'Ajax est monté sur ses nefs par sa propre volonté ? N'est-ce point un grand opprobre d'entendre de telles choses d'un esclave ? Et pour quel homme parles-tu si insolemment ? Où est-il allé, où s'est-il arrêté, que je ne l'aie fait aussi ? N'y a-t-il point d'hommes parmi les Achéens, excepté celui-ci ? Nous avons mal fait de proposer les armes d'Achille en prix aux Argiens, si nous sommes déclarés iniques par Teucros, et s'il ne vous plaît point, quoique vaincus, de subir le jugement de tous, nous accablant toujours d'outrages et nous mordant de ruses perfides, parce que vous avez perdu votre cause. En agissant ainsi, aucune loi ne serait jamais stable, si ceux que le jugement a déclarés vainqueurs sont contraints de céder, et si les vaincus dépossèdent les premiers. Mais cela doit être réprimé. Ce n'est point par la haute masse du corps et par les larges épaules que les hommes sont les premiers, mais ce sont ceux qui pensent sagement qui l'emportent en tout lieu. Le boeuf aux larges flancs est poussé dans le droit chemin par un petit fouet. Je prévois qu'il faudra user de ce remède pour toi, si tu ne reviens à la saine raison, toi qui, en faveur d'un homme qui ne vit plus et qui n'est plus qu'une ombre vaine, oses outrager et parler d'une bouche sans frein. Ne réprimeras-tu pas cet esprit insolent ? Ne peux-tu, songeant de qui tu es né, amener ici quelque homme libre qui parle pour toi ? Car je ne puis comprendre ce que tu dis, n'entendant point la langue barbare.
 

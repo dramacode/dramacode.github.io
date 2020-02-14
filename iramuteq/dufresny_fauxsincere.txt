@@ -1,6 +1,6 @@
 
 
-**** *creator_dufresny *book_dufresny_fauxsincere *style_verse *genre_comedy *dist1_dufresny_verse_comedy_fauxsincere *dist2_dufresny_verse_comedy *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurfranchard
+**** *creator_dufresny *book_dufresny_fauxsincere *style_verse *genre_comedy *dist1_dufresny_verse_comedy_fauxsincere *dist2_dufresny_verse_comedy *id_MONSIEURFRANCHARD *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurfranchard
 
       Ah ! Monsieur le Chevalier,
 Pour un certain Rapin, m'a dit là mon caissier,
@@ -272,7 +272,7 @@ Cela passe bien vite, et tu t'en guériras ;
 Tu n'auras plus d'amour sitôt que tu m'auras.
 
 
-**** *creator_dufresny *book_dufresny_fauxsincere *style_verse *genre_comedy *dist1_dufresny_verse_comedy_fauxsincere *dist2_dufresny_verse_comedy *date_1731 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+**** *creator_dufresny *book_dufresny_fauxsincere *style_verse *genre_comedy *dist1_dufresny_verse_comedy_fauxsincere *dist2_dufresny_verse_comedy *id_ANGELIQUE *date_1731 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
       En moi quel changement !
 Sensible à l'amour, moi ! Toujours indifférente.
@@ -457,7 +457,7 @@ C'est d'avoir un instant refusé votre main,
 Et par aveuglément différé d'être heureuse.
 
 
-**** *creator_dufresny *book_dufresny_fauxsincere *style_verse *genre_comedy *dist1_dufresny_verse_comedy_fauxsincere *dist2_dufresny_verse_comedy *date_1731 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mariane
+**** *creator_dufresny *book_dufresny_fauxsincere *style_verse *genre_comedy *dist1_dufresny_verse_comedy_fauxsincere *dist2_dufresny_verse_comedy *id_MARIANE *date_1731 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mariane
 
 De la campagne enfin me voici de retour,
 Toujours même gaîté, mais un peu plus d'amour.
@@ -748,7 +748,7 @@ J'ai parcouru les traits qu'on a vus jusqu'ici,
 Vous le reconnaissez, mon travail est fini.
 
 
-**** *creator_dufresny *book_dufresny_fauxsincere *style_verse *genre_comedy *dist1_dufresny_verse_comedy_fauxsincere *dist2_dufresny_verse_comedy *date_1731 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
+**** *creator_dufresny *book_dufresny_fauxsincere *style_verse *genre_comedy *dist1_dufresny_verse_comedy_fauxsincere *dist2_dufresny_verse_comedy *id_LAMARQUISE *date_1731 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
 
 Il me l'a trop promis. Ne crains point de surprise.
 Hé quoi ! Veux-tu douter aussi de sa franchise ?
@@ -914,7 +914,7 @@ Un dépit vif ne fait que suspendre l'amour,
 Mais un juste mépris le guérit sans retour.
 
 
-**** *creator_dufresny *book_dufresny_fauxsincere *style_verse *genre_comedy *dist1_dufresny_verse_comedy_fauxsincere *dist2_dufresny_verse_comedy *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+**** *creator_dufresny *book_dufresny_fauxsincere *style_verse *genre_comedy *dist1_dufresny_verse_comedy_fauxsincere *dist2_dufresny_verse_comedy *id_DORANTE *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
 
       Ma tendresse,
 La crainte d'un tuteur.
@@ -1074,7 +1074,7 @@ Sentiments naïfs, vrais, franchise respectable !
 Voilà ce qui s'appelle un caractère aimable.
 
 
-**** *creator_dufresny *book_dufresny_fauxsincere *style_verse *genre_comedy *dist1_dufresny_verse_comedy_fauxsincere *dist2_dufresny_verse_comedy *date_1731 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laurette
+**** *creator_dufresny *book_dufresny_fauxsincere *style_verse *genre_comedy *dist1_dufresny_verse_comedy_fauxsincere *dist2_dufresny_verse_comedy *id_LAURETTE *date_1731 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laurette
 
 Madame, pardonnez si l'on vous incommode.
 
@@ -1368,7 +1368,7 @@ Se couvrant d'un air franc comme d'un bouclier,
 Tiennent du moins un peu de notre Chevalier.
 
 
-**** *creator_dufresny *book_dufresny_fauxsincere *style_verse *genre_comedy *dist1_dufresny_verse_comedy_fauxsincere *dist2_dufresny_verse_comedy *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rapin
+**** *creator_dufresny *book_dufresny_fauxsincere *style_verse *genre_comedy *dist1_dufresny_verse_comedy_fauxsincere *dist2_dufresny_verse_comedy *id_RAPIN *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rapin
 
 Moi, monsieur ! Dans l'instant je descends de cheval,
 Et loin d'avoir encor parlé ni bien ni mal,
@@ -1727,7 +1727,7 @@ Et d'Angélique enfin l'amoureuse faiblesse
 Pour te servir ici de lettres de noblesse.
 
 
-**** *creator_dufresny *book_dufresny_fauxsincere *style_verse *genre_comedy *dist1_dufresny_verse_comedy_fauxsincere *dist2_dufresny_verse_comedy *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_uncommis
+**** *creator_dufresny *book_dufresny_fauxsincere *style_verse *genre_comedy *dist1_dufresny_verse_comedy_fauxsincere *dist2_dufresny_verse_comedy *id_UNCOMMIS *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_uncommis
 
 Je n'écoute plus rien, monsieur le babillard,
 Je ne suis que commis, voyez monsieur Franchard.

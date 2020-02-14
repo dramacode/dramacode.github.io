@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillep *book_corneillep_sophonisbe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sophonisbe *dist2_corneillep_verse_tragedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_syphax
+**** *creator_corneillep *book_corneillep_sophonisbe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sophonisbe *dist2_corneillep_verse_tragedy *id_SYPHAX *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_syphax
 
 Vous en êtes encor la maîtresse absolue,
 Madame ; et je n'ai pris trêve pour un moment,
@@ -222,7 +222,7 @@ Je n'ai plus rien à dire, et vous en laisse faire.
       Il osera vous dire…
 
 
-**** *creator_corneillep *book_corneillep_sophonisbe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sophonisbe *dist2_corneillep_verse_tragedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_massinisse
+**** *creator_corneillep *book_corneillep_sophonisbe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sophonisbe *dist2_corneillep_verse_tragedy *id_MASSINISSE *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_massinisse
 
 Enfin, maître absolu des murs et de la ville,
 Je puis vous rapporter un esprit plus tranquille,
@@ -551,7 +551,7 @@ En faveur de sa flamme espérons jusqu'au bout,
 Et pour tout obtenir allons hasarder tout.
 
 
-**** *creator_corneillep *book_corneillep_sophonisbe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sophonisbe *dist2_corneillep_verse_tragedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lelius
+**** *creator_corneillep *book_corneillep_sophonisbe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sophonisbe *dist2_corneillep_verse_tragedy *id_LELIUS *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lelius
 
 Détachez-lui ces fers, il suffit qu'on le garde.
 Prince, je vous ai vu tantôt comme ennemi,
@@ -767,7 +767,7 @@ Lorsque vous aurez vu comme il saura régner.
 Madame, encore un coup, laissons-en faire au temps.
 
 
-**** *creator_corneillep *book_corneillep_sophonisbe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sophonisbe *dist2_corneillep_verse_tragedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepide
+**** *creator_corneillep *book_corneillep_sophonisbe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sophonisbe *dist2_corneillep_verse_tragedy *id_LEPIDE *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepide
 
 Touché de cet excès du malheur qui le suit,
 Madame, par pitié Lélius vous l'envoie,
@@ -838,7 +838,7 @@ Et soutient en mourant la pompe d'un courroux
 Qui semble moins mourir que triompher de nous.
 
 
-**** *creator_corneillep *book_corneillep_sophonisbe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sophonisbe *dist2_corneillep_verse_tragedy *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mezetulle
+**** *creator_corneillep *book_corneillep_sophonisbe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sophonisbe *dist2_corneillep_verse_tragedy *id_MEZETULLE *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mezetulle
 
 Oui, seigneur, j'ai donné vos ordres à la porte,
 Que jusques à demain aucun n'entre, ne sorte,
@@ -897,7 +897,7 @@ Voilà ce qu'en vos mains j'ai charge de remettre.
 Non, madame.
 
 
-**** *creator_corneillep *book_corneillep_sophonisbe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sophonisbe *dist2_corneillep_verse_tragedy *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sophonisbe
+**** *creator_corneillep *book_corneillep_sophonisbe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sophonisbe *dist2_corneillep_verse_tragedy *id_SOPHONISBE *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sophonisbe
 
 Le roi m'honore trop d'une amour si parfaite.
 Dites-lui que j'aspire à la paix qu'il souhaite,
@@ -1601,7 +1601,7 @@ Souffrez que je l'évite, et que dans mon malheur
 Je m'ose de sa vue épargner la douleur.
 
 
-**** *creator_corneillep *book_corneillep_sophonisbe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sophonisbe *dist2_corneillep_verse_tragedy *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eryxe
+**** *creator_corneillep *book_corneillep_sophonisbe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sophonisbe *dist2_corneillep_verse_tragedy *id_ERYXE *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eryxe
 
 Madame, une captive oserait-elle prendre
 Quelque part au bonheur que l'on nous vient d'apprendre ?
@@ -2000,7 +2000,7 @@ Mais ne disposez point, seigneur, de ma personne ;
 Et si de ce héros les désirs inconstants…
 
 
-**** *creator_corneillep *book_corneillep_sophonisbe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sophonisbe *dist2_corneillep_verse_tragedy *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_herminie
+**** *creator_corneillep *book_corneillep_sophonisbe *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sophonisbe *dist2_corneillep_verse_tragedy *id_HERMINIE *date_1663 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_herminie
 
 Madame, ou j'entends mal une telle prière,
 Ou vos voeux pour la paix n'ont pas votre âme entière ;

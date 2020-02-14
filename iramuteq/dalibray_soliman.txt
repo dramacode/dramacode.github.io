@@ -1,6 +1,6 @@
 
 
-**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_soliman
+**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_soliman *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_soliman
 
 Moi qui me figurois que jusques dans Bizance,
 Ils viendroient à mes pieds implorer ma Clemence :
@@ -315,7 +315,7 @@ Persine valoit bien toute seule une guerre.
 FIN.
 
 
-**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *date_1637 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_rustan
+**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_rustan *date_1637 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_rustan
 
 Commandez seulement, et vous pourrez connestre
 De quel zele⁎ Rustan est porté pour son Maistre :
@@ -480,7 +480,7 @@ Mais Madame, escoutez ;
       O Ciel, je suis perdu !
 
 
-**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_acmat
+**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_acmat *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_acmat
 
 Grand Roy, nous attendons la fin de cet ouvrage,
 Moins du Ciel, ou du Sort, que de vostre courage :
@@ -680,7 +680,7 @@ Seigneur, voicy la Reyne, et son Fils qu'elle embrasse⁎.
 Que du sein de la mort sort un bel hymenée !
 
 
-**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *date_1637 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_osman
+**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_osman *date_1637 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_osman
 
 Invincible Seigneur, Roy le plus grand du monde,
 Qu'ainsi tousjours le Sort à vos souhaits responde :
@@ -766,7 +766,7 @@ Elle vous conjurast avecques plus d'effect⁎,
 De procurer la mort de l'autheur du forfait.
 
 
-**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *date_1637 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_persine
+**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_persine *date_1637 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_persine
 
 D'où l'as-tu donc appris ?
 
@@ -1136,7 +1136,7 @@ Si bien que je me juge indigne de l'honneur
 Que me fait maintenant nostre commun Seigneur.
 
 
-**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *date_1637 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_alvante
+**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_alvante *date_1637 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_alvante
 
       C'est le bruit de la Cour,
 Et puisque Soliman n'attend que son retour,
@@ -1361,7 +1361,7 @@ Que les Cieux sçavent bien nos fautes reparer !
 Je les ay reünis, les voulant separer !
 
 
-**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_lareine
+**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_la-reine *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_lareine
 
 J'ignore en quel endroit⁎ mon pié douteux me guide,
 Au trouble des pensers qui me rendent timide.
@@ -1635,7 +1635,7 @@ O fils heureusement aujourd'huy retreuvé⁎ !
 Que tu rends desormais ta mere fortunée !
 
 
-**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *date_1637 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_seline
+**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_seline *date_1637 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_seline
  
 Ceux qui renferment mieux leurs pensers au dedans,
 Sont Madame, à la Cour tenus les plus prudens :
@@ -1686,7 +1686,7 @@ Si celuy-cy qui vient nous avoit entenduës⁎.
       O merveille !
 
 
-**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *date_1637 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_mustapha
+**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_mustapha *date_1637 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_mustapha
  
 Derechef⁎ je rends grace à vostre Majesté
 D'un honneur que je sçay n'avoir point merité :
@@ -1906,7 +1906,7 @@ Ou si te ressentant de ton premier courroux,
 Tu m'estimes coupable, et me hays pour espoux ?
 
 
-**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *date_1637 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_soldat
+**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_soldat *date_1637 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_soldat
 
       Au Palais, grande Reyne.
 
@@ -1940,7 +1940,7 @@ Le Roy, brave Seigneur, l'a mise entre nos mains,
 Jugez par là du reste.
 
 
-**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *date_1637 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_ormene
+**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_ormene *date_1637 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_ormene
 
 Seigneur, j'acours à vous, et je rends grace aux Cieux,
 Qu'encore assez à temps je vous touve en ces lieux :
@@ -2071,7 +2071,7 @@ O prodige !
       O bien-heureux Ormene !
 
 
-**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adraste
+**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_adraste *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adraste
 
 Ah grand Prince ! fuyez cette maudite Cour,
 Où l'on a conspiré de vous priver du jour.
@@ -2116,7 +2116,7 @@ Seul vous appaiserez leurs esprits furieux.
 Seigneur, trouvez-vous pas cét advis raisonnable ?
 
 
-**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_devin
+**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_devin *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_devin
 
 La trahison est vraye, et faite sans raison.
 

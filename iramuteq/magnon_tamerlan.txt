@@ -1,6 +1,6 @@
 
 
-**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *date_1648 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_tamerlan
+**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *id_tamerlan *date_1648 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_tamerlan
 
 Themir arrestés-vous, & vous, Madame, aussi,
 Vos frequens entretiens me donnent du soucy :
@@ -460,7 +460,7 @@ Qu'on les porte au cercueil, & qu'on m'y meine aussi.
 FIN.
 
 
-**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *date_1648 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_themir
+**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *id_themir *date_1648 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_themir
 
 Madame, il faut combattre, & desja nos armées
 De mesme qu'au butin, à la gloire animées
@@ -686,7 +686,7 @@ Ah, pere trop barbare !
       Plustost ma mort !
 
 
-**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *date_1648 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_indarthize
+**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *id_indarthize *date_1648 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_indarthize
 
       Hé bien agirons-nous ?
 Dedans leurs libertez vous interessez⁎-vous ?
@@ -843,7 +843,7 @@ Par quel heureux moyen causerez-vous leur fuite ?
 Seigneur, considerez que vous estes son pere.
 
 
-**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zilim
+**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *id_zilim *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zilim
 
       Il vient vous l'accorder,
 Il veut vous la donner dans cette mesme tente.
@@ -915,7 +915,7 @@ Commande.
 Soldats qu'on le contente, éloignez-vous d'icy.
 
 
-**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *date_1648 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_bajazet
+**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *id_bajazet *date_1648 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_bajazet
 
 Où sommes-nous, Selim, tu me vois dans sa tente,
 Tu vois un Empereur que l'on laisse en attente,
@@ -1416,7 +1416,7 @@ Il iroit t'en donner la seconde peinture.
 En voila la troisiéme.
 
 
-**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *date_1648 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_roxalie
+**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *id_roxalie *date_1648 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_roxalie
 
 Ny son cœur⁎ ny le mien ne s'est point démenty,
 Et malgré nos amours, nous prenons leurs quereles⁎.
@@ -1702,7 +1702,7 @@ Que je sois exposée à vos ressentimens,
 Eclatez dessus moy vos premiers mouvemens.
 
 
-**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *date_1648 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_orcazie
+**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *id_orcazie *date_1648 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_orcazie
 
 Je veux bien advoüer que l'on me traitte en Reyne :
 Mais malgré ce bon-heur, ma chaisne est tousjours chaisne.
@@ -1927,7 +1927,7 @@ Celuy qui vous tuëra me sera plus sensible.
 Je meurs !
 
 
-**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *date_1648 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_dorize
+**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *id_dorize *date_1648 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_dorize
 
 Au poinct que Bajazet & Tamerlan armez,
 Vont monstrer la fureur dont ils sont animez,
@@ -1945,7 +1945,7 @@ Je vois venir Themir.
 Vous luy devriez parler pour la derniere fois,
 
 
-**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_selim
+**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *id_selim *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_selim
 
 Quoy ! Seigneur, cét habit oste-il le courage ?
 

@@ -1,6 +1,6 @@
 
 
-**** *creator_marivaux *book_marivaux_princetravesti *style_prose *genre_comedy *dist1_marivaux_prose_comedy_princetravesti *dist2_marivaux_prose_comedy *date_1724 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hortense
+**** *creator_marivaux *book_marivaux_princetravesti *style_prose *genre_comedy *dist1_marivaux_prose_comedy_princetravesti *dist2_marivaux_prose_comedy *id_HORTENSE *date_1724 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hortense
 
 Vous me paraissez bien agitée, Madame.
 
@@ -259,7 +259,7 @@ Il me fera raison de vos refus. Seigneur, daignez m'accorder une grâce ; je vou
 Je vois la Princesse qui arrive, et je me retire, sûre de vos bontés.
 
 
-**** *creator_marivaux *book_marivaux_princetravesti *style_prose *genre_comedy *dist1_marivaux_prose_comedy_princetravesti *dist2_marivaux_prose_comedy *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frederic
+**** *creator_marivaux *book_marivaux_princetravesti *style_prose *genre_comedy *dist1_marivaux_prose_comedy_princetravesti *dist2_marivaux_prose_comedy *id_FREDERIC *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frederic
 
 Puis-je avoir l'honneur de vous dire un mot ?
 
@@ -482,7 +482,7 @@ Rien de plus beau que ce que fait Monsieur l'Ambassadeur pour Lélio, Madame ; m
 Souhaitez-vous que je revienne, Madame ?
 
 
-**** *creator_marivaux *book_marivaux_princetravesti *style_prose *genre_comedy *dist1_marivaux_prose_comedy_princetravesti *dist2_marivaux_prose_comedy *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_marivaux *book_marivaux_princetravesti *style_prose *genre_comedy *dist1_marivaux_prose_comedy_princetravesti *dist2_marivaux_prose_comedy *id_ARLEQUIN *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Madame, je supplie Votre Principauté de pardonner l'impertinence de mon étourderie ; si j'avais su que votre présence eût été ici, je n'aurais pas été assez nigaud pour y venir apporter ma personne.
 
@@ -780,7 +780,7 @@ Madame, c'est là le billet que Madame Hortense m'a donné... La voilà pour le 
 Pourtant, sans moi, il y aurait eu encore du tapage.
 
 
-**** *creator_marivaux *book_marivaux_princetravesti *style_prose *genre_comedy *dist1_marivaux_prose_comedy_princetravesti *dist2_marivaux_prose_comedy *date_1724 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_marivaux *book_marivaux_princetravesti *style_prose *genre_comedy *dist1_marivaux_prose_comedy_princetravesti *dist2_marivaux_prose_comedy *id_LISETTE *date_1724 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Quoi ! Un si joli garçon que vous est-il capable d'offenser quelqu'un ?
 

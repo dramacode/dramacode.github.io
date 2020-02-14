@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillep *book_corneillep_cinna *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cinna *dist2_corneillep_verse_tragedy *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_auguste
+**** *creator_corneillep *book_corneillep_cinna *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cinna *dist2_corneillep_verse_tragedy *id_auguste *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_auguste
 
 Que chacun se retire, et qu'aucun n'entre ici.
 Vous Cinna demeurez, et vous Maxime aussi.
@@ -433,7 +433,7 @@ Et que vos conjurés entendent publier
 Qu'Auguste a tout appris, et veut tout oublier.
 
 
-**** *creator_corneillep *book_corneillep_cinna *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cinna *dist2_corneillep_verse_tragedy *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_livie
+**** *creator_corneillep *book_corneillep_cinna *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cinna *dist2_corneillep_verse_tragedy *id_livie *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_livie
 
       Euphorbe m'a tout dit,
 Seigneur, et j'ai pâli cent fois à ce récit.
@@ -524,7 +524,7 @@ Et la postérité, dans toutes les provinces
 Donnera votre exemple aux plus généreux princes.
 
 
-**** *creator_corneillep *book_corneillep_cinna *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cinna *dist2_corneillep_verse_tragedy *date_1642 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_cinna
+**** *creator_corneillep *book_corneillep_cinna *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cinna *dist2_corneillep_verse_tragedy *id_cinna *date_1642 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_cinna
 
 Jamais contre un tyran entreprise conçue
 Ne permit d'espérer une si belle issue,
@@ -1112,7 +1112,7 @@ Et moi par un bonheur dont chacun soit jaloux
 Perdre pour vous cent fois ce que je tiens de vous.
 
 
-**** *creator_corneillep *book_corneillep_cinna *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cinna *dist2_corneillep_verse_tragedy *date_1642 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_maxime
+**** *creator_corneillep *book_corneillep_cinna *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cinna *dist2_corneillep_verse_tragedy *id_maxime *date_1642 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_maxime
 
 Oui, j'accorde qu'Auguste a droit de conserver
 L'Empire où sa vertu l'a fait seule arriver,
@@ -1430,7 +1430,7 @@ Et je suis plus confus, Seigneur, de vos bontés,
 Que je ne suis jaloux du bien que vous m'ôtez.
 
 
-**** *creator_corneillep *book_corneillep_cinna *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cinna *dist2_corneillep_verse_tragedy *date_1642 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_emilie
+**** *creator_corneillep *book_corneillep_cinna *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cinna *dist2_corneillep_verse_tragedy *id_emilie *date_1642 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_emilie
 
 Impatients désirs d'une illustre vengeance
 Dont la mort de mon père a formé la naissance,
@@ -1897,7 +1897,7 @@ Et prenant désormais cette haine en horreur,
 L'ardeur de vous servir succède à sa fureur.
 
 
-**** *creator_corneillep *book_corneillep_cinna *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cinna *dist2_corneillep_verse_tragedy *date_1642 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_fulvie
+**** *creator_corneillep *book_corneillep_cinna *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cinna *dist2_corneillep_verse_tragedy *id_fulvie *date_1642 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_fulvie
 
 Elle a pour la blâmer une trop juste cause,
 Par un si grand dessein vous vous faites juger
@@ -1958,7 +1958,7 @@ On lui veut imputer un désespoir funeste,
 On parle d'eaux, de Tibre, et l'on se tait du reste.
 
 
-**** *creator_corneillep *book_corneillep_cinna *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cinna *dist2_corneillep_verse_tragedy *date_1642 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_euphorbe
+**** *creator_corneillep *book_corneillep_cinna *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cinna *dist2_corneillep_verse_tragedy *id_euphorbe *date_1642 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_euphorbe
 
 Je ne m'étonne plus de cette violence
 Dont il contraint Auguste à garder sa puissance,

@@ -1,6 +1,6 @@
 
 
-**** *creator_voltaire *book_voltaire_merope *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_merope *dist2_voltaire_verse_tragedy *date_1743 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_merope
+**** *creator_voltaire *book_voltaire_merope *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_merope *dist2_voltaire_verse_tragedy *id_MEROPE *date_1743 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_merope
 
 Quoi ! Narbas ne vient point ! Reverrai-je mon fils ?
 
@@ -582,7 +582,7 @@ Sa voix qui se déclare et se joint à mes cris,
 Sa voix rend témoignage, et dit qu'il est mon fils.
 
 
-**** *creator_voltaire *book_voltaire_merope *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_merope *dist2_voltaire_verse_tragedy *date_1743 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_egisthe
+**** *creator_voltaire *book_voltaire_merope *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_merope *dist2_voltaire_verse_tragedy *id_EGISTHE *date_1743 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_egisthe
 
 Est-ce là cette reine auguste et malheureuse,
 Celle de qui la gloire, et l'infortune affreuse
@@ -841,7 +841,7 @@ Allons monter au trône, en y plaçant ma mère ;
 Et vous, mon cher Narbas, soyez toujours mon père.
 
 
-**** *creator_voltaire *book_voltaire_merope *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_merope *dist2_voltaire_verse_tragedy *date_1743 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polyphonte
+**** *creator_voltaire *book_voltaire_merope *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_merope *dist2_voltaire_verse_tragedy *id_POLYPHONTE *date_1743 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polyphonte
 
 Madame, il faut enfin que mon coeur se déploie.
 Ce bras qui vous servit m'ouvre au trône une voie ;
@@ -1180,7 +1180,7 @@ Qu'il soit né de Mérope, ou qu'il soit votre fils,
 D'un conseil imprudent sa mort sera le prix.
 
 
-**** *creator_voltaire *book_voltaire_merope *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_merope *dist2_voltaire_verse_tragedy *date_1743 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_narbas
+**** *creator_voltaire *book_voltaire_merope *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_merope *dist2_voltaire_verse_tragedy *id_NARBAS *date_1743 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_narbas
 
 Ô douleur ! ô regrets ! ô vieillesse pesante !
 Je n'ai pu retenir cette fougue imprudente,
@@ -1391,7 +1391,7 @@ Ah ! Parmi ces soldats ne vois-je point la reine ?
 Que c'est là votre roi qui combattait pour eux.
 
 
-**** *creator_voltaire *book_voltaire_merope *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_merope *dist2_voltaire_verse_tragedy *date_1743 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eurycles
+**** *creator_voltaire *book_voltaire_merope *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_merope *dist2_voltaire_verse_tragedy *id_EURYCLES *date_1743 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eurycles
 
       Vous me voyez confus ;
 Tant de pas, tant de soins, ont été superflus.
@@ -1616,7 +1616,7 @@ Celui de votre fils, le vôtre est adoré ;
 Ce prix est notre amour ; il vaut mieux que la gloire.
 
 
-**** *creator_voltaire *book_voltaire_merope *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_merope *dist2_voltaire_verse_tragedy *date_1743 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_erox
+**** *creator_voltaire *book_voltaire_merope *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_merope *dist2_voltaire_verse_tragedy *id_EROX *date_1743 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_erox
 
 Seigneur, attendez-vous que son âme fléchisse ?
 Ne pouvez-vous régner qu'au gré de son caprice ?
@@ -1682,7 +1682,7 @@ Il venait implorer la grâce de son fils.
 Qu'importent sa pitié, sa joie et sa vengeance ?
 
 
-**** *creator_voltaire *book_voltaire_merope *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_merope *dist2_voltaire_verse_tragedy *date_1743 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismenie
+**** *creator_voltaire *book_voltaire_merope *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_merope *dist2_voltaire_verse_tragedy *id_ISMENIE *date_1743 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismenie
 
 Grande reine, écartez ces horribles images ;
 Goûtez des jours sereins, nés du sein des orages.

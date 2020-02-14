@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillep *book_corneillep_tite *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_tite *dist2_corneillep_verse_tragedy *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tite
+**** *creator_corneillep *book_corneillep_tite *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_tite *dist2_corneillep_verse_tragedy *id_TITE *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tite
 
 Quoi, des ambassadeurs que Bérénice envoie
 Viennent ici, dis-tu, me témoigner sa joie,
@@ -512,7 +512,7 @@ Prince, et ce jour pour vous si noir, si rigoureux,
 N'aura d'éclat ici que pour vous rendre heureux.
 
 
-**** *creator_corneillep *book_corneillep_tite *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_tite *dist2_corneillep_verse_tragedy *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_domitian
+**** *creator_corneillep *book_corneillep_tite *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_tite *dist2_corneillep_verse_tragedy *id_DOMITIAN *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_domitian
 
 Faut-il mourir, Madame, et si proche du terme
 Votre illustre inconstance est-elle encor si ferme,
@@ -895,7 +895,7 @@ J'assure votre gloire, et vous m'ôtez la vie.
       Ah ! C'en est trop Seigneur.
 
 
-**** *creator_corneillep *book_corneillep_tite *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_tite *dist2_corneillep_verse_tragedy *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_berenice
+**** *creator_corneillep *book_corneillep_tite *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_tite *dist2_corneillep_verse_tragedy *id_BERENICE *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_berenice
 
 Pardonnez-le, Seigneur, à mon impatience.
 J'ai fait sous d'autres noms demander audience,
@@ -1292,7 +1292,7 @@ Allons, Seigneur, ma gloire en croîtra de moitié,
 Si je puis remporter chez moi son amitié.
 
 
-**** *creator_corneillep *book_corneillep_tite *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_tite *dist2_corneillep_verse_tragedy *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_domitie
+**** *creator_corneillep *book_corneillep_tite *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_tite *dist2_corneillep_verse_tragedy *id_DOMITIE *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_domitie
 
 Laisse-moi mon chagrin, tout injuste qu'il est ;
 Je le chasse, il revient, je l'étouffe, il renaît,
@@ -1819,7 +1819,7 @@ Adieu, si vous l'osez, contentez votre envie,
 Mais en m'ôtant l'honneur, n'épargnez pas ma vie.
 
 
-**** *creator_corneillep *book_corneillep_tite *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_tite *dist2_corneillep_verse_tragedy *date_1670 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_plautine
+**** *creator_corneillep *book_corneillep_tite *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_tite *dist2_corneillep_verse_tragedy *id_PLAUTINE *date_1670 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_plautine
 
 Que trouvez-vous, Madame, ou d'amer, ou de rude,
 À voir qu'un tel bonheur n'ait plus d'incertitude,
@@ -1872,7 +1872,7 @@ Pour voir si ce retour est sans l'aveu de Tite,
 Ou si c'est de concert qu'il a fait le surpris.
 
 
-**** *creator_corneillep *book_corneillep_tite *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_tite *dist2_corneillep_verse_tragedy *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_flavian
+**** *creator_corneillep *book_corneillep_tite *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_tite *dist2_corneillep_verse_tragedy *id_FLAVIAN *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_flavian
 
 En attendant votre ordre ils sont au port d'Ostie.
 
@@ -1947,7 +1947,7 @@ Redoutez… Mais elle entre, et sa moindre tendresse
 De toutes nos raisons va montrer la faiblesse.
 
 
-**** *creator_corneillep *book_corneillep_tite *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_tite *dist2_corneillep_verse_tragedy *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_albin
+**** *creator_corneillep *book_corneillep_tite *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_tite *dist2_corneillep_verse_tragedy *id_ALBIN *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_albin
 
 Elle se défend bien, Seigneur, et dans la cour…
 
@@ -2050,7 +2050,7 @@ Songez à pénétrer ce qu'il a dans l'esprit,
 Le voici.
 
 
-**** *creator_corneillep *book_corneillep_tite *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_tite *dist2_corneillep_verse_tragedy *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_philon
+**** *creator_corneillep *book_corneillep_tite *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_tite *dist2_corneillep_verse_tragedy *id_PHILON *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_philon
 
 Après votre départ il l'a soudain quittée,
 Madame, et s'est défait de cet esprit jaloux

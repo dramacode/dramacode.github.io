@@ -1,6 +1,6 @@
 
 
-**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_belise
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *id_BELISE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_belise
 
 Ah, ah ! C'est vous, Monsieur mon frère ? Venez-vous ici pour moraliser, pour me quereller : pour invectiver bourgeoisement contre mes manières ? Si c'est là votre dessein, faites votre visite courte ; ou si vous êtes raisonnable, soupez avec moi, passez-y la soirée, et vous connaîtrez par vous-même la prudence de mes allures, et l'élévation de mon génie.
 
@@ -165,7 +165,7 @@ Pendant que nous serons au jeu, que l'on commence l'un et l'autre, on continuera
 Allons nous mettre à table, que le Bal continue, et que cette aventure nous corrige de l'extravagance qu'il y a de jouer avec des masques.
 
 
-**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celide
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *id_CELIDE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celide
 
 Ah ! Ma chère Marton, que je suis ravie.
 
@@ -212,7 +212,7 @@ De votre grand cabinet, Madame, où Monsieur le Baron joue au piquet avec un jeu
 Qu'est-ce donc que tout ceci, Valère ?
 
 
-**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bartolin
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *id_BARTOLIN *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bartolin
 
 C'est une extravagante, que je rendrai raisonnable malgré elle.
 
@@ -303,7 +303,7 @@ Et ne se disent que des vérités.
 Doucement, doucement, baissez un peu la voix.
 
 
-**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *id_MARTON *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
 
 Hé ! Que diantre venez-vous faire ici, Monsieur ? Vous aimez bien à prendre un peine inutile, et à persécuter Madame votre sœur infructueusement.
 
@@ -448,7 +448,7 @@ On a servi, Madame.
 Et gardez-vous des visages, mêmes.
 
 
-**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *id_VALERE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
 
 Hé bien ! Adorable Célide, puis-je espérer que le changement dont on parle aujourd'hui dans Paris, fera changer en ma faveur l'esprit et le cœur de Madame votre mère ? Et croyez-vous qu'elle me pardonne à présent de n'être pas joueur de profession ?
 
@@ -515,7 +515,7 @@ Comment, maroufle ?
 Reprenons d'abord notre argent, et qu'on les abandonne à leur mauvaise destinée.
 
 
-**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *id_FRONTIN *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
 
 Fort volontiers, je suis tout à vous. Depuis le peu de temps que j'ai l'honneur de vous servir, je vous ai pris en affection, je suis fort content de vous ; expliquez-moi votre affaire, que je vois si elle n'est point trop difficile, et si je me ferai prier ou non.
 
@@ -586,7 +586,7 @@ Ce sont les vingt pistoles de Mademoiselle qui sont cause de cela, je voulais le
 Oui, nous tâcherons de la corriger.
 
 
-**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_garbatacase
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *id_GARBATACASE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_garbatacase
 
 Bondi, Madame, bondi, comé se porta vo signorie ?
 
@@ -651,7 +651,7 @@ Moi, Monsieur, l'être in pon gentilhomme allemand : vous prendre garde.
 Oui, Monsieur, on ne veut plus que je taille : je suis venu ponter ; quel mal y a-t-il à cela ?
 
 
-**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *id_LACOMTESSE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
 
 Bonjour, ma chère ; qu'est-ce donc que ceci. Où est tout notre monde aujourd'hui. Quels paresseux ! Le Chevalier Toppe n'est point encore venu ? Où est Monsieur l'Abbé Quinze et le Và, ma Mignonne, et le petit Caissier ? Je ne le vois point ; il faut que la Marquise et la Conseillère soient malades, puisqu'elles ne sont pas arrivées des premières.
 
@@ -736,7 +736,7 @@ Oui, vraiment, ma chère, ne nous refusons pas tout au moins ce plaisir-là ; le
 Monsieur l'Étranger est de Falaise ?
 
 
-**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *id_LAMARQUISE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
 
 Un fauteuil, laquais, un fauteuil. Ne me laisse pas tomber, ma pauvre Marton, je ne reviendrai point de cet accident-ci, me voilà morte.
 
@@ -795,7 +795,7 @@ Et l'argent qu'il nous a volé à tous tant que nous sommes ?
 Et en faveur du mariage, jouons donc quelques reprises de Lansquenet, ou quelques tailles de Pharaon.
 
 
-**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *id_CLITANDRE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
 
 Madame, je vous donne le bon jour.
 
@@ -850,7 +850,7 @@ Cela mérite d'être éclairci.
 Votre banque était en bonne main, Madame.
 
 
-**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *id_ERASTE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
 
 Hé cadédis, Mesdames, qu'avez-vous donc fait à ce pauvre petit Monsieur le caissier ? Il sort dans une rage épouvantable, je viens de le rencontrer ; il m'a pensé mordre.
 
@@ -895,7 +895,7 @@ Un Gentilhomme Allemand ! C'est ce coquin de Baron.
 Ah sandis, Messieurs les coquins, vous rendrez gorge.
 
 
-**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *id_LEMARQUIS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
 
 Allégresse, Mesdames, allégresse, tout va pour le mieux du monde, nous jouerons malgré les jaloux, je viens vous en avertir en diligence.
 
@@ -918,7 +918,7 @@ Une banque de plus de deux cents louis enlevée en moins de deux tailles ?
 Quel mal il y a, misérable ? Tu nous voles ?
 
 
-**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecaissier
+**** *creator_dancourt *book_dancourt_deroutepharaon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_deroutepharaon *dist2_dancourt_prose_comedy *id_LECAISSIER *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecaissier
 
 Comment donc, Mesdames, est-ce que l'on ne joue pas aujourd'hui, je ne vois point de carrosses à la porte, personne dans le logis ? Qu'est-ce que cela veut dire ?
 

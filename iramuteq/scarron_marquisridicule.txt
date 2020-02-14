@@ -1,6 +1,6 @@
 
 
-**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donblaize
+**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *id_DONBLAIZE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donblaize
 
       Holà !
 Ne vous dispensez pas ma sotte valetaille,
@@ -735,7 +735,7 @@ Et pour ne vous voir plus, Comtesse d'Alcalca,
 Apprenez que j'irais plus loin que Malacca.
 
 
-**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donsanche
+**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *id_DONSANCHE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donsanche
 
       Tu dis donc, que mon frère est venu ?
 
@@ -1083,7 +1083,7 @@ Blanche n'est plus à vous, Blanche n'est plus qu'à moi,
 En matière d'amour nul ne me fait la loi.
 
 
-**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_doncosme
+**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *id_DONCOSME *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_doncosme
 
       Hé bien ! Votre accident,
 De la faveur du Ciel est un signe évident.
@@ -1306,7 +1306,7 @@ Il le faut prendre au mot, vous ne sauriez mieux faire.
 Je veux savoir quel bien, vous donnez à Don Sanche.
 
 
-**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_blanche
+**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *id_BLANCHE *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_blanche
 
 Notre libérateur me vit-il de la sorte ?
 
@@ -1536,7 +1536,7 @@ Et qu'il te haïra toujours mortellement.
 Et je m'estime heureuse, honorée et contente.
 
 
-**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *id_LISETTE *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Pour moi quand vos chevaux s'emporteront si fort,
 Je dis mon in manus, et j'attendis la mort.
@@ -1796,7 +1796,7 @@ Aussi bien, il nous faut déguerpir de la place ;
 Voici notre vieillard.
 
 
-**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_stefanie
+**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *id_STEFANIE *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_stefanie
 
 Tu me parles toujours avecque liberté.
 
@@ -2144,7 +2144,7 @@ Perfide ! Scélérat !
 Dis d'Alcalca, méchant, auprès de Malacca.
 
 
-**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_louise
+**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *id_LOUISE *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_louise
 
 Madame excusez-moi, si je vous interromps ;
 Mais le soleil ici donne sur nous à plomb,
@@ -2285,7 +2285,7 @@ C'est à vous d'y penser.
 Quel plaisir prenez-vous à vous désespérer ?
 
 
-**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_olivares
+**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *id_OLIVARES *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_olivares
 
       Tais-toi, Sultane des coquettes !
 Je me suis informé comme vous m'aviez dit
@@ -2337,7 +2337,7 @@ Et nous faire donner quelques mauvais présents.
 Madame ! Voulez-vous incessamment pleurer ?
 
 
-**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ordugno
+**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *id_ORDUGNO *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ordugno
 
 Qu'elle est digne de vous.
 
@@ -2417,7 +2417,7 @@ Rien du tout.
       Monseigneur ?
 
 
-**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merlin
+**** *creator_scarron *book_scarron_marquisridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_marquisridicule *dist2_scarron_verse_comedy *id_MERLIN *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merlin
 
 Oui Monsieur, craignant fort d'être un animal cornu,
 Et que cette beauté qu'ici l'on lui destine,

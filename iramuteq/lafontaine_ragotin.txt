@@ -1,6 +1,6 @@
 
 
-**** *creator_lafontaine *book_lafontaine_ragotin *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_ragotin *dist2_lafontaine_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ragotin
+**** *creator_lafontaine *book_lafontaine_ragotin *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_ragotin *dist2_lafontaine_verse_comedy *id_RAGOTIN *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ragotin
 
       Arrête, arrête, infâme !
 
@@ -481,7 +481,7 @@ Implore à l'en tirer ta pitié charitable.
 Heureux de n'avoir pas pourtant été branché.
 
 
-**** *creator_lafontaine *book_lafontaine_ragotin *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_ragotin *dist2_lafontaine_verse_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+**** *creator_lafontaine *book_lafontaine_ragotin *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_ragotin *dist2_lafontaine_verse_comedy *id_ISABELLE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
 
 Allons tôt... Que vois-je ? Ah !
 
@@ -604,7 +604,7 @@ Ah ! Mon père, songez que j'ai part à l'offense.
       Cette aventure est rare et surprenante.
 
 
-**** *creator_lafontaine *book_lafontaine_ragotin *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_ragotin *dist2_lafontaine_verse_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamebouvillon
+**** *creator_lafontaine *book_lafontaine_ragotin *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_ragotin *dist2_lafontaine_verse_comedy *id_MADAMEBOUVILLON *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamebouvillon
 
 En vérité, monsieur de La Baguenaudière,
 Depuis que la fureur de rimer au hasard
@@ -812,7 +812,7 @@ J'en crois ce que pour lui la nature m'inspire.
 Vous n'avez pas sujet d'en être mécontente.
 
 
-**** *creator_lafontaine *book_lafontaine_ragotin *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_ragotin *dist2_lafontaine_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blaisebouvillon
+**** *creator_lafontaine *book_lafontaine_ragotin *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_ragotin *dist2_lafontaine_verse_comedy *id_BLAISEBOUVILLON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blaisebouvillon
 
 Ne vous ennuyez plus ; ils viennent, les voici,
 Beau-père.
@@ -926,7 +926,7 @@ Messieurs les baladins, avant que le jour passe,
 J'étrillerai quelqu'un, et sur un autre ton.
 
 
-**** *creator_lafontaine *book_lafontaine_ragotin *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_ragotin *dist2_lafontaine_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledestin
+**** *creator_lafontaine *book_lafontaine_ragotin *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_ragotin *dist2_lafontaine_verse_comedy *id_LEDESTIN *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledestin
 
 Quel temps plus favorable avons-nous à choisir ?
 Madame Bouvillon est là-bas en affaire,
@@ -1102,7 +1102,7 @@ Mais il faut vous panser : où vous a-t-on blessé ?
 Isabelle !
 
 
-**** *creator_lafontaine *book_lafontaine_ragotin *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_ragotin *dist2_lafontaine_verse_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_larancune
+**** *creator_lafontaine *book_lafontaine_ragotin *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_ragotin *dist2_lafontaine_verse_comedy *id_LARANCUNE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_larancune
 
 Si...
 
@@ -1482,7 +1482,7 @@ Juste.
       D'être pendu mon secours vous délivre.
 
 
-**** *creator_lafontaine *book_lafontaine_ragotin *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_ragotin *dist2_lafontaine_verse_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lolive
+**** *creator_lafontaine *book_lafontaine_ragotin *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_ragotin *dist2_lafontaine_verse_comedy *id_LOLIVE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lolive
 
 Quel tintamarre !
 
@@ -1556,7 +1556,7 @@ Est-il vrai ?
 M'ait fait tourner la tête en me frappant au coeur.
 
 
-**** *creator_lafontaine *book_lafontaine_ragotin *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_ragotin *dist2_lafontaine_verse_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_letoile
+**** *creator_lafontaine *book_lafontaine_ragotin *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_ragotin *dist2_lafontaine_verse_comedy *id_LETOILE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_letoile
 
       Moi, non.
 

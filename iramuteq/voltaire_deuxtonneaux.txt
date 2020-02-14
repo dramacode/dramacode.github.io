@@ -1,6 +1,6 @@
 
 
-**** *creator_voltaire *book_voltaire_deuxtonneaux *style_verse *genre_opera comique *dist1_voltaire_verse_opera comique_deuxtonneaux *dist2_voltaire_verse_opera comique *date_(inc *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_glycere
+**** *creator_voltaire *book_voltaire_deuxtonneaux *style_verse *genre_opera comique *dist1_voltaire_verse_opera comique_deuxtonneaux *dist2_voltaire_verse_opera comique *id_GLYCERE *date_(inc *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_glycere
 
 Pardonne, chère soeur, à mes sens éblouis
 Je me suis arrêtée a regarder Daphnis ;
@@ -95,7 +95,7 @@ C'est Daphnis que je vois paraître ;
 C'est Daphnis qui me rend au jour.
 
 
-**** *creator_voltaire *book_voltaire_deuxtonneaux *style_verse *genre_opera comique *dist1_voltaire_verse_opera comique_deuxtonneaux *dist2_voltaire_verse_opera comique *date_(inc *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_prestine
+**** *creator_voltaire *book_voltaire_deuxtonneaux *style_verse *genre_opera comique *dist1_voltaire_verse_opera comique_deuxtonneaux *dist2_voltaire_verse_opera comique *id_PRESTINE *date_(inc *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_prestine
 
 Eh ! Quoi donc ! Rien n'est prêt au temple de Bacchus ?
 Nous restons au filet ! Nos pas sont-ils perdus ?
@@ -266,7 +266,7 @@ J'ai pris un bon flacon de ce vin si sucré,
 Et je le garde pour ma noce.
 
 
-**** *creator_voltaire *book_voltaire_deuxtonneaux *style_verse *genre_opera comique *dist1_voltaire_verse_opera comique_deuxtonneaux *dist2_voltaire_verse_opera comique *date_(inc *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_daphnis
+**** *creator_voltaire *book_voltaire_deuxtonneaux *style_verse *genre_opera comique *dist1_voltaire_verse_opera comique_deuxtonneaux *dist2_voltaire_verse_opera comique *id_DAPHNIS *date_(inc *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_daphnis
 
       Eh ! Qu'importe, grands dieux !
 Tout m'est bon, tout m'est précieux ;
@@ -394,7 +394,7 @@ Chantons tous cinq, en ce jour d'allégresse,
 Du bon tonneau les effets merveilleux.
 
 
-**** *creator_voltaire *book_voltaire_deuxtonneaux *style_verse *genre_opera comique *dist1_voltaire_verse_opera comique_deuxtonneaux *dist2_voltaire_verse_opera comique *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gregoire
+**** *creator_voltaire *book_voltaire_deuxtonneaux *style_verse *genre_opera comique *dist1_voltaire_verse_opera comique_deuxtonneaux *dist2_voltaire_verse_opera comique *id_GREGOIRE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gregoire
 
 
 

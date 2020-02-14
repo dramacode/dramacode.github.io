@@ -1,6 +1,6 @@
 
 
-**** *creator_racine *book_racine_berenice *style_verse *genre_tragedy *dist1_racine_verse_tragedy_berenice *dist2_racine_verse_tragedy *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_titus
+**** *creator_racine *book_racine_berenice *style_verse *genre_tragedy *dist1_racine_verse_tragedy_berenice *dist2_racine_verse_tragedy *id_TITUS *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_titus
 
 A-t-on vu de ma part le roi de Comagène ?
 Sait-il que je l'attends ?
@@ -579,7 +579,7 @@ Jugez nous.
 Mon rival !
 
 
-**** *creator_racine *book_racine_berenice *style_verse *genre_tragedy *dist1_racine_verse_tragedy_berenice *dist2_racine_verse_tragedy *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_berenice
+**** *creator_racine *book_racine_berenice *style_verse *genre_tragedy *dist1_racine_verse_tragedy_berenice *dist2_racine_verse_tragedy *id_BERENICE *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_berenice
 
 Enfin je me dérobe à la joie importune
 De tant d'amis nouveaux, que me fait la fortune.
@@ -1058,7 +1058,7 @@ Tout est prêt. On m'attend. Ne suivez point mes pas.
 Pour la dernière fois, adieu, Seigneur.
 
 
-**** *creator_racine *book_racine_berenice *style_verse *genre_tragedy *dist1_racine_verse_tragedy_berenice *dist2_racine_verse_tragedy *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antiochus
+**** *creator_racine *book_racine_berenice *style_verse *genre_tragedy *dist1_racine_verse_tragedy_berenice *dist2_racine_verse_tragedy *id_ANTIOCHUS *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antiochus
 
 Arrêtons un moment. La pompe de ces lieux,
 Je le vois bien, Arsace, est nouvelle à tes yeux.
@@ -1499,7 +1499,7 @@ Sur ces jours malheureux que je vous sacrifie.
       Hélas !
 
 
-**** *creator_racine *book_racine_berenice *style_verse *genre_tragedy *dist1_racine_verse_tragedy_berenice *dist2_racine_verse_tragedy *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_paulin
+**** *creator_racine *book_racine_berenice *style_verse *genre_tragedy *dist1_racine_verse_tragedy_berenice *dist2_racine_verse_tragedy *id_PAULIN *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_paulin
 
       J'ai couru chez la reine,
 Dans son appartement ce prince avait paru,
@@ -1630,7 +1630,7 @@ De l'empire à vos pieds fouler la majesté ?
 Rome...
 
 
-**** *creator_racine *book_racine_berenice *style_verse *genre_tragedy *dist1_racine_verse_tragedy_berenice *dist2_racine_verse_tragedy *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arsace
+**** *creator_racine *book_racine_berenice *style_verse *genre_tragedy *dist1_racine_verse_tragedy_berenice *dist2_racine_verse_tragedy *id_ARSACE *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arsace
 
 Vous, Seigneur, importun ? Vous cet ami fidèle,
 Qu'un soin si généreux intéresse pour elle ?
@@ -1802,7 +1802,7 @@ Fixent dans son devoir ses voeux irrésolus.
 C'en est fait. Et peut-être il ne la verra plus.
 
 
-**** *creator_racine *book_racine_berenice *style_verse *genre_tragedy *dist1_racine_verse_tragedy_berenice *dist2_racine_verse_tragedy *date_1670 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_phenice
+**** *creator_racine *book_racine_berenice *style_verse *genre_tragedy *dist1_racine_verse_tragedy_berenice *dist2_racine_verse_tragedy *id_PHENICE *date_1670 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_phenice
 
       Que je le plains ! Tant de fidélité,
 Madame, méritait plus de prospérité.

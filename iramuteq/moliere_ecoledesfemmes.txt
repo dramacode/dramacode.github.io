@@ -1,6 +1,6 @@
 
 
-**** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arnolphe
+**** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *id_arnolphe *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arnolphe
 
 Oui, je veux terminer la chose dans demain.
 
@@ -1198,7 +1198,7 @@ Quoi…
 Oh !
 
 
-**** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *date_1662 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_agnes
+**** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *id_agnes *date_1662 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_agnes
 
       Oui, Monsieur, Dieu merci.
 
@@ -1548,7 +1548,7 @@ Me laissez-vous, Horace, emmener de la sorte ?
       Je veux rester ici.
 
 
-**** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *date_1662 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_horace
+**** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *id_horace *date_1662 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_horace
 
       Seigneur Ar…
 
@@ -1997,7 +1997,7 @@ Et c'est elle en un mot que vous venez chercher,
 Et pour qui mon refus a pensé vous fâcher.
 
 
-**** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *date_1662 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_alain
+**** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *id_alain *date_1662 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_alain
 
       Qui heurte ?
 
@@ -2106,7 +2106,7 @@ Je ne sais ce que c'est, Monsieur, mais il me semble
 Qu'Agnès et le corps mort s'en sont allés ensemble.
 
 
-**** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *date_1662 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_georgette
+**** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *id_georgette *date_1662 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_georgette
 
       Hé bien ?
 
@@ -2206,7 +2206,7 @@ Elle veut à tous coups s'échapper, et peut-être
 Qu'elle se pourrait bien jeter par la fenêtre.
 
 
-**** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chrysalde
+**** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *id_chrysalde *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chrysalde
 
 Vous venez, dites-vous, pour lui donner la main ?
 
@@ -2451,7 +2451,7 @@ Payer à notre ami ses soins officieux,
 Et rendre grâce au Ciel qui fait tout pour le mieux.
 
 
-**** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
+**** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *id_oronte *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
 
 Ah ! que cette embrassade est pleine de tendresse.
 
@@ -2499,7 +2499,7 @@ Pour rendre aux yeux de tous ce mystère éclairci.
       D'où vient qu'il s'enfuit sans rien dire ?
 
 
-**** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_notaire
+**** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *id_notaire *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_notaire
 
 Ah le voilà ! Bonjour, me voici tout à point
 Pour dresser le contrat que vous souhaitez faire.

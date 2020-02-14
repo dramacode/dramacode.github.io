@@ -1,6 +1,6 @@
 
 
-**** *creator_lantier *book_lantier_impatient *style_verse *genre_comedy *dist1_lantier_verse_comedy_impatient *dist2_lantier_verse_comedy *date_1778 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damon
+**** *creator_lantier *book_lantier_impatient *style_verse *genre_comedy *dist1_lantier_verse_comedy_impatient *dist2_lantier_verse_comedy *id_DAMON *date_1778 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damon
 
 Ces marauds-là ne finissent jamais !
 
@@ -607,7 +607,7 @@ Signons-nous le contrat ? On souffre dans l'attente.
 Quand pourra-t-on, morbleu ! S'épouser sans notaire ?
 
 
-**** *creator_lantier *book_lantier_impatient *style_verse *genre_comedy *dist1_lantier_verse_comedy_impatient *dist2_lantier_verse_comedy *date_1778 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+**** *creator_lantier *book_lantier_impatient *style_verse *genre_comedy *dist1_lantier_verse_comedy_impatient *dist2_lantier_verse_comedy *id_JULIE *date_1778 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
 
 Mais, d'où vient cette humeur ? Qu'avez-vous qui vous blesse ?
 Voulez-vous exiger ?...
@@ -831,7 +831,7 @@ De mériter votre tendresse,
 De consoler vos jours, d'aider votre vieillesse.
 
 
-**** *creator_lantier *book_lantier_impatient *style_verse *genre_comedy *dist1_lantier_verse_comedy_impatient *dist2_lantier_verse_comedy *date_1778 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorlis
+**** *creator_lantier *book_lantier_impatient *style_verse *genre_comedy *dist1_lantier_verse_comedy_impatient *dist2_lantier_verse_comedy *id_DORLIS *date_1778 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorlis
 
 Je suis à vous. Approchez ; plus avant...
 Eh ! Non ; vous reculez.
@@ -874,7 +874,7 @@ Quel homme !
 Sortons d'ici. Cet homme est atteint de folie.
 
 
-**** *creator_lantier *book_lantier_impatient *style_verse *genre_comedy *dist1_lantier_verse_comedy_impatient *dist2_lantier_verse_comedy *date_1778 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafleur
+**** *creator_lantier *book_lantier_impatient *style_verse *genre_comedy *dist1_lantier_verse_comedy_impatient *dist2_lantier_verse_comedy *id_LAFLEUR *date_1778 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafleur
 
 Il vient de m'échapper, je ne sais où le prendre ;
 On ne peut l'habiller. Ah ! quel homme étonnant !
@@ -1041,7 +1041,7 @@ Il doit donner le Peintre au diable.
       Il y paraît.
 
 
-**** *creator_lantier *book_lantier_impatient *style_verse *genre_comedy *dist1_lantier_verse_comedy_impatient *dist2_lantier_verse_comedy *date_1778 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_flamand
+**** *creator_lantier *book_lantier_impatient *style_verse *genre_comedy *dist1_lantier_verse_comedy_impatient *dist2_lantier_verse_comedy *id_FLAMAND *date_1778 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_flamand
 
       Monsieur ?
 
@@ -1058,7 +1058,7 @@ De votre oncle le Président,
 J'apporte la réponse.
 
 
-**** *creator_lantier *book_lantier_impatient *style_verse *genre_comedy *dist1_lantier_verse_comedy_impatient *dist2_lantier_verse_comedy *date_1778 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lenotaire
+**** *creator_lantier *book_lantier_impatient *style_verse *genre_comedy *dist1_lantier_verse_comedy_impatient *dist2_lantier_verse_comedy *id_LENOTAIRE *date_1778 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lenotaire
 
 Peut-on voir votre Maître ?
 

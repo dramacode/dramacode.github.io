@@ -1,6 +1,6 @@
 
 
-**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *date_1635 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_isimandre
+**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *id_isimandre *date_1635 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_isimandre
 
 Rends-le moy cher Amy :
 
@@ -453,7 +453,7 @@ Madame, je vous rends un bien inestimable ;
 Moy seul ay fait la faute, elle n'est point blamable :
 
 
-**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *date_1635 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_orante
+**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *id_orante *date_1635 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_orante
 
 STANCES. 
 
@@ -774,7 +774,7 @@ Mon silence, & mon teint vous parlent de ma honte :
 Et je vous serviray pour tous les deux ensemble :
 
 
-**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *date_1635 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_rosimond
+**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *id_rosimond *date_1635 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_rosimond
 
 Malgré le vœu⁎ discret d'une bouche muette,
 Enfin je vous connois amoureux & Poëte :
@@ -851,7 +851,7 @@ Si vous allez à Pise, où gist vostre bon-heur,
 Souvenez-vous qu'Ormin en est le Gouverneur.
 
 
-**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ormin
+**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *id_ormin *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ormin
 
 Rude & foible raison, abandonne mon ame :
 Ta froideur ne sçauroit s'opposer à ma flame :
@@ -1129,7 +1129,7 @@ Attend une faveur qu'il vient de prendre d'elle :
 Monsieur, soyez bon pere en exauçant leurs vœux :
 
 
-**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_palinice
+**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *id_palinice *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_palinice
 
 La foy⁎ de mon mary vous assure la sienne :
 
@@ -1265,7 +1265,7 @@ Nous le descouvrirons, soit qu'il entre, ou qu'il sorte :
 Vostre seul repentir efface mon injure.
 
 
-**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucinde
+**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *id_lucinde *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucinde
 
 Vous l'accusez à tort, elle a plus de bonté⁎ ;
 Son cœur ne prend de loy que de ma volonté,
@@ -1368,7 +1368,7 @@ Oubliant le passé qui ne nous sert de rien,
 Ne parlons plus d'un mal qui nous produit un bien.
 
 
-**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_florange
+**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *id_florange *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_florange
 
 Mon âge luy fait peur, sa tristesse m'estonne⁎ ;
 Et je pleins la douleur que mon plaisir luy donne :
@@ -1546,7 +1546,7 @@ Un qui donne sa foy⁎, pour ne la pas tenir.
       Je perds l'espoir, avecque la lumiere.
 
 
-**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *date_1635 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_nerine
+**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *id_nerine *date_1635 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_nerine
 
 Ha ! fidelle Clindor, un bon demon t'ameine :
 Si ton Maistre pâtit, Orante est bien en peine ;
@@ -1647,7 +1647,7 @@ Il me marqua le lieu, le jour, & le matin.
 O ciel ! voicy venir le fidelle Clindor,
 
 
-**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_poliante
+**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *id_poliante *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_poliante
 
 Que n'es tu le tesmoing de mon inquietude ?
 Je te ferois rougir de ton ingratitude ;
@@ -1817,7 +1817,7 @@ Des Enfans aussi bons que vous l'aurez esté.
 FIN.
 
 
-**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *date_1635 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_clindor
+**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *id_clindor *date_1635 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_clindor
 
 Nerine, qu'à propos je vous ay rencontrée !
 Vous pouvez au Chasteau me donner libre entrée ;
@@ -1902,7 +1902,7 @@ Cette Philosophie est un peu trop austere :
 Ha Monsieur le voicy !
 
 
-**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *date_1635 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lindoman
+**** *creator_scudery *book_scudery_orante *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_orante *dist2_scudery_verse_tragedy *id_lindoman *date_1635 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lindoman
 
 Quoy Monsieur, doutez vous, d'un bon-heur asseuré ?
 Vos yeux verront bientost ce que j'ay tant juré ;

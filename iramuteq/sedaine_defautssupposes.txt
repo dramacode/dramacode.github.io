@@ -1,6 +1,6 @@
 
 
-**** *creator_sedaine *book_sedaine_defautssupposes *style_verse *genre_comedy *dist1_sedaine_verse_comedy_defautssupposes *dist2_sedaine_verse_comedy *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dumont
+**** *creator_sedaine *book_sedaine_defautssupposes *style_verse *genre_comedy *dist1_sedaine_verse_comedy_defautssupposes *dist2_sedaine_verse_comedy *id_DUMONT *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dumont
 
 Oui, ma fille, Dorval arrive ce soir même,
 Et dès ce soir, je prétends vous unir.
@@ -199,7 +199,7 @@ Jamais le vrai plaisir n'est le prix de la feinte,
 Et la seule franchise a des droits au bonheur.
 
 
-**** *creator_sedaine *book_sedaine_defautssupposes *style_verse *genre_comedy *dist1_sedaine_verse_comedy_defautssupposes *dist2_sedaine_verse_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lise
+**** *creator_sedaine *book_sedaine_defautssupposes *style_verse *genre_comedy *dist1_sedaine_verse_comedy_defautssupposes *dist2_sedaine_verse_comedy *id_LISE *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lise
 
 Et, dès ce soir, vous voulez que je l'aime ?
 
@@ -456,7 +456,7 @@ Dorval, par la raison, Lise, par la tendresse.
 Sans votre aveu, je croirais abuser...
 
 
-**** *creator_sedaine *book_sedaine_defautssupposes *style_verse *genre_comedy *dist1_sedaine_verse_comedy_defautssupposes *dist2_sedaine_verse_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedorval
+**** *creator_sedaine *book_sedaine_defautssupposes *style_verse *genre_comedy *dist1_sedaine_verse_comedy_defautssupposes *dist2_sedaine_verse_comedy *id_MADAMEDORVAL *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedorval
 
 Hé bien ?
 
@@ -569,7 +569,7 @@ Ma fille, embrassez-moi, puis-je vous refuser ?
 Dorval vous aime ; et nous n'avons qu'une âme.
 
 
-**** *creator_sedaine *book_sedaine_defautssupposes *style_verse *genre_comedy *dist1_sedaine_verse_comedy_defautssupposes *dist2_sedaine_verse_comedy *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorval
+**** *creator_sedaine *book_sedaine_defautssupposes *style_verse *genre_comedy *dist1_sedaine_verse_comedy_defautssupposes *dist2_sedaine_verse_comedy *id_DORVAL *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorval
 
 On n'est pas plus jolie.
 
@@ -766,7 +766,7 @@ L'amitié pour jamais va remplacer la haine.
 Comment vous témoigner...
 
 
-**** *creator_sedaine *book_sedaine_defautssupposes *style_verse *genre_comedy *dist1_sedaine_verse_comedy_defautssupposes *dist2_sedaine_verse_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
+**** *creator_sedaine *book_sedaine_defautssupposes *style_verse *genre_comedy *dist1_sedaine_verse_comedy_defautssupposes *dist2_sedaine_verse_comedy *id_MARTON *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
 
 Ah ! Le père cruel ! Voilà pour en mourir ;
 C'est une barbarie atroce, épouvantable.
@@ -928,7 +928,7 @@ Je ne manquerai pas de te la rappeler.
 Amour ! amour ! voilà bien de tes coups.
 
 
-**** *creator_sedaine *book_sedaine_defautssupposes *style_verse *genre_comedy *dist1_sedaine_verse_comedy_defautssupposes *dist2_sedaine_verse_comedy *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+**** *creator_sedaine *book_sedaine_defautssupposes *style_verse *genre_comedy *dist1_sedaine_verse_comedy_defautssupposes *dist2_sedaine_verse_comedy *id_FRONTIN *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
 
 Parbleu ! tous ces valets sont de grands fainéans.
 Est-ce ainsi qu'on reçoit les gens ?

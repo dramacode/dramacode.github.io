@@ -1,6 +1,6 @@
 
 
-**** *creator_crebillon *book_crebillon_rhadamisthe *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_rhadamisthe *dist2_crebillon_verse_tragedy *date_1711 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_pharasmane
+**** *creator_crebillon *book_crebillon_rhadamisthe *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_rhadamisthe *dist2_crebillon_verse_tragedy *id_PHARASMANE *date_1711 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_pharasmane
 
 Que vois-je ? C'est mon fils ! Dans Artanisse Arsame !
 Quel dessein l'y conduit ? Vous vous taisez, Madame !
@@ -280,7 +280,7 @@ De mes transports jaloux mon sang doit se défendre :
 Fuyez, n'exposez plus un père à le répandre.
 
 
-**** *creator_crebillon *book_crebillon_rhadamisthe *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_rhadamisthe *dist2_crebillon_verse_tragedy *date_1711 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_rhadamisthe
+**** *creator_crebillon *book_crebillon_rhadamisthe *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_rhadamisthe *dist2_crebillon_verse_tragedy *id_RHADAMISTHE *date_1711 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_rhadamisthe
 
 Hiéron, plût aux dieux que la main ennemie
 Qui me ravit le sceptre eût terminé ma vie !
@@ -743,7 +743,7 @@ Votre coeur s'attendrit, je vois couler vos pleurs.
 Mon frère, approchez-vous ; embrassez-moi : je meurs.
 
 
-**** *creator_crebillon *book_crebillon_rhadamisthe *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_rhadamisthe *dist2_crebillon_verse_tragedy *date_1711 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_zenobie
+**** *creator_crebillon *book_crebillon_rhadamisthe *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_rhadamisthe *dist2_crebillon_verse_tragedy *id_ZENOBIE *date_1711 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_zenobie
 
 Ah ! Laisse-moi, Phénice, à mes mortels ennuis ;
 Tu redoubles l'horreur de l'état où je suis :
@@ -1132,7 +1132,7 @@ S'il faut par des forfaits que ta justice éclate,
 Ciel, pourquoi vengeois-tu la mort de Mithridate ?
 
 
-**** *creator_crebillon *book_crebillon_rhadamisthe *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_rhadamisthe *dist2_crebillon_verse_tragedy *date_1711 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_arsame
+**** *creator_crebillon *book_crebillon_rhadamisthe *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_rhadamisthe *dist2_crebillon_verse_tragedy *id_ARSAME *date_1711 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_arsame
 
 M'est-il encor permis de m'offrir à vos yeux ?
 
@@ -1486,7 +1486,7 @@ Puissiez-vous, à jamais ignorant ce mystère,
 Oublier avec lui de qui vous fûtes père !
 
 
-**** *creator_crebillon *book_crebillon_rhadamisthe *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_rhadamisthe *dist2_crebillon_verse_tragedy *date_1711 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_hieron
+**** *creator_crebillon *book_crebillon_rhadamisthe *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_rhadamisthe *dist2_crebillon_verse_tragedy *id_HIERON *date_1711 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_hieron
 
 Est-ce vous que je vois ? En croirai-je mes yeux ?
 Rhadamisthe vivant ! Rhadamisthe en ces lieux !
@@ -1555,7 +1555,7 @@ Qu'avez-vous fait, Seigneur, quand vous devez tout craindre...
 Quoi ! Seigneur...
 
 
-**** *creator_crebillon *book_crebillon_rhadamisthe *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_rhadamisthe *dist2_crebillon_verse_tragedy *date_1711 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_hydaspe
+**** *creator_crebillon *book_crebillon_rhadamisthe *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_rhadamisthe *dist2_crebillon_verse_tragedy *id_HYDASPE *date_1711 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_hydaspe
 
 Peu touché de l'espoir des plus rares bienfaits,
 À vos offres, Seigneur, toujours plus inflexible,
@@ -1573,7 +1573,7 @@ Vos gardes rassemblés, mais par divers chemins,
 Déjà de toutes parts poursuivent les romains.
 
 
-**** *creator_crebillon *book_crebillon_rhadamisthe *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_rhadamisthe *dist2_crebillon_verse_tragedy *date_1711 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_phenice
+**** *creator_crebillon *book_crebillon_rhadamisthe *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_rhadamisthe *dist2_crebillon_verse_tragedy *id_PHENICE *date_1711 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_phenice
 
 Vous verrai-je toujours, les yeux baignés de larmes,
 Par d'éternels transports remplir mon coeur d'alarmes ?

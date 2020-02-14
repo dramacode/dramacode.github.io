@@ -1,6 +1,6 @@
 
 
-**** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hercule
+**** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *id_HERCULE *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hercule
 
 Puissant moteur des cieux, ferme appui de la terre,
 Seul être souverain, seul maître du tonnerre,
@@ -544,7 +544,7 @@ Et qu'ils conservent la mémoire
 De la mort qui m'a fait un dieu.
 
 
-**** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dejanire
+**** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *id_DEJANIRE *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dejanire
 
 Enfin Iole est votre, et ses caresses prêtes
 De gloire et de plaisir vont combler vos conquêtes ;
@@ -914,7 +914,7 @@ Allons de mille coups sur ce coupable corps,
 Réparer une mort pire que mille morts.
 
 
-**** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iole
+**** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *id_IOLE *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iole
 
       Ô requête sévère !
 De quel œil puis-je voir le meurtrier de mon père ?
@@ -1120,7 +1120,7 @@ Que ce fils glorieux vous comble de plaisirs
 Et rende votre gloire égale à vos désirs.
 
 
-**** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucinde
+**** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *id_LUCINDE *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucinde
 
 Dieux ! Que la jalousie en un jeune courage,
 Alors qu'on aime bien, est une extrême rage !
@@ -1240,7 +1240,7 @@ Mais on amène Arcas...
 Ô bonheur sans pareil !
 
 
-**** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_arcas
+**** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *id_ARCAS *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_arcas
 
 Est-ce vous, mon soleil ? Quelle heureuse nouvelle
 Recevrai-je aujourd'hui d'une bouche si belle ?
@@ -1299,7 +1299,7 @@ Que ce coeur et ce bras soient vôtres sans réserve,
 Et ne me conservez qu'afin que je vous serve.
 
 
-**** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philoctete
+**** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *id_PHILOCTETE *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philoctete
 
 Priez que le repos couronne le mérite,
 Qu'enfin de vos travaux la borne soit prescrite,
@@ -1477,7 +1477,7 @@ Rendons à sa vertu des honneurs immortels,
 Et d'un commun dessein dressons lui des autels.
 
 
-**** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_agis
+**** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *id_AGIS *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_agis
 
 Ô Ciel !
 
@@ -1565,7 +1565,7 @@ Et que nos lâchetés n'altèrent point sa gloire.
 Ô fille malheureuse !
 
 
-**** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alcmene
+**** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *id_ALCMENE *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alcmene
 
 Voilà donc ce vainqueur de la terre et de l'onde.
 Ô cruel changement ! Ô douleur sans seconde !

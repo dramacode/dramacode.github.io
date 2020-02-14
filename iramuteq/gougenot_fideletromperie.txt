@@ -1,6 +1,6 @@
 
 
-**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_armidore
+**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_armidore *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_armidore
 
 Image precieux de ma vivante aurore,    
 Belle feinte d'amour que mon esprit adore,
@@ -118,7 +118,7 @@ Vous en fustes l'autheur, certes je le confesse,
 Et sans vous j'eusse en vain voulu voir ma Maistresse.
 
 
-**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clidame
+**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_clidame *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clidame
 
 N'esteindrez-vous jamais ceste subtile flame
 Dont un esprit trompeur flate vos passions
@@ -364,7 +364,7 @@ Dont Armidore sent l'agreable tourment⁎,
 Qu'il fut judicieux en son desguisment.
 
 
-**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_clorisee
+**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_clorisee *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_clorisee
 
 Mortel ressouvenir⁎ d'une ame desloyale⁎
 Qui fait pallir l'esclat de ma grandeur Royale,
@@ -1033,7 +1033,7 @@ Le temps, ny les tourmens⁎, ny la prosperité,
 N'ont peu rien esmouvoir⁎ en ma fidelité.
 
 
-**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *date_1633 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_gouvernante
+**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_gouvernante *date_1633 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_gouvernante
 
 Madame vostre esprit n'est pas seul combatu
 De l'infidelité de ces ames parjures,
@@ -1094,7 +1094,7 @@ O que vostre retour nous sera precieux.
 Il ne reste donc plus qu'à me ravir⁎ la vie.            
 
 
-**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alderine
+**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_alderine *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alderine
 
 Mais vous ne dites rien de ma chere Lucide,Elles sont dans le
 Qui souz tant de beautez a des forces d'Alcide,jardin du Chasteau.
@@ -1472,7 +1472,7 @@ Justes Dieux, s'il est vray, faites que ceste atteinte,
 Borne⁎ ma passion au but de vostre crainte.
 
 
-**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *date_1633 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_florinde
+**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_florinde *date_1633 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_florinde
 
 Ces amours sans espoir se tournent en fureurs⁎,
 Et ne laissent en fin que des cris et des pleurs.
@@ -1607,7 +1607,7 @@ Dieux ! qu'est-ce que j'entens, ô nouvelle adorée,
 Je vay gaigner des gans d'éternelle durée.
 
 
-**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tersandre
+**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_tersandre *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tersandre
 
 Vostre desir conçoit une fascheuse route,
 Je vous veux toutesfois retirer de ce doute.
@@ -1804,7 +1804,7 @@ Mon esprit estonné⁎ croit de voir des chimeres.
 Sire, je rends mes vœux à vostre Majesté.
 
 
-**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_bruserbe
+**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_bruserbe *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_bruserbe
 
 L'injurieux mespris que ce Prince respire,
 Qui ternit vostre gloire, et trouble vostre Empire,
@@ -1957,7 +1957,7 @@ Ha ! que ceste prison m'accable de soucy⁎.
 Nous n'attendions pas moins, de sa main genereuse.
 
 
-**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_filamon
+**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_filamon *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_filamon
 
 Madame, vous voyez un Prince dont l'usage
 Estoit tousjours d'abatre, et non d'estre abatu,
@@ -2060,7 +2060,7 @@ Et que ceste Princesse, a trop d'humanité,
 Pour punir les excez, de nostre cruauté.
 
 
-**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_filamire
+**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_filamire *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_filamire
 
 Mais la nuict ne sçauroit receler⁎ ton audace,
 Deffends toy si tu peux, et n'attends plus de grace.
@@ -2168,7 +2168,7 @@ Et noyons dans l'oubly tant de soucy⁎ funeste.
 FIN.
 
 
-**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucide
+**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_lucide *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucide
 
       C'est la Reyne sans doute,
 Mon frere le bon-heur assiste nostre route.
@@ -2814,7 +2814,7 @@ Ouy bien, comme Lucide, et non comme Armidore.
       Que ce soin⁎ me devore.
 
 
-**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *date_1633 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_sentinelle
+**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_sentinelle *date_1633 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_sentinelle
 
       Qui va là ?
 

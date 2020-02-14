@@ -1,6 +1,6 @@
 
 
-**** *creator_taconet *book_taconet_ecosseuses *style_verse *genre_ambigu poissard *dist1_taconet_verse_ambigu poissard_ecosseuses *dist2_taconet_verse_ambigu poissard *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mariejeanne
+**** *creator_taconet *book_taconet_ecosseuses *style_verse *genre_ambigu poissard *dist1_taconet_verse_ambigu poissard_ecosseuses *dist2_taconet_verse_ambigu poissard *id_MARIEJEANNE *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mariejeanne
 
 Dis donc, Babet ? Quoi donc qu'tu penses
 De t'étaler là par avance ?
@@ -52,7 +52,7 @@ Lorsque je les nourrissons
 Des pois que nous écossons. (bis)
 
 
-**** *creator_taconet *book_taconet_ecosseuses *style_verse *genre_ambigu poissard *dist1_taconet_verse_ambigu poissard_ecosseuses *dist2_taconet_verse_ambigu poissard *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_babet
+**** *creator_taconet *book_taconet_ecosseuses *style_verse *genre_ambigu poissard *dist1_taconet_verse_ambigu poissard_ecosseuses *dist2_taconet_verse_ambigu poissard *id_BABET *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_babet
 
 De quel droit, Madame J'ordonne,
 Vlez-vous chasser une personne ?
@@ -113,7 +113,7 @@ Car j'navons pas de bien d'fonds,
 Si ce n'est dans nos litrons. (bis)
 
 
-**** *creator_taconet *book_taconet_ecosseuses *style_verse *genre_ambigu poissard *dist1_taconet_verse_ambigu poissard_ecosseuses *dist2_taconet_verse_ambigu poissard *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fanchon
+**** *creator_taconet *book_taconet_ecosseuses *style_verse *genre_ambigu poissard *dist1_taconet_verse_ambigu poissard_ecosseuses *dist2_taconet_verse_ambigu poissard *id_FANCHON *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fanchon
 
 Dis donc ? Quelle heure est-il, Margot ?
 
@@ -273,7 +273,7 @@ C'est Jérôme qu'est des bons
 Pour toucher à mes litrons. (bis)
 
 
-**** *creator_taconet *book_taconet_ecosseuses *style_verse *genre_ambigu poissard *dist1_taconet_verse_ambigu poissard_ecosseuses *dist2_taconet_verse_ambigu poissard *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_margot
+**** *creator_taconet *book_taconet_ecosseuses *style_verse *genre_ambigu poissard *dist1_taconet_verse_ambigu poissard_ecosseuses *dist2_taconet_verse_ambigu poissard *id_MARGOT *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_margot
 
 Je n'en sais rien : buvons l'coco,
 Puis j'écosserons, l'on sait comme !
@@ -391,7 +391,7 @@ De vos écus que j'aimons,
 Venez emplir nos litrons. (bis)
 
 
-**** *creator_taconet *book_taconet_ecosseuses *style_verse *genre_ambigu poissard *dist1_taconet_verse_ambigu poissard_ecosseuses *dist2_taconet_verse_ambigu poissard *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_genevieve
+**** *creator_taconet *book_taconet_ecosseuses *style_verse *genre_ambigu poissard *dist1_taconet_verse_ambigu poissard_ecosseuses *dist2_taconet_verse_ambigu poissard *id_GENEVIEVE *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_genevieve
 
 Plutôt deux. J'venions tout exprès :
 Marchand, donnez d'misquié du frais.
@@ -438,7 +438,7 @@ Mais d'puis que je grandissons,
 Avec les grands j'écossons. (bis)
 
 
-**** *creator_taconet *book_taconet_ecosseuses *style_verse *genre_ambigu poissard *dist1_taconet_verse_ambigu poissard_ecosseuses *dist2_taconet_verse_ambigu poissard *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jerome
+**** *creator_taconet *book_taconet_ecosseuses *style_verse *genre_ambigu poissard *dist1_taconet_verse_ambigu poissard_ecosseuses *dist2_taconet_verse_ambigu poissard *id_JEROME *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jerome
 
 Bonjour, Margot. Bonsoir, Fanchon,
 Que j'vous embrasse sans façon.
@@ -601,7 +601,7 @@ Et puis de bonnes chansons,
 Lorsque j'emplis tes litrons. (bis)
 
 
-**** *creator_taconet *book_taconet_ecosseuses *style_verse *genre_ambigu poissard *dist1_taconet_verse_ambigu poissard_ecosseuses *dist2_taconet_verse_ambigu poissard *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bellerose
+**** *creator_taconet *book_taconet_ecosseuses *style_verse *genre_ambigu poissard *dist1_taconet_verse_ambigu poissard_ecosseuses *dist2_taconet_verse_ambigu poissard *id_BELLEROSE *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bellerose
 
 Allons, ma belle enfant,
 Je suis content

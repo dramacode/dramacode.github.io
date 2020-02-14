@@ -1,6 +1,6 @@
 
 
-**** *creator_durval *book_durval_agarite *style_verse *genre_tragedy *dist1_durval_verse_tragedy_agarite *dist2_durval_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_leroy
+**** *creator_durval *book_durval_agarite *style_verse *genre_tragedy *dist1_durval_verse_tragedy_agarite *dist2_durval_verse_tragedy *id_le-roy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_leroy
 
 Que les Roys de mon aage ont de trouble en aymant !
 Et qu'un Sceptre déplaist en la main d'un Amant !
@@ -443,7 +443,7 @@ Lors qu'en ceremonie on luy met la Couronne.
 FIN
 
 
-**** *creator_durval *book_durval_agarite *style_verse *genre_tragedy *dist1_durval_verse_tragedy_agarite *dist2_durval_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_celidor
+**** *creator_durval *book_durval_agarite *style_verse *genre_tragedy *dist1_durval_verse_tragedy_agarite *dist2_durval_verse_tragedy *id_celidor *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_celidor
 
       Sire point⁎ de discours⁎
 On ne la peut gaigner par des belles parolles,
@@ -761,7 +761,7 @@ Celuy que dessus tous vous avez plus chery,
 Donnez ce Cavalier à vostre favory⁎.
 
 
-**** *creator_durval *book_durval_agarite *style_verse *genre_tragedy *dist1_durval_verse_tragedy_agarite *dist2_durval_verse_tragedy *date_1636 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_agarite
+**** *creator_durval *book_durval_agarite *style_verse *genre_tragedy *dist1_durval_verse_tragedy_agarite *dist2_durval_verse_tragedy *id_agarite *date_1636 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_agarite
 
 Si le mignon du Roy n'est point⁎ un suborneur⁎
 Qui tâche d'abuser une fille d'honneur⁎,
@@ -1087,7 +1087,7 @@ Et luy ne trouve point⁎ de party plus egal.
 Hé ! mon Pere, prenez vostre fille à mercy.
 
 
-**** *creator_durval *book_durval_agarite *style_verse *genre_tragedy *dist1_durval_verse_tragedy_agarite *dist2_durval_verse_tragedy *date_1636 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_medon
+**** *creator_durval *book_durval_agarite *style_verse *genre_tragedy *dist1_durval_verse_tragedy_agarite *dist2_durval_verse_tragedy *id_medon *date_1636 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_medon
 
 Qu'est-ce que ce mignon peut tant dire à ma fille ?
 Sur la fleur de ses ans je crains cette chenille.
@@ -1255,7 +1255,7 @@ Qu'a voulu gouverner mon avare viellesse.
 Les Dieux en soient loüez.
 
 
-**** *creator_durval *book_durval_agarite *style_verse *genre_tragedy *dist1_durval_verse_tragedy_agarite *dist2_durval_verse_tragedy *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phenice
+**** *creator_durval *book_durval_agarite *style_verse *genre_tragedy *dist1_durval_verse_tragedy_agarite *dist2_durval_verse_tragedy *id_phenice *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phenice
 
 Quand je pense, Madame, au bon-heur qui vous fuit,
 Il me semble de voir un beau jour qui me luit.
@@ -1341,7 +1341,7 @@ C'est le commun souhait de tous les gens de bien⁎,
 Les Dieux vueillent unir vostre cœur et le mien.
 
 
-**** *creator_durval *book_durval_agarite *style_verse *genre_tragedy *dist1_durval_verse_tragedy_agarite *dist2_durval_verse_tragedy *date_1636 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_amelise
+**** *creator_durval *book_durval_agarite *style_verse *genre_tragedy *dist1_durval_verse_tragedy_agarite *dist2_durval_verse_tragedy *id_amelise *date_1636 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_amelise
 
       Phenice taisez vous,
 Je sçay que vous allez me parler d'un espoux,
@@ -1375,7 +1375,7 @@ Agit absolument dessus ma volonté.
 Sire, dessus mon cœur vous serez tousjours Roy.
 
 
-**** *creator_durval *book_durval_agarite *style_verse *genre_tragedy *dist1_durval_verse_tragedy_agarite *dist2_durval_verse_tragedy *date_1636 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_policaste
+**** *creator_durval *book_durval_agarite *style_verse *genre_tragedy *dist1_durval_verse_tragedy_agarite *dist2_durval_verse_tragedy *id_policaste *date_1636 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_policaste
 
 Ha ! nous sommes d'accord, que vous n'en avez point⁎.
 
@@ -1760,7 +1760,7 @@ Mais le frere et la sœur n'auroient pas mieux vécu.
 De passer avec vous cette heureuse alliance.
 
 
-**** *creator_durval *book_durval_agarite *style_verse *genre_tragedy *dist1_durval_verse_tragedy_agarite *dist2_durval_verse_tragedy *date_1636 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_lizene
+**** *creator_durval *book_durval_agarite *style_verse *genre_tragedy *dist1_durval_verse_tragedy_agarite *dist2_durval_verse_tragedy *id_lizene *date_1636 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_lizene
 
       C'est merveilles⁎
 De voir une Beauté qui n'a point⁎ de pareille.
@@ -1861,7 +1861,7 @@ Dans leur sein amoureux des souspirs et des flames⁎.
 Ce sont les Quatre-vents que nous verrons danser,
 
 
-**** *creator_durval *book_durval_agarite *style_verse *genre_tragedy *dist1_durval_verse_tragedy_agarite *dist2_durval_verse_tragedy *date_1636 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_corintie
+**** *creator_durval *book_durval_agarite *style_verse *genre_tragedy *dist1_durval_verse_tragedy_agarite *dist2_durval_verse_tragedy *id_corintie *date_1636 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_corintie
 
       Elle se resoudra
 De prendre le party que son Pere voudra,
@@ -2101,7 +2101,7 @@ Que vostre Majesté, s'il luy plaist, me permette
 D'espouser aujourd'huy celuy que je souhaite.
 
 
-**** *creator_durval *book_durval_agarite *style_verse *genre_tragedy *dist1_durval_verse_tragedy_agarite *dist2_durval_verse_tragedy *date_1636 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_pecheur1
+**** *creator_durval *book_durval_agarite *style_verse *genre_tragedy *dist1_durval_verse_tragedy_agarite *dist2_durval_verse_tragedy *id_pecheur1 *date_1636 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_pecheur1
 
 Tant que dessus les eaux nous voyons la bonasse,
 Les poissons clairvoyants n'entrent point⁎ dans ma Nasse,
@@ -2152,7 +2152,7 @@ Tenez voila de l'eau tant qu'il en peut tenir
 Dans le creux de ma main.
 
 
-**** *creator_durval *book_durval_agarite *style_verse *genre_tragedy *dist1_durval_verse_tragedy_agarite *dist2_durval_verse_tragedy *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_pecheur2
+**** *creator_durval *book_durval_agarite *style_verse *genre_tragedy *dist1_durval_verse_tragedy_agarite *dist2_durval_verse_tragedy *id_pecheur2 *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_pecheur2
 
 Faisons tout bellement pour le tirer dehors,
 L'adresse fait autant que la force du corps.

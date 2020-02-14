@@ -1,6 +1,6 @@
 
 
-**** *creator_donneaudevise *book_donneaudevise_cocueimaginaire *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_cocueimaginaire *dist2_donneaudevise_verse_comedy *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcippe
+**** *creator_donneaudevise *book_donneaudevise_cocueimaginaire *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_cocueimaginaire *dist2_donneaudevise_verse_comedy *id_ALCIPPE *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcippe
 
 Non, n'espérez jamais de m'y voir consentir.
 
@@ -156,7 +156,7 @@ Mais mon père paraît.
 Que ne vous dois-je point pour ce plaisir extrême.
 
 
-**** *creator_donneaudevise *book_donneaudevise_cocueimaginaire *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_cocueimaginaire *dist2_donneaudevise_verse_comedy *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roguespine
+**** *creator_donneaudevise *book_donneaudevise_cocueimaginaire *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_cocueimaginaire *dist2_donneaudevise_verse_comedy *id_ROGUESPINE *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roguespine
 
 À quoi songez-vous donc Monsieur, de rebuter
 Ce que d'autres que vous prendraient sans hésiter.
@@ -252,7 +252,7 @@ Si de l'autre mon maître eût épousé la peau,
 Il eût été chargé de la vache et du veau.
 
 
-**** *creator_donneaudevise *book_donneaudevise_cocueimaginaire *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_cocueimaginaire *dist2_donneaudevise_verse_comedy *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_geronte
+**** *creator_donneaudevise *book_donneaudevise_cocueimaginaire *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_cocueimaginaire *dist2_donneaudevise_verse_comedy *id_GERONTE *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_geronte
 
 Est-ce ainsi qu'à son père, un fils doit répartir ?
 Si vous ne répondez bientôt à mon envie,
@@ -329,7 +329,7 @@ Si votre coeur encor y veut bien consentir
 Et veut me pardonner après mon repentir.
 
 
-**** *creator_donneaudevise *book_donneaudevise_cocueimaginaire *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_cocueimaginaire *dist2_donneaudevise_verse_comedy *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cephise
+**** *creator_donneaudevise *book_donneaudevise_cocueimaginaire *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_cocueimaginaire *dist2_donneaudevise_verse_comedy *id_CEPHISE *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cephise
 
 Oui je m'en ressouviens et je tiens ma promesse,
 Apprends donc le sujet de l'ennui qui me presse.
@@ -469,7 +469,7 @@ Je viens vous reprocher...
 Que ne ferait-on point, hélas, lorsque l'on aime !
 
 
-**** *creator_donneaudevise *book_donneaudevise_cocueimaginaire *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_cocueimaginaire *dist2_donneaudevise_verse_comedy *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_paquette
+**** *creator_donneaudevise *book_donneaudevise_cocueimaginaire *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_cocueimaginaire *dist2_donneaudevise_verse_comedy *id_PAQUETTE *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_paquette
 
 Quel bruit viens-je d'entendre auprès de ma fenêtre ?
 
@@ -733,7 +733,7 @@ Oui, puisque enfin notre homme est bonhomme ma foi,
 Touche-là.
 
 
-**** *creator_donneaudevise *book_donneaudevise_cocueimaginaire *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_cocueimaginaire *dist2_donneaudevise_verse_comedy *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_spadarille
+**** *creator_donneaudevise *book_donneaudevise_cocueimaginaire *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_cocueimaginaire *dist2_donneaudevise_verse_comedy *id_SPADARILLE *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_spadarille
 
 Que vois-je, juste Ciel ! je crois que c'est ma femme,
 Qui tient dedans ses bras... elle mourra l'infâme

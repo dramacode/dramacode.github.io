@@ -1,6 +1,6 @@
 
 
-**** *creator_legrand *book_legrand_usuriergentilhomme *style_prose *genre_comedy *dist1_legrand_prose_comedy_usuriergentilhomme *dist2_legrand_prose_comedy *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fontaubin
+**** *creator_legrand *book_legrand_usuriergentilhomme *style_prose *genre_comedy *dist1_legrand_prose_comedy_usuriergentilhomme *dist2_legrand_prose_comedy *id_FONTAUBIN *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fontaubin
 
 Ma fille, je ne crois point tout ce que vous me dites.
 Enfin nous voici tous rassemblés.
@@ -58,7 +58,7 @@ Ne poussons pas les choses plus loin, et n'insultons point ces gens-ci dans leur
 Achève donc ton divertissement ; c'en sera assez.
 
 
-**** *creator_legrand *book_legrand_usuriergentilhomme *style_prose *genre_comedy *dist1_legrand_prose_comedy_usuriergentilhomme *dist2_legrand_prose_comedy *date_1713 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_henriette
+**** *creator_legrand *book_legrand_usuriergentilhomme *style_prose *genre_comedy *dist1_legrand_prose_comedy_usuriergentilhomme *dist2_legrand_prose_comedy *id_HENRIETTE *date_1713 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_henriette
 
 Non, Licaste, je ne puis plus vous parler.
 
@@ -102,7 +102,7 @@ Courons au-devant de mon père, et tâchons de le prévenir sur tout ceci.
 Elle a raison, cela nous mettra de bonne humeur : nous aimons tous la musique.
 
 
-**** *creator_legrand *book_legrand_usuriergentilhomme *style_prose *genre_comedy *dist1_legrand_prose_comedy_usuriergentilhomme *dist2_legrand_prose_comedy *date_1713 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_licaste
+**** *creator_legrand *book_legrand_usuriergentilhomme *style_prose *genre_comedy *dist1_legrand_prose_comedy_usuriergentilhomme *dist2_legrand_prose_comedy *id_LICASTE *date_1713 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_licaste
 
 Charmante Henriette !...
 
@@ -145,7 +145,7 @@ Mais, Madame, que je sache, au moins, vos senti- mens avant de me séparer de vo
 Mpnsieur, il est encore temps de me la tenir. J'apprends dans ce moment que j'ai gagné mon procès avec dépens ; mais cette fortune ne peut me rendre heureux si je ne la partage avec la belle Henriette.
 
 
-**** *creator_legrand *book_legrand_usuriergentilhomme *style_prose *genre_comedy *dist1_legrand_prose_comedy_usuriergentilhomme *dist2_legrand_prose_comedy *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurmananville
+**** *creator_legrand *book_legrand_usuriergentilhomme *style_prose *genre_comedy *dist1_legrand_prose_comedy_usuriergentilhomme *dist2_legrand_prose_comedy *id_MONSIEURMANANVILLE *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurmananville
 
 Mais, Monsieur le petit maroufle, apprenez que je ne me mêle plus d'affaires, depuis que je suis de qualité.
 
@@ -264,7 +264,7 @@ Que le Diable l'emporte ; il vient encore nous faire de nouvelles insultes.
 Je saurai me venger tôt ou tard.
 
 
-**** *creator_legrand *book_legrand_usuriergentilhomme *style_prose *genre_comedy *dist1_legrand_prose_comedy_usuriergentilhomme *dist2_legrand_prose_comedy *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamemananville
+**** *creator_legrand *book_legrand_usuriergentilhomme *style_prose *genre_comedy *dist1_legrand_prose_comedy_usuriergentilhomme *dist2_legrand_prose_comedy *id_MADAMEMANANVILLE *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamemananville
 
 Laquais, holà, laquais, mes gens ; où est donc toute cette canaille ?
 
@@ -353,7 +353,7 @@ Ah ! Je n'en puis plus. Vous voudriez Monsieur mon mari être allié à un garni
 Rentrons dans mon appartement, Monsieur, jusqu'à ce que je soyons débarrassés de toute cette cohue ; en restant, j'exposerions notre qualité à de nouviaux affronts.
 
 
-**** *creator_legrand *book_legrand_usuriergentilhomme *style_prose *genre_comedy *dist1_legrand_prose_comedy_usuriergentilhomme *dist2_legrand_prose_comedy *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colas
+**** *creator_legrand *book_legrand_usuriergentilhomme *style_prose *genre_comedy *dist1_legrand_prose_comedy_usuriergentilhomme *dist2_legrand_prose_comedy *id_COLAS *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colas
 
 Bonjour, Catau ; bonjour, Claude ; bonjour... Tatigué, que vous velà braves tretous, depuis trois ans que je ne vous ai vus !
 
@@ -428,7 +428,7 @@ Oh ! Morguenne...
 Oh ! Morgué, moi, je m'en retourne à Charonne.
 
 
-**** *creator_legrand *book_legrand_usuriergentilhomme *style_prose *genre_comedy *dist1_legrand_prose_comedy_usuriergentilhomme *dist2_legrand_prose_comedy *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+**** *creator_legrand *book_legrand_usuriergentilhomme *style_prose *genre_comedy *dist1_legrand_prose_comedy_usuriergentilhomme *dist2_legrand_prose_comedy *id_FRONTIN *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
 
 Je viens du logis, où l'on m'a dit que vous étiez ici.
 
@@ -504,7 +504,7 @@ Monsieur, il est bon que je fasse un peu de tapage ici. Mananville, est un chica
 Tu sais, Lisette, que j'ai quitté Marine pour toi ; tu veux t'engager dans ma compagnie je te donnerai ton congé au bout de trois mois.
 
 
-**** *creator_legrand *book_legrand_usuriergentilhomme *style_prose *genre_comedy *dist1_legrand_prose_comedy_usuriergentilhomme *dist2_legrand_prose_comedy *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisette
+**** *creator_legrand *book_legrand_usuriergentilhomme *style_prose *genre_comedy *dist1_legrand_prose_comedy_usuriergentilhomme *dist2_legrand_prose_comedy *id_LISETTE *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisette
 
 Madame Mananville et le Baron de la Gruaudiere, son fils, sont visibles, et viennent de ce côté ; songez à vous.
 
@@ -586,7 +586,7 @@ Songez qu'il vient un temps où l'on' n'excite guère ;
 La curiosité.
 
 
-**** *creator_legrand *book_legrand_usuriergentilhomme *style_prose *genre_comedy *dist1_legrand_prose_comedy_usuriergentilhomme *dist2_legrand_prose_comedy *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ragotin
+**** *creator_legrand *book_legrand_usuriergentilhomme *style_prose *genre_comedy *dist1_legrand_prose_comedy_usuriergentilhomme *dist2_legrand_prose_comedy *id_RAGOTIN *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ragotin
 
 MAdame, voilà un paysan de Charonne, qui dit qu'il est le frère de Monsieur.
 

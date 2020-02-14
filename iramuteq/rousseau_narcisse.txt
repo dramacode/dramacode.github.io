@@ -1,6 +1,6 @@
 
 
-**** *creator_rousseau *book_rousseau_narcisse *style_prose *genre_comedy *dist1_rousseau_prose_comedy_narcisse *dist2_rousseau_prose_comedy *date_1752 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisimon
+**** *creator_rousseau *book_rousseau_narcisse *style_prose *genre_comedy *dist1_rousseau_prose_comedy_narcisse *dist2_rousseau_prose_comedy *id_LISIMON *date_1752 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisimon
 
 Hé ben, mon fils ?
 
@@ -53,7 +53,7 @@ Oh, oh ! Vous avez bien changé de langage ! Et toi, Lucinde, aimes-tu toujour
 Ah ! Les voilà tous raisonnables. J'en suis charmé. Embrassez-moi, mes enfants, et allons conclure ces heureux hyménées. Ce que c'est qu'un coup d'autorité frappé à propos !
 
 
-**** *creator_rousseau *book_rousseau_narcisse *style_prose *genre_comedy *dist1_rousseau_prose_comedy_narcisse *dist2_rousseau_prose_comedy *date_1752 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+**** *creator_rousseau *book_rousseau_narcisse *style_prose *genre_comedy *dist1_rousseau_prose_comedy_narcisse *dist2_rousseau_prose_comedy *id_VALERE *date_1752 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
 
 Sangaride, ce jour est un grand jour vous.
 
@@ -268,7 +268,7 @@ Oui, mon père ; mais au lieu des peines du mariage, elles ne m'en offrent plus
 Venez, belle Angélique ; vous m'avez guéri d'un ridicule qui faisait la honte de ma jeunesse ; et je vais désormais éprouver près de vous que quand on aime bien, on ne songe plus à soi-même.
 
 
-**** *creator_rousseau *book_rousseau_narcisse *style_prose *genre_comedy *dist1_rousseau_prose_comedy_narcisse *dist2_rousseau_prose_comedy *date_1752 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucinde
+**** *creator_rousseau *book_rousseau_narcisse *style_prose *genre_comedy *dist1_rousseau_prose_comedy_narcisse *dist2_rousseau_prose_comedy *id_LUCINDE *date_1752 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucinde
 
 Je viens de voir frère se promener dans le jardin, hâtons-nous, avant son retour, de placer son portrait sur sa toilette.
 
@@ -367,7 +367,7 @@ Que je prends de part à votre bonheur ! Et que le mien même en est augmenté�
 Je sens, mon père, qu'il peut être doux de la perdre sous les lois du devoir.
 
 
-**** *creator_rousseau *book_rousseau_narcisse *style_prose *genre_comedy *dist1_rousseau_prose_comedy_narcisse *dist2_rousseau_prose_comedy *date_1752 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+**** *creator_rousseau *book_rousseau_narcisse *style_prose *genre_comedy *dist1_rousseau_prose_comedy_narcisse *dist2_rousseau_prose_comedy *id_LEANDRE *date_1752 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
 
 Si mon amour excite votre haine, connaissez combien je suis criminel. Il se jette aux genoux de Lucinde.
 
@@ -382,7 +382,7 @@ Souffrez, Monsieur...
 Eh, Monsieur ! Daignez suspendre votre courroux. Ne lisez-vous pas le repentir des coupables dans leurs yeux et dans leur embarras, et voulez-vous confondre les innocents dans la même punition ?
 
 
-**** *creator_rousseau *book_rousseau_narcisse *style_prose *genre_comedy *dist1_rousseau_prose_comedy_narcisse *dist2_rousseau_prose_comedy *date_1752 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+**** *creator_rousseau *book_rousseau_narcisse *style_prose *genre_comedy *dist1_rousseau_prose_comedy_narcisse *dist2_rousseau_prose_comedy *id_ANGELIQUE *date_1752 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
 
 Ma chère Lucinde, vous savez avec quelle répugnance je me prêtai à votre projet quand vous fîtes changer la parure du portrait de Valère en des ajustements de femme. À présent que je vous vois prête à l'exécuter, je tremble que le déplaisir de se voir jouer indispose contre nous. Renonçons, je vous prie, à ce frivole badinage. Je sens que je ne puis trouver de goût à m'égayer au risque du repos de mon coeur.
 
@@ -514,7 +514,7 @@ Ingrat ! Avais-je tort de vous dire que j'aimais l'original de ce portrait ?
 Vous voulez bien que pour affermir notre réconciliation je vous présente Léandre mon frère.
 
 
-**** *creator_rousseau *book_rousseau_narcisse *style_prose *genre_comedy *dist1_rousseau_prose_comedy_narcisse *dist2_rousseau_prose_comedy *date_1752 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
+**** *creator_rousseau *book_rousseau_narcisse *style_prose *genre_comedy *dist1_rousseau_prose_comedy_narcisse *dist2_rousseau_prose_comedy *id_MARTON *date_1752 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
 
 Le voilà, Mademoiselle, changé dans ses ajustements de manière à le rendre méconnaissable. Quoiqu'il soit le plus joli homme du monde, il brille ici en femme encore avec de nouvelles grâces.
 
@@ -586,7 +586,7 @@ Fort bien, ma foi ! Voilà qui est toise, on ne peut pas mieux.
 Voyez si pas un d'eux desserrera les dents ! La peste des sots amants et de la sotte jeunesse dont l'inutile babil ne tarit point, et qui ne savent trouver un mot dans une occasion nécessaire !
 
 
-**** *creator_rousseau *book_rousseau_narcisse *style_prose *genre_comedy *dist1_rousseau_prose_comedy_narcisse *dist2_rousseau_prose_comedy *date_1752 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+**** *creator_rousseau *book_rousseau_narcisse *style_prose *genre_comedy *dist1_rousseau_prose_comedy_narcisse *dist2_rousseau_prose_comedy *id_FRONTIN *date_1752 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
 
 Sangaride ; c'est-à-dire, Angélique. Oui, c'est un grand jour que celui de la noce, et qui même allonge diablement tous ceux qui le suivent.
 

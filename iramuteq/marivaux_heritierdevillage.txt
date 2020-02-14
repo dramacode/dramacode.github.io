@@ -1,6 +1,6 @@
 
 
-**** *creator_marivaux *book_marivaux_heritierdevillage *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heritierdevillage *dist2_marivaux_prose_comedy *date_1725 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedamis
+**** *creator_marivaux *book_marivaux_heritierdevillage *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heritierdevillage *dist2_marivaux_prose_comedy *id_MADAMEDAMIS *date_1725 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedamis
 
 Feu Monsieur Damis ne m'a laissé qu'un bien assez en désordre ; j'ai besoin de beaucoup d'économie, et le séjour de Paris me ruinerait ; mais je ne le regrette pas beaucoup, car je ne le connais guère. Ah ! Vous voilà ; Claudine, votre mari est-il revenu, a-t-il fait nos commissions ?
 
@@ -51,7 +51,7 @@ En vérité, l'Amour est un grand maître ! Il a déjà rendu ses simplicités a
 Allons, Monsieur le Chevalier, donnez-moi la main ; retirons-nous, car il se fait tard.
 
 
-**** *creator_marivaux *book_marivaux_heritierdevillage *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heritierdevillage *dist2_marivaux_prose_comedy *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+**** *creator_marivaux *book_marivaux_heritierdevillage *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heritierdevillage *dist2_marivaux_prose_comedy *id_LECHEVALIER *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
 
 Je suis de votre goût, Madame ; j'aime Paris, c'est le salut du galant homme ; mais il fait cher vivre à l'auberge.
 
@@ -181,7 +181,7 @@ Le régiment, le banqueroutier le réforme, il emporte la caisse.
 Je t'entends, faquin.
 
 
-**** *creator_marivaux *book_marivaux_heritierdevillage *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heritierdevillage *dist2_marivaux_prose_comedy *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blaise
+**** *creator_marivaux *book_marivaux_heritierdevillage *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heritierdevillage *dist2_marivaux_prose_comedy *id_BLAISE *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blaise
 
 Eh oui, note femme ; c'est li-même en parsonne.
 
@@ -377,7 +377,7 @@ Et moi, je pense qu'il y a encore du vin dans le pot et que j'allons le boire. A
 Venez boire itou, vous ; bon voyage après, et pis, adieu le biau monde.
 
 
-**** *creator_marivaux *book_marivaux_heritierdevillage *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heritierdevillage *dist2_marivaux_prose_comedy *date_1725 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_claudine
+**** *creator_marivaux *book_marivaux_heritierdevillage *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heritierdevillage *dist2_marivaux_prose_comedy *id_CLAUDINE *date_1725 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_claudine
 
 Eh je pense que velà Blaise !
 
@@ -502,7 +502,7 @@ Queu plaisir ! Oh bian je nous accordons à tout, pourveu que Madame n'aille pas
 Je pense que velà bian des équipages de chus, et des casaques de reste.
 
 
-**** *creator_marivaux *book_marivaux_heritierdevillage *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heritierdevillage *dist2_marivaux_prose_comedy *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colin
+**** *creator_marivaux *book_marivaux_heritierdevillage *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heritierdevillage *dist2_marivaux_prose_comedy *id_COLIN *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colin
 
 Oh ! Oh ! Oh !
 
@@ -559,7 +559,7 @@ Alle me trouve gaillard, et alle dit qu'alle est bian contente ; mais velà des 
 Pardi ! C'est une accordée de pardue ; tu me quittes, je te quitte, et vive la joie ! Dansons, papa.
 
 
-**** *creator_marivaux *book_marivaux_heritierdevillage *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heritierdevillage *dist2_marivaux_prose_comedy *date_1725 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colette
+**** *creator_marivaux *book_marivaux_heritierdevillage *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heritierdevillage *dist2_marivaux_prose_comedy *id_COLETTE *date_1725 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colette
 
 Allez-y voir ; vous n'avez rien à me commander.
 
@@ -648,7 +648,7 @@ Oh ! Pour ça, oui, vous me plaisez ; n'y a que faire de patarafe à ça.
 Velà donc cet homme qui me voulait bailler tout un régiment de coeurs!
 
 
-**** *creator_marivaux *book_marivaux_heritierdevillage *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heritierdevillage *dist2_marivaux_prose_comedy *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_marivaux *book_marivaux_heritierdevillage *style_prose *genre_comedy *dist1_marivaux_prose_comedy_heritierdevillage *dist2_marivaux_prose_comedy *id_ARLEQUIN *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Est-ce pour moi les cinq sols, Monsieur Blaise ?
 

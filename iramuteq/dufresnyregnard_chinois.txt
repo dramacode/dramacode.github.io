@@ -1,6 +1,6 @@
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_chinois *style_prose *genre_comedy *dist1_dufresnyregnard_prose_comedy_chinois *dist2_dufresnyregnard_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
+**** *creator_dufresnyregnard *book_dufresnyregnard_chinois *style_prose *genre_comedy *dist1_dufresnyregnard_prose_comedy_chinois *dist2_dufresnyregnard_prose_comedy *id_APOLLON *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
 
 Qui rend donc Pégase si hargneux ? Apparemment, mademoiselle Thalie, que vous avez oublié de lui donner son avoine aujourd'hui.
 
@@ -31,7 +31,7 @@ Et votre mère se scandalise de ce mot-là ?
 Je vous assure, la belle, que désormais les mères seront contentes, et que je vais de ce pas vous mener avec moi chez les Italiens, où j'assemblerai les comédiens, et je leur ordonnerai de rayer de leurs comédies tous les mots trop éveillés, et notamment tous les cocus qu'il y aura.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_chinois *style_prose *genre_comedy *dist1_dufresnyregnard_prose_comedy_chinois *dist2_dufresnyregnard_prose_comedy *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
+**** *creator_dufresnyregnard *book_dufresnyregnard_chinois *style_prose *genre_comedy *dist1_dufresnyregnard_prose_comedy_chinois *dist2_dufresnyregnard_prose_comedy *id_THALIE *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
 
 Ne vous souvenez-vous pas que ce n'est plus moi qui le panse ? Vous en avez donné la charge aux auteurs ; et depuis ce temps aussi, le pauvre animal, hélas ! Les os lui percent la peau.
 
@@ -76,7 +76,7 @@ Allons, allons, courage ; serrez-vous le nez, et avalez la médecine.
 Pourvu qu'il n'y ait que ce défaut-là, vous n'êtes pas à plaindre. C'est moi qui fais les lois de la comédie, et j'ordonne que ce prologue-ci passera pour un acte.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_chinois *style_prose *genre_comedy *dist1_dufresnyregnard_prose_comedy_chinois *dist2_dufresnyregnard_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roquillard
+**** *creator_dufresnyregnard *book_dufresnyregnard_chinois *style_prose *genre_comedy *dist1_dufresnyregnard_prose_comedy_chinois *dist2_dufresnyregnard_prose_comedy *id_ROQUILLARD *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roquillard
 
 Certes, nul huissier, tant à verge qu'à cheval, n'oserait avoir regardé la porte de ce mien château : il fut de tout temps le cimetière des sergents. Feu mon trisaïeul, Matthieu Roquillard, d'un seul coup d'arquebuse a mis bas cinq recors et deux procureurs fiscaux.
 
@@ -151,7 +151,7 @@ Je ne veux pas la lui donner, moi.
 Le Parterre a le ton impératif.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_chinois *style_prose *genre_comedy *dist1_dufresnyregnard_prose_comedy_chinois *dist2_dufresnyregnard_prose_comedy *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+**** *creator_dufresnyregnard *book_dufresnyregnard_chinois *style_prose *genre_comedy *dist1_dufresnyregnard_prose_comedy_chinois *dist2_dufresnyregnard_prose_comedy *id_ISABELLE *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
 
 Bon, bon ! Le mariage ! Voilà encore quelque chose de beau ! Ne me parle jamais de cette sottise-1à. Dis-moi, Colombine, ai-je bien placé mes mouches ? Me trouves-tu coiffée du bon air ?
 
@@ -240,7 +240,7 @@ Utilement ! Et à quel usage ?
 Franchement, monsieur le Major, je voudrais bien épouser un homme tout entier.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_chinois *style_prose *genre_comedy *dist1_dufresnyregnard_prose_comedy_chinois *dist2_dufresnyregnard_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octave
+**** *creator_dufresnyregnard *book_dufresnyregnard_chinois *style_prose *genre_comedy *dist1_dufresnyregnard_prose_comedy_chinois *dist2_dufresnyregnard_prose_comedy *id_OCTAVE *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octave
 
 Enfin, charmante Isabelle, me voilà seul avec vous, et je puis en liberté...
 
@@ -265,7 +265,7 @@ Comment veux-tu que je lui fasse entendre mes raisons ? Il ne sait pas l'italie
 Ah, ma pauvre Colombine ! Il n'y a rien que tu ne doives attendre de moi, si, par ton moyen, j'épouse Isabelle.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_chinois *style_prose *genre_comedy *dist1_dufresnyregnard_prose_comedy_chinois *dist2_dufresnyregnard_prose_comedy *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colombine
+**** *creator_dufresnyregnard *book_dufresnyregnard_chinois *style_prose *genre_comedy *dist1_dufresnyregnard_prose_comedy_chinois *dist2_dufresnyregnard_prose_comedy *id_COLOMBINE *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colombine
 
 Il est bien question aujourd'hui de mouches et de fontanges ! Voyez-vous toutes ces pyramides-là, ce sont de beaux bouchons à un cabaret où l'on meurt de soif. L'essentiel pour une fille, c'est un mari, et un mari dans toutes ses circonstances.
 
@@ -404,7 +404,7 @@ Cela est vrai. Mais si tous les marchands à qui ils doivent leur tiraient chacu
 Je ne sais quelle couleur les passions prennent sur le visage de vos comédiens ; mais sur celui de vos comédiennes, elles sont toutes peintes en rouge.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_chinois *style_prose *genre_comedy *dist1_dufresnyregnard_prose_comedy_chinois *dist2_dufresnyregnard_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+**** *creator_dufresnyregnard *book_dufresnyregnard_chinois *style_prose *genre_comedy *dist1_dufresnyregnard_prose_comedy_chinois *dist2_dufresnyregnard_prose_comedy *id_PIERROT *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
 
 Diantre ! Tout le pays lui eut bien de l'obligation ; car un de ces animaux-là fait plus de dégât dans une province que douze bêtes puantes dans une garenne. Mais que veut dire toute cette belle architecture ? Cela flaire diablement la noce. Au moins, ne vous avisez pas de faire cette sottise-là.
 
@@ -439,7 +439,7 @@ Et en quelle qualité, monsieur, serviez-vous dans l'armée ?
 Vous aviez là, monsieur, un commandement digne de vos mérites.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_chinois *style_prose *genre_comedy *dist1_dufresnyregnard_prose_comedy_chinois *dist2_dufresnyregnard_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+**** *creator_dufresnyregnard *book_dufresnyregnard_chinois *style_prose *genre_comedy *dist1_dufresnyregnard_prose_comedy_chinois *dist2_dufresnyregnard_prose_comedy *id_ARLEQUIN *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
 Ton, ton, ton, ton, ho, ho ! Gerfaut, Briffaut, Miraut, Marmiteau ! Ho, ho, ho !
 Mademoiselle, quand on chasse une jolie bête comme vous, on n'a pas besoin de chiens pour découvrir où vous êtes ; il est aisé de vous suivre à la piste, et le fumet de vos appas porte au nez de plus de cinq cents pas à la ronde.
@@ -540,7 +540,7 @@ Que dites-vous, la majoresse de ma minorité ?
 Parlez, parlez donc, barbe de chat ; avez-vous jamais été tué ? Savez-vous que quand un homme comme vous refuse sa fille à un homme comme moi, j'assiège la fille en forme comme une place de guerre ? Vous allez voir.
 
 
-**** *creator_dufresnyregnard *book_dufresnyregnard_chinois *style_prose *genre_comedy *dist1_dufresnyregnard_prose_comedy_chinois *dist2_dufresnyregnard_prose_comedy *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mezzetin
+**** *creator_dufresnyregnard *book_dufresnyregnard_chinois *style_prose *genre_comedy *dist1_dufresnyregnard_prose_comedy_chinois *dist2_dufresnyregnard_prose_comedy *id_MEZZETIN *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mezzetin
 
 Mademoiselle, je suis l'écuyer de monsieur le baron de la Dindonnière ; il vous envoie cette bête-là, en attendant qu'il vienne ici lui-même.
 

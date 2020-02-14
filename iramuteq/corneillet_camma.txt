@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillet *book_corneillet_camma *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_camma *dist2_corneillet_verse_tragedy *date_1661 *sexe_feminin *age_veteran *statut_maitre *fonction_autres *role_camma
+**** *creator_corneillet *book_corneillet_camma *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_camma *dist2_corneillet_verse_tragedy *id_camma *date_1661 *sexe_feminin *age_veteran *statut_maitre *fonction_autres *role_camma
 
 Le chagrin⁎ où je vis me rend si peu traitable⁎,
 Que souvent malgré moy son aigreur⁎ vous accable,
@@ -660,7 +660,7 @@ Il te suffit enfin de sçavoir que ta Reine…
 Qu'on m'emporte, je meurs, et mes sens interdits⁎…
 
 
-**** *creator_corneillet *book_corneillet_camma *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_camma *dist2_corneillet_verse_tragedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_sinorix
+**** *creator_corneillet *book_corneillet_camma *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_camma *dist2_corneillet_verse_tragedy *id_sinorix *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_sinorix
 
 Tu dis vray, cher Phaedime, on auroit peine à croire
 Qu'un grand cœur soûpirast au milieu de la gloire,
@@ -1409,7 +1409,7 @@ Ce cœur qui ne voit rien de si rude à souffrir⁎
 Ne prend plus que de moy les ordres de mourir.
 
 
-**** *creator_corneillet *book_corneillet_camma *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_camma *dist2_corneillet_verse_tragedy *date_1661 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_hesione
+**** *creator_corneillet *book_corneillet_camma *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_camma *dist2_corneillet_verse_tragedy *id_hesione *date_1661 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_hesione
 
 Madame, je ne sçay si dans ce qui se passe
 De mes ressentimens vous approuvez l'audace,
@@ -1694,7 +1694,7 @@ Adieu, je vais agir, cependant souviens-toy
 Que tu peux, si je regne, esperer tout de moy.
 
 
-**** *creator_corneillet *book_corneillet_camma *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_camma *dist2_corneillet_verse_tragedy *date_1661 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_sostrate
+**** *creator_corneillet *book_corneillet_camma *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_camma *dist2_corneillet_verse_tragedy *id_sostrate *date_1661 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_sostrate
 
 Madame, le respect accompagne mon feu⁎,
 Sinorix jusqu'à vous en a porté l'audace,
@@ -2107,7 +2107,7 @@ Pour m'arrester le bras en de pareils ennuis⁎,
 Helas ! me sauvez-vous de la rage où je suis ?
 
 
-**** *creator_corneillet *book_corneillet_camma *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_camma *dist2_corneillet_verse_tragedy *date_1661 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_phaedime
+**** *creator_corneillet *book_corneillet_camma *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_camma *dist2_corneillet_verse_tragedy *id_phaedime *date_1661 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_phaedime
 
 C'est vous plaire, Seigneur, à croistre vostre peine,
 Que d'expliquer si mal les refus de la Reine,
@@ -2194,7 +2194,7 @@ Ah, Seigneur, les Mutins assiegent le Palais,
 Et chacun à hauts cris demandant la Princesse …
 
 
-**** *creator_corneillet *book_corneillet_camma *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_camma *dist2_corneillet_verse_tragedy *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sosime
+**** *creator_corneillet *book_corneillet_camma *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_camma *dist2_corneillet_verse_tragedy *id_sosime *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sosime
 
 Seigneur.
 
@@ -2289,7 +2289,7 @@ Esleve la Princesse au Trône de nos Rois.
       Seigneur, qu'allez-vous faire ?
 
 
-**** *creator_corneillet *book_corneillet_camma *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_camma *dist2_corneillet_verse_tragedy *date_1661 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_phenice
+**** *creator_corneillet *book_corneillet_camma *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_camma *dist2_corneillet_verse_tragedy *id_phenice *date_1661 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_phenice
 
 Si dans vos déplaisirs⁎ la vangeance vous flate⁎,
 Pour en jouïr, Madame, il est temps qu'elle éclate,

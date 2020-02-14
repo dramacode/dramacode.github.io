@@ -1,6 +1,6 @@
 
 
-**** *creator_voltaire *book_voltaire_adelaide *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_adelaide *dist2_voltaire_verse_tragedy *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_vendome
+**** *creator_voltaire *book_voltaire_adelaide *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_adelaide *dist2_voltaire_verse_tragedy *id_VENDOME *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_vendome
 
       J'oublie à vos genoux, charmante Adélaïde,
 Le trouble et les horreurs où mon destin me guide ;
@@ -678,7 +678,7 @@ Bon Français, meilleur frère, ami, sujet fidèle ;
 Es-tu content, Coucy ?
 
 
-**** *creator_voltaire *book_voltaire_adelaide *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_adelaide *dist2_voltaire_verse_tragedy *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nemours
+**** *creator_voltaire *book_voltaire_adelaide *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_adelaide *dist2_voltaire_verse_tragedy *id_NEMOURS *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nemours
 
       Entreprise funeste
 Qui de ma triste vie arrachera le reste !
@@ -973,7 +973,7 @@ Moi, vous haïr jamais ! Vendôme, mon cher frère !
 J'osai vous outrager... vous me servez de père.
 
 
-**** *creator_voltaire *book_voltaire_adelaide *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_adelaide *dist2_voltaire_verse_tragedy *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_coucy
+**** *creator_voltaire *book_voltaire_adelaide *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_adelaide *dist2_voltaire_verse_tragedy *id_COUCY *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_coucy
 
 Digne sang de Guesclin, vous qu'on voit aujourd'hui
 Le charme des Français dont il était l'appui,
@@ -1400,7 +1400,7 @@ Sûr que le repentir vous ouvrirait les yeux.
 Et du sang des Bourbons je n'attendais pas moins.
 
 
-**** *creator_voltaire *book_voltaire_adelaide *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_adelaide *dist2_voltaire_verse_tragedy *date_1734 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_adelaide
+**** *creator_voltaire *book_voltaire_adelaide *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_adelaide *dist2_voltaire_verse_tragedy *id_ADELAIDE *date_1734 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_adelaide
 
 Je sais quel est Coucy ; sa noble intégrité
 Sur ses lèvres toujours plaça la vérité.
@@ -1861,7 +1861,7 @@ La plus tendre amitié va me rejoindre à vous.
 Vous me payez trop bien de ma douleur soufferte.
 
 
-**** *creator_voltaire *book_voltaire_adelaide *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_adelaide *dist2_voltaire_verse_tragedy *date_1734 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_taise
+**** *creator_voltaire *book_voltaire_adelaide *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_adelaide *dist2_voltaire_verse_tragedy *id_TAISE *date_1734 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_taise
 
 Quoi ! Du duc de Vendôme et le choix et l'amour,
 Quoi ! Ce rang qui ferait le bonheur ou l'envie
@@ -1906,7 +1906,7 @@ Au nom de cet amour, arrêtez, demeurez ;
 Reprenez vos esprits.
 
 
-**** *creator_voltaire *book_voltaire_adelaide *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_adelaide *dist2_voltaire_verse_tragedy *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dangeste
+**** *creator_voltaire *book_voltaire_adelaide *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_adelaide *dist2_voltaire_verse_tragedy *id_DANGESTE *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dangeste
 
 Vous la verrez, seigneur.
 
@@ -1944,7 +1944,7 @@ Elle versait des pleurs, et voulait les cacher.
 S'il s'en vantait lui-même, en pouvez-vous douter ?
 
 
-**** *creator_voltaire *book_voltaire_adelaide *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_adelaide *dist2_voltaire_verse_tragedy *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_officier
+**** *creator_voltaire *book_voltaire_adelaide *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_adelaide *dist2_voltaire_verse_tragedy *id_OFFICIER *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_officier
 
 Seigneur, ils vous ont vu : leur foule est dispersée.
 

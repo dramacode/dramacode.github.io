@@ -1,6 +1,6 @@
 
 
-**** *creator_marivaux *book_marivaux_joieimprevue *style_prose *genre_comedy *dist1_marivaux_prose_comedy_joieimprevue *dist2_marivaux_prose_comedy *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurorgon
+**** *creator_marivaux *book_marivaux_joieimprevue *style_prose *genre_comedy *dist1_marivaux_prose_comedy_joieimprevue *dist2_marivaux_prose_comedy *id_MONSIEURORGON *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurorgon
 
 Tu as donc bien de la peine à me reconnaître, faquin ?
 
@@ -86,7 +86,7 @@ Quoi ! Belle Constance, ignoriez-vous que Damon est mon fils ?
 Allons, Madame.
 
 
-**** *creator_marivaux *book_marivaux_joieimprevue *style_prose *genre_comedy *dist1_marivaux_prose_comedy_joieimprevue *dist2_marivaux_prose_comedy *date_1738 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedorville
+**** *creator_marivaux *book_marivaux_joieimprevue *style_prose *genre_comedy *dist1_marivaux_prose_comedy_joieimprevue *dist2_marivaux_prose_comedy *id_MADAMEDORVILLE *date_1738 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedorville
 
 Avez-vous parlé à ce garçon de ce que je vous ai dit ?
 
@@ -160,7 +160,7 @@ Plus que jamais, je vous assure que votre fils l'épousera.
 Vous voyez bien qu'ils sont assez d'accord ; ce n'est pas la peine de rentrer dans le bal, je pense, allons souper chez moi.
 
 
-**** *creator_marivaux *book_marivaux_joieimprevue *style_prose *genre_comedy *dist1_marivaux_prose_comedy_joieimprevue *dist2_marivaux_prose_comedy *date_1738 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_constance
+**** *creator_marivaux *book_marivaux_joieimprevue *style_prose *genre_comedy *dist1_marivaux_prose_comedy_joieimprevue *dist2_marivaux_prose_comedy *id_CONSTANCE *date_1738 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_constance
 
 Assurément, ma mère.
 
@@ -224,7 +224,7 @@ Damon ! Mais ce n'est pas de lui dont je parle.
 Je ne le savais pas. J'obéirai donc.
 
 
-**** *creator_marivaux *book_marivaux_joieimprevue *style_prose *genre_comedy *dist1_marivaux_prose_comedy_joieimprevue *dist2_marivaux_prose_comedy *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damon
+**** *creator_marivaux *book_marivaux_joieimprevue *style_prose *genre_comedy *dist1_marivaux_prose_comedy_joieimprevue *dist2_marivaux_prose_comedy *id_DAMON *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damon
 
 Tais-toi, laisse-moi seul.
 
@@ -372,7 +372,7 @@ Qu'entends-je ?
 Ah, Madame !
 
 
-**** *creator_marivaux *book_marivaux_joieimprevue *style_prose *genre_comedy *dist1_marivaux_prose_comedy_joieimprevue *dist2_marivaux_prose_comedy *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+**** *creator_marivaux *book_marivaux_joieimprevue *style_prose *genre_comedy *dist1_marivaux_prose_comedy_joieimprevue *dist2_marivaux_prose_comedy *id_LECHEVALIER *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
 
 Où est ton maître, Pasquin ?
 
@@ -452,7 +452,7 @@ Son père !
 Voilà qui est fort touchant ; mais j'allais lui donner sa revanche ; j'offre de vous la donner à vous-même.
 
 
-**** *creator_marivaux *book_marivaux_joieimprevue *style_prose *genre_comedy *dist1_marivaux_prose_comedy_joieimprevue *dist2_marivaux_prose_comedy *date_1738 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_marivaux *book_marivaux_joieimprevue *style_prose *genre_comedy *dist1_marivaux_prose_comedy_joieimprevue *dist2_marivaux_prose_comedy *id_LISETTE *date_1738 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Je crois qu'oui, Monsieur.
 
@@ -646,7 +646,7 @@ Adieu, Monsieur.
 Ce n'est pas la peine, je vous amusais aussi, moi.
 
 
-**** *creator_marivaux *book_marivaux_joieimprevue *style_prose *genre_comedy *dist1_marivaux_prose_comedy_joieimprevue *dist2_marivaux_prose_comedy *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pasquin
+**** *creator_marivaux *book_marivaux_joieimprevue *style_prose *genre_comedy *dist1_marivaux_prose_comedy_joieimprevue *dist2_marivaux_prose_comedy *id_PASQUIN *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pasquin
 
 Fasse le ciel, Monsieur, que votre chagrin vous profite, et vous apprenne à mener une vie plus raisonnable !
 

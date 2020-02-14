@@ -1,6 +1,6 @@
 
 
-**** *creator_fabredeglantine *book_fabredeglantine_philintedemoliere *style_verse *genre_comedy *dist1_fabredeglantine_verse_comedy_philintedemoliere *dist2_fabredeglantine_verse_comedy *date_1790 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philinte
+**** *creator_fabredeglantine *book_fabredeglantine_philintedemoliere *style_verse *genre_comedy *dist1_fabredeglantine_verse_comedy_philintedemoliere *dist2_fabredeglantine_verse_comedy *id_PHILINTE *date_1790 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philinte
 
 Je prends tout doucement les hommes comme ils sont,
 J'accoutume mon âme à souffrir ce qu'ils font.
@@ -581,7 +581,7 @@ Digne ami !... Quoi !...
       J'ai tort.
 
 
-**** *creator_fabredeglantine *book_fabredeglantine_philintedemoliere *style_verse *genre_comedy *dist1_fabredeglantine_verse_comedy_philintedemoliere *dist2_fabredeglantine_verse_comedy *date_1790 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alceste
+**** *creator_fabredeglantine *book_fabredeglantine_philintedemoliere *style_verse *genre_comedy *dist1_fabredeglantine_verse_comedy_philintedemoliere *dist2_fabredeglantine_verse_comedy *id_ALCESTE *date_1790 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alceste
 
 Je cherchais, sur la terre, un endroit écarté
 Où d'être homme d'honneur on eût la liberté ;
@@ -1506,7 +1506,7 @@ L'équité, la candeur, l'amour et l'amitié,
 N'existèrent jamais dans un cour sans pitié.
 
 
-**** *creator_fabredeglantine *book_fabredeglantine_philintedemoliere *style_verse *genre_comedy *dist1_fabredeglantine_verse_comedy_philintedemoliere *dist2_fabredeglantine_verse_comedy *date_1790 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eliante
+**** *creator_fabredeglantine *book_fabredeglantine_philintedemoliere *style_verse *genre_comedy *dist1_fabredeglantine_verse_comedy_philintedemoliere *dist2_fabredeglantine_verse_comedy *id_ELIANTE *date_1790 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eliante
 
 Pourquoi donc cette humeur ? Philinte, y pensez-vous ?
 D'où vient cette colère ? Et quand...
@@ -1753,7 +1753,7 @@ Reposez-vous sur moi du soin de recouvrer
 Un ami si parfait, que nous devons pleurer.
 
 
-**** *creator_fabredeglantine *book_fabredeglantine_philintedemoliere *style_verse *genre_comedy *dist1_fabredeglantine_verse_comedy_philintedemoliere *dist2_fabredeglantine_verse_comedy *date_1790 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dubois
+**** *creator_fabredeglantine *book_fabredeglantine_philintedemoliere *style_verse *genre_comedy *dist1_fabredeglantine_verse_comedy_philintedemoliere *dist2_fabredeglantine_verse_comedy *id_DUBOIS *date_1790 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dubois
 
 Monsieur, grâces au ciel, à la fin je vous trouve.
 J'ai cru...

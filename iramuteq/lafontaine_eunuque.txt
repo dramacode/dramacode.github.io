@@ -1,6 +1,6 @@
 
 
-**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cheree
+**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *id_CHEREE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cheree
 
 C'en est fait, Parmenon, ma perte est assurée.
 
@@ -299,7 +299,7 @@ Vous savez à quel point Parmenon m'a servi.
 Mon père, que ceci tout d'un temps s'accomplisse !
 
 
-**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_parmenon
+**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *id_PARMENON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_parmenon
 
 Hé bien ! On vous a dit qu'elle était empêchée :
 Est-ce là le sujet dont votre âme est touchée ?
@@ -943,7 +943,7 @@ Cet hymen le fera de moitié rajeunir.
 Par ce double bienfait mon attente est comblée.
 
 
-**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pamphile
+**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *id_PAMPHILE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pamphile
 
 Dieux ! Quelle patience il faut pour les entendre !
 Gnaton, conduis-moi vite, et ne te raille point.
@@ -1055,7 +1055,7 @@ Puisque vous le voulez, j'obéis sans contrainte.
 Ce jour est pour Pamphile un jour d'obéissance.
 
 
-**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phedrie
+**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *id_PHEDRIE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phedrie
 
 Quoi ! Je pourrais encor brûler pour cette ingrate
 Qui, pour prix de mes voeux, pour fruit de mes travaux,
@@ -1396,7 +1396,7 @@ Il a raison, mon frère, et c'est à contre-temps.
 De te voir affranchi ma joie est redoublée.
 
 
-**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thais
+**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *id_THAIS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thais
 
 Ah, Phédrie ! Hé bons dieux ! Quoi, vous voir en ce lieu
 Vraiment vous avez tort : que n'entrez-vous ?
@@ -1672,7 +1672,7 @@ Cet honneur me confond, et va jusqu'à l'excès
 Et la suis de bon coeur en lui donnant ma foi.
 
 
-**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thrason
+**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *id_THRASON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thrason
 
 Il faut dire le vrai, j'en voulais à Pamphile ;
 Et, bien que pour Thaïs une amour plus facile
@@ -1902,7 +1902,7 @@ Soldats, retirons-nous : à vos rangs prenez garde ;
 Pour moi, j'aurai le soin de mener l'avant-garde.
 
 
-**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gnaton
+**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *id_GNATON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gnaton
 
 Que le pouvoir est grand du bel art de flatter !
 Qu'on voit d'honnêtes gens par cet art subsister !
@@ -2235,7 +2235,7 @@ Qui de cette victoire a seul été l'auteur.
 Vous ai-je pas bien dit qu'il était galant homme ?
 
 
-**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
+**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *id_DAMIS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
 
 En ma maison des champs je trouve un goût exquis,
 Et ne fis jamais mieux qu'alors que je l'acquis.
@@ -2408,7 +2408,7 @@ Il est juste, et déjà j'en ai donné ma foi.
 Sois libre, Parmenon ; mais demeure avec moi.
 
 
-**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chremes
+**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *id_CHREMES *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chremes
 
       Et quoi ! voilà Pythie ?
 J'ai cru que pour sa noce on venait me prier. .
@@ -2556,7 +2556,7 @@ Le temps est un peu cher ; quittons ces compliments,
 Et ne retardons point l'aise de nos amants.
 
 
-**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pythie
+**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *id_PYTHIE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pythie
 
 Ah ! que j'ai de secrets, Madame, à vous conter !
 Mais ne le dites pas, vous me feriez querelle.
@@ -2728,7 +2728,7 @@ Il vous faut des tétons ! vraiment on vous en garde !
 Arrêtez-vous, Monsieur ; j'entends quelqu'un venir.
 
 
-**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorus
+**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *id_DORUS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorus
 
 Monsieur, c'est Parmenon qui me l'a fait prêter.
 
@@ -2741,7 +2741,7 @@ Monsieur, c'est Parmenon qui me l'a fait prêter.
 Incontinent après il me l'est venu rendre
 
 
-**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sanga
+**** *creator_lafontaine *book_lafontaine_eunuque *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_eunuque *dist2_lafontaine_verse_comedy *id_SANGA *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sanga
 
       Que vous plaît-il ?
 

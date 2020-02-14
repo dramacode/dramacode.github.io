@@ -1,6 +1,6 @@
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moliere
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_moliere *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moliere
 
 JE ne sais que penser de mon ami Chapelle.
 Veut-il me rendre fou ? Dans l'excès de son zèle⁎,
@@ -567,7 +567,7 @@ Un chagrin si réel, quand je la vois souffrir,
 Qu'à ses yeux maintenant je craindrais de m'offrir.
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamoliere
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_la-moliere *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamoliere
 
 DU bon vin ! du bon vin ! voilà comme vous êtes !
 Boire et passer vos nuits dans les jeux, dans les fêtes ;
@@ -730,7 +730,7 @@ PLEURE, pleure, ma fille, à ta douleur sincère
 Je viens mêler la mienne. Il est trop vrai ; ton père…
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *date_1788 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_isabelle
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_isabelle *date_1788 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_isabelle
 
 Ah ! je crains qu'il ne touche à son terme fatal.
 Plus que jamais il souffre, et j'en suis désolée.
@@ -907,7 +907,7 @@ Tel qu'il est dans mon cœur le pinceau l'a rendu.
 Ah ! ce mot a suffi pour me donner la mort.
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chapelle
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_chapelle *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chapelle
 
 Le voilà, mon ami, votre Ouvrage est divin.
 
@@ -1117,7 +1117,7 @@ Ses vertus, son génie et sur-tout nos regrets.
 FIN.
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_baron
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_baron *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_baron
 
 Ah ! j'ai sujet de l'être.
 
@@ -1245,7 +1245,7 @@ Chassez de votre cœur cette crainte mortelle,
 Et souffrez que nos soins...
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_montausier
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_montausier *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_montausier
 
 DE Moliere toujours j'estimai les talents,
 Et la plus juste crainte a passé dans mes sens,
@@ -1356,7 +1356,7 @@ Est le premier lien de la société⁎ ?
 Mais j'entends quelque bruit : sans doute⁎ on va m'apprendre...
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledocteur
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_le-docteur *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledocteur
 
 JE suis, vous le savez, un ami de Moliere,
 Et, quoique Médecin, j'ai souvent le bonheur
@@ -1426,7 +1426,7 @@ Aller vous renfermer dans votre appartement,
 Et là...
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pirlon
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_pirlon *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pirlon
 
 COMMENT se porte-t-il ?
 
@@ -1479,7 +1479,7 @@ Alceste bafoué. Fidèle à son devoir
 Alceste le remplit avec exactitude.
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *date_1788 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_laforet
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_laforet *date_1788 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_laforet
 
       QU'EST-CE ?
 
@@ -1517,7 +1517,7 @@ Et d'où vient son désastre ?
 Laisserez-vous entrer le Docteur Mauvilain ?
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *date_1788 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lesbin
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_lesbin *date_1788 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lesbin
 
       Non, Monsieur.
 
@@ -1529,7 +1529,7 @@ MIGNARD envoie ici le portrait de Moliere.
 Et Mignard va bientôt venir ici lui-même.
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_moliere1802
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_moliere-1802 *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_moliere1802
 
 JE ne sais que penser de mon ami Chapelle ;
 Veut-il me rendre fou ? Dans l'excès de son zèle⁎,
@@ -2084,7 +2084,7 @@ Lançons des traits⁎ plus vifs : aux pâles envieux
 Que mon dernier regard fasse baisser les yeux.
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lamoliere1802
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_la-moliere-1802 *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lamoliere1802
 
 Du bon vin ! du bon vin ! voilà comme vous êtes !
 Boire et passer vos nuits dans les jeux, dans les fêtes ;
@@ -2250,7 +2250,7 @@ Pleure, pleure, ma fille, à ta douleur sincère
 Je viens mêler la mienne. Il est trop vrai, ton père…
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_isabelle1802
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_isabelle-1802 *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_isabelle1802
 
 Ah ! je crains qu'il ne touche à son terme fatal.
 Plus que jamais il souffre, et j'en suis désolée.
@@ -2407,7 +2407,7 @@ Tel qu'il est dans mon cœur, le pinceau l'a rendu.
 Ah ! !! ce mot a suffi pour me donner la mort.
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_chapelle1802
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_chapelle-1802 *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_chapelle1802
 
 Le voilà, mon ami, votre ouvrage est divin.
 
@@ -2627,7 +2627,7 @@ Ses vertus, son génie et sur-tout nos regrets.
 Fin de l'Acte III et de la Mort de Molière.
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_baron1802
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_baron-1802 *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_baron1802
 
 Ah ! j'ai sujet de l'être.
 
@@ -2745,7 +2745,7 @@ Chassez de votre cœur cette crainte mortelle,
 Et souffrez que nos soins...
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_montausier1802
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_montausier-1802 *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_montausier1802
 
 De Molière, toujours, j'estimai les talens,
 Et la plus juste crainte a passé dans mes sens,
@@ -2856,7 +2856,7 @@ Est le premier lien de la société⁎ ?
 Mais j'entends quelque bruit : sans doute⁎ on va m'apprendre...
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_ledocteur1802
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_le-docteur-1802 *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_ledocteur1802
 
 Je suis, vous le savez, un ami de Molière,
 Et, quoique médecin, j'ai souvent le bonheur
@@ -2926,7 +2926,7 @@ Aller vous renfermer dans votre appartement,
 Et là...
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_pirlon1802
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_pirlon-1802 *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_pirlon1802
 
 Comment se porte-t-il ?
 
@@ -2979,7 +2979,7 @@ Alceste bafoué. Fidèle à son devoir,
 Alceste le remplit avec exactitude.
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_laforet1802
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_laforet-1802 *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_laforet1802
 
       Qu'est-ce ?
 
@@ -3030,7 +3030,7 @@ Et d'où vient son désastre ?
 Laisserez vous entrer le Docteur Mauvilain ?
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lesbin1802
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_lesbin-1802 *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lesbin1802
 
       Non, Monsieur.
 
@@ -3041,7 +3041,7 @@ Mignard envoie ici le portrait de Molière.
 Et Mignard va bientôt venir ici lui-même.
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *act_VII *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_montausierapotheose
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_montausier-apotheose *act_VII *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_montausierapotheose
 
 Vous pouvez y compter.
 
@@ -3061,7 +3061,7 @@ Si la couronne est sur sa tête,
 Il a des autels dans nos cœurs.
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *act_VII *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_chapelleapotheose
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_chapelle-apotheose *act_VII *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_chapelleapotheose
 
 OUI, notre ami n'est plus, une crise funeste
 Vient de trancher ses jours ; mais un espoir me reste,
@@ -3141,7 +3141,7 @@ Il faut des lauriers au génie,
 Et plus encor à la vertu.
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *act_VII *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_baronapotheose
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_baron-apotheose *act_VII *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_baronapotheose
 
       Tout nous en fait la loi.
 
@@ -3174,7 +3174,7 @@ Quand on a Molière pour maître,
 Pourrait-on ne pas réussir ?
 
 
-**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *act_VII *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_mignard
+**** *creator_cubieres *book_cubieres_mortmoliere *style_verse *genre_show *dist1_cubieres_verse_show_mortmoliere *dist2_cubieres_verse_show *id_mignard *act_VII *date_1788 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_mignard
 
 Moi, je viens, mes amis, le pleurer avec vous.
 Molière ne vit plus !...

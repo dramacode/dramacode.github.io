@@ -1,6 +1,6 @@
 
 
-**** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *date_1637 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_archelas
+**** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *id_archelas *date_1637 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_archelas
 
 Falante : je ne sçay quelle secrette joye
 Avecque ce vaisseau la fortune⁎ m'envoye ;
@@ -322,7 +322,7 @@ Par vos embrassemens des Reynes, et des Princes.
 FIN.
 
 
-**** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_melinte
+**** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *id_melinte *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_melinte
 
 Le devoir mutuel qui nos sceptres allie
 M'a faict pour ce sujet partir de Thessalie,
@@ -408,7 +408,7 @@ Et qu'un heureux Hymen⁎ laisse dans le repos
 Les champs Thessaliens, la Troade, et Lesbos.
 
 
-**** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eurimedon
+**** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *id_eurimedon *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eurimedon
 
 En fin (belle princesse) apres beaucoup d'orages⁎
 Vous revoyez encor ces aymables⁎ rivages,
@@ -1146,7 +1146,7 @@ Et que je dois benir l'atteinte de tes traits⁎,
 Puisque tu la gueris avecque tant d'attraits.
 
 
-**** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tygrane
+**** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *id_tygrane *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tygrane
 
 Destin, Neptune, Amour, Dieux cruels⁎, tristes Astres⁎
 Ne deliberez plus, achevez mes desastres,
@@ -1403,7 +1403,7 @@ Puisque par vous j'obtiens ce bien incomparable
 Que je vous suis (Seigneur) aujourd'huy redevable.
 
 
-**** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *date_1637 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_falante
+**** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *id_falante *date_1637 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_falante
 
 Sire, ces estrangers qui viennent du rivage
 Vous pourront esclaircir de cét heureux presage.
@@ -1503,7 +1503,7 @@ Je sçay bien que le sexe en faict la difference.
 Sire c'est l'Amazone.
 
 
-**** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pasithee
+**** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *id_pasithee *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pasithee
 
 Grand Prince à qui je dois et l'honneur⁎ et la vie
 Je tiens puis qu'il vous plaist ma vengeance assouvie,
@@ -1901,7 +1901,7 @@ Et les commandemens sont doux à recevoir
 Où vostre volonté s'accorde à mon devoir.
 
 
-**** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celiane
+**** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *id_celiane *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celiane
 
 He bien cruel⁎ Amour que fera Celiane ?
 Porteray-je l'enfer dans le ciel de Tygrane ?
@@ -2205,7 +2205,7 @@ Mais puis qu'un si grand Roy me prescrit mon devoir,
 Je veux vous obbeïr, et le vay recevoir⁎.
 
 
-**** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *date_1637 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_alerine
+**** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *id_alerine *date_1637 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_alerine
 
 Madame parlez bas, j'entends venir quelqu'un.
 
@@ -2248,7 +2248,7 @@ Vostre voix a d'abord⁎ troublé tous mes esprits.
 Ce mal est bien soudain, et j'en suis fort en peine.
 
 
-**** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *date_1637 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_argamor
+**** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *id_argamor *date_1637 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_argamor
 
 Voyla comme je croy celuy que je demande.
 

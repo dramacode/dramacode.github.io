@@ -1,6 +1,6 @@
 
 
-**** *creator_voltaire *book_voltaire_alzire *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_alzire *dist2_voltaire_verse_tragedy *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dongusman
+**** *creator_voltaire *book_voltaire_alzire *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_alzire *dist2_voltaire_verse_tragedy *id_DONGUSMAN *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dongusman
 
 J'ai conquis avec vous ce sauvage hémisphère,
 Dans ces climats brûlants j'ai vaincu sous mon père ;
@@ -224,7 +224,7 @@ Vivez longtemps heureux, qu'Alzire vous soit chère ;
 Zamore, sois chrétien, je suis content, je meurs !
 
 
-**** *creator_voltaire *book_voltaire_alzire *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_alzire *dist2_voltaire_verse_tragedy *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donalvares
+**** *creator_voltaire *book_voltaire_alzire *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_alzire *dist2_voltaire_verse_tragedy *id_DONALVARES *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donalvares
 
 Du conseil de Madrid l'autorité suprême
 Pour successeur enfin, me donne un fils que j'aime.
@@ -534,7 +534,7 @@ Mon cour désespéré se soumet, s'abandonne
 Aux volontés d'un dieu, qui frappe, et qui pardonne.
 
 
-**** *creator_voltaire *book_voltaire_alzire *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_alzire *dist2_voltaire_verse_tragedy *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zamore
+**** *creator_voltaire *book_voltaire_alzire *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_alzire *dist2_voltaire_verse_tragedy *id_ZAMORE *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zamore
 
 Amis de qui l'audace, aux mortels peu commune,
 Renaît dans les dangers et croît dans l'infortune ;
@@ -948,7 +948,7 @@ Tant de vertu m'accable et son charme m'attire,
 Honteux d'être vengé, je t'aime et je t'admire.
 
 
-**** *creator_voltaire *book_voltaire_alzire *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_alzire *dist2_voltaire_verse_tragedy *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monteze
+**** *creator_voltaire *book_voltaire_alzire *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_alzire *dist2_voltaire_verse_tragedy *id_MONTEZE *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monteze
 
 Père des malheureux, pardonne si ma fille,
 Dont Gusman détruisit l'empire et la famille,
@@ -1121,7 +1121,7 @@ Demander au conseil et ta grâce et ma mort.
 Ô ciel ! Inspire-moi, j'implore ta clémence.
 
 
-**** *creator_voltaire *book_voltaire_alzire *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_alzire *dist2_voltaire_verse_tragedy *date_1736 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alzire
+**** *creator_voltaire *book_voltaire_alzire *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_alzire *dist2_voltaire_verse_tragedy *id_ALZIRE *date_1736 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alzire
 
 Tout mon sang est à vous, mais si je vous suis chère,
 Voyez mon désespoir et lisez dans mon cour.
@@ -1594,7 +1594,7 @@ Succombe au repentir dont elle est dévorée.
 Je me sens trop coupable, et mes tristes erreurs...
 
 
-**** *creator_voltaire *book_voltaire_alzire *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_alzire *dist2_voltaire_verse_tragedy *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alonze
+**** *creator_voltaire *book_voltaire_alzire *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_alzire *dist2_voltaire_verse_tragedy *id_ALONZE *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alonze
 
       Paraissez, seigneur, et commandez,
 D'armes et d'ennemis ces champs sont inondés :
@@ -1622,7 +1622,7 @@ S'empressant près de lui, vient se rassasier
 Du sang de son épouse, et de son meurtrier.
 
 
-**** *creator_voltaire *book_voltaire_alzire *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_alzire *dist2_voltaire_verse_tragedy *date_1736 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_emire
+**** *creator_voltaire *book_voltaire_alzire *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_alzire *dist2_voltaire_verse_tragedy *id_EMIRE *date_1736 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_emire
 
 Ah ! Plutôt de Gusman redoutez la furie,
 Craignez pour ces captifs, tremblez pour la patrie.

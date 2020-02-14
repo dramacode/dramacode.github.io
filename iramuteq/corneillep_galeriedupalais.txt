@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pleirante
+**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *id_PLEIRANTE *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pleirante
 
 Ne pense plus, ma fille, à me cacher ta flamme ;
 N'en conçois point de honte, et n'en crains point de blâme :
@@ -99,7 +99,7 @@ Soient mis au plus haut point de leurs contentements,
 Allons chez moi, madame, achever la journée.
 
 
-**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lysandre
+**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *id_LYSANDRE *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lysandre
 
 Je te prends sur le livre.
 
@@ -653,7 +653,7 @@ Pour ses mauvais conseils ne sera point banni ;
 Tu le souffriras bien, puisqu'elle m'en supplie.
 
 
-**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorimant
+**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *id_DORIMANT *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorimant
 
 Montrez-m'en quelques-uns.
 
@@ -1002,7 +1002,7 @@ Ce favorable mot me rend le plus heureux
 De tout ce que jamais on a vu d'amoureux.
 
 
-**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chrysante
+**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *id_CHRYSANTE *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chrysante
 
 Monsieur, j'aime ma fille avec trop de tendresse
 Pour la vouloir contraindre en ses affections.
@@ -1051,7 +1051,7 @@ Outre l'âge en tous deux un peu trop refroidie,
 Cela sentirait trop sa fin de comédie.
 
 
-**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_celidee
+**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *id_CELIDEE *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_celidee
 
 Monsieur, il est tout vrai, son ardeur légitime
 A tant gagné sur moi que j'en fais de l'estime :
@@ -1489,7 +1489,7 @@ Ton conseil est fort bon, mais un peu dangereux.
 Il n'est rien que pour elle et pour toi je n'oublie.
 
 
-**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hippolyte
+**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *id_HIPPOLYTE *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hippolyte
 
 Madame, montrez-nous quelques collets d'ouvrage.
 
@@ -1919,7 +1919,7 @@ Pardonnez donc à ceux qui, gagnés par Florice,
 Lorsque je vous aimais, m'ont fait quelque service.
 
 
-**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aronte
+**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *id_ARONTE *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aronte
 
 Enfin je ne le puis : que veux-tu que j'y fasse ?
 Pour tout autre sujet mon maître n'est que glace ;
@@ -2102,7 +2102,7 @@ Tous vos rubans n'ont point d'assez vives couleurs.
 Allons, Florice, allons, il en faut voir ailleurs.
 
 
-**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleante
+**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *id_CLEANTE *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleante
 
       Je n'y manquerai pas.
 
@@ -2125,7 +2125,7 @@ Les avez-vous encore ?
 Je l'avais oublié. Le prix ?
 
 
-**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_florice
+**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *id_FLORICE *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_florice
 
 Ne quittons pas pourtant : à la longue on fait tout.
 La gloire suit la peine : espérons jusqu'au bout.
@@ -2278,7 +2278,7 @@ Mais afin que la joie en soit égale à tous,
 Faites encor celui de monsieur et de vous.
 
 
-**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_libraire
+**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *id_LIBRAIRE *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_libraire
 
       On le trouve si beau,
 Que c'est pour mon profit le meilleur qui se voit.
@@ -2311,7 +2311,7 @@ Trois jours sans revenir ! Je m'ennuyais d'attendre.
 Autant de quarts d'écus, c'est un marché tout fait.
 
 
-**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercier
+**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *id_MERCIER *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercier
 
 Voyez deçà, messieurs ; vous plaît-il rien du nôtre ?
 Voyez, je vous ferai meilleur marché qu'un autre,
@@ -2349,7 +2349,7 @@ De suivante qui m'aide à tromper sa maîtresse.
 Vous ferez un grand coup si vous pouvez vous taire.
 
 
-**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lingere
+**** *creator_corneillep *book_corneillep_galeriedupalais *style_verse *genre_comedy *dist1_corneillep_verse_comedy_galeriedupalais *dist2_corneillep_verse_comedy *id_LINGERE *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lingere
 
 Vous avez fort la presse à ce livre nouveau ;
 C'est pour vous faire riche.

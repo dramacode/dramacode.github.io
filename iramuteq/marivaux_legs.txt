@@ -1,6 +1,6 @@
 
 
-**** *creator_marivaux *book_marivaux_legs *style_prose *genre_comedy *dist1_marivaux_prose_comedy_legs *dist2_marivaux_prose_comedy *date_1736 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lacomtesse
+**** *creator_marivaux *book_marivaux_legs *style_prose *genre_comedy *dist1_marivaux_prose_comedy_legs *dist2_marivaux_prose_comedy *id_LACOMTESSE *date_1736 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lacomtesse
 
 Tenez, Lisette, dites qu'on porte cette lettre à la poste ; en voilà dix que j'écris depuis trois semaines. La sotte chose qu'un procès ! Que j'en suis lasse ! Je ne m'étonne pas s'il y a tant de femmes qui se remarient.
 
@@ -294,7 +294,7 @@ Ah ! Ce que j'en pense ? Que je le veux bien, Monsieur ; et encore une fois, que
 Eh bien ! Vous n'attendrez plus.
 
 
-**** *creator_marivaux *book_marivaux_legs *style_prose *genre_comedy *dist1_marivaux_prose_comedy_legs *dist2_marivaux_prose_comedy *date_1736 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lemarquis
+**** *creator_marivaux *book_marivaux_legs *style_prose *genre_comedy *dist1_marivaux_prose_comedy_legs *dist2_marivaux_prose_comedy *id_LEMARQUIS *date_1736 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lemarquis
 
 Ah ! vous voici, Lisette ! Je suis bien aise de vous trouver.
 
@@ -528,7 +528,7 @@ Ah ! Vous le voulez bien ? Ah ! Je respire, Comtesse, donnez-moi votre main, que
 Oui ; c'est pour la remercier du peu de regret que j'ai aux deux cent mille francs que je vous donne.
 
 
-**** *creator_marivaux *book_marivaux_legs *style_prose *genre_comedy *dist1_marivaux_prose_comedy_legs *dist2_marivaux_prose_comedy *date_1736 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_hortense
+**** *creator_marivaux *book_marivaux_legs *style_prose *genre_comedy *dist1_marivaux_prose_comedy_legs *dist2_marivaux_prose_comedy *id_HORTENSE *date_1736 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_hortense
 
 Je ne risque rien, vous dis-je. Raisonnons. Défunt son parent et le mien lui laisse six cent mille francs, à la charge il est vrai de m'épouser, ou de m'en donner deux cent mille ; cela est à son choix ; mais le Marquis ne sent rien pour moi. Je suis sûre qu'il a de l'inclination pour la Comtesse ; d'ailleurs, il est déjà assez riche par lui-même ; voilà encore une succession de six cent mille francs qui lui vient, à laquelle il ne s'attendait pas ; et vous croyez que, plutôt que d'en distraire deux cent mille, il aimera mieux m'épouser, moi qui lui suis indifférente, pendant qu'il a de l'amour pour la Comtesse, qui peut-être ne le hait pas, et qui a plus de bien que moi ? Il n'y a pas d'apparence.
 
@@ -662,7 +662,7 @@ Votre billet est-il prêt, Marquis ? Mais vous baisez la main de la Comtesse, ce
 Et moi, sans compliment, je vous remercie de vouloir bien les perdre.
 
 
-**** *creator_marivaux *book_marivaux_legs *style_prose *genre_comedy *dist1_marivaux_prose_comedy_legs *dist2_marivaux_prose_comedy *date_1736 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lechevalier
+**** *creator_marivaux *book_marivaux_legs *style_prose *genre_comedy *dist1_marivaux_prose_comedy_legs *dist2_marivaux_prose_comedy *id_LECHEVALIER *date_1736 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lechevalier
 
 La démarche que vous allez faire auprès du Marquis m'alarme.
 
@@ -731,7 +731,7 @@ Nous voilà donc contents. Que je vous embrasse, Marquis.
 Comtesse, voilà le dénouement que nous attendions.
 
 
-**** *creator_marivaux *book_marivaux_legs *style_prose *genre_comedy *dist1_marivaux_prose_comedy_legs *dist2_marivaux_prose_comedy *date_1736 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lisette
+**** *creator_marivaux *book_marivaux_legs *style_prose *genre_comedy *dist1_marivaux_prose_comedy_legs *dist2_marivaux_prose_comedy *id_LISETTE *date_1736 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lisette
 
 Que souhaitez-vous de nous, Madame ?
 
@@ -911,7 +911,7 @@ Voyez comme votre mariage diminuera mes profits. Je vous quitte pour chercher L�
 Maraud ! Je crois en effet qu'il faudra que je t'épouse.
 
 
-**** *creator_marivaux *book_marivaux_legs *style_prose *genre_comedy *dist1_marivaux_prose_comedy_legs *dist2_marivaux_prose_comedy *date_1736 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lepine
+**** *creator_marivaux *book_marivaux_legs *style_prose *genre_comedy *dist1_marivaux_prose_comedy_legs *dist2_marivaux_prose_comedy *id_LEPINE *date_1736 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lepine
 
 Ce début encourage. Nos services vous sont acquis.
 

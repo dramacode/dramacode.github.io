@@ -1,6 +1,6 @@
 
 
-**** *creator_riccoboniromagnesi *book_riccoboniromagnesi_compliments *style_verse *genre_piece *dist1_riccoboniromagnesi_verse_piece_compliments *dist2_riccoboniromagnesi_verse_piece *date_1736 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellesilvia
+**** *creator_riccoboniromagnesi *book_riccoboniromagnesi_compliments *style_verse *genre_piece *dist1_riccoboniromagnesi_verse_piece_compliments *dist2_riccoboniromagnesi_verse_piece *id_MADEMOISELLESILVIA *date_1736 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellesilvia
 
 Aux Dames ! Il y a dans cette politesse plus d'orgueil que de civilité. Vous voulez faire entendre que les meilleurs compliments sont réservés pour la fin.
 
@@ -136,7 +136,7 @@ Nos souhaits
 Satisfaits.
 
 
-**** *creator_riccoboniromagnesi *book_riccoboniromagnesi_compliments *style_verse *genre_piece *dist1_riccoboniromagnesi_verse_piece_compliments *dist2_riccoboniromagnesi_verse_piece *date_1736 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellefabio
+**** *creator_riccoboniromagnesi *book_riccoboniromagnesi_compliments *style_verse *genre_piece *dist1_riccoboniromagnesi_verse_piece_compliments *dist2_riccoboniromagnesi_verse_piece *id_MADEMOISELLEFABIO *date_1736 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellefabio
 
 L'Italienne a bien plus de mérite,
 Elle danse en chantant.
@@ -157,7 +157,7 @@ J'égayerai vos chants.
 Unissons, etc.
 
 
-**** *creator_riccoboniromagnesi *book_riccoboniromagnesi_compliments *style_verse *genre_piece *dist1_riccoboniromagnesi_verse_piece_compliments *dist2_riccoboniromagnesi_verse_piece *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurriccoboni
+**** *creator_riccoboniromagnesi *book_riccoboniromagnesi_compliments *style_verse *genre_piece *dist1_riccoboniromagnesi_verse_piece_compliments *dist2_riccoboniromagnesi_verse_piece *id_MONSIEURRICCOBONI *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurriccoboni
 
 Doucement, s'il vous plaît, Messieurs ; chacun de nous à la dernière assemblée a brigué l'honneur de complimenter le public. Les dames ont prétendu que leurs droits étaient pour le moins aussi bien fondés que les nôtres ; et pour faire cesser le tumulte, la troupe a délibéré que chacun ferait le sien à part. Commençons donc de cette manière, et cédons le pas aux dames.
 
@@ -181,7 +181,7 @@ De nos contemporains cherchons plutôt l'estime ;
 Quand on plaît à son siècle, on est trop glorieux.
 
 
-**** *creator_riccoboniromagnesi *book_riccoboniromagnesi_compliments *style_verse *genre_piece *dist1_riccoboniromagnesi_verse_piece_compliments *dist2_riccoboniromagnesi_verse_piece *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurthomassin
+**** *creator_riccoboniromagnesi *book_riccoboniromagnesi_compliments *style_verse *genre_piece *dist1_riccoboniromagnesi_verse_piece_compliments *dist2_riccoboniromagnesi_verse_piece *id_MONSIEURTHOMASSIN *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurthomassin
 
 Voilà déjà notre révérence faite ; allons, mes amis, il ne s'agit plus que de parler.
 
@@ -235,7 +235,7 @@ Qui va, le moins mal qu'il pourra,
 Prendre le ton de l'Opéra.
 
 
-**** *creator_riccoboniromagnesi *book_riccoboniromagnesi_compliments *style_verse *genre_piece *dist1_riccoboniromagnesi_verse_piece_compliments *dist2_riccoboniromagnesi_verse_piece *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurevrard
+**** *creator_riccoboniromagnesi *book_riccoboniromagnesi_compliments *style_verse *genre_piece *dist1_riccoboniromagnesi_verse_piece_compliments *dist2_riccoboniromagnesi_verse_piece *id_MONSIEUREVRARD *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurevrard
 
 En Musique française aujourd'hui je m'acquitte
 Des respects que vous doit le nouveau débutant.

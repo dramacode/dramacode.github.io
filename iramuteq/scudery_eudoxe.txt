@@ -1,6 +1,6 @@
 
 
-**** *creator_scudery *book_scudery_eudoxe *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_eudoxe *dist2_scudery_verse_tragicomedie *date_1640 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_imperatrice
+**** *creator_scudery *book_scudery_eudoxe *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_eudoxe *dist2_scudery_verse_tragicomedie *id_IMPERATRICE *date_1640 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_imperatrice
 
 Eudoxe, écoutez bien tout ce que je vais dire :
 Vous savez que le sort nous a ravi l'empire ;
@@ -498,7 +498,7 @@ Non seigneur son exil est assez rigoureux,
 Ne marquez point de sang, ce beau jour tant heureux.
 
 
-**** *creator_scudery *book_scudery_eudoxe *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_eudoxe *dist2_scudery_verse_tragicomedie *date_1640 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eudoxe
+**** *creator_scudery *book_scudery_eudoxe *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_eudoxe *dist2_scudery_verse_tragicomedie *id_EUDOXE *date_1640 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eudoxe
 
 
 
@@ -596,7 +596,7 @@ Car le roi fait garder, et le havre, et les portes ;
 Et difficilement pourra-t-on nous sauver.
 
 
-**** *creator_scudery *book_scudery_eudoxe *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_eudoxe *dist2_scudery_verse_tragicomedie *date_1640 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_placidie
+**** *creator_scudery *book_scudery_eudoxe *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_eudoxe *dist2_scudery_verse_tragicomedie *id_PLACIDIE *date_1640 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_placidie
 
 Que votre majesté, s'il lui plaît, se console ;
 Cette vertu sublime, apprise en son école,
@@ -616,7 +616,7 @@ Ha, seigneur, sauvez-nous,
 Madame il faut songer à sortir de ces lieux :
 
 
-**** *creator_scudery *book_scudery_eudoxe *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_eudoxe *dist2_scudery_verse_tragicomedie *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_genseric
+**** *creator_scudery *book_scudery_eudoxe *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_eudoxe *dist2_scudery_verse_tragicomedie *id_GENSERIC *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_genseric
 
 Enfin, Olicharsis, ce discours m'importune :
 Il choque mon amour, et ma bonne fortune ;
@@ -1131,7 +1131,7 @@ Sortons, et m'apprenez en cet heureux moment,
 Quel ange vous sauva de cet embrasement.
 
 
-**** *creator_scudery *book_scudery_eudoxe *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_eudoxe *dist2_scudery_verse_tragicomedie *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thrasimond
+**** *creator_scudery *book_scudery_eudoxe *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_eudoxe *dist2_scudery_verse_tragicomedie *id_THRASIMOND *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thrasimond
 
       Que faites-vous madame ?
 
@@ -1450,7 +1450,7 @@ Que son père et son roi, consente à son amour.
 Puisque la belle Eudoxe, a reçu son service.
 
 
-**** *creator_scudery *book_scudery_eudoxe *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_eudoxe *dist2_scudery_verse_tragicomedie *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_olimbre
+**** *creator_scudery *book_scudery_eudoxe *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_eudoxe *dist2_scudery_verse_tragicomedie *id_OLIMBRE *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_olimbre
 
 Enfin vous le voyez ce palais glorieux,
 Où l'on retient l'objet qui plaît tant à vos yeux :
@@ -1670,7 +1670,7 @@ Comblez-moi de plaisir, en vous comblant d'honneur,
 Et sauvez votre gloire, en sauvant mon bonheur.
 
 
-**** *creator_scudery *book_scudery_eudoxe *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_eudoxe *dist2_scudery_verse_tragicomedie *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ursace
+**** *creator_scudery *book_scudery_eudoxe *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_eudoxe *dist2_scudery_verse_tragicomedie *id_URSACE *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ursace
 
 Laissez-moi dans ce lieu que je préfère aux cieux :
 Allez, mon cher Olimbre, où l'amour vous appelle,
@@ -2505,7 +2505,7 @@ Que soyez vous bénit, et que le soit par moi,
 Et la vertu d'Eudoxe, et la bonté du roi.
 
 
-**** *creator_scudery *book_scudery_eudoxe *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_eudoxe *dist2_scudery_verse_tragicomedie *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_olicharsis
+**** *creator_scudery *book_scudery_eudoxe *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_eudoxe *dist2_scudery_verse_tragicomedie *id_OLICHARSIS *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_olicharsis
 
 J'aborde comme vous aux rives africaines,
 Quinze ans m'ont retenu dans des terres lointaines,
@@ -2608,7 +2608,7 @@ Aussi n'êtes-vous point la cause de ce crime ;
 Tout le monde vous plaint, chacun en sait l'auteur.
 
 
-**** *creator_scudery *book_scudery_eudoxe *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_eudoxe *dist2_scudery_verse_tragicomedie *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aspar
+**** *creator_scudery *book_scudery_eudoxe *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_eudoxe *dist2_scudery_verse_tragicomedie *id_ASPAR *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aspar
 
 Ainsi doivent agir les grands rois, pour leur bien.
 
@@ -2656,7 +2656,7 @@ Seigneur...
 Ha seigneur...
 
 
-**** *creator_scudery *book_scudery_eudoxe *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_eudoxe *dist2_scudery_verse_tragicomedie *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_talerbal
+**** *creator_scudery *book_scudery_eudoxe *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_eudoxe *dist2_scudery_verse_tragicomedie *id_TALERBAL *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_talerbal
 
       Seigneur suivez-moi :
 Mais sans perdre de temps :

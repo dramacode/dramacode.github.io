@@ -1,6 +1,6 @@
 
 
-**** *creator_archambault *book_archambault_janotbattus *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_janotbattus *dist2_archambault_prose_proverbe *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ragot
+**** *creator_archambault *book_archambault_janotbattus *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_janotbattus *dist2_archambault_prose_proverbe *id_RAGOT *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ragot
 
 D'où ce que je reviens ? Tiens, regard ça.
 
@@ -451,7 +451,7 @@ Et que le diable vous emporte avec...
 Adieu, mauvais sujet...
 
 
-**** *creator_archambault *book_archambault_janotbattus *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_janotbattus *dist2_archambault_prose_proverbe *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameragot
+**** *creator_archambault *book_archambault_janotbattus *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_janotbattus *dist2_archambault_prose_proverbe *id_MADAMERAGOT *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameragot
 
 Voyez un peu de chien d'ivrogne ! C'est tous les jours le même train. Il m'emporte de l'argent, pour aller, dit-il, dans les ventes, et tous ses inventaires se sont toujours sur le comptoir du cabaretier ; et pis, quand il est fou, il se laisse attraper comme un enfant : il m'achète des drogues, des gardes-boutiques ! Vlà-ti pas une belle heure, tenez, pour revenir !... Ah !... Je crois pourtant que le vlà.
 
@@ -514,7 +514,7 @@ En prison, en prison.
 C'est ben fait : il le mérite ben.
 
 
-**** *creator_archambault *book_archambault_janotbattus *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_janotbattus *dist2_archambault_prose_proverbe *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_janot
+**** *creator_archambault *book_archambault_janotbattus *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_janotbattus *dist2_archambault_prose_proverbe *id_JANOT *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_janot
 
 Ah ! jarni, je ne croyais pas qu'il savait ceux-là !
 Monsieur, j'en ai fait mettre des bouts à mes souyers, de quatre sous, par le savetier du coin, qui étaient tout percés à jour.
@@ -560,7 +560,7 @@ Au diable !... Eh ben ! Voyez pourtant comme tout ça tourne ! Me vlà dédommag
 Encore, si du moins, Messieurs, st'amende-là pouvait tourner au profit de vos plaisirs, je me croirais bienheureux de la payer tous les jours !
 
 
-**** *creator_archambault *book_archambault_janotbattus *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_janotbattus *dist2_archambault_prose_proverbe *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_simon
+**** *creator_archambault *book_archambault_janotbattus *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_janotbattus *dist2_archambault_prose_proverbe *id_SIMON *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_simon
 
 Eh ben ! Chienne de bavarde, avec qui que t'es ponc là à causer ?
 
@@ -604,7 +604,7 @@ Oui, je m'y accorde.
 Bonsoir, mon p'tit ami...
 
 
-**** *creator_archambault *book_archambault_janotbattus *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_janotbattus *dist2_archambault_prose_proverbe *date_1779 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_suzon
+**** *creator_archambault *book_archambault_janotbattus *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_janotbattus *dist2_archambault_prose_proverbe *id_SUZON *date_1779 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_suzon
 
 Ben obligée, fort ben, Monsieur Janot, et vous même du depis qu'on ne vous a pas vu ?
 
@@ -641,7 +641,7 @@ Avec personne, mon père.
 Adieu, mon pauvre Janot.
 
 
-**** *creator_archambault *book_archambault_janotbattus *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_janotbattus *dist2_archambault_prose_proverbe *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dodinet
+**** *creator_archambault *book_archambault_janotbattus *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_janotbattus *dist2_archambault_prose_proverbe *id_DODINET *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dodinet
 
 Au diable soit l'aminal ! Vous ne pouvez pas prendre garde !
 

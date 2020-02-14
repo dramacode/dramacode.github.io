@@ -1,6 +1,6 @@
 
 
-**** *creator_bideaudemontigny *book_bideaudemontigny_semiramis *style_verse *genre_parodie *dist1_bideaudemontigny_verse_parodie_semiramis *dist2_bideaudemontigny_verse_parodie *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_semiramis
+**** *creator_bideaudemontigny *book_bideaudemontigny_semiramis *style_verse *genre_parodie *dist1_bideaudemontigny_verse_parodie_semiramis *dist2_bideaudemontigny_verse_parodie *id_SEMIRAMIS *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_semiramis
 
 Viens, suis-moi, les remords, qu'on croit si méprisables
 Sont la seule vertu qui reste à des coupables.
@@ -162,7 +162,7 @@ En ne m'imitant pas ne craignez point leurs coups.
 Mais j'ai surtout encore une chose à vous dire...
 
 
-**** *creator_bideaudemontigny *book_bideaudemontigny_semiramis *style_verse *genre_parodie *dist1_bideaudemontigny_verse_parodie_semiramis *dist2_bideaudemontigny_verse_parodie *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lexposition
+**** *creator_bideaudemontigny *book_bideaudemontigny_semiramis *style_verse *genre_parodie *dist1_bideaudemontigny_verse_parodie_semiramis *dist2_bideaudemontigny_verse_parodie *id_LEXPOSITION *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lexposition
 
 C'est vous-même, Seigneur ! Quel important besoin
 Vous a fait devancer l'intrigue de si loin ?
@@ -186,7 +186,7 @@ Adieu, je vous sais gré de vos soins obligeants.
 Qui tâche d'amuser de loin le spectateur.
 
 
-**** *creator_bideaudemontigny *book_bideaudemontigny_semiramis *style_verse *genre_parodie *dist1_bideaudemontigny_verse_parodie_semiramis *dist2_bideaudemontigny_verse_parodie *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledenoument
+**** *creator_bideaudemontigny *book_bideaudemontigny_semiramis *style_verse *genre_parodie *dist1_bideaudemontigny_verse_parodie_semiramis *dist2_bideaudemontigny_verse_parodie *id_LEDENOUMENT *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledenoument
 
 Oui c'est le Dénoument, oui c'est moi je vous jure,
 C'est moi qui du Grand-Prêtre emprunte la figure.
@@ -227,7 +227,7 @@ C'est un paquet qu'on m'a chargé de vous remettre.
 Prenez donc, rendez grace, et ne répliquez pas.
 
 
-**** *creator_bideaudemontigny *book_bideaudemontigny_semiramis *style_verse *genre_parodie *dist1_bideaudemontigny_verse_parodie_semiramis *dist2_bideaudemontigny_verse_parodie *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_linteret
+**** *creator_bideaudemontigny *book_bideaudemontigny_semiramis *style_verse *genre_parodie *dist1_bideaudemontigny_verse_parodie_semiramis *dist2_bideaudemontigny_verse_parodie *id_LINTERET *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_linteret
 
 J'aurais dû, j'en conviens, un peu plus tôt me rendre.
 
@@ -324,7 +324,7 @@ Je compte aussi sur vous, et wur tous les amis ,
 Que malgré ses défauts s'est fait Sémiramis.
 
 
-**** *creator_bideaudemontigny *book_bideaudemontigny_semiramis *style_verse *genre_parodie *dist1_bideaudemontigny_verse_parodie_semiramis *dist2_bideaudemontigny_verse_parodie *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lapitie
+**** *creator_bideaudemontigny *book_bideaudemontigny_semiramis *style_verse *genre_parodie *dist1_bideaudemontigny_verse_parodie_semiramis *dist2_bideaudemontigny_verse_parodie *id_LAPITIE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lapitie
 
       Je fais PITIÉ, Madame.
 
@@ -386,7 +386,7 @@ Ah...
       Plut aux Dieux !
 
 
-**** *creator_bideaudemontigny *book_bideaudemontigny_semiramis *style_verse *genre_parodie *dist1_bideaudemontigny_verse_parodie_semiramis *dist2_bideaudemontigny_verse_parodie *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacabale
+**** *creator_bideaudemontigny *book_bideaudemontigny_semiramis *style_verse *genre_parodie *dist1_bideaudemontigny_verse_parodie_semiramis *dist2_bideaudemontigny_verse_parodie *id_LACABALE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacabale
 
 La terreur des vivants peut-il craindre les morts ?
 Au reste, attendez tout de ma toute-puissance

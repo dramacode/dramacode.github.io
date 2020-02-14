@@ -1,6 +1,6 @@
 
 
-**** *creator_marivaux *book_marivaux_secondesurprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_secondesurprisedelamour *dist2_marivaux_prose_comedy *date_1727 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
+**** *creator_marivaux *book_marivaux_secondesurprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_secondesurprisedelamour *dist2_marivaux_prose_comedy *id_LAMARQUISE *date_1727 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
 
 Ah !
 
@@ -410,7 +410,7 @@ Je ne croyais pas l'amitié si dangereuse.
 Faites, je ne me mêle plus de rien.
 
 
-**** *creator_marivaux *book_marivaux_secondesurprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_secondesurprisedelamour *dist2_marivaux_prose_comedy *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+**** *creator_marivaux *book_marivaux_secondesurprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_secondesurprisedelamour *dist2_marivaux_prose_comedy *id_LECHEVALIER *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
 
 Je vous demande pardon, Madame, d'une visite, sans doute, importune ; surtout dans la situation où je sais que vous êtes.
 
@@ -730,7 +730,7 @@ Il est vrai, Monsieur le Comte ; quand vous me disiez que j'aimais Madame, vous 
 Le retiendrons-nous, Madame ?
 
 
-**** *creator_marivaux *book_marivaux_secondesurprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_secondesurprisedelamour *dist2_marivaux_prose_comedy *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomte
+**** *creator_marivaux *book_marivaux_secondesurprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_secondesurprisedelamour *dist2_marivaux_prose_comedy *id_LECOMTE *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomte
 
 J'allais chez vous, Chevalier, et j'ai su de Lisette que vous étiez ici ; elle m'a dit votre affliction, et je vous assure que j'y prends beaucoup de part ; il faut tâcher de se dissiper.
 
@@ -824,7 +824,7 @@ Et vous, Madame ?
 Ah ! Ciel !
 
 
-**** *creator_marivaux *book_marivaux_secondesurprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_secondesurprisedelamour *dist2_marivaux_prose_comedy *date_1727 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+**** *creator_marivaux *book_marivaux_secondesurprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_secondesurprisedelamour *dist2_marivaux_prose_comedy *id_LISETTE *date_1727 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
 
 Ah !
 
@@ -1071,7 +1071,7 @@ Madame, il y a là-bas un notaire que le Comte a amené.
 Ah ! je commence à comprendre : le Comte s'en va, le notaire reste, et vous vous mariez.
 
 
-**** *creator_marivaux *book_marivaux_secondesurprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_secondesurprisedelamour *dist2_marivaux_prose_comedy *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lubin
+**** *creator_marivaux *book_marivaux_secondesurprisedelamour *style_prose *genre_comedy *dist1_marivaux_prose_comedy_secondesurprisedelamour *dist2_marivaux_prose_comedy *id_LUBIN *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lubin
 
 Madame, pardonnez l'embarras...
 

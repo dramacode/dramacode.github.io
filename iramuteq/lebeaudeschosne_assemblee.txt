@@ -1,6 +1,6 @@
 
 
-**** *creator_lebeaudeschosne *book_lebeaudeschosne_assemblee *style_verse *genre_comedy *dist1_lebeaudeschosne_verse_comedy_assemblee *dist2_lebeaudeschosne_verse_comedy *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesemainier
+**** *creator_lebeaudeschosne *book_lebeaudeschosne_assemblee *style_verse *genre_comedy *dist1_lebeaudeschosne_verse_comedy_assemblee *dist2_lebeaudeschosne_verse_comedy *id_LESEMAINIER *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesemainier
 
 Que, parmi nous, l'emploi de Semainier
 Est bien un triste et fatiguant métier !
@@ -127,7 +127,7 @@ Qu'après avoir siégé dans ce fauteuil.
 Excepté moi ; car j'étais du secret.
 
 
-**** *creator_lebeaudeschosne *book_lebeaudeschosne_assemblee *style_verse *genre_comedy *dist1_lebeaudeschosne_verse_comedy_assemblee *dist2_lebeaudeschosne_verse_comedy *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_robert
+**** *creator_lebeaudeschosne *book_lebeaudeschosne_assemblee *style_verse *genre_comedy *dist1_lebeaudeschosne_verse_comedy_assemblee *dist2_lebeaudeschosne_verse_comedy *id_ROBERT *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_robert
 
       Monsieur ?
 
@@ -223,7 +223,7 @@ C'est la Concierge, et je m'en vais d'avance.
       J'y vole.
 
 
-**** *creator_lebeaudeschosne *book_lebeaudeschosne_assemblee *style_verse *genre_comedy *dist1_lebeaudeschosne_verse_comedy_assemblee *dist2_lebeaudeschosne_verse_comedy *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamearmand
+**** *creator_lebeaudeschosne *book_lebeaudeschosne_assemblee *style_verse *genre_comedy *dist1_lebeaudeschosne_verse_comedy_assemblee *dist2_lebeaudeschosne_verse_comedy *id_MADAMEARMAND *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamearmand
 
 Tachez, Monsieur, de prendre patience,
 Nous n'aurons pas nos Acteurs de sitôt.

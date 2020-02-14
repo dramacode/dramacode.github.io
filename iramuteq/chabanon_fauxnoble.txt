@@ -1,6 +1,6 @@
 
 
-**** *creator_chabanon *book_chabanon_fauxnoble *style_verse *genre_comedy *dist1_chabanon_verse_comedy_fauxnoble *dist2_chabanon_verse_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lecomte
+**** *creator_chabanon *book_chabanon_fauxnoble *style_verse *genre_comedy *dist1_chabanon_verse_comedy_fauxnoble *dist2_chabanon_verse_comedy *id_LECOMTE *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lecomte
 
 Non ma cousine, non je n'y saurais tenir
 De vous-même, avec vous, je veux m'entretenir ;
@@ -526,7 +526,7 @@ Mon père !
 Pouvons-nous quelquefois espérer de vous voir ?
 
 
-**** *creator_chabanon *book_chabanon_fauxnoble *style_verse *genre_comedy *dist1_chabanon_verse_comedy_fauxnoble *dist2_chabanon_verse_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hortense
+**** *creator_chabanon *book_chabanon_fauxnoble *style_verse *genre_comedy *dist1_chabanon_verse_comedy_fauxnoble *dist2_chabanon_verse_comedy *id_HORTENSE *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hortense
 
 Eh bien expliquons-nous, puisque vous le voulez
 J'écoute ; allons ; parlez, vous en êtes le maître.
@@ -722,7 +722,7 @@ Mon oncle...
 Nous vous jurons, respect, zèle, amour et tendresse.
 
 
-**** *creator_chabanon *book_chabanon_fauxnoble *style_verse *genre_comedy *dist1_chabanon_verse_comedy_fauxnoble *dist2_chabanon_verse_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleonte
+**** *creator_chabanon *book_chabanon_fauxnoble *style_verse *genre_comedy *dist1_chabanon_verse_comedy_fauxnoble *dist2_chabanon_verse_comedy *id_CLEONTE *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleonte
 
 Qu'on me vante à présent les femmes, leur constance !
 
@@ -861,7 +861,7 @@ C'est qu'il soit mon ami sans être mon beau-père.
 À moi n'appartient pas Madame, tant d'honneur.
 
 
-**** *creator_chabanon *book_chabanon_fauxnoble *style_verse *genre_comedy *dist1_chabanon_verse_comedy_fauxnoble *dist2_chabanon_verse_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clenard
+**** *creator_chabanon *book_chabanon_fauxnoble *style_verse *genre_comedy *dist1_chabanon_verse_comedy_fauxnoble *dist2_chabanon_verse_comedy *id_CLENARD *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clenard
 
 Je dois à Monseigneur montrer ce qu'on m'écrit.
 
@@ -897,7 +897,7 @@ De juger ce qu'il pense, à son air, à son style.
 Il vient ; de tout bientôt vous serez éclairci.
 
 
-**** *creator_chabanon *book_chabanon_fauxnoble *style_verse *genre_comedy *dist1_chabanon_verse_comedy_fauxnoble *dist2_chabanon_verse_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_stemmate
+**** *creator_chabanon *book_chabanon_fauxnoble *style_verse *genre_comedy *dist1_chabanon_verse_comedy_fauxnoble *dist2_chabanon_verse_comedy *id_STEMMATE *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_stemmate
 
 Votre Suisse m'a presque empêché de monter.
 
@@ -916,7 +916,7 @@ C'est un de nos roués dans la force du terme.
 Tout, ce que je vous dis ne vous arrête pas ?
 
 
-**** *creator_chabanon *book_chabanon_fauxnoble *style_verse *genre_comedy *dist1_chabanon_verse_comedy_fauxnoble *dist2_chabanon_verse_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_blondel
+**** *creator_chabanon *book_chabanon_fauxnoble *style_verse *genre_comedy *dist1_chabanon_verse_comedy_fauxnoble *dist2_chabanon_verse_comedy *id_BLONDEL *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_blondel
 
 Très volontiers, Madame.
 
@@ -931,7 +931,7 @@ Madame... en s'asseyant, comme l'on fait partout.
 Moins de décision ; la tête un peu moins haute.
 
 
-**** *creator_chabanon *book_chabanon_fauxnoble *style_verse *genre_comedy *dist1_chabanon_verse_comedy_fauxnoble *dist2_chabanon_verse_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lise
+**** *creator_chabanon *book_chabanon_fauxnoble *style_verse *genre_comedy *dist1_chabanon_verse_comedy_fauxnoble *dist2_chabanon_verse_comedy *id_LISE *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lise
 
 Ceci paraît tout neuf ; plaindre ceux qu'on afflige !
 
@@ -962,7 +962,7 @@ C'est un profit tout clair ; en devenant Duchesse,
 Vous gagnez cent pour cent en frais de politesse.
 
 
-**** *creator_chabanon *book_chabanon_fauxnoble *style_verse *genre_comedy *dist1_chabanon_verse_comedy_fauxnoble *dist2_chabanon_verse_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_davon
+**** *creator_chabanon *book_chabanon_fauxnoble *style_verse *genre_comedy *dist1_chabanon_verse_comedy_fauxnoble *dist2_chabanon_verse_comedy *id_DAVON *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_davon
 
 Vous l'aimez tant, Monsieur, que l'on conçoit à peine...
 
@@ -1088,7 +1088,7 @@ Vive les pauvres gens pour se passer d'aïeux !
 On est fils de son père, et cela vaut bien mieux.
 
 
-**** *creator_chabanon *book_chabanon_fauxnoble *style_verse *genre_comedy *dist1_chabanon_verse_comedy_fauxnoble *dist2_chabanon_verse_comedy *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dimanche
+**** *creator_chabanon *book_chabanon_fauxnoble *style_verse *genre_comedy *dist1_chabanon_verse_comedy_fauxnoble *dist2_chabanon_verse_comedy *id_DIMANCHE *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dimanche
 
 Des portraits enlevés du fond de ma boutique,
 Et chez vous apportés, Monsieur, j'en revendique

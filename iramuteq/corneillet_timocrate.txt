@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_timocrate
+**** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *id_TIMOCRATE *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_timocrate
 
       Seigneur, il m'est bien glorieux
 Qu'on se souvienne encor de mon nom en ces lieux,
@@ -626,7 +626,7 @@ Et bénissons le Ciel qui fait voir en ce jour
 Que la plus forte haine obéit à l'amour.
 
 
-**** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *date_1656 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lareine
+**** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *id_LAREINE *date_1656 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lareine
 
       J'estime votre zèle,
 Prince, mais ce dessein me rendrait criminelle,
@@ -991,7 +991,7 @@ Mes voeux dont le succès découvre la justice,
 Vous portaient en secret à ce dernier service.
 
 
-**** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cresphonte
+**** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *id_CRESPHONTE *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cresphonte
 
 Seront-ils contre vous pour un ambitieux ?
 
@@ -1027,7 +1027,7 @@ Et si ce Timocrate est tant à redouter,
 Qui de nous le craindra n'aura qu'à l'éviter.
 
 
-**** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *date_1656 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eriphile
+**** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *id_ERIPHILE *date_1656 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eriphile
 
 Si pour moi cet hymen n'avait eu rien de lâche,
 Rien qui put sur ma gloire imprimer quelque tache,
@@ -1595,7 +1595,7 @@ Et quand nous aurions droit encor de le haïr,
 Le vainqueur a parlé, c'est à nous d'obéir.
 
 
-**** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicandre
+**** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *id_NICANDRE *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicandre
 
 Mais es-tu bien certain que ce soit Cléomène ?
 Tes yeux t'ont pu trahir.
@@ -2076,7 +2076,7 @@ Mais bientôt le respect a su régler ma foi
 Quand dans ce Cléomène il m'a fait voir un Roi.
 
 
-**** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trasille
+**** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *id_TRASILLE *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trasille
 
 Quoi, Madame, on persiste en la même imposture ?
 On ose soutenir qu'on ait vaincu mon roi,
@@ -2103,7 +2103,7 @@ Voit un roi magnanime à sa rage échappé,
 Il m'a tiré des fers et reçu dans la ville.
 
 
-**** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *date_1656 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_doride
+**** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *id_DORIDE *date_1656 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_doride
 
 Madame, permettez pour vous tirer de peine...
 
@@ -2163,7 +2163,7 @@ Vous-même sur sa fourbe essayez son esprit,
 Je cours à la Princesse en faire le récit.
 
 
-**** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *date_1656 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleone
+**** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *id_CLEONE *date_1656 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleone
 
 Si c'est là contre lui tout ce qui vous anime,
 Madame, son malheur est plus grand que son crime,
@@ -2282,7 +2282,7 @@ Soupirer et vous plaindre est tout ce que je puis.
 Madame, j'aperçois la Reine qui s'avance.
 
 
-**** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
+**** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *id_ARCAS *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
 
       Il est avec la Reine,
 Seigneur, et son retour qu'exprès l'on fait savoir

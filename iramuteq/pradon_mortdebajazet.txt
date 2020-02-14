@@ -1,6 +1,6 @@
 
 
-**** *creator_pradon *book_pradon_mortdebajazet *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_mortdebajazet *dist2_pradon_verse_tragedy *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tamerlan
+**** *creator_pradon *book_pradon_mortdebajazet *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_mortdebajazet *dist2_pradon_verse_tragedy *id_TAMERLAN *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tamerlan
 
 Prince, j'ai vu les Grecs, et leurs Ambassadeurs
 Ont remis dans mes mains leur Empire et leurs coeurs :
@@ -447,7 +447,7 @@ Araxide et ma gloire exigent cet effort,
 Je l'épouse, et je pars.
 
 
-**** *creator_pradon *book_pradon_mortdebajazet *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_mortdebajazet *dist2_pradon_verse_tragedy *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bajazet
+**** *creator_pradon *book_pradon_mortdebajazet *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_mortdebajazet *dist2_pradon_verse_tragedy *id_BAJAZET *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bajazet
 
       C'est à vous Sans doute à qui je dois
 Ce peu de liberté, Seigneur, où je me vois.
@@ -740,7 +740,7 @@ Console-toi, ma Fille, et malgré ta douleur
 Souviens-toi que ton père expire en Empereur.
 
 
-**** *creator_pradon *book_pradon_mortdebajazet *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_mortdebajazet *dist2_pradon_verse_tragedy *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_asterie
+**** *creator_pradon *book_pradon_mortdebajazet *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_mortdebajazet *dist2_pradon_verse_tragedy *id_ASTERIE *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_asterie
 
 Il m'apprend que la Cour est pleine d'allégresse,
 Que l'heureux Andronic va régner dans la Grèce,
@@ -1289,7 +1289,7 @@ Tu perds tout aujourd'hui, malheureuse Astérie,
 Et pour dernier malheur il te reste la vie.
 
 
-**** *creator_pradon *book_pradon_mortdebajazet *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_mortdebajazet *dist2_pradon_verse_tragedy *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_andronic
+**** *creator_pradon *book_pradon_mortdebajazet *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_mortdebajazet *dist2_pradon_verse_tragedy *id_ANDRONIC *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_andronic
 
 Enfin, Léon, tu vois cette grande journée
 Qui doit de Tamerlan éclairer l'hyménée ;
@@ -1775,7 +1775,7 @@ Ciel ! Pouvais-je espérer en ce funeste jour
 Que la gloire rangeât la Nature et l'Amour.
 
 
-**** *creator_pradon *book_pradon_mortdebajazet *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_mortdebajazet *dist2_pradon_verse_tragedy *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leon
+**** *creator_pradon *book_pradon_mortdebajazet *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_mortdebajazet *dist2_pradon_verse_tragedy *id_LEON *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leon
 
 Je l'espère, Seigneur, la superbe Byzance,
 Après tant de fureurs, rentre en l'obéissance ;
@@ -1847,7 +1847,7 @@ Va malgré lui peut-être épouser Astérie,
 Tout le Camp est surpris d'un si grand changement.
 
 
-**** *creator_pradon *book_pradon_mortdebajazet *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_mortdebajazet *dist2_pradon_verse_tragedy *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zaide
+**** *creator_pradon *book_pradon_mortdebajazet *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_mortdebajazet *dist2_pradon_verse_tragedy *id_ZAIDE *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zaide
 
 Il vient de me parler ; son désordre, Madame,
 M'a fait assez connaître le trouble de son âme ;

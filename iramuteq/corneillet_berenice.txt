@@ -1,6 +1,6 @@
 
 
-**** *creator_corneillet *book_corneillet_berenice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_berenice *dist2_corneillet_verse_tragedy *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
+**** *creator_corneillet *book_corneillet_berenice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_berenice *dist2_corneillet_verse_tragedy *id_LEROI *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
 
 Quoi que dans ce conseil tu trouves de contraire
 À l'orgueil d'un espoir excusable en un père,
@@ -370,7 +370,7 @@ Publier votre gloire, et d'un accord commun
 Montrer aux Phrygiens deux maîtres au lieu d'un.
 
 
-**** *creator_corneillet *book_corneillet_berenice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_berenice *dist2_corneillet_verse_tragedy *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philoxene
+**** *creator_corneillet *book_corneillet_berenice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_berenice *dist2_corneillet_verse_tragedy *id_PHILOXENE *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philoxene
 
 Quoi, le Roi, la Princesse à ma perte animés
 En prononcent l'Arrêt, et vous le confirmez ?
@@ -811,7 +811,7 @@ Rendez par là ma joie et sa gloire parfaites.
 Seigneur...
 
 
-**** *creator_corneillet *book_corneillet_berenice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_berenice *dist2_corneillet_verse_tragedy *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_berenice
+**** *creator_corneillet *book_corneillet_berenice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_berenice *dist2_corneillet_verse_tragedy *id_BERENICE *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_berenice
 
 Par ce trouble confus que vous faites paraître
 Les sentiments du Roi sont assez à connaître.
@@ -1318,7 +1318,7 @@ Et ce coeur vous explique assez par mon silence
 Quelle part vous avez dans mon obéissance.
 
 
-**** *creator_corneillet *book_corneillet_berenice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_berenice *dist2_corneillet_verse_tragedy *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philoclee
+**** *creator_corneillet *book_corneillet_berenice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_berenice *dist2_corneillet_verse_tragedy *id_PHILOCLEE *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philoclee
 
 Si par un entretien qui pourra vous contraindre
 Je semble vous donner quelque lieu de vous plaindre,
@@ -1605,7 +1605,7 @@ Je m'acquitterais mal de ce que je vous dois,
 Si pour former des voeux je consultais mon choix.
 
 
-**** *creator_corneillet *book_corneillet_berenice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_berenice *dist2_corneillet_verse_tragedy *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anaxaris
+**** *creator_corneillet *book_corneillet_berenice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_berenice *dist2_corneillet_verse_tragedy *id_ANAXARIS *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anaxaris
 
 Ah, ne me jetez point dans la nécessité
 D'examiner mon coeur sur sa témérité.
@@ -1956,7 +1956,7 @@ Viens, je vois Philoclée.
 Madame, il faut au Roi que j'aille rendre compte...
 
 
-**** *creator_corneillet *book_corneillet_berenice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_berenice *dist2_corneillet_verse_tragedy *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_araxe
+**** *creator_corneillet *book_corneillet_berenice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_berenice *dist2_corneillet_verse_tragedy *id_ARAXE *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_araxe
 
 Seigneur, souvent le ciel par des ordres suprêmes,
 Sans nous en consulter dispose de nous-mêmes,
@@ -2272,7 +2272,7 @@ Elle emporte au-dedans le Portrait du feu Roi.
 Il la portait, Seigneur, quand nous fîmes naufrage.
 
 
-**** *creator_corneillet *book_corneillet_berenice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_berenice *dist2_corneillet_verse_tragedy *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_iphite
+**** *creator_corneillet *book_corneillet_berenice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_berenice *dist2_corneillet_verse_tragedy *id_IPHITE *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_iphite
 
       Vous soupirez, Seigneur ?
 
@@ -2338,7 +2338,7 @@ Se prépare au besoin à vous prêter main forte,
 Et l'ardeur qui pour vous échauffe leurs esprits...
 
 
-**** *creator_corneillet *book_corneillet_berenice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_berenice *dist2_corneillet_verse_tragedy *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleophis
+**** *creator_corneillet *book_corneillet_berenice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_berenice *dist2_corneillet_verse_tragedy *id_CLEOPHIS *date_1657 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleophis
 
       Ah, Seigneur, où sera mon asile,
 Si contre le courroux d'un Roi trop irrité
@@ -2407,7 +2407,7 @@ Vous supposez, Seigneur, c'était vous en défendre,
 Il vous ôtait un Sceptre, et j'osais vous le rendre.
 
 
-**** *creator_corneillet *book_corneillet_berenice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_berenice *dist2_corneillet_verse_tragedy *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clitie
+**** *creator_corneillet *book_corneillet_berenice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_berenice *dist2_corneillet_verse_tragedy *id_CLITIE *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clitie
 
 Il vous promet beaucoup.
 
@@ -2480,7 +2480,7 @@ Et sans rien voir de plus, dans l'ardeur de mon zèle
 J'ai cru vous en devoir la première nouvelle.
 
 
-**** *creator_corneillet *book_corneillet_berenice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_berenice *dist2_corneillet_verse_tragedy *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hesione
+**** *creator_corneillet *book_corneillet_berenice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_berenice *dist2_corneillet_verse_tragedy *id_HESIONE *date_1657 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hesione
 
       Madame.
 

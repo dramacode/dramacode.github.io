@@ -1,6 +1,6 @@
 
 
-**** *creator_racine *book_racine_alexandre *style_verse *genre_tragedy *dist1_racine_verse_tragedy_alexandre *dist2_racine_verse_tragedy *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alexandre
+**** *creator_racine *book_racine_alexandre *style_verse *genre_tragedy *dist1_racine_verse_tragedy_alexandre *dist2_racine_verse_tragedy *id_ALEXANDRE *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alexandre
 
 Allez, Éphestion. Que l'on cherche Porus,
 Qu'on épargne sa vie, et le sang des vaincus.
@@ -322,7 +322,7 @@ Et qu'un tombeau superbe instruise l'avenir,
 Et de votre douleur et de mon souvenir.
 
 
-**** *creator_racine *book_racine_alexandre *style_verse *genre_tragedy *dist1_racine_verse_tragedy_alexandre *dist2_racine_verse_tragedy *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_porus
+**** *creator_racine *book_racine_alexandre *style_verse *genre_tragedy *dist1_racine_verse_tragedy_alexandre *dist2_racine_verse_tragedy *id_PORUS *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_porus
 
 Seigneur, ou je me trompe, ou nos fiers ennemis
 Feront moins de progrès qu'ils ne s'étaient promis.
@@ -641,7 +641,7 @@ Je vous suis, et je crois devoir tout entreprendre
 Pour lui donner un maître aussi grand qu'Alexandre.
 
 
-**** *creator_racine *book_racine_alexandre *style_verse *genre_tragedy *dist1_racine_verse_tragedy_alexandre *dist2_racine_verse_tragedy *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_taxile
+**** *creator_racine *book_racine_alexandre *style_verse *genre_tragedy *dist1_racine_verse_tragedy_alexandre *dist2_racine_verse_tragedy *id_TAXILE *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_taxile
 
 Voulez-vous que frappé d'une crainte si basse,
 Je présente la tête au joug qui nous menace,
@@ -926,7 +926,7 @@ Allons. N'attendons pas dans un lâche courroux
 Qu'un si grand différend se termine sans nous.
 
 
-**** *creator_racine *book_racine_alexandre *style_verse *genre_tragedy *dist1_racine_verse_tragedy_alexandre *dist2_racine_verse_tragedy *date_1665 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_axiane
+**** *creator_racine *book_racine_alexandre *style_verse *genre_tragedy *dist1_racine_verse_tragedy_alexandre *dist2_racine_verse_tragedy *id_AXIANE *date_1665 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_axiane
 
 Quoi, Taxile me fuit ? Quelle cause inconnue ?...
 
@@ -1392,7 +1392,7 @@ Aimez, et possédez l'avantage charmant
 De voir toute la Terre adorer votre amant.
 
 
-**** *creator_racine *book_racine_alexandre *style_verse *genre_tragedy *dist1_racine_verse_tragedy_alexandre *dist2_racine_verse_tragedy *date_1665 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleofile
+**** *creator_racine *book_racine_alexandre *style_verse *genre_tragedy *dist1_racine_verse_tragedy_alexandre *dist2_racine_verse_tragedy *id_CLEOFILE *date_1665 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleofile
 
 Quoi ? Vous allez combattre un roi dont la puissance
 Semble forcer le ciel à prendre sa défense,
@@ -1715,7 +1715,7 @@ Mais ne me pressez point. En l'état où je suis,
 Je ne puis que me taire et pleurer mes ennuis.
 
 
-**** *creator_racine *book_racine_alexandre *style_verse *genre_tragedy *dist1_racine_verse_tragedy_alexandre *dist2_racine_verse_tragedy *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ephestion
+**** *creator_racine *book_racine_alexandre *style_verse *genre_tragedy *dist1_racine_verse_tragedy_alexandre *dist2_racine_verse_tragedy *id_EPHESTION *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ephestion
 
 Oui, tandis que vos rois délibèrent ensemble,
 Et que tout se prépare au Conseil qui s'assemble,

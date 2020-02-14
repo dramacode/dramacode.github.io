@@ -1,6 +1,6 @@
 
 
-**** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *date_1745 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alzaide
+**** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *id_ALZAIDE *date_1745 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alzaide
 
 Ah ! Pherés, à Memphis en ce jour arrivée,
 J'ignore à quels malheurs le Ciel m'a réservée,
@@ -502,7 +502,7 @@ Quoiqu'il soit effroyable, un plus cruel m'est dû.
 Tu connais mes forfaits ; connais donc ma vertu.
 
 
-**** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amenophis
+**** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *id_AMENOPHIS *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amenophis
 
 Je veux tout écouter, et ne négliger rien
 Pour le bonheur d'un peuple à qui je dois le mien :
@@ -862,7 +862,7 @@ Puis-je vous écouter ? Iphis est trop coupable.
 Quel coup affreux ! Ô ciel !
 
 
-**** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zaraes
+**** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *id_ZARAES *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zaraes
 
       Alzaïde est seule, approchons-nous.
 
@@ -1128,7 +1128,7 @@ Je mourrai devant vous : voilà votre supplice.
 Elle meurt à tes yeux : je suis vengé, j'expire.
 
 
-**** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *date_1745 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ezire
+**** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *id_EZIRE *date_1745 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ezire
 
       Madame, que lui dire ?...
 
@@ -1197,7 +1197,7 @@ Pâlir même de rage, et d'horreur frissonner.
 Vous parlez d'un époux...
 
 
-**** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pheres
+**** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *id_PHERES *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pheres
 
 De mortels ennuis si vous n'étiez en proie,
 J'oserais devant vous faire éclater ma joie,
@@ -1323,7 +1323,7 @@ Assiége sa retraite, et jure son trépas.
 Oui, Seigneur, c'est Iphis surpris dans ce Palais.
 
 
-**** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nisus
+**** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *id_NISUS *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nisus
 
 Permettez que sur vous, Seigneur, sur ses exploits,
 L'Egypte et l'Univers s'expliquent par ma voix.

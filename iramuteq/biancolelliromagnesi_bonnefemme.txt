@@ -1,6 +1,6 @@
 
 
-**** *creator_biancolelliromagnesi *book_biancolelliromagnesi_bonnefemme *style_verse *genre_parodie *dist1_biancolelliromagnesi_verse_parodie_bonnefemme *dist2_biancolelliromagnesi_verse_parodie *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_danaus
+**** *creator_biancolelliromagnesi *book_biancolelliromagnesi_bonnefemme *style_verse *genre_parodie *dist1_biancolelliromagnesi_verse_parodie_bonnefemme *dist2_biancolelliromagnesi_verse_parodie *id_DANAUS *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_danaus
 
 Pas tant que tu le dis.
 Pas tant que tu le dis.
@@ -156,7 +156,7 @@ Tous deux vous entraîner au diable.
 Vite que l'on m'emporte.
 
 
-**** *creator_biancolelliromagnesi *book_biancolelliromagnesi_bonnefemme *style_verse *genre_parodie *dist1_biancolelliromagnesi_verse_parodie_bonnefemme *dist2_biancolelliromagnesi_verse_parodie *date_1726 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hypermnestre
+**** *creator_biancolelliromagnesi *book_biancolelliromagnesi_bonnefemme *style_verse *genre_parodie *dist1_biancolelliromagnesi_verse_parodie_bonnefemme *dist2_biancolelliromagnesi_verse_parodie *id_HYPERMNESTRE *date_1726 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hypermnestre
 
 À quoi vous amusez-vous,
 Mon père, mon père ?
@@ -339,7 +339,7 @@ Il expire, Seigneur...
 Il ne faut pas quitter le Roi.
 
 
-**** *creator_biancolelliromagnesi *book_biancolelliromagnesi_bonnefemme *style_verse *genre_parodie *dist1_biancolelliromagnesi_verse_parodie_bonnefemme *dist2_biancolelliromagnesi_verse_parodie *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lyncee
+**** *creator_biancolelliromagnesi *book_biancolelliromagnesi_bonnefemme *style_verse *genre_parodie *dist1_biancolelliromagnesi_verse_parodie_bonnefemme *dist2_biancolelliromagnesi_verse_parodie *id_LYNCEE *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lyncee
 
 Ça Fanchon,
 Mon petit bouchon,
@@ -459,7 +459,7 @@ Puisqu'il est défunt, croyez-moi,
 Songeons au reste.
 
 
-**** *creator_biancolelliromagnesi *book_biancolelliromagnesi_bonnefemme *style_verse *genre_parodie *dist1_biancolelliromagnesi_verse_parodie_bonnefemme *dist2_biancolelliromagnesi_verse_parodie *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
+**** *creator_biancolelliromagnesi *book_biancolelliromagnesi_bonnefemme *style_verse *genre_parodie *dist1_biancolelliromagnesi_verse_parodie_bonnefemme *dist2_biancolelliromagnesi_verse_parodie *id_ARCAS *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
 
 Deux illustres familles,
 Apaisent leur courroux,

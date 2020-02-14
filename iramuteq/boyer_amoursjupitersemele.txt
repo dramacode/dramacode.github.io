@@ -1,6 +1,6 @@
 
 
-**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_jupiter
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *id_jupiter *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_jupiter
 
 Ouy j'attens Semelé sous ce nouveau visage :
 C'est l'amour qui m'a fait ce galant équipage⁎ :
@@ -358,7 +358,7 @@ Mais avec tant d'éclat, que toute autre mortelle,
 Porte envie aux honneurs d'une si belle mort.    
 
 
-**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_junon
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *id_junon *date_1666 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_junon
 
 Tu me vois Alcmeon au milieu des nüages
 Par un soin inutile exciter des orages,
@@ -501,7 +501,7 @@ Voy la peine⁎ de ton orgueil,
 Et le triomphe de ma haine.
 
 
-**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_momus
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *id_momus *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_momus
 
 C'est donc l'Amour qui fait tous ces beaux changemens.
 J'admire Jupiter sous ces déguisemens,
@@ -695,7 +695,7 @@ Quelqu'un vient, en ces lieux je ne doy plus paroistre.
 Aigle remonte au Ciel, & vole apres ton maistre.
 
 
-**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_apollon
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *id_apollon *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_apollon
 
 Je sçay de toutes trois le merite & l'employ :
 Je suis le Dieu des vers comme de la lumiere,
@@ -737,7 +737,7 @@ Venez en avec moy contempler la beauté,
 Et prendre vostre part de cette nouveauté.
 
 
-**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_melpomene
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *id_melpomene *date_1666 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_melpomene
  
 Superbes⁎ demy-Dieux dont les noms esclatans
 Triomphent de l'oubly, de la mort & du temps,
@@ -880,7 +880,7 @@ Ces glorieux transports⁎ ; dont le pouvoir supréme,
 Peut élever l'esprit au delà de luy-méme.
 
 
-**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_thalie
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *id_thalie *date_1666 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_thalie
 
 Hé bien tousjours ma sœur sur quelque grand ouvrage,
 J'ai tort d'ozer ainsi troubler vostre repos :
@@ -962,7 +962,7 @@ Prononcez vostre arrest, grand Dieu qu'attendez-vous ?
 Est-il si mal aisé de juger entre nous ?
 
 
-**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_euterpe
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *id_euterpe *date_1666 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_euterpe
 
 Quoy mes sœurs vostre honneur depend de mon suffrage !
 Donc le prix n'est icy disputé qu'entre vous :
@@ -1061,7 +1061,7 @@ Ne l'est pas tant que nous.
 Tirez-nous promptement de cette incertitude.
 
 
-**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_cadmus
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *id_cadmus *date_1666 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_cadmus
 
 Ah ! Prince ce soupçon marque trop de foiblesse.
 
@@ -1217,7 +1217,7 @@ Quels encens, quels presens offerts sur tes autels,
 Payeront dignement ces honneurs immortels ?
 
 
-**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_hermione
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *id_hermione *date_1666 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_hermione
  
 Je n'ay rien fait, Seigneur, qui vous oblige à croire,
 Que le sang de Venus, dont je tire ma gloire,
@@ -1355,7 +1355,7 @@ Je vous connoissois mal, & ne prevoyois pas
 Les biens que Semelé tire de son trespas.    
 
 
-**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_semele
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *id_semele *date_1666 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_semele
 
 Quel éclat, quelle voix force agreablement
 Un repos si profond, un sommeil si charmant ?
@@ -1914,7 +1914,7 @@ Ce tumulte agreable a passé dans mon cœur.
 Grand Dieu, venez, hastez ma gloire & mon bon-heur.
 
 
-**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_garçon *role_alcmeon
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *id_alcmeon *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_alcmeon
 
 Madame pardonnez à mon impatience.
 
@@ -2261,7 +2261,7 @@ Cruelle⁎ pour finir ma peine⁎ & mon malheur,
 Helas ! c'est bien assez de ma seule douleur.
 
 
-**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_dimas
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *id_dimas *date_1666 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_dimas
 
 Le Prince est là, Madame, & demande à vous voir.
 
@@ -2282,7 +2282,7 @@ Tel qu'il est, quand il regne, & tonne dans les Cieux.
 De ce Dieu tout en feu la fatale presence…
 
 
-**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *date_1666 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_dirce
+**** *creator_boyer *book_boyer_amoursjupitersemele *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_amoursjupitersemele *dist2_boyer_verse_tragedy *id_dirce *date_1666 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_dirce
 
 Non, je n'en doute plus, & j'en tremble, Madame.
 Quoy le Prince Alcmeon, qui regnoit dans vostre ame,

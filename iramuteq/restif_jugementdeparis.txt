@@ -1,6 +1,6 @@
 
 
-**** *creator_restif *book_restif_jugementdeparis *style_prose *genre_comedie *dist1_restif_prose_comedie_jugementdeparis *dist2_restif_prose_comedie *date_1773 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junon
+**** *creator_restif *book_restif_jugementdeparis *style_prose *genre_comedie *dist1_restif_prose_comedie_jugementdeparis *dist2_restif_prose_comedie *id_JUNON *date_1773 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junon
 
 À moi, vous dis-je, je vous trouve toutes les deux bien hardies.
 
@@ -67,7 +67,7 @@ L'ingrat !
 Comment ?
 
 
-**** *creator_restif *book_restif_jugementdeparis *style_prose *genre_comedie *dist1_restif_prose_comedie_jugementdeparis *dist2_restif_prose_comedie *date_1773 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
+**** *creator_restif *book_restif_jugementdeparis *style_prose *genre_comedie *dist1_restif_prose_comedie_jugementdeparis *dist2_restif_prose_comedie *id_VENUS *date_1773 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
 
 Moi, franchement, un peu vaines.
 
@@ -125,7 +125,7 @@ Et Vénus le bonheur.
 J'ai commencé votre félicité, mes enfants, je la veux achever. Le Roi Priam, de qui tu es sorti, est un de mes plus chers adorateurs, je vais vous mener à sa Cour; il te reconnaîtra pour son fils. Tu le remplaceras au Trône, et, t'éclairant de mon génie, j'espère prouver que, pour rendre un Royaume florissant, la mère des Amours vaut bien l'orgueilleuse Opulence, et la froide Sagesse.
 
 
-**** *creator_restif *book_restif_jugementdeparis *style_prose *genre_comedie *dist1_restif_prose_comedie_jugementdeparis *dist2_restif_prose_comedie *date_1773 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pallas
+**** *creator_restif *book_restif_jugementdeparis *style_prose *genre_comedie *dist1_restif_prose_comedie_jugementdeparis *dist2_restif_prose_comedie *id_PALLAS *date_1773 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pallas
 
 Et moi, bien folles.
 
@@ -198,7 +198,7 @@ Je vais donc voir finir une indigne concurrence.
 Le perfide !
 
 
-**** *creator_restif *book_restif_jugementdeparis *style_prose *genre_comedie *dist1_restif_prose_comedie_jugementdeparis *dist2_restif_prose_comedie *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
+**** *creator_restif *book_restif_jugementdeparis *style_prose *genre_comedie *dist1_restif_prose_comedie_jugementdeparis *dist2_restif_prose_comedie *id_MOMUS *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
 
 Un moment, Mesdames, arrêtez-donc. Toutes les trois, ensemble. Elle est à moi.
 
@@ -339,7 +339,7 @@ Trente ans. Pour vous, divine Sagesse..... peut-être jamais ; mais si cela arri
 Oh ! Selon l'usage, après la soixantaine..... Eh ! mais ne vois-je pas les Grâces ? Elles viennent, sans doute, vous féliciter sur votre victoire.
 
 
-**** *creator_restif *book_restif_jugementdeparis *style_prose *genre_comedie *dist1_restif_prose_comedie_jugementdeparis *dist2_restif_prose_comedie *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_paris
+**** *creator_restif *book_restif_jugementdeparis *style_prose *genre_comedie *dist1_restif_prose_comedie_jugementdeparis *dist2_restif_prose_comedie *id_PARIS *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_paris
 
 Votre père me refuse pour gendre, sous prétexte que je suis trop jeune ; mais, en effet, parce que je suis un pauvre orphelin, délaissé dans ces lieux presqu'en naissant, qu'on n'a pu découvrir encore quelle est ma patrie ni à qui je dois le jour, il m'humilie cruellement ; mais, n'importe, je vous adore, chère OEnone, et je ne changerai jamais.
 
@@ -419,7 +419,7 @@ Divin Momus, vous voici fort à propos. Avertissez, je vous prie, les deux autre
 Déesses, écoutez de grâce, et rendez-moi justice. Junon, vous avez flatté mon ambition, recevez mes remerciements ; Minerve a éclairé ma raison, elle mérite toute mon estime ; mais Vénus a gagné mon coeur, et je lui dois la Pomme...
 
 
-**** *creator_restif *book_restif_jugementdeparis *style_prose *genre_comedie *dist1_restif_prose_comedie_jugementdeparis *dist2_restif_prose_comedie *date_1773 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_oenone
+**** *creator_restif *book_restif_jugementdeparis *style_prose *genre_comedie *dist1_restif_prose_comedie_jugementdeparis *dist2_restif_prose_comedie *id_OENONE *date_1773 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_oenone
 
 Quel sera le gage de tes sentiments ?
 

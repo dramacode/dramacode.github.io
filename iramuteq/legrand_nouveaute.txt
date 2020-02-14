@@ -1,6 +1,6 @@
 
 
-**** *creator_legrand *book_legrand_nouveaute *style_prose *genre_comedy *dist1_legrand_prose_comedy_nouveaute *dist2_legrand_prose_comedy *date_1727 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lanouveaute
+**** *creator_legrand *book_legrand_nouveaute *style_prose *genre_comedy *dist1_legrand_prose_comedy_nouveaute *dist2_legrand_prose_comedy *id_LANOUVEAUTE *date_1727 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lanouveaute
 
 
 
@@ -150,7 +150,7 @@ Vendre des vers à la toise !
 Allons, Messieurs, puisque vous voilà d'accord, secondez-moi dans l'exécution du petit divertissement que j'ai préparé ; et que tout célèbre le triomphe de la Nouveauté.
 
 
-**** *creator_legrand *book_legrand_nouveaute *style_prose *genre_comedy *dist1_legrand_prose_comedy_nouveaute *dist2_legrand_prose_comedy *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_letemps
+**** *creator_legrand *book_legrand_nouveaute *style_prose *genre_comedy *dist1_legrand_prose_comedy_nouveaute *dist2_legrand_prose_comedy *id_LETEMPS *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_letemps
 
 C'est ici de l'Ennui le fleuve affreux et sombre ;
 Les plus heureux mortels le passent tour-à-tour ;
@@ -176,7 +176,7 @@ Il faut que tes marchands de paroles n'aient pas vendu de trop bonnes choses dep
 Annonce tant qu'il te plaira : mais je suis sûr que tu n'étrenneras pas.
 
 
-**** *creator_legrand *book_legrand_nouveaute *style_prose *genre_comedy *dist1_legrand_prose_comedy_nouveaute *dist2_legrand_prose_comedy *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
+**** *creator_legrand *book_legrand_nouveaute *style_prose *genre_comedy *dist1_legrand_prose_comedy_nouveaute *dist2_legrand_prose_comedy *id_MOMUS *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
 
 Holà, bonhomme, ne sauriez-vous m'enseignez le Fleuve de l'Ennui ?
 
@@ -217,7 +217,7 @@ Cette idée ne ma déplaît pas ; mais il faudrait après cela un petit divertis
 Oui vraiment, et je vais de ce pas en donner avis à nos gens.
 
 
-**** *creator_legrand *book_legrand_nouveaute *style_prose *genre_comedy *dist1_legrand_prose_comedy_nouveaute *dist2_legrand_prose_comedy *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+**** *creator_legrand *book_legrand_nouveaute *style_prose *genre_comedy *dist1_legrand_prose_comedy_nouveaute *dist2_legrand_prose_comedy *id_MERCURE *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
 
 Ah ! Mon cher Momus, je suis ravi de te trouver ; j'ai à t'apprendre que je suis entré ce matin au service d'une Dame capable d'enrichir les marchands, s'ils ne veulent pas la négliger.
 
@@ -252,7 +252,7 @@ Il n'y en a point, Monsieur ; ce sont toutes scènes détachées, qui n'ont aucu
 Eh ! Qu'importe ? Ce sera une Nouveauté que d'en jouer une dans ce goût là sur le Théâtre Français ; et cela répondra mieux au titre. Croyez-moi, Messieurs, ne manquez jamais la première représentation d'une pièce, on n'est jamais sûr d'en avoir une seconde : et venez tous avec moi condamner ou applaudir la Nouveauté. Mais vous n'aurez pas peine de l'aller chercher à la Comédie, puisque la voilà qui vient ne personne au devant de vous.
 
 
-**** *creator_legrand *book_legrand_nouveaute *style_prose *genre_comedy *dist1_legrand_prose_comedy_nouveaute *dist2_legrand_prose_comedy *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisandre
+**** *creator_legrand *book_legrand_nouveaute *style_prose *genre_comedy *dist1_legrand_prose_comedy_nouveaute *dist2_legrand_prose_comedy *id_LISANDRE *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisandre
 
 Aimable mère de l'inconstance, charmante Nouveauté, vous voyez un Amant qui a soupiré un an auprès de la plus aimable personne du monde, qui n'a pu passer un seul jour sans la voir, qui en a été aimé tendrement et qui cependant se sent aujourd'hui du goût pour vous.
 
@@ -279,7 +279,7 @@ Serait-il possible, charmante personne ?...
 Comment jusqu'au revoir ! Ah ! Madame la Nouveauté, il suffit que vous m'ayez mis une fois au comble de mes voeux ; content de mon dernier choix, je vous proteste que je n'aurai de ma vie recours à vous.
 
 
-**** *creator_legrand *book_legrand_nouveaute *style_prose *genre_comedy *dist1_legrand_prose_comedy_nouveaute *dist2_legrand_prose_comedy *date_1727 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eliante
+**** *creator_legrand *book_legrand_nouveaute *style_prose *genre_comedy *dist1_legrand_prose_comedy_nouveaute *dist2_legrand_prose_comedy *id_ELIANTE *date_1727 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eliante
 
 Bonjour, ma chère Nouveauté. Me reconnaissez-vous ?
 
@@ -298,7 +298,7 @@ Ah ! Madame, qu'allez-vous lui découvrir ?
 Pour moi, Déesse, je ne jure de rien.
 
 
-**** *creator_legrand *book_legrand_nouveaute *style_prose *genre_comedy *dist1_legrand_prose_comedy_nouveaute *dist2_legrand_prose_comedy *date_1727 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_claudine
+**** *creator_legrand *book_legrand_nouveaute *style_prose *genre_comedy *dist1_legrand_prose_comedy_nouveaute *dist2_legrand_prose_comedy *id_CLAUDINE *date_1727 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_claudine
 
 Bonjour, Madame. N'est-ce pas vous qu'on appelle la Nouveauté.
 
@@ -325,7 +325,7 @@ Oh ! J'entends bien à présent, Madame. Mais je voudrais qu'il ne fût pas jalo
 N'est-il pas vrai ? Mais, Madame, je vous prie, que je ne sois pas venue vous consulter en vain ; et, ne pouvant changer mon visage, donnez-moi du moins quelques nouvelles manières de plaire, que les autres femmes n'aient pas encore inventées ; j'en ai déjà effrayé plusieurs qui m'ont rendu moins belle que je n'étais. Ce que je vous demande, au moins, c'est toujours dans le dessein de plaire à mon mari ; si j'ai le malheur de plaire à quelqu'autre, ce ne sera pas ma faute.
 
 
-**** *creator_legrand *book_legrand_nouveaute *style_prose *genre_comedy *dist1_legrand_prose_comedy_nouveaute *dist2_legrand_prose_comedy *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lacascade
+**** *creator_legrand *book_legrand_nouveaute *style_prose *genre_comedy *dist1_legrand_prose_comedy_nouveaute *dist2_legrand_prose_comedy *id_LACASCADE *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lacascade
 
 Là, là, fi, ut, là, ré... Ah ! Madame la Nouveauté, il y a longtemps que je vous cherche sans pouvoir vous trouver.
 
@@ -363,7 +363,7 @@ Mais comment ajuster à ma musique ceux qui sont trop longs ?
 J'y consens.
 
 
-**** *creator_legrand *book_legrand_nouveaute *style_prose *genre_comedy *dist1_legrand_prose_comedy_nouveaute *dist2_legrand_prose_comedy *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_larimaille
+**** *creator_legrand *book_legrand_nouveaute *style_prose *genre_comedy *dist1_legrand_prose_comedy_nouveaute *dist2_legrand_prose_comedy *id_LARIMAILLE *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_larimaille
 
 Comment donc ? Que veut dire ceci ? Des gens qui se querellent en Musique ? Est-ce que nous sommes ici à l'Opéra ?
 
@@ -400,7 +400,7 @@ Coulez, coulants ruisseaux ; murmurez sans murmure.
 Et ainsi du reste.
 
 
-**** *creator_legrand *book_legrand_nouveaute *style_prose *genre_comedy *dist1_legrand_prose_comedy_nouveaute *dist2_legrand_prose_comedy *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_unprovincial
+**** *creator_legrand *book_legrand_nouveaute *style_prose *genre_comedy *dist1_legrand_prose_comedy_nouveaute *dist2_legrand_prose_comedy *id_UNPROVINCIAL *date_1727 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_unprovincial
 
 Monsieur, est-elle de Molière ?
 
