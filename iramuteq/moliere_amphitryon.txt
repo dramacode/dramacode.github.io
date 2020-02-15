@@ -2,6 +2,7 @@
 
 **** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *id_mercure *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
 
+
 Tout beau, charmante Nuit ; daignez vous arrêter.
 Il est certain secours, que de vous on désire :
 Et j'ai deux mots à vous dire,
@@ -481,8 +482,8 @@ Je suis las de porter un Visage si laid ;
 Et je m'en vais au Ciel, avec de l'Ambrosie,
 M'en débarbouiller tout à fait.
 
-
 **** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *id_nuit *date_1668 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nuit
+
 
 Ah, ah, c'est vous, Seigneur Mercure !
 Qui vous eût deviné là, dans cette posture ?
@@ -545,8 +546,8 @@ Je vais faire une Station.
 
       Adieu, Mercure.
 
-
 **** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *id_jupiter *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
+
 
 Défendez, chère Alcmène, aux Flambeaux d'approcher ;
 Ils m'offrent des plaisirs, en m'offrant votre vue :
@@ -858,8 +859,8 @@ C'est un crime, que d'en douter.
 Les paroles de Jupiter,
 Sont des Arrêts des Destinées.
 
-
 **** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *id_amphitryon *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amphitryon
+
 
 Viens çà, Bourreau, viens çà. Sais-tu, Maître Fripon,
 Qu'à te faire assommer, ton discours peut suffire ?
@@ -1324,8 +1325,8 @@ Suis-moi.
       Qui t'épouvante ainsi ?
 Quelle est la peur, que je t'inspire ?
 
-
 **** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *id_alcmene *date_1668 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alcmene
+
 
 Je prends, Amphitryon, grande part à la gloire,
 Que répandent sur vous vos illustres Exploits ;
@@ -1625,8 +1626,8 @@ N'est-ce pas dire qu'on pardonne ?
 
 Laissez. Je me veux mal de mon trop de faiblesse.
 
-
 **** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *id_cleanthis *date_1668 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cleanthis
+
 
 Ô Ciel ! que d'aimables caresses
 D'un Époux ardemment chéri !
@@ -1793,8 +1794,8 @@ On se lasse, parfois, d'être Femme de bien.
 
 Las ! vous êtes là-haut, et je vous vois ici !
 
-
 **** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *id_sosie *date_1668 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_sosie
+
 
 Qui va là ? Heu ? Ma peur, à chaque pas s'accroît.
 Messieurs, Ami de tout le Monde.
@@ -2565,8 +2566,31 @@ Et que chacun chez soi, doucement se retire.
 Sur telles Affaires, toujours,
 Le meilleur est de ne rien dire.
 
+**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *id_argatiphontidas *date_1668 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_argatiphontidas
+
+
+Je n'embarrasse point là-dedans ma pensée :
+Mais je hais vos Messieurs, de leurs honteux délais ;
+Et c'est un procédé, dont j'ai l'Âme blessée ;
+Et que les Gens de cœur n'approuveront jamais.
+Quand quelqu'un nous emploie, on doit, tête baissée,
+Se jeter dans ses intérêts.
+Argatiphontidas ne va point aux accords.
+Écouter d'un Ami raisonner l'adversaire,
+Pour des Hommes d'honneur, n'est point un coup à faire :
+Il ne faut écouter que la vengeance alors.
+Le Procès ne me saurait plaire ;
+Et l'on doit commencer toujours dans ses transports,
+Par bailler, sans autre mystère,
+De l'Épée au travers du Corps.
+Oui, vous verrez, quoi qu'il advienne,
+Qu'Argatiphontidas marche droit sur ce point ;
+Et de vous il faut que j'obtienne,
+Que le Pendard ne meure point,
+D'une autre main, que de la mienne.
 
 **** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *id_naucrates *date_1668 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_naucrates
+
 
 Ah ! de grâce, arrêtez.
 
@@ -2632,3 +2656,18 @@ Sauront vous affranchir de trouble, et de souci.
 
 Certes, je suis ravi de ces marques brillantes…
 
+**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *id_polidas *date_1668 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_polidas
+
+
+      Qu'est-ce ?
+
+Certes, ce rapport admirable
+Suspend ici mon jugement.
+
+**** *creator_moliere *book_moliere_amphitryon *style_verse *genre_comedy *dist1_moliere_verse_comedy_amphitryon *dist2_moliere_verse_comedy *id_posicles *date_1668 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_posicles
+
+
+Je comprends que ce coup doit fort toucher votre Âme.
+
+Si cette Ressemblance est telle que l'on dit,
+Alcmène, sans être coupable…

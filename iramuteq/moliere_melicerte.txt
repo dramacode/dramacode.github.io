@@ -2,6 +2,7 @@
 
 **** *creator_moliere *book_moliere_melicerte *style_verse *genre_comedy *dist1_moliere_verse_comedy_melicerte *dist2_moliere_verse_comedy *id_acante *date_1682 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_acante
 
+
 Ah ! charmante Daphné.
 
 Pourquoi me chasses-tu ?
@@ -30,8 +31,8 @@ Et qu'à notre poursuite elle ôte un grand obstacle.
 
 Suivons aussi ses pas, afin de tout apprendre.
 
-
 **** *creator_moliere *book_moliere_melicerte *style_verse *genre_comedy *dist1_moliere_verse_comedy_melicerte *dist2_moliere_verse_comedy *id_tyrene *date_1682 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_tyrene
+
 
       Trop aimable Éroxène.
 
@@ -59,8 +60,8 @@ Est-il vrai que le Ciel sensible à nos tourments…
 Elle peut renvoyer ces Nymphes à nos vœux,
 Et nous donner moyen d'être contents tous deux.
 
-
 **** *creator_moliere *book_moliere_melicerte *style_verse *genre_comedy *dist1_moliere_verse_comedy_melicerte *dist2_moliere_verse_comedy *id_daphne *date_1682 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_daphne
+
 
 Acante, laisse-moi.
 
@@ -181,8 +182,8 @@ Traitons, de grâce, ici les choses sans colère.
 
 Le choix d'elle et de nous est assez inégal.
 
-
 **** *creator_moliere *book_moliere_melicerte *style_verse *genre_comedy *dist1_moliere_verse_comedy_melicerte *dist2_moliere_verse_comedy *id_eroxene *date_1682 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_eroxene
+
 
       Ne me suis point, Tyrène.
 
@@ -299,8 +300,8 @@ Dont la beauté, Myrtil, vous a fait son Amant ?
 
 Vous comparez, Myrtil, ses qualités aux nôtres ?
 
-
 **** *creator_moliere *book_moliere_melicerte *style_verse *genre_comedy *dist1_moliere_verse_comedy_melicerte *dist2_moliere_verse_comedy *id_lycarsis *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lycarsis
+
 
       Ah ! que vous me pressez !
 Cela ne se dit pas comme vous le pensez.
@@ -495,8 +496,8 @@ Non.
 Je m'en vais trouver Mopse, et lui faire ouverture
 De l'amour que sa Nièce, et toi, vous vous portez.
 
-
 **** *creator_moliere *book_moliere_melicerte *style_verse *genre_comedy *dist1_moliere_verse_comedy_melicerte *dist2_moliere_verse_comedy *id_myrtil *date_1682 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_myrtil
+
 
 
 Innocente petite bête,
@@ -722,8 +723,8 @@ Et pourquoi ?
 
 Ah, Dieux, quelle rigueur ! hé Nicandre, Nicandre.
 
-
 **** *creator_moliere *book_moliere_melicerte *style_verse *genre_comedy *dist1_moliere_verse_comedy_melicerte *dist2_moliere_verse_comedy *id_melicerte *date_1682 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_melicerte
+
 
 Ah, Corinne, tu viens de l'apprendre de Stelle,
 Et c'est de Lycarsis qu'elle tient la nouvelle.
@@ -835,8 +836,8 @@ Je vous promets ici d'éviter sa présence ;
 De faire place au choix où vous vous résoudrez,
 Et ne souffrir ses vœux que quand vous le voudrez.
 
-
 **** *creator_moliere *book_moliere_melicerte *style_verse *genre_comedy *dist1_moliere_verse_comedy_melicerte *dist2_moliere_verse_comedy *id_corinne *date_1682 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_corinne
+
 
 Oui.
 
@@ -856,8 +857,8 @@ Je ne sais.
       En vérité, je ne sais comment faire,
 Et de tous les côtés je trouve à vous déplaire.
 
-
 **** *creator_moliere *book_moliere_melicerte *style_verse *genre_comedy *dist1_moliere_verse_comedy_melicerte *dist2_moliere_verse_comedy *id_nicandre *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicandre
+
 
 Dis-nous donc ta nouvelle.
 
@@ -886,8 +887,8 @@ Dont tout Tempé croyait que Mopse était le frère…
 Mais je me suis chargé de la chercher partout,
 Vous saurez tout cela tantôt de bout en bout.
 
-
 **** *creator_moliere *book_moliere_melicerte *style_verse *genre_comedy *dist1_moliere_verse_comedy_melicerte *dist2_moliere_verse_comedy *id_mopse *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mopse
+
 
 Que de sottes façons, et que de badinage,
 Ménalque pour chanter n'en fait pas davantage.
@@ -906,4 +907,3 @@ Soit.
 Et nous ne te voulons aucunement entendre.
 
       Va-t'en te faire pendre.
-

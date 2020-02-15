@@ -1,6 +1,33 @@
 
 
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_jupiter *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
+
+
+Ma Fille, sois-lui moins sévère.
+Tu tiens de sa Psyché le destin en tes mains,
+La Parque au moindre mot va suivre ta colère,
+Parle, et laisse-toi vaincre aux tendresses de Mère,
+Ou redoute un courroux que moi-même je crains.
+Veux-tu donner le monde en proie
+À la haine, au désordre, à la confusion,
+Et d'un Dieu d'union,
+D'un Dieu de douceurs et de joie,
+Faire un Dieu d'amertume et de division ?
+Considère ce que nous sommes,
+Et si les passions doivent nous dominer,
+Plus la vengeance a de quoi plaire aux Hommes,
+Plus il sied bien aux Dieux de pardonner.
+
+Hé bien, je la fais immortelle,
+Afin d'y rendre tout égal.
+
+Venez, Amants, venez aux Cieux
+Achever un si grand et si digne Hyménée ;
+Viens-y, belle Psyché, changer de Destinée,
+Viens prendre place aux rang des Dieux.
+
 **** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_venus *date_1671 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
+
 
 Cessez, cessez pour moi tous vos chants d'allégresse :
 De si rares honneurs ne m'appartiennent pas,
@@ -235,8 +262,8 @@ Qui s'opposait à vos souhaits.
 Jupiter vous fait grâce, et ma colère cesse.
 Vivez, Vénus l'ordonne ; aimez, elle y consent.
 
-
 **** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_amour *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amour
+
 
 Dans le monde on n'entend que plaintes de l'Amour,
 On m'impute partout mille fautes commises,
@@ -391,16 +418,6 @@ Et vous, petits Amours, et vous jeunes Zéphyrs,
 Qui pour âmes n'avez que de tendres soupirs,
 Montrez tous à l'envi ce qu'à voir ma Princesse
 Vous avez senti d'allégresse.
-
-Pourquoi se défendre ?
-Que sert-il d'attendre ?
-Quand on perd un jour,
-On le perd sans retour.
-
-Que peut-on mieux faire
-Qu'aimer et que plaire ?
-C'est un soin charmant
-Que l'emploi d'un Amant.
 
 Enfin vous êtes seule, et je puis vous redire,
 Sans avoir pour témoins vos importunes Sœurs,
@@ -616,8 +633,30 @@ Si vous me défendez d'en faire une pour moi ?
 
 Je vous possède enfin, délices de mon âme !
 
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_aegiale *date_1671 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aegiale
+
+
+Nous ne savons, Déesse, comment faire,
+Dans ce chagrin qu'on voit vous accabler :
+Notre respect veut se taire,
+Notre zèle veut parler.
+
+Voilà comme l'on fait, c'est le style des Hommes,
+Ils sont impertinents dans leurs comparaisons.
+
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_phaene *date_1671 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phaene
+
+
+Vous avez plus que nous de clartés, de sagesse,
+Pour juger ce qui peut être digne de vous :
+Mais pour moi, j'aurais cru qu'une grande Déesse
+Devrait moins se mettre en courroux.
+
+Ils ne sauraient louer, dans le Siècle où nous sommes,
+Qu'ils n'outragent les plus grands noms.
 
 **** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_psyche *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_psyche
+
 
 Du sujet qui les tient si rêveurs parmi nous
 Je ne me croyais pas la cause,
@@ -1243,8 +1282,8 @@ Qui redonnez la vie à ce cœur innocent !
 
 Je vous revois enfin, cher objet de ma flamme !
 
-
 **** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_le-roi *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
+
 
 Ah ! ma Fille, à ces pleurs laisse mes yeux ouverts,
 Mon deuil est raisonnable, encor qu'il soit extrême,
@@ -1361,8 +1400,8 @@ Une rigueur inévitable
 M'oblige à te laisser en ce funeste lieu.
 Adieu : je vais… Adieu.
 
-
 **** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_aglaure *date_1671 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aglaure
+
 
 Il est des maux, ma Sœur, que le silence aigrit,
 Laissons, laissons parler mon chagrin et le vôtre,
@@ -1655,8 +1694,8 @@ Quel excès de bonheur le Ciel répand sur vous.
 Nous savons toutes deux ce qu'il faut taire, ou dire,
 Et n'avons pas besoin sur ce point de leçons.
 
-
 **** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_cidippe *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cidippe
+
 
 Ah, ma Sœur, c'est une aventure
 À faire perdre la raison,
@@ -1793,8 +1832,8 @@ Que sait-on si déjà les nœuds de l'Hyménée…
 Nous allons lui conter d'un changement si doux
 La surprenante et merveilleuse histoire.
 
-
 **** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_cleomene *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleomene
+
 
 On nous faisait croire qu'ici
 La Princesse Psyché, Madame, pourrait être.
@@ -1923,8 +1962,8 @@ Et rallumant un feu qui ne se puisse éteindre,
 Affranchir à jamais l'éclat de vos beaux yeux
 D'augmenter le jour en ces lieux.
 
-
 **** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_agenor *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agenor
+
 
 Ces lieux peuvent avoir des charmes assez doux ;
 Mais nous cherchons Psyché dans notre impatience.
@@ -2028,8 +2067,8 @@ N'étale que le moindre et le premier supplice
 De ces conseils dont l'artifice
 Fait les maux dont vous soupirez.
 
-
 **** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_zephire *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zephire
+
 
 Oui, je me suis galamment acquitté
 De la commission que vous m'avez donnée,
@@ -2083,8 +2122,8 @@ Les soupirs, la bouche, et les yeux.
 En Confident discret je sais ce qu'il faut faire
 Pour ne pas interrompre un amoureux mystère.
 
-
 **** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_lycas *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lycas
+
 
 Ah, Madame !
 
@@ -2120,43 +2159,143 @@ Je vous quitte, et vous laisse à juger entre vous,
 Si par de plus cruels et plus sensibles coups
 Tous les Dieux nous pouvaient expliquer leur colère.
 
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_dieu-fleuve *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dieufleuve
 
-**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_zephyr *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_zephyr
 
-Aimable jeunesse,
-Suivez la tendresse,
-Joignez aux beaux jours
-La douceur des Amours,
-C'est pour vous surprendre
-Qu'on vous fait entendre
-Qu'il faut éviter leurs soupirs,
-Et craindre leurs désirs :
-Laissez-vous apprendre
-Quels sont leurs plaisirs.
+Ton trépas souillerait mes ondes,
+Psyché, le Ciel te le défend,
+Et peut-être qu'après des douleurs si profondes
+Un autre sort t'attend.
+Fuis plutôt de Vénus l'implacable colère :
+Je la vois qui te cherche et qui te veut punir,
+L'amour du Fils a fait la haine de la Mère,
+Fuis, je saurai la retenir.
 
-Un cœur jeune et tendre
-Est fait pour se rendre,
-Il n'a point à prendre
-De fâcheux détour.
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_apollon *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_apollon
 
-L'Amour a des charmes,
-Rendons-lui les armes,
-Ses soins et ses pleurs
-Ne sont pas sans douceurs.
-Un cœur pour le suivre
-À cent maux se livre,
-Il faut pour goûter ses appas
-Languir jusqu'au trépas,
-Mais ce n'est pas vivre
-Que de n'aimer pas.
 
-On craint, on espère,
-Il faut du mystère,
-Mais on n'obtient guère
-De bien sans tourment.
+Unissons-nous, Troupe immortelle ;
+Le Dieu d'Amour devient heureux amant,
+Et Vénus a repris sa douceur naturelle
+En faveur d'un Fils si charmant :
+Il va goûter en paix, après un long tourment,
+Une félicité qui doit être éternelle.
 
+Le Dieu qui nous engage
+À lui faire la Cour,
+Défend qu'on soit trop sage.
+Les plaisirs ont leur tour,
+C'est leur plus doux usage,
+Que de finir les soins du Jour.
+La Nuit est le partage
+Des Jeux, et de l'Amour.
+Ce serait grand dommage
+Qu'en ce charmant Séjour
+On eût un cœur sauvage.
+Les Plaisirs ont leur tour,
+C'est leur plus doux usage,
+Que de finir les soins du Jour.
+La Nuit est le partage
+Des Jeux, et de l'Amour.
+
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_muses *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_muses
+
+
+Gardez-vous, Beautés sévères,
+Les Amours font trop d'affaires,
+Craignez toujours de vous laisser charmer :
+Quand il faut que l'on soupire,
+Tout le mal n'est pas de s'enflammer ;
+Le martyre
+De le dire,
+Coûte plus cent fois que d'aimer.
+
+On ne peut aimer sans peines,
+Il est peu de douces chaînes,
+À tout moment on se sent alarmer ;
+Quand il faut que l'on soupire,
+Tout le mal n'est pas de s'enflammer ;
+Le martyre
+De le dire,
+Coûte plus cent fois que d'aimer.
+
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_bacchus *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_bacchus
+
+
+Si quelquefois,
+Suivant nos douces Lois,
+La raison se perd et s'oublie,
+Ce que le Vin nous cause de folie
+Commence et finit en un jour ;
+Mais quand un cœur est enivré d'Amour,
+Souvent c'est pour toute la vie.
+
+Admirons le jus de la Treille :
+Qu'il est puissant ! qu'il a d'attraits !
+Il sert aux douceurs de la Paix,
+Et dans la Guerre il fait merveille :
+Mais surtout pour les Amours,
+Le vin est d'un grand secours.
+
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_mome *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_mome
+
+
+Je cherche à médire !
+Sur la terre et dans les Cieux ;
+Je soumets à ma Satire
+Les plus grands des Dieux.
+Il n'est dans l'Univers que l'Amour qui m'étonne ;
+Il est le seul que j'épargne aujourd'hui ;
+Il n'appartient qu'à lui
+De n'épargner personne.
+
+Folâtrons, divertissons-nous,
+Raillons, nous ne saurions mieux faire,
+La raillerie est nécessaire
+Dans les Jeux les plus doux.
+Sans la douceur que l'on goûte à médire,
+On trouve peu de plaisirs sans ennui ;
+Rien n'est si plaisant que de rire,
+Quand on rit aux dépens d'autrui.
+Plaisantons, ne pardonnons rien,
+Rions, rien n'est plus à la mode,
+On court péril d'être incommode,
+En disant trop de bien.
+Sans la douceur que l'on goûte à médire,
+On trouve peu de plaisirs sans ennui ;
+Rien n'est si plaisant que de rire,
+Quand on rit aux dépens d'autrui.
+
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_mars *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_mars
+
+
+Laissons en paix toute la Terre,
+Cherchons de doux amusements ;
+Parmi les Jeux les plus charmants,
+Mêlons l'image de la Guerre.
+
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_choeur *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_choeur
+
+
+Chantons les plaisirs charmants
+Des heureux Amants,
+Que tout le Ciel s'empresse
+À leur faire sa cour,
+Célébrons ce beau Jour
+Par mille doux chants d'allégresse,
+Célébrons ce beau jour
+Par mille doux chants pleins d'amour.
+Chantons les plaisirs charmants
+Des heureux Amants.
+Répondez-nous, Trompettes,
+Timbales et tambours :
+Accordez-vous toujours
+Avec le doux son des Musettes,
+Accordez-vous toujours
+Avec le doux chant des Amours.
 
 **** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_choeur-des-divinites *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_choeurdesdivinites
+
 
 Nous goûtons une Paix profonde ;
 Les plus doux Jeux sont ici-bas ;
@@ -2203,8 +2342,18 @@ Chantons, répétons, tour à tour,
 Qu'il n'est point d'Âme si cruelle
 Qui tôt ou tard ne se rende à l'Amour.
 
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_flore *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_flore
+
+
+Ce n'est plus le temps de la Guerre ;
+Le plus puissant des Rois
+Interrompt ses Exploits
+Pour donner la Paix à la Terre.
+Descendez, Mère des Amours,
+Venez nous donner de beaux jours.
 
 **** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_vertumne *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_vertumne
+
 
 Rendez-vous, Beautés cruelles,
 Soupirez à votre tour.
@@ -2218,8 +2367,8 @@ Languissons, puisqu'il le faut.
 Un bel Objet toujours sévère
 Ne se fait jamais bien aimer.
 
-
 **** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_palaemon *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_palaemon
+
 
 Voici la Reine des Belles,
 Qui vient inspirer l'amour.
@@ -2234,4 +2383,3 @@ Est-il un plus grand défaut ?
 
 C'est la beauté qui commence de plaire,
 Mais la douceur achève de charmer.
-

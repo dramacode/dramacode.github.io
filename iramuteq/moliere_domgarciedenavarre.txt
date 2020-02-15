@@ -2,6 +2,7 @@
 
 **** *creator_moliere *book_moliere_domgarciedenavarre *style_verse *genre_comedy *dist1_moliere_verse_comedy_domgarciedenavarre *dist2_moliere_verse_comedy *id_dom-garcie *date_1661 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_domgarcie
 
+
       Je viens m'intéresser,
 Madame, au doux espoir, qu'il vous vient d'annoncer.
 Ce Frère qui menace un Tyran plein de crimes,
@@ -715,8 +716,8 @@ La mort, la seule mort, est toute mon attente.
 Ciel ! dans l'excès des biens que cet aveu m'octroie,
 Rends capable mon cœur de supporter sa joie.
 
-
 **** *creator_moliere *book_moliere_domgarciedenavarre *style_verse *genre_comedy *dist1_moliere_verse_comedy_domgarciedenavarre *dist2_moliere_verse_comedy *id_dona-elvire *date_1661 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_donaelvire
+
 
 Non, ce n'est point un choix, qui pour ces deux Amants,
 Sut régler de mon cœur les secrets sentiments ;
@@ -1567,8 +1568,8 @@ Aux défauts, où du Ciel fait pencher l'influence,
 Et pour tout dire, enfin, jaloux, ou non jaloux ;
 Mon roi sans me gêner peut me donner à vous.
 
-
 **** *creator_moliere *book_moliere_domgarciedenavarre *style_verse *genre_comedy *dist1_moliere_verse_comedy_domgarciedenavarre *dist2_moliere_verse_comedy *id_elise *date_1661 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_elise
+
 
 Cet amour que pour lui votre astre vous inspire,
 N'a sur vos actions pris que bien peu d'empire ;
@@ -1772,8 +1773,8 @@ La Princesse ait fait voir une âme fort contente,
 De ce frère qui vient, et de la lettre aussi,
 Mais…
 
-
 **** *creator_moliere *book_moliere_domgarciedenavarre *style_verse *genre_comedy *dist1_moliere_verse_comedy_domgarciedenavarre *dist2_moliere_verse_comedy *id_dom-alphonse *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_domalphonse
+
 
 Je sais que mon abord, Madame, est surprenant,
 Et qu'être sans éclat entré dans cette Ville,
@@ -1962,8 +1963,8 @@ Allons dans nos plaisirs satisfaire son zèle,
 Et par notre présence, et nos soins différents,
 Donner le dernier coup au parti des Tyrans.
 
-
 **** *creator_moliere *book_moliere_domgarciedenavarre *style_verse *genre_comedy *dist1_moliere_verse_comedy_domgarciedenavarre *dist2_moliere_verse_comedy *id_dona-ignes *date_1661 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_donaignes
+
 
 Ne me découvrez point, Élise, dans ces lieux,
 Et laissez respirer ma triste destinée,
@@ -2028,8 +2029,8 @@ Et dans votre Rival elle trouve son Frère ;
 C'est Don Alphonse, enfin, dont on a tant parlé,
 Et ce fameux secret vient d'être dévoilé.
 
-
 **** *creator_moliere *book_moliere_domgarciedenavarre *style_verse *genre_comedy *dist1_moliere_verse_comedy_domgarciedenavarre *dist2_moliere_verse_comedy *id_dom-alvar *date_1661 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_domalvar
+
 
 Oui, Madame, et ce Frère en Castille élevé
 De rentrer dans ses droits voit le temps arrivé.
@@ -2148,8 +2149,8 @@ Du bras qui lui fait jour, au Trône qui l'attend.
 
 Ce coup au cœur du Prince…
 
-
 **** *creator_moliere *book_moliere_domgarciedenavarre *style_verse *genre_comedy *dist1_moliere_verse_comedy_domgarciedenavarre *dist2_moliere_verse_comedy *id_dom-lope *date_1661 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_domlope
+
 
 Que sur cette conduite à son aise l'on glose,
 Chacun règle la sienne au but qu'il se propose ;
@@ -2231,3 +2232,10 @@ Trahirait le secret d'une telle nouvelle.
 Sortons pour vous l'apprendre, et sans rien embrasser,
 Vous-même vous verrez ce qu'on en doit penser.
 
+**** *creator_moliere *book_moliere_domgarciedenavarre *style_verse *genre_comedy *dist1_moliere_verse_comedy_domgarciedenavarre *dist2_moliere_verse_comedy *id_dom-pedre *date_1661 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_dompedre
+
+
+      Si vous me cherchez, Madame, me voici.
+
+      Il est proche d'ici,
+Le ferai-je venir ?

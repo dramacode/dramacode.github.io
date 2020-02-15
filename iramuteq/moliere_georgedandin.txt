@@ -2,6 +2,7 @@
 
 **** *creator_moliere *book_moliere_georgedandin *style_prose *genre_comedy *dist1_moliere_prose_comedy_georgedandin *dist2_moliere_prose_comedy *id_george-dandin *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_georgedandin
 
+
 Ah ! qu'une femme Demoiselle est une étrange affaire, et que mon mariage est une leçon bien parlante à tous les Paysans qui veulent s'élever au-dessus de leur condition, et s'allier comme j'ai fait à la maison d'un Gentilhomme. La noblesse de soi est bonne : c'est une chose considérable assurément, mais elle est accompagnée de tant de mauvaises circonstances, qu'il est très bon de ne s'y point frotter. Je suis devenu là-dessus savant à mes dépens, et connais le style des Nobles lorsqu'ils nous font nous autres entrer dans leur famille. L'alliance qu'ils font est petite avec nos personnes. C'est notre bien seul qu'ils épousent, et j'aurais bien mieux fait, tout riche que je suis, de m'allier en bonne et franche paysannerie, que de prendre une femme qui se tient au-dessus de moi, s'offense de porter mon nom, et pense qu'avec tout mon bien je n'ai pas assez acheté la qualité de son mari. George Dandin, George Dandin, vous avez fait une sottise la plus grande du monde. Ma maison m'est effroyable maintenant, et je n'y rentre point sans y trouver quelque chagrin.
 
 Que diantre ce drôle-là vient-il faire chez moi ?
@@ -343,8 +344,8 @@ Et je vous promets de mieux vivre à l'avenir.
 
 Ah ! je le quitte maintenant, et je n'y vois plus de remède, lorsqu'on a comme moi épousé une méchante femme, le meilleur parti qu'on puisse prendre, c'est de s'aller jeter dans l'eau la tête la première.
 
-
 **** *creator_moliere *book_moliere_georgedandin *style_prose *genre_comedy *dist1_moliere_prose_comedy_georgedandin *dist2_moliere_prose_comedy *id_angelique *date_1668 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_angelique
+
 
 Moi, et comment lui aurais-je dit ? Est-ce que cela est ? Je voudrais bien le voir vraiment que vous fussiez amoureux de moi. Jouez-vous-y, je vous en prie, vous trouverez à qui parler. C'est une chose que je vous conseille de faire. Ayez recours pour voir à tous les détours des Amants. Essayez un peu par plaisir à m'envoyer des ambassades, à m'écrire secrètement de petits billets doux, à épier les moments que mon mari n'y sera pas, ou le temps que je sortirai pour me parler de votre amour. Vous n'avez qu'à y venir, je vous promets que vous serez reçu comme il faut.
 
@@ -498,8 +499,8 @@ Il est fâcheux d'être contrainte d'oublier de telles injures, mais quelle viol
 
 Tout ce que vous me faites faire ne servira de rien, et vous verrez que ce sera dès demain à recommencer.
 
-
 **** *creator_moliere *book_moliere_georgedandin *style_prose *genre_comedy *dist1_moliere_prose_comedy_georgedandin *dist2_moliere_prose_comedy *id_monsieur-de-sotenville *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdesotenville
+
 
 Qu'est-ce, mon gendre ? vous me paraissez tout troublé.
 
@@ -653,8 +654,8 @@ Prenez-y garde, et sachez que c'est ici la dernière de vos impertinences que no
 
 Voilà le jour qui va paraître. Adieu. Rentrez chez vous, et songez bien à être sage. Et nous, mamour, allons nous mettre au lit.
 
-
 **** *creator_moliere *book_moliere_georgedandin *style_prose *genre_comedy *dist1_moliere_prose_comedy_georgedandin *dist2_moliere_prose_comedy *id_madame-de-sotenville *date_1668 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedesotenville
+
 
 Mon Dieu, notre gendre, que vous avez peu de civilité de ne pas saluer les gens quand vous les approchez.
 
@@ -722,8 +723,8 @@ Taisez-vous, c'est une extravagance qui n'est pas supportable.
 
 Jour de Dieu, si vous y retournez, on vous apprendra le respect que vous devez à votre femme ; et à ceux de qui elle sort.
 
-
 **** *creator_moliere *book_moliere_georgedandin *style_prose *genre_comedy *dist1_moliere_prose_comedy_georgedandin *dist2_moliere_prose_comedy *id_clitandre *date_1668 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_clitandre
+
 
 Non pas que je sache, Monsieur.
 
@@ -833,8 +834,8 @@ Ah, Claudine, que tu es cruelle.
 
 Il faut donc s'y résoudre puisque vous le voulez. Mais au moins je vous conjure de me plaindre un peu, des méchants moments que je vais passer.
 
-
 **** *creator_moliere *book_moliere_georgedandin *style_prose *genre_comedy *dist1_moliere_prose_comedy_georgedandin *dist2_moliere_prose_comedy *id_claudine *date_1668 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_claudine
+
 
 Par ma foi voilà une étrange fausseté.
 
@@ -972,8 +973,8 @@ Quelle douceur !
 
 Pauvre mouton !
 
-
 **** *creator_moliere *book_moliere_georgedandin *style_prose *genre_comedy *dist1_moliere_prose_comedy_georgedandin *dist2_moliere_prose_comedy *id_lubin *date_1668 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lubin
+
 
 Voilà un homme qui me regarde.
 
@@ -1135,8 +1136,8 @@ Personne.
 
 Où es-tu, Claudine que je te donne le bonsoir.
 
-
 **** *creator_moliere *book_moliere_georgedandin *style_prose *genre_comedy *dist1_moliere_prose_comedy_georgedandin *dist2_moliere_prose_comedy *id_colin *date_1668 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_colin
+
 
 Monsieur.
 
@@ -1159,4 +1160,3 @@ Point, vous me voulez battre.
 Assurément ?
 
 Oui, Monsieur.
-

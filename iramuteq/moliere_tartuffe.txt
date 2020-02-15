@@ -2,6 +2,7 @@
 
 **** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *id_madame-pernelle *date_1664 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamepernelle
 
+
 Allons, Flipote, allons ; que d'eux je me délivre.
 
 Laissez, ma Bru, laissez ; ne venez pas plus loin ;
@@ -152,8 +153,8 @@ Je suis toute ébaubie, et je tombe des nues.
 
       Maintenant je respire.
 
-
 **** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *id_orgon *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orgon
+
 
       Ah, mon Frère, bonjour.
 
@@ -707,8 +708,8 @@ Aux justes soins d'un autre, il nous faudra pourvoir ;
 Et par un doux hymen, couronner en Valère,
 La flamme d'un Amant généreux, et sincère.
 
-
 **** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *id_elmire *date_1664 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elmire
+
 
 Vous marchez d'un tel pas, qu'on a peine à vous suivre.
 
@@ -1005,8 +1006,8 @@ L'Imposteur !
 
 Favorable succès !
 
-
 **** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *id_damis *date_1664 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_damis
+
 
 Mais…
 
@@ -1131,8 +1132,8 @@ J'ai peine à me tenir, et la main me démange.
 
 Comme du Ciel, l'Infâme, impudemment se joue !
 
-
 **** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *id_mariane *date_1664 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_mariane
+
 
 Je crois…
 
@@ -1342,8 +1343,8 @@ Et cet emploi pour vous, est fort honnête à prendre.
 
       Qui l'aurait osé dire ?
 
-
 **** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *id_valere *date_1664 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_valere
+
 
 On vient de débiter, Madame, une nouvelle,
 Que je ne savais pas, et qui sans doute est belle.
@@ -1488,8 +1489,8 @@ Et ce sont de ces coups que l'on pare en fuyant.
 À vous mettre en lieu sûr, je m'offre pour conduite,
 Et veux accompagner, jusqu'au bout, votre fuite.
 
-
 **** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *id_cleante *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleante
+
 
 Mais, Madame, après tout…
 
@@ -1817,8 +1818,8 @@ Et puisse du grand Prince adoucir la justice ;
 Tandis qu'à sa bonté vous irez à genoux,
 Rendre ce que demande un traitement si doux.
 
-
 **** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *id_tartuffe *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tartuffe
+
 
 Laurent, serrez ma Haire, avec ma Discipline,
 Et priez que toujours le Ciel vous illumine.
@@ -2187,8 +2188,8 @@ Qui, moi, Monsieur ?
 
       Pourquoi donc la Prison ?
 
-
 **** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *id_dorine *date_1664 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_dorine
+
 
 Si…
 
@@ -2694,8 +2695,8 @@ Se faire un beau manteau de tout ce qu'on révère !
 
 Que le Ciel soit loué !
 
-
 **** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *id_loyal *date_1664 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_loyal
+
 
 Bonjour, ma chère Sœur. Faites, je vous supplie,
 Que je parle à Monsieur.
@@ -2777,3 +2778,54 @@ Mamie, et l'on décrète aussi contre les Femmes.
 
 Jusqu'au revoir. Le Ciel vous tienne tous en joie.
 
+**** *creator_moliere *book_moliere_tartuffe *style_verse *genre_comedy *dist1_moliere_verse_comedy_tartuffe *dist2_moliere_verse_comedy *id_exempt *date_1664 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_exempt
+
+
+Oui, c'est trop demeurer, sans doute, à l'accomplir.
+Votre bouche à propos m'invite à le remplir ;
+Et pour l'exécuter, suivez-moi tout à l'heure
+Dans la Prison qu'on doit vous donner pour demeure.
+
+      Oui, vous.
+
+Ce n'est pas vous à qui j'en veux rendre raison.
+Remettez-vous, Monsieur, d'une alarme si chaude.
+Nous vivons sous un Prince ennemi de la fraude,
+Un Prince dont les yeux se font jour dans les cœurs,
+Et que ne peut tromper tout l'art des Imposteurs.
+D'un fin discernement, sa grande âme pourvue,
+Sur les choses toujours jette une droite vue,
+Chez elle jamais rien ne surprend trop d'accès,
+Et sa ferme raison ne tombe en nul excès.
+Il donne aux Gens de bien une gloire immortelle,
+Mais sans aveuglement il fait briller ce zèle,
+Et l'amour pour les vrais, ne ferme point son cœur
+À tout ce que les faux doivent donner d'horreur.
+Celui-ci n'était pas pour le pouvoir surprendre,
+Et de pièges plus fins on le voit se défendre.
+D'abord il a percé, par ses vives clartés,
+Des replis de son cœur, toutes les lâchetés.
+Venant vous accuser, il s'est trahi lui-même,
+Et par un juste trait de l'équité suprême,
+S'est découvert au Prince un Fourbe renommé,
+Dont sous un autre nom il était informé ;
+Et c'est un long détail d'actions toutes noires,
+Dont on pourrait former des Volumes d'Histoires.
+Ce Monarque, en un mot, a vers vous détesté
+Sa lâche ingratitude, et sa déloyauté ;
+À ses autres horreurs, il a joint cette suite,
+Et ne m'a, jusqu'ici, soumis à sa conduite,
+Que pour voir l'impudence aller jusques au bout,
+Et vous faire, par lui, faire raison de tout.
+Oui, de tous vos papiers, dont il se dit le maître,
+Il veut qu'entre vos mains, je dépouille le Traître.
+D'un souverain pouvoir il brise les liens
+Du Contrat qui lui fait un don de tous vos biens,
+Et vous pardonne enfin cette offense secrète
+Où vous a, d'un Ami, fait tomber la retraite ;
+Et c'est le prix qu'il donne au zèle qu'autrefois
+On vous vit témoigner, en appuyant ses droits ;
+Pour montrer que son cœur sait, quand moins on y pense,
+D'une bonne action verser la récompense ;
+Que jamais le mérite, avec lui, ne perd rien,
+Et que mieux que du mal, il se souvient du bien.

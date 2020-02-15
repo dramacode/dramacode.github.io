@@ -2,6 +2,7 @@
 
 **** *creator_moliere *book_moliere_bourgeoisgentilhomme *style_prose *genre_comedy *dist1_moliere_prose_comedy_bourgeoisgentilhomme *dist2_moliere_prose_comedy *id_monsieur-jourdain *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurjourdain
 
+
 Hé bien, Messieurs ? Qu'est-ce ? Me ferez-vous voir votre petite drôlerie ?
 
 Eh la… comment appelez-vous cela ? Votre Prologue, ou Dialogue de Chansons et de Danse.
@@ -704,8 +705,8 @@ C'est fort bien avisé, allons prendre nos places.
 
 Je la donne au Truchement ; et ma Femme, à qui la voudra.
 
-
 **** *creator_moliere *book_moliere_bourgeoisgentilhomme *style_prose *genre_comedy *dist1_moliere_prose_comedy_bourgeoisgentilhomme *dist2_moliere_prose_comedy *id_madame-jourdain *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamejourdain
+
 
 Ah, ah, voici une nouvelle histoire. Qu'est-ce que c'est donc, mon Mari, que cet équipage-là ? Vous moquez-vous du Monde, de vous être fait enharnacher de la sorte ? et avez-vous envie qu'on se raille partout de vous ?
 
@@ -917,8 +918,8 @@ Je consens aussi à cela.
 
 Et Nicole ?
 
-
 **** *creator_moliere *book_moliere_bourgeoisgentilhomme *style_prose *genre_comedy *dist1_moliere_prose_comedy_bourgeoisgentilhomme *dist2_moliere_prose_comedy *id_lucile *date_1670 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_lucile
+
 
 Ce ne peut être, Nicole, que ce que je te dis. Mais le voilà.
 
@@ -988,8 +989,8 @@ Non, mon Père, je vous l'ai dit, il n'est point de pouvoir qui me puisse oblige
 
 Ma Mère.
 
-
 **** *creator_moliere *book_moliere_bourgeoisgentilhomme *style_prose *genre_comedy *dist1_moliere_prose_comedy_bourgeoisgentilhomme *dist2_moliere_prose_comedy *id_nicole *date_1670 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_nicole
+
 
 Plaît-il.
 
@@ -1127,8 +1128,8 @@ C'est la chose comme elle est.
 
 Cela est vrai. Nous avons le Fils du Gentilhomme de notre Village, qui est le plus grand Malitorne et le plus sot Dadais que j'aie jamais vu.
 
-
 **** *creator_moliere *book_moliere_bourgeoisgentilhomme *style_prose *genre_comedy *dist1_moliere_prose_comedy_bourgeoisgentilhomme *dist2_moliere_prose_comedy *id_cleonte *date_1670 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_cleonte
+
 
 Retire-toi, perfide, et ne me viens point amuser avec tes traîtresses paroles.
 
@@ -1262,8 +1263,8 @@ Bel-men.
 
 Catalequi tubal ourin soter amalouchan.
 
-
 **** *creator_moliere *book_moliere_bourgeoisgentilhomme *style_prose *genre_comedy *dist1_moliere_prose_comedy_bourgeoisgentilhomme *dist2_moliere_prose_comedy *id_covielle *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_covielle
+
 
 Ton pauvre Covielle, petite Scélérate ! Allons vite, ôte-toi de mes yeux, vilaine, et me laisse en repos.
 
@@ -1485,8 +1486,8 @@ Ne faites pas semblant de rien.
 
 Monsieur, je vous remercie. Si l'on en peut voir un plus fou, je l'irai dire à Rome.
 
-
 **** *creator_moliere *book_moliere_bourgeoisgentilhomme *style_prose *genre_comedy *dist1_moliere_prose_comedy_bourgeoisgentilhomme *dist2_moliere_prose_comedy *id_dorante *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+
 
 Mon cher Ami, Monsieur Jourdain, comment vous portez-vous ?
 
@@ -1676,8 +1677,8 @@ Il faut bien l'amuser avec cette feinte.
 
 Tandis qu'il viendra, et qu'il dressera les Contrats, voyons notre Ballet, et donnons-en le divertissement à Son Altesse Turque.
 
-
 **** *creator_moliere *book_moliere_bourgeoisgentilhomme *style_prose *genre_comedy *dist1_moliere_prose_comedy_bourgeoisgentilhomme *dist2_moliere_prose_comedy *id_dorimene *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorimene
+
 
 Je ne sais pas, Dorante ; je fais encore ici une étrange démarche, de me laisser amener par vous dans une Maison où je ne connais personne.
 
@@ -1739,8 +1740,8 @@ C'est la marque d'une âme tout à fait généreuse.
 
 C'est une grande gloire, qui n'est pas à rejeter.
 
-
 **** *creator_moliere *book_moliere_bourgeoisgentilhomme *style_prose *genre_comedy *dist1_moliere_prose_comedy_bourgeoisgentilhomme *dist2_moliere_prose_comedy *id_maitre-musique *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_maitremusique
+
 
 Venez, entrez dans cette Salle, et vous reposez là, en attendant qu'il vienne.
 
@@ -1834,8 +1835,13 @@ Allez, Belître de Pédant.
 
 Au Diable l'impertinent.
 
+**** *creator_moliere *book_moliere_bourgeoisgentilhomme *style_prose *genre_comedy *dist1_moliere_prose_comedy_bourgeoisgentilhomme *dist2_moliere_prose_comedy *id_l-eleve *date_1670 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_leleve
+
+
+Oui.
 
 **** *creator_moliere *book_moliere_bourgeoisgentilhomme *style_prose *genre_comedy *dist1_moliere_prose_comedy_bourgeoisgentilhomme *dist2_moliere_prose_comedy *id_musicien1 *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_musicien1
+
 
 
 Je languis nuit et jour, et mon mal est extrême,
@@ -1857,17 +1863,8 @@ Que tu m'es précieuse !
 
 Ah ! quitte pour aimer, cette haine mortelle !
 
-
-Le Rossignol, sous ces tendres feuillages,
-Chante aux Échos son doux retour :
-
-Ce beau séjour,
-Ces doux ramages,
-Ce beau séjour
-Nous invite à l'Amour.
-
-
 **** *creator_moliere *book_moliere_bourgeoisgentilhomme *style_prose *genre_comedy *dist1_moliere_prose_comedy_bourgeoisgentilhomme *dist2_moliere_prose_comedy *id_musicien2 *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_musicien2
+
 
 
 Il serait doux d'entrer sous l'amoureuse Loi,
@@ -1891,8 +1888,8 @@ Qu'il ne sera point trompeur ?
 Qui manquera de constance,
 Le puissent perdre les Dieux.
 
-
 **** *creator_moliere *book_moliere_bourgeoisgentilhomme *style_prose *genre_comedy *dist1_moliere_prose_comedy_bourgeoisgentilhomme *dist2_moliere_prose_comedy *id_musicienne *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_musicienne
+
 
 Franchise heureuse !
 
@@ -1909,18 +1906,8 @@ Je te veux offrir mon cœur.
 Voyons par expérience
 Qui des deux aimera mieux.
 
-Insin che florida
-Ride l'età
-Che pur tropp' orrida
-Da noi sen và.
-
-Ma poiche frigida
-Langue l'età,
-Più l'alma rigida
-Fiamme non ha.
-
-
 **** *creator_moliere *book_moliere_bourgeoisgentilhomme *style_prose *genre_comedy *dist1_moliere_prose_comedy_bourgeoisgentilhomme *dist2_moliere_prose_comedy *id_maitre-a-danser *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_maitreadanser
+
 
 Et vous aussi, de ce côté.
 
@@ -2012,8 +1999,8 @@ Allez, Cuistre fieffé.
 
 Diantre soit de l'Âne bâté !
 
-
 **** *creator_moliere *book_moliere_bourgeoisgentilhomme *style_prose *genre_comedy *dist1_moliere_prose_comedy_bourgeoisgentilhomme *dist2_moliere_prose_comedy *id_maitre-armes *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_maitrearmes
+
 
 Allons, Monsieur, la révérence. Votre corps droit. Un peu penché sur la cuisse gauche. Les jambes point tant écartées. Vos pieds sur une même ligne. Votre poignet à l'opposite de votre hanche. La pointe de votre Épée vis-à-vis de votre épaule. Le bras pas tout à fait si étendu. La main gauche à la hauteur de l'œil. L'épaule gauche plus quartée. La tête droite. Le regard assuré. Avancez. Le corps ferme. Touchez-moi l'Épée de quarte, et achevez de même. Une, Deux. Remettez-vous. Redoublez de pied ferme. Un saut en arrière. Quand vous portez la Botte, Monsieur, il faut que l'Épée parte la première, et que le corps soit bien effacé. Une, deux. Allons, touchez-moi l'Épée de tierce, et achevez de même. Avancez. Le corps ferme. Avancez. Partez de là. Une, deux. Remettez-vous. Redoublez. Un saut en arrière. En garde, Monsieur, en garde.
 
@@ -2041,8 +2028,8 @@ Allez, Philosophe de chien.
 
 La peste l'Animal !
 
-
 **** *creator_moliere *book_moliere_bourgeoisgentilhomme *style_prose *genre_comedy *dist1_moliere_prose_comedy_bourgeoisgentilhomme *dist2_moliere_prose_comedy *id_maitre-philosophie *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_maitrephilosophie
+
 
 Qu'est-ce donc ? Qu'y a-t-il, Messieurs ?
 
@@ -2146,8 +2133,8 @@ Celle que vous avez dite : Belle Marquise, vos beaux yeux me font mourir d'amou
 
 Je n'y manquerai pas.
 
-
 **** *creator_moliere *book_moliere_bourgeoisgentilhomme *style_prose *genre_comedy *dist1_moliere_prose_comedy_bourgeoisgentilhomme *dist2_moliere_prose_comedy *id_maitre-tailleur *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_maitretailleur
+
 
 Je n'ai pas pu venir plus tôt, et j'ai mis vingt Garçons après votre Habit.
 
@@ -2181,8 +2168,8 @@ Voulez-vous mettre votre habit ?
 
 Attendez. Cela ne va pas comme cela. J'ai amené des Gens pour vous habiller en cadence, et ces sortes d'Habits se mettent avec cérémonie. Holà, entrez, vous autres. Mettez cet Habit à Monsieur, de la manière que vous faites aux Personnes de Qualité.
 
-
 **** *creator_moliere *book_moliere_bourgeoisgentilhomme *style_prose *genre_comedy *dist1_moliere_prose_comedy_bourgeoisgentilhomme *dist2_moliere_prose_comedy *id_garcon-tailleur *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_garcontailleur
+
 
 Mon Gentilhomme, donnez, s'il vous plaît, aux Garçons, quelque chose pour boire.
 
@@ -2194,8 +2181,8 @@ Monseigneur, nous allons boire tous à la santé de votre Grandeur.
 
 Monseigneur, nous la remercions très humblement de ses libéralités.
 
-
 **** *creator_moliere *book_moliere_bourgeoisgentilhomme *style_prose *genre_comedy *dist1_moliere_prose_comedy_bourgeoisgentilhomme *dist2_moliere_prose_comedy *id_laquais1 *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_laquais1
+
 
 Que voulez-vous, Monsieur ?
 
@@ -2211,8 +2198,15 @@ Monsieur dit comme cela, qu'il va venir ici tout à l'heure.
 
 Tout est prêt, Monsieur.
 
+**** *creator_moliere *book_moliere_bourgeoisgentilhomme *style_prose *genre_comedy *dist1_moliere_prose_comedy_bourgeoisgentilhomme *dist2_moliere_prose_comedy *id_laquais2 *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_laquais2
+
+
+Monsieur.
+
+Non, Monsieur.
 
 **** *creator_moliere *book_moliere_bourgeoisgentilhomme *style_prose *genre_comedy *dist1_moliere_prose_comedy_bourgeoisgentilhomme *dist2_moliere_prose_comedy *id_mufti *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mufti
+
 
 
 Se ti sabir,
@@ -2256,3 +2250,11 @@ Bastonara bastonara.
 Non tener honta
 Questa star l'ultima affronta.
 
+**** *creator_moliere *book_moliere_bourgeoisgentilhomme *style_prose *genre_comedy *dist1_moliere_prose_comedy_bourgeoisgentilhomme *dist2_moliere_prose_comedy *id_turcs *date_1670 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_turcs
+
+
+Hi valla.
+
+No no no.
+
+No no no.

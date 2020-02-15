@@ -2,6 +2,7 @@
 
 **** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *id_alceste *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_alceste
 
+
       Laissez-moi, je vous prie.
 
 Laissez-moi là, vous dis-je, et courez vous cacher.
@@ -979,8 +980,8 @@ Je vais sortir d'un Gouffre où triomphent les Vices ;
 Et chercher sur la Terre, un endroit écarté,
 Où d'être Homme d'honneur, on ait la liberté.
 
-
 **** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *id_philinte *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_philinte
+
 
 Qu'est-ce donc ? qu'avez-vous ?
 
@@ -1311,8 +1312,8 @@ Et j'y sacrifierais et mon Sang, et ma Vie.
 Allons, Madame, allons employer toute chose,
 Pour rompre le Dessein que son Coeur se propose.
 
-
 **** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *id_oronte *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_oronte
+
 
       J'ai su là-bas que, pour quelques Emplettes
 Éliante est sortie, et Célimène aussi :
@@ -1485,8 +1486,8 @@ Et trouve ma vengeance, en ce que vous perdez.
 Monsieur, je ne fais plus d'obstacle à votre flamme,
 Et vous pouvez conclure Affaire avec Madame.
 
-
 **** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *id_celimene *date_1666 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_celimene
+
 
 C'est pour me quereller, donc, à ce que je vois,
 Que vous avez voulu me ramener chez moi ?
@@ -1936,8 +1937,8 @@ Si le Don de ma main peut contenter vos voeux,
 Je pourrai me résoudre à serrer de tels Nœuds :
 Et l'Hymen…
 
-
 **** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *id_eliante *date_1666 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_eliante
+
 
 Voici les deux Marquis, qui montent avec nous ;
 Vous l'est-on venu dire ?
@@ -2033,8 +2034,8 @@ Ma Main, de se donner, n'est pas embarrassée ;
 Et voilà votre Ami, sans trop m'inquiéter,
 Qui, si je l'en priais, la pourrait accepter.
 
-
 **** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *id_arsinoe *date_1666 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_arsinoe
+
 
 Je viens, pour quelque avis que j'ai cru vous devoir.
 
@@ -2211,8 +2212,8 @@ Ce ne sont pas des Gens, comme moi, qu'il vous faut ;
 Vous ferez bien, encor, de soupirer pour elle,
 Et je brûle de voir, une Union si belle.
 
-
 **** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *id_acaste *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_acaste
+
 
 Parbleu, s'il faut parler de Gens extravagants,
 Je viens d'en essuyer un des plus fatigants ;
@@ -2324,8 +2325,8 @@ Mais je ne vous tiens pas digne de ma colère ;
 Et je vous ferai voir, que les petits Marquis
 Ont, pour se consoler, des Coeurs du plus haut prix.
 
-
 **** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *id_clitandre *date_1666 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_clitandre
+
 
 Parbleu, je viens du Louvre, où Cléonte, au Levé,
 Madame, a bien paru, Ridicule achevé.
@@ -2400,8 +2401,8 @@ Madame, et vous savez comment cela s'appelle ?
 Il suffit, nous allons l'un, et l'autre, en tous Lieux,
 Montrer, de votre Cœur, le Portrait glorieux.
 
-
 **** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *id_basque *date_1666 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_basque
+
 
       Acaste est là-bas.
 
@@ -2418,8 +2419,19 @@ Monte ici, pour vous voir.
 
 Éliante, là-bas, est à l'entretenir.
 
+**** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *id_garde *date_1666 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_garde
+
+
+      Monsieur, j'ai deux Mots à vous dire.
+
+Messieurs les Maréchaux, dont j'ai commandement,
+Vous mandent de venir les trouver promptement,
+Monsieur.
+
+      Vous-même.
 
 **** *creator_moliere *book_moliere_misanthrope *style_verse *genre_comedy *dist1_moliere_verse_comedy_misanthrope *dist2_moliere_verse_comedy *id_dubois *date_1666 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_dubois
+
 
       Monsieur…
 
@@ -2464,4 +2476,3 @@ Et vous a fait un Mot, où vous pourrez, je pense,
 Du fonds de ce mystère, avoir la connaissance.
 
 Ma foi, je l'ai, Monsieur, laissé sur votre Table.
-

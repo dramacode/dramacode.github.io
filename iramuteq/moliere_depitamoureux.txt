@@ -2,6 +2,7 @@
 
 **** *creator_moliere *book_moliere_depitamoureux *style_verse *genre_comedy *dist1_moliere_verse_comedy_depitamoureux *dist2_moliere_verse_comedy *id_eraste *date_1656 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_eraste
 
+
 Veux-tu que je te dise ? une atteinte secrète
 Ne laisse point mon âme en une bonne assiette :
 Oui, quoi qu'à mon amour tu puisses repartir,
@@ -385,8 +386,8 @@ Mais de son Mascarille, et de mon Gros-René,
 Par qui doit Marinette être ici possédée ?
 Il faut que par le sang l'affaire soit vidée.
 
-
 **** *creator_moliere *book_moliere_depitamoureux *style_verse *genre_comedy *dist1_moliere_verse_comedy_depitamoureux *dist2_moliere_verse_comedy *id_albert *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_albert
+
 
       Rentrez, Lucile, et me faites venir
 Le précepteur, je veux un peu l'entretenir,
@@ -691,8 +692,8 @@ Et nous aurons loisir de nous en faire tous.
 Pour la troisième fois, allons-nous-en chez nous
 Poursuivre en liberté des entretiens si doux.
 
-
 **** *creator_moliere *book_moliere_depitamoureux *style_verse *genre_comedy *dist1_moliere_verse_comedy_depitamoureux *dist2_moliere_verse_comedy *id_gros-rene *date_1656 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_grosrene
+
 
 Pour moi, me soupçonner de quelque mauvais tour,
 Je dirai, n'en déplaise à monsieur votre amour,
@@ -955,8 +956,8 @@ Je prétends qu'on soit sourde à tous les Damoiseaux.
 Bien entendu, je veux une femme sévère :
 Ou je ferai beau bruit.
 
-
 **** *creator_moliere *book_moliere_depitamoureux *style_verse *genre_comedy *dist1_moliere_verse_comedy_depitamoureux *dist2_moliere_verse_comedy *id_valere *date_1656 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_valere
+
 
 Hé bien ? Seigneur Éraste.
 
@@ -1232,8 +1233,8 @@ Se peut-il que ces yeux ?…
 
 Vous, Lucile, pardon, si mon âme abusée…
 
-
 **** *creator_moliere *book_moliere_depitamoureux *style_verse *genre_comedy *dist1_moliere_verse_comedy_depitamoureux *dist2_moliere_verse_comedy *id_lucile *date_1656 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_lucile
+
 
 C'en est fait ; c'est ainsi que je me puis venger :
 Et, si cette action a de quoi l'affliger,
@@ -1409,8 +1410,8 @@ Et sans beaucoup d'effort.
 
 L'oubli de cette injure est une chose aisée.
 
-
 **** *creator_moliere *book_moliere_depitamoureux *style_verse *genre_comedy *dist1_moliere_verse_comedy_depitamoureux *dist2_moliere_verse_comedy *id_marinette *date_1656 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_marinette
+
 
       Oh, oh. Que fais-tu là ?
 
@@ -1615,8 +1616,8 @@ Et je te dirai tout.
 
       Taisez-vous, as de pique.
 
-
 **** *creator_moliere *book_moliere_depitamoureux *style_verse *genre_comedy *dist1_moliere_verse_comedy_depitamoureux *dist2_moliere_verse_comedy *id_polydore *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polydore
+
 
 S'être ainsi marié sans qu'on en ait su rien !
 Puisse cette action se terminer à bien :
@@ -1788,8 +1789,8 @@ Et qu'un nœud plus sacré donne force au premier.
 Un tel événement rend tes esprits confus ;
 Mais en vain tu voudrais balancer là-dessus.
 
-
 **** *creator_moliere *book_moliere_depitamoureux *style_verse *genre_comedy *dist1_moliere_verse_comedy_depitamoureux *dist2_moliere_verse_comedy *id_frosine *date_1656 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_frosine
+
 
 Ascagne, je suis fille à secret, Dieu merci.
 
@@ -1943,8 +1944,8 @@ Qu'autant que votre père il montre de tendresse
 Au reste, le bonhomme est en humeur de rire,
 Et pour son fils encor nous défend de rien dire.
 
-
 **** *creator_moliere *book_moliere_depitamoureux *style_verse *genre_comedy *dist1_moliere_verse_comedy_depitamoureux *dist2_moliere_verse_comedy *id_ascagne *date_1656 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_ascagne
+
 
 Mais, pour un tel discours, sommes-nous bien ici ?
 Prenons garde qu'aucun ne nous vienne surprendre,
@@ -2190,8 +2191,8 @@ D'aucun crime envers vous ne peut être chargé :
 Sa flamme est toujours pure, et sa constance extrême ;
 Et j'en prends à témoin votre père lui-même.
 
-
 **** *creator_moliere *book_moliere_depitamoureux *style_verse *genre_comedy *dist1_moliere_verse_comedy_depitamoureux *dist2_moliere_verse_comedy *id_mascarille *date_1656 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_mascarille
+
 
 Non, je ne trouve point d'état plus malheureux,
 Que d'avoir un patron jeune et fort amoureux.
@@ -2598,8 +2599,8 @@ Dégénèrent souvent en maris pacifiques.
       Oh ! Las ! fine pratique !
 Un mari confident !…
 
-
 **** *creator_moliere *book_moliere_depitamoureux *style_verse *genre_comedy *dist1_moliere_verse_comedy_depitamoureux *dist2_moliere_verse_comedy *id_metaphraste *date_1656 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_metaphraste
+
 
       Mandatum tuum curo diligenter.
 
@@ -2703,8 +2704,8 @@ Et par les écoliers les maîtres fustigés ;
 Que le malade au sain présente le remède ;
 Que le lièvre craintif… miséricorde ! à l'aide !
 
-
 **** *creator_moliere *book_moliere_depitamoureux *style_verse *genre_comedy *dist1_moliere_verse_comedy_depitamoureux *dist2_moliere_verse_comedy *id_la-rapiere *date_1656 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_larapiere
+
 
 Monsieur, de bonne part je viens d'être informé,
 Qu'Éraste est contre vous fortement animé ;
@@ -2727,4 +2728,3 @@ Le bourreau ne lui put faire lâcher deux mots.
 
       Soit ; mais soyez averti
 Qu'il vous cherche, et vous peut faire un mauvais parti.
-

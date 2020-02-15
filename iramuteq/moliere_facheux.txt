@@ -2,6 +2,7 @@
 
 **** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_eraste *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
 
+
 Sous quel astre, bon Dieu, faut-il que je sois né,
 Pour être de Fâcheux toujours assassiné !
 Il semble que partout le sort me les adresse,
@@ -482,8 +483,8 @@ Qui frappe là si fort.
 Quoi toujours des Fâcheux, holà Suisses, ici,
 Qu'on me fasse sortir ces gredins que voici.
 
-
 **** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_montagne *date_1661 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_montagne
+
 
 Ce sont chagrins mêlés aux plaisirs de la vie.
 Tout ne va pas, Monsieur, au gré de notre envie.
@@ -586,8 +587,8 @@ Mais…
       Je dois suivre vos lois :
 Mais au moins si de loin…
 
-
 **** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_orphise *date_1661 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_orphise
+
 
 Votre front à mes yeux montre peu d'allégresse.
 Serait-ce ma présence, Éraste, qui vous blesse ?
@@ -628,8 +629,8 @@ Monsieur, quelle aventure a d'un trouble effroyable…
 Si c'est pour lui payer ce que vous lui devez,
 J'y consens, devant tout, aux jours qu'il a sauvés.
 
-
 **** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_lysandre *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lysandre
+
 
 Sous ces arbres, de loin, mes yeux t'ont reconnu,
 Cher Marquis, et d'abord je suis à toi venu.
@@ -671,8 +672,21 @@ N'a point vu ma courante, et je le vais chercher.
 Nous avons, pour les airs, de grandes sympathies,
 Et je veux le prier d'y faire des parties.
 
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_alcandre *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcandre
+
+
+      Marquis, un mot. Madame,
+De grâce pardonnez, si je suis indiscret,
+En osant, devant vous, lui parler en secret.
+Avec peine, Marquis, je te fais la prière ;
+Mais un homme vient là de me rompre en visière,
+Et je souhaite fort, pour ne rien reculer,
+Qu'à l'heure de ma part, tu l'ailles appeler.
+Tu sais, qu'en pareil cas, ce serait avec joie,
+Que je te le rendrais en la même monnaie.
 
 **** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_alcipe *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcipe
+
 
 Bonjour.
 
@@ -717,8 +731,8 @@ Et c'est pour ma raison, pis qu'un coup de tonnerre.
 Je le veux faire, moi, voir à toute la terre.
 Un six de cœur ! deux points !
 
-
 **** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_orante *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orante
+
 
 Tout le monde sera de mon opinion.
 
@@ -778,8 +792,8 @@ Qui, comme ils le font voir, aiment jusques à battre.
 Enfin, par votre arrêt vous devez déclarer,
 Celui de qui l'amour vous semble à préférer.
 
-
 **** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_climene *date_1661 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_climene
+
 
 Croyez-vous l'emporter par obstination ?
 
@@ -828,8 +842,8 @@ Qu'ils vous verraient sans peine entre les bras de trente.
 
 L'arrêt est plein d'esprit ; mais…
 
-
 **** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_dorante *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+
 
 Ha Marquis que l'on voit de Fâcheux tous les jours,
 Venir de nos plaisirs interrompre le cours !
@@ -942,8 +956,8 @@ Sans vouloir dire un mot à ce sot ignorant.
       Quand tu voudras, nous irons quelque part,
 Où nous ne craindrons point de chasseur Campagnard.
 
-
 **** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_caritides *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caritides
+
 
 Monsieur, le temps répugne à l'honneur de vous voir.
 Le matin est plus propre à rendre un tel devoir :
@@ -1013,8 +1027,8 @@ Donnez-moi par écrit votre nom, et surnom,
 J'en veux faire un poème, en forme d'acrostiche,
 Dans les deux bouts un Vers, et dans chaque hémistiche.
 
-
 **** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_ormin *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ormin
+
 
 Bien qu'une grande affaire en ce lieu me conduise,
 J'ai voulu qu'il sortît, avant que vous parler.
@@ -1072,8 +1086,8 @@ Pour en avoir ouvert les premières paroles.
 Que vous reprendriez sur le droit de l'avis,
 Monsieur…
 
-
 **** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_filinte *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_filinte
+
 
 Marquis, je viens d'apprendre une étrange nouvelle.
 
@@ -1107,8 +1121,8 @@ C'est fort mal d'un ami recevoir le service :
 Mais, puisque je vous rends un si mauvais office,
 Adieu, videz sans moi tout ce que vous aurez.
 
-
 **** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_damis *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
+
 
 Quoi, malgré moi, le traître espère l'obtenir ?
 Ah ! mon juste courroux le saura prévenir.
@@ -1152,3 +1166,17 @@ Et je veux, envers lui, que votre main m'acquitte.
 Célébrons l'heureux sort, dont vous allez jouir ;
 Et que nos violons viennent nous réjouir.
 
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_epine *date_1661 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_epine
+
+
+      Monsieur ce sont des Masques,
+Qui portent des crin-crins, et des tambours de Basques.
+
+**** *creator_moliere *book_moliere_facheux *style_verse *genre_comedy *dist1_moliere_verse_comedy_facheux *dist2_moliere_verse_comedy *id_riviere *date_1661 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_riviere
+
+
+Qu'entends-je à ces gens-là dire de notre Maître ?
+Approchons doucement, sans nous faire connaître.
+
+Avant qu'à tes fureurs on puisse l'immoler,
+Traître tu trouveras en nous à qui parler.

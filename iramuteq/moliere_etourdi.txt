@@ -2,6 +2,7 @@
 
 **** *creator_moliere *book_moliere_etourdi *style_verse *genre_comedy *dist1_moliere_verse_comedy_etourdi *dist2_moliere_verse_comedy *id_lelie *date_1655 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_lelie
 
+
 Hé bien ! Léandre, hé bien ! il faudra contester ;
 Nous verrons de nous deux qui pourra l'emporter ;
 Qui dans nos soins communs pour ce jeune miracle,
@@ -630,8 +631,8 @@ Croirai-je que du Ciel la puissance absolue ?…
 Il faut que je t'embrasse, et mille et mille fois,
 Dans cette joie…
 
-
 **** *creator_moliere *book_moliere_etourdi *style_verse *genre_comedy *dist1_moliere_verse_comedy_etourdi *dist2_moliere_verse_comedy *id_celie *date_1655 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_celie
+
 
 Mon cœur qu'avec raison votre discours étonne,
 N'entend pas que mes yeux fassent mal à personne ;
@@ -729,8 +730,8 @@ Que mes sens s'efforçaient d'introduire en mon âme.
 
 Que de vous maintenant dépend ma destinée.
 
-
 **** *creator_moliere *book_moliere_etourdi *style_verse *genre_comedy *dist1_moliere_verse_comedy_etourdi *dist2_moliere_verse_comedy *id_mascarille *date_1655 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_mascarille
+
 
       Quoi ?
 
@@ -2095,8 +2096,8 @@ J'ai des démangeaisons de mariage aussi.
       Allons donc ; et que les Cieux prospères
 Nous donnent des enfants dont nous soyons les pères.
 
-
 **** *creator_moliere *book_moliere_etourdi *style_verse *genre_comedy *dist1_moliere_verse_comedy_etourdi *dist2_moliere_verse_comedy *id_hippolyte *date_1655 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_hippolyte
+
 
 Oui, traître, c'est ainsi que tu me rends service ;
 Je viens de tout entendre et voir ton artifice ;
@@ -2180,8 +2181,8 @@ Mais les voici venir.
 En vain vous parleriez pour excuser vos feux,
 Si j'ai devant les yeux ce que vous pouvez dire.
 
-
 **** *creator_moliere *book_moliere_etourdi *style_verse *genre_comedy *dist1_moliere_verse_comedy_etourdi *dist2_moliere_verse_comedy *id_anselme *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anselme
+
 
 Par mon chef, c'est un siècle étrange que le nôtre !
 J'en suis confus ; jamais tant d'amour pour le bien,
@@ -2418,8 +2419,8 @@ Quelque secret poison dont vous seriez surpris.
 
 J'ai ton fait.
 
-
 **** *creator_moliere *book_moliere_etourdi *style_verse *genre_comedy *dist1_moliere_verse_comedy_etourdi *dist2_moliere_verse_comedy *id_trufaldin *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trufaldin
+
 
       Célie.
 
@@ -2585,8 +2586,8 @@ Mais puisqu'un même jour nous met tous dans la joie,
 Ne nous séparons point qu'il ne soit terminé,
 Et que son père aussi nous soit vite amené.
 
-
 **** *creator_moliere *book_moliere_etourdi *style_verse *genre_comedy *dist1_moliere_verse_comedy_etourdi *dist2_moliere_verse_comedy *id_pandolfe *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pandolfe
+
 
 Mascarille,
 
@@ -2649,8 +2650,8 @@ Quoi qu'il puisse coûter, je veux le faire pendre.
 
       La chose est résolue.
 
-
 **** *creator_moliere *book_moliere_etourdi *style_verse *genre_comedy *dist1_moliere_verse_comedy_etourdi *dist2_moliere_verse_comedy *id_leandre *date_1655 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_leandre
+
 
 Grâces au Ciel, voilà mon bonheur hors d'atteinte,
 J'ai su me l'assurer, et je n'ai plus de crainte ;
@@ -2830,8 +2831,8 @@ Un généreux pardon est ce que je désire ;
 Mais j'atteste les Cieux, qu'en ce retour soudain
 Mon père fait bien moins que mon propre dessein.
 
-
 **** *creator_moliere *book_moliere_etourdi *style_verse *genre_comedy *dist1_moliere_verse_comedy_etourdi *dist2_moliere_verse_comedy *id_andres *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_andres
+
 
 Vous le savez, Célie, il n'est rien que mon cœur
 N'ait fait, pour vous prouver l'excès de son ardeur ;
@@ -2935,8 +2936,8 @@ Qu'en y changeant fort peu, je puis la retenir.
 
 Je m'acquitte par là de ce que je vous dois.
 
-
 **** *creator_moliere *book_moliere_etourdi *style_verse *genre_comedy *dist1_moliere_verse_comedy_etourdi *dist2_moliere_verse_comedy *id_ergaste *date_1655 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_ergaste
+
 
 Je te cherchais partout pour te rendre un service,
 Pour te donner avis d'un secret important.
@@ -2983,3 +2984,28 @@ Et pensent tous avoir un Lélie à leur suite.
 
 Adieu, certaine affaire à te quitter m'oblige.
 
+**** *creator_moliere *book_moliere_etourdi *style_verse *genre_comedy *dist1_moliere_verse_comedy_etourdi *dist2_moliere_verse_comedy *id_courrier *date_1655 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_courrier
+
+
+Seigneur, obligez‑moi de m'enseigner un homme…
+
+      Je crois que c'est Trufaldin qu'il se nomme.
+
+Lui rendre seulement la lettre que voici.
+
+Le Ciel, dont la bonté prend souci de ma vie,
+Vient de me faire ouïr par un bruit assez doux,
+Que ma fille à quatre ans par des voleurs ravie,
+Sous le nom de Célie est esclave chez vous.
+
+Si vous sûtes jamais ce que c'est qu'être père,
+Et vous trouvez sensible aux tendresses du sang,
+Conservez-moi chez vous cette fille si chère,
+Comme si de la vôtre elle tenait le rang.
+
+Pour l'aller retirer, je pars d'ici moi-même,
+Et vous vais de vos soins récompenser si bien,
+Que par votre bonheur que je veux rendre extrême,
+Vous bénirez le jour où vous causez le mien.
+De Madrid.
+Dom Pedro de Gusman, Marquis de Montalcane.

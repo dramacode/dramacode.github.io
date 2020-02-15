@@ -2,6 +2,7 @@
 
 **** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *id_arnolphe *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arnolphe
 
+
 Oui, je veux terminer la chose dans demain.
 
 Il est vrai, notre Ami. Peut-être que chez vous
@@ -1197,8 +1198,8 @@ Quoi…
 
 Oh !
 
-
 **** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *id_agnes *date_1662 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_agnes
+
 
       Oui, Monsieur, Dieu merci.
 
@@ -1547,8 +1548,8 @@ Me laissez-vous, Horace, emmener de la sorte ?
 
       Je veux rester ici.
 
-
 **** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *id_horace *date_1662 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_horace
+
 
       Seigneur Ar…
 
@@ -1996,8 +1997,8 @@ Engagé de parole avec cette Belle ;
 Et c'est elle en un mot que vous venez chercher,
 Et pour qui mon refus a pensé vous fâcher.
 
-
 **** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *id_alain *date_1662 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_alain
+
 
       Qui heurte ?
 
@@ -2105,8 +2106,8 @@ Nous vous avons rendu, Monsieur, obéissance.
 Je ne sais ce que c'est, Monsieur, mais il me semble
 Qu'Agnès et le corps mort s'en sont allés ensemble.
 
-
 **** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *id_georgette *date_1662 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_georgette
+
 
       Hé bien ?
 
@@ -2205,8 +2206,8 @@ Nous aurons de la peine à retenir Agnès,
 Elle veut à tous coups s'échapper, et peut-être
 Qu'elle se pourrait bien jeter par la fenêtre.
 
-
 **** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *id_chrysalde *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chrysalde
+
 
 Vous venez, dites-vous, pour lui donner la main ?
 
@@ -2450,8 +2451,32 @@ Allons dans la maison débrouiller ces mystères,
 Payer à notre ami ses soins officieux,
 Et rendre grâce au Ciel qui fait tout pour le mieux.
 
+**** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *id_enrique *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_enrique
+
+
+Aussitôt qu'à mes yeux je vous ai vu paraître,
+Quand on ne m'eût rien dit j'aurais su vous connaître ;
+Je vous vois tous les traits de cette aimable sœur,
+Dont l'hymen autrefois m'avait fait possesseur ;
+Et je serais heureux, si la Parque cruelle
+M'eût laissé ramener cette épouse fidèle,
+Pour jouir avec moi des sensibles douceurs
+De revoir tous les siens après nos longs malheurs :
+Mais puisque du destin la fatale puissance
+Nous prive pour jamais de sa chère présence,
+Tâchons de nous résoudre, et de nous contenter
+Du seul fruit amoureux qui m'en est pu rester,
+Il vous touche de près. Et sans votre suffrage
+J'aurais tort de vouloir disposer de ce gage ;
+Le choix du fils d'Oronte est glorieux de soi,
+Mais il faut que ce choix vous plaise comme à moi.
+
+Je n'en ai point douté d'abord que je l'ai vue,
+Et mon âme depuis n'a cessé d'être émue.
+Ah ! ma fille, je cède à des transports si doux.
 
 **** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *id_oronte *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
+
 
 Ah ! que cette embrassade est pleine de tendresse.
 
@@ -2498,8 +2523,8 @@ Pour rendre aux yeux de tous ce mystère éclairci.
 
       D'où vient qu'il s'enfuit sans rien dire ?
 
-
 **** *creator_moliere *book_moliere_ecoledesfemmes *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesfemmes *dist2_moliere_verse_comedy *id_notaire *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_notaire
+
 
 Ah le voilà ! Bonjour, me voici tout à point
 Pour dresser le contrat que vous souhaitez faire.
@@ -2556,4 +2581,3 @@ M'êtes-vous pas venu quérir pour votre Maître ?
       J'ignore pour qui vous le pouvez connaître :
 Mais allez de ma part lui dire de ce pas
 Que c'est un fou fieffé.
-

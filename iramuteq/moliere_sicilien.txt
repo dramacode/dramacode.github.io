@@ -2,6 +2,7 @@
 
 **** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *id_adraste *date_1667 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adraste
 
+
 Est-ce toi, Hali ?
 
 Aussi ne crois-je pas qu'on puisse voir Personne qui sente, dans son cœur, la peine que je sens : car, enfin, ce n'est rien d'avoir à combattre l'indifférence, ou les rigueurs d'une Beauté qu'on aime ; on a, toujours, au moins, le plaisir de la Plainte, et la liberté des Soupirs. Mais ne pouvoir trouver aucune occasion de parler à ce qu'on adore ; ne pouvoir savoir d'une Belle, si l'amour qu'inspirent ses yeux, est pour lui plaire, ou lui déplaire ; c'est la plus fâcheuse, à mon gré, de toutes les inquiétudes ; et c'est où me réduit l'incommode Jaloux, qui veille, avec tant de souci, sur ma charmante Grecque, et ne fait pas un pas sans la traîner à ses côtés.
@@ -118,8 +119,8 @@ Oui, je vous le promets, que, pour l'amour de vous, je m'en vais, avec elle, viv
 
 Je vous donne ma parole, Seigneur Don Pèdre, qu'à votre considération je m'en vais la traiter du mieux qu'il me sera possible.
 
-
 **** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *id_dom-pedre *date_1667 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dompedre
+
 
 Il y a quelque temps que j'entends chanter à ma Porte ; et, sans doute, cela ne se fait pas pour rien. Il faut que, dans l'obscurité, je tâche à découvrir quelles Gens ce peuvent être.
 
@@ -268,8 +269,8 @@ Je vous parle de mon Affaire.
 
 La peste soit du Fou, avec sa Mascarade.
 
-
 **** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *id_isidore *date_1667 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_isidore
+
 
 Je ne sais pas quel plaisir vous prenez à me réveiller si matin ; cela s'ajuste assez mal, ce me semble, au dessein que vous avez pris de me faire peindre aujourd'hui ; et ce n'est guère pour avoir le teint frais, et les yeux brillants, que se lever ainsi dès la pointe du jour.
 
@@ -341,8 +342,17 @@ C'est qu'ils savent qu'on plaît aux Dames par ces choses.
 
 Ce qu'ils en font, n'est que par jeu.
 
+**** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *id_climene *date_1667 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_climene
+
+
+Ah ! Seigneur Cavalier, sauvez-moi, s'il vous plaît, des mains d'un Mari furieux dont je suis poursuivie. Sa jalousie est incroyable, et passe dans ses mouvements tout ce qu'on peut imaginer. Il va jusques à vouloir que je sois, toujours, voilée ; et pour m'avoir trouvée le visage un peu découvert, il a mis l'épée à la main, et m'a réduite à me jeter chez vous, pour vous demander votre appui contre son injustice. Mais je le vois paraître. De grâce, Seigneur Cavalier, sauvez-moi de sa fureur.
+
+Je vous suis obligée plus qu'on ne saurait croire : mais je m'en vais prendre mon Voile ; je n'ai garde, sans lui, de paraître à ses yeux.
+
+Ce que cela veut dire ? Qu'un Jaloux est un Monstre haï de tout le Monde ; et qu'il n'y a Personne qui ne soit ravi de lui nuire, n'y eût-il point d'autre intérêt : Que toutes les Serrures et les Verrous du Monde, ne retiennent point les Personnes ; et que c'est le cœur qu'il faut arrêter par la douceur et par la complaisance : Qu'Isidore est entre les mains du Cavalier qu'elle aime, et que vous êtes pris pour Dupe.
 
 **** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *id_hali *date_1667 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_hali
+
 
 Chut… N'avancez pas davantage, et demeurez dans cet endroit, jusqu'à ce que je vous appelle. Il fait noir comme dans un Four ; Le Ciel s'est habillé, ce soir, en Scaramouche ; et je ne vois pas une Étoile qui montre le bout de son nez. Sotte condition que celle d'un Esclave ! de ne vivre jamais pour soi, et d'être, toujours, tout entier aux passions d'un Maître ! de n'être réglé que par ses humeurs, et de se voir réduit à faire ses propres affaires de tous les soucis qu'il peut prendre ! Le mien me fait, ici, épouser ses inquiétudes ; et parce qu'il est Amoureux, il faut que nuit, et jour, je n'aie aucun repos. Mais voici des Flambeaux, et, sans doute, c'est lui.
 
@@ -465,8 +475,8 @@ Parlons bas, s'il vous plaît.
 
 Seigneur, quand vous aurez reçu quelque Soufflet, je suis Homme aussi de conseil, et je pourrai vous rendre la pareille.
 
-
 **** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *id_le-senateur *date_1667 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesenateur
+
 
 Serviteur, Seigneur Don Pèdre. Que vous venez à propos !
 
@@ -486,8 +496,8 @@ Je ne veux point, aujourd'hui, d'autres affaires que de plaisir. Allons, Messieu
 
 Diantre soit le Fâcheux, avec son Affaire.
 
-
 **** *creator_moliere *book_moliere_sicilien *style_prose *genre_comedy *dist1_moliere_prose_comedy_sicilien *dist2_moliere_prose_comedy *id_musiciens *date_1667 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_musiciens
+
 
 
 Si du triste récit de mon inquiétude,
@@ -535,4 +545,3 @@ Mais, lorsque l'on est Tigresse,
 Ma foi, je suis Tigre aussi.
 
 Heureux, hélas ! qui peut aimer ainsi.
-

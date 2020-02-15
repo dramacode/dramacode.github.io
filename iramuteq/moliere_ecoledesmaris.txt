@@ -2,6 +2,7 @@
 
 **** *creator_moliere *book_moliere_ecoledesmaris *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesmaris *dist2_moliere_verse_comedy *id_sganarelle *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sganarelle
 
+
 Mon frère, s'il vous plaît, ne discourons point tant,
 Et que chacun de nous vive comme il l'entend ;
 Bien que sur moi des ans vous ayez l'avantage,
@@ -736,8 +737,8 @@ C'est un sexe engendré pour damner tout le monde ;
 J'y renonce à jamais, à ce sexe trompeur,
 Et je le donne tout au Diable de bon cœur.
 
-
 **** *creator_moliere *book_moliere_ecoledesmaris *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesmaris *dist2_moliere_verse_comedy *id_ariste *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ariste
+
 
 Mais chacun la condamne.
 
@@ -943,8 +944,8 @@ Que vous sachant dupé l'on ne vous plaindra point.
       Allons tous chez moi. Venez Seigneur Valère.
 Nous tâcherons demain d'apaiser sa colère.
 
-
 **** *creator_moliere *book_moliere_ecoledesmaris *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesmaris *dist2_moliere_verse_comedy *id_isabelle *date_1661 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_isabelle
+
 
 Il est ainsi bâti.
 
@@ -1250,8 +1251,8 @@ Je me suis reconnue indigne de vos vœux,
 Et j'ai bien mieux aimé me voir aux mains d'un autre,
 Que ne pas mériter un cœur comme le vôtre.
 
-
 **** *creator_moliere *book_moliere_ecoledesmaris *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesmaris *dist2_moliere_verse_comedy *id_leonor *date_1661 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_leonor
+
 
 Je me charge de tout, en cas que l'on vous gronde.
 
@@ -1305,8 +1306,8 @@ Et prend soin de forger de telles impostures.
 Je ne sais si ce trait se doit faire estimer,
 Mais je sais bien qu'au moins je ne le puis blâmer.
 
-
 **** *creator_moliere *book_moliere_ecoledesmaris *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesmaris *dist2_moliere_verse_comedy *id_lisette *date_1661 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lisette
+
 
 Toujours dans une chambre à ne point voir le monde ?
 
@@ -1347,8 +1348,8 @@ Et ce prix de ses soins est un trait exemplaire.
 Vous, si vous connaissez des maris loups-garous,
 Envoyez-les au moins à l'école chez nous.
 
-
 **** *creator_moliere *book_moliere_ecoledesmaris *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesmaris *dist2_moliere_verse_comedy *id_valere *date_1661 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_valere
+
 
 Ergaste, le voilà cet argus que j'abhorre,
 Le sévère Tuteur de celle que j'adore.
@@ -1584,8 +1585,8 @@ J'y consens de la sorte.
 Pour moi je mets ma gloire et mon bien souverain
 À la pouvoir, Monsieur, tenir de votre main.
 
-
 **** *creator_moliere *book_moliere_ecoledesmaris *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesmaris *dist2_moliere_verse_comedy *id_ergaste *date_1661 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_ergaste
+
 
 Son mauvais œil, peut-être, est de ce côté-ci :
 Passons du côté droit.
@@ -1661,8 +1662,8 @@ Et ne l'être qu'en herbe est pour lui douce chose.
 
 Bon.
 
-
 **** *creator_moliere *book_moliere_ecoledesmaris *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesmaris *dist2_moliere_verse_comedy *id_commissaire *date_1661 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_commissaire
+
 
       Qu'est-ce ?
 
@@ -1693,3 +1694,7 @@ Signez, la fille après vous mettra tous d'accord.
 
 Nous allons revenir.
 
+**** *creator_moliere *book_moliere_ecoledesmaris *style_verse *genre_comedy *dist1_moliere_verse_comedy_ecoledesmaris *dist2_moliere_verse_comedy *id_notaire *date_1661 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_notaire
+
+
+Oui, Notaire Royal ;

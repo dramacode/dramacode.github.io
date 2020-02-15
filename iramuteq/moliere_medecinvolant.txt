@@ -2,6 +2,7 @@
 
 **** *creator_moliere *book_moliere_medecinvolant *style_prose *genre_comedy *dist1_moliere_prose_comedy_medecinvolant *dist2_moliere_prose_comedy *id_valere *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_valere
 
+
 Hé bien !Sabine, quel conseil me donneras-tu ?
 
 Mais le moyen de trouver sitôt un médecin à ma poste, et qui voulût tant hasarder pour mon service ?Je te le dis franchement, je n'en connais pas un.
@@ -24,8 +25,8 @@ Ah !Que tu me donnes de joie !Sans perdre de temps, je la vais trouver de ce p
 Il faut que j'avoue que je n'eusse jamais cru que Sganarelle se fût si bien acquitté de son devoir.
 Ah !Mon pauvre garçon, que je t'ai d'obligation !Que j'ai de joie !Et que...
 
-
 **** *creator_moliere *book_moliere_medecinvolant *style_prose *genre_comedy *dist1_moliere_prose_comedy_medecinvolant *dist2_moliere_prose_comedy *id_sabine *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_sabine
+
 
 Vraiment, il y a bien des nouvelles.Mon oncle veut résolument que ma cousine épouse Villebrequin, et les affaires sont tellement avancées que je crois qu'ils eussent été mariés dès aujourd'hui, si vous n'étiez aimé ; mais comme ma cousine m'a confié le secret de l'amour qu'elle vous porte, et que nous nous sommes vues à l'extrémité par l'avarice de mon vilain oncle, nous nous sommes avisées d'une bonne invention pour différer le mariage.C'est que ma cousine, dès l'heure que je vous parle, contrefait la malade ; et le bon vieillard, qui est assez crédule, m'envoie quérir un médecin.Si vous en pouviez envoyer quelqu'un qui fût de vos bons amis, et qui fût de notre intelligence, il conseillerait à la malade de prendre l'air à la campagne.Le bonhomme ne manquera pas de faire loger ma cousine à ce pavillon qui est au bout de notre jardin, et par ce moyen vous pourriez l'entretenir à l'insu de notre vieillard, l'épouser, et le laisser pester tout son soûl avec Villebrequin.
 
@@ -45,8 +46,8 @@ Voilà tout ce qu'on peut avoir : elle ne peut pas pisser davantage.
 
 Elle est levée ; si vous voulez, je la ferai venir.
 
-
 **** *creator_moliere *book_moliere_medecinvolant *style_prose *genre_comedy *dist1_moliere_prose_comedy_medecinvolant *dist2_moliere_prose_comedy *id_sganarelle *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_sganarelle
+
 
 Ce que je sais faire, Monsieur ?Employez-moi seulement en vos affaires de conséquence, en quelque chose d'importance : par exemple, envoyez-moi voir quelle heure il est à une horloge, voir combien le beurre vaut au marché, abreuver un cheval ; c'est alors que vous connaîtrez ce que je sais faire.
 
@@ -152,8 +153,8 @@ Monsieur, qu'allez-vous faire de me pendre ?Écoutez un mot, s'il vous plaît 
 
 Nous nous jetons à vos pieds.
 
-
 **** *creator_moliere *book_moliere_medecinvolant *style_prose *genre_comedy *dist1_moliere_prose_comedy_medecinvolant *dist2_moliere_prose_comedy *id_gorgibus *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gorgibus
+
 
 Allez vitement chercher un médecin ; car ma fille est bien malade, et dépêchez-vous.
 
@@ -236,8 +237,8 @@ Ah !Que je suis malheureux !Mais tu seras pendu, fourbe, coquin.
 
 Je vous pardonne, et suis heureusement trompé par Sganarelle, ayant un si brave gendre.Allons tous faire noces, et boire à la santé de toute la compagnie.
 
-
 **** *creator_moliere *book_moliere_medecinvolant *style_prose *genre_comedy *dist1_moliere_prose_comedy_medecinvolant *dist2_moliere_prose_comedy *id_gros-rene *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_grosrene
+
 
 Que diable aussi !Pourquoi vouloir donner votre fille à un vieillard ?Croyez-vous que ce ne soit pas le désir qu'elle a d'avoir un jeune homme qui la travaille ?Voyez-vous la connexité qu'il y a, etc.
 
@@ -259,8 +260,15 @@ Où pensez-vous que soit à présent le médecin ?
 
 Je le tiens sous mon bras.Voilà le coquin qui faisait le médecin, et qui vous trompe.Cependant qu'il vous trompe et joue la farce chez vous, Valère et votre fille sont ensemble, qui s'en vont à tous les diables.
 
+**** *creator_moliere *book_moliere_medecinvolant *style_prose *genre_comedy *dist1_moliere_prose_comedy_medecinvolant *dist2_moliere_prose_comedy *id_lucile *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_lucile
+
+
+Oui, Monsieur.
+
+Oui, Monsieur.
 
 **** *creator_moliere *book_moliere_medecinvolant *style_prose *genre_comedy *dist1_moliere_prose_comedy_medecinvolant *dist2_moliere_prose_comedy *id_avocat *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_avocat
+
 
 J'ai ouï dire que la fille de M. Gorgibus était malade : il faut que je m'informe de sa santé, et que je lui offre mes services comme ami de toute sa famille.Holà !Holà !M. Gorgibus y est-il ?
 
@@ -271,4 +279,3 @@ N'y aurait-il pas moyen de l'entretenir un moment ?
 Monsieur, après ce que m'a dit M. Gorgibus de votre mérite et de votre savoir, j'ai eu la plus grande passion du monde d'avoir l'honneur de votre connaissance, et j'ai pris la liberté de vous saluer à ce dessein : je crois que vous ne le trouverez pas mauvais.Il faut avouer que tous ceux qui excellent en quelque science sont dignes de grande louange, et particulièrement ceux qui font profession de la médecine, tant à cause de son utilité, que parce qu'elle contient en elle plusieurs autres sciences, ce qui rend sa parfaite connaissance fort difficile ; et c'est fort à propos qu'Hippocrate dit dans son premier aphorisme : Vita brevis, ars vero longa, occasio autem praeceps, experimentum periculosum, judicium difficile.
 
 Vous n'êtes pas de ces médecins qui ne vous appliquez qu'à la médecine qu'on appelle rationale ou dogmatique, et je crois que vous l'exercez tous les jours avec beaucoup de succès : experientia magistra rerum.Les premiers hommes qui firent profession de la médecine furent tellement estimés d'avoir cette belle science, qu'on les mit au nombre des Dieux pour les belles cures qu'ils faisaient tous les jours.Ce n'est pas qu'on doive mépriser un médecin qui n'aurait pas rendu la santé à son malade, parce qu'elle ne dépend pas absolument de ses remèdes, ni de son savoir : Interdum docta plus valet arte malum.Monsieur, j'ai peur de vous être importun : je prends congé de vous, dans l'espérance que j'ai qu'à la première vue j'aurai l'honneur de converser avec vous avec plus de loisir.Vos heures vous sont précieuses, etc.
-

@@ -2,6 +2,7 @@
 
 **** *creator_moliere *book_moliere_maladeimaginaire *style_prose *genre_comedy *dist1_moliere_prose_comedy_maladeimaginaire *dist2_moliere_prose_comedy *id_argan *date_1673 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_argan
 
+
 Trois et deux font cinq, et cinq font dix, et dix font vingt. Trois et deux font cinq. Plus du vingt-quatrième, un petit Clystère insinuatif, préparatif, et rémolliant, pour amollir, humecter, et rafraîchir les entrailles de Monsieur, trente sols. Ce qui me plaît de Monsieur Fleurant mon Apothicaire, c'est que ses Parties sont toujours fort civiles. Les entrailles de Monsieur, trente sols ! Oui : mais Monsieur Fleurant, ce n'est pas tout que d'être civil, il faut être aussi raisonnable, et ne pas écorcher les malades. Trente sols un Lavement ? Je suis votre Serviteur, je vous l'ai déjà dit. Vous ne me les avez mis dans les autres Parties qu'à vingt sols ; et vingt sols en langage d'Apothicaire, c'est à dire dix sols. Les voilà. Plus, dudit jour un bon Clystère détersif, composé avec Catholicon double, Rhubarbe, Miel rosat et autres, suivant l'Ordonnance, pour balayer, laver, et nettoyer le bas ventre de Monsieur, trente sols. Avec votre permission, dix sols. Plus dudit jour, le soir, un Julep hépatique, soporatif et somnifère, composé pour faire dormir Monsieur, trente cinq sols. Je ne me plains pas de celui-là, car il me fit bien dormir. Dix, quinze, seize, et dix-sept sols six deniers. Plus, du vingt-cinquième, une bonne Médecine purgative et corroborative, composée de Casse récente, avec Séné Levantin et autres, suivant l'Ordonnance de Monsieur Purgon, pour expulser et évacuer la bile de Monsieur, quatre livres. Ah ! Monsieur Fleurant, c'est se moquer, il faut vivre avec les Malades, Monsieur Purgon ne vous a pas ordonné de mettre quatre livres. Mettez, mettez trois livres, s'il vous plaît. Vingt et trente sols. Plus, dudit jour, une potion anodine et astringente, pour faire reposer Monsieur, trente sols. Bon. Dix, et quinze sols. Plus, du vingt-sixième, un Clystère carminatif, pour chasser les vents de Monsieur, trente sols. Dix sols, Monsieur Fleurant. Plus le Clystère de Monsieur réitéré le soir, comme dessus, trente sols. Monsieur Fleurant, dix sols. Plus, du vingt-septième, une bonne Médecine composée pour hâter d'aller et chasser dehors les mauvaises humeurs de Monsieur, trois livres. Bon. Vingt, et trente sols. Je suis bien aise que vous soyez raisonnable. Plus, du vingt-huitième, une prise de petit Lait clarifié et dulcoré, pour adoucir, lénifier, tempérer et rafraîchir le sang de Monsieur, vingt sols. Bon. Dix sols. Plus une Potion cordiale et préservative, composée avec douze grains de Bézoard, sirops de Limon et Grenade et autres, suivant l'ordonnance, cinq livres. Ah ! Monsieur Fleurant, tout doux, s'il vous plaît ; si vous en usez comme cela, on ne voudra plus être malade. Contentez-vous de quarante sols. Vingt et quarante sols. Trois, et deux font cinq, et cinq font dix, et dix font vingt. Soixante et trois livres quatre sols six deniers. Si bien donc, que de ce mois j'ai pris une, deux, trois, quatre, cinq, six, sept et huit Médecines ; et un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix, onze, et douze Lavements ; et l'autre mois il y avait douze Médecines, et vingt Lavements. Je ne m'étonne pas si je ne me porte pas si bien ce mois-ci que l'autre. Je le dirai à Monsieur Purgon, afin qu'il mette ordre à cela. Allons, qu'on m'ôte tout ceci. Il n'y a personne ; j'ai beau dire, on me laisse toujours seul. Il n'y a pas moyen de les arrêter ici.
 Ils n'entendent point, et ma Sonnette ne fait pas assez de bruit. Drelin, drelin, drelin. Point d'affaire. Drelin, drelin, drelin. Ils sont sourds. Toinette, Drelin, drelin, drelin, Tout comme si je ne sonnais point. Chienne, Coquine, drelin, drelin, drelin. J'enrage.
 Drelin, drelin, drelin. Carogne, à tous les diables. Est-il possible qu'on laisse comme cela un pauvre malade tout seul ? Drelin, drelin, drelin. Voilà qui est pitoyable. Drelin, drelin, drelin. Ah, mon Dieu, ils me laisseront ici mourir. Drelin, drelin, drelin.
@@ -636,8 +637,8 @@ Mais, mon Frère, cela ne se peut faire si tôt.
 
 Allons, voyons, voyons.
 
-
 **** *creator_moliere *book_moliere_maladeimaginaire *style_prose *genre_comedy *dist1_moliere_prose_comedy_maladeimaginaire *dist2_moliere_prose_comedy *id_beline *date_1673 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_beline
+
 
 Qu'avez-vous, mon pauvre Mari ?
 
@@ -732,8 +733,8 @@ Je ne prétends pas avoir passé la plus grande partie de ma jeunesse avec lui s
 
 Puisque tu m'assures que sa mort n'est sue de personne, saisissons-nous de l'argent, et de tout ce qu'il y a de meilleur ; portons-le dans son lit, et quand j'aurai tout mis à couvert, nous ferons en sorte que quelque autre l'y trouve mort, et ainsi on ne se doutera point de ce que nous aurons fait. Il faut d'abord que je lui prenne ses clefs qui sont dans cette poche.
 
-
 **** *creator_moliere *book_moliere_maladeimaginaire *style_prose *genre_comedy *dist1_moliere_prose_comedy_maladeimaginaire *dist2_moliere_prose_comedy *id_angelique *date_1673 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_angelique
+
 
 Me voilà prête à vous ouïr.
 
@@ -906,8 +907,8 @@ Mais, mon Oncle, il me semble que c'est se railler un peu fortement de mon Père
 
 Il le faut bien.
 
-
 **** *creator_moliere *book_moliere_maladeimaginaire *style_prose *genre_comedy *dist1_moliere_prose_comedy_maladeimaginaire *dist2_moliere_prose_comedy *id_louison *date_1673 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_louison
+
 
 Qu'est-ce que vous voulez, mon Papa ? ma belle-Maman m'a dit que vous me demandez.
 
@@ -979,8 +980,8 @@ Ah mon Papa, votre petit doigt est un menteur.
 
 Non, mon Papa, ne le croyez pas, il ment, je vous assure.
 
-
 **** *creator_moliere *book_moliere_maladeimaginaire *style_prose *genre_comedy *dist1_moliere_prose_comedy_maladeimaginaire *dist2_moliere_prose_comedy *id_beralde *date_1673 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_beralde
+
 
 Hé bien, mon Frère, qu'est-ce ? comment vous portez-vous ?
 
@@ -1104,8 +1105,8 @@ C'est un Intermède de la réception d'un Médecin que des Comédiens ont repré
 
 Ce n'est pas tant le railler que de s'accommoder à son humeur, outre que pour lui ôter tout sujet de se fâcher quand il aura reconnu la pièce que nous lui jouons, nous pouvons y prendre chacun un rôle, et jouer en même temps que lui. Allons donc nous habiller.
 
-
 **** *creator_moliere *book_moliere_maladeimaginaire *style_prose *genre_comedy *dist1_moliere_prose_comedy_maladeimaginaire *dist2_moliere_prose_comedy *id_cleante *date_1673 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_cleante
+
 
 Ce que je demande ?
 
@@ -1188,8 +1189,8 @@ Quel est donc votre dessein ? et que voulez-vous dire avec cette Faculté de vo
 
 Y consentez-vous ?
 
-
 **** *creator_moliere *book_moliere_maladeimaginaire *style_prose *genre_comedy *dist1_moliere_prose_comedy_maladeimaginaire *dist2_moliere_prose_comedy *id_diafoirus *date_1673 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_diafoirus
+
 
 Nous sommes dans toutes nos visites pour porter secours aux malades, et non pour leur porter de l'incommodité.
 
@@ -1258,8 +1259,8 @@ Eh oui, rôti, bouilli, même chose. Il vous ordonne fort prudemment, et vous ne
 
 Six, huit, dix, par les nombres pairs, comme dans les médicaments par les nombres impairs.
 
-
 **** *creator_moliere *book_moliere_maladeimaginaire *style_prose *genre_comedy *dist1_moliere_prose_comedy_maladeimaginaire *dist2_moliere_prose_comedy *id_thomas-diafoirus *date_1673 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_thomasdiafoirus
+
 
 N'est-ce pas par le Père qu'il convient commencer ?
 
@@ -1305,8 +1306,8 @@ Et même un peu caprisant.
 
 Ce qui marque une intempérie dans le parenchyme splénique, c'est-à-dire la rate.
 
-
 **** *creator_moliere *book_moliere_maladeimaginaire *style_prose *genre_comedy *dist1_moliere_prose_comedy_maladeimaginaire *dist2_moliere_prose_comedy *id_purgon *date_1673 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_purgon
+
 
 Qu'est-ce ? on vient de m'apprendre de belles nouvelles. Comment, refuser un Clystère que j'avais pris plaisir moi-même de composer avec grand soin ?
 
@@ -1348,8 +1349,17 @@ De l'Hydropisie dans l'Apoplexie.
 
 De l'Apoplexie dans la privation de la vie où vous aura conduit votre folie.
 
+**** *creator_moliere *book_moliere_maladeimaginaire *style_prose *genre_comedy *dist1_moliere_prose_comedy_maladeimaginaire *dist2_moliere_prose_comedy *id_fleurant *date_1673 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_fleurant
+
+
+C'est un petit Clystère que je vous apporte ; prenez vite, Monsieur, prenez vite, il est comme il faut, il est comme il faut.
+
+De quoi vous mêlez-vous, Monsieur ? vous êtes bien plaisant d'empêcher Monsieur de prendre son Clystère, sont-ce là vos affaires ?
+
+Que voulez-vous dire avec vos visages ? sachez que je ne perds pas ainsi mes pas, et que je viens ici en vertu d'une bonne Ordonnance, et vous Monsieur, vous vous repentirez du mépris que vous en faites, je vais le dire à Monsieur Purgon, vous verrez, vous verrez.
 
 **** *creator_moliere *book_moliere_maladeimaginaire *style_prose *genre_comedy *dist1_moliere_prose_comedy_maladeimaginaire *dist2_moliere_prose_comedy *id_bonnefoy *date_1673 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_bonnefoy
+
 
 Monsieur, vous ne pouvez rien donner à votre Femme par votre Testament.
 
@@ -1361,8 +1371,8 @@ Pourquoi pleurer, Madame ? les larmes sont hors de saison, et les choses, grâc
 
 Voulez-vous que nous procédions au Testament ?
 
-
 **** *creator_moliere *book_moliere_maladeimaginaire *style_prose *genre_comedy *dist1_moliere_prose_comedy_maladeimaginaire *dist2_moliere_prose_comedy *id_toinette *date_1673 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_toinette
+
 
 On y va.
 
@@ -1718,8 +1728,8 @@ Comment ! vous résisterez à de si grandes marques de tendresse ? là Monsieu
 
 Tenez, Monsieur, votre barbe y peut beaucoup, et la barbe fait plus de la moitié d'un Médecin.
 
-
 **** *creator_moliere *book_moliere_maladeimaginaire *style_prose *genre_comedy *dist1_moliere_prose_comedy_maladeimaginaire *dist2_moliere_prose_comedy *id_flore *date_1673 *sexe_feminin *age_sans-age *statut_exterieur *fonction_autres *role_flore
+
 
 Quittez, quittez vos Troupeaux,
 Venez Bergers, venez Bergères,
@@ -1762,8 +1772,50 @@ Ne laissez pas tous deux de recevoir le prix.
 Dans les choses grandes et belles
 Il suffit d'avoir entrepris.
 
+**** *creator_moliere *book_moliere_maladeimaginaire *style_prose *genre_comedy *dist1_moliere_prose_comedy_maladeimaginaire *dist2_moliere_prose_comedy *id_pan *date_1673 *sexe_feminin *age_sans-age *statut_exterieur *fonction_autres *role_pan
+
+
+Laissez, laissez, Bergers, ce dessein téméraire,
+Hé, que voulez-vous faire ?
+Chanter sur vos chalumeaux,
+Ce qu'Apollon sur sa Lyre
+Avec ses chants les plus beaux,
+N'entreprendrait pas de dire?
+C'est donner trop d'essor au feu qui vous inspire,
+C'est monter vers les Cieux sur des ailes de cire,
+Pour tomber dans le fonds des Eaux.
+Pour chanter de louis l'intrépide courage;
+Il n'est point d'assez docte voix,
+Point de mots assez grands pour en tracer l'Image;
+Le silence est le langage
+Qui doit louer ses Exploits.
+Consacrez d'autres soins à sa pleine Victoire,
+Des louanges n'ont rien qui flatte ses désirs,
+Laissez, laissez là sa gloire
+Ne songez qu'à ses plaisirs.
+
+**** *creator_moliere *book_moliere_maladeimaginaire *style_prose *genre_comedy *dist1_moliere_prose_comedy_maladeimaginaire *dist2_moliere_prose_comedy *id_climene *date_1673 *sexe_feminin *age_sans-age *statut_exterieur *fonction_autres *role_climene
+
+
+Quelle nouvelle parmi nous,
+Déesse, doit jeter tant de réjouissance ?
+
+Si Tircis a l'avantage,
+
+À le cherir je m'engage.
+
+**** *creator_moliere *book_moliere_maladeimaginaire *style_prose *genre_comedy *dist1_moliere_prose_comedy_maladeimaginaire *dist2_moliere_prose_comedy *id_daphne *date_1673 *sexe_feminin *age_sans-age *statut_exterieur *fonction_autres *role_daphne
+
+
+Nous brûlons d'apprendre de vous
+Cette nouvelle d'importance.
+
+Si Dorilas est vainqueur.
+
+Je me donne à son ardeur.
 
 **** *creator_moliere *book_moliere_maladeimaginaire *style_prose *genre_comedy *dist1_moliere_prose_comedy_maladeimaginaire *dist2_moliere_prose_comedy *id_tircis *date_1673 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_tircis
+
 
 Si d'un peu d'amitié tu payeras mes vœux ?
 
@@ -1788,8 +1840,8 @@ Que vante l'Histoire passée
 Ne sont point à notre pensée,
 Ce que louis est à nos yeux :
 
-
 **** *creator_moliere *book_moliere_maladeimaginaire *style_prose *genre_comedy *dist1_moliere_prose_comedy_maladeimaginaire *dist2_moliere_prose_comedy *id_dorilas *date_1673 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_dorilas
+
 
 Si tu seras sensible à mon ardeur fidèle ?
 
@@ -1812,394 +1864,3 @@ Des Siècles évanouis :
 Mais nos Neveux dans leur gloire,
 N'auront rien qui fasse croire
 Tous les beaux faits de louis.
-
-
-**** *creator_moliere *book_moliere_maladeimaginaire *style_prose *genre_comedy *dist1_moliere_prose_comedy_maladeimaginaire *dist2_moliere_prose_comedy *id_polichinelle *date_1673 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_polichinelle
-
-Ô Amour, amour, amour, amour ! pauvre Polichinelle, quelle Diable de fantaisie t'es-tu allé mettre dans la cervelle ? À quoi t'amuses-tu, misérable insensé que tu es ? Tu quittes le soin de ton négoce, et tu laisses aller tes affaires à l'abandon. Tu ne manges plus, tu ne bois presque plus, tu perds le repos de la nuit, et tout cela pour qui ? Pour une Dragonne, franche Dragonne ; une Diablesse qui te rembarre, et se moque de tout ce que tu peux lui dire. Mais il n'y a point à raisonner là-dessus : tu le veux, amour ; il faut être fou comme beaucoup d'autres. Cela n'est pas le mieux du monde à un homme de mon âge : mais qu'y faire ? on n'est pas sage quand on veut, et les vieilles cervelles se démontent comme les jeunes.
-Je viens voir si je ne pourrai point adoucir ma tigresse par une Sérénade. Il n'y a rien parfois qui soit si touchant qu'un Amant qui vient chanter ses doléances aux gonds et aux verrous de la porte de sa Maîtresse. Voici de quoi accompagner ma voix. Ô nuit, ô chère nuit, porte mes plaintes amoureuses jusques dans le lit de mon Inflexible.
-
-Notte e dì v' amo e v' adoro
-Cerco un sì per mio ristoro,
-Ma se voi dite di nò
-Bell' ingrata io morirò
-
-Fra la speranza
-S'afflige il cuore,
-In lontananza
-Consuma l'ore;
-Si dolce inganno
-Che mi figura
-Breve l'affanno,
-Ahy troppo dura,
-Cosi per tropp' amar languisco e muoro
-
-Notte e dì v' amo' e v' adoro
-Cerco un sì per mio ristoro,
-Mà se voi dite di nò
-Bell' ingrata io morirò
-
-Se non dormite,
-Al men pensate
-Alle ferite
-Ch'al cuor mi fate;
-Deh al men fingete
-Per mio conforto,
-Se m'uccidete,
-D'aver il torto:
-Vostra pietà mi scemerà il martoro
-
-Notte e di v' amo' e v' adoro
-Cerco un sì per mio ristoro,
-Ma se voi dite di nò
-Bell' ingrata io morirò.
-
-Quelle impertinente harmonie vient interrompre ici ma voix ?
-Paix là, taisez-vous, Violons. Laissez-moi me plaindre à mon aise des cruautés de mon Inexorable.
-Taisez-vous, vous dis-je. C'est moi qui veux chanter.
-Paix donc.
-Ouais !
-Ahy.
-Est-ce pour rire ?
-Ah que de bruit.
-Le Diable vous emporte.
-J'enrage.
-Vous ne vous tairez pas ? Ah Dieu soit loué.
-Encore ?
-Peste des Violons.
-La sotte Musique que voilà !
-La, la, la, la, la, la.
-La, la, la, la, la, la.
-La, la, la, la, la, la.
-La, la, la, la, la, la.
-La, la, la, la, la, la.
-Par ma foi cela me divertit. Poursuivez, Messieurs les Violons, vous me ferez plaisir. Allons donc, continuez. Je vous en prie. Voilà le moyen de les faire taire. La Musique est accoutumée à ne point faire ce qu'on veut. Ho sus à nous. Avant que de chanter il faut que je prélude un peu, et joue quelque pièce, afin de mieux prendre mon ton. Plan, plan, plan. Plin, plin, plin. Voilà un temps fâcheux pour mettre un Luth d'accord. Plin, plin, plin. Plin, tan, plan. Plin, plin. Les cordes ne tiennent point par ce temps-là. Plin, plan. J'entends du bruit. Mettons mon Luth contre la porte.
-
-Qui diable est-ce là ? est-ce que c'est la mode de parler en Musique ?
-
-Moi, moi, moi.
-
-Moi, moi, vous dis-je.
-
-Moi, moi, moi, moi, moi, moi.
-
-Mon nom est, va te faire pendre.
-
-Qui va là ?
-Qui sont les coquins que j'entends ?
-Euh !
-Holà mes laquais, mes gens.
-Par la mort.
-Par la sang.
-J'en jetterai par terre.
-Champagne, Poitevin, Picard, Basque, Breton.
-Donnez-moi mon Mousqueton.
-Poue.
-Ah, ah, ah, ah, comme je leur ai donné l'épouvante. Voilà de sottes gens d'avoir peur de moi qui ai peur des autres. Ma foi il n'est que de jouer d'adresse en ce monde. Si je n'avais tranché du grand Seigneur, et n'avais fait le brave, ils n'auraient pas manqué de me happer. Ah, ah, ah.
-
-Messieurs, c'est que j'étais ivre.
-
-Messieurs, je ne suis point voleur.
-
-Je suis un Bourgeois de la Ville.
-
-Qu'ai-je fait ?
-
-Messieurs, laissez-moi aller.
-
-Je vous prie.
-
-Eh !
-
-De grâce.
-
-Messieurs.
-
-S'il vous plaît.
-
-Par charité.
-
-Au nom du Ciel.
-
-Miséricorde.
-
-Eh, n'est-il rien, Messieurs, qui soit capable d'attendrir vos âmes ?
-
-Hélas, Messieurs, je vous assure que je n'ai pas un sol sur moi.
-
-Si c'est une nécessité, et qu'il faille en passer par là, je choisis les croquignoles.
-
-Un et deux. Trois et quatre. Cinq et six. Sept et huit. Neuf et dix. Onze et douze et treize, et quatorze et quinze.
-
-Ah, Messieurs, ma pauvre tête n'en peut plus, et vous venez de me la rendre comme une pomme cuite. J'aime mieux encore les coups de bâtons que de recommencer.
-
-Un, deux, trois, quatre, cinq, six, ah, ah, ah, je n'y saurais plus résister. Tenez, Messieurs, voilà six pistoles que je vous donne.
-
-Messieurs, je vous donne le bonsoir.
-
-Votre Serviteur.
-
-Très humble valet.
-
-Jusqu'au revoir.
-
-
-**** *creator_moliere *book_moliere_maladeimaginaire *style_prose *genre_comedy *dist1_moliere_prose_comedy_maladeimaginaire *dist2_moliere_prose_comedy *id_archers *date_1673 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_archers
-
-Qui va là, qui va là ?
-
-Qui va là, qui va là, qui va là ?
-
-Qui va là, qui va là ? vous dis-je.
-
-Et qui toi, et qui toi ?
-
-Dis ton nom, dis ton nom, sans davantage attendre.
-
-Ici camarade, ici.
-Saisissons l'insolent qui nous répond ainsi.
-
-Nous le tenons, à nous, Camarades, à nous, Dépêchez, de la lumière.
-
-Ah traître, ah fripon, c'est donc vous,
-Faquin, maraud, pendard, impudent, téméraire,
-Insolent, effronté, coquin, filou, voleur,
-Vous osez nous faire peur ?
-
-Non, non, point de raison,
-Il faut vous apprendre à vivre,
-En prison vite, en prison.
-
-En prison.
-
-En prison.
-
-En prison, vite, en prison.
-
-Non.
-
-Non.
-
-Non.
-
-Non, non.
-
-Non, non, non.
-
-Non, non.
-
-Non, non.
-
-Non, non.
-
-Non, non, non, point de raison.
-Il faut vous apprendre à vivre,
-En prison vite, en prison.
-
-Il est aisé de nous toucher,
-Et nous sommes humains plus qu'on ne saurait croire,
-Donnez-nous doucement six pistoles pour boire ;
-Nous allons vous lâcher.
-
-Au défaut de six pistoles,
-Choisissez donc sans façon
-D'avoir trente croquignoles,
-Ou douze coups de bâton.
-
-Allons, préparez-vous,
-Et comptez bien les coups.
-
-Ah ! ah ! vous en voulez passer ;
-Allons, c'est à recommencer.
-
-Soit, puisque le bâton est pour vous plus charmant,
-Vous aurez contentement.
-
-Ah l'honnête homme ! ah l'âme noble et belle !
-Adieu, Seigneur, adieu, Seigneur Polichinelle.
-
-Adieu Seigneur, adieu, Seigneur Polichinelle.
-
-Adieu Seigneur, adieu, Seigneur Polichinelle.
-
-Adieu Seigneur, adieu, Seigneur Polichinelle.
-
-
-**** *creator_moliere *book_moliere_maladeimaginaire *style_prose *genre_comedy *dist1_moliere_prose_comedy_maladeimaginaire *dist2_moliere_prose_comedy *id_praeses *date_1673 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_praeses
-
-
-Savantissimi Doctores,
-Medicinæ Professores,
-Qui hic assemblati estis ;
-Et vos altri Messiores,
-Sententiarum Facultatis
-Fideles executores,
-Chirurgiani et Apothicari,
-Atque tota Compania aussi,
-Salus, honor, et argentum,
-Atque bonum appetitum.
-
-Non possum Docti confréri,
-En moi satis admirari,
-Qualis bona inventio,
-Est Medici professio :
-Quam bella chosa est et bene trovata,
-Medicina illa benedicta,
-Quæ suo nomine solo
-Surprenanti miraculo,
-Depuis si longo tempore
-Facit à gogo vivere
-Tant de gens omni genere.
-
-Per totam terram videmus
-Grandam vogam ubi sumus ;
-Et quod grandes et petiti
-Sunt de nobis infatuti :
-Totus mundus currens ad nostros remedios,
-Nos regardat sicut Deos,
-Et nostris Ordonnanciis
-Principes et Reges soumissos videtis.
-
-Donque il est nostræ sapientiæ,
-Boni sensus atque prudentiæ,
-De fortement travaillare,
-A nos bene conservare
-In tali credito, voga, et honore ;
-Et prandere gardam à non recevere
-In nostro docto corpore
-Quam personas capabiles,
-Et totas dignas ramplire
-Has plaças honorabiles.
-
-C'est pour cela que nunc convocati estis,
-Et credo quod trovabitis
-Dignam matieram medici,
-In savanti homine que voici :
-Lequel in chosis omnibus
-Dono ad interrogandum,
-Et à fond examinandum
-Vostris capacitatibus.
-
-Juras gardare statuta
-Per Facultatem præscripta,
-Cum sensu et jugeamento ?
-
-Essere in omnibus
-Consultationibus
-Ancieni aviso ;
-Aut bono,
-Aut mauvaiso ?
-
-De non jamais te servire
-De remediis aucunis,
-Quam de ceux seulement doctæ facultatis ;
-Maladus dût-il crevare
-Et mori de suo malo ?
-
-Ego cum isto boneto
-Venerabili et docto,
-Dono tibi et concedo
-Virtutem et puissanciam,
-Medicandi,
-Purgandi,
-Seignandi,
-Perçandi,
-Taillandi,
-Coupandi,
-Et occidendi
-Impune per totam terram.
-
-
-**** *creator_moliere *book_moliere_maladeimaginaire *style_prose *genre_comedy *dist1_moliere_prose_comedy_maladeimaginaire *dist2_moliere_prose_comedy *id_bachelierus *date_1673 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_bachelierus
-
-Mihi à docto Doctore
-Domandatur causam et rationem, quare
-Opium facit dormire ?
-A quoi respondeo,
-Quia est in eo
-Virtus dormitiva.
-Cujus es natura
-Sensus assoupire.
-
-Clisterium donare,
-Postea seignare,
-Ensuitta purgare.
-
-Clisterium donare,
-Postea seignare,
-Ensuitta purgare.
-
-Clisterium donare,
-Postea seignare,
-Ensuitta purgare.
-
-Clisterium donare,
-Postea seignare,
-Ensuitta purgare.
-
-Juro.
-
-Juro.
-
-Juro.
-
-Grandes Doctores doctrinæ,
-De la Rhubarbe et du Sené :
-Ce serait sans douta à moy chosa folla,
-Inepta et ridicula,
-Si j'alloibam m'engageare
-Vobis louangeas donare,
-Et entreprenoibam adjoutare
-Des lumieras au Soleillo,
-Et des Etoilas au Cielo,
-Des Ondas à l'Oceano ;
-Et des Rosas au Printanno ;
-Agreate qu'avec uno moto
-Pro toto remercimento
-Rendam gratiam corpori tam docto,
-Vobis, vobis debeo
-Bien plus qu'à naturæ, et qu'à patri meo,
-Natura et pater meus
-Hominem me habent factum :
-Mais vos me, ce qui est bien plus,
-Avetis factum Medicum,
-Honor, favor, et gratia,
-Qui in hoc corde que voilà,
-Imprimant ressentimenta
-Qui dureront in secula.
-
-
-**** *creator_moliere *book_moliere_maladeimaginaire *style_prose *genre_comedy *dist1_moliere_prose_comedy_maladeimaginaire *dist2_moliere_prose_comedy *id_chorus *date_1673 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_chorus
-
-Bene, bene, bene, bene respondere
-Dignus, dignus est entrare
-In nostro docto corpore.
-Bene, bene respondere.
-
-Bene, bene, bene, bene respondere
-Dignus, dignus est entrare
-In nostro docto corpore.
-
-Bene, bene, bene, bene respondere:
-Dignus, dignus est entrare
-In nostro docto corpore.
-
-Bene, bene, bene, bene respondere :
-Dignus, dignus est entrare
-In nostro docto corpore.
-
-Vivat, vivat, vivat, vivat, cent fois vivat
-Novus Doctor, qui tam bene parlat,
-Mille, mille annis, et manget et bibat,
-Et seignet et tuat.
-
-Vivat, vivat, vivat, vivat, cent fois vivat
-Novus Doctor, qui tam bene parlat,
-Mille, mille annis, et manget et bibat,
-Et seignet et tuat.
-
-Vivat, vivat, vivat, vivat, cent fois vivat
-Novus Doctor, qui tam bene parlat,
-Mille, mille annis, et manget et bibat,
-Et seignet et tuat.
-

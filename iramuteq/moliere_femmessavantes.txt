@@ -2,6 +2,7 @@
 
 **** *creator_moliere *book_moliere_femmessavantes *style_verse *genre_comedy *dist1_moliere_verse_comedy_femmessavantes *dist2_moliere_verse_comedy *id_chrysale *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chrysale
 
+
       Et vous aussi.
 Mon Frère.
 
@@ -391,8 +392,8 @@ Je le savais bien, moi, que vous l'épouseriez.
 Allons, Monsieur, suivez l'ordre que j'ai prescrit,
 Et faites le Contrat ainsi que je l'ai dit.
 
-
 **** *creator_moliere *book_moliere_femmessavantes *style_verse *genre_comedy *dist1_moliere_verse_comedy_femmessavantes *dist2_moliere_verse_comedy *id_philaminte *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philaminte
+
 
       Quoi, je vous vois, Maraude ?
 Vite, sortez, Friponne ; allons, quittez ces lieux,
@@ -842,8 +843,8 @@ Ce ne sera point vous que je leur sacrifie,
 Et vous avez l'appui de la Philosophie,
 Pour voir d'un œil content couronner leur ardeur.
 
-
 **** *creator_moliere *book_moliere_femmessavantes *style_verse *genre_comedy *dist1_moliere_verse_comedy_femmessavantes *dist2_moliere_verse_comedy *id_armande *date_1672 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_armande
+
 
 Quoi, le beau nom de Fille est un titre, ma Sœur,
 Dont vous voulez quitter la charmante douceur ?
@@ -1144,8 +1145,8 @@ Oui, je vais vous servir de toute ma puissance.
 
 Ainsi donc à leurs vœux vous me sacrifiez ?
 
-
 **** *creator_moliere *book_moliere_femmessavantes *style_verse *genre_comedy *dist1_moliere_verse_comedy_femmessavantes *dist2_moliere_verse_comedy *id_henriette *date_1672 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_henriette
+
 
 Oui, ma sœur.
 
@@ -1461,8 +1462,8 @@ De tous les noirs chagrins qui suivent de tels feux.
 Sans cela, vous verriez tout mon cœur y courir ;
 Et je ne fuis sa main, que pour le trop chérir.
 
-
 **** *creator_moliere *book_moliere_femmessavantes *style_verse *genre_comedy *dist1_moliere_verse_comedy_femmessavantes *dist2_moliere_verse_comedy *id_ariste *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ariste
+
 
 Oui, je vous porterai la réponse au plus tôt ;
 J'appuierai, presserai, ferai tout ce qu'il faut.
@@ -1645,8 +1646,8 @@ Que j'ai voulu tenter pour servir vos amours ;
 Pour détromper ma Sœur, et lui faire connaître
 Ce que son Philosophe à l'essai pouvait être.
 
-
 **** *creator_moliere *book_moliere_femmessavantes *style_verse *genre_comedy *dist1_moliere_verse_comedy_femmessavantes *dist2_moliere_verse_comedy *id_belise *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_belise
+
 
 Ah tout beau, gardez-vous de m'ouvrir trop votre âme :
 Si je vous ai su mettre au rang de mes Amants,
@@ -1874,8 +1875,8 @@ Qu'il prenne garde au moins que je suis dans son cœur.
 Par un prompt désespoir souvent on se marie,
 Qu'on s'en repent après tout le temps de sa vie.
 
-
 **** *creator_moliere *book_moliere_femmessavantes *style_verse *genre_comedy *dist1_moliere_verse_comedy_femmessavantes *dist2_moliere_verse_comedy *id_clitandre *date_1672 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_clitandre
+
 
 Non, Madame, mon cœur qui dissimule peu,
 Ne sent nulle contrainte à faire un libre aveu ;
@@ -2212,8 +2213,8 @@ Et lorsqu'à mon amour je vois chacun se rendre...
 Tout Destin avec vous me peut être agréable ;
 Tout Destin me serait sans vous insupportable.
 
-
 **** *creator_moliere *book_moliere_femmessavantes *style_verse *genre_comedy *dist1_moliere_verse_comedy_femmessavantes *dist2_moliere_verse_comedy *id_trissotin *date_1672 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_trissotin
+
 
 Hélas, c'est un Enfant tout nouveauné, Madame.
 Son sort assurément a lieu de vous toucher,
@@ -2502,8 +2503,8 @@ Des refus offensants qu'il faut qu'ici j'essuie ;
 Je vaux bien que de moi l'on fasse plus de cas,
 Et je baise les mains à qui ne me veut pas.
 
-
 **** *creator_moliere *book_moliere_femmessavantes *style_verse *genre_comedy *dist1_moliere_verse_comedy_femmessavantes *dist2_moliere_verse_comedy *id_vadius *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_vadius
+
 
 Je crains d'être fâcheux, par l'ardeur qui m'engage
 À vous rendre aujourd'hui, Madame, mon hommage,
@@ -2591,8 +2592,8 @@ Ma plume t'apprendra quel Homme je puis être.
 
 Je te défie en Vers, Prose, Grec, et Latin.
 
-
 **** *creator_moliere *book_moliere_femmessavantes *style_verse *genre_comedy *dist1_moliere_verse_comedy_femmessavantes *dist2_moliere_verse_comedy *id_martine *date_1672 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_martine
+
 
 Me voilà bien chanceuse ! Hélas l'an dit bien vrai :
 Qui veut noyer son Chien, l'accuse de la rage,
@@ -2669,8 +2670,25 @@ Un Mari qui n'ait point d'autre Livre que moi ;
 Qui ne sache A, ne B, n'en déplaise à Madame,
 Et ne soit en un mot Docteur que pour sa femme.
 
+**** *creator_moliere *book_moliere_femmessavantes *style_verse *genre_comedy *dist1_moliere_verse_comedy_femmessavantes *dist2_moliere_verse_comedy *id_l-epine *date_1672 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lepine
+
+
+Je m'en suis aperçu, Madame, étant par terre.
+
+Monsieur, un Homme est là qui veut parler à vous,
+Il est vêtu de noir, et parle d'un ton doux.
+
+**** *creator_moliere *book_moliere_femmessavantes *style_verse *genre_comedy *dist1_moliere_verse_comedy_femmessavantes *dist2_moliere_verse_comedy *id_julien *date_1672 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_julien
+
+
+Le Savant qui tantôt vous a rendu visite,
+Et de qui j'ai l'honneur de me voir le Valet,
+Madame, vous exhorte à lire ce Billet.
+
+Je noterai cela, Madame, dans mon Livre.
 
 **** *creator_moliere *book_moliere_femmessavantes *style_verse *genre_comedy *dist1_moliere_verse_comedy_femmessavantes *dist2_moliere_verse_comedy *id_le-notaire *date_1672 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lenotaire
+
 
 Notre style est très bon, et je serais un Sot,
 Madame, de vouloir y changer un seul mot.
@@ -2691,4 +2709,3 @@ Mettez-vous donc d'accord et d'un jugement mûr
 Voyez à convenir entre vous du Futur ?
 
 Dites-moi donc à qui j'obéirai des deux ?
-

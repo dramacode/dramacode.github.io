@@ -2,6 +2,7 @@
 
 **** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_aristione *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aristione
 
+
 Prince, je ne puis me lasser de le dire, il n'est point de spectacle au monde qui puisse le disputer en magnificence à celui que vous venez de nous donner. Cette Fête a eu des ornements qui l'emportent sans doute sur tout ce que l'on saurait voir, et elle vient de produire à nos yeux quelque chose de si noble, de si grand, et de si majestueux, que le Ciel même ne saurait aller au delà, et je puis dire assurément qu'il n'y a rien dans l'Univers qui s'y puisse égaler.
 
 Je crois que nous n'y verrons rien que de fort agréable, et certes il faut avouer que la campagne a lieu de nous paraître belle, et que nous n'avons pas le temps de nous ennuyer dans cet agréable séjour qu'ont célébré tous les Poètes sous le nom de Tempé. Car enfin, sans parler des plaisirs de la Chasse que nous y prenons à toute heure, et de la solennité des jeux Pythiens que l'on y célèbre tantôt, vous prenez soin l'un et l'autre de nous y combler de tous les divertissements qui peuvent charmer les chagrins des plus mélancoliques. D'où vient, Sostrate, qu'on ne vous a point vu dans notre promenade ?
@@ -88,8 +89,8 @@ Prince, je ne veux pas me brouiller avec une personne qui m'a fait tant de grâc
 
 Je pardonne toutes ces menaces, aux chagrins d'un amour qui se croit offensé, et nous n'en verrons pas avec moins de tranquillité la Fête des jeux Pythiens. Allons-y de ce pas, et couronnons par ce pompeux spectacle cette merveilleuse journée.
 
-
 **** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_eriphile *date_1670 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_eriphile
+
 
 Ah ! qu'aux personnes comme nous qui sommes toujours accablées de tant de gens, un peu de solitude est parfois agréable, et qu'après mille impertinents entretiens, il est doux de s'entretenir avec ses pensées. Qu'on me laisse ici promener toute seule.
 
@@ -229,8 +230,8 @@ Ah ! Clitidas, pouvais-tu m'en donner une qui me pût être plus agréable ?
 
 Et de la main des Dieux, et de la vôtre, Madame, je ne puis rien recevoir qui ne me soit fort agréable.
 
-
 **** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_cleonice *date_1670 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cleonice
+
 
 On trouvera étrange, Madame, que vous vous soyez ainsi écartée de tout le monde.
 
@@ -252,8 +253,13 @@ Madame, je vous vois l'esprit tout chagrin, vous plaît-il que vos danseurs, qui
 
 Madame, je viens vous dire qu'Anaxarque a jusqu'ici abusé, l'un et l'autre Prince, par l'espérance de ce choix qu'ils poursuivent depuis longtemps, et qu'au bruit qui s'est répandu de votre aventure, ils ont fait éclater tous deux leur ressentiment contre lui, jusque-là, que de paroles en paroles, les choses se sont échauffées, et il en a reçu quelques blessures dont on ne sait pas bien ce qui arrivera. Mais les voici.
 
+**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_chorebe *date_1670 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_chorebe
+
+
+Madame, voilà la Princesse qui vient vous prendre ici, pour aller au Bois de Diane.
 
 **** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_iphicrate *date_1670 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_iphicrate
+
 
 Sostrate est de ces gens, Madame, qui croient qu'il ne sied pas bien d'être curieux comme les autres, et il est beau d'affecter de ne pas courir où tout le monde court.
 
@@ -307,8 +313,8 @@ Oui, Madame, il importe, c'est quelque consolation de se voir préférer un homm
 
 Oui, oui, Madame, nous nous en souviendrons, mais peut-être aussi vous souviendrez-vous, que deux Princes outragés ne sont pas deux ennemis peu redoutables.
 
-
 **** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_timocles *date_1670 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_timocles
+
 
 Ce sont des ornements dont on ne peut pas espérer que toutes les Fêtes soient embellies, et je dois fort trembler, Madame, pour la simplicité du petit divertissement que je m'apprête à vous donner dans le Bois de Diane.
 
@@ -346,8 +352,8 @@ Oui, Madame, nous nous sommes soumis à ce qu'ils pourraient décider, entre le 
 
 Peut-être, Madame, qu'on ne goûtera pas longtemps la joie du mépris que l'on fait de nous.
 
-
 **** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_sostrate *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sostrate
+
 
 Non, Sostrate, je ne vois rien où tu puisses avoir recours, et tes maux sont d'une nature à ne te laisser nulle espérance d'en sortir.
 
@@ -457,8 +463,8 @@ Ah ! Madame, si votre repos...
 
 Ciel ! n'est-ce point ici quelque songe, tout plein de gloire, dont les Dieux me veuillent flatter, et quelque réveil malheureux ne me replongera-t-il point dans la bassesse de ma fortune ?
 
-
 **** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_clitidas *date_1670 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_clitidas
+
 
 Il est attaché à ses pensées ?
 
@@ -608,8 +614,8 @@ Ma foi, c'est promptement de vrai que j'achèverai, car un peu de poltronnerie m
 
 Voilà qu'on vient vous trouver.
 
-
 **** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_anaxarque *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anaxarque
+
 
 Je remarque une chose, que Clitidas n'aurait rien à dire s'il ne parlait de moi.
 
@@ -633,262 +639,23 @@ Attendons que sa Fille soit séparée d'elle, c'est un esprit que je redoute, et
 
 Tous deux ont recherché mon assistance, et je leur promets à tous deux la faveur de mon art ; mais les présents du Prince Iphicrate, et les promesses qu'il m'a faites, l'emportent de beaucoup sur tout ce qu'a pu faire l'autre. Ainsi ce sera lui qui recevra les effets favorables de tous les ressorts que je fais jouer ; et comme son ambition me devra toute chose, voilà mon fils notre fortune faite. Je vais prendre mon temps pour affermir dans son erreur l'esprit de la Princesse, pour la mieux prévenir encore par le rapport que je lui ferai voir adroitement des paroles de Vénus, avec les prédictions des figures Célestes, que je lui dis que j'ai jetées. Va-t'en tenir la main au reste de l'ouvrage, préparer nos six hommes à se bien cacher dans leur barque derrière le Rocher ; à posément attendre le temps que la Princesse Aristione vient tous les soirs se promener seule sur le rivage, à se jeter bien à propos sur elle, ainsi que des Corsaires, et donner lieu au Prince Iphicrate de lui apporter ce secours, qui sur les paroles du Ciel doit mettre entre ses mains la Princesse Ériphile. Ce Prince est averti par moi, et sur la foi de ma prédiction il doit se tenir dans ce petit Bois qui borde le rivage. Mais sortons de cette Grotte, je te dirai en marchant toutes les choses qu'il faut bien observer. Voilà la Princesse Ériphile, évitons sa rencontre.
 
+**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_cleon *date_1670 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_cleon
 
-**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_tircis *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tircis
 
-Vous chantez sous ces feuillages,
-Doux rossignols pleins d'amour,
-Et de vos tendres ramages
-Vous réveillez tour à tour
-Les échos de ces bocages :
-Hélas ! petits oiseaux, hélas !
-Si vous aviez mes maux vous ne chanteriez pas.
+Voilà la Princesse qui s'en va, ne voulez-vous pas lui parler ?
 
-Toujours adorant Caliste,
-Et toujours infortuné.
+Mais pour lequel des deux Princes au moins dressez-vous tout cet artifice ?
 
-Eh le moyen, hélas !
+**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_venus *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
 
-Eh le moyen, hélas ! quand le mal est trop fort ?
 
-Je ne guérirai qu'à ma mort.
-
-Ah Bergers !
-
-Rien ne me peut plus secourir.
-
-C'est trop, c'est trop souffrir.
-
-Quel martyre !
-
-Il faut plutôt mourir.
-
-Je la vois, la cruelle,
-Qui porte ici ses pas,
-Gardons d'être vu d'elle,
-L'Ingrate, hélas !
-N'y viendrait pas.
-
-Vers ma belle ennemie
-Portons sans bruit nos pas,
-Et ne réveillons pas
-Sa rigueur endormie.
-
-Silence, petits oiseaux,
-Vents n'agitez nulle chose,
-Coulez doucement ruisseaux,
-C'est Caliste qui repose.
-
-Que voulez-vous qu'on suive, hélas !
-Que ce qu'on aime ?
-
-Mourir, belle Bergère,
-Mourir à vos genoux,
-Et finir ma misère,
-Puisqu'en vain à vos pieds on me voit soupirer,
-Il y faut expirer.
-
-Ô Ciel ! Bergers !
-Caliste ! ah je suis hors de moi !
-Si l'on meurt de plaisir je dois perdre la vie.
-
-
-**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_lycaste *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lycaste
-
-Hé quoi toujours languissant, sombre et triste ?
-
-Dompte, dompte, Berger, l'ennui qui te possède.
-
-Ce mal trouvera son remède.
-
-Ah Tircis !
-
-C'est trop, c'est trop céder.
-
-Il faut prendre courage.
-
-Il n'est point de Bergère
-Si froide, et si sévère,
-Dont la pressante ardeur
-D'un cœur qui persévère
-Ne vainque la froideur.
-
-Soit amour, soit pitié,
-Il sied bien d'être tendre ;
-C'est par trop vous défendre
-Bergère, il faut se rendre
-À sa longue amitié,
-Soit amour, soit pitié,
-Il sied bien d'être tendre.
-
-Digne prix de ta foi.
-
-
-**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_menandre *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_menandre
-
-Hé quoi toujours aux pleurs abandonné ?
-
-Fais, fais-toi quelque effort.
-
-Il est, dans les affaires
-Des amoureux mystères,
-Certains petits moments
-Qui changent les plus fières,
-Et font d'heureux Amants.
-
-Ô sort digne d'envie !
-
-
-**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_caliste *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_caliste
-
-
-Ah que sur notre cœur
-La sévère Loi de l'honneur
-Prend un cruel empire !
-Je ne fais voir que rigueurs pour Tircis,
-Et cependant, sensible à ses cuisants soucis,
-De sa langueur en secret je soupire,
-Et voudrais bien soulager son martyre,
-C'est à vous seuls que je le dis,
-Arbres, n'allez pas le redire.
-Puisque le Ciel a voulu nous former
-Avec un cœur qu'Amour peut enflammer,
-Quelle rigueur impitoyable
-Contre des traits si doux nous force à nous armer,
-Et pourquoi sans être blâmable
-Ne peut-on pas aimer
-Ce que l'on trouve aimable ?
-
-Hélas ! que vous êtes heureux
-Innocents Animaux, de vivre sans contrainte,
-Et de pouvoir suivre sans crainte
-Les doux emportements de vos cœurs amoureux :
-Hélas ! petits oiseaux que vous êtes heureux
-De ne sentir nulle contrainte,
-Et de pouvoir suivre sans crainte
-Les doux emportements de vos cœurs amoureux.
-Mais le sommeil sur ma paupière
-Verse de ses Pavots l'agréable fraîcheur,
-Donnons-nous à lui toute entière,
-Nous n'avons point de Loi sévère
-Qui défende à nos sens d'en goûter la douceur.
-
-Ah quelle peine extrême !
-Suivre partout mes pas !
-
-Berger que voulez-vous ?
-
-Ah Tircis, ôtez-vous, j'ai peur que dans ce jour
-La pitié dans mon cœur n'introduise l'amour.
-
-C'est trop, c'est trop de rigueur,
-J'ai maltraité votre ardeur
-Chérissant votre personne,
-Vengez-vous de mon cœur
-Tircis, je vous le donne.
-
-Le destin le veut ainsi,
-Prenez tous deux patience.
-
-
-**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_climene *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_climene
-
-Lorsqu'à toute autre personne
-Me préférait ton ardeur,
-J'aurais quitté la Couronne
-Pour régner dessus ton cœur.
-
-Un autre a vengé ma flamme
-Des faiblesses de ta foi.
-
-Myrtil si digne d'envie,
-Me chérit plus que le jour,
-Et moi je perdrais la vie
-Pour lui montrer mon amour.
-
-Bien qu'avec pleine tendresse
-Myrtil me puisse chérir,
-Avec toi, je le confesse,
-Je voudrais vivre et mourir.
-
-
-**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_philinte *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philinte
-
-Quand je plaisais à tes yeux
-J'étais content de ma vie,
-Et ne voyais Roi ni Dieux
-Dont le sort me fît envie.
-
-Une autre a guéri mon âme
-Des feux que j'avais pour toi.
-
-Cloris qu'on vante si fort,
-M'aime d'une ardeur fidèle,
-Si ses yeux voulaient ma mort
-Je mourrais content pour elle.
-
-Mais si d'une douce ardeur
-Quelque renaissante trace
-Chassait Cloris de mon cœur
-Pour te remettre en sa place...
-
-
-**** *creator_moliere *book_moliere_amantsmagnifiques *style_prose *genre_show *dist1_moliere_prose_show_amantsmagnifiques *dist2_moliere_prose_show *id_choeur *date_1670 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_choeur
-
-Allons tous au-devant de ces Divinités,
-Et rendons par nos chants hommage à leurs beautés.
-
-Redoublons nos Concerts,
-Et faisons retentir dans le vague des Airs
-Notre réjouissance.
-
-Le Ciel entre les Dieux les plus considérés
-Me donne pour partage un rang considérable,
-Et me faisant régner sur les flots azurés,
-Rend à tout l'Univers mon pouvoir redoutable.
-
-Il n'est aucune terre, à me bien regarder
-Qui ne doive trembler que je ne m'y répande ;
-Point d'États qu'à l'instant je ne pusse inonder
-Des flots impétueux que mon pouvoir commande.
-
-Rien n'en peut arrêter le fier débordement,
-Et d'une triple digue à leur force opposée
-On les verrait forcer le ferme empêchement,
-Et se faire en tous lieux une ouverture aisée.
-
-Mais je sais retenir la fureur de ces flots
-Par la sage équité du pouvoir que j'exerce,
-Et laisser en tous lieux, au gré des Matelots
-La douce liberté d'un paisible commerce.
-
-On trouve des Écueils parfois dans mes États,
-On voit quelques Vaisseaux y périr par l'orage :
-Mais contre ma puissance on n'en murmure pas,
-Et chez moi la Vertu ne fait jamais naufrage.
-L'Empire où nous vivons, est fertile en trésors,
-Tous les mortels en foule accourent sur ses bords,
-Et pour faire bientôt une haute fortune,
-Il ne faut rien qu'avoir la faveur de Neptune.
-Sur la foi de ce Dieu de l'Empire flottant
-On peut bien s'embarquer avec toute assurance ;
-Les flots ont de l'inconstance ;
-Mais le Neptune est constant.
-Voguez sur cette Mer d'un zèle inébranlable,
-C'est le moyen d'avoir Neptune favorable.
-
-Poussons à sa Mémoire
-Des concerts si touchants,
-Que du haut de sa gloire
-Il écoute nos chants.
-
-
-Ouvrons tous nos yeux
-À l'éclat suprême
-Qui brille en ces lieux.
-
-Quelle grâce extrême !
-Quel port glorieux !
-Où voit-on des Dieux
-Qui soient faits de même ?
-
+Princesse dans tes soins brille un zèle exemplaire,
+Qui par les Immortels doit être Couronné,
+Et pour te voir un gendre, illustre et fortuné,
+Leur main te veut marquer le choix que tu dois faire ;
+Ils t'annoncent tous par ma voix,
+La gloire et les grandeurs, que par ce digne choix,
+Ils feront pour jamais entrer dans ta famille,
+De tes difficultés termine donc le cours ;
+Et pense à donner ta Fille
+À qui sauvera tes jours.

@@ -2,6 +2,7 @@
 
 **** *creator_moliere *book_moliere_jalousiedubarbouille *style_prose *genre_comedy *dist1_moliere_prose_comedy_jalousiedubarbouille *dist2_moliere_prose_comedy *id_le-barbouille *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebarbouille
 
+
 Il faut avouer que je suis le plus malheureux de tous les hommes, j'ai une femme qui me fait enrager au lieu de me donner du soulagement, et de faire les choses à mon souhait, elle me fait donner au diable vingt fois le jour, au lieu de se tenir à la maison, elle aime la promenade, la bonne chère, et fréquente je ne sais quelle sorte de gens, ah pauvre Barbouillé, que tu es misérable, il faut pourtant la punir. Si je la tuais, l'invention ne vaut rien, car tu serais pendu. Si tu la faisais mettre en prison, la carogne en sortirait avec son passe-partout, que diable faire donc, mais voilà Monsieur le Docteur qui passe par ici, il faut que je lui demande un bon conseil sur ce que je dois faire.
 
 Je m'en allais vous chercher pour vous faire une prière sur une chose qui m'est d'importance.
@@ -80,8 +81,8 @@ Je me donne au diable si j'ai sorti de la maison, et demandez plutôt à ces Mes
 
 Moi pardon ! j'aimerais mieux que le Diable l'eût emportée, je suis dans une colère que je ne me sens pas.
 
-
 **** *creator_moliere *book_moliere_jalousiedubarbouille *style_prose *genre_comedy *dist1_moliere_prose_comedy_jalousiedubarbouille *dist2_moliere_prose_comedy *id_le-docteur *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledocteur
+
 
 Il faut que tu sois bien mal appris, bien Lourdaud, et bien mal morigéné, mon ami, puisque tu m'abordes sans ôter ton chapeau, sans observer rationem loci, temporis et personæ. Quoi débuter d'abord par un discours mal digéré, au lieu de dire Salve, vel Salvus sis Doctor, Doctorum Eruditissime, eh pour qui me prends-tu, mon ami ?
 
@@ -156,8 +157,8 @@ Vous ne le voulez pas ?
 
 Adieu donc puisqu'ainsi est, bonsoir, latine, bona nox.
 
-
 **** *creator_moliere *book_moliere_jalousiedubarbouille *style_prose *genre_comedy *dist1_moliere_prose_comedy_jalousiedubarbouille *dist2_moliere_prose_comedy *id_angelique *date_1660 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_angelique
+
 
 Monsieur, je vous assure que vous m'obligez beaucoup de me tenir quelquefois compagnie, mon mari est si mal bâti, si débauché, si ivrogne, que ce m'est un supplice d'être avec lui, et je vous laisse à penser quelle satisfaction on peut avoir d'un rustre comme lui.
 
@@ -207,8 +208,8 @@ Cathau, Cathau, eh bien, qu'a-t-elle fait, Cathau, et d'où venez-vous Monsieur 
 
 Mais voyez un peu, le voilà qui est soûl, et revient à l'heure qu'il est faire un vacarme horrible, il me menace.
 
-
 **** *creator_moliere *book_moliere_jalousiedubarbouille *style_prose *genre_comedy *dist1_moliere_prose_comedy_jalousiedubarbouille *dist2_moliere_prose_comedy *id_valere *date_1660 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_valere
+
 
 Mademoiselle, vous me faites trop d'honneur de me vouloir souffrir, et je vous promets de contribuer de tout mon pouvoir à votre divertissement, et que puisque vous témoignez que ma compagnie ne vous est point désagréable, je vous ferai connaître combien j'ai de joie de la bonne nouvelle que vous m'apprenez, par mes empressements.
 
@@ -218,8 +219,8 @@ Monsieur, je vous suis obligé du soin que vous avez pris, et je vous promets de
 
 Allons donc ensemble de ce pas.
 
-
 **** *creator_moliere *book_moliere_jalousiedubarbouille *style_prose *genre_comedy *dist1_moliere_prose_comedy_jalousiedubarbouille *dist2_moliere_prose_comedy *id_cathau *date_1660 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cathau
+
 
 Ah changez de discours, voyez porte-guignon qui arrive.
 
@@ -229,8 +230,8 @@ Vraiment oui vous nous la baillez bonne.
 
 Que maudite soit l'heure que vous avez choisi ce grigou...
 
-
 **** *creator_moliere *book_moliere_jalousiedubarbouille *style_prose *genre_comedy *dist1_moliere_prose_comedy_jalousiedubarbouille *dist2_moliere_prose_comedy *id_gorgibus *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gorgibus
+
 
 Ne voilà pas encore mon maudit gendre qui querelle ma fille.
 
@@ -272,8 +273,8 @@ Il n'en est pas de besoin.
 
 Non.
 
-
 **** *creator_moliere *book_moliere_jalousiedubarbouille *style_prose *genre_comedy *dist1_moliere_prose_comedy_jalousiedubarbouille *dist2_moliere_prose_comedy *id_villebrequin *date_1660 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_villebrequin
+
 
 Il faut savoir ce que c'est.
 
@@ -295,3 +296,7 @@ Adieu, bonsoir, nous vous remercions.
 
 Allons-nous-en souper ensemble, nous autres.
 
+**** *creator_moliere *book_moliere_jalousiedubarbouille *style_prose *genre_comedy *dist1_moliere_prose_comedy_jalousiedubarbouille *dist2_moliere_prose_comedy *id_la-vallee *date_1660 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lavallee
+
+
+Cela ne peut se différer, et si vous tardez un quart d'heure le bal sera fini dans un moment, et vous n'aurez pas le bien d'y voir celle que vous aimez, si vous n'y venez tout présentement.

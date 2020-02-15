@@ -2,6 +2,7 @@
 
 **** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_pourceaugnac *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pourceaugnac
 
+
 Hé bien, quoi ? qu'est-ce ? qu'y a-t-il ? Au diantre soit la sotte Ville, et les sottes Gens qui y sont : ne pouvoir faire un pas sans trouver des Nigauds qui vous regardent, et se mettent à rire ! Eh, Messieurs les Badauds, faites vos affaires, et laissez passer les Personnes sans leur rire au nez. Je me donne au Diable, si je ne baille un coup de poing au premier que je verrai rire.
 
 Voilà un Homme raisonnable celui-là.
@@ -377,8 +378,8 @@ Ah !
 
 Adieu. Voilà le seul honnête Homme que j'ai trouvé en cette Ville.
 
-
 **** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_oronte *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
+
 
 Oui, je l'attends de Limoges, et il devrait être arrivé.
 
@@ -514,8 +515,8 @@ Ah que de bruit. Çà, votre main, vous dis-je. Ah, ah, ah.
 
 Je vous suis beaucoup obligé, et j'augmente de dix mille écus le Mariage de ma Fille. Allons, qu'on fasse venir le Notaire pour dresser le Contrat.
 
-
 **** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_julie *date_1669 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_julie
+
 
 Mon Dieu, Éraste, gardons d'être surpris ; je tremble qu'on ne nous voie ensemble ; et tout serait perdu, après la défense que l'on m'a faite.
 
@@ -571,8 +572,8 @@ Non, je n'en ferai rien.
 
 Je ne…
 
-
 **** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_nerine *date_1669 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
+
 
 Reposez-vous sur moi, et dites hardiment ce que vous avez à vous dire.
 
@@ -616,8 +617,8 @@ Venez, Madelaine, me n'ainfain, venez-ves-en ichy faire honte à vo père de l'i
 
 Ne rougis-tu mie de dire ches mots-là, et d'estre insainsible aux cairesses de chette pauvre ainfain ? Tu ne te sauveras mie de mes pates ; et en dépit de tes dains ; je feray bien voir que je sis ta Femme, et je te feray pindre.
 
-
 **** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_lucette *date_1669 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lucette
+
 
 Ah ! tu es assy, et à la fy yeu te trobi aprés abé fait tant de passés. Podes-tu, scélérat, podes-tu sousteni ma bisto ?
 
@@ -655,8 +656,8 @@ Beny Françon, beny, Jeanet, beny, toustou, beny, toustoune, beny fayre beyre à
 
 Coussy, trayte, tu nou sios pas dins la darnière confusiu, de ressaupre à tal tous Enfants, et de ferma l'aureillo à la tendresso paternello ? Tu nou m'escaperas pas, infame, yeu te boly seguy per tout, et te reproucha ton crime jusquos à tant que me sio beniado, et que t'ayo fayt penia, couqui, te boli fayré penia.
 
-
 **** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_eraste *date_1669 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_eraste
+
 
 Je regarde de tous côtés, et je n'aperçois rien.
 
@@ -821,8 +822,8 @@ Ne croyez pas que ce soit pour l'amour de vous que je vous donne la main ; ce n
 
 En attendant qu'il vienne, nous pouvons jouir du divertissement de la Saison, et faire entrer les Masques que le bruit des Noces de Monsieur de Pourceaugnac a attirés ici de tous les endroits de la Ville.
 
-
 **** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_sbrigani *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_sbrigani
+
 
 Monsieur, votre Homme arrive, je l'ai vu à trois lieues d'ici, où a couché le Coche ; et dans la Cuisine où il est descendu pour déjeuner, je l'ai étudié une bonne grosse demie heure, et je le sais déjà par cœur. Pour sa figure, je ne veux point vous en parler, vous verrez de quel air la Nature l'a dessinée, et si l'ajustement qui l'accompagne y répond comme il faut : mais pour son Esprit, je vous avertis par avance qu'il est des plus épais qui se fassent ; que nous trouvons en lui une matière tout à fait disposée pour ce que nous voulons, et qu'il est Homme enfin à donner dans tous les panneaux qu'on lui présentera.
 
@@ -1086,8 +1087,8 @@ Ah ! Monsieur, ce perfide de Limosin, ce traître de Monsieur de Pourceaugnac v
 
 Oui ; elle en est devenue si folle, qu'elle vous quitte pour le suivre ; et l'on dit qu'il a un Caractère pour se faire aimer de toutes les Femmes.
 
-
 **** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_medecin1 *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_medecin1
+
 
 Le Malade est un sot, d'autant plus que dans la maladie dont il est attaqué, ce n'est pas la tête, selon Galien, mais la rate, qui lui doit faire mal.
 
@@ -1193,8 +1194,13 @@ Et si je ne le trouve, je m'en prendrai à vous, et je vous guérirai au lieu de
 
 Il n'importe, il me faut un Malade, et je prendrai qui je pourrai.
 
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_medecin2 *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_medecin2
+
+
+À Dieu ne plaise, Monsieur, qu'il me tombe en pensée d'ajouter rien à ce que vous venez de dire : vous avez si bien discouru sur tous les signes, les symptômes et les causes de la maladie de Monsieur ; le raisonnement que vous en avez fait est si docte et si beau, qu'il est impossible qu'il ne soit pas fou, et mélancolique hypocondriaque ; et quand il ne le serait pas, il faudrait qu'il le devînt, pour la beauté des choses que vous avez dites, et la justesse du raisonnement que vous avez fait. Oui, Monsieur, vous avez dépeint fort graphiquement, graphice depinxisti, tout ce qui appartient à cette maladie ; il ne se peut rien de plus doctement, sagement, ingénieusement conçu, pensé, imaginé, que ce que vous avez prononcé au sujet de ce mal, soit pour la diagnose, ou la prognose, ou la thérapie ; et il ne me reste rien ici, que de féliciter Monsieur, d'être tombé entre vos mains, et de lui dire qu'il est trop heureux d'être fou, pour éprouver l'efficace et la douceur des remèdes que vous avez si judicieusement proposés : Je les approuve tous, manibus et pedibus descendo in tuam sententiam.Tout ce que j'y voudrais, c'est de faire les saignées et les purgations en nombre impair, Numero Deus impari gaudet : de prendre le lait clair avant le bain ; de lui composer un fronteau où il entre du sel ; le sel est symbole de la sagesse : de faire blanchir les murailles de sa chambre, pour dissiper les ténèbres de ses esprits, album est disgregativum visus, et de lui donner tout à l'heure un petit Lavement, pour servir de prélude et d'introduction à ces judicieux remèdes, dont s'il a à guérir, il doit recevoir du soulagement. Fasse le Ciel que ces remèdes, Monsieur, qui sont les vôtres, réussissent au Malade selon notre intention.
 
 **** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_apothicaire *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_apothicaire
+
 
 Non, Monsieur, ce n'est pas moi qui suis le Médecin ; à moi n'appartient pas cet honneur, et je ne suis qu'Apothicaire, Apothicaire indigne, pour vous servir.
 
@@ -1224,8 +1230,15 @@ Prenez-le, Monsieur, prenez-le : il ne vous fera point de mal, il ne vous fera 
 
 C'est un petit Clystère, un petit Clystère, bénin, bénin ; il est bénin, bénin : là, prenez, prenez, prenez, Monsieur ; c'est pour déterger, pour déterger, déterger…
 
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_paysan *date_1669 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_paysan
+
+
+Monsieur, il n'en peut plus, et il dit qu'il sent dans la tête les plus grandes douleurs du monde.
+
+Quoi que c'en soit, Monsieur, il a toujours avec cela son cours de ventre depuis six mois.
 
 **** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_paysanne *date_1669 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_paysanne
+
 
 Mon Père, Monsieur, est toujours malade de plus en plus.
 
@@ -1235,8 +1248,68 @@ Oui.
 
 Non, Monsieur.
 
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_musicien1 *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_musicien1
+
+
+Altro non è la pazzia
+Che malinconia.
+Il malato
+Non è disperato,
+Se vol pigliar un poco d'allegria
+Altro non è la pazzia
+Che malinconia.
+
+Lors que pour rire on s'assemble,
+Les plus sages, ce me semble,
+Sont ceux qui sont les plus fous.
+
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_musicien2 *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_musicien2
+
+
+Sù, cantate, ballate, ridete ;
+E se far meglio volete,
+Quando sentite il deliro vicino,
+Pigliate del vino,
+E qualche volta un po po di tabac
+Alegramente, Monsu Pourceaugnac.
+
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_avocat1 *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_avocat1
+
+
+La polygamie est un cas,
+Est un cas pendable.
+
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_avocat2 *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_avocat2
+
+
+Votre fait
+Est clair et net ;
+Et tout le droit
+Sur cet endroit
+Conclut tout droit.
+Si vous consultez nos Auteurs,
+Législateurs et Glossateurs,
+Justinian, Papinian,
+Ulpian et Tribonian,
+Fernand, Rebuffe, Jean Imole,
+Paul, Castre, Julian, Barthole,
+Jason, Alciat et Cujas,
+Ce grand Homme si capable ;
+La Polygamie est un cas
+Est un cas pendable.
+Tous les Peuples policés,
+Et bien sensés ;
+Les Français, Anglais, Hollandais,
+Danois, Suédois, Polonais,
+Portugais, Espagnols, Flamands,
+Italiens, Allemands,
+Sur ce fait tiennent loi semblable,
+Et l'affaire est sans embarras ;
+La polygamie est un cas,
+Est un cas pendable.
 
 **** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_suisse1 *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_suisse1
+
 
 Allons, dépêchons, Camerade, li faut allair tous deux nous à la Crève pour regarter un peu chousticier sti Monsiu de Porcegnac qui l'a esté contané par Ortonnance à l'être pendu par son cou.
 
@@ -1268,8 +1341,8 @@ Toi l'avoir menty toi-même.
 
 Parti pon, toi ne l'afoir point.
 
-
 **** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_suisse2 *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_suisse2
+
 
 Ly sira, ma foi, un grand plaisir, d'y regarter pendre sti Limosin.
 
@@ -1285,8 +1358,8 @@ Laisse, toi, l'est moi qui le veut couchair avec elle.
 
 Parti pon aussi, toi ne l'afoir point encore.
 
-
 **** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_exempt *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_exempt
+
 
 Qu'est-ce ? quelle violence est-ce là ? et que voulez-vous faire à Madame ? Allons, que l'on sorte de là, si vous ne voulez que je vous mette en prison.
 
@@ -1314,8 +1387,14 @@ Il faut donc que je m'enfuie avec lui, car il n'y aurait point ici de sûreté p
 
 Je vous promets de ne le point quitter, que je ne l'aie mis en lieu de sûreté.
 
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_musiciens *date_1669 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_musiciens
+
+
+Ne songeons qu'à nous réjouir,
+La grande affaire est le plaisir.
 
 **** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_egyptienne *date_1669 *sexe_feminin *age_sans-age *statut_exterieur *fonction_autres *role_egyptienne
+
 
 Sortez, sortez de ces lieux,
 Soucis, chagrins et tristesse,
@@ -1337,8 +1416,8 @@ Les sceptres qui font tant d'envie.
 
 Il n'est point, sans l'amour, de plaisir dans la vie.
 
-
 **** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_egyptien *date_1669 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_egyptien
+
 
 Aimons jusques au trépas,
 La raison nous y convie :
@@ -1353,3 +1432,52 @@ Les Grandeurs,
 
 Tout n'est rien, si l'amour n'y mêle ses ardeurs.
 
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_enfants *date_1669 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_enfants
+
+
+Mon Papa, mon Papa, mon Papa.
+
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_voix1 *date_1669 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_voix1
+
+
+Répands, charmante nuit, répands sur tous les yeux,
+De tes pavots la douce violence,
+Et ne laisse veiller en ces aimables lieux
+Que les cœurs que l'Amour soumet à sa puissance.
+Tes ombres et ton silence
+Plus beau que le plus beau jour,
+Offrent de doux moments à soupirer d'amour.
+
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_voix2 *date_1669 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_voix2
+
+
+Que soupirer d'amour
+Est une douce chose,
+Quand rien à nos voeux ne s'oppose !
+À d'aimables penchants notre cœur nous dispose,
+Mais on a des Tyrans à qui l'on doit le jour :
+Que soupirer d'amour
+Est une douce chose,
+Quand rien à nos vœux ne s'oppose !
+
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_voix3 *date_1669 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_voix3
+
+
+Tout ce qu'à nos vœux on oppose,
+Contre un parfait amour ne gagne jamais rien ;
+Et pour vaincre toute chose,
+Il ne faut que s'aimer bien.
+
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_jeanet *date_1669 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_jeanet
+
+
+Ah mon Papa, mon Papa, mon Papa.
+
+**** *creator_moliere *book_moliere_monsieurpourceaugnac *style_prose *genre_comedy *dist1_moliere_prose_comedy_monsieurpourceaugnac *dist2_moliere_prose_comedy *id_choeur *date_1669 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_choeur
+
+
+Sus, sus, chantons tous ensemble,
+Dansons, sautons, jouons-nous.
+
+Ne songeons qu'à nous réjouir,
+La grande affaire est le plaisir.

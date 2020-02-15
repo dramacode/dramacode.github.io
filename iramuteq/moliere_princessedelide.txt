@@ -2,6 +2,7 @@
 
 **** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_princesse-elide *date_1664 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_princesseelide
 
+
 Et pensez-vous, Seigneur, puisqu'il me faut parler,
 Qu'il eût en ce péril de quoi tant m'ébranler ?
 Que l'Arc, et que le Dard, pour moi si pleins de charmes,
@@ -168,8 +169,6 @@ Retirez-vous d'ici, vous dis-je, ou je vous en ferai retirer d'une autre manièr
 
 De quelle émotion inconnue sens-je mon cœur atteint ! et quelle inquiétude secrète est venue troubler tout d'un coup la tranquillité de mon âme ? Ne serait-ce point aussi, ce qu'on vient de me dire, et sans en rien savoir, n'aimerais-je point ce jeune Prince ? Ah ! si cela était je serais personne à me désespérer : mais il est impossible que cela soit, et je vois bien que je ne puis pas l'aimer. Quoi ? je serais capable de cette lâcheté. J'ai vu toute la Terre à mes pieds, avec la plus grande insensibilité du monde. Les respects, les hommages et les soumissions n'ont jamais pu toucher mon âme, et la fierté et le dédain en auraient triomphé. J'ai méprisé tous ceux qui m'ont aimée, et j'aimerais le seul qui me méprise ? Non, non, je sais bien que je ne l'aime pas. Il n'y a pas de raison à cela : Mais si ce n'est pas de l'amour que ce que je sens maintenant, qu'est-ce donc que ce peut être ? et d'où vient ce poison qui me court par toutes les veines, et ne me laisse point en repos avec moi-même ? Sors de mon cœur, qui que tu sois, ennemi qui te caches, attaque-moi visiblement, et deviens à mes yeux la plus affreuse bête de tous nos bois, afin que mon dard et mes flèches me puissent défaire de toi. Ô vous, admirables personnes, qui par la douceur de vos chants avez l'art d'adoucir les plus fâcheuses inquiétudes, approchez-vous d'ici de grâce, et tâchez de charmer avec votre Musique le chagrin où je suis.
 
-Achevez seules si vous voulez, je ne saurais demeurer en repos, et quelque douceur qu'aient vos chants, ils ne font que redoubler mon inquiétude.
-
 Ô Ciel ! que vois-je ici ?
 
 Seigneur, je me jette à vos pieds pour vous demander une grâce. Vous m'avez toujours témoigné une tendresse extrême, et je crois vous devoir bien plus par les bontés que vous m'avez fait voir, que par le jour que vous m'avez donné : Mais si jamais pour moi vous avez eu de l'amitié, je vous en demande aujourd'hui la plus sensible preuve que vous me puissiez accorder ; c'est de n'écouter point, Seigneur, la demande de ce Prince, et ne pas souffrir que la Princesse Aglante soit unie avec lui.
@@ -200,8 +199,8 @@ Non, non, Prince, je ne vous sais pas mauvais gré de m'avoir abusée, et tout c
 
 Seigneur, je ne sais pas encore ce que je veux : donnez-moi le temps d'y songer, je vous prie, et m'épargnez un peu la confusion où je suis.
 
-
 **** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_aglante *date_1664 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_aglante
+
 
 Je chéris comme vous ces retraites tranquilles
 Où l'on se vient sauver de l'embarras des Villes ;
@@ -232,8 +231,8 @@ Madame, il faut vous obéir, mais je croirais que la conquête d'un tel cœur ne
 
 Je vous l'ai dit déjà, Madame, il faut vous obéir.
 
-
 **** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_cynthie *date_1664 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_cynthie
+
 
 Jusques à quand ce cœur veut-il s'effaroucher
 Des innocents desseins qu'on a de le toucher ?
@@ -268,69 +267,13 @@ Prenez garde, Madame, l'entreprise est périlleuse, et lorsqu'on veut donner de 
 
 Il est vrai, Madame, que ce jeune Prince a fait voir une adresse non commune, et que l'air dont il a paru a été quelque chose de surprenant. Il sort vainqueur de cette Course, mais je doute fort qu'il en sorte avec le même cœur qu'il y a porté : Car enfin, vous lui avez tiré des traits dont il est difficile de se défendre, et sans parler de tout le reste, la grâce de votre danse, et la douceur de votre voix ont eu des charmes aujourd'hui à toucher les plus insensibles.
 
-
 **** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_philis *date_1664 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_philis
 
-Non laisse-moi suivre les autres.
-
-Cela se pourrait faire, et je demeure d'accord que je trouve bien mieux mon compte avec l'un qu'avec l'autre ; car il me divertit avec sa voix, et toi tu m'étourdis de ton caquet. Lorsque tu chanteras aussi bien que lui, je te promets de t'écouter.
-
-Je ne saurais.
-
-Point te dis-je.
-
-Ah ! que de façons.
-
-Eh bien ! oui, j'y demeurerai, pourvu que tu me promettes une chose !
-
-De ne me point parler du tout.
-
-À moins que de cela je ne demeurerai point avec toi.
-
-Laisse-moi aller !
-
-Prends-y bien garde au moins ; car à la moindre parole je prends la fuite.
-
-Viens, Tircis, laissons-les aller, et me dis un peu ton martyre de la façon que tu sais faire ? Il y a longtemps que tes yeux me parlent ; mais je suis plus aise d'ouïr ta voix.
-
-Va, va, c'est déjà quelque chose que de toucher l'oreille, et le temps amène tout. Chante-moi cependant quelque plainte nouvelle que tu aies composée pour moi.
-
-Oui, je m'écarte pour cela, je te le dis encore : Je me plais avec lui, et l'on écoute volontiers les amants lorsqu'ils se plaignent aussi agréablement qu'il fait. Que ne chantes-tu comme lui ? Je prendrais plaisir à t'écouter.
-
-Tais-toi ! je veux l'entendre. Dis, Tircis, ce que tu voudras.
-
-Silence, dis-je, ou je me mettrai en colère.
-
-En vérité, Tircis, il ne se peut rien de plus agréable, et tu l'emportes sur tous les Rivaux que tu as.
-
-Oui, dis ? je veux bien t'écouter pour la rareté du fait.
-
-Voilà qui est le mieux du monde : mais, Moron, je souhaiterais bien d'avoir la gloire, que quelque Amant fût mort pour moi ; c'est un avantage dont je n'ai point encore joui, et je trouve que j'aimerais de tout mon cœur une personne qui m'aimerait assez pour se donner la mort.
-
-Oui.
-
-Non.
-
-Allons, Tircis. Viens-t'en me redire à l'écho, ce que tu m'as chanté.
-
-Toi-même, qu'en crois-tu, ma compagne fidèle ?
-
-On m'a dit qu'il n'est point de passion plus belle,
-Et que ne pas aimer c'est renoncer au jour.
-
-Qu'en croirons-nous, ou le mal ou le bien ?
-
-Cloris vante partout l'Amour et ses ardeurs.
-
-Si de tant de tourments il accable les cœurs,
-D'où vient qu'on aime à lui rendre les armes ?
-
-À qui des deux donnerons-nous victoire ?
 
 Seigneur, la Déesse Vénus vient d'annoncer partout le changement du cœur de la Princesse : Tous les Pasteurs et toutes les Bergères en témoignent leur joie par des danses et des chansons, et si ce n'est point un spectacle que vous méprisiez, vous allez voir l'allégresse publique se répandre jusques ici.
 
-
 **** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_iphitas *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_iphitas
+
 
 Ma Fille tu as tort de prendre de telles alarmes, et je me plains de toi, qui peux mettre dans ta pensée que je sois assez mauvais Père pour vouloir faire violence à tes sentiments, et me servir tyranniquement de la puissance que le Ciel me donne sur toi. Je souhaite à la vérité que ton cœur puisse aimer quelqu'un : Tous mes vœux seraient satisfaits si cela pouvait arriver, et je n'ai proposé les Fêtes et les Jeux que je fais célébrer ici ; qu'afin d'y pouvoir attirer tout ce que la Grèce a d'illustre ; et que parmi cette noble jeunesse tu puisses enfin rencontrer où arrêter tes yeux et déterminer tes pensées. Je ne demande dis-je, au Ciel autre bonheur que celui de te voir un Époux. J'ai pour obtenir cette grâce fait encore ce matin un sacrifice à Vénus ; et si je sais bien expliquer le langage des Dieux, elle m'a promis un miracle ; mais quoi qu'il en soit je veux en user avec toi en Père qui chérit sa Fille : Si tu trouves où attacher tes vœux, ton choix sera le mien, et je ne considérerai ni intérêts d'État, ni avantage d'Alliance. Si ton cœur demeure insensible, je n'entreprendrai point de le forcer : Mais au moins sois complaisante aux civilités qu'on te rend, et ne m'oblige point à faire les excuses de ta froideur : Traite ces Princes avec l'estime que tu leur dois, reçois avec reconnaissance les témoignages de leur zèle, et viens voir cette Course où leur adresse va paraître.
 
@@ -370,8 +313,8 @@ Viens, Moron, c'est ici un jour de paix, et je te remets en grâce avec la Princ
 
 Je crains bien, Princes, que le choix de ma Fille ne soit pas en votre faveur ; mais voilà deux Princesses qui peuvent bien vous consoler de ce petit malheur.
 
-
 **** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_euryale *date_1664 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_euryale
+
 
 Explique, explique Arbate, avec toute licence
 Ces soupirs, ces regards, et ce morne silence :
@@ -542,8 +485,8 @@ Pardonnez-moi, Madame, si je suis assez téméraire pour cela, et je prends à t
 
 Je l'attendrai tant qu'il vous plaira, Madame, cet Arrêt de ma destinée, et s'il me condamne à la mort, je le suivrai sans murmure.
 
-
 **** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_aristomene *date_1664 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_aristomene
+
 
 Reprochez-vous, Madame, à nos justes alarmes,
 Ce péril dont tous deux avons sauvé vos charmes,
@@ -568,8 +511,24 @@ Madame, si j'ai été trop prompt à me persuader…
 
 Seigneur, nous savons prendre notre parti, et si ces aimables Princesses n'ont point trop de mépris pour les cœurs qu'on a rebutés ; nous pouvons revenir par elles, à l'honneur de votre alliance.
 
+**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_theocle *date_1664 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_theocle
+
+
+Pour moi je tiens, Madame, à sensible bonheur
+L'action où pour vous a volé tout mon cœur,
+Et ne puis consentir, malgré votre murmure,
+À quereller le sort d'une telle aventure :
+D'un objet odieux je sais que tout déplaît ;
+Mais dût votre courroux être plus grand qu'il n'est,
+C'est extrême plaisir, quand l'amour est extrême,
+De pouvoir d'un péril affranchir ce qu'on aime.
+
+Mais, Madame…
+
+Tout le monde va faire des efforts pour emporter le prix de cette Course ; mais à vous dire vrai j'ai peu d'ardeur pour la victoire, puisque ce n'est pas votre cœur qu'on y doit disputer.
 
 **** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_arbate *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arbate
+
 
 Ce silence rêveur dont la sombre habitude
 Vous fait à tous moments chercher la solitude,
@@ -661,8 +620,8 @@ Peut-on savoir, Seigneur, par où votre espérance… ?
 
 Seigneur, voici la Princesse qui s'est un peu éloignée de sa suite.
 
-
 **** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_moron *date_1664 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_moron
+
 
 Au secours ! sauvez-moi de la bête cruelle !
 
@@ -784,26 +743,6 @@ Récompensé tantôt qui m'en eût su défaire !
 Il faut qu'avant la course elle apprenne vos feux
 Et je…
 
-Jusqu'au revoir ; pour moi je reste ici, et j'ai une petite conversation à faire avec ces arbres et ces rochers.
-Bois, prés, fontaines, fleurs qui voyez mon teint blême,
-Si vous ne le savez, je vous apprends que j'aime ;
-Philis est l'objet charmant
-Qui tient mon cœur à l'attache,
-Et je devins son amant
-La voyant traire une Vache.
-Ses doigts tout pleins de lait, et plus blancs mille fois
-Pressaient les bouts du pis d'une grâce admirable ;
-Ouf ! Cette idée est capable
-De me réduire aux abois.
-Ah ! Philis, Philis, Philis.
-Ah ! hem, ah ah ah ! hi hi hi hi. Oh oh oh oh.
-Voilà un Écho qui est bouffon ! Hom hom hom,
-ha ha ha ha ha.
-Uh uh uh. Voilà un Écho qui est Bouffon !
-
-Ah ! monsieur l'Ours, je suis votre serviteur de tout mon cœur : de grâce épargnez-moi ! je vous assure que je ne vaux rien du tout à manger, je n'ai que la peau et les os, et je vois de certaines gens là-bas qui seraient bien mieux votre affaire. Eh ! eh ! eh ! monseigneur, tout doux s'il vous plaît. Là, là, là, là, ah ! monseigneur que votre altesse est jolie et bien faite ; elle a tout à fait l'air galant et la taille la plus mignonne du monde. Ah beau poil ! belle tête ! beaux yeux brillants et bien fendus ! ah beau petit nez ! belle petite bouche ! petites quenottes jolies ! ah belle gorge ! belles petites menottes ! petits ongles bien faits. À l'aide, au secours, je suis mort, miséricorde, pauvre Moron, ah, mon Dieu ! et vite, à moi, je suis perdu !
-Eh, messieurs ayez pitié de moi ! bons messieurs tuez-moi ce vilain animal-là ! Ô Ciel ! daigne les assister. Bon, le voilà qui fuit, le voilà qui s'arrête et qui se jette sur eux. Bon en voilà un qui vient de lui donner un coup dans la gueule. Les voilà tous à l'entour de lui. Courage, ferme, allons mes amis. Bon, poussez fort, encore, ah ! le voilà qui est à terre, c'en est fait il est mort, descendons maintenant pour lui donner cent coups. Serviteur, Messieurs, je vous rends grâce de m'avoir délivré de cette bête, maintenant que vous l'avez tuée je m'en vais l'achever, et en triompher avec vous.
-
 Ma foi, Madame, je crois qu'après mon exemple il n'y a plus rien à dire, et qu'il ne faut plus mettre en doute le pouvoir de l'Amour. J'ai bravé ses armes assez longtemps, et fait de mon drôle comme un autre ; mais enfin ma fierté a baissé l'oreille, et vous avez une traîtresse qui m'a rendu plus doux qu'un Agneau : Après cela, on ne doit plus faire aucun scrupule d'aimer, et puisque j'ai bien passé par là, il peut bien y en passer d'autres.
 
 Fort bien.
@@ -811,44 +750,6 @@ Fort bien.
 Et pourquoi non ? Est-ce qu'on n'est pas assez bien fait pour cela ? Je pense que ce visage est assez passable, et que pour le bel air, Dieu merci, nous ne le cédons à personne.
 
 Ah ! quelle brave botte il vient là de lui porter !
-
-Philis demeure ici ?
-
-Ah ! cruelle si c'était Tircis qui t'en priât, tu demeurerais bien vite.
-
-Eh ! demeure un peu !
-
-De grâce !
-
-Je ne te laisserai point aller.
-
-Je ne te demande qu'un moment à être avec toi !
-
-Et quelle ?
-
-Eh ! Philis !
-
-Veux-tu me…
-
-Eh bien, oui, demeure : je ne dirai mot.
-
-Soit. Ah ! Philis… Eh… Elle s'enfuit, et je ne saurais l'attraper. Voilà ce que c'est, si je savais chanter j'en ferais bien mieux mes affaires. La plupart des Femmes aujourd'hui se laissent prendre par les oreilles : Elles sont cause que tout le monde se mêle de Musique, et l'on ne réussit auprès d'elles, que par les petites chansons, et les petits vers qu'on leur fait entendre. Il faut que j'apprenne à chanter pour faire comme les autres, bon, voici justement mon homme.
-
-Ah ! Satyre mon ami, tu sais bien ce que tu m'as promis il y a longtemps, apprends-moi à chanter, je te prie.
-
-Il est si accoutumé à chanter qu'il ne saurait parler d'autre façon. Allons chante, j'écoute.
-
-Une chanson, dis-tu ?
-
-Une chanson à chanter ?
-
-Chanson amoureuse, peste.
-
-Ah qu'elle est belle, apprends-la-moi !
-
-La, la, la, la.
-
-Fa toi-même.
 
 Donnez-vous-en bien de garde, Seigneur, si vous m'en voulez croire : Vous avez trouvé la meilleure invention du monde, et je me trompe fort si elle ne vous réussit. Les femmes sont des animaux d'un naturel bizarre, nous les gâtons par nos douceurs, et je crois toutdebon que nous les verrions nous courir, sans tous ces respects, et ces soumissions où les hommes les acoquinent.
 
@@ -896,35 +797,6 @@ Il ne se rendra jamais.
 
 Non, il n'en fera rien, je le connais, ma peine serait inutile.
 
-Ah ! ah ! je vous y prends, cruelle, vous vous écartez des autres pour ouïr mon rival ?
-
-Si je ne sais chanter, je sais faire autre chose, et quand…
-
-Ah ! cruelle…
-
-Morbleu que n'ai-je de la voix ? Ah ! nature marâtre ! pourquoi ne m'as-tu pas donné de quoi chanter comme à un autre ?
-
-Mais pourquoi est-ce que je ne puis pas chanter ? N'ai-je pas un estomac, un gosier, et une langue comme un autre ? Oui, oui, allons, je veux chanter aussi, et te montrer que l'Amour fait faire toutes choses. Voici une chanson que j'ai faite pour toi.
-
-Courage, Moron, il n'y a qu'à avoir de la hardiesse.
-Ton extrême rigueur
-S'acharne sur mon cœur,
-Ah ! Philis je trépasse !
-Daigne me secourir :
-En seras-tu plus grasse
-De m'avoir fait mourir ?
-Vivat, Moron.
-
-Tu aimerais une personne qui se tuerait pour toi ?
-
-Il ne faut que cela pour te plaire ?
-
-Voilà qui est fait, je te veux montrer que je me sais tuer quand je veux.
-
-C'est un plaisir que vous aurez quand vous voudrez.
-
-Je vous prie de vous mêler de vos affaires, et de me laisser tuer à ma fantaisie. Allons je vais faire honte à tous les Amants ; Tiens ? je ne suis pas homme à faire tant de façons, vois ce poignard ! prends bien garde comme je vais me percer le cœur ! Je suis votre serviteur, quelque niais.
-
 Bon, Madame.
 Courage, Seigneur.
 Il en tient.
@@ -948,168 +820,7 @@ Oui, Seigneur, ce n'est point raillerie, j'en suis ce qu'on appelle disgracié. 
 
 Seigneur, je serai meilleur Courtisan une autre fois, et je me garderai bien de dire ce que je pense.
 
+**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_lycas *date_1664 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lycas
 
-**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_satyre *date_1664 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_satyre
 
-La, la, la.
-
-Je le veux ; mais auparavant écoute une chanson que je viens de faire.
-
-Je portais…
-
-Je port…
-
-Je port…
-
-Je portais dans une cage
-Deux moineaux que j'avais pris,
-Lorsque la jeune Cloris
-Fit dans un sombre bocage
-Briller, à mes yeux surpris,
-Les fleurs de son beau visage :
-Hélas ! dis-je aux moineaux, en recevant les coups
-De ses yeux si savants à faire des conquêtes,
-Consolez-vous, pauvres petites bêtes,
-Celui qui vous a pris est bien plus pris que vous.
-Dans vos chants si doux,
-Chantez à ma belle,
-Oiseaux, chantez tous
-Ma peine mortelle :
-Mais si la cruelle
-Se met en courroux
-Au récit fidèle
-Des maux que je sens pour elle ;
-Oiseaux, taisez-vous.
-Oiseaux, taisez-vous.
-
-La, la, la, la.
-
-Fa, fa, fa, fa.
-
-
-**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_tircis *date_1664 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_tircis
-
-Tu m'écoutes, hélas ! dans ma triste langueur ;
-Mais je n'en suis pas mieux, ô ! beauté sans pareille !
-Et je touche ton oreille,
-Sans que je touche ton cœur.
-
-Arbres épais, et vous prés émaillés,
-La beauté dont l'Hiver vous avait dépouillés
-Par le Printemps vous est rendue :
-Vous reprenez tous vos appas ;
-Mais mon âme ne reprend pas
-La joie, hélas ! que j'ai perdue.
-
-Ah ! quelle douceur extrême,
-De mourir pour ce qu'on aime. bis.
-
-Courage Moron ! meurs promptement
-En généreux Amant.
-
-
-**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_clymene *date_1664 *sexe_feminin *age_sans-age *statut_exterieur *fonction_autres *role_clymene
-
-Chère Philis, dis-moi, que crois-tu de l'Amour ?
-
-On m'a dit que sa flamme est pire qu'un Vautour,
-Et qu'on souffre en aimant une peine cruelle.
-
-À qui des deux donnerons-nous victoire ?
-
-Aimons, c'est le vrai moyen
-De savoir ce qu'on en doit croire.
-
-Amarante pour lui verse en tous lieux des larmes.
-
-Si sa flamme, Philis, est si pleine de charmes,
-Pourquoi nous défend-on d'en goûter les douceurs ?
-
-Qu'en croirons-nous, ou le mal ou le bien :
-
-
-**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_valets-de-chiens *date_1664 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_valetsdechiens
-
-Holà ? holà ? debout, debout, debout :
-Pour la Chasse ordonnée il faut préparer tout :
-Holà ? ho debout, vite debout.
-
-Sus, sus debout, vite debout !
-Qu'est-ce ci, Lyciscas ? quoi ? tu ronfles encore,
-Toi qui promettais tant de devancer l'Aurore ?
-Allons debout, vite debout,
-Pour la Chasse ordonnée il faut préparer tout,
-Debout, vite debout, dépêchons, debout.
-
-Lyciscas.
-
-Oh ! oh ! oh ! oh ! oh !
-
-
-**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_lyciscas *date_1664 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lyciscas
-
-Par la morbleu vous êtes de grands braillards vous autres,
-Et vous avez la gueule ouverte de bon matin !
-
-Hé ! laissez-moi dormir encore un peu je vous conjure !
-
-Je ne vous demande plus qu'un petit quart d'heure !
-
-Hé ! je vous prie !
-
-Un moment.
-
-De grâce.
-
-Eh.
-
-Je…
-
-J'aurai fait incontinent.
-
-Eh bien laissez-moi, je vais me lever : Vous êtes d'étranges gens de me tourmenter comme cela : vous serez cause que je ne me porterai pas bien de toute la journée ; car, voyez-vous, le sommeil est nécessaire à l'homme, et lorsqu'on ne dort pas sa réfection, il arrive… que… on est…
-
-Diable soit les brailleurs, je voudrais que vous eussiez la gueule pleine de bouillie bien chaude.
-
-Ah ! quelle fatigue, de ne pas dormir son soûl.
-
-Oh ! oh ! oh ! oh. La peste soit des gens avec leurs chiens de hurlements, je me donne au Diable si je ne vous assomme : Mais voyez un peu quel diable d'enthousiasme il leur prend, de me venir chanter aux oreilles comme cela, je…
-
-Encore.
-
-Le diable vous emporte.
-
-Quoi toujours ? a-t-on jamais vu une pareille furie de chanter ? par le sang bleu j'enrage, puisque me voilà éveillé il faut que j'éveille les autres, et que je les tourmente comme on m'a fait. Allons ho ? Messieurs, debout, debout, vite c'est trop dormir. Je vais faire un bruit de Diable partout, debout, debout, debout ; Allons vite, ho, ho, ho ! Debout, debout, pour la Chasse ordonnée il faut préparer tout, debout, debout, Lyciscas debout ! Ho ! ho ! ho ! ho ! ho.
-
-
-**** *creator_moliere *book_moliere_princessedelide *style_verse *genre_comedy *dist1_moliere_verse_comedy_princessedelide *dist2_moliere_verse_comedy *id_musiciens *date_1664 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_musiciens
-
-Ne vois-tu pas le jour qui se répand partout ?
-Allons debout, Lyciscas debout.
-
-Non, non debout, Lyciscas debout.
-
-Point, point debout, vite debout.
-
-Debout.
-
-Debout.
-
-Debout.
-
-Debout.
-
-Debout.
-
-Non, non debout, Lyciscas debout :
-Pour la Chasse ordonnée il faut préparer tout ;
-Vite debout, dépêchons, debout.
-
-Debout, debout vite debout, dépêchons debout.
-
-Debout.
-
-Debout.
-
-Debout.
-
+Madame, le Prince votre Père vient vous trouver ici, et conduit avec lui les Princes de Pyle, et d'Ithaque, et celui de Messène.
