@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_prixarquebuse *style_prose *genre_comedy *dist1_dancourt_prose_comedy_prixarquebuse *dist2_dancourt_prose_comedy *id_MONSIEURMARTIN *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurmartin
 
+
 Où allez-vous, ma fille ?
 
 Ne vous écartez pas, vous n'aurez pas la peine de revenir de loin. Et vous aussi, Nanette, j'ai à vous parler toutes deux : entendez-vous ?
@@ -155,8 +156,8 @@ Vous êtes trop modeste, je vous la donne.
 
 À la bonne heure, je serai défait de tout ce qui m'embarrasse, et j'épouse aussi votre sœur, Monsieur de Bracassak, pour me refaire une nouvelle famille, et pour me conformer à l'exemple.
 
-
 **** *creator_dancourt *book_dancourt_prixarquebuse *style_prose *genre_comedy *dist1_dancourt_prose_comedy_prixarquebuse *dist2_dancourt_prose_comedy *id_SOPHIE *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sophie
+
 
 Je ne me soucie point de toutes ces choses-là, ma cousine.
 
@@ -260,8 +261,8 @@ Qu'est-ce qu'il y a ?
 
 Et mon père ?
 
-
 **** *creator_dancourt *book_dancourt_prixarquebuse *style_prose *genre_comedy *dist1_dancourt_prose_comedy_prixarquebuse *dist2_dancourt_prose_comedy *id_NANETTE *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nanette
+
 
 Hé ! Qu'as-tu donc, ma chère ? Qu'as-tu donc, ma chère ? Je ne te connais plus ; toi qui es la fille du pays la plus enjouée, la plus gaillarde, la plus mièvre : te voilà tout je ne sais comment. Et depuis que ton père est devenu riche, et qu'il s'est fait Prévôt de la Ville, de simple Sergent qu'il était, depuis qu'il regorge de richesses, et que l'on dit qu'il a trouvé un trésor, il semble que cela te chagrine, et ta chance ne te tourne point à profit. Es-tu devenue folle ?
 
@@ -321,8 +322,8 @@ On n'est jamais Prophète en son pays, j'irai à Amiens, moi, et je vais retrouv
 
 Si vous vouliez, mon oncle, voilà un Monsieur d'Amiens, qui m'épouserait aussi aux mêmes conditions.
 
-
 **** *creator_dancourt *book_dancourt_prixarquebuse *style_prose *genre_comedy *dist1_dancourt_prose_comedy_prixarquebuse *dist2_dancourt_prose_comedy *id_MADEMOISELLEGIRAUT *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellegiraut
+
 
 Allégresse, Monsieur le Prévôt, allégresse, épanouissement de cœur, dilatation de rate, parfait abandonnement à la joie ; nous sommes les plus heureuses personnes du monde.
 
@@ -450,8 +451,8 @@ Ce sera pour moi, le joli petit homme ! Le joli petit homme !
 
 Voilà Monsieur Pruneau qui est fort riche aussi, mon frère.
 
-
 **** *creator_dancourt *book_dancourt_prixarquebuse *style_prose *genre_comedy *dist1_dancourt_prose_comedy_prixarquebuse *dist2_dancourt_prose_comedy *id_NICOLAS *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicolas
+
 
 Hé, parguenne oui, je sommes barsés avec ça ; et tous petits que j'étions, j'avons toujours eu ly et moi de la sympathie pour les armes. J'ai été anspeçade de la milice, moi, tel que vous me voyez.
 
@@ -515,8 +516,8 @@ Monsieur le Prévôt ? Il est tout ébahi, qui ne sait que dire comme tous les 
 
 Oh, palsangué ? Tout est d'accord. Il n'y a point eu de noise, c'est le victorieux que n'an ramène dans la Ville en çarimonie. Ils m'avont suivi de près ; vla un détachement de la bande : Chaque Tireux mène sa Tireuse par la main. Tatigué la belle ordonnance !
 
-
 **** *creator_dancourt *book_dancourt_prixarquebuse *style_prose *genre_comedy *dist1_dancourt_prose_comedy_prixarquebuse *dist2_dancourt_prose_comedy *id_GROSJEAN *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_grosjean
+
 
 Oh ! Tatigué, ne vous boutez pas en peine, tout ira bian, c'est moi qui m'en mêle : je sais le trantran, le çarimonial de l'Arquebuse à marveille.
 
@@ -574,8 +575,8 @@ C'est fort bian dit ; il vous faut une arme. En avez-vous une bonne ?
 
 Pargué vous n'êtes pas mal avisé, vous n'échayez pas mal, c'est une des meilleures, afin que vous le sachiais. Voyez-moi ça, il y a dix mille francs au bout de ce fusil-là, regardez-moi dedans.
 
-
 **** *creator_dancourt *book_dancourt_prixarquebuse *style_prose *genre_comedy *dist1_dancourt_prose_comedy_prixarquebuse *dist2_dancourt_prose_comedy *id_DORANTE *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+
 
 Je puis donc avec confiance lui déclarer les sentiments que j'ai pour vous, et lui demander en grâce…
 
@@ -695,8 +696,8 @@ Elle est pour moi d'un prix inestimable ; et si Monsieur ne s'oppose point à m
 
 Je jouis de vingt mille livres de rente, et je ne vous demande point de dot.
 
-
 **** *creator_dancourt *book_dancourt_prixarquebuse *style_prose *genre_comedy *dist1_dancourt_prose_comedy_prixarquebuse *dist2_dancourt_prose_comedy *id_MONSIEURPRUNEAU *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurpruneau
+
 
 Qu'il y a de jolies filles en ce pays-ci ! Si je pouvais donner dans la vue de quelqu'une, cela vaudrait morbleu mieux que le prix de l'Arquebuse ; et ma mère et mon oncle le Chanoine me l'ont bien dit, que c'était là qu'il fallait viser. En voici une qui n'est pas trop sotte.
 
@@ -735,4 +736,3 @@ Et moi, en attendant l'événement, je vais rejoindre ma Brigade ; et si je rem
 Moi, monsieur ? Je ne demande rien, pas même Mademoiselle.
 
 Et vous trop généreux. Je l'accepte : il faut bien retourner au pays avec quelque chose de nouveau.
-

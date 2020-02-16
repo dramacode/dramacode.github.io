@@ -2,6 +2,7 @@
 
 **** *creator_archambault *book_archambault_onfaitcequonpeut *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_onfaitcequonpeut *dist2_archambault_prose_proverbe *id_FRANVILLE *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_franville
 
+
 Parbleu ! C'est une cruelle chose qu'une entreprise nouvelle, où diable avais-je l'esprit quand j'ai imaginé de me mettre à la tête d'un Spectacle ! Mon Théâtre est construit à la vérité, mes décorations sont prêtes, c'est bien quelque chose ; mes pièces sont commandées... Il ne me manque plus que des acteurs pour les jouer. Voici vingt lettres de sujets qui se proposent, mais la peur que j'ai de faire de mauvaises acquisitions m'a retenu jusqu'à présent ; il faut pourtant finir. Voyons, récapitulons un peu ces lettres, et au risque d'être trompé, répondons à quelques-unes. Relisons d'abord celle-ci.
 " Monsieur, mes pleurs qui tombent dans mon cornet ont rendu mon encre si blanche, que vous aurez peine à lire ma lettre. "
 Voilà un beau début !
@@ -343,8 +344,8 @@ Comment, Monsieur, c'est vous qui m'avez ainsi promené toute la matinée. J'en 
 
 Monsieur, je suis charmé de vous connaître, allons d'abord nous mettre à table, nous terminerons notre affaire ensuite, et j'espère que nous aurons sujet d'être contents tous deux.
 
-
 **** *creator_archambault *book_archambault_onfaitcequonpeut *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_onfaitcequonpeut *dist2_archambault_prose_proverbe *id_LESOUFLEUR *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesoufleur
+
 
 Monsieur, je suis bien votre serviteur, j'ai l'honneur de vous saluer, je vous souhaite bien le bonjour, Monsieur.
 
@@ -394,8 +395,8 @@ Vous ne voyez que de la commune au moins, l'écriture de tous les jours, mais no
 
 Eh ! Bien ; je ne manquerai pas de m'y présenter, en attendant, je suis bien votre serviteur, Monsieur ; j'ai l'honneur de vous saluer, je vous souhaite bien le bonjour, Monsieur.
 
-
 **** *creator_archambault *book_archambault_onfaitcequonpeut *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_onfaitcequonpeut *dist2_archambault_prose_proverbe *id_LEVALET *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levalet
+
 
 Voyons s'il me reconnaîtra... Ah ! Monsieur le Directeur, vous voulez essayer les gens !.. Oh bien, je vais de mon côté essayer un peu votre patience.
 
@@ -441,8 +442,8 @@ Je connais fort peaucoup la flÉ»te.
 
 É‰crire, Monsir, écrire.
 
-
 **** *creator_archambault *book_archambault_onfaitcequonpeut *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_onfaitcequonpeut *dist2_archambault_prose_proverbe *id_LEANDRE *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+
 
 Monsieur, c'est pour avoir l'honneur de vous souhaiter le bonjour.
 
@@ -559,8 +560,8 @@ Ahi, ahi, ahi...
 
 Ahi, ahi !...
 
-
 **** *creator_archambault *book_archambault_onfaitcequonpeut *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_onfaitcequonpeut *dist2_archambault_prose_proverbe *id_POINTU *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pointu
+
 
 Votre serviteur de tout mon coeur.
 
@@ -614,8 +615,8 @@ Taisez-vous, vous êtes un drôle.
 
 Allons, ma femme, ça passe raillerie...
 
-
 **** *creator_archambault *book_archambault_onfaitcequonpeut *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_onfaitcequonpeut *dist2_archambault_prose_proverbe *id_MADAMEPOINTU *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamepointu
+
 
 Né, né, né, n'êtes-vous pas Mon, monsieur F. F. Fr. Franville ?
 
@@ -657,8 +658,8 @@ Ah ! Co co coquin, tu me perds le respect ? Attends, attends.
 
 Tiens, tiens, tu en auras...
 
-
 **** *creator_archambault *book_archambault_onfaitcequonpeut *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_onfaitcequonpeut *dist2_archambault_prose_proverbe *id_LABBE *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_labbe
+
 
 Monsieur, je vous baise les mains.
 
@@ -713,8 +714,8 @@ Vous êtes bien honnête, Monsieur, mais ma tante.
 
 Ma tante y est donc, Monsieur ?
 
-
 **** *creator_archambault *book_archambault_onfaitcequonpeut *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_onfaitcequonpeut *dist2_archambault_prose_proverbe *id_LECOMMISSAIRE *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecommissaire
+
 
 Qu'est-ce que c'est donc, Monsieur, qu'est-ce que c'est donc ? L'on me fait des plaintes contre vous.
 
@@ -747,8 +748,8 @@ Monsieur, je suis le jeune homme dont auquel.
 Ly être la commissionaire de la lettre, Monsir.
 Je viens, Monsieur, vous représenter le billet d'entrée que vous m'avez fourni pour savoir, Monsieur, si vous aviez besoin de mon petit service.
 
-
 **** *creator_archambault *book_archambault_onfaitcequonpeut *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_onfaitcequonpeut *dist2_archambault_prose_proverbe *id_LEFIACRE *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lefiacre
+
 
 Parlez donc, Monsieur, est-ce qu'on se gobarge de moi donc, de me faire rester comme une enseigne par le temps qu'il fait ?
 
@@ -778,4 +779,3 @@ Ah ! Ventrebleu, ne nous poussez pas, car je sommes rétifs, je vous en avertis,
 
 Eh ! Donc ! Eh ! Donc note bourgeois.
 Dia, dia, bride en main. Le Commissaire demeure ici devant. J'allons savoir la définition de ça.
-

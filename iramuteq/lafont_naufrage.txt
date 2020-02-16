@@ -2,6 +2,7 @@
 
 **** *creator_lafont *book_lafont_naufrage *style_verse *genre_comedy *dist1_lafont_verse_comedy_naufrage *dist2_lafont_verse_comedy *id_LEGOUVERNEUR *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_legouverneur
 
+
 Comment donc ! À nos lois faire une telle injure !
 Je vous rendrai justice, et je vous en assure.
 
@@ -152,8 +153,8 @@ Qu'à les bien réjouir chacun de vous s'emploie ;
 Et, selon notre loi, nous ferons, dès demain.
 Pour surcroît de plaisir, les noces de Crispin.
 
-
 **** *creator_lafont *book_lafont_naufrage *style_verse *genre_comedy *dist1_lafont_verse_comedy_naufrage *dist2_lafont_verse_comedy *id_PIRACMON *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_piracmon
+
 
 Oui, je sais le mystère.
 
@@ -264,8 +265,8 @@ Il n'ait dessein... Mais, chut... j'entends les instruments...
 La victime paraît, couverte de guirlandes...
 Viens-t'en, et joignons-nous à ces joyeuses bandes.
 
-
 **** *creator_lafont *book_lafont_naufrage *style_verse *genre_comedy *dist1_lafont_verse_comedy_naufrage *dist2_lafont_verse_comedy *id_ELIANTE *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eliante
+
 
       Eh bien !
 Après huit jours entiers je n'espère plus rien...
@@ -345,8 +346,8 @@ En me rendant Licandre on me rend à la vie.
 
       Seigneur, que de bontés !
 
-
 **** *creator_lafont *book_lafont_naufrage *style_verse *genre_comedy *dist1_lafont_verse_comedy_naufrage *dist2_lafont_verse_comedy *id_MARINE *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marine
+
 
 Vous avez beau compter, depuis notre naufrage,
 Depuis que nous restons chez ce peuple sauvage,
@@ -478,8 +479,8 @@ Venez chercher de la cendre.
 Est-il une plus belle mort ?
 Chantons, dansons, et célébrons son sort.
 
-
 **** *creator_lafont *book_lafont_naufrage *style_verse *genre_comedy *dist1_lafont_verse_comedy_naufrage *dist2_lafont_verse_comedy *id_LICANDRE *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_licandre
+
 
       Seigneur, je suis un étranger ;
 Sans secours, sans espoir, dons un pressant danger,
@@ -528,8 +529,8 @@ Je ne la quitte point.
 
       C'est mon valet.
 
-
 **** *creator_lafont *book_lafont_naufrage *style_verse *genre_comedy *dist1_lafont_verse_comedy_naufrage *dist2_lafont_verse_comedy *id_CRISPIN *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
+
 
 Bonjour...
       Bonjour.
@@ -744,3 +745,28 @@ Peut couler à fond aujourd'hui ;
 Mais, en lui prêtant votre appui,
 Vous le sauverez du naufrage.
 
+**** *creator_lafont *book_lafont_naufrage *style_verse *genre_comedy *dist1_lafont_verse_comedy_naufrage *dist2_lafont_verse_comedy *id_LAGRANDEPRETRESSE *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lagrandepretresse
+
+
+D'un long veuvage on n'a point l'amertume
+En suivant sa femme au tombeau.
+De ce pays bénissez la coutume :
+Brûlez, brûlez d'un feu nouveau.
+Ici quand l'Hymen éteint son flambeau,
+L'Amour aussitôt le rallume.
+
+Dans ses yeux sa joie est bien peinte.
+Qu'il est content ! Qu'il est heureux !
+Nous l'allons voir dans les feux,
+Sans qu'il pousse aucune plainte.
+Est-il une plus belle mort ?
+Chantons, dansons, et célébrons son sort,
+
+Si vous voulez, malgré l'orage,
+Voguer encore en ce beau jour,
+Que ce soit sur la mer d'Amour :
+Il est beau d'y faire naufrage.
+L'Amour en quittant le rivage
+Promet toujours un heureux sort
+Avec lui, jusque dans le port,
+Il est beau de faire naufrage.

@@ -2,6 +2,7 @@
 
 **** *creator_racine *book_racine_mithridate *style_verse *genre_tragedy *dist1_racine_verse_tragedy_mithridate *dist2_racine_verse_tragedy *id_MITHRIDATE *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mithridate
 
+
 Princes, quelques raisons que vous me puissiez dire
 Votre devoir ici n'a point dû vous conduire,
 Ni vous faire quitter en de si grands besoins
@@ -639,8 +640,8 @@ Je sens que je me meurs. Approchez-vous, mon fils.
 Dans cet embrassement dont la douceur me flatte,
 Venez, et recevez l'âme de Mithridate.
 
-
 **** *creator_racine *book_racine_mithridate *style_verse *genre_tragedy *dist1_racine_verse_tragedy_mithridate *dist2_racine_verse_tragedy *id_MONIME *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_monime
+
 
 Seigneur, je viens à vous. Car enfin aujourd'hui
 Si vous m'abandonnez, quel sera mon appui ?
@@ -1165,8 +1166,8 @@ Pour venger...
 
 Il expire.
 
-
 **** *creator_racine *book_racine_mithridate *style_verse *genre_tragedy *dist1_racine_verse_tragedy_mithridate *dist2_racine_verse_tragedy *id_PHARNACE *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pharnace
+
 
 Jusques à quand, Madame, attendrez-vous mon père ?
 Des témoins de sa mort viennent à tous moments
@@ -1317,8 +1318,8 @@ Et ce fils si fidèle a dû vous faire entendre,
 Que des mêmes ardeurs dès longtemps enflammé,
 Il aime aussi la reine, et même en est aimé.
 
-
 **** *creator_racine *book_racine_mithridate *style_verse *genre_tragedy *dist1_racine_verse_tragedy_mithridate *dist2_racine_verse_tragedy *id_XIPHARES *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_xiphares
+
 
 On nous faisait, Arbate, un fidèle rapport.
 Rome en effet triomphe, et Mithridate est mort.
@@ -1707,8 +1708,8 @@ N'éprouvent pas bientôt...
       Ah, Madame ! unissons nos douleurs,
 Et par tout l'univers cherchons-lui des vengeurs.
 
-
 **** *creator_racine *book_racine_mithridate *style_verse *genre_tragedy *dist1_racine_verse_tragedy_mithridate *dist2_racine_verse_tragedy *id_ARBATE *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arbate
+
 
 Vous, Seigneur ! Quoi ? l'ardeur de régner en sa place
 Rend déjà Xipharès ennemi de Pharnace ?
@@ -1887,8 +1888,8 @@ M'ont donné pour courir une force nouvelle,
 Et malgré nos malheurs, je me tiens trop heureux
 D'avoir paré le coup qui vous perdait tous deux.
 
-
 **** *creator_racine *book_racine_mithridate *style_verse *genre_tragedy *dist1_racine_verse_tragedy_mithridate *dist2_racine_verse_tragedy *id_PHOEDIME *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phoedime
+
 
 Princes, toute la mer est de vaisseaux couverte,
 Et bientôt démentant le faux bruit de sa mort
@@ -1973,8 +1974,8 @@ Malheureuse Princesse !
 
 Hélas !
 
-
 **** *creator_racine *book_racine_mithridate *style_verse *genre_tragedy *dist1_racine_verse_tragedy_mithridate *dist2_racine_verse_tragedy *id_ARCAS *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
+
 
 Seigneur, tout est perdu. Les rebelles, Pharnace,
 Les Romains sont en foule autour de cette place.
@@ -1987,4 +1988,3 @@ Madame. On m'a chargé d'un plus funeste emploi,
 Et ce poison vous dit la volonté du roi.
 
       Que faites-vous, Arbate ?
-

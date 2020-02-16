@@ -2,6 +2,7 @@
 
 **** *creator_corneillet *book_corneillet_maximian *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_maximian *dist2_corneillet_verse_tragedy *id_CONSTANTIN *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_constantin
 
+
 Je l'avais bien prévu, que cette résistance
 Venait d'un feu secret qui plaît trop à Constance,
 Sans mon ordre en son coeur ce feu s'est allumé,
@@ -490,8 +491,8 @@ M'aura tiré du trouble où ce revers m'engage,
 Licine aura sujet d'oublier son malheur,
 Par le rang de Sévère, et l'hymen de ma Soeur.
 
-
 **** *creator_corneillet *book_corneillet_maximian *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_maximian *dist2_corneillet_verse_tragedy *id_MAXIMIAN *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maximian
+
 
 Cette gloire où pour lui je vois que l'on s'obstine,
 A lieu d'être sensible au généreux Licine,
@@ -1140,8 +1141,8 @@ Qu'au Trône par ma mort Maximian aspire !
 Lui qui dans mes États plus Souverain que moi,
 Puisqu'il voulait régner, pouvait donner la loi !
 
-
 **** *creator_corneillet *book_corneillet_maximian *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_maximian *dist2_corneillet_verse_tragedy *id_FAUSTE *date_1662 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fauste
+
 
 Seigneur, sa passion n'a pu si bien se taire,
 Qu'au malheur qui la suit son transport n'ait cédé,
@@ -1458,8 +1459,8 @@ Mais qu'il vive, et s'il faut qu'enfin le sang efface...
 
       Ah, Seigneur.
 
-
 **** *creator_corneillet *book_corneillet_maximian *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_maximian *dist2_corneillet_verse_tragedy *id_CONSTANCE *date_1662 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_constance
+
 
 Ces soins de m'élever à la grandeur suprême
 Sont sans doute l'effet d'une tendresse extrême,
@@ -1674,8 +1675,8 @@ Vous le voyez, Seigneur, si j'ai dû vous répondre
 Que bravant l'imposture il saurait la confondre.
 Son retour à sa gloire assure assez l'éclat.
 
-
 **** *creator_corneillet *book_corneillet_maximian *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_maximian *dist2_corneillet_verse_tragedy *id_SEVERE *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_severe
+
 
 Madame, pour commettre une telle injustice,
 Je dois trop de respect à mon Impératrice.
@@ -2028,8 +2029,8 @@ Et que malgré le sort à ma perte animé,
 Je serais innocent si j'avais moins aimé.
 C'en est fait, et déjà...
 
-
 **** *creator_corneillet *book_corneillet_maximian *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_maximian *dist2_corneillet_verse_tragedy *id_LICINE *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_licine
+
 
 Seigneur, je le confesse, on ne peut plus rien faire,
 Dont la gloire ne cède à celle de Sévère ;
@@ -2233,8 +2234,8 @@ Si m'étant confronté je ne le fais dédire,
 Je demeure coupable, et c'est moi qui conspire.
 Qu'attends-je de sa fuite, et quel est mon espoir ?
 
-
 **** *creator_corneillet *book_corneillet_maximian *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_maximian *dist2_corneillet_verse_tragedy *id_MAXIME *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maxime
+
 
       L'Empereur demande à vous parler.
 
@@ -2261,8 +2262,8 @@ Qu'on me porte, a-t-il dit, aux pieds de l'Empereur,
 J'ai beaucoup à lui dire. Il n'achève qu'à peine,
 Et sa voix... Mais, Seigneur, le voici qu'on amène.
 
-
 **** *creator_corneillet *book_corneillet_maximian *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_maximian *dist2_corneillet_verse_tragedy *id_MARTIAN *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_martian
+
 
 Vous le ferez sans peine, et la secrète rage
 Où la perte de Fauste abîme son courage,
@@ -2341,8 +2342,8 @@ Je vois toujours pour moi la mort inévitable,
 Et si le crime un jour au Trône vous fait seoir,
 Il suffit qu'en mourant j'aurai fait mon devoir.
 
-
 **** *creator_corneillet *book_corneillet_maximian *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_maximian *dist2_corneillet_verse_tragedy *id_FLAVIE *date_1662 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_flavie
+
 
 Quoi ! Parmi tant d'honneurs, et de pompe et de gloire,
 Vous conservez, Madame, une humeur sombre et noire,
@@ -2357,3 +2358,14 @@ Le rang d'Impératrice est un faible secours ?
 
       Il vient ici, Madame, songez bien...
 
+**** *creator_corneillet *book_corneillet_maximian *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_maximian *dist2_corneillet_verse_tragedy *id_LUCIE *date_1662 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucie
+
+
+J'en soupire pour vous, et tremble pour Licine,
+Et si de ce revers votre coeur combattu
+N'en trouvait le remède en sa propre vertu...
+
+J'ose encor me flatter d'un succès plus propice,
+S'il est vrai que Sévère aime l'Impératrice ;
+L'Empereur s'en alarme, et sur un tel souci,
+S'armant contre Licine, on dit... Mais le voici.

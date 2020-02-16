@@ -2,6 +2,7 @@
 
 **** *creator_diderot *book_diderot_pieceprologue *style_prose *genre_comedy *dist1_diderot_prose_comedy_pieceprologue *dist2_diderot_prose_comedy *id_MADAMEDECHEPY *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamedechepy
 
+
 Picard, écoutez-moi. Je vous défends d'ici à huit jours d'aller chez votre femme ; entendez-vous ?
 
 En effet, c'est fort pressé d'aller faire un gueux de plus ; comme si l'on en manquait.
@@ -128,8 +129,8 @@ Je gage qu'il est de la dame Servin, et que ma prédiction est accomplie. J'en s
 
 Est-il bon? Est-il méchant?
 
-
 **** *creator_diderot *book_diderot_pieceprologue *style_prose *genre_comedy *dist1_diderot_prose_comedy_pieceprologue *dist2_diderot_prose_comedy *id_MADAMEBERTRAND *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamebertrand
+
 
 Permettez, monsieur, que je m'asseye ; je suis excédée de fatigue : j'ai fait aujourd'hui les quatre coins de Paris, et je crois que j'ai vu toute la terre.
 
@@ -291,8 +292,8 @@ Me voilà réhabilitée dans votre esprit. Mais le ministre ? Mais sa femme ?...
 
 Et je n'ai point à rougir...
 
-
 **** *creator_diderot *book_diderot_pieceprologue *style_prose *genre_comedy *dist1_diderot_prose_comedy_pieceprologue *dist2_diderot_prose_comedy *id_MADEMOISELLEBEAULIEU *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mademoisellebeaulieu
+
 
 Non, Madame, c'est dans quatre.
 
@@ -389,8 +390,8 @@ Ne voilà-t-il pas que vous me brouillez, et que je ne sais plus où j'en suis.
 
 Tour à tour.
 
-
 **** *creator_diderot *book_diderot_pieceprologue *style_prose *genre_comedy *dist1_diderot_prose_comedy_pieceprologue *dist2_diderot_prose_comedy *id_MONSIEURHARDOUIN *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurhardouin
+
 
 Si ma porte n'avait pas cédé il était mort.
 
@@ -817,8 +818,8 @@ C'est que vous ne l'avez pas faite.
 
 Comme tout le monde.
 
-
 **** *creator_diderot *book_diderot_pieceprologue *style_prose *genre_comedy *dist1_diderot_prose_comedy_pieceprologue *dist2_diderot_prose_comedy *id_MONSIEURRENARDEAU *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurrenardeau
+
 
 Je vous le pardonne, car elle est, ma foi, charmante.
 
@@ -925,8 +926,8 @@ Tant pis pour elle.
 
 C'est sa mine hypocrite qu'il fallait voir ; c'est son discours pathétique qu'il fallait entendre, lorsqu'il s'affligeait sur la mort de sa soeur.
 
-
 **** *creator_diderot *book_diderot_pieceprologue *style_prose *genre_comedy *dist1_diderot_prose_comedy_pieceprologue *dist2_diderot_prose_comedy *id_MONSIEURPOULTIER *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurpoultier
+
 
 Vous êtes un indigne ; je ne devrais pas vous apercevoir. Y a-t-il deux ans que vous me promettez, de semaine en semaine, de venir dîner avec nous ? Il est vrai qu'on m'a dit que c'était par cette raison qu'il n'y fallait pas compter. Mais, rancune tenante, que me voulez-vous ?
 
@@ -1020,8 +1021,8 @@ Le scélérat ! L'insigne scélérat ! Je croyais m'amuser de lui, et c'est lui 
 
 Non, non, madame... Mais je venais partager votre joie, et je crains de l'avoir troublée.
 
-
 **** *creator_diderot *book_diderot_pieceprologue *style_prose *genre_comedy *dist1_diderot_prose_comedy_pieceprologue *dist2_diderot_prose_comedy *id_MONSIEURDESURMONT *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdesurmont
+
 
 Pourrait-on vous demander ce que vous faites ici ?
 
@@ -1081,8 +1082,8 @@ Mademoiselle, parmi ces enfants-là, n'y en aurait-il pas un que vous aimeriez m
 
 Nous chantions quelques couplets à l'honneur de madame de Malves, et nous allons les reprendre,
 
-
 **** *creator_diderot *book_diderot_pieceprologue *style_prose *genre_comedy *dist1_diderot_prose_comedy_pieceprologue *dist2_diderot_prose_comedy *id_PICARD *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_picard
+
 
 Huit jours ! C'est bien long.
 
@@ -1094,8 +1095,8 @@ Ahi ! Ahi !
 
 Je ne les ai pas vus. Il y a quatre marches à la porte du tapissier ; j'ai voulu les enjamber toutes quatre à la fois ; le pied m'a tourné et je me suis donné une bonne entorse. Ahi ! ahi !
 
-
 **** *creator_diderot *book_diderot_pieceprologue *style_prose *genre_comedy *dist1_diderot_prose_comedy_pieceprologue *dist2_diderot_prose_comedy *id_FLAMAND *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_flamand
+
 
 Il est midi.
 
@@ -1117,4 +1118,3 @@ Hé ! Madame, le voilà... je le reconnais... c'est lui... c'est, ma foi, bienhe
 Allons, mademoiselle, obéissez à votre maîtresse. Donnez-moi le bras. Comme il est rond ! Comme il est ferme !...
 
 Madame, puisque mademoiselle fait tout ce que vous lui dites...
-

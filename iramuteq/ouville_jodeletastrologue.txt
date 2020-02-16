@@ -2,6 +2,7 @@
 
 **** *creator_ouville *book_ouville_jodeletastrologue *style_verse *genre_comedy *dist1_ouville_verse_comedy_jodeletastrologue *dist2_ouville_verse_comedy *id_tindare *date_1646 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_tindare
 
+
 Ayant devant mes yeux le Soleil que je voy,
 Puis-je m'imaginer qu'il vient derriere moy ?
 Madame, en m'absentant de l'Astre que j'adore,
@@ -214,8 +215,8 @@ Je suis ravi, Monsieur, de l'heur⁎ que je reçoy.
 
 Moy, le parfait objet⁎ pour qui mon cœur souspire.
 
-
 **** *creator_ouville *book_ouville_jodeletastrologue *style_verse *genre_comedy *dist1_ouville_verse_comedy_jodeletastrologue *dist2_ouville_verse_comedy *id_liliane *date_1646 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_liliane
+
 
 NE faites point, Tindare, ici plus long sejour,
 De grace allez vous-en, vous voyez qu'il est jour,
@@ -486,8 +487,8 @@ Que ta science est fausse, et que tu n'és qu'un sot.
 
 Si mon pere y consent, Jodelet, je le veux.
 
-
 **** *creator_ouville *book_ouville_jodeletastrologue *style_verse *genre_comedy *dist1_ouville_verse_comedy_jodeletastrologue *dist2_ouville_verse_comedy *id_nise *date_1646 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_nise
+
 
 Dequoy vous plaignez-vous ? je ne sçay pas, Madame,
 Qui vous peut exciter⁎ tant de troubles dans l'ame ?
@@ -773,8 +774,8 @@ Dans le jardin, Madame, il vient avec Timandre.
 
 J'ay tout ce que je veux.
 
-
 **** *creator_ouville *book_ouville_jodeletastrologue *style_verse *genre_comedy *dist1_ouville_verse_comedy_jodeletastrologue *dist2_ouville_verse_comedy *id_timandre *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_timandre
+
 
 Madame, moderez ce violent courroux,
 Faut-il que la colere à ce poinct vous transporte⁎ ?
@@ -1235,8 +1236,8 @@ Des plaisirs infinis où le Ciel vous convie
 Sans qu'à vostre bonheur je porte nulle envie.
 Et pour toy, Jodelet, rens l'argent à Moron.
 
-
 **** *creator_ouville *book_ouville_jodeletastrologue *style_verse *genre_comedy *dist1_ouville_verse_comedy_jodeletastrologue *dist2_ouville_verse_comedy *id_jodelet *date_1646 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_jodelet
+
 
 Quoy Monsieur, vous souffrez⁎ que l'on vous traite ainsi ?
 Si vous le voulez bien, je le veux bien aussi,
@@ -1744,8 +1745,8 @@ Et moy content aussi, je vous dis, en un mot,
 Que je ne suis devin, Astrologue⁎, ny sot.
 Fin de la Comedie de Jodelet Astrologue.
 
-
 **** *creator_ouville *book_ouville_jodeletastrologue *style_verse *genre_comedy *dist1_ouville_verse_comedy_jodeletastrologue *dist2_ouville_verse_comedy *id_acaste *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_acaste
+
 
       QUi vous rend ainsi triste?
 
@@ -1921,8 +1922,8 @@ Dont tu repais en vain cet amoureux transi ?
 
 Ce n'est pas mal pensé, mais que veut ce Vieillard ?
 
-
 **** *creator_ouville *book_ouville_jodeletastrologue *style_verse *genre_comedy *dist1_ouville_verse_comedy_jodeletastrologue *dist2_ouville_verse_comedy *id_ariste *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ariste
+
 
 Qu'avez-vous à me dire ?
 
@@ -2208,8 +2209,8 @@ Que Jacinte m'aimoit, et n'aimoit plus Tindare ?
 Le contraire paroist, et tu vois, en un mot,
 Que ta science est fausse, et que tu n'és qu'un sot.
 
-
 **** *creator_ouville *book_ouville_jodeletastrologue *style_verse *genre_comedy *dist1_ouville_verse_comedy_jodeletastrologue *dist2_ouville_verse_comedy *id_jacinte *date_1646 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_jacinte
+
 
 Vous avez de vous-mesme entiere authorité,
 Monsieur, mais dites-moy quelles bonnes nouvelles
@@ -2513,8 +2514,8 @@ Quoy qu'il me rebutast⁎, m'adoroit en son ame ?
 S'il en espouse une autre, on voit bien, en un mot,
 Que ta science est fausse, et que tu n'és qu'un sot.
 
-
 **** *creator_ouville *book_ouville_jodeletastrologue *style_verse *genre_comedy *dist1_ouville_verse_comedy_jodeletastrologue *dist2_ouville_verse_comedy *id_julie *date_1646 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_julie
+
 
 LE disois-je pas bien ? c'est Ariste, Madame.
 
@@ -2568,8 +2569,8 @@ Mais vous trompez-vous point, Madame, la premiere ?
 
 En ce poinct il perdra sans doute son credit.
 
-
 **** *creator_ouville *book_ouville_jodeletastrologue *style_verse *genre_comedy *dist1_ouville_verse_comedy_jodeletastrologue *dist2_ouville_verse_comedy *id_arimant *date_1646 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_arimant
+
 
 QUel est ce Cavalier⁎ ?
 
@@ -2744,8 +2745,8 @@ Je vous donne ma fille et vous reçois pour gendre.
 
 Ouy, je suis tres-content de seconder leurs vœux⁎.
 
-
 **** *creator_ouville *book_ouville_jodeletastrologue *style_verse *genre_comedy *dist1_ouville_verse_comedy_jodeletastrologue *dist2_ouville_verse_comedy *id_moron *date_1646 *sexe_masculin *age_veteran *statut_serviteur *fonction_valet *role_moron
+
 
 AMy, pour te trouver j'estois fort en soucy⁎,
 J'ay bien besoin de toy pour un certain affaire,
@@ -2808,4 +2809,3 @@ Si je suis dans Paris, tu vois bien, en un mot,
 Que ta science est fausse, et que tu n'és qu'un sot.
 
 Ah ! Messieurs ? Jodelet m'a desrobé ma bourse.
-

@@ -2,6 +2,7 @@
 
 **** *creator_desjardins *book_desjardins_favori *style_verse *genre_tragicomedie *dist1_desjardins_verse_tragicomedie_favori *dist2_desjardins_verse_tragicomedie *id_MONCADE *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moncade
 
+
 Enfin nous voilà seuls, cette foule importune
 Qu'attache auprès de moi l'éclat de ma fortune,
 Me traite ce matin si favorablement,
@@ -438,8 +439,8 @@ Partageons désormais la faveur de mon Roi.
 
 Prince...
 
-
 **** *creator_desjardins *book_desjardins_favori *style_verse *genre_tragicomedie *dist1_desjardins_verse_tragicomedie_favori *dist2_desjardins_verse_tragicomedie *id_CLOTAIRE *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clotaire
+
 
 Ah, ah, je vous y prends notre cher Solitaire,
 Toute la Cour chez vous attend votre réveil,
@@ -624,8 +625,8 @@ Après cela, grands Dieux, que pourrait-elle dire. !
 
 Qu'entends-je, qu'ai-je fait ; ah ! Désespoir, ah ! Rage.
 
-
 **** *creator_desjardins *book_desjardins_favori *style_verse *genre_tragicomedie *dist1_desjardins_verse_tragicomedie_favori *dist2_desjardins_verse_tragicomedie *id_LINDAMIRE *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lindamire
+
 
 
 
@@ -1035,8 +1036,8 @@ Ordonnez même peine, et de semblables feux.
 Ah Roi, de tous les Rois le plus incomparable,
 Qu'à jamais ce grand jour vous rende mémorable.
 
-
 **** *creator_desjardins *book_desjardins_favori *style_verse *genre_tragicomedie *dist1_desjardins_verse_tragicomedie_favori *dist2_desjardins_verse_tragicomedie *id_DONAELVIRE *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donaelvire
+
 
 Hé venez Léonor.
 
@@ -1368,8 +1369,8 @@ Vive l'amour commode et la bonne amitié.
       Et vous la politique,
 Prenez-vous grande part en la fête publique ?
 
-
 **** *creator_desjardins *book_desjardins_favori *style_verse *genre_tragicomedie *dist1_desjardins_verse_tragicomedie_favori *dist2_desjardins_verse_tragicomedie *id_LEONOR *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leonor
+
 
 Vous vous moquez de moi Dona Elvire, ou je meure
 De me faire sortir de ma chambre à cette heure,
@@ -1468,8 +1469,8 @@ Quel revers !
 Tout cela ne vaut pas la peine d'en parler,
 Et Dom Lope m'attend qui m'en va consoler.
 
-
 **** *creator_desjardins *book_desjardins_favori *style_verse *genre_tragicomedie *dist1_desjardins_verse_tragicomedie_favori *dist2_desjardins_verse_tragicomedie *id_DONALVAR *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donalvar
+
 
       Pour un pareil dessein,
 Vous avez oublié qu'il est un peu matin.
@@ -1632,8 +1633,8 @@ Je me soumets, Seigneur, au plus cruel trépas...
 
 J'ai satisfait mon coeur, et n'ai servi que moi.
 
-
 **** *creator_desjardins *book_desjardins_favori *style_verse *genre_tragicomedie *dist1_desjardins_verse_tragicomedie_favori *dist2_desjardins_verse_tragicomedie *id_CARLOS *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_carlos
+
 
       Seigneur
 Il est seul dans sa chambre et par moi vous ordonne
@@ -1659,4 +1660,3 @@ Il faudrait s'il vous plaît...
 Et nous aurons lassé sa juste impatience.
 
       J'en vais prendre le soin.
-

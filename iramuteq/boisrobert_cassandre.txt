@@ -2,6 +2,7 @@
 
 **** *creator_boisrobert *book_boisrobert_cassandre *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_cassandre *dist2_boisrobert_verse_tragedy *id_cassandre *date_1654 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cassandre
 
+
 Qv'on ne m'en parle plus à moins que me desplaire :
 Ah c'est trop me presser sur ce choix odieux !
 Ne precipitons rien, laissons-le faire aux Dieux.
@@ -709,8 +710,8 @@ Allons rendre le calme à leurs espris troublez⁎.
 Suiuez moy, hastons nous de leur donner vn Prince ;
 Et par ce digne choix rasseurons⁎ la Prouince.
 
-
 **** *creator_boisrobert *book_boisrobert_cassandre *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_cassandre *dist2_boisrobert_verse_tragedy *id_le-dvc *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledvc
+
 
 Enfin voicy le jour tant de fois souhaitté,
 Nostre Princesse arriue à sa majorité,
@@ -1090,8 +1091,8 @@ Que j'en eusse eu de joye.
 
 Ie veux auec plaisir ce que veut ma Princesse.
 
-
 **** *creator_boisrobert *book_boisrobert_cassandre *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_cassandre *dist2_boisrobert_verse_tragedy *id_astolfe *date_1654 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_astolfe
+
 
 Si vos sages conseils pour elle ont esté vains,
 Croyez-vous que les miens renuersent ses desseins ?
@@ -1426,8 +1427,8 @@ Cette sœur que j'adore ?
 
 O bonté sans exemple.
 
-
 **** *creator_boisrobert *book_boisrobert_cassandre *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_cassandre *dist2_boisrobert_verse_tragedy *id_isabelle *date_1654 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_isabelle
+
 
 D'où vous naist ce chagrin, mon frere qu'auez vous ?
 
@@ -1598,8 +1599,8 @@ Si mon Pere y consent, que vostre peine cesse.
 S'il sent bien les douceurs que le Ciel nous enuoye,
 Il noira ses douleurs dans la publique joye.
 
-
 **** *creator_boisrobert *book_boisrobert_cassandre *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_cassandre *dist2_boisrobert_verse_tragedy *id_moncade *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moncade
+
 
 Don Pedre, je le veux, si le Ciel l'a permis,
 Nous pouuons demeurer⁎ riuaux, & bons amis,
@@ -1868,8 +1869,8 @@ S'il est vray que nos vœux⁎ ne soient pas mesprisez.
 Allons, puis que le Ciel nous veut fauoriser⁎,
 Et consoler Dom Pedre & le desabuser.
 
-
 **** *creator_boisrobert *book_boisrobert_cassandre *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_cassandre *dist2_boisrobert_verse_tragedy *id_don-pedre *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donpedre
+
 
 Suiuons doncques l'accord entre-nous arresté⁎,
 Moncade, aymons tous deux cette jeune beauté ;
@@ -2031,8 +2032,8 @@ Vous rendroit plus heureux.
 Vn cœur genereux⁎ cede aux volontez du sort,
 Adieu resoluez vous, vous sçauez nostre accord.
 
-
 **** *creator_boisrobert *book_boisrobert_cassandre *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_cassandre *dist2_boisrobert_verse_tragedy *id_don-lope *date_1654 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_donlope
+
 
 Don Remon de Moncade & Don Pedre, Madame,
 Viennent vers vostre Altesse.
@@ -2066,8 +2067,8 @@ Rendez moy vostre espée.
 
       Suiuez moy.
 
-
 **** *creator_boisrobert *book_boisrobert_cassandre *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_cassandre *dist2_boisrobert_verse_tragedy *id_beralde *date_1654 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_beralde
+
 
 Ouy, Seigneur.
 
@@ -2189,8 +2190,8 @@ Et suis vers vostre Altesse accouru promptement.
 
 Ouy, Seigneur, les voicy.
 
-
 **** *creator_boisrobert *book_boisrobert_cassandre *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_cassandre *dist2_boisrobert_verse_tragedy *id_dom-bernard *date_1654 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_dombernard
+
 
 Nous allons contenter vostre esprit curieux,
 Ie vay vous détromper, Astolfe, & vous surprendre ;
@@ -2272,4 +2273,3 @@ Madame, en la voyant, de ma fidelité,
 Elle ne contient rien que cette verité
 Qu'alors je n'osé dire, & que je ne pus taire,
 Au lieu du testament, que je feignis de faire.
-

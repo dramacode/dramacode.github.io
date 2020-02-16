@@ -1,6 +1,7 @@
 
 
-**** *creator_aure *book_aure_dipne *style_verse *genre_tragedy *dist1_aure_verse_tragedy_dipne *dist2_aure_verse_tragedy *id_DIPNE *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_dipne
+**** *creator_aure *book_aure_dipne *style_verse *genre_tragedy *dist1_aure_verse_tragedy_dipne *dist2_aure_verse_tragedy *id_DIPNE *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_dipne
+
 
 Nourrice, au nom de Dieu quittez-moi ce langage.
 
@@ -519,8 +520,8 @@ Et pour ce changement le Ciel pourvoira.
 
 Sire, j'y veillerai.
 
-
 **** *creator_aure *book_aure_dipne *style_verse *genre_tragedy *dist1_aure_verse_tragedy_dipne *dist2_aure_verse_tragedy *id_LEROI *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
+
 
 En auront-nous l'affront, que deux âmes subtiles
 Rendent tous mes efforts et tes soins inutiles ?
@@ -905,8 +906,8 @@ Pour aller voir ma Dipné au chemin de ta loi.
       Conduis, guide et gouverne
 Mes États au chemin de Dipné et de Gerberne.
 
-
 **** *creator_aure *book_aure_dipne *style_verse *genre_tragedy *dist1_aure_verse_tragedy_dipne *dist2_aure_verse_tragedy *id_GERBERNE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gerberne
+
 
       Ô Dieux quelle détresse !
 
@@ -1084,8 +1085,8 @@ Qu'on avait donné d'en faire votre femme.
 Chère Princesse, au Ciel faut-il enfin nous rendre
 Au Ciel, au Ciel, au Ciel, où je vais vous attendre.
 
-
 **** *creator_aure *book_aure_dipne *style_verse *genre_tragedy *dist1_aure_verse_tragedy_dipne *dist2_aure_verse_tragedy *id_GELASE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gelase
+
 
 Madame, je vous viens avertir couramment
 Que Gerberne paraît en un ravissement.
@@ -1179,8 +1180,8 @@ Si son coeur a failli, que nos coeurs soient punis
 Sire armez derechef votre main vengeresse,
 Et mêlez notre sang au sang de la Princesse.
 
-
 **** *creator_aure *book_aure_dipne *style_verse *genre_tragedy *dist1_aure_verse_tragedy_dipne *dist2_aure_verse_tragedy *id_AMBROKELE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ambrokele
+
 
 Mais pourquoi ?
 
@@ -1330,8 +1331,8 @@ Ha Sire !
 
 Hélas ! Je suis Chrétienne.
 
-
 **** *creator_aure *book_aure_dipne *style_verse *genre_tragedy *dist1_aure_verse_tragedy_dipne *dist2_aure_verse_tragedy *id_MOGALE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mogale
+
 
       Sire les mêmes lois
 Données pour les Dieux sont faites pour les Rois.
@@ -1545,8 +1546,8 @@ Et la gloire qu'ils font d'être vos ennemis,
 Sire, ils sont criminels, et leurs têtes coupables
 De tout, sauf de la mort, semblent être incapables.
 
-
 **** *creator_aure *book_aure_dipne *style_verse *genre_tragedy *dist1_aure_verse_tragedy_dipne *dist2_aure_verse_tragedy *id_NEARQUE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nearque
+
 
 Es-tu tant incrédule ?
 
@@ -1770,8 +1771,8 @@ Si le secours du Ciel daigne m'accompagner.
 Sire, on peut bien juger des choses avancées,
 Que votre ordre est le but de toutes mes pensées.
 
-
 **** *creator_aure *book_aure_dipne *style_verse *genre_tragedy *dist1_aure_verse_tragedy_dipne *dist2_aure_verse_tragedy *id_ANTELME *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antelme
+
 
 Qu'es-tu donc ?
 
@@ -1847,8 +1848,8 @@ Faut-il ouvertement me mettre à sa poursuite.
 
 J'y suis.
 
-
 **** *creator_aure *book_aure_dipne *style_verse *genre_tragedy *dist1_aure_verse_tragedy_dipne *dist2_aure_verse_tragedy *id_INDULPHE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_indulphe
+
 
 Je ne sais où je vais tant je suis combattu
 Des ordres rigoureux dont Mogale nous presse
@@ -2038,8 +2039,8 @@ S'il promet d'y marcher sans guide et conducteur.
 En voilà le moyen, dont chacun peut juger
 Qu'on les arrêtera sans peine et sans danger.
 
-
 **** *creator_aure *book_aure_dipne *style_verse *genre_tragedy *dist1_aure_verse_tragedy_dipne *dist2_aure_verse_tragedy *id_LUGTACE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lugtace
+
 
 J'ai regardé, craignant de me mettre au hasard
 De trouver en chemin (comme j'ai fait) Mogale,
@@ -2140,8 +2141,8 @@ Pourront bien s'essorer en ce champ déserté,
 Et venant de leurs monts prendre l'air de la plaine,
 Ils seront investis et retenus sans peine.
 
-
 **** *creator_aure *book_aure_dipne *style_verse *genre_tragedy *dist1_aure_verse_tragedy_dipne *dist2_aure_verse_tragedy *id_TROPHIME *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trophime
+
 
 Argante, Argante, ô Dieux chercherai-je toujours
 N'as-tu point de pitié des tours et des retours
@@ -2426,8 +2427,8 @@ Fît un service au Roi mieux que je lui veux faire.
 Pour un peu respirer et se donner carrière,
 Sans doute ils sortiront du clos de leur tanière.
 
-
 **** *creator_aure *book_aure_dipne *style_verse *genre_tragedy *dist1_aure_verse_tragedy_dipne *dist2_aure_verse_tragedy *id_ARGANTE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_argante
+
 
 Cieux, mon Trophime, ô Dieu que mes yeux sont contents !
 J'ai vu, j'ai reconnu.
@@ -2679,8 +2680,8 @@ Et de condamner un Dieu je ne puis l'entreprendre.
 
 Je crois qu'en ce faisant on ne peut faire mieux.
 
-
 **** *creator_aure *book_aure_dipne *style_verse *genre_tragedy *dist1_aure_verse_tragedy_dipne *dist2_aure_verse_tragedy *id_ARMIDE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_armide
+
 
       Me voilà bien surpris,
 Je ne craignais plus rien alors qu'on m'a tout pris
@@ -2816,4 +2817,3 @@ Je le puis : car je tiens ces beaux pendants d'oreille,
 Ces perles à ravir, ce collier de merveille.
 
 Mais ?
-

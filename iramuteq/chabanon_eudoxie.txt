@@ -2,6 +2,7 @@
 
 **** *creator_chabanon *book_chabanon_eudoxie *style_verse *genre_tragedy *dist1_chabanon_verse_tragedy_eudoxie *dist2_chabanon_verse_tragedy *id_EUDOXIE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eudoxie
 
+
 Ah ! Ce monstre a causé les malheurs de ma vie :
 C'est lui, qui de mon fils tient l'enfance asservie ;
 C'est lui qui fit périr mon père et mon époux ;
@@ -747,8 +748,8 @@ Maxime, c'est à toi que je les sacrifie.
 C'en est fait, je me meurs... Dieu ! Veillez sur mon fils.
 Cher époux ! Viens... approche.... et mourons réunis.
 
-
 **** *creator_chabanon *book_chabanon_eudoxie *style_verse *genre_tragedy *dist1_chabanon_verse_tragedy_eudoxie *dist2_chabanon_verse_tragedy *id_ELISE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elise
+
 
 Princesse auguste et chère, aux larmes condamnée !
 De Valentinien épouse infortunée !
@@ -862,8 +863,8 @@ On marche dans le sang et parmi les débris.
 Sous un tyran barbare aujourd'hui tout expire ;
 Ce jour est le dernier de Rome et de l'Empire.
 
-
 **** *creator_chabanon *book_chabanon_eudoxie *style_verse *genre_tragedy *dist1_chabanon_verse_tragedy_eudoxie *dist2_chabanon_verse_tragedy *id_ARBATE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arbate
+
 
 Madame, en vous servant j'eusse été trop heureux ;
 Mais le succès est loin de répondre à mes voeux.
@@ -957,8 +958,8 @@ Elle est sans borne ainsi que ma reconnaissance ;
 Le pouvoir des bienfaits vous asservit ma foi,
 Et votre intérêt seul est ma règle et ma loi.
 
-
 **** *creator_chabanon *book_chabanon_eudoxie *style_verse *genre_tragedy *dist1_chabanon_verse_tragedy_eudoxie *dist2_chabanon_verse_tragedy *id_ASPAR *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aspar
+
 
 Aux destins de l'État applaudissez, Madame ;
 La victoire aujourd'hui nous donne un Empereur,
@@ -1082,8 +1083,8 @@ La trahison, Seigneur, veillait dans ces remparts.
 La porte de Préneste, aux Vandales livrée,
 Leur assurait dans Rome une facile entrée.
 
-
 **** *creator_chabanon *book_chabanon_eudoxie *style_verse *genre_tragedy *dist1_chabanon_verse_tragedy_eudoxie *dist2_chabanon_verse_tragedy *id_MAXIME *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maxime
+
 
 Hé ! qu'a donc ce refus qui doive te surprendre ?
 Instruit de mes destins n'as-tu pas dû l'attendre ?
@@ -1461,8 +1462,27 @@ Le crime, présidait à nos affreux liens.
 
 Arrête ! Que fais-tu ?
 
+**** *creator_chabanon *book_chabanon_eudoxie *style_verse *genre_tragedy *dist1_chabanon_verse_tragedy_eudoxie *dist2_chabanon_verse_tragedy *id_ADONAL *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adonal
+
+
+C'en est donc fait, Seigneur ? ces utiles projets,
+Ces projets d'un hymen qui cimentait la paix,
+Qui liait deux États par un noeud politique,
+Et faisait un César du vainqueur de l'Afrique ;
+Ces projets si flatteurs sont à jamais détruits !
+De nos desseins, Maxime a recueilli les fruits ;
+Heureux par nos malheurs, le Trône est sa conquête :
+Le bandeau des Césars dont il couvre sa tête
+Est devenu le prix des maux qu'il nous a faits :
+Ce peuple enorgueilli par de brillants succès,
+Sous un maître nouveau qu'il aime et qu'il honore,
+Redevient plus terrible et nous menace encore :
+Qui vous retient ici ? Maxime est aux Autels :
+Serez-vous le témoin de ces noeuds solennels
+Et des jeux insultants qu'ici l'hymen apprête.
 
 **** *creator_chabanon *book_chabanon_eudoxie *style_verse *genre_tragedy *dist1_chabanon_verse_tragedy_eudoxie *dist2_chabanon_verse_tragedy *id_GONTHARIS *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gontharis
+
 
 Oui, je serai témoin de cette horrible fête,
 Je veux par ma présence en troubler les douceurs :
@@ -1610,8 +1630,8 @@ Et bientôt par mes soins il vous sera livré ;
 D'avance jouissez d'un bonheur assuré.
 Le triomphe d'un fils est votre heureux ouvrage ;
 
-
 **** *creator_chabanon *book_chabanon_eudoxie *style_verse *genre_tragedy *dist1_chabanon_verse_tragedy_eudoxie *dist2_chabanon_verse_tragedy *id_LEONCE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leonce
+
 
 Mon sort est assez doux puisque je te revois.
 Ta présence me rend ma douleur moins sensible,
@@ -1765,4 +1785,3 @@ Ma fille, je dois tout à ton noble courage,
 Et bénis ton amour en louant ta vertu.
 
 Oui, je vais te servir.
-

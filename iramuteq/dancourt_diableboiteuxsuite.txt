@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_diableboiteuxsuite *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteuxsuite *dist2_dancourt_prose_comedy *id_LEDIABLE *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lediable
 
+
 Hé bien, Monsieur Simon, comment vous trouvez-vous du voyage et de ma compagnie ?
 
 Vous avez fait la tournée de votre département assez à votre aise, et vous n'avez pas dû vous ennuyer.
@@ -114,8 +115,8 @@ Oh ! Ne vous plaignez point, Madame, je vous ramène Monsieur Simon plus raison
 
 Non, soyez tranquille là-dessus, je vous avertirai si cela arrive. Çà, tandis qu'on dansera dans l'autre salle, que l'on apporte ici la collation. Donnez-nous quelque petit plat de votre métier, Madame Thérèse, et que Monsieur le Major vous seconde, et mette en train la Compagnie.
 
-
 **** *creator_dancourt *book_dancourt_diableboiteuxsuite *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteuxsuite *dist2_dancourt_prose_comedy *id_MONSIEURSIMON *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieursimon
+
 
 Parfaitement bien, Monsieur le Diable, je n'ai jamais été si gai et si gaillard que depuis que vous vous mêlez de mes affaires ?
 
@@ -199,8 +200,8 @@ Il faut commencer par me la rendre à moi-même. Voilà une robe de chambre qui 
 
 Vous me le conseillez, je le veux bien, Monsieur le Diable : mais que Monsieur le Chevalier ne s'avise pas d'épouser ma femme de mon vivant.
 
-
 **** *creator_dancourt *book_dancourt_diableboiteuxsuite *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteuxsuite *dist2_dancourt_prose_comedy *id_THERESE *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_therese
+
 
 Soyez le bien venu, Seigneur Asmodée : votre absence m'a beaucoup duré, et je ne sais pas ce que je n'airais point fait, si vous aviez encore tardé quelques jours.
 
@@ -282,39 +283,8 @@ Tel qu'on croit en Cour pour affaires, est souvent en Ville pour ses plaisirs.
 
 Mes prédictions ne sont-elles pas justes ? Vos rideaux sont des indiscrets, Madame la Présidente.
 
-Le Printemps fournit des bouquets,
-Des Jonquilles, des Violettes,
-Et l'Été pare nos fillettes
-De Lys, de Roses et d'Oeillets.
-L'Hiver ramène les Plumets,
-Les ris, les jeux, les amoureux,
-Et c'est la saison des coquettes
-Qui se passent plus aisément
-De ces belles fleurs que d'amant.
-
-De quoi nous sert la fortune,
-Si ce n'est pour le plaisir ?
-Des plus beaux jours l'éclat nous importune,
-Quand nous n'en savons pas jouir.
-De quoi nous sert la fortune,
-Si ce n'est pour le plaisir ?
-
-Le Diable Boiteux nous guide,
-Pouvons-nous nous égarer ?
-À nos plaisirs que sans cesse il préside,
-Nous n'aurons rien à désirer.
-Le Diable Boiteux nous guide,
-Pouvons-nous nous égarer ?
-
-Notre Diable vous invite
-À venir souvent ici.
-Nous ferons tous encor mieux par la suite,
-Messieurs, bonsoir et grand merci.
-Notre Diable nous invite
-À venir souvent ici.
-
-
 **** *creator_dancourt *book_dancourt_diableboiteuxsuite *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteuxsuite *dist2_dancourt_prose_comedy *id_SANCHETTE *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sanchette
+
 
 Qui est-ce ? Ah ! C'est vous, Monsieur le libertin, qui nous amenez à Paris, et qui nous plantez-là, sans qu'on sache ce que vous êtes devenu. Ma bonne maman est bien en colère contre vous, Monsieur Asmodée.
 
@@ -344,8 +314,8 @@ Il est ici mon bon ami, il nous y a donné rendez-vous.
 
 C'est une fort bonne personne, que Mademoiselle Lisette, Monsieur le Diable ; Et je lui ai bien promis que vous seriez de ses amis.
 
-
 **** *creator_dancourt *book_dancourt_diableboiteuxsuite *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteuxsuite *dist2_dancourt_prose_comedy *id_MADAMESIMON *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamesimon
+
 
 Voilà comme vous êtes, Madame la Présidente, vous ne vous déterminez point, vous faites cent propositions, vous ne décidez pour aucune. Monsieur le Major, par complaisance, est aussi incertain que vous, et je vois bien que nous ne conclurons rien, que nous n'ayons ici le Chevalier. Holà quelqu'un, qu'on aille un peu… Ah, te voilà, Lisette ? Va voir si le Chevalier est éveillé ; mais non, ne bouge, voici son valet de chambre. Vivarez, que fait ton maître ?
 
@@ -427,8 +397,8 @@ C'est Monsieur Simon ? Quel contretemps !
 
 Que je suis malheureuse !
 
-
 **** *creator_dancourt *book_dancourt_diableboiteuxsuite *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteuxsuite *dist2_dancourt_prose_comedy *id_LAPRESIDENTE *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lapresidente
+
 
 Ah, que Vivarez est galant ! Te serais-tu attendu à cette tirade d'honnêtetés de la part de Vivarez, ma toute bonne ?
 
@@ -486,8 +456,8 @@ Mais je saurai qui est ma rivale.
 
 La petite personne est fort jolie ; allez Monsieur le Président, je vous le pardonne.
 
-
 **** *creator_dancourt *book_dancourt_diableboiteuxsuite *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteuxsuite *dist2_dancourt_prose_comedy *id_LEMAJOR *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemajor
+
 
 Oh, ventrebleu il en a, je vous en réponds ; je me donne au Diable s'il y a dans les troupes un plus joli valet que celui-là, c'est lui qui fait toutes les chansons grivoises que son maître vous chante quelquefois. C'est le Poète du Camp, le Pont-neuf de l'armée. Tiens, Vivarez, en faveur du joli compliment que tu as fait à Madame, voilà un demi-louis que je te donne pour boire. Je n'ai pas d'esprit, Mesdames ; mais par la tête-bleu je fais grand cas de ceux qui en ont.
 
@@ -548,41 +518,8 @@ Ah ! Petite coquette.
 
 Qu'est-ce à dire, où je suis ? Ah ! Je vous apprendrai… Et vous, mon petit Monsieur…
 
-L'Hiver est le temps des plaisirs,
-Et c'est pour les tendres désirs
-La saison la plus favorable.
-Aux doux soupirs
-Des jeunes zéphyrs,
-L'air de ma chambre est préférable.
-Là, bien assis
-Près de Doris,
-Le dos au feu, le ventre à table,
-Je bois je ris,
-Et je bannis
-Soins et soucis.
-Par les conseils de ce bon Diable,
-De plaisirs et d'amour seulement occupé,
-Je ne trouve point de Bergère
-Qui ne préfère
-À la fougère
-Mon canapé.
-
-Pendant le cours du bel âge,
-Aimons, buvons nuit et jour,
-On trouve assez les moments d'être sage :
-Mais il n'est qu'un temps pour l'amour.
-Pendant le cours du bel âge,
-Aimons, buvons nuit et jour.
-
-La grande affaire est de vivre
-Ici-bas toujours heureux,
-Apprenez tous que pour l'être il faut suivre
-Les avis du Diable Boiteux.
-La grande affaire est de vivre
-Ici-bas toujours heureux.
-
-
 **** *creator_dancourt *book_dancourt_diableboiteuxsuite *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteuxsuite *dist2_dancourt_prose_comedy *id_LECHEVALIER *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
 
 Ah, par ma foi, Mesdames, vous me surprenez. J'allais faire un tour à l'Opéra. Je vous croyais encore au lit : vous êtes aujourd'hui bien diligentes, pour vous être couchées si peu matin.
 
@@ -618,8 +555,8 @@ Voici une aventure de bal.
 
 Point de bruit, Messieurs.
 
-
 **** *creator_dancourt *book_dancourt_diableboiteuxsuite *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteuxsuite *dist2_dancourt_prose_comedy *id_VIVAREZ *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_vivarez
+
 
 Il fait ce qu'il faisait hier, Madame, ce qu'il fera demain, toute la semaine, tout le mois, toute l'année, toute sa vie. Il pense à vous, il vous aime, il vous adore.
 
@@ -643,8 +580,8 @@ Rien, Madame, je songe à un déguisement pour moi.
 
 Vous voilà remariée, Madame, il n'y manque plus que la cérémonie.
 
-
 **** *creator_dancourt *book_dancourt_diableboiteuxsuite *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteuxsuite *dist2_dancourt_prose_comedy *id_LISETTE *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
 Oh, çà, Monsieur, voulez-vous que je vous parle franchement ? Vous êtes de trop dans la maison, nous n'avons que faire ici de Médecin ; et ma Maîtresse et les personnes qu'elle voit, sont trop occupées du plaisir, pour avoir le temps d'être malades.
 
@@ -734,8 +671,15 @@ Ce n'est point un masque, ils disent que c'est le diable Boiteux, Madame.
 
 Il faut qu'il soit huit heures trente-deux minutes et quatre secondes, Madame. Voilà le certificat qui arrive de Touraine.
 
+**** *creator_dancourt *book_dancourt_diableboiteuxsuite *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteuxsuite *dist2_dancourt_prose_comedy *id_UNLAQUAIS *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_unlaquais
+
+
+Voilà Madame Thérèse, et la petite Sanchette.
+
+Vos hardes sont prêtes, Mesdames, et Mademoiselle Marton vous attend pour vous habiller.
 
 **** *creator_dancourt *book_dancourt_diableboiteuxsuite *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteuxsuite *dist2_dancourt_prose_comedy *id_MONSIEURSIMON *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieursimon
+
 
 Parfaitement bien, Monsieur le Diable, je n'ai jamais été si gai et si gaillard que depuis que vous vous mêlez de mes affaires ?
 
@@ -819,8 +763,8 @@ Il faut commencer par me la rendre à moi-même. Voilà une robe de chambre qui 
 
 Vous me le conseillez, je le veux bien, Monsieur le Diable : mais que Monsieur le Chevalier ne s'avise pas d'épouser ma femme de mon vivant.
 
-
 **** *creator_dancourt *book_dancourt_diableboiteuxsuite *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteuxsuite *dist2_dancourt_prose_comedy *id_LEDIABLE *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lediable
+
 
 Hé bien, Monsieur Simon, comment vous trouvez-vous du voyage et de ma compagnie ?
 
@@ -934,8 +878,8 @@ Oh ! Ne vous plaignez point, Madame, je vous ramène Monsieur Simon plus raison
 
 Non, soyez tranquille là-dessus, je vous avertirai si cela arrive. Çà, tandis qu'on dansera dans l'autre salle, que l'on apporte ici la collation. Donnez-nous quelque petit plat de votre métier, Madame Thérèse, et que Monsieur le Major vous seconde, et mette en train la Compagnie.
 
-
 **** *creator_dancourt *book_dancourt_diableboiteuxsuite *style_prose *genre_comedy *dist1_dancourt_prose_comedy_diableboiteuxsuite *dist2_dancourt_prose_comedy *id_SANCHETTE *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sanchette
+
 
 Qui est-ce ? Ah ! C'est vous, Monsieur le libertin, qui nous amenez à Paris, et qui nous plantez-là, sans qu'on sache ce que vous êtes devenu. Ma bonne maman est bien en colère contre vous, Monsieur Asmodée.
 
@@ -964,4 +908,3 @@ Allez, allez, quand vous l'aurez connu, et qu'il sera de vos amis, vous me remer
 Il est ici mon bon ami, il nous y a donné rendez-vous.
 
 C'est une fort bonne personne, que Mademoiselle Lisette, Monsieur le Diable ; Et je lui ai bien promis que vous seriez de ses amis.
-

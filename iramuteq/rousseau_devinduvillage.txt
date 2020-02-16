@@ -2,6 +2,7 @@
 
 **** *creator_rousseau *book_rousseau_devinduvillage *style_verse *genre_bergerie *dist1_rousseau_verse_bergerie_devinduvillage *dist2_rousseau_verse_bergerie *id_COLIN *date_1752 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colin
 
+
 L'amour et vos leçons m'ont enfin rendu sage ;
 Je préfère Colette à des biens superflus.
 Je sus lui plaire en habit de village :
@@ -156,8 +157,8 @@ C'est un enfant, c'est un enfant.
 
 Par les rigueurs on le rebute.
 
-
 **** *creator_rousseau *book_rousseau_devinduvillage *style_verse *genre_bergerie *dist1_rousseau_verse_bergerie_devinduvillage *dist2_rousseau_verse_bergerie *id_COLETTE *date_1752 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colette
+
 
 
 
@@ -338,4 +339,3 @@ Plaisir sans art;
 Tous leurs concerts valent-ils nos musettes ?
 Allons danser sous les ormeaux
 Galants prenez vos chalumeaux.
-

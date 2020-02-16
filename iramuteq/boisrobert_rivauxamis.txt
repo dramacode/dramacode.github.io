@@ -1,6 +1,7 @@
 
 
-**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_phalante *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_phalante
+**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_phalante *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_phalante
+
 
       Hydaspe, je le veux,
 Puisque je l'ay promis, il faut que je seconde
@@ -602,8 +603,8 @@ Apres que de mon feu vous aurez eu pitié.
 
 Lors que je suis sorty qu'as-tu fait ma Princesse?
 
+**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_hydaspe *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_hydaspe
 
-**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_hydaspe *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_hydaspe
 
 Enfin tu ne peux plus différer de me dire,
 Le sujet important qui cause ton martyre,
@@ -645,8 +646,8 @@ Si faut-il te resoudre où tu veux t'engager.
 
 J'y cours.
 
+**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_iolas *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_iolas
 
-**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_iolas *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_iolas
 
 Grace aux Dieux, je suis libre, & le Ciel a permis,
 Que je me sois tiré du camp des Ennemis,
@@ -978,8 +979,13 @@ Allons dedans Tarente ensevelir nos maux,
 La nous nous conterons toutes nos avantures,
 Et mettrons ordre à tout pour les nopces futures.
 
+**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_claridan *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_claridan
 
-**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_berenice *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_berenice
+
+Vous pouvez sur mes soins reposer seurement.
+
+**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_berenice *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_berenice
+
 
 Ces propos superflus aigrissent ma douleur,
 Souffrez qu'en liberté je pleure mon mal-heur,
@@ -1188,8 +1194,22 @@ De blâmer un instinct qu'enseignoit la Nature:
 Mais ce divin Objet, qui soupïre pour toy,
 Sera-t-il pas en fin le seul prix de ta foy?
 
+**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_le-page *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lepage
 
-**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_iolante *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_iolante
+
+On me vient advertir, Madame, que Phalante,
+Entre dans le Palais, & demande à vous voir,
+Pour s'acquitter vers vous de son premier devoir.
+
+Hydaspe, que Phalante appelle son fidelle,
+Vous porte de sa part une grande nouvelle:
+Il vient tout en fureur d'entrer dans la Cité.
+
+Il dit que le bon-heur de Phalante est extréme,
+Mais il veut reserver ce secret à vous mesme.
+
+**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_iolante *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_iolante
+
 
 Ne fay point la dolente, & la dissimulée,
 Je sçay que de nos maux ton ame est consolée,
@@ -1401,8 +1421,8 @@ Confuse je me viens jetter entre vos bras.
 
 Ah mon frere, je meurs de t'avoir offensé.
 
+**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_liliane *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_liliane
 
-**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_liliane *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_liliane
 
 Le deuïl te sieroit mieux que cette belle humeur;
 Montre plus de prudence, en un age si meur:
@@ -1652,8 +1672,23 @@ Mon esprit a suivy ta fortune sans cesse,
 Mon coeur à ton espée a tousjours esté jointe:
 Mais il mouroit de peur & tu n'en avois point.
 
+**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_lemedecin *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lemedecin
 
-**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_carinte *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_carinte
+
+Madame, tout va mal, la fleche envenimée
+A perdu tout son bras, la cangrenne est formée,
+Le Prince est bien malade, on fait un vain effort;
+Nostre art ne le sçauroit garentir de la mort:
+Nous ne vous pouvons plus flatter en conscience,
+Songez à vostre Estat, & prenez patience.
+
+**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_lechirurgien *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lechirurgien
+
+
+Que sert de la flatter? parlons luy franchement.
+
+**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_carinte *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_carinte
+
 
 Eh! Madame, je meurs de vous voir affliger;
 Que puis-je, pour vous plaire, & pour vous soulager?
@@ -1770,8 +1805,8 @@ Fin du IV. Acte.
 
 Voyez que d'ennemis à ses pieds abattus!
 
+**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_cleonte *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_cleonte
 
-**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_cleonte *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_cleonte
 
 Je mets vôtre salut au nombre des merveilles,
 On ne courut jamais de fortunes pareilles:
@@ -1787,8 +1822,8 @@ Passe pour l'aggresseur d'une injuste querelle,
 
 Il doit estre abuzé du bruit de vostre mort.
 
+**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_aronte *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_aronte
 
-**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_aronte *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_aronte
 
 Hé! de grace, Madame, en ce mal-heur extréme,
 Ayez pitié de nous, ayez en de vous mesme.
@@ -1834,8 +1869,8 @@ Dont Phalante a trouvé la valeur endormie,
 Par luy faits prisonniers, sont sous vostre pouvoir,
 On les vient d'emmener, vous plaist-il de les voir?
 
+**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_iarbe *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_iarbe
 
-**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_iarbe *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_iarbe
 
 Ouy, si je trouve icy toutes choses prosperes,
 Je vous restabliray dans le bien de vos Peres;
@@ -2029,8 +2064,16 @@ Allons, & que mon Fils, partout victorieux
 Face connoistre au Roy, son destin glorieux.
 Fin.
 
+**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_lecapitainedesgardes *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lecapitainedesgardes
 
-**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_menandre *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_menandre
+
+Si j'eusse un peu plustost son dessein recognu,
+Grand Prince, asseurement je l'aurois prevenu;
+Avant que j'eusse appris son crime de Phalante,
+Elle estoit échappée.
+
+**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_menandre *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_menandre
+
 
       Monseigneur, s'il sort de ma maison,
 Il hazarde sa vie, avant sa guerison.
@@ -2140,3 +2183,20 @@ Qui luy servit quinze ans d'inutille prison:
 Le voila prosterné, mon offense le touche,
 Et j'ose en demander le pardon par sa bouche.
 
+**** *creator_boisrobert *book_boisrobert_rivauxamis *style_verse *genre_tragedy *dist1_boisrobert_verse_tragedy_rivauxamis *dist2_boisrobert_verse_tragedy *id_almedor *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_almedor
+
+
+Seigneur tout est perdu, vos gens épouvantez,
+Sans attendre les coups fuyent de tous cottez,
+Phalante qui n'a point de pareil sur la terre,
+(Sorti de la Cité comme un foudre de guerre)
+Abat vos Esquadrons, ravit vos Estendarts,
+Et seme dans le Camp l'effroy de toutes parts:
+Tous nos retranchements cedent à son courage.
+
+Vos meilleurs Officiers, qu'à Tarente l'on meine,
+Sont déja prisonniers de ce grand Capitaine:
+Rien ne peut resister aux forces de son bras;
+Si vous ne raliez vous-mesme vos Soldats,
+Vous perdez vostre Armée, en ce peril extresme,
+Et vous courez fortune en vostre tente mesme.

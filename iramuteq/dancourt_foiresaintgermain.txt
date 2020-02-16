@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_foiresaintgermain *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiresaintgermain *dist2_dancourt_prose_comedy *id_MADEMOISELLEMOUSSET *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellemousset
 
+
 De belles robes de chambres, Messieurs ? Des étoffes de la Chine ? Des bonnets à la bénéficière ? Des déshabillés à bonne fortune ? Voyez ici, Mesdames.
 
 C'est déjà vous, Monsieur le Chevalier ? On ne sera ici que dans une heure.
@@ -262,8 +263,8 @@ Et agissantes même. Voilà un beau Cercle !
 
 Et moi, qui ne me marie point, je dresserai les articles.
 
-
 **** *creator_dancourt *book_dancourt_foiresaintgermain *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiresaintgermain *dist2_dancourt_prose_comedy *id_LORANGE *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lorange
+
 
 Café, thé, chocolat ? Vin de saint Laurent ? Vin de la Ciotat ? Vin de Canarie ?
 
@@ -431,8 +432,8 @@ Oui, Mademoiselle de Kermonin : vous connaissez cela ?
 
 Ce sont des figures parlantes que celles-là.
 
-
 **** *creator_dancourt *book_dancourt_foiresaintgermain *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiresaintgermain *dist2_dancourt_prose_comedy *id_URBINE *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_urbine
+
 
 Venir tant de bonne heure à la Foire Saint-Germain ! Vous n'y portez pas attention, Chevalier ?
 
@@ -458,8 +459,8 @@ Mais il serait besoin…
 
 Tu ne t'échapperas pas de moi, scélérat.
 
-
 **** *creator_dancourt *book_dancourt_foiresaintgermain *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiresaintgermain *dist2_dancourt_prose_comedy *id_CLITANDRE *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+
 
 Les valets sont bien nés pour nous impatienter ! À quoi diantre ce maraud-là s'amuse-t-il ?
 
@@ -539,8 +540,8 @@ La figure de Monsieur Farfadel !
 
 Ah ! Madame.
 
-
 **** *creator_dancourt *book_dancourt_foiresaintgermain *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiresaintgermain *dist2_dancourt_prose_comedy *id_LEBRETON *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebreton
+
 
 Oui, Monsieur, c'est moi-même, qui ne veux plus me mêler de vos affaires, et qui viens vous demander mon congé.
 
@@ -721,8 +722,8 @@ Nous donnons tous nos moments.
 Si nous pouvions encore mieux faire,
 Nous serions heureux, et vous contents.
 
-
 **** *creator_dancourt *book_dancourt_foiresaintgermain *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiresaintgermain *dist2_dancourt_prose_comedy *id_ANGELIQUE *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+
 
 Ah, juste Ciel ! Qu'est-ce que cela ?
 
@@ -784,8 +785,8 @@ Vous deviez aller aux prisonniers, Madame ; par quelle aventure…
 
 Nous avons changé de sentiments l'une et l'autre, Madame, il n'y a rien de plus naturel ; et vous ne devez point blâmer en moi ce que vous avez fait vous-même.
 
-
 **** *creator_dancourt *book_dancourt_foiresaintgermain *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiresaintgermain *dist2_dancourt_prose_comedy *id_MADAMEISAAC *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameisaac
+
 
 Comment donc ? Quels insolents ! Quelles canailles ! En pleine Foire, jeter des immondices par les fenêtres ! Un procès-verbal ? Des témoins ? Un honnête Commissaire ?
 
@@ -813,8 +814,8 @@ Ah, ah ! Vous le prenez sur ce ton-là ? Oh bien, bien, je ne reviendrai pas, 
 
 Je te la recommande, ne la quitte pas de vue.
 
-
 **** *creator_dancourt *book_dancourt_foiresaintgermain *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiresaintgermain *dist2_dancourt_prose_comedy *id_JASMIN *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jasmin
+
 
 J'ai de bons yeux, ne vous mettez pas en peine.
 
@@ -828,8 +829,8 @@ En vérité, Mademoiselle… Cela n'est pas vrai, je vous assure.
 
 Au secours, à la force.
 
-
 **** *creator_dancourt *book_dancourt_foiresaintgermain *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiresaintgermain *dist2_dancourt_prose_comedy *id_MONSIEURFARFADEL *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurfarfadel
+
 
 Hé, laquais, qu'on ne me suive point.
 
@@ -863,8 +864,8 @@ Hé, je suis tout prêt à l'épouser, tirez-moi d'affaires.
 
 Ils s'entendaient tous comme larrons en Foire.
 
-
 **** *creator_dancourt *book_dancourt_foiresaintgermain *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiresaintgermain *dist2_dancourt_prose_comedy *id_MAROTTE *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marotte
+
 
 Bonjour, Mademoiselle Mousset.
 
@@ -904,8 +905,8 @@ Il n'a qu'à dire, je ferai ce qu'il voudra.
 
 Oh, je te dévisagerai, moi ; je suis aussi méchante que les autres.
 
-
 **** *creator_dancourt *book_dancourt_foiresaintgermain *style_prose *genre_comedy *dist1_dancourt_prose_comedy_foiresaintgermain *dist2_dancourt_prose_comedy *id_MADAMEBARDOUX *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamebardoux
+
 
 Bonjour, Mademoiselle Mousset.
 
@@ -958,4 +959,3 @@ Comment ?
 Expliquez-moi donc ce mystère ?
 
 Et moi, Monsieur le Chevalier, je ferai tout ce que vous me conseillerez de faire.
-

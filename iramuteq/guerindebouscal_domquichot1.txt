@@ -1,6 +1,7 @@
 
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_domquixote *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_domquixote
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_domquixote *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_domquixote
+
 
 Qu'elle soit Reyne ou non, je sçay bien mon devoir.
 
@@ -559,8 +560,8 @@ Et si mon beau renom ne previent⁎ cet effect,
 Il sçaura qu'à mon bras qui jamais ne repose,
 S'armer, combatre & vaincre est une mesme chose.
 
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_sancho *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_sancho
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_sancho *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_sancho
 
 Frere Sanche où vas-tu hazarder ton honneur ?
 Le peuple de la Manche est boüillant & colere⁎,
@@ -1023,8 +1024,8 @@ C'est Dom Quixote & Sanche, & cela vous suffit.
 
 Nous allons bien troter pour chercher ce bon-heur.
 
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_cardenie *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_cardenie
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_cardenie *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_cardenie
  
 Puis qu'il faut achever un discours si funeste,
 Que je vous l'ay promis, escoutez ce qui reste.
@@ -1195,8 +1196,8 @@ Merveilleuse raison.
  
 En quel lieu sommes-nous ?
 
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_lucinde *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lucinde
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_lucinde *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lucinde
 
 Croyez-vous de m'avoir ?
  
@@ -1322,8 +1323,8 @@ Il merite l'honneur d'armer un tel Monarque.
 
 Qui m'oste le repos ?
 
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_fernande *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_fernande
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_fernande *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_fernande
 
 Il faut disner icy devant que de partir,
 Lors que tout sera prest qu'on nous fasse advertir,
@@ -1572,8 +1573,8 @@ Vostre armet⁎ en couronne, & Sanche en Gouverneur.
 
 Mette les plus grands Roys au rang de vos vassaux.
 
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_dorotee *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_dorotee
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_dorotee *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_dorotee
 
 Va meschant, va perfide au fonds du precipice,
 J'immole à mon honneur & ta vie & ton vice,
@@ -1711,8 +1712,8 @@ Que j'aymeray tousjours.
 Les beautez de Madame excusent vostre erreur.
 Mais tréve à ce discours, voicy nostre Empereur.
 
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_domlope *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_domlope
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_domlope *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_domlope
 
 Ce sont là vos amours & vos contentemens,
 Contez-moy vos desdeins, monstrez-moy vos tourmens.
@@ -1970,8 +1971,8 @@ Et permette qu'en fin je rameine à la Manche
 Ce fou de Dom Quixote, & ce badin de Sanche.
 FIN.
 
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_barbero *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_barbero
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_barbero *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_barbero
 
 J'ay bien eu de la peine à tenter⁎ cette femme
 Pour avoir ces habits.
@@ -1984,8 +1985,8 @@ Celuy qui vient à nous n'est-ce pas Sancho Pance?
 
 Dom Quixot est moins fou.
 
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_trifalde *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_trifalde
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_trifalde *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_trifalde
 
 Mes filles adorons ce guerrier indomptable.
 
@@ -2206,8 +2207,13 @@ Ainsi jamais vos vœux ne rencontrent d'obstacle,
 Ainsi puissiez-vous voir dans vos bras indomptez,
 Celle que vous aymez, & que vous meritez.
 
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_damecomtesse *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_damecomtesse
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_reine *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_reine
+
+Quel Demon favorable a ma barbe rasée ?
+
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_reine *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_reine
+
 
       Oüy c'est bien la raison.
 Fameux restaurateur de la chevalerie
@@ -2460,8 +2466,20 @@ Adieu grand Chevalier.
 
 Ainsi tousjours le Ciel assiste vos travaux.
 
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_letambour *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_letambour
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_demon1 *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_demon1
+
+Messeigneurs qui de vous est le grand Dom Quixote ?
+
+La Comtesse Trifalde & sa troupe enchantée,
+Que les Magiciens ont tant persecutée,
+Desire de vous voir & vous entretenir.
+
+      Voyla ce grand Heros,
+Qui vous doit redonner l'honneur & le repos.
+
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_demon1 *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_demon1
+
 
 Monte sur ce cheval celuy dont le courage
 Ne craint point le peril.
@@ -2485,8 +2503,8 @@ De descouvrir leurs yeux jusqu'à leur dernier pas,
 Et lors que Chevillart donnera tesmoignage
 Par son hannissement de la fin du voyage.
 
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_lebarbier *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lebarbier
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_lebarbier *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lebarbier
 
 Larron rends ce bassin.
 
@@ -2520,8 +2538,8 @@ J'en ferois desormais une poursuite vaine,
 Il faut l'abandonner aux mains de ces voleurs,
 Que ta perte bassin me va couster de pleurs.
 
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_levalet *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_levalet
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_levalet *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_levalet
 
 Monsieur on vous attend.
 
@@ -2536,8 +2554,8 @@ Mais belle au dernier point.
 
       Dorotée.
 
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_lescuyer *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lescuyer
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_lescuyer *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lescuyer
 
 En effect il est vray.
 
@@ -2556,8 +2574,8 @@ Vous perdez le respect.
 
 Le bonhomme a dormy, c'est volontiers un songe.
 
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_archer1 *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_archer1
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_archer1 *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_archer1
 
       Il faut voir ce que c'est.
  
@@ -2579,3 +2597,7 @@ Vous n'eschapperez⁎ pas par cette invention,
 Messieurs, de par le Roy, permettez qu'on l'emmeine,
 Si vous nous empeschez vous en serez en peine.
 
+**** *creator_guerindebouscal *book_guerindebouscal_domquichot1 *style_verse *genre_tragedy *dist1_guerindebouscal_verse_tragedy_domquichot1 *dist2_guerindebouscal_verse_tragedy *id_archer2 *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_archer2
+
+
+      J'ay pouvoir de le prendre.

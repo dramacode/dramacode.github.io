@@ -2,6 +2,7 @@
 
 **** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *id_LEBARON *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebaron
 
+
 Maraud, je te rouerai de coups.
 
 Je vais t'apprendre ton devoir.
@@ -179,8 +180,8 @@ En termes clairs et nets ce billet-là  s'explique.
 
 Je lui conseille encor de faire le plaisant !
 
-
 **** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *id_LABARONNE *date_1765 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_labaronne
+
 
 Eh ! mais, Monsieur, y pensez-vous ?
 
@@ -291,8 +292,8 @@ Et l'homme à  talents fait des dettes.
 Rien de vrai, beaucoup de clinquant ;
 Voilà  les hommes d'à  présent.
 
-
 **** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *id_JULIE *date_1765 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+
 
 Que craignez-vous, Dainval ?
 
@@ -381,8 +382,8 @@ Pour les vrais héros de Cythère.
 Rien de vrai, beaucoup de clinquant,
 Voilà  les hommes d'à  présent.
 
-
 **** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *id_LEMARQUIS *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+
 
 De ma voiture nouvelle
 Est-ce-là  le modèle ?
@@ -735,8 +736,8 @@ Par humeur on écrit ce qu'on dément après.
 Sans adieu, belle Dame. Au premier jour j'espere
 Recevoir de vos mains un billet plus sincère.
 
-
 **** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *id_DAINVAL *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dainval
+
 
 Ah ! Voici le Marquis. On le dit mon rival.
 Sachons s'il est aimé.
@@ -862,8 +863,8 @@ Et je vous devrai mon bonheur,
 Si de vous je suis oubliée.
 Ah ! Julie ! Ah ! Marquis, je te suis obligé.
 
-
 **** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *id_MARTON *date_1765 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
+
 
 Ah, ah.
 
@@ -921,8 +922,8 @@ Vous plairez à  Julie ainsi qu'à ses parents ?
 
       Ah ! Ciel !
 
-
 **** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *id_LEPINE *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepine
+
 
 Le voici, Monsieur.
 
@@ -942,8 +943,8 @@ Ah !
 
       Ah ! Monsieur.
 
-
 **** *creator_harny *book_harny_petitmaitreprovince *style_verse *genre_comedy *dist1_harny_verse_comedy_petitmaitreprovince *dist2_harny_verse_comedy *id_BLAISE *date_1765 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blaise
+
 
 Morgué, je n'y pouvais que faire.
 
@@ -1018,4 +1019,3 @@ Par le crédit brille un Notaire ;
 Un Juge par son sécretaire.
 Rien de vrai, beaucoup de clinquant :
 Voilà  les hommes d'à  présent.
-

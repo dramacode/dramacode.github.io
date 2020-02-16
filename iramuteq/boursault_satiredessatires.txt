@@ -2,6 +2,7 @@
 
 **** *creator_boursault *book_boursault_satiredessatires *style_verse *genre_comedy *dist1_boursault_verse_comedy_satiredessatires *dist2_boursault_verse_comedy *id_EMILIE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_emilie
 
+
 Allez-moi de ce pas chercher la Waltoline,
 Et revenez.
 
@@ -291,8 +292,8 @@ Il fera son chagrin de ce qui fait sa joie ;
 Et sentira dans l'âme un déplaisir secret,
 D'avoir pu si bien faire, et d'avoir si mal fait.
 
-
 **** *creator_boursault *book_boursault_satiredessatires *style_verse *genre_comedy *dist1_boursault_verse_comedy_satiredessatires *dist2_boursault_verse_comedy *id_LECHEVALIER *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
 
       D'où vient que vous êtes chagrine ?
 Qu'avez-vous ?
@@ -595,8 +596,8 @@ Cet endroit...
 
       Non pas.
 
-
 **** *creator_boursault *book_boursault_satiredessatires *style_verse *genre_comedy *dist1_boursault_verse_comedy_satiredessatires *dist2_boursault_verse_comedy *id_LEMARQUIS *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+
 
       Chevalier.
 
@@ -1055,8 +1056,8 @@ Je suis un sot.
 
       Tu le dois.
 
-
 **** *creator_boursault *book_boursault_satiredessatires *style_verse *genre_comedy *dist1_boursault_verse_comedy_satiredessatires *dist2_boursault_verse_comedy *id_ORTODOXE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ortodoxe
+
 
 Ne font-ils rien de plus ? Je sais comme on en use :
 Je m'en irais.
@@ -1214,8 +1215,8 @@ Il est vrai, pour cela, que c'est un plaisant âne.
 Vous demandez quartier, concernant Despréaux,
 Je le vois bien.
 
-
 **** *creator_boursault *book_boursault_satiredessatires *style_verse *genre_comedy *dist1_boursault_verse_comedy_satiredessatires *dist2_boursault_verse_comedy *id_AMARANTE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amarante
+
 
       Madame, avancez, s'il vous plaît ;
 J'ai pris la bonne route, et c'est ici qu'elle est ;
@@ -1267,8 +1268,8 @@ Quoi qu'en pense l'auteur, il a tort, selon moi.
 Allons ouïr des vers qui vous raviront l'âme :
 Jamais dans une pièce on n'en mit de si beaux.
 
-
 **** *creator_boursault *book_boursault_satiredessatires *style_verse *genre_comedy *dist1_boursault_verse_comedy_satiredessatires *dist2_boursault_verse_comedy *id_BOURSAULT *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_boursault
+
 
       C'est un peu tard venir faire ma Cour,
 Madame ?
@@ -1341,8 +1342,8 @@ Mais qu'en France jamais, quoiqu'ils eussent d'appui,
 Nul n'avait fait fortune, hors Henry-Quatre et lui,
 Cette comparaison est égale.
 
-
 **** *creator_boursault *book_boursault_satiredessatires *style_verse *genre_comedy *dist1_boursault_verse_comedy_satiredessatires *dist2_boursault_verse_comedy *id_LAWALTOLINE *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lawaltoline
+
 
       Pardi !
 Un Laquais par deux fois dit que j'avre menti :
@@ -1394,3 +1395,8 @@ Lui voudrait vous, Madame, un peu voir un petit !
 
       Voule-vous ? Moi, suis votre serfice.
 
+**** *creator_boursault *book_boursault_satiredessatires *style_verse *genre_comedy *dist1_boursault_verse_comedy_satiredessatires *dist2_boursault_verse_comedy *id_LAFRANCE *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafrance
+
+
+      Les acteurs ont mis leurs beaux habits,
+Madame, ils vont bientôt commencer.

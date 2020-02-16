@@ -2,6 +2,7 @@
 
 **** *creator_saurin *book_saurin_blancheetguiscard *style_verse *genre_tragedy *dist1_saurin_verse_tragedy_blancheetguiscard *dist2_saurin_verse_tragedy *id_SIFFREDI *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_siffredi
 
+
       Ici je vais l'attendre...
 Le comte de Guiscard en ce lieu va se rendre.
 Ma fille, laissez-nous.
@@ -478,8 +479,8 @@ Quel bruit se fait entendre... Ô destins ! Ô fureurs !
 
       Ô ma fille !
 
-
 **** *creator_saurin *book_saurin_blancheetguiscard *style_verse *genre_tragedy *dist1_saurin_verse_tragedy_blancheetguiscard *dist2_saurin_verse_tragedy *id_BLANCHE *date_1763 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_blanche
+
 
 Ô jour pour la Sicile à jamais déplorable !
 Du meilleur de nos rois ô perte irréparable !
@@ -983,8 +984,8 @@ La lumière me fuit... La force m'abandonne:
 Ciel ! prends pitié de moi...
       Guiscard... ta main... je meurs !
 
-
 **** *creator_saurin *book_saurin_blancheetguiscard *style_verse *genre_tragedy *dist1_saurin_verse_tragedy_blancheetguiscard *dist2_saurin_verse_tragedy *id_LAURE *date_1763 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laure
+
 
 Tout de sa fin prochaine annonce les présages ;
 Le trouble et la terreur sont peints sur les visages ?
@@ -1125,8 +1126,8 @@ Et, poursuivant en vain un repos qui vous fuit...
 Moi, vous laisser ! Ô ciel ! Et lorsqu'à votre peine
 Une effroyable nuit ajoute son horreur !
 
-
 **** *creator_saurin *book_saurin_blancheetguiscard *style_verse *genre_tragedy *dist1_saurin_verse_tragedy_blancheetguiscard *dist2_saurin_verse_tragedy *id_RODOLPHE *date_1763 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rodolphe
+
 
 Du trouble où je vous vois que faut-il que j'augure,
 Seigneur ? Vous paraissez interdit, égaré :
@@ -1149,4 +1150,3 @@ Il faut que votre épée en mes mains soit remise.
       Oui, seigneur.
 
 Il faut, de plus, au fort me suivre sans délai
-

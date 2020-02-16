@@ -2,6 +2,7 @@
 
 **** *creator_gudin *book_gudin_lothaire *style_verse *genre_tragedy *dist1_gudin_verse_tragedy_lothaire *dist2_gudin_verse_tragedy *id_LOTHAIRE *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lothaire
 
+
 Ces timides conseils ne sont pas faits pour moi.
 
       Oui, mourons, mais en roi.
@@ -739,8 +740,8 @@ Dans le meurtre hardis, dans les combats timides :
 Mais, Valrade, au tombeau ton amant te suivra,
 Et son sang dans ton sang au moins se confondra.
 
-
 **** *creator_gudin *book_gudin_lothaire *style_verse *genre_tragedy *dist1_gudin_verse_tragedy_lothaire *dist2_gudin_verse_tragedy *id_RAIMOND *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_raimond
+
 
 Roi, sauvez votre peuple.
 
@@ -1084,8 +1085,8 @@ Que la terre en tremblant admire ton courage ;
 Et puisse nôtre mort, indignant l'univers,
 De ces tyrans sacrés rompre à jamais les fers !
 
-
 **** *creator_gudin *book_gudin_lothaire *style_verse *genre_tragedy *dist1_gudin_verse_tragedy_lothaire *dist2_gudin_verse_tragedy *id_EMIRENE *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_emirene
+
 
 Sage et prudent Raimond, dans ce jour de courroux,
 Me sera-t-il permis de revoir mon époux ?
@@ -1266,8 +1267,8 @@ Arrachez ma rivale à mon perfide époux.
 En voulant me venger c'est moi qui suis punie.
 Je me meurs.
 
-
 **** *creator_gudin *book_gudin_lothaire *style_verse *genre_tragedy *dist1_gudin_verse_tragedy_lothaire *dist2_gudin_verse_tragedy *id_VALRADE *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valrade
+
 
 Ô toi que j'offensai ! Ciel, soutien mon courage !
 
@@ -1703,8 +1704,8 @@ Je m'immole pour lui.
 
 Je meurs, sauvez ses jours, et rendez les heureux.
 
-
 **** *creator_gudin *book_gudin_lothaire *style_verse *genre_tragedy *dist1_gudin_verse_tragedy_lothaire *dist2_gudin_verse_tragedy *id_ARSENE *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arsene
+
 
 Reine, ce peuple est juste, il reconnait vos lois ;
 Sur votre trône ainsi par Dieu même remise,
@@ -2123,8 +2124,8 @@ Qu'on l'arrête.
 Ô vous ! peuples témoins du crime et du supplice,
 Adorez l'Éternel, et craignez sa justice.
 
-
 **** *creator_gudin *book_gudin_lothaire *style_verse *genre_tragedy *dist1_gudin_verse_tragedy_lothaire *dist2_gudin_verse_tragedy *id_GONTIER *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gontier
+
 
 Préférez-vous la mort ?
 
@@ -2151,8 +2152,8 @@ Raimond réprime en vain, paries plus grands efforts,
 La révolte au dedans, les assauts au dehors.
 Le désordre, l'effroi, le fanatisme règne.
 
-
 **** *creator_gudin *book_gudin_lothaire *style_verse *genre_tragedy *dist1_gudin_verse_tragedy_lothaire *dist2_gudin_verse_tragedy *id_MORANGE *date_1768 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_morange
+
 
 On dit que sa valeur, par des coups inouïs,
 À trois fois des remparts chassé les ennemis ;
@@ -2281,4 +2282,3 @@ Je ne puis m'avancer... Mais vous voyez mes pleurs...
 Si la mort terminait les célestes rigueurs,
 Hélas ! j'aimerais mieux perdre à vos pieds la vie,
 Que d'aller partager ou flatter leur furie.
-

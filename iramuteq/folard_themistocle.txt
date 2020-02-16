@@ -2,6 +2,7 @@
 
 **** *creator_folard *book_folard_themistocle *style_verse *genre_tragedy *dist1_folard_verse_tragedy_themistocle *dist2_folard_verse_tragedy *id_THEMISTOCLE *date_1681 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_themistocle
 
+
 Un Grec persécuté, mais peu digne de l'être,
 Devant l'ami des Grecs ne craint point de paraître.
 Si, comme on le publie en Perse et parmi nous,
@@ -495,8 +496,8 @@ Votre deuil est vengé...
 
       Moi-même.
 
-
 **** *creator_folard *book_folard_themistocle *style_verse *genre_tragedy *dist1_folard_verse_tragedy_themistocle *dist2_folard_verse_tragedy *id_XERXES *date_1681 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_xerxes
+
 
 Qu'il vienne, j'y consens : et m'en fie à toi.
 Mais qu'Artaban ici l'amène devant moi ;
@@ -851,8 +852,8 @@ Du sang athénien ne sera plus trempée.
 Les bords, où Thémistocle ouvrit jadis les yeux,
 Sont pour moi le séjour des Vertus et des Dieux.
 
-
 **** *creator_folard *book_folard_themistocle *style_verse *genre_tragedy *dist1_folard_verse_tragedy_themistocle *dist2_folard_verse_tragedy *id_MILTIADE *date_1681 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_miltiade
+
 
 Que l'on me laisse seul : et qu'on fasse
 Ce grec, qui sans témoins cherche à m'entretenir...
@@ -1135,8 +1136,8 @@ Mais, quel est ce mystère ?
 
 Il expire, Seigneur...
 
-
 **** *creator_folard *book_folard_themistocle *style_verse *genre_tragedy *dist1_folard_verse_tragedy_themistocle *dist2_folard_verse_tragedy *id_ARISTIDE *date_1681 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aristide
+
 
       Quand donc verra-t-on votre Roi ?
 
@@ -1373,8 +1374,8 @@ Ah, ciel !
 
 Vivez, Héros.
 
-
 **** *creator_folard *book_folard_themistocle *style_verse *genre_tragedy *dist1_folard_verse_tragedy_themistocle *dist2_folard_verse_tragedy *id_PARMENIS *date_1681 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_parmenis
+
 
 Seigneur, le temps est court ; laissons la calomnie,
 Sans égard pour moi-même obligez ma patrie.
@@ -1473,8 +1474,8 @@ Ces autels, vont frémir des noirs serments du traître...
       Ô, courage parfait !
 Quelle honte pour Sparte !
 
-
 **** *creator_folard *book_folard_themistocle *style_verse *genre_tragedy *dist1_folard_verse_tragedy_themistocle *dist2_folard_verse_tragedy *id_ARTABAN *date_1681 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artaban
+
 
 Ah, que ces mêmes Grecs, plus justes dans leur haine,
 N'ont-ils à Thémistocle imposé même peine !
@@ -1791,8 +1792,8 @@ Qui ; moi... Madame...
 
 Il boit la coupe sainte, au lieu de la répandre !
 
-
 **** *creator_folard *book_folard_themistocle *style_verse *genre_tragedy *dist1_folard_verse_tragedy_themistocle *dist2_folard_verse_tragedy *id_ROXANE *date_1681 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_roxane
+
 
 Qu'est devenu mon père ?... Il était avec vous.
 
@@ -1923,8 +1924,8 @@ Cruel !... Tu mets le comble à ma douleur extrême.
 Soleil, à quel excès portes-tu mes malheurs ?
 L'assassin de mes fils est digne de mes pleurs !
 
-
 **** *creator_folard *book_folard_themistocle *style_verse *genre_tragedy *dist1_folard_verse_tragedy_themistocle *dist2_folard_verse_tragedy *id_HYDASPE *date_1681 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hydaspe
+
 
 Seigneur, deux envoyés arrivent de la Grèce ;
 Et chargés, disent-ils , d'un secret important,
@@ -1968,4 +1969,3 @@ Il est seul.
       La Princesse alarmée,
 Des réponses du Grec brûle d'être informée.
 Elle m'envoie à vous, Seigneur, pour les savoir.
-

@@ -2,6 +2,7 @@
 
 **** *creator_dufresny *book_dufresny_chevalierjoueur *style_prose *genre_comedy *dist1_dufresny_prose_comedy_chevalierjoueur *dist2_dufresny_prose_comedy *id_VALERE *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
 
+
 Ce que tu as vu n'est pas assurément...
 
 Si tu voulais m'écouter, je te dirais ce que ce Joueur-ci...
@@ -36,8 +37,8 @@ Je me suis attaché à des différences plus essentielles.
 
 Je suis ravi que tu restes pour le père qui n'y est point ; plaçons-nous donc.
 
-
 **** *creator_dufresny *book_dufresny_chevalierjoueur *style_prose *genre_comedy *dist1_dufresny_prose_comedy_chevalierjoueur *dist2_dufresny_prose_comedy *id_DORANTE *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+
 
 J'oubliai hier de prendre congé de la Comtesse.
 
@@ -120,8 +121,8 @@ Commencez à vous servir du conseil que je vous ai donné, pour connaître le fo
 
 De quoi s'agit-il.
 
-
 **** *creator_dufresny *book_dufresny_chevalierjoueur *style_prose *genre_comedy *dist1_dufresny_prose_comedy_chevalierjoueur *dist2_dufresny_prose_comedy *id_ANGELIQUE *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+
 
 Avant que vous sortiez, Madame, voyons donc au moins à prendre une heure pour terminer mes affaires ; depuis huit jours que je vous presse, je ne saurais tirer de vous que des exhortations.
 
@@ -262,8 +263,8 @@ Hé bien, Chevalier, acceptez-vous ma proposition ?
 
 C'est par votre conseil, Dorante, que je me suis désabusée, sans vous j'eusse été malheureuse, il est juste que je vous rende heureux.
 
-
 **** *creator_dufresny *book_dufresny_chevalierjoueur *style_prose *genre_comedy *dist1_dufresny_prose_comedy_chevalierjoueur *dist2_dufresny_prose_comedy *id_LACOMTESSE *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+
 
 C'est à vous de les écouter avec respect.
 
@@ -386,8 +387,8 @@ Pour moi si j'estimais un homme, je le rendrais maître absolu de tout ce que je
 
 Vous avez entendu ce que je viens de dire, je ne m'en dédis point ; oui Chevalier, je sacrifierais tout pour un homme que j'estimerais, mais vous vous êtes rendu indigne de mon estime, cherchez une autre dupe que moi.
 
-
 **** *creator_dufresny *book_dufresny_chevalierjoueur *style_prose *genre_comedy *dist1_dufresny_prose_comedy_chevalierjoueur *dist2_dufresny_prose_comedy *id_NERINE *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
+
 
 Bonjour, Frontin, te voilà déjà levé ?
 
@@ -577,8 +578,8 @@ Par délicatesse d'amour, Monsieur veut ruiner sa maîtresse, et elle lui propos
 
 C'est l'argent seul que Monsieur demande.
 
-
 **** *creator_dufresny *book_dufresny_chevalierjoueur *style_prose *genre_comedy *dist1_dufresny_prose_comedy_chevalierjoueur *dist2_dufresny_prose_comedy *id_FRONTIN *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+
 
 Bonsoir, Nérine, je vais me coucher.
 
@@ -810,8 +811,8 @@ Madame est dans le vrai de l'amour, c'est là où il fait bon.
 
 Il n'y a que moi qui vous demeure Monsieur ; et vous avez un valet affectionné qui vous suivra jusques sur le bord de la rivière, car je n'ai pas mérité comme vous de me noyer.
 
-
 **** *creator_dufresny *book_dufresny_chevalierjoueur *style_prose *genre_comedy *dist1_dufresny_prose_comedy_chevalierjoueur *dist2_dufresny_prose_comedy *id_LEMARQUIS *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+
 
 Qheu... Qheu... je viens de me mettre au lait à une de mes terres ; les veilles, qheu, les disputes, qheu, les jurements nous ruinent la poitrine, à nous autres Joueurs ; vous devriez aussi vous mettre au lait. Le lait est un grand remède, qheu, je m'en trouve fort bien, qheu ; mais je vous dis fort bien, qheu, q, fort bien, q, fort bien, q, fort bien.
 
@@ -850,4 +851,3 @@ Non, Monsieur, qu'heu, je ne veux point vous pousser à bout.
 Hé morbleu ! Ne l'êtes-vous pas ruiné ?
 
 J'y ai fait tout de mon mieux, bon soir.
-

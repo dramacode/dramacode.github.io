@@ -2,6 +2,7 @@
 
 **** *creator_racine *book_racine_iphigenie *style_verse *genre_tragedy *dist1_racine_verse_tragedy_iphigenie *dist2_racine_verse_tragedy *id_AGAMEMNON *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agamemnon
 
+
 Oui, c'est Agamemnon, c'est ton roi qui t'éveille.
 Viens, reconnais la voix qui frappe ton oreille.
 
@@ -448,8 +449,8 @@ Par de feintes raisons je m'en vais l'abuser ;
 Je vais faire suspendre une pompe funeste,
 Et de ce jour au moins lui demander le reste.
 
-
 **** *creator_racine *book_racine_iphigenie *style_verse *genre_tragedy *dist1_racine_verse_tragedy_iphigenie *dist2_racine_verse_tragedy *id_ACHILLE *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achille
+
 
 Seigneur, honorez moins une faible conquête.
 Et que puisse bientôt le ciel, qui nous arrête,
@@ -813,8 +814,8 @@ Votre père frappé tombe, et périt lui-même,
 Alors de vos respects voyant les tristes fruits,
 Reconnaissez les coups, que vous aurez conduits.
 
-
 **** *creator_racine *book_racine_iphigenie *style_verse *genre_tragedy *dist1_racine_verse_tragedy_iphigenie *dist2_racine_verse_tragedy *id_ULYSSE *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulysse
+
 
 Seigneur, Agamemnon s'étonne avec justice.
 Songez-vous aux malheurs qui nous menacent tous ?
@@ -974,8 +975,8 @@ Venez, Achille et lui brûlants de vous revoir,
 Madame, et désormais tous deux d'intelligence
 Sont prêts à confirmer leur auguste alliance.
 
-
 **** *creator_racine *book_racine_iphigenie *style_verse *genre_tragedy *dist1_racine_verse_tragedy_iphigenie *dist2_racine_verse_tragedy *id_CLYTEMNESTRE *date_1674 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clytemnestre
+
 
 Ma fille, il faut partir sans que rien nous retienne,
 Et sauver, en fuyant, votre gloire et la mienne.
@@ -1250,8 +1251,8 @@ Quel miracle, Seigneur, quel dieu me l'a rendue ?
 Par quel prix, quel encens, ô ciel, puis-je jamais
 Récompenser Achille, et payer tes bienfaits !
 
-
 **** *creator_racine *book_racine_iphigenie *style_verse *genre_tragedy *dist1_racine_verse_tragedy_iphigenie *dist2_racine_verse_tragedy *id_IPHIGENIE *date_1674 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iphigenie
+
 
 Seigneur, où courez-vous ? Et quels empressements
 Vous dérobent sitôt à nos embrassements ?
@@ -1649,8 +1650,8 @@ Daignez m'ouvrir vos bras pour la dernière fois,
 Madame, et rappelant votre vertu sublime...
 Eurybate, à l'autel conduisez la victime.
 
-
 **** *creator_racine *book_racine_iphigenie *style_verse *genre_tragedy *dist1_racine_verse_tragedy_iphigenie *dist2_racine_verse_tragedy *id_ERIPHILE *date_1674 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eriphile
+
 
 Ne les contraignons point, Doris, retirons-nous,
 Laissons-les dans les bras d'un père et d'un époux,
@@ -1895,8 +1896,8 @@ Je n'emporterai point une rage inutile.
 Plus de raisons. Il faut, ou la perdre, ou périr.
 Viens, te dis-je. À Calchas je vais tout découvrir.
 
-
 **** *creator_racine *book_racine_iphigenie *style_verse *genre_tragedy *dist1_racine_verse_tragedy_iphigenie *dist2_racine_verse_tragedy *id_ARCAS *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
+
 
 C'est vous-même, Seigneur ! quel important besoin
 Vous a fait devancer l'aurore de si loin ?
@@ -1989,8 +1990,8 @@ Il veut entre vos bras remettre son amante.
 Lui-même il m'a chargé de conduire vos pas.
 Ne craignez rien.
 
-
 **** *creator_racine *book_racine_iphigenie *style_verse *genre_tragedy *dist1_racine_verse_tragedy_iphigenie *dist2_racine_verse_tragedy *id_EURYBATE *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eurybate
+
 
       Seigneur...
 
@@ -2033,8 +2034,8 @@ Voudrait lui-même en vain opposer son courage.
 Que fera-t-il, Madame ? Et qui peut dissiper
 Tous les flots d'ennemis prêts à l'envelopper ?
 
-
 **** *creator_racine *book_racine_iphigenie *style_verse *genre_tragedy *dist1_racine_verse_tragedy_iphigenie *dist2_racine_verse_tragedy *id_AEGINE *date_1674 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aegine
+
 
 Lui, Madame ? Quoi donc ? Qu'est ce qui s'est passé ?
 
@@ -2048,8 +2049,8 @@ Iphigénie avait retiré dans son sein ?
 Ériphile en ces lieux par vous-même conduite,
 A seule à tous les Grecs révélé votre fuite.
 
-
 **** *creator_racine *book_racine_iphigenie *style_verse *genre_tragedy *dist1_racine_verse_tragedy_iphigenie *dist2_racine_verse_tragedy *id_DORIS *date_1674 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_doris
+
 
 Quoi, Madame ! toujours irritant vos douleurs,
 Croirez-vous ne plus voir que des sujets de pleurs ?
@@ -2116,4 +2117,3 @@ J'entends du bruit, on vient, Clystemnestre s'avance.
 Remettez-vous, Madame, ou fuyez sa présence.
 
 Vous ne les suivez pas ?
-

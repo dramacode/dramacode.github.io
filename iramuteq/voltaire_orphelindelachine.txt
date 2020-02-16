@@ -2,6 +2,7 @@
 
 **** *creator_voltaire *book_voltaire_orphelindelachine *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_orphelindelachine *dist2_voltaire_verse_tragedy *id_GENGIS *date_1755 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gengis
 
+
 On a poussé trop loin le droit de ma conquête.
 Que le glaive se cache, et que la mort s'arrête :
 Je veux que les vaincus respirent désormais.
@@ -559,8 +560,8 @@ Se soumet à vos lois les armes à la main.
 
       Vos vertus.
 
-
 **** *creator_voltaire *book_voltaire_orphelindelachine *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_orphelindelachine *dist2_voltaire_verse_tragedy *id_OCTAR *date_1755 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octar
+
 
 Esclaves, écoutez ; que votre obéissance
 Soit l'unique réponse aux ordres de ma voix.
@@ -723,8 +724,8 @@ Nous ne connaissons point les prières, les larmes.
 On commande, et la terre écoute avec terreur.
 Demeurez, attendez l'ordre de l'empereur.
 
-
 **** *creator_voltaire *book_voltaire_orphelindelachine *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_orphelindelachine *dist2_voltaire_verse_tragedy *id_OSMAN *date_1755 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_osman
+
 
 La victime, seigneur, allait être égorgée ;
 Une garde autour d'elle était déjà rangée ;
@@ -785,8 +786,8 @@ Il soutient sa constance, il l'exhorte au supplice :
 Ils demandent tous deux que la mort les unisse.
 Tout un peuple autour d'eux pleure et frémit d'effroi.
 
-
 **** *creator_voltaire *book_voltaire_orphelindelachine *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_orphelindelachine *dist2_voltaire_verse_tragedy *id_ZAMTI *date_1755 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zamti
+
 
       Ce que je tremble à dire.
 Le malheur est au comble ; il n'est plus, cet empire :
@@ -1118,8 +1119,8 @@ Quel est ce nouveau trait de l'inhumanité ?
 Êtes-vous digne enfin, seigneur, de votre gloire ?
 Ah ! Vous ferez aimer votre joug aux vaincus.
 
-
 **** *creator_voltaire *book_voltaire_orphelindelachine *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_orphelindelachine *dist2_voltaire_verse_tragedy *id_IDAME *date_1755 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_idame
+
 
 Se peut-il qu'en ce temps de désolation,
 En ce jour de carnage et de destruction,
@@ -1706,8 +1707,8 @@ Ciel ! Que viens-je d'entendre ? Hélas ! Puis-je vous croire ?
 
 Qui peut vous inspirer ce dessein ?
 
-
 **** *creator_voltaire *book_voltaire_orphelindelachine *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_orphelindelachine *dist2_voltaire_verse_tragedy *id_ASSELI *date_1755 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_asseli
+
 
 Eh ! Qui n'éprouve, hélas ! Dans la perte commune,
 Les tristes sentiments de sa propre infortune ?
@@ -1792,8 +1793,8 @@ Ah ! Que résolvez-vous ?
 Mais ce fils, cet objet de crainte et de tendresse,
 L'abandonnerez-vous ?
 
-
 **** *creator_voltaire *book_voltaire_orphelindelachine *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_orphelindelachine *dist2_voltaire_verse_tragedy *id_ETAN *date_1755 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_etan
+
 
 Vous êtes observés ; la fuite est impossible ;
 Autour de notre enceinte une garde terrible
@@ -1885,4 +1886,3 @@ On a ravi son fils dans sa fatale absence :
 À nos cruels vainqueurs on conduit son enfance ;
 Et soudain j'ai volé pour donner mes secours
 Au royal orphelin dont on poursuit les jours.
-

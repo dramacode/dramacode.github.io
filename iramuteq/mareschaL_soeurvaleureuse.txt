@@ -2,6 +2,7 @@
 
 **** *creator_mareschaL *book_mareschaL_soeurvaleureuse *style_verse *genre_tragedy *dist1_mareschaL_verse_tragedy_soeurvaleureuse *dist2_mareschaL_verse_tragedy *id_oronte *date_1634 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_oronte
 
+
 A la fin des travaux⁎ d'un triste & long voyage,
 Doy-je remercier les Dieux, ou cette Image⁎ ?
 Les Dieux ? Je n'en sçaurois adorer que ces yeux ;
@@ -669,8 +670,8 @@ Mon erreur fit la sienne……
 
 Que le repos est doux, aprés tant de tourments⁎ !
 
-
 **** *creator_mareschaL *book_mareschaL_soeurvaleureuse *style_verse *genre_tragedy *dist1_mareschaL_verse_tragedy_soeurvaleureuse *dist2_mareschaL_verse_tragedy *id_lucidor *date_1634 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_lucidor
+
 
 Confus, desesperé, tout malheur me poursuit ;
 Dorame, Olympe, Amour, où m'avez-vous reduit ?
@@ -972,8 +973,8 @@ L'objét⁎ de vostre foy⁎ pour le prix de la sienne.
 Nostre amour a causé leur peine & leur salaire ;
 Et le destin a fait tout cela pour vous plaire.
 
-
 **** *creator_mareschaL *book_mareschaL_soeurvaleureuse *style_verse *genre_tragedy *dist1_mareschaL_verse_tragedy_soeurvaleureuse *dist2_mareschaL_verse_tragedy *id_roy-de-perse *date_1634 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_roydeperse
+
 
 Quelque accident l'empéche, & l'aura retardé ;
 Pour te voir, ô mon Fils, t'ay-je point hazardé⁎ ?
@@ -1084,8 +1085,8 @@ Comme en cét accident la fortune⁎ se jouë !
 
 Separons les, mon Frere, afin de les rejoindre.
 
-
 **** *creator_mareschaL *book_mareschaL_soeurvaleureuse *style_verse *genre_tragedy *dist1_mareschaL_verse_tragedy_soeurvaleureuse *dist2_mareschaL_verse_tragedy *id_roy-de-thrace *date_1634 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_roydethrace
+
 
 Qu'autre personne icy ne nous soit introduitte.
 
@@ -1200,8 +1201,8 @@ Du moins à cét effect⁎ nous les avons mandez.
 
 Melinde ? approchez vous.
 
-
 **** *creator_mareschaL *book_mareschaL_soeurvaleureuse *style_verse *genre_tragedy *dist1_mareschaL_verse_tragedy_soeurvaleureuse *dist2_mareschaL_verse_tragedy *id_olympe *date_1634 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_olympe
+
 
 Lucidor me trahir ? me promettre la foy⁎,
 Pour enlever Melinde, & se moquer de moy ?
@@ -1676,8 +1677,8 @@ Et la mienne à tous deux également se vouë.
 
 O Dieux ! en un moment comme tout est changé !
 
-
 **** *creator_mareschaL *book_mareschaL_soeurvaleureuse *style_verse *genre_tragedy *dist1_mareschaL_verse_tragedy_soeurvaleureuse *dist2_mareschaL_verse_tragedy *id_dorame *date_1634 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_dorame
+
 
 Dis-tu qu'il est parti, qu'on ne l'a sceu treuver ?
 
@@ -2421,8 +2422,8 @@ A faict ceder ma haine à vostre affection :
 Pour le fruict des travaux⁎ d'une guerre finie
 Je vous donne ma Sœur, elle la Bythinie.
 
-
 **** *creator_mareschaL *book_mareschaL_soeurvaleureuse *style_verse *genre_tragedy *dist1_mareschaL_verse_tragedy_soeurvaleureuse *dist2_mareschaL_verse_tragedy *id_melinde *date_1634 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_melinde
+
 
 Où m'avez-vous reduite, espoir, ambition ?
 Que le sort⁎ répond mal à mon intention !
@@ -2773,8 +2774,8 @@ Le mal-heur a servy pour accroistre la joye.
 
 Ma flame est là cachée, on n'en voit que la moindre.
 
-
 **** *creator_mareschaL *book_mareschaL_soeurvaleureuse *style_verse *genre_tragedy *dist1_mareschaL_verse_tragedy_soeurvaleureuse *dist2_mareschaL_verse_tragedy *id_gelandre *date_1634 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_gelandre
+
 
       Vous soûpirez.
 
@@ -2942,8 +2943,8 @@ Moy ? le cœur à tous deux, dessous vos loix⁎ rangé.
 
 Où sont les grands plaisirs qu'au cœurs des vrais Amants ?
 
-
 **** *creator_mareschaL *book_mareschaL_soeurvaleureuse *style_verse *genre_tragedy *dist1_mareschaL_verse_tragedy_soeurvaleureuse *dist2_mareschaL_verse_tragedy *id_lycanthe *date_1634 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lycanthe
+
 
 La crainte & le danger l'auront fait esquiver⁎ ?
 J'ai couru sur ses pas, j'ay sa piste suivie,
@@ -3049,8 +3050,27 @@ Te va faire dormir en l'eternelle nuict.
 
 Ah ! ma vie en mon sang…..
 
+**** *creator_mareschaL *book_mareschaL_soeurvaleureuse *style_verse *genre_tragedy *dist1_mareschaL_verse_tragedy_soeurvaleureuse *dist2_mareschaL_verse_tragedy *id_soldat1 *date_1634 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_soldat1
+
+
+Dérober à vos bras cette legere peine ?
+
+Il est mort ; accourons, & vangeons son trépas.
+
+      Ah ! je meurs.
+
+**** *creator_mareschaL *book_mareschaL_soeurvaleureuse *style_verse *genre_tragedy *dist1_mareschaL_verse_tragedy_soeurvaleureuse *dist2_mareschaL_verse_tragedy *id_soldat2 *date_1634 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_soldat2
+
+
+Laissez nous le peril, & joüyssez du fruict.
+
+**** *creator_mareschaL *book_mareschaL_soeurvaleureuse *style_verse *genre_tragedy *dist1_mareschaL_verse_tragedy_soeurvaleureuse *dist2_mareschaL_verse_tragedy *id_soldat3 *date_1634 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_soldat3
+
+
+Nous yrons……
 
 **** *creator_mareschaL *book_mareschaL_soeurvaleureuse *style_verse *genre_tragedy *dist1_mareschaL_verse_tragedy_soeurvaleureuse *dist2_mareschaL_verse_tragedy *id_page *date_1634 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_page
+
 
 Faisons venir ce fer⁎ au secours de mes larmes.
 
@@ -3065,4 +3085,3 @@ Que le soldat en foule & le Peuple environne,
 Vous demandent present aux encens qu'on leur donne.
 
 Ils attendent ensemble & vous, & la Princesse.
-

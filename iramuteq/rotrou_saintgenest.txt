@@ -2,6 +2,7 @@
 
 **** *creator_rotrou *book_rotrou_saintgenest *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_saintgenest *dist2_rotrou_verse_tragedy *id_DIOCLETIAN *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_diocletian
 
+
 Déployez, Valérie, et vos traits et vos charmes ;
 Au vainqueur d'Orient, faites tomber les armes ;
 Par lui, l'Empire est calme, et n'a plus d'ennemis ;
@@ -211,8 +212,8 @@ N'ait prévenu l'effet de votre bon office.
 Ainsi reçoive un prompt et sévère supplice,
 Quiconque ose des dieux irriter la justice.
 
-
 **** *creator_rotrou *book_rotrou_saintgenest *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_saintgenest *dist2_rotrou_verse_tragedy *id_MAXIMIN *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maximin
+
 
 La part que vos bontés m'ont fait prendre en l'Empire,
 N'égale point, Seigneur, ces beaux fers où j'aspire ;
@@ -365,8 +366,8 @@ Puisqu'il l'a pu franchir, et s'être salutaire ;
 Et qu'il a bien voulu, par son impiété,
 D'une feinte, en mourant, faire une vérité.
 
-
 **** *creator_rotrou *book_rotrou_saintgenest *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_saintgenest *dist2_rotrou_verse_tragedy *id_VALERIE *date_1645 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_valerie
+
 
 Le premier des césars apprit bien que les songes
 Ne sont pas toujours faux, et toujours des mensonges ;
@@ -502,8 +503,8 @@ Demande une injustice à votre majesté.
 Vous voyez de quel soin je vous prêtais les mains ;
 Mais sa grâce n'est plus au pouvoir des humains.
 
-
 **** *creator_rotrou *book_rotrou_saintgenest *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_saintgenest *dist2_rotrou_verse_tragedy *id_CAMILLE *date_1645 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_camille
+
 
 Quoi, vous ne sauriez vaincre une frayeur si vaine ?
 Un songe, une vapeur, vous causent de la peine !
@@ -555,8 +556,8 @@ Comme son art, Madame, a su les abuser !
 
 Simple, ainsi de César tu méprises la grâce !
 
-
 **** *creator_rotrou *book_rotrou_saintgenest *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_saintgenest *dist2_rotrou_verse_tragedy *id_PLANCIEN *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_plancien
+
 
 Le théâtre aujourd'hui, superbe en sa structure,
 Admirable en son art, et riche en sa peinture,
@@ -627,8 +628,8 @@ J'ai mis la tragédie, à sa dernière scène ;
 Et fait, avec sa tête, ensemble séparer,
 Le cher nom de son dieu, qu'il voulait proférer.
 
-
 **** *creator_rotrou *book_rotrou_saintgenest *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_saintgenest *dist2_rotrou_verse_tragedy *id_GENEST *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_genest
+
 
 Si parmi vos sujets, une abjecte fortune,
 Permet de partager l'allégresse commune,
@@ -1036,8 +1037,8 @@ Je m'assure sur lui du succès de ma cause ;
 De mes chaînes par lui je serai déchargé,
 Et par lui-même un jour, César sera jugé.
 
-
 **** *creator_rotrou *book_rotrou_saintgenest *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_saintgenest *dist2_rotrou_verse_tragedy *id_MARCELE *date_1645 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marcele
+
 
 Dieux ! Comment en ce lieu faire la Comédie ?
 De combien d'importuns j'ai la tête étourdie !
@@ -1188,8 +1189,8 @@ Nous assassine tous, en lui perçant le sein.
 
 Que nous achèverons, par la fin de nos jours.
 
-
 **** *creator_rotrou *book_rotrou_saintgenest *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_saintgenest *dist2_rotrou_verse_tragedy *id_OCTAVE *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octave
+
 
       Quel mystère se passe ?
 
@@ -1210,8 +1211,13 @@ Quelque compassion l'est à notre innocence.
 
       Ô funeste discours !
 
+**** *creator_rotrou *book_rotrou_saintgenest *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_saintgenest *dist2_rotrou_verse_tragedy *id_SERGESTE *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sergeste
+
+
+Comment, se préparant avecque tant de soin...
 
 **** *creator_rotrou *book_rotrou_saintgenest *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_saintgenest *dist2_rotrou_verse_tragedy *id_LENTULE *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lentule
+
 
 Il les fait sur le champ ; et sans suivre l'histoire,
 Croit couvrir en rentrant son défaut de mémoire.
@@ -1225,8 +1231,29 @@ Quoi qu'il manque au sujet, jamais il ne hésite.
       Les docteurs, sans lettres ni sans lois,
 Parfois les confidents, et les traîtres parfois.
 
+**** *creator_rotrou *book_rotrou_saintgenest *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_saintgenest *dist2_rotrou_verse_tragedy *id_ALBIN *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_albin
+
+
+      Les assistants.
+
+**** *creator_rotrou *book_rotrou_saintgenest *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_saintgenest *dist2_rotrou_verse_tragedy *id_DECORATEUR *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_decorateur
+
+
+Le temps nous a manqué, plutôt que l'industrie ;
+Joint qu'on voit mieux de loin ces raccourcissements,
+Ces corps sortant du plan de ces refondrements ;
+L'approche à ces desseins ôtent leurs perspectives,
+En confond les faux jours, rend leurs couleurs moins vives,
+Et comme à la nature, est nuisible à notre art,
+À qui l'éloignement semble apporter du fard.
+La grâce une autre fois y sera plus entière.
+
+Hâtez-vous, il est temps, toute la Cour arrive.
+
+Il repassait son rôle, et s'y veut surpasser.
 
 **** *creator_rotrou *book_rotrou_saintgenest *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_saintgenest *dist2_rotrou_verse_tragedy *id_GEOLIER *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_geolier
+
 
 Le vôtre me suffit, et ce soin me regarde.
 
@@ -1238,8 +1265,8 @@ Si bientôt à nos dieux vous ne rendez hommage,
 Vous vous acquittez mal de votre personnage ;
 Et je crains en cet acte un tragique succès.
 
-
 **** *creator_rotrou *book_rotrou_saintgenest *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_saintgenest *dist2_rotrou_verse_tragedy *id_ADRIAN *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adrian
+
 
 Ne délibère plus, Adrian, il est temps,
 De suivre avec ardeur ces fameux combattants ;
@@ -1619,8 +1646,8 @@ Descends, céleste acteur ; tu m'attends ! Tu m'appelles !
 Attends, mon zèle ardent me fournira des ailes ;
 Du Dieu qui t'a commis, dépars-moi les bontés.
 
-
 **** *creator_rotrou *book_rotrou_saintgenest *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_saintgenest *dist2_rotrou_verse_tragedy *id_NATALIE *date_1645 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_natalie
+
 
 Ô nouvelle trop vraie ! Est-ce là mon époux ?
 
@@ -1852,8 +1879,8 @@ Qui possède un époux, possesseur de Dieu même ;
 Toi, qui de ta doctrine assiste les chrétiens,
 Approche, cher Anthyme, et joins tes voeux aux miens.
 
-
 **** *creator_rotrou *book_rotrou_saintgenest *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_saintgenest *dist2_rotrou_verse_tragedy *id_FLAVIE *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_flavie
+
 
 Je crois, cher Adrian, que vous n'ignorez pas
 Quel important sujet adresse ici mes pas ;
@@ -2032,8 +2059,53 @@ L'ardeur de réussir, le doit faire excuser.
 Le fer, qui de ses ans doit terminer le cours,
 Retranche vos plaisirs, en retranchant ses jours.
 
+**** *creator_rotrou *book_rotrou_saintgenest *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_saintgenest *dist2_rotrou_verse_tragedy *id_ANTHYME *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anthyme
 
-**** *creator_rotrou *book_rotrou_saintgenest *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_saintgenest *dist2_rotrou_verse_tragedy *id_PAGE *date_1645 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_page
+
+Un bruit qui par la ville a frappé mon oreille,
+De ta conversion m'apprenant la merveille,
+Et le noble mépris que tu fais de tes jours,
+M'amène à ton combat, plutôt qu'à ton secours ;
+Je sais combien César t'est un faible adversaire,
+Je sais ce qu'un chrétien sait et souffrir et faire ;
+Et je sais que jamais pour la peur du trépas,
+Un coeur touché du Christ, n'a rebroussé ses pas.
+Va donc, heureux ami, va présenter ta tête,
+Moins au coup qui t'attend, qu'au laurier qu'on t'apprête ;
+Va, de tes saints propos éclore les effets,
+De tous les choeurs des cieux, va remplir les souhaits ;
+Et vous, hôtes du Ciel, saintes légions d'anges,
+Qui du nom trois fois saint, célébrez les louanges,
+Sans interruption de vos sacrés concerts,
+À son aveuglement, tenez les cieux ouverts.
+
+Sans besoin, Adrian, de cette eau salutaire,
+Ton sang t'imprimera ce sacré caractère ;
+Conserve seulement une invincible foi ;
+Et combattant pour Dieu, Dieu combattra pour toi.
+
+**** *creator_rotrou *book_rotrou_saintgenest *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_saintgenest *dist2_rotrou_verse_tragedy *id_GARDE *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_garde
+
+
+Qui croit un prisonnier, toutefois le hasarde.
+
+      Seigneur ?
+
+**** *creator_rotrou *book_rotrou_saintgenest *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_saintgenest *dist2_rotrou_verse_tragedy *id_GARDES *date_1645 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_gardes
+
+
+Ceux qu'on mande à la mort, ne marchent pas sans peine.
+
+**** *creator_rotrou *book_rotrou_saintgenest *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_saintgenest *dist2_rotrou_verse_tragedy *id_VOIX *date_1645 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_voix
+
+
+Poursuis Genest ton personnage,
+Tu n'imiteras point en vain ;
+Ton salut ne dépend, que d'un peu de courage,
+Et Dieu t'y prêtera la main.
+
+**** *creator_rotrou *book_rotrou_saintgenest *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_saintgenest *dist2_rotrou_verse_tragedy *id_PAGE *date_1645 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_page
+
 
 Madame.
 
@@ -2048,4 +2120,3 @@ Et de là se dispose à l'honneur de vous voir.
 
 Genest attend, Seigneur, dans un désir extrême,
 De s'acquitter des voeux dûs à vos Majestés.
-

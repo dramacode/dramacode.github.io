@@ -2,6 +2,7 @@
 
 **** *creator_campistron *book_campistron_virginie *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_virginie *dist2_campistron_verse_tragedy *id_appius *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_appius
 
+
 Helas !
 
       Je crains l'aspect d'une inhumaine.
@@ -419,8 +420,8 @@ Ne songeons qu'à vanger le mépris...
 
 Vien, suy-moy, nous verrons ce qu'il faut que je fasse.
 
-
 **** *creator_campistron *book_campistron_virginie *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_virginie *dist2_campistron_verse_tragedy *id_icile *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_icile
+
 
 Severe que dis-tu ? Ciel ! qu'oses-tu penser ?
 Crois-tu de Clodius la noire calomnie ?
@@ -723,8 +724,8 @@ Faire parler par tout ma douleur et la vostre,
 Allons, que mille morts marquent ce triste jour,
 Puisque Rome l'exige aussi bien que l'amour.
 
-
 **** *creator_campistron *book_campistron_virginie *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_virginie *dist2_campistron_verse_tragedy *id_clodius *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clodius
+
 
 De ma temerité Rome entiere surprise,
 Demande les raisons d'une telle entreprise,
@@ -910,8 +911,8 @@ Cette fille est à moy, je suis son maistre enfin,
 Appius à mes loix a soûmis son destin,
 Gardes qu'on la conduise.
 
-
 **** *creator_campistron *book_campistron_virginie *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_virginie *dist2_campistron_verse_tragedy *id_plautie *date_1683 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_plautie
+
 
 Ah Seigneur, écoutez les douleurs d'une Mere,
 Et puisqu'aprés deux jours d'un mortel desespoir
@@ -1269,8 +1270,8 @@ Quel coup⁎ ?
  
 Helas !
 
-
 **** *creator_campistron *book_campistron_virginie *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_virginie *dist2_campistron_verse_tragedy *id_virginie *date_1683 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_virginie
+
 
       Ah quel comble de joye !
 Madame, enfin le Ciel souffre que je vous voye,
@@ -1687,8 +1688,8 @@ Et faira confesser à la plus noire envie⁎,
 Que d'illustres Ayeux m'avoient donné la vie,
 Adieu.
 
-
 **** *creator_campistron *book_campistron_virginie *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_virginie *dist2_campistron_verse_tragedy *id_camille *date_1683 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_camille
+
 
       Je crains bien moins que je n'espere,
 Les premiers des Romains se declarent pour vous,
@@ -1777,8 +1778,25 @@ Les funestes⁎ horreurs que vous venez d'entendre⁎,
 Heureuse⁎ si ma mort avoit pû devancer,
 La douleur que je souffre à vous les annoncer.
 
+**** *creator_campistron *book_campistron_virginie *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_virginie *dist2_campistron_verse_tragedy *id_fulvie *date_1683 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_fulvie
+
+
+Madame, où courez-vous, vous verray-je toûjours,
+D'une douleur mortelle entretenir le cours ?
+Sourde à tous nos conseils, desesperée, errante,
+Loin d'adoucir vos maux chaque instant les augmente,
+Un chagrin⁎ devorant precipite vos pas,
+Vous courez en cent lieux où vous n'arrestez pas,
+Tantost parmy le peuple, et tantost solitaire,
+Tout ce que vous voiez ne fait que vous déplaire,
+Aux discours⁎ des Romains touchez de vos malheurs,
+Vous avez seulement répondu par des pleurs,
+Leurs soins officieux...
+
+Mais Madame souffrez…
 
 **** *creator_campistron *book_campistron_virginie *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_virginie *dist2_campistron_verse_tragedy *id_severe *date_1683 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_severe
+
 
 Oui, vous pouvez, Seigneur, aussi bien que Plautie,
 Entrer dans ce Palais, parler à Virginie,
@@ -1837,3 +1855,27 @@ Et de vous avertir, Madame, qu'en ces lieux,
 Vous le verrez bien-tost venir victorieux,
 Je cours le retrouver.
 
+**** *creator_campistron *book_campistron_virginie *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_virginie *dist2_campistron_verse_tragedy *id_fabian *date_1683 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_fabian
+
+
+      Plautie, aux pleurs abandonnée,
+Seigneur, à vous attendre est toûjours obstinée,
+Elle veut vous parler, et ses frequens soûpirs⁎...
+
+**** *creator_campistron *book_campistron_virginie *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_virginie *dist2_campistron_verse_tragedy *id_pison *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pison
+
+
+Aux ordres d'Appius j'obeïs à regret,
+Madame, mais...
+
+Madame à cet effort⁎ il a dû se porter,
+Le soin⁎ de son salut l'a forcé d'y souscrire,
+Il n'a pû s'en deffendre, et j'oseray vous dire,
+Que son cœur inquiet a long-temps balancé,
+Mais d'un peril trop grand il s'est veu menacé ;
+Vos pleurs estoient plus forts que les armes d'Icile,
+Déja de toutes parts on voyoit dans la ville,
+Les femmes à l'envy⁎ sur vos pas s'assembler,
+Déja...
+
+      Souffrez...

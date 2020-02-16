@@ -2,6 +2,7 @@
 
 **** *creator_marechal *book_marechal_jugementdernierdesrois *style_prose *genre_comedy *dist1_marechal_prose_comedy_jugementdernierdesrois *dist2_marechal_prose_comedy *id_LEPAPE *date_1793 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepape
 
+
 Ah ! Ah ! Vous chargez le tableau... Citez un seul de mes prédécesseurs qui ait fait preuve d'autant de modération que moi. À leur exemple, j'aurais bien pu mettre en interdit tout le royaume de France...
 
 Eh bien, la République soit ! La République. J'aurais pu appeler sur la tête de tous les Français les vengeances du ciel ; je me suis contenté de conjurer contre eux toutes les puissances de la terre. Un prêtre pouvait-il moins ? Écoutez ; faites-moi grâce ; tout le reste de ma vie je prierai Dieu pour les Sans-culottes.
@@ -24,8 +25,8 @@ Messieurs ! Messieurs ! Rendez à César ce qui est à César.
 
 Et moi je prends femme.
 
-
 **** *creator_marechal *book_marechal_jugementdernierdesrois *style_prose *genre_comedy *dist1_marechal_prose_comedy_jugementdernierdesrois *dist2_marechal_prose_comedy *id_LACZARINE *date_1793 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laczarine
+
 
 Pour moi, je vais me coucher dans cette caverne. Au lieu de vous quereller, qui m'aime me suive... Stanislas, ne venez-vous pas me tenir compagnie ?
 
@@ -47,8 +48,8 @@ Si tu rendais à César ce qui appartient à César, petit évêque de Rome !...
 
 Et moi je passe aux Jacobins ou aux Cordeliers.
 
-
 **** *creator_marechal *book_marechal_jugementdernierdesrois *style_prose *genre_comedy *dist1_marechal_prose_comedy_jugementdernierdesrois *dist2_marechal_prose_comedy *id_LEMPEREUR *date_1793 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lempereur
+
 
 Pardonnez-moi ; je ne suis pas aussi monstre qu'on paraît le croire. Il est vrai que la Lorraine me tentait : mais la France n'eût-elle pas été trop heureuse d'acheter la paix et le bon ordre au prix d'une province ? N'en a-t-elle pas déja assez. D'ailleurs, s'il y a quelqu'un à blâmer, c'est le vieux Kaunitz qui abusa de ma jeunesse, de mon inexpérience : c'est Cobourg, c'est Brunswick.
 
@@ -60,8 +61,22 @@ Il ferait beau voir l'empereur de la maison d'Autriche, gratter la terre pour vi
 
 La paix, la paix : il y en a pour tout le monde.
 
+**** *creator_marechal *book_marechal_jugementdernierdesrois *style_prose *genre_comedy *dist1_marechal_prose_comedy_jugementdernierdesrois *dist2_marechal_prose_comedy *id_LEROIDANGLETERRE *date_1793 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroidangleterre
+
+
+Mais je n'avais pas la tête à moi, vous le savez. Punit-on un fou ? On le place à l'hópital.
+
+J'en doute : qu'en pensez-vous, Saint-père ? Vous le tenez depuis assez longtemps prisonnier au Château Saint-Ange.
+
+**** *creator_marechal *book_marechal_jugementdernierdesrois *style_prose *genre_comedy *dist1_marechal_prose_comedy_jugementdernierdesrois *dist2_marechal_prose_comedy *id_LEROIDEPRUSSE *date_1793 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroideprusse
+
+
+La manière dont vous en agissez envers moi est de toute injustice. Car enfin vous devez me connaître : je n'ai jamais eu le génie militaire de mon oncle ; je m'occupai beaucoup plus des Illuminés que des Français. Si mes soldats ont fait un peu de mal, on le leur a bien rendu. Ainsi quitte : tant de tués que de blessés, de part et d'autre, tout est compensé.
+
+Oui, mais il n'y en aura pas pour longtemps.
 
 **** *creator_marechal *book_marechal_jugementdernierdesrois *style_prose *genre_comedy *dist1_marechal_prose_comedy_jugementdernierdesrois *dist2_marechal_prose_comedy *id_LEROIDENAPLES *date_1793 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroidenaples
+
 
 Volcan pour volcan, que ne me laissiez-vous là-bas ! Eté le dernier à me mettre de la ligue. Il a bien fallu à la fin que je me rangeasse du parti de mes confrères les rois. Ne fallait-il pas hurler avec les loups ?
 
@@ -73,8 +88,8 @@ Oui ! Oui ! Chacun le sien. Cette barrique de biscuit ne doit pas ressembler à 
 
 Mais voilà le volcan qui paraît vouloir nous mettre tous d'acord : une lave brûlante descend du cratère et s'avance vers nous. Dieux !
 
-
 **** *creator_marechal *book_marechal_jugementdernierdesrois *style_prose *genre_comedy *dist1_marechal_prose_comedy_jugementdernierdesrois *dist2_marechal_prose_comedy *id_LEROIDESPAGNE *date_1793 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroidespagne
+
 
 J'en conviens, je ne suis qu'un sot, que les prêtres et ma femme ont toujours mené par le bout du nez ; ainsi, faites-moi grâce.
 
@@ -90,8 +105,13 @@ Quelle trouvaille ! J'ai encore un reste de la ration de pain qu'on me donnait �
 
 Bonne Notre-Dame ! Secourez-moi... Si j'en réchappe, je me fais Sans-Culotte.
 
+**** *creator_marechal *book_marechal_jugementdernierdesrois *style_prose *genre_comedy *dist1_marechal_prose_comedy_jugementdernierdesrois *dist2_marechal_prose_comedy *id_LEROIDESARDAIGNE *date_1793 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroidesardaigne
+
+
+J'ai faim, moi... Ah ! Ah ! Où est mon chapelain pour dire mon Benedicite.
 
 **** *creator_marechal *book_marechal_jugementdernierdesrois *style_prose *genre_comedy *dist1_marechal_prose_comedy_jugementdernierdesrois *dist2_marechal_prose_comedy *id_LEROIDEPOLOGNE *date_1793 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroidepologne
+
 
 Vieille Catau, regarde-toi dans cette fontaine.
 
@@ -100,4 +120,3 @@ Voisine, c'en est assez. Holà ! Holà !
 Cousin, que fais-tu là à l'écart ? Tu manges je crois, j'en retiens part.
 
 Catherine n'a jamais fait petite bouche : mais nous ne sommes plus ici à Petersbourg ; chacun le sien.
-

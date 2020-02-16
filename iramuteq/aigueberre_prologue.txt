@@ -2,6 +2,7 @@
 
 **** *creator_aigueberre *book_aigueberre_prologue *style_prose *genre_prologue *dist1_aigueberre_prose_prologue_prologue *dist2_aigueberre_prose_prologue *id_LECHEVALIER *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
 
+
 Eh, Madame, y a-t-il à délibérer ? On est à la Campagne. On veut s'amuser, on veut rire et la chose est toute simple, toute naturelle, toute décidée. C'est du comique qu'il nous faut.
 
 Pourquoi, Madame ? C'est parce qu'il ennuie, et qu'il déplaît. Pour moi je n'y tiens pas, et la tragédie en un acte qui fut représentée ici ces jours passés, me parut trop longue de moitié.
@@ -26,8 +27,8 @@ Une tragédie, un opéra, une comédie ; mais oui, cela peut être amusant. Qu'e
 
 Il me tarde de voir cette bigarrure.
 
-
 **** *creator_aigueberre *book_aigueberre_prologue *style_prose *genre_prologue *dist1_aigueberre_prose_prologue_prologue *dist2_aigueberre_prose_prologue *id_LECOMMANDEUR *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecommandeur
+
 
 Elle l'est quelque fois, Madame, mais de grâce peut-on donner ce nom à une pièce en un acte.
 
@@ -49,8 +50,8 @@ Il s'agit, Mesdames, de savoir la pièce que nous jouerons aujourd'hui.
 
 Pour moi je ne m'y oppose point, pourvu qu'il me soit permis de faire un tour de promenade dans le jardin, pendant qu'on jouera la tragédie en un acte.
 
-
 **** *creator_aigueberre *book_aigueberre_prologue *style_prose *genre_prologue *dist1_aigueberre_prose_prologue_prologue *dist2_aigueberre_prose_prologue *id_LEVICOMTE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levicomte
+
 
 J'avoue que cette dispute me fait plaisir, et que la vivacité du Commandeur ne me réjouit pas moins, que je suis charmé du bon sens de Madame la Marquise.
 
@@ -64,8 +65,17 @@ C'est bien le moins qu'on doive à la tragédie, de lui accorder le pas sur la c
 
 Sa singularité peut lui tenir lieu de mérite.
 
+**** *creator_aigueberre *book_aigueberre_prologue *style_prose *genre_prologue *dist1_aigueberre_prose_prologue_prologue *dist2_aigueberre_prose_prologue *id_JULIE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+
+
+Les Comédies que nous représentons entre nous pour nous amuser, excitent la curiosité de nos voisins. Il nous arrive ce soir de la Compagnie, et il serait temps de choisir entre les trois Pièces que nous avons déjà jouées, celle qui vous paraît la plus propre à réjouir aujourd'hui l'assemblée.
+
+Il me vient une idée qui fera, je pense, au gré de l'Assemblée. La Marquise tient pour la tragédie, Hortense pour la comédie, la Comtesse pour la pastorale ; il n'y a qu'à les jouer aujourd'hui toutes trois ; deux heures de temps nous en feront raison, de tout le monde aura lieu d'être satisfait.
+
+On verra du moins par là, que nous avons tenté toute forte de voies pour plaire aux personnes que nous attendons , mais je crois entendre le bruit des équipages ; c'est la compagnie sans doute qui arrive, allons la recevoir, de disposer les choses pour l'exécution de notre projet.
 
 **** *creator_aigueberre *book_aigueberre_prologue *style_prose *genre_prologue *dist1_aigueberre_prose_prologue_prologue *dist2_aigueberre_prose_prologue *id_LAMARQUISE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
+
 
 Eh, pourquoi ne jouerions-nous pas du Tragique ?
 
@@ -93,8 +103,15 @@ J'y consens volontiers.
 
 Pour ne pas retarder la promenade de Monsieur le Commandeur, je suis d'avis qu'on commence par jouer cette tragédie qui lui déplaît tant.
 
+**** *creator_aigueberre *book_aigueberre_prologue *style_prose *genre_prologue *dist1_aigueberre_prose_prologue_prologue *dist2_aigueberre_prose_prologue *id_HORTENSE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hortense
+
+
+Vous perdriez Vicomte. Soit que le Comique en général m'amuse davantage, soit que je sache mauvais gré à l'Auteur de votre tragédie en un acte, d'avoir voulu m'attendrir pour si peu de temps, je me déclare hautement pour la comédie, et je souhaite qu'elle soit jouée préférablement à toute autre pièce.
+
+Mais, Madame, peut-on espérer que les personnes qui doivent arriver, accoutumées à voir tous les jours l'Opéra de Paris, et à entendre les voix les plus rares, voudront bien se prêter à l'envie que nous avons de les amuser.
 
 **** *creator_aigueberre *book_aigueberre_prologue *style_prose *genre_prologue *dist1_aigueberre_prose_prologue_prologue *dist2_aigueberre_prose_prologue *id_CELIMENE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celimene
+
 
 Et moi j'opine pour la pastorale, telle est la disposition de mon coeur, que les paroles les plus touchantes ne sauraient l'émouvoir, si la musique n'est de la partie, mais aussi ma sensibilité est alors extrême, de je ne sais plus ce qui me touche davantage ou du chant ou des paroles.
 
@@ -103,4 +120,3 @@ Oui, Madame, on se prête tous les jours à ces sortes de choses, et pourvu que 
 Et moi de même.
 
 Comme il est bien dû à l'opéra de terminer le spectacle, lui qui mérite ce nom par excellence.
-

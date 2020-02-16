@@ -2,6 +2,7 @@
 
 **** *creator_boursault *book_boursault_deuxfreresgemeaux *style_verse *genre_comedy *dist1_boursault_verse_comedy_deuxfreresgemeaux *dist2_boursault_verse_comedy *id_isidore *date_1665 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_isidore
 
+
       Il s'exhibe où le cry prend son estre
 Qu'est-ce ?
 
@@ -107,8 +108,8 @@ Je seray Benevole envers sa catastrophe ;
 C'est le cœur qui le dit, & s'il est trop obscur
 Ex abundantia cordis os loquitur.
 
-
 **** *creator_boursault *book_boursault_deuxfreresgemeaux *style_verse *genre_comedy *dist1_boursault_verse_comedy_deuxfreresgemeaux *dist2_boursault_verse_comedy *id_eutrope *date_1665 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_eutrope
+
 
 Est-ce pas prés d'icy que demeure Isidore ?
 
@@ -191,8 +192,8 @@ Et le nom de mon fils, & le nom de mon gendre ;
 Et si touchant sa fille Isidore m'en croit
 Envers l'autre Nicandre il fera ce qu'il doit.
 
-
 **** *creator_boursault *book_boursault_deuxfreresgemeaux *style_verse *genre_comedy *dist1_boursault_verse_comedy_deuxfreresgemeaux *dist2_boursault_verse_comedy *id_hipolite *date_1665 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hipolite
+
 
 Me trompois-je, Jacinte, est-ce là sa demeure ?
 
@@ -510,8 +511,8 @@ Qui des deux…
 
       Et demandez au mien.
 
-
 **** *creator_boursault *book_boursault_deuxfreresgemeaux *style_verse *genre_comedy *dist1_boursault_verse_comedy_deuxfreresgemeaux *dist2_boursault_verse_comedy *id_jacinte *date_1665 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_jacinte
+
 
       C'est là mesme.
 
@@ -957,8 +958,8 @@ Ma foy, si tu me veux, je te veux bien aussi.
 
       Tien.
 
-
 **** *creator_boursault *book_boursault_deuxfreresgemeaux *style_verse *genre_comedy *dist1_boursault_verse_comedy_deuxfreresgemeaux *dist2_boursault_verse_comedy *id_ismene *date_1665 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismene
+
 
 Nicandre ! Le seroit-ce ? Essayons de l'apprendre.
 Ce Nicandre, Madame, à mon cœur est bien cher,
@@ -1309,8 +1310,8 @@ Mais lors qu'on vous a pris dans le Cours de la Reyne…
 
 Demandez à mon pere.
 
-
 **** *creator_boursault *book_boursault_deuxfreresgemeaux *style_verse *genre_comedy *dist1_boursault_verse_comedy_deuxfreresgemeaux *dist2_boursault_verse_comedy *id_premier-nicandre *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_premiernicandre
+
 
       Madame, il doit m'estre bien doux
 De jouïr du bon-heur qui m'approche de vous ;
@@ -1761,8 +1762,8 @@ Luy Madame ? C'est moy qu'on a pris dans ce lieu.
 
 Quelles graces vous rendre ! Une gloire parfaite…
 
-
 **** *creator_boursault *book_boursault_deuxfreresgemeaux *style_verse *genre_comedy *dist1_boursault_verse_comedy_deuxfreresgemeaux *dist2_boursault_verse_comedy *id_second-nicandre *date_1665 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_secondnicandre
+
 
       Plût à Dieu !
 
@@ -2134,8 +2135,8 @@ Pour moy, j'adore Ismene.
 
 Pourrons nous estre à vous, & souffrirez vous bien.
 
-
 **** *creator_boursault *book_boursault_deuxfreresgemeaux *style_verse *genre_comedy *dist1_boursault_verse_comedy_deuxfreresgemeaux *dist2_boursault_verse_comedy *id_robin *date_1665 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_robin
+
 
 Madame, estes-vous Ange ? Ou bien estes-vous Diable ?
 Quoy, sans vous dire mot vous sçavez nos secrets ?
@@ -2815,8 +2816,8 @@ Allez dans une Chambre y conter vostre vie,
 Et faites qu'en tous lieux on vous louë en ce point
 Qu'on vous a crû MENTEURS, & vous ne MENTIEZ POINT.
 
-
 **** *creator_boursault *book_boursault_deuxfreresgemeaux *style_verse *genre_comedy *dist1_boursault_verse_comedy_deuxfreresgemeaux *dist2_boursault_verse_comedy *id_ragotin *date_1665 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_ragotin
+
 
       Comme elle parle, écoutez, Diablezot⁎.
 
@@ -3001,8 +3002,20 @@ Elle garçonnisée⁎, instruits-moy de son sens ?
 
       Moy je le scais aussi.
 
+**** *creator_boursault *book_boursault_deuxfreresgemeaux *style_verse *genre_comedy *dist1_boursault_verse_comedy_deuxfreresgemeaux *dist2_boursault_verse_comedy *id_commissaire *date_1665 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_commissaire
+
+
+Vous craignez vainement qu'il se puisse deffendre,
+Jusques dans son logis on le peut aller prendre,
+Et quinze ou seize Archers aux captures forts prompts…
+
+Et sur vostre parole il aura l'asseurance…
+
+Mais enfin d'une femme il verra l'écriture,
+Et d'un cœur amoureux prevenant le dessein…
 
 **** *creator_boursault *book_boursault_deuxfreresgemeaux *style_verse *genre_comedy *dist1_boursault_verse_comedy_deuxfreresgemeaux *dist2_boursault_verse_comedy *id_sergent *date_1665 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_sergent
+
 
 Messieurs, de la Justice ayant l'heur⁎ d'estre Membre…
 
@@ -3016,4 +3029,3 @@ Messieurs…
 Tu le peux un moment, que veux-tu ?
 
       Il raisonne, on diroit qu'il méprise…
-

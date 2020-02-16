@@ -2,6 +2,7 @@
 
 **** *creator_carmontelle *book_carmontelle_atrompeurtrompeuretdemi *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_atrompeurtrompeuretdemi *dist2_carmontelle_prose_proverbe *id_MADAMEDERUPERT *date_1768 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamederupert
 
+
 Je ne sais, monsieur, si j'ai l'honneur d'être connue de vous ?
 
 Monsieur, je n'entends point du tout les affaires : j'ai très peu de bien, je suis une pauvre veuve, bien à plaindre ; le peu que j'avais mon mari l'a mangé.
@@ -72,8 +73,8 @@ Allons, messieur, venez chez moi puisqu'il le faut absolument.
 
 Ah ! Mon Dieu pourquoi suis-je venue, ici ?
 
-
 **** *creator_carmontelle *book_carmontelle_atrompeurtrompeuretdemi *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_atrompeurtrompeuretdemi *dist2_carmontelle_prose_proverbe *id_LAPIERRE *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lapierre
+
 
 Monsieur ?
 
@@ -102,4 +103,3 @@ Eh ! Monsieur, c'est le feu qui est chez l'épicier ici près.
 Non, monsieur, ce n'est rien.
 
 Oui, madame.
-

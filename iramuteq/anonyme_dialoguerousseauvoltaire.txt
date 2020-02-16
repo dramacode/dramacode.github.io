@@ -2,6 +2,7 @@
 
 **** *creator_anonyme *book_anonyme_dialoguerousseauvoltaire *style_verse *genre_comedy *dist1_anonyme_verse_comedy_dialoguerousseauvoltaire *dist2_anonyme_verse_comedy *id_VOLTAIRE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_voltaire
 
+
 Eh ! Quoi, vous voilà, Monsieur Rousseau !
 
 Les noms de baptême ne font pas en usage dans ce pays : ici l'on n'a plus besoin de rémunération.
@@ -76,8 +77,8 @@ Il faut donc exister sans prôneurs, sans rivaux,
 Que, de privations offertes à la gloire,
 Sans savoir si l'on vit au Temple de Mémoire !
 
-
 **** *creator_anonyme *book_anonyme_dialoguerousseauvoltaire *style_verse *genre_comedy *dist1_anonyme_verse_comedy_dialoguerousseauvoltaire *dist2_anonyme_verse_comedy *id_ROUSSEAU *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rousseau
+
 
 Pourquoi ne m'appelez-vous donc plus Jean-Jacques ?
 
@@ -141,4 +142,3 @@ Que la vertu là-haut combatte avec le crime,
 Dieu se perd dans l'espace, et l'homme dans l'abîme.
 Hélas ! Dieu juste et bon, pour un Être fini,
 Peut-il punir encor celui qui l'a béni ?
-

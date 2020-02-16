@@ -2,6 +2,7 @@
 
 **** *creator_boyer *book_boyer_judith *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_judith *dist2_boyer_verse_tragedy *id_judith *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_judith
 
+
 Ozias, vous m'avez trop long-tems attenduë.
 Sur l'ordre surprenant que le Ciel m'a dicté,
 J'ai long-temps combatu mon incredulité ;
@@ -422,8 +423,8 @@ Grand Dieu, quand je laissay la cendre et la retraite.
 Pour vous je les quittay, je les reprens pour vous,
 Et me rens toute entiere à mon divin Epoux.
 
-
 **** *creator_boyer *book_boyer_judith *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_judith *dist2_boyer_verse_tragedy *id_misael *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_misael
+
 
 Au bruit⁎ de vôtre nom, une allegresse extréme
 Dissipe mes ennuis, et me rend à moy-même.
@@ -848,8 +849,8 @@ Et retourne aussi-tôt à la retraite, aux larmes.
 Je la perds pour jamais ; mais malgré mon malheur
 La vertu⁎ de Judith console ma douleur.
 
-
 **** *creator_boyer *book_boyer_judith *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_judith *dist2_boyer_verse_tragedy *id_ozias *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ozias
+
 
 Peuples impatients⁎ étouffez ce murmure :
 Quelques maux, quelque soif que Betulie endure,
@@ -1050,8 +1051,8 @@ Allons chercher Judith, la voicy qui s'avance.
 
 Son recit a calmé des soupçons effroyables.
 
-
 **** *creator_boyer *book_boyer_judith *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_judith *dist2_boyer_verse_tragedy *id_achior *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achior
+
 
 Le couroux d'Holoferne, un malheur glorieux⁎.
 Chef d'un Peuple idolâtre, et né pour le conduire,
@@ -1257,8 +1258,8 @@ Son desordre...
       J'y cours avec ardeur.
 Allons par mille morts expier notre- erreur.
 
-
 **** *creator_boyer *book_boyer_judith *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_judith *dist2_boyer_verse_tragedy *id_abra *date_1695 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_abra
+
 
 Ah Misael !
 
@@ -1404,8 +1405,8 @@ Que je confonde enfin votre incredulité.
 
       Que pouvez-vous répondre ?
 
-
 **** *creator_boyer *book_boyer_judith *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_judith *dist2_boyer_verse_tragedy *id_betulien *date_1695 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_betulien
+
 
       Craignez que ces peuples rebelles...
 
@@ -1447,8 +1448,8 @@ La tête d'Holoferne encor toute sanglante,
 Par l'ordre de Judith, sur le haut des remparts,
 Offre un spectacle affreux⁎ qui charme⁎ nos regards.
 
-
 **** *creator_boyer *book_boyer_judith *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_judith *dist2_boyer_verse_tragedy *id_holoferne *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_holoferne
+
 
 Que le Camp en murmure, il faut qu'on obeïsse,
 Je veux que Betulie ou se rende, ou perisse.
@@ -1742,8 +1743,8 @@ Mais s'il faut vous quitter, ma juste impatience
 Me rendra promptement cet entretien si doux
 Que mon devoir m'arrache en m'éloignant de vous.
 
-
 **** *creator_boyer *book_boyer_judith *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_judith *dist2_boyer_verse_tragedy *id_vagao *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_vagao
+
 
 La victoire vous plaît prompte et precipitée :
 Mais la sage valeur est-elle moins vantée ?
@@ -1780,8 +1781,8 @@ Le superbe⁎ appareil du Camp et de la Cour,
 Tout ce qui doit enfin honorer ce grand jour.
 Holoferne sur tout impatient⁎ d'attendre...
 
-
 **** *creator_boyer *book_boyer_judith *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_judith *dist2_boyer_verse_tragedy *id_assyrien *date_1695 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_assyrien
+
 
       Nos ennemis, Seigneur,
 Ont fait une sortie avec tant de vigueur,
@@ -1832,4 +1833,3 @@ Chaque soldat oublie, ou suspend son devoir ;
 Et plein d'une merveille étonnante⁎ et nouvelle⁎,
 Croit que la beauté même, en habit de mortelle,
 Avec tous ses appas vient se donner à vous.
-

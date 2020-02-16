@@ -2,6 +2,7 @@
 
 **** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *id_archelas *date_1637 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_archelas
 
+
 Falante : je ne sçay quelle secrette joye
 Avecque ce vaisseau la fortune⁎ m'envoye ;
 Mais je me sens forcé malgré mon desespoir
@@ -321,8 +322,8 @@ Et donner quelque jour à ces belles Provinces
 Par vos embrassemens des Reynes, et des Princes.
 FIN.
 
-
 **** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *id_melinte *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_melinte
+
 
 Le devoir mutuel qui nos sceptres allie
 M'a faict pour ce sujet partir de Thessalie,
@@ -407,8 +408,8 @@ Desgagez cette foy que vous avez donnee,
 Et qu'un heureux Hymen⁎ laisse dans le repos
 Les champs Thessaliens, la Troade, et Lesbos.
 
-
 **** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *id_eurimedon *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eurimedon
+
 
 En fin (belle princesse) apres beaucoup d'orages⁎
 Vous revoyez encor ces aymables⁎ rivages,
@@ -1145,8 +1146,8 @@ Que je reçois (Amour !) une ample recompence !
 Et que je dois benir l'atteinte de tes traits⁎,
 Puisque tu la gueris avecque tant d'attraits.
 
-
 **** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *id_tygrane *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tygrane
+
 
 Destin, Neptune, Amour, Dieux cruels⁎, tristes Astres⁎
 Ne deliberez plus, achevez mes desastres,
@@ -1402,8 +1403,8 @@ Ne vous lassez vous point de me voir miserable ?
 Puisque par vous j'obtiens ce bien incomparable
 Que je vous suis (Seigneur) aujourd'huy redevable.
 
-
 **** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *id_falante *date_1637 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_falante
+
 
 Sire, ces estrangers qui viennent du rivage
 Vous pourront esclaircir de cét heureux presage.
@@ -1502,8 +1503,33 @@ Je sçay bien que le sexe en faict la difference.
 
 Sire c'est l'Amazone.
 
+**** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *id_lysanor *date_1637 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lysanor
+
+
+Je ne sçay si je dois ou parler, ou me taire :
+Mais puisque sur ce point il vous faut satisfaire,
+Sçachez que d'Archelas les malheurs redoublez
+Ont rendu le cahos à ses Estats troublez :
+Depuis vostre depart l'Infante est prisonniere,
+Araxés animé de sa flame⁎ premiere,
+Avec mille Guerriers dans l'Isle descendu
+Rend⁎ d'horreur et d'effroy tout ce peuple esperdu :
+Le Roy pour resister à ce subit orage⁎,
+Dont l'horrible fureur esbranle son courage,
+De crainte en mesme temps, et de rage interdit
+Vient de faire par tout publier cet Edict.
+Que quiconque pourroit empescher sa deffaite,
+Emportant d'Araxés l'abominable teste,
+Pour prix de sa valeur⁎ et de son action
+Il auroit Pasithee et son affection.
+
+Chassez, Eurimedon, cette inutile crainte
+Cette hayne à present par une autre est esteinte
+Et puis vous pouvez bien par un deguisement,
+Eviter les transports⁎ d'un premier mouvement.
 
 **** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *id_pasithee *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pasithee
+
 
 Grand Prince à qui je dois et l'honneur⁎ et la vie
 Je tiens puis qu'il vous plaist ma vengeance assouvie,
@@ -1900,8 +1926,8 @@ Sire, cette faveur rend mon sort honorable,
 Et les commandemens sont doux à recevoir
 Où vostre volonté s'accorde à mon devoir.
 
-
 **** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *id_celiane *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celiane
+
 
 He bien cruel⁎ Amour que fera Celiane ?
 Porteray-je l'enfer dans le ciel de Tygrane ?
@@ -2204,8 +2230,8 @@ Et de sa passion, et de sa patience,
 Mais puis qu'un si grand Roy me prescrit mon devoir,
 Je veux vous obbeïr, et le vay recevoir⁎.
 
-
 **** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *id_alerine *date_1637 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_alerine
+
 
 Madame parlez bas, j'entends venir quelqu'un.
 
@@ -2247,8 +2273,8 @@ Vostre voix a d'abord⁎ troublé tous mes esprits.
 
 Ce mal est bien soudain, et j'en suis fort en peine.
 
-
 **** *creator_desfontaines *book_desfontaines_eurimedon *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_eurimedon *dist2_desfontaines_verse_tragedy *id_argamor *date_1637 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_argamor
+
 
 Voyla comme je croy celuy que je demande.
 
@@ -2260,4 +2286,3 @@ Ce mot donc (s'il vous plaist) en cette occasion
 Vous dira le sujet de ma commission.
 
 Seigneur dans peu de temps vous y verrez Tygrane.
-

@@ -2,6 +2,7 @@
 
 **** *creator_biancolleli *book_biancolleli_enfantstrouves *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_enfantstrouves *dist2_biancolleli_verse_parodie *id_TEMIRE *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_temire
 
+
 Le Sérail aujourd'hui fait ma félicité.
 Chez les Mahométans dès l'enfance enfermée,
 À leur façon d'agir ils m'ont accoutumée.
@@ -223,8 +224,8 @@ C'est que je vous aimais, et voulais me sauver.
       La coutume de France
 Me l'ordonnait, Seigneur.
 
-
 **** *creator_biancolleli *book_biancolleli_enfantstrouves *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_enfantstrouves *dist2_biancolleli_verse_parodie *id_FATIME *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fatime
+
 
 Je ne m'attendis pas, jeune et belle Thémire,
 Vous qui pleuriez toujours, à vous voir jamais rire !
@@ -265,8 +266,8 @@ La grande porte s'ouvre, et sans doute c'est lui.
       Oui, Madame, courage ;
 Carabin va venir.
 
-
 **** *creator_biancolleli *book_biancolleli_enfantstrouves *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_enfantstrouves *dist2_biancolleli_verse_parodie *id_DIAPHANE *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_diaphane
+
 
 Madame, un long discours me serait nécessaire,
 Pour dire comment j'aime, et comment je veux plaire :
@@ -528,8 +529,8 @@ II faut que quelqu'un meure, et je vais me tuer.
 
 Hé bien, je me tuerai quand vous serez partis.
 
-
 **** *creator_biancolleli *book_biancolleli_enfantstrouves *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_enfantstrouves *dist2_biancolleli_verse_parodie *id_ALCIDOR *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcidor
+
 
       J'entends parler Français :
 Où suis-je, mes amis ? Ma vue est si troublée ,
@@ -604,8 +605,8 @@ Je vais m'évanouir, vite qu'on me ramène.
 Ah ! Malgré nos efforts, qu'en ce siècle malin
 Fille mal aisément reprend le bon chemin !
 
-
 **** *creator_biancolleli *book_biancolleli_enfantstrouves *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_enfantstrouves *dist2_biancolleli_verse_parodie *id_JASMIN *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jasmin
+
 
 Dans la première cour, un nommé Carabin,
 Qui sur sa foi gasconne a passé dans la France,
@@ -693,8 +694,8 @@ Oui, vous avez raison, on marche à petits pas.
 C'est fort bien fait, Seigneur ; renvoyez la matoise,
 Qu'elle fasse à Paris l'amour à la Française.
 
-
 **** *creator_biancolleli *book_biancolleli_enfantstrouves *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_enfantstrouves *dist2_biancolleli_verse_parodie *id_CARABIN *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_carabin
+
 
 Respectable ennemi, que j'estime beaucoup,
 Hé donc, je viens tenir parole. Pour le coup
@@ -831,3 +832,11 @@ Ah ! Ne vous tuez pas avant notre voyage ;
 Car si vous expirez, on nous remet en cage :
 Que de la mort au moins nous soyons garantis.
 
+**** *creator_biancolleli *book_biancolleli_enfantstrouves *style_verse *genre_parodie *dist1_biancolleli_verse_parodie_enfantstrouves *dist2_biancolleli_verse_parodie *id_MATADOR *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_matador
+
+
+      Ce billet à Temire s'adresse ;
+Vos Gardes surveillants l'ont surpris par adresse.
+
+      Un des Galériens
+Dont vos bontés, Seigneur, ont brisé les liens.

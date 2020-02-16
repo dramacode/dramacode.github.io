@@ -2,6 +2,7 @@
 
 **** *creator_corneillet *book_corneillet_perseedemetrius *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_perseedemetrius *dist2_corneillet_verse_tragedy *id_PHILIPPE *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philippe
 
+
 Non, non, Antigonus, la grandeur de l'injure
 N'étouffe point en moi la voix de la Nature,
 Et mon coeur t'expliquant ce qui le fait souffrir,
@@ -491,8 +492,8 @@ Prêtez, Antigonus, quelque aide à ma faiblesse,
 Et qu'on me mène ailleurs, après un tel malheur,
 Sous mes tristes remords expirer de douleur.
 
-
 **** *creator_corneillet *book_corneillet_perseedemetrius *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_perseedemetrius *dist2_corneillet_verse_tragedy *id_PERSEE *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_persee
+
 
 En vain jusques ici résolu de me taire,
 Je me suis déguisé les attentats d'un frère.
@@ -937,8 +938,8 @@ Par la joie où mon coeur a peine à renoncer.
 Je la sens malgré moi qui vient y prendre place,
 Et c'est assez, Seigneur, que le respect me chasse.
 
-
 **** *creator_corneillet *book_corneillet_perseedemetrius *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_perseedemetrius *dist2_corneillet_verse_tragedy *id_DEMETRIUS *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_demetrius
+
 
 Madame, je sais trop jusqu'où la jalousie
 Porte l'indigne ardeur dont son âme est saisie,
@@ -1426,8 +1427,8 @@ Lui ravir la douceur de jouir de la mienne.
 Voilà de mon amour ce que veut l'intérêt,
 Prononcez là-dessus, j'attendrai votre arrêt.
 
-
 **** *creator_corneillet *book_corneillet_perseedemetrius *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_perseedemetrius *dist2_corneillet_verse_tragedy *id_ERIXENE *date_1662 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_erixene
+
 
 Si le Ciel laisse en nous cette ardeur volontaire,
 On doit n'aimer, Seigneur, qu'autant qu'elle peut plaire,
@@ -1930,8 +1931,8 @@ Les Dieux à ce défaut me prêteront leur foudre.
 J'en vais presser l'éclat, et vous laisse ordonner
 Du Sceptre qu'en naissant ils m'avaient su donner.
 
-
 **** *creator_corneillet *book_corneillet_perseedemetrius *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_perseedemetrius *dist2_corneillet_verse_tragedy *id_PHENICE *date_1662 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phenice
+
 
 De ce jaloux transport il faut craindre la suite.
 Persée est violent, et dans son désespoir
@@ -2041,8 +2042,8 @@ Son coeur pousse à ces mots un soupir tout de flamme ;
 Ses regards sur les miens s'arrêtent tristement,
 Il nomme la Princesse, et meurt en la nommant.
 
-
 **** *creator_corneillet *book_corneillet_perseedemetrius *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_perseedemetrius *dist2_corneillet_verse_tragedy *id_DIDAS *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_didas
+
 
 Seigneur, je connais trop avec quelle contrainte
 Vous laissez contre un frère échapper votre plainte,
@@ -2249,8 +2250,8 @@ Que pourront entreprendre alors les factieux ?
       C'est vouloir être Roi,
 Seigneur, mais...
 
-
 **** *creator_corneillet *book_corneillet_perseedemetrius *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_perseedemetrius *dist2_corneillet_verse_tragedy *id_ANTIGONUS *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antigonus
+
 
 Seigneur, on ne peut trop louer cette prudence
 Qui tient entre deux fils la Nature en balance ;
@@ -2344,8 +2345,8 @@ De Persée à hauts cris il déteste le crime,
 La menace est mêlée à d'insolents discours,
 Et s'il s'osait montrer je craindrais pour ses jours.
 
-
 **** *creator_corneillet *book_corneillet_perseedemetrius *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_perseedemetrius *dist2_corneillet_verse_tragedy *id_ONOMASTE *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_onomaste
+
 
 Je n'ose encor pour vous m'en promettre l'appui ;
 Il semble à s'expliquer, Seigneur, qu'il ait eu peine.
@@ -2427,4 +2428,3 @@ Où pour vous avertir je viens de les quitter.
 
 Seigneur, vos Envoyés demandent audience,
 Ils arrivent de Rome.
-

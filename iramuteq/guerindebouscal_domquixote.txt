@@ -2,6 +2,7 @@
 
 **** *creator_guerindebouscal *book_guerindebouscal_domquixote *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote *dist2_guerindebouscal_verse_comedy *id_DONQUICHOTTE *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donquichotte
 
+
 Qu'elle soit Reine ou non, je sais bien mon devoir.
 
       La vertu limite mon pouvoir,
@@ -559,8 +560,8 @@ Et si mon beau renom ne prévient cet effet,
 Il saura qu'à mon bras qui jamais ne repose,
 S'armer, combattre et vaincre est une même chose.
 
-
 **** *creator_guerindebouscal *book_guerindebouscal_domquixote *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote *dist2_guerindebouscal_verse_comedy *id_SANCHO *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sancho
+
 
 Frère Sanche où vas-tu hasarder ton honneur ?
 Le peuple de la Manche est bouillant et colère,
@@ -1023,8 +1024,8 @@ C'est Don Quichotte et Sanche, et cela vous suffit.
 
 Nous allons bien trotter pour chercher ce bonheur.
 
-
 **** *creator_guerindebouscal *book_guerindebouscal_domquixote *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote *dist2_guerindebouscal_verse_comedy *id_CARDENIE *date_1639 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cardenie
+
 
 Puis qu'il faut achever un discours si funeste,
 Que je vous l'ai promis, écoutez ce qui reste.
@@ -1195,8 +1196,8 @@ Merveilleuse raison.
 
 En quel lieu sommes-nous ?
 
+**** *creator_guerindebouscal *book_guerindebouscal_domquixote *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote *dist2_guerindebouscal_verse_comedy *id_LECUYER *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lecuyer
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquixote *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote *dist2_guerindebouscal_verse_comedy *id_LECUYER *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lecuyer
 
 En effet il est vrai.
 
@@ -1215,8 +1216,8 @@ Vous perdez le respect.
 
 Le bonhomme a dormi, c'est volontiers un songe.
 
-
 **** *creator_guerindebouscal *book_guerindebouscal_domquixote *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote *dist2_guerindebouscal_verse_comedy *id_LUCINDE *date_1639 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucinde
+
 
 Croyez-vous de m'avoir ?
 
@@ -1342,8 +1343,8 @@ Il mérite l'honneur d'armer un tel Monarque.
 
 Qui m'ôte le repos ?
 
-
 **** *creator_guerindebouscal *book_guerindebouscal_domquixote *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote *dist2_guerindebouscal_verse_comedy *id_DONFERNANDE *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donfernande
+
 
 Il faut dîner ici devant que de partir,
 Lors que tout sera prêt qu'on nous fasse avertir,
@@ -1592,8 +1593,8 @@ Votre armet en couronne, et Sanche en Gouverneur.
 
 Mettez les plus grands Rois au rang de vos vassaux.
 
-
 **** *creator_guerindebouscal *book_guerindebouscal_domquixote *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote *dist2_guerindebouscal_verse_comedy *id_DOROTEE *date_1639 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorotee
+
 
 Va méchant, va perfide au fonds du précipice,
 J'immole à mon honneur et ta vie et ton vice,
@@ -1731,8 +1732,8 @@ Que j'aimerai toujours.
 Les beautés de Madame excusent votre erreur.
 Mais trêve à ce discours, voici notre Empereur.
 
+**** *creator_guerindebouscal *book_guerindebouscal_domquixote *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote *dist2_guerindebouscal_verse_comedy *id_LAREINE *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lareine
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquixote *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote *dist2_guerindebouscal_verse_comedy *id_LAREINE *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lareine
 
       Oui c'est bien la raison.
 Fameux restaurateur de la chevalerie
@@ -1985,8 +1986,8 @@ Adieu grand Chevalier.
 
 Ainsi toujours le Ciel assiste vos travaux.
 
-
 **** *creator_guerindebouscal *book_guerindebouscal_domquixote *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote *dist2_guerindebouscal_verse_comedy *id_DONLOPE *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donlope
+
 
 Ce sont là vos amours et vos contentements,
 Contez-moi vos dédains, montrez-moi vos tourments.
@@ -2243,8 +2244,8 @@ Tout ce qu'il vous plaira.
 Et permettez qu'enfin je ramène à la Manche
 Ce fou de Don Quichotte, et ce badin de Sanche.
 
-
 **** *creator_guerindebouscal *book_guerindebouscal_domquixote *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote *dist2_guerindebouscal_verse_comedy *id_BARBERO *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_barbero
+
 
 J'ai bien eu de la peine à tenter cette femme
 Pour avoir ces habits.
@@ -2257,8 +2258,8 @@ Celui qui vient à nous n'est-ce pas Sancho Pance ?
 
 Don Quichotte est moins fou.
 
-
 **** *creator_guerindebouscal *book_guerindebouscal_domquixote *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote *dist2_guerindebouscal_verse_comedy *id_LACOMTESSETRIFALDE *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lacomtessetrifalde
+
 
 Mes filles adorons ce guerrier indomptable.
 
@@ -2481,8 +2482,20 @@ Ainsi jamais vos voeux ne rencontrent d'obstacle,
 Ainsi puissiez-vous voir dans vos bras indomptés,
 Celle que vous aimez, et que vous méritez.
 
+**** *creator_guerindebouscal *book_guerindebouscal_domquixote *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote *dist2_guerindebouscal_verse_comedy *id_TAMBOUR *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_tambour
 
-**** *creator_guerindebouscal *book_guerindebouscal_domquixote *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote *dist2_guerindebouscal_verse_comedy *id_DEMONS *date_1639 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_demons
+
+Messeigneurs qui de vous est le grand Don Quichotte ?
+
+La Comtesse Trifalde et sa troupe enchantée,
+Que les Magiciens ont tant persécutée,
+Désire de vous voir et vous entretenir.
+
+      Voilà ce grand Héros,
+Qui vous doit redonner l'honneur et le repos.
+
+**** *creator_guerindebouscal *book_guerindebouscal_domquixote *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote *dist2_guerindebouscal_verse_comedy *id_DEMONS *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_demons
+
 
 Monte sur ce cheval celui dont le courage
 Ne craint point le péril.
@@ -2506,8 +2519,8 @@ De découvrir leurs yeux jusqu'à leur dernier pas,
 Et lors que Chevillard donnera témoignage
 Par son hennissement de la fin du voyage.
 
-
 **** *creator_guerindebouscal *book_guerindebouscal_domquixote *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote *dist2_guerindebouscal_verse_comedy *id_LEBARBIER *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebarbier
+
 
 Larron rends ce bassin.
 
@@ -2541,8 +2554,8 @@ J'en ferais désormais une poursuite vaine,
 Il faut l'abandonner aux mains de ces voleurs,
 Que ta perte bassin me va coûter de pleurs.
 
-
 **** *creator_guerindebouscal *book_guerindebouscal_domquixote *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote *dist2_guerindebouscal_verse_comedy *id_FERNANDEVALET *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fernandevalet
+
 
 Monsieur on vous attend.
 
@@ -2557,8 +2570,8 @@ Mais belle au dernier point.
 
       Dorotée.
 
-
 **** *creator_guerindebouscal *book_guerindebouscal_domquixote *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote *dist2_guerindebouscal_verse_comedy *id_ARCHER1 *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_archer1
+
 
       Il faut voir ce que c'est.
 
@@ -2580,3 +2593,7 @@ Vous n'échapperez pas par cette invention,
 Messieurs, de par le Roi, permettez qu'on l'emmène,
 Si vous nous empêchez vous en serez en peine.
 
+**** *creator_guerindebouscal *book_guerindebouscal_domquixote *style_verse *genre_comedy *dist1_guerindebouscal_verse_comedy_domquixote *dist2_guerindebouscal_verse_comedy *id_ARCHER2 *date_1639 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_archer2
+
+
+      J'ai pouvoir de le prendre.

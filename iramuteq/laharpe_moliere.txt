@@ -1,6 +1,56 @@
 
 
+**** *creator_laharpe *book_laharpe_moliere *style_verse *genre_comedy *dist1_laharpe_verse_comedy_moliere *dist2_laharpe_verse_comedy *id_APOLLON *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
+
+
+Respectez Apollon, les Muses et Molière,
+Et ces bustes sacrés que la France révère,
+Où revivent les traits des immortels auteurs,
+De la scène française, appuis et fondateurs,
+Organes et soutiens de mes lois souveraines.
+Du théâtre à jamais ces deux Muses sont reines :
+Non que je veuille, en leur faveur,
+Vous traiter l'un et l'autre avec trop de rigueur.
+Je connais le danger d'être si difficile.
+Le drame sérieux, le léger vaudeville,
+Dont je blâme l'abus, sans leur ôter leur prix,
+Tous les deux quelquefois admis,
+Peuvent entrer dans mon domaine,
+Et suivre, mais de loin, Thalie et Melpomène.
+Ils seront mes sujets et non mes favoris.
+J'ai souffert le burlesque, et Despréaux en gronde.
+Scarron le mit en vogue, et je l'ai vu déchoir.
+Pour satisfaire tout le monde
+Je permettrai le genre noir.
+La nouveauté, voilà surtout ce qu'on souhaite.
+Le théâtre eut toujours besoin de son appui.
+Le génie embellit tous les genres qu'il traite,
+Et les élève jusqu'à lui.
+Oui, que tous les talents accroissent mon empire :
+Que leur rivalité, leur émulation,
+Travaille à l'affermir, et non à le détruire.
+Que ce jour, dont la pompe en ces lieux les attire,
+Consacre leur réunion.
+Aux images de ces grands hommes,
+Prodiguez de nouveaux honneurs,
+Muses, et c'est ainsi que le siècle où nous sommes
+Peut leur donner des successeurs.
+De vos eux, de vos dons unissez les douceurs :
+Il faut de tout dans une fête ;
+Et celle qu'ici l'on apprête
+Sera la fête des neuf soeurs.
+
+Molière a dit dans ses ouvrages,
+A tous les rangs, à tous les âges,
+La vérité ;
+Ce qui rend la leçon si bonne,
+C'est le sel dont il l'assaisonne,
+C'est la gaîté.
+
+La majesté tragique....
+
 **** *creator_laharpe *book_laharpe_moliere *style_verse *genre_comedy *dist1_laharpe_verse_comedy_moliere *dist2_laharpe_verse_comedy *id_MELPOMENE *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
+
 
 Nous venons toutes deux, célébrant ce grand jour,
 Installer nos sujets dans leur nouveau séjour.
@@ -100,8 +150,8 @@ Mais quand ma soeur sèche vos larmes,
 Vous n'en sentez que mieux les charmes
 De sa gaîté.
 
-
 **** *creator_laharpe *book_laharpe_moliere *style_verse *genre_comedy *dist1_laharpe_verse_comedy_moliere *dist2_laharpe_verse_comedy *id_THALIE *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
+
 
 Oui, Melpomène et moi, qu'un même soin rassemble,
 Nous venons en ces lieux pour y régner ensemble.
@@ -271,8 +321,8 @@ N'a dérogé pour un couplet.
 Il faut bien plus, il faut faire chanter... Madame.
 Allez-vous dire aussi la majesté du Drame ?
 
-
 **** *creator_laharpe *book_laharpe_moliere *style_verse *genre_comedy *dist1_laharpe_verse_comedy_moliere *dist2_laharpe_verse_comedy *id_MOLIERE *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moliere
+
 
       Quoi donc ? Souffririez-vous
 Qu'on m'eût voulu priver d'un spectacle si doux ?
@@ -726,8 +776,8 @@ Laissons à chacun son humeur.
 À votre tour, Monsieur, il faut finir la ronde ;
 Vous avez par-tout cet honneur.
 
-
 **** *creator_laharpe *book_laharpe_moliere *style_verse *genre_comedy *dist1_laharpe_verse_comedy_moliere *dist2_laharpe_verse_comedy *id_MONSIEURBAPTISTE *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurbaptiste
+
 
 Si vous êtes Monsieur, un suppôt de Thalie....
 
@@ -859,8 +909,8 @@ Il faut, pour ignorer ce qu'est un Calembour,
 Serviteur....
       J'en dirais plus que je ne veux dire.
 
-
 **** *creator_laharpe *book_laharpe_moliere *style_verse *genre_comedy *dist1_laharpe_verse_comedy_moliere *dist2_laharpe_verse_comedy *id_MONSIEURMISOGRAMME *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurmisogramme
+
 
 Puis-je vous demander, Monsieur, sans vous déplaire,
 Si Thalie en ces lieux voudra me recevoir ?
@@ -1059,8 +1109,8 @@ Pour moi, mon humeur un peu ronde,
 Donnerait tout l'esprit du monde
 Pour la gaîté.
 
-
 **** *creator_laharpe *book_laharpe_moliere *style_verse *genre_comedy *dist1_laharpe_verse_comedy_moliere *dist2_laharpe_verse_comedy *id_LEVAUDEVILLE *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levaudeville
+
 
 Le Vaudeville
 À l'honneur de vous saluer ;
@@ -1115,8 +1165,8 @@ Mais si la Pièce est applaudie,
 Ce bruit vient lui rendre la vie
 Et la gaîté.
 
-
 **** *creator_laharpe *book_laharpe_moliere *style_verse *genre_comedy *dist1_laharpe_verse_comedy_moliere *dist2_laharpe_verse_comedy *id_LAMUSEDUDRAME *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamusedudrame
+
 
 Qui, moi ! m'en préserve le Ciel !
 Pour qui me prenez-vous ?
@@ -1196,4 +1246,3 @@ Hélas !
 Hélas !
 Rien n'est si beau que le Drame,
 Ah ! Que le Drame a d'appas !
-

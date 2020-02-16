@@ -2,6 +2,7 @@
 
 **** *creator_rotrou *book_rotrou_dombernarddecabrere *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_dombernarddecabrere *dist2_rotrou_verse_tragedy *id_DONBERNARD *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donbernard
 
+
 Quoi ce grand coeur s'ébranle, et Don Lope de Lune
 Veut tourner lâchement le dos à la fortune,
 Et parmi ses exploits laissera raconter,
@@ -494,8 +495,8 @@ Sa dernière infortune est encor son absence ;
 Car après tous mes soins en vain officieux,
 Vos longs rebuts enfin l'ont chassé de ces lieux.
 
-
 **** *creator_rotrou *book_rotrou_dombernarddecabrere *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_dombernarddecabrere *dist2_rotrou_verse_tragedy *id_DONLOPE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donlope
+
 
 Enfin, cher Lazarille, un plus heureux Génie
 Nous va, de nos destins, forcer la tyrannie,
@@ -997,8 +998,8 @@ Ou s'il ne perd au moins, doit cacher une vie,
 Voyant Lazarille paré de l'écharpe.
 Lâche de mon affront veux-tu porter les marques.
 
+**** *creator_rotrou *book_rotrou_dombernarddecabrere *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_dombernarddecabrere *dist2_rotrou_verse_tragedy *id_DOROTHEE *date_1646 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_dorothee
 
-**** *creator_rotrou *book_rotrou_dombernarddecabrere *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_dombernarddecabrere *dist2_rotrou_verse_tragedy *id_DOROTHEE *date_1646 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_dorothee
 
       Don Lope, cette lettre,
 Qu'en votre propre main j'ai charge de remettre,
@@ -1044,8 +1045,8 @@ Lazarille avec moi viendra le recevoir.
 
 Viens.
 
-
 **** *creator_rotrou *book_rotrou_dombernarddecabrere *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_dombernarddecabrere *dist2_rotrou_verse_tragedy *id_LEROI *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
+
 
 Le plus digne degré de la grandeur d'un maître,
 Est d'être égal aux siens, autant qu'il le peut être ;
@@ -1540,8 +1541,20 @@ Du mérite ignoré réparera l'injure ;
 Puisque j'éprouve en vous qu'un Roi reconnaissant,
 À force de donner, en devient plus puissant.
 
+**** *creator_rotrou *book_rotrou_dombernarddecabrere *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_dombernarddecabrere *dist2_rotrou_verse_tragedy *id_DONSANCHE *date_1646 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_donsanche
+
+
+      Sire, un bruit populaire,
+Jette ici la terreur de l'Infant votre frère ;
+L'armée est décampée, et s'avance à grand pas,
+L'avantage consiste à ne l'attendre pas ;
+Et le mal nous pressant, empêcher qu'il n'empire
+Et ne vienne attaquer le coeur de votre Empire :
+Vous risquez un grand siège, en attendant plus tard,
+Saragosse est au trône un important rempart.
 
 **** *creator_rotrou *book_rotrou_dombernarddecabrere *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_dombernarddecabrere *dist2_rotrou_verse_tragedy *id_INFANTE *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_infante
+
 
 Comtesse, votre esprit trop aisément s'altère,
 La plus belle vertu n'est pas la plus austère ;
@@ -1687,8 +1700,8 @@ Fais régner ma rivale et m'acquiers mon amant.
 
 Non, si de Don Bernard il a les qualités.
 
-
 **** *creator_rotrou *book_rotrou_dombernarddecabrere *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_dombernarddecabrere *dist2_rotrou_verse_tragedy *id_LEONOR *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonor
+
 
       Seigneur, c'est un bonheur pour moi,
 Qu'ayant à choir, ma chute arrive aux pieds du Roi,
@@ -1885,8 +1898,8 @@ Embrassant Don Bernard, étouffer mon attente.
 L'injure qui d'un Roi partage la puissance,
 Et qui place en son trône, est une heureuse offense.
 
-
 **** *creator_rotrou *book_rotrou_dombernarddecabrere *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_dombernarddecabrere *dist2_rotrou_verse_tragedy *id_LECOMTE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomte
+
 
 Vos soins du grand Trajan vous font le vif exemple,
 Si les Rois sont des Dieux, leur Palais est un temple,
@@ -1961,8 +1974,8 @@ Peut-être un faux rapport...
 
       Madame, je vous sers.
 
-
 **** *creator_rotrou *book_rotrou_dombernarddecabrere *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_dombernarddecabrere *dist2_rotrou_verse_tragedy *id_LESECRETAIRE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesecretaire
+
 
 Sire, aux moindres faveurs, qu'une maîtresse envoie,
 C'est trop faire acheter, qu'en retarder la joie.
@@ -2051,8 +2064,8 @@ Faites-moi grâce, Sire.
 
 Sire, quels voeux rendrai-je à votre Majesté ?
 
-
 **** *creator_rotrou *book_rotrou_dombernarddecabrere *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_dombernarddecabrere *dist2_rotrou_verse_tragedy *id_LAZARILLE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lazarille
+
 
 Le fatal ascendant qui gouverne vos jours,
 Sera donc bien changé, de ce qu'il fut toujours ;
@@ -2191,3 +2204,12 @@ Si vous n'en espérez que de soeurs de Monarques ;
 Et si jamais d'ailleurs nous n'en devons porter,
 Nous avons tout loisir d'aller les mériter.
 
+**** *creator_rotrou *book_rotrou_dombernarddecabrere *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_dombernarddecabrere *dist2_rotrou_verse_tragedy *id_GARDE *date_1646 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_garde
+
+
+      Seigneur !
+
+**** *creator_rotrou *book_rotrou_dombernarddecabrere *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_dombernarddecabrere *dist2_rotrou_verse_tragedy *id_GARDES *date_1646 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_gardes
+
+
+Tôt dehors.

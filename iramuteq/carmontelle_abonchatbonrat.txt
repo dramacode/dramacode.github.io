@@ -2,6 +2,7 @@
 
 **** *creator_carmontelle *book_carmontelle_abonchatbonrat *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_abonchatbonrat *dist2_carmontelle_prose_proverbe *id_MADAMESAVON *date_1768 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamesavon
 
+
 Allons donc, Suzette, tiens-toi donc : t'as un air gauche. Est-ce qu'on se laisse aller somme ça un jour de noce, donc ? T'as l'air d'un lendenain.
 
 Ben obligée, monsieur. Dame ! Suzette, v'là qu'est tourné : on voit ben que monsieur za la plume en main.
@@ -124,8 +125,8 @@ C'est ben pensé : de la joie, mes amis. Allons, Suzette, faut commencer le bal 
 
 Allons, mes enfants, divertissons-nous, et que Monsieur de La Plume nous apprenne que la tricherie et revient toujours à son maître.
 
+**** *creator_carmontelle *book_carmontelle_abonchatbonrat *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_abonchatbonrat *dist2_carmontelle_prose_proverbe *id_SUZETTE *date_1768 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_suzette
 
-**** *creator_carmontelle *book_carmontelle_abonchatbonrat *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_abonchatbonrat *dist2_carmontelle_prose_proverbe *id_SUZETTE *date_1768 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_suzette
 
 Vraiment, ma mère, c'est que monsieur est versé dans l'écriture.
 
@@ -174,8 +175,8 @@ Ah ! Ciel, mon cher zamant, ne vous exposez pas à la trahison d'un traître.
 
 Monsieur...
 
-
 **** *creator_carmontelle *book_carmontelle_abonchatbonrat *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_abonchatbonrat *dist2_carmontelle_prose_proverbe *id_MADAMELAIGUILLE *date_1768 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamelaiguille
+
 
 Eh ! Bonjour donc, ma commère ; bonjour, mon enfant.
 
@@ -230,8 +231,8 @@ Eh ben ! Emportez tout ça.
 
 Oui-da, vous v'là tout porté. Si vous voulez t'être de la noce, vous aurez toujours la jartière de la mariée, c'est toujours ça. Pas vrai donc, Monsieur Thériaque ?
 
-
 **** *creator_carmontelle *book_carmontelle_abonchatbonrat *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_abonchatbonrat *dist2_carmontelle_prose_proverbe *id_MONSIEURFOULON *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurfoulon
+
 
 Eh ! Bonjour, madame Savon.
 
@@ -241,8 +242,8 @@ Mais, madame Savon, perdez-vous la tête ?
 
 Ah ! Madame Savon, voilà qui est trop ! Vous vous souviendrez de celle-là. Allons-nous-en, femme, allons-nous-en.
 
-
 **** *creator_carmontelle *book_carmontelle_abonchatbonrat *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_abonchatbonrat *dist2_carmontelle_prose_proverbe *id_MADAMEFOULON *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamefoulon
+
 
 Bonjour, mon enfant.
 
@@ -252,8 +253,8 @@ Comment ! Mais que voulez-vous donc dire ?
 
 Ah ! Mon ami, vous ne voyez pas qu'on nous insulte. Allons-nous-en ou je vas me trouver mal ici.
 
+**** *creator_carmontelle *book_carmontelle_abonchatbonrat *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_abonchatbonrat *dist2_carmontelle_prose_proverbe *id_FOULONET *date_1768 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_foulonet
 
-**** *creator_carmontelle *book_carmontelle_abonchatbonrat *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_abonchatbonrat *dist2_carmontelle_prose_proverbe *id_FOULONET *date_1768 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_foulonet
 
 Ah ! Mon ami Gilles, que je te trouve à propos sous ma main. Dis-moi, queu qu' Mme Savon veut donc dire ? Elle a chanté pouille à mon père, elle a dit des sottises à ma mère, et elle veut m'étrangler. Moi.
 
@@ -295,8 +296,8 @@ Zun instant, mon cher monsieur de La Plume. Chacun à son tour : vous avez fait 
 
 De la modération, monsieur de La Plume : avalez ça en douceur, ou sinon...
 
-
 **** *creator_carmontelle *book_carmontelle_abonchatbonrat *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_abonchatbonrat *dist2_carmontelle_prose_proverbe *id_MONSIEURLAPLUME *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurlaplume
+
 
 « Mademoiselle, je profite de l'occasion de la nouvelle année, pour vous la souhaiter bonne et heureuse ; mais je suis trop honnête-homme pour vous laisser ignorer ce qui se passe...»
 
@@ -310,8 +311,8 @@ De la modération, monsieur de La Plume : avalez ça en douceur, ou sinon...
 
 Assurément, et si mam'selle voulait, y a ici des personnes qui aimeraient ben mieux payer les violons pour leux compte que de voir danser les autres.
 
-
 **** *creator_carmontelle *book_carmontelle_abonchatbonrat *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_abonchatbonrat *dist2_carmontelle_prose_proverbe *id_MADAMEROGNON *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamerognon
+
 
 Parlez donc, m'ame Savon, c'est-i' du vrai qu'ous ne voulez pus du festin ?
 
@@ -335,8 +336,8 @@ Tenez, à cause de l'occasion, je vous ferai bon marché.
 
 Je suis t'a vos ordres : vot' servante, messieurs et dames.
 
-
 **** *creator_carmontelle *book_carmontelle_abonchatbonrat *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_abonchatbonrat *dist2_carmontelle_prose_proverbe *id_GILLES *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
+
 
 Voyons t'un peu si je n'oublions rien : v'là ici la place le m'ame Savon, là au beau mitan, entre le marié et la nariée : ici, c'est Monsieur Thériaque, le compère, et pis en face, vis-à-vis de lui, la commère m'ame Laiguille ; à l'autre bout, le père et la mère du futur, et pis moi... Oh ! Moi, j'irons et je viendrons... Oui-da, v'là qu'est ben symétrique comme ça. I'ne manque que le fricot. Ah ! Gilles, mon ami, comme tu vas t'en donner ! Je crains tant seulement d'attraper zune indigestion : quand zon n'est pas stylé à manger tout son soûl, y a du risque. Ah ! Morguenne ! Aussi pourquoi qu'un jour de noce ne revient pas trois fois par semaine ?
 
@@ -405,4 +406,3 @@ Hélas ! Oui. J'ons découvert le pot au noir.
 Eh ben ! Not' maître, payez-nous pendant que vous êtes en train.
 
 Eh ! Je ne sommes pas intéressé. Prenez ne je vous ayons servi gratis.
-

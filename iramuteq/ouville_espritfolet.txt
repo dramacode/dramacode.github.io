@@ -2,6 +2,7 @@
 
 **** *creator_ouville *book_ouville_espritfolet *style_verse *genre_comedy *dist1_ouville_verse_comedy_espritfolet *dist2_ouville_verse_comedy *id_florestan *date_1642 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_florestan
 
+
 Oui Paris en effet est l'abregé du monde
 Dans l'enclos de ses murs toute merveille abonde,
 Et je ne l'aurois pas sans doute recognu
@@ -706,8 +707,8 @@ Dy nous ce que tu veux.
       Oüy je te le promets,
 Repose-toy sur moy, je t'en donne parole.
 
-
 **** *creator_ouville *book_ouville_espritfolet *style_verse *genre_comedy *dist1_ouville_verse_comedy_espritfolet *dist2_ouville_verse_comedy *id_carrille *date_1642 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_carrille
+
 
 Allons donc chez Lizandre,et cherchons sa maison.
 A quoy tant de discours, Monsieur, je meurs d'envie
@@ -1336,8 +1337,8 @@ Il faut auparavant aller laver mes chausses,
 Et puis preparer tout, et donner ordre aux sausses.
 Fin de la Comedie de L'Esprit Folet.
 
-
 **** *creator_ouville *book_ouville_espritfolet *style_verse *genre_comedy *dist1_ouville_verse_comedy_espritfolet *dist2_ouville_verse_comedy *id_angelique *date_1642 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_angelique
+
 
       Si comme je le croy,
 Vous estes Gentil-homme,ayez pitié de moy,
@@ -2003,8 +2004,8 @@ Mourant de deplaisir qu'il fust en son pouvoir.
 C'est moy, Monsieur, qui suis au bout de mes souhaits
 Et qui vous dois aymer et servir à jamais.
 
-
 **** *creator_ouville *book_ouville_espritfolet *style_verse *genre_comedy *dist1_ouville_verse_comedy_espritfolet *dist2_ouville_verse_comedy *id_isabelle *date_1642 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_isabelle
+
 
 Depeschez-vous avant que vostre frere arrive,
 S'il a quelque soupçon de vous asseurément
@@ -2265,8 +2266,8 @@ Moy le puis-je sçavoir ?
 Est entré qui soudain s'est fort mis en colere,
 J'entendois par dehors de bien grandes rumeurs.
 
-
 **** *creator_ouville *book_ouville_espritfolet *style_verse *genre_comedy *dist1_ouville_verse_comedy_espritfolet *dist2_ouville_verse_comedy *id_licidas *date_1642 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_licidas
+
 
       Ouy je la veux cognoistre
 Avant qu'elle m'eschape, et veux sçavoir pourquoy
@@ -2578,8 +2579,8 @@ Est ravy de l'honneur qu'il vous plaist de nous faire.
 Le bien que vous m'offrez me rend trop glorieux,
 Ma sœur, et vous et moy rendons graces aux dieux.
 
-
 **** *creator_ouville *book_ouville_espritfolet *style_verse *genre_comedy *dist1_ouville_verse_comedy_espritfolet *dist2_ouville_verse_comedy *id_lizandre *date_1642 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_lizandre
+
 
       Que vois-je justes Dieux ?
 Doy-je croire en ce poinct ou desmentir mes yeux ?
@@ -2688,8 +2689,15 @@ Est qu'un tel bien ne peut s'exprimer par parole.
 
 Allons-donc achever cet heureux mariage.
 
+**** *creator_ouville *book_ouville_espritfolet *style_verse *genre_comedy *dist1_ouville_verse_comedy_espritfolet *dist2_ouville_verse_comedy *id_ariste *date_1642 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_ariste
+
+
+As-tu du cœur⁎ ? il faut le faire icy paroistre.
+
+On a servi, Monsieur, on n'attend plus que vous.
 
 **** *creator_ouville *book_ouville_espritfolet *style_verse *genre_comedy *dist1_ouville_verse_comedy_espritfolet *dist2_ouville_verse_comedy *id_lucinde *date_1642 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_lucinde
+
 
 J'avouë en vérité que vous me surprenez
 Jusques au dernier poinct mes sens sont estonnez,
@@ -2813,4 +2821,3 @@ Allons-nous-en chez nous, mon logis n'est pas loing.
 
 Que pouvons-nous pour luy ? dieux si vous estes sage
 Fuyons sans consulter sur ce fait davantage.
-

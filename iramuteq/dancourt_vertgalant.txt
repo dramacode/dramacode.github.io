@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_vertgalant *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vertgalant *dist2_dancourt_prose_comedy *id_MADAMEJEROME *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamejerome
 
+
 Comment, vous voilà encore, Monsieur, je vous croyais déjà à moitié chemin pour le moins.
 
 Que cela ne vous inquiète point, nous avons fait une partie qui vous divertira vous-même à votre retour.
@@ -90,8 +91,8 @@ Qu'est-ce que j'apprends, Monsieur Jérôme ? La raillerie devient outrée, et v
 
 Je vous le demande avec instance.
 
-
 **** *creator_dancourt *book_dancourt_vertgalant *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vertgalant *dist2_dancourt_prose_comedy *id_MADAMETARIF *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madametarif
+
 
 Bonsoir, Monsieur Jérôme, votre servante.
 
@@ -165,8 +166,8 @@ Mon bon Monsieur Jérôme !
 
 C'est une couleur bien triste, Monsieur Jérôme.
 
-
 **** *creator_dancourt *book_dancourt_vertgalant *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vertgalant *dist2_dancourt_prose_comedy *id_JAVOTTE *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_javotte
+
 
 Est-ce que vous n'allez pas ce soir à Anthony, mon oncle ? Mettra-t-on les chevaux à votre chaise.
 
@@ -257,8 +258,8 @@ Goûter les plaisirs de la Scène ;
 Et jusques-là, qu'Amour vous tienne
 Toujours joyeux et Vert-Galant.
 
-
 **** *creator_dancourt *book_dancourt_vertgalant *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vertgalant *dist2_dancourt_prose_comedy *id_ANGELIQUE *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_angelique
+
 
 Je le livre à ce flatteur espoir, et je souhaite la chose autant que vous, Éraste, je vous assure.
 
@@ -270,8 +271,8 @@ Vos conseils m'y ont déterminée.
 
 Mon oncle…
 
-
 **** *creator_dancourt *book_dancourt_vertgalant *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vertgalant *dist2_dancourt_prose_comedy *id_ERASTE *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+
 
 Moi, Officier de Dragons, aller loger chez un teinturier, que l'on sait qui est mon oncle ! C'est à quoi je ne puis me résoudre, mon pauvre Lépine.
 
@@ -373,8 +374,8 @@ Nous trouverons moyen de remédier à toutes choses.
 
 Il vous dit vrai, Monsieur nous nous sommes promis de nous épouser.
 
-
 **** *creator_dancourt *book_dancourt_vertgalant *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vertgalant *dist2_dancourt_prose_comedy *id_LEPINE *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepine
+
 
 Ma foi, Monsieur, c'est le meilleur parti que nous puissions prendre. Il ne fait point chercher d'auberges : voilà deux quartiers d'Hiver que nous avons passés à crédit dans cinq ou six hôtels garnis différents. On nous connaît, allons-nous-en planter le piquet chez l'oncle.
 
@@ -494,8 +495,8 @@ Pourvu que… Vous serez content, pourvu que vous engagiez Monsieur Jérôme à 
 
 Cela le sera bientôt : allons, venez.
 
-
 **** *creator_dancourt *book_dancourt_vertgalant *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vertgalant *dist2_dancourt_prose_comedy *id_MADAMECLOPINET *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madameclopinet
+
 
 Monsieur mon mari m'en fit autant il y a trois mois : Monsieur Tarif fut étrillé par deux grands Clercs.
 
@@ -511,8 +512,8 @@ Angélique ne hait pas Éraste.
 
 Ce sera le hasard et moi qui aurons conduit cette affaire.
 
-
 **** *creator_dancourt *book_dancourt_vertgalant *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vertgalant *dist2_dancourt_prose_comedy *id_CARMIN *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_carmin
+
 
 Plaît-il, Monsieur ?
 
@@ -521,4 +522,3 @@ Oui, Monsieur.
 Nous tiendrons tout prêt, Monsieur.
 
 Oui, Monsieur.
-

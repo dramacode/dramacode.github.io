@@ -2,6 +2,7 @@
 
 **** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_ELOMIRE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_elomire
 
+
 Toi qui, depuis l'Hymen qui nous unit tous deux,
 N'eus que d'heureuses nuits, et que des jours heureux ;
 Toi qui fut mon plaisir, toi dont je fus la joie,
@@ -900,8 +901,8 @@ Mais je ne le suis pas, vous le savez vous-même.
 
       Lazarile, à moi ?
 
-
 **** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_ISABELLE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
 
 Quel mal avez-vous donc ?
 
@@ -960,8 +961,8 @@ Elle tira Daphné des portes du trépas.
 
 Que veux-tu, Cascaret ?
 
-
 **** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_LAZARILLE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lazarille
+
 
 Oui, Monsieur.
 
@@ -1135,8 +1136,16 @@ Mais qu'on ne sache point qui vous estes, surtout.
 
       J'y suis, Monsieur.
 
+**** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_CASCARET *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cascaret
+
+
+      C'est Monsieur qu'on demande.
+
+      Deux hommes, dont l'un a la barbe fort grande ;
+L'autre fort courte.
 
 **** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_LORVIETAN *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lorvietan
+
 
 La chosse a bien chanché de face,
 Depuis le temps dont fou parlez :
@@ -1166,8 +1175,8 @@ Que fous l'êtes, du moins, en puissance prochaine.
 Le gourdin trotterait ! Dis donc sur tes épaules,
 Tarte à la crème !
 
-
 **** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_ALCANDRE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcandre
+
 
 Ouvrez, Suisse, ouvrez vite ; après, tout à loisir,
 Vous cuverez le vin qui vous fait discourir.
@@ -1278,8 +1287,14 @@ Si vous ne l'êtes pas, vous êtes un grand fourbe :
 Voyez-vous ce petit bout d'homme qui se courbe
 Derrière lui, c'était son secrétaire.
 
+**** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_ERASTE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+
+
+      Quelque accès qui redouble
+Vient d'émouvoir sa bile, et c'est ce qui le trouble.
 
 **** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_EPISTENEZ *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_epistenez
+
 
       Quand je pense
 À tout ce que je vois sur ton visage écrit,
@@ -1407,8 +1422,8 @@ C'est en vain que tu veux contenter ton envie ;
 Au contraire, on pourra, par un beau quiproquo,
 T'envoyer ad patres, Seigneur, incognito.
 
-
 **** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_ORONTE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
+
 
 Quoi ! Ce maître moqueur qui n'épargnait personne,
 Donne dans le panneau de la sorte ?
@@ -1673,8 +1688,8 @@ Notre vengeance est dûe à ses soins.
       Il aura donc fait rire,
 À ses frais, ceux qu'il a tant de fois outragés.
 
-
 **** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_CLIMANTE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_climante
+
 
       Il y donne
 Mille lois au-delà de ce que je vous dis :
@@ -1717,8 +1732,8 @@ Mais d'où vient qu'à ces mots vous devenez tout blême ?
 
       Eh bien ! L'as-tu fait expirer ?
 
-
 **** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_CLEARQUE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clearque
+
 
       C'est de moi, Monsieur.
 
@@ -1731,8 +1746,13 @@ On en dirait, ma foi, ce qu'on en voudrait dire ;
 Mais quoi que l'on en dît, je n'en ferais que rire.
 L'exempt revient.
 
+**** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_CLARICE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clarice
+
+
+      C'est mon nom.
 
 **** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_ALPHEE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alphee
+
 
       Ô Dieux ! Qui vous l'a dit ?
 
@@ -1778,8 +1798,22 @@ Ne l'a pas mal daubé, du clane jusqu'aux pieds;
 Mais ce qui me lavit, dedans cette satile,
 C'est que tout en est vlay, et que tout y fait lile.
 
+**** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_LUCILLE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucille
+
+
+Non, Monsieur, vous voyez assez par mon urine,
+Que je ne suis pas moins folle que ma voisine :
+Traitez-moi, s'il vous plaît, de même.
+
+**** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_CALISTE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_caliste
+
+
+Quelle est leur mascarade ?
+
+C'est Esculape et Mome ; ô Dieux ! qu'ils sont crotesques ?
 
 **** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_LEBALAFRE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebalafre
+
 
 C'est sans doute, Monsieur, que le remords le touche.
 C'est notre homme ; je vais, si vous le trouvez bon,
@@ -1793,8 +1827,25 @@ Allons, causeur, allons ; aide moi, Sans-Malice ?
 
 Fit-on jamais, ô Dieu ! Une telle injustice !
 
+**** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_LEDRAGOMAN *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledragoman
+
+
+      Mustapha,
+Baroc, Mil-duc, Dalec, Messieurs, votre arrivée
+Profite à Monseigneur, comme aux champs la rosée.
+
+Seigneur, tes médecins sont là-bas ?
+
+**** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_ANTOINE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antoine
+
+
+Ce sont ses médecins qui viennent le guérir.
+
+Monsieur le Dragoman, peut-on voir le Bassa ?
+Voici les médecins.
 
 **** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_FLORIMONT *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_florimont
+
 
 Et cela te suffit ? Ah ! Peux-tu bien sans honte,
 Dire que de l'honneur tu fais si peu de compte ?
@@ -1917,8 +1968,8 @@ En ce cas, nous allons faire enrager l'Hôtel.
 De cet heureux succès à vos soins favorables.
 Aussi, Messieurs...
 
-
 **** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_ROSIDOR *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rosidor
+
 
 Oui, je l'ai résolu, je vais quitter la troupe;
 Tu me diras en vain qu'elle a le vent en poupe,
@@ -1988,8 +2039,8 @@ Angélique, il t'en veut.
 
 Et nous crever de monde.
 
-
 **** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_ELOMIRE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_elomire
+
 
 Toi qui, depuis l'Hymen qui nous unit tous deux,
 N'eus que d'heureuses nuits, et que des jours heureux ;
@@ -2889,8 +2940,8 @@ Mais je ne le suis pas, vous le savez vous-même.
 
       Lazarile, à moi ?
 
-
 **** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_ANGELIQUE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+
 
 Ne faut-il point aussi vous regarder au front,
 Et de même qu'Agnès, faire la révérence ?
@@ -2955,8 +3006,8 @@ Tu n'as que des mépris et pour eux et pour moi.
 Et parce que tu crois avoir le vent en poupe,
 Tu traites de hauteur et nous, et notre troupe.
 
-
 **** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_LECHEVALIER *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
 
 La rompre, dans un temps qu'elle a le vent en poupe,
 Ce serait, ce me semble, assez mal aviser ;
@@ -3034,3 +3085,14 @@ Alors que vous jouerez de la sorte chez vous.
 Je le dis derechef, j'en attends des merveilles,
 Et j'en veux régaler mes yeux et mes oreilles.
 
+**** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_LECOMTE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomte
+
+
+      Pour moi, je suis sur des épines,
+Quand je l'entends parler, ou que je vois ses mines.
+
+**** *creator_leboulangerchalussay *book_leboulangerchalussay_elomirehypocondre *style_verse *genre_comedy *dist1_leboulangerchalussay_verse_comedy_elomirehypocondre *dist2_leboulangerchalussay_verse_comedy *id_LEMARQUIS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+
+
+      Que m'en semblerait-il ?
+Pour en juger ainsi, faut-il être subtil ?

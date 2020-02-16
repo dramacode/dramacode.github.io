@@ -2,6 +2,7 @@
 
 **** *creator_duche *book_duche_absalon *style_verse *genre_tragedy *dist1_duche_verse_tragedy_absalon *dist2_duche_verse_tragedy *id_DAVID *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_david
 
+
 Demeurez, Absalon, j'ai sujet de me plaindre.
 Vous savez que Joab est chéri de son roi,
 Cependant...
@@ -456,8 +457,8 @@ Ciel ! Joab...
 
 Ô mon fils!
 
-
 **** *creator_duche *book_duche_absalon *style_verse *genre_tragedy *dist1_duche_verse_tragedy_absalon *dist2_duche_verse_tragedy *id_ABSALON *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_absalon
+
 
 Non, non, Achitophel, je n'en suis plus le maître ;
 Le perfide Joab, fier de plaire à son roi,
@@ -877,8 +878,8 @@ Et la clarté des cieux se dérobe à ma vue...
 Je frissonne... mon sang se glace... je frémis..
 Ah ! mon père... Seigneur... Ciel ! Je meurs.
 
-
 **** *creator_duche *book_duche_absalon *style_verse *genre_tragedy *dist1_duche_verse_tragedy_absalon *dist2_duche_verse_tragedy *id_THARES *date_1712 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thares
+
 
 Non, vous vous obstinez vainement à vous taire ;
 Ce silence renfermé un funeste mystère.
@@ -1188,8 +1189,8 @@ Ah ! Mon époux est mort, je n'en saurais douter.
       Ô mon cher Absalon ! Pourrai-je vous survivre ?
 Non, non, dans le tombeau vous me verrez vous suivre.
 
-
 **** *creator_duche *book_duche_absalon *style_verse *genre_tragedy *dist1_duche_verse_tragedy_absalon *dist2_duche_verse_tragedy *id_THAMAR *date_1712 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thamar
+
 
 Eh ! Mon père, daignez un moment les entendre.
 Pouvez-vous me laisser dans le trouble où je suis?
@@ -1248,8 +1249,8 @@ Vaine espérance, hélas !
 
       Jour heureux !
 
-
 **** *creator_duche *book_duche_absalon *style_verse *genre_tragedy *dist1_duche_verse_tragedy_absalon *dist2_duche_verse_tragedy *id_JOAB *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_joab
+
 
 Moi suspect, juste ciel ! Qu'ose-t-on avancer ?
 Non, le prince, Seigneur, ne saurait le penser.
@@ -1353,8 +1354,8 @@ Ouoi qu'après des mutins puisse tenter la rage,
 Ils en auront déjà reçu le digne fruit,
 Et vous serez vengé du sort qui vous poursuit.
 
-
 **** *creator_duche *book_duche_absalon *style_verse *genre_tragedy *dist1_duche_verse_tragedy_absalon *dist2_duche_verse_tragedy *id_ACHITOPHEL *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achitophel
+
 
 À quel excès, Ô ciel, osez-vous vous porter ?
 Vous vous perdez, Seigneur, est-il temps d'éclater ?
@@ -1644,8 +1645,8 @@ Il est un sûr moyen d'ensevelir ma honte :
 Et tout homme à son gré peut défier le sort,
 Quand il voit d'un même oil et la vie et la mort.
 
-
 **** *creator_duche *book_duche_absalon *style_verse *genre_tragedy *dist1_duche_verse_tragedy_absalon *dist2_duche_verse_tragedy *id_CISAI *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cisai
+
 
       Oui, l'on n'en peut douter,
 Seigneur, quelque perfide est tout prêt d'éclater :
@@ -1793,8 +1794,8 @@ Allez, portez au roi cette heureuse nouvelle,
 Me dit-il ; l'Éternel a rempli ses desseins,
 Et son fils va bientôt être mis en ses mains.
 
-
 **** *creator_duche *book_duche_absalon *style_verse *genre_tragedy *dist1_duche_verse_tragedy_absalon *dist2_duche_verse_tragedy *id_ZAMRI *date_1712 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zamri
+
 
 Seigneur, d'un zèle ardent on la voit animée :
 La tribu d'Éphraim vient de se joindre à nous ;
@@ -1833,4 +1834,3 @@ Dans mes fidèles mains il allait la remettre,
 Lorsqu'un bruit tout à coup dans l'armée a couru,
 Que hors de notre camp Joab avait paru :
 Amasa m'a quitté, mais je crois qu'il envoie....
-

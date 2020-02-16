@@ -2,6 +2,7 @@
 
 **** *creator_quinault *book_quinault_agrippa *style_verse *genre_show *dist1_quinault_verse_show_agrippa *dist2_quinault_verse_show *id_lavinie *date_1663 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_lavinie
 
+
 Vostre malheur au mien n'est pas à comparer,
 Consolez-vous, Albine, & layssez-moy pleurer.
 
@@ -496,8 +497,8 @@ Venez, aux yeux de tous, voir dés ce mesme jour,
 Vostre Fils de nouveau couronné par l'Amour.
 Fin du cinquième & dernier Acte.
 
-
 **** *creator_quinault *book_quinault_agrippa *style_verse *genre_show *dist1_quinault_verse_show_agrippa *dist2_quinault_verse_show *id_albine *date_1663 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_albine
+
 
 Que vous connoissez peu la douleur qui m'emporte,
 Si vous croyez la vostre, & plus juste & plus forte ! 
@@ -762,8 +763,15 @@ Il vient.
 
       Seigneur, vous estes donc mon Frere ?
 
+**** *creator_quinault *book_quinault_agrippa *style_verse *genre_show *dist1_quinault_verse_show_agrippa *dist2_quinault_verse_show *id_camille *date_1663 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_camille
+
+
+Que pourra-t'on penser du desordre ou vous estes ?
+De ces troubles pressants, de ces craintes secretes ?
+Si ce n'est que le Roy par un doux entretien…
 
 **** *creator_quinault *book_quinault_agrippa *style_verse *genre_show *dist1_quinault_verse_show_agrippa *dist2_quinault_verse_show *id_julie *date_1663 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_julie
+
 
 Ce Palais n'est pour vous qu'un objet de tristesse.
 Pouvez-vous y rentrer ?
@@ -794,8 +802,8 @@ Il faut…
       Songez vous mesme à l'eviter,
 Il vient.
 
-
 **** *creator_quinault *book_quinault_agrippa *style_verse *genre_show *dist1_quinault_verse_show_agrippa *dist2_quinault_verse_show *id_mezence *date_1663 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mezence
+
 
 Si c'est moy qui fais fuir Albine qui vous quitte,
 J'oste à vostre douleur, un objet qui l'irrite.
@@ -1100,8 +1108,8 @@ Il s'est trop avancé, la fuite seroit vaine.
 Pour l'amuser icy, faites vous quelque effort,
 Et donnez ces momens aux aprests de sa mort.
 
-
 **** *creator_quinault *book_quinault_agrippa *style_verse *genre_show *dist1_quinault_verse_show_agrippa *dist2_quinault_verse_show *id_fauste *date_1663 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_fauste
+
 
 Quoy ! tant de mécontens qui s'offrent dans l'armée
 Dont la valeur paroist du repos allarmée,
@@ -1208,8 +1216,8 @@ De sa main à vos pieds, il la veut apporter.
 Albine doit la rendre. Il l'attend, & m'envoye
 Pour preparer vostre Ame à cét excés de joye.
 
-
 **** *creator_quinault *book_quinault_agrippa *style_verse *genre_show *dist1_quinault_verse_show_agrippa *dist2_quinault_verse_show *id_tirrhene *date_1663 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_tirrhene
+
 
 Ne vous offencez pas, Seigneur, si je m'avance,
 J'apporte à Lavinie un advis d'importance :
@@ -1695,8 +1703,8 @@ Tu nous a tous sauvez… Mais ne l'interromps pas.
 
 C'est à vous que le sceptre est dû par ce trespas.
 
-
 **** *creator_quinault *book_quinault_agrippa *style_verse *genre_show *dist1_quinault_verse_show_agrippa *dist2_quinault_verse_show *id_agrippa *date_1663 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_agrippa
+
 
 Qu'on ne m'en parle plus, je veux voir Lavinie.
 Vous, allez donner ordre à la ceremonie.
@@ -2127,3 +2135,12 @@ Je cours pour l'arrester : mais il tombe, il expire ;
 Et fait dans son trépas, voir tant d'amour pour vous,
 Qu'avec tout mon bon-heur, j'en suis presque jaloux.
 
+**** *creator_quinault *book_quinault_agrippa *style_verse *genre_show *dist1_quinault_verse_show_agrippa *dist2_quinault_verse_show *id_lauzus *date_1663 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lauzus
+
+
+Tout est prest dans le Temple.
+
+**** *creator_quinault *book_quinault_agrippa *style_verse *genre_show *dist1_quinault_verse_show_agrippa *dist2_quinault_verse_show *id_atis *date_1663 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_atis
+
+
+      Ah ! Seigneur, craignez d'estre entendu.

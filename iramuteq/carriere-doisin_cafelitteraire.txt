@@ -2,6 +2,7 @@
 
 **** *creator_carriere-doisin *book_carriere-doisin_cafelitteraire *style_prose *genre_comedy *dist1_carriere-doisin_prose_comedy_cafelitteraire *dist2_carriere-doisin_prose_comedy *id_PARNASSOT *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_parnassot
 
+
 Peste soit des auteurs ! Tout est ici sans dessus dessous.
 
 C'est la même chose. Tenez, voyez un peu les parades, les vaudevilles, les comédies sont sur la table des tragiques !
@@ -67,8 +68,8 @@ Il est vrai que cette diablesse d'affiche des Auteurs modernes est un pavillon d
 
 Adieu, Monsieur, je vais fermer.
 
+**** *creator_carriere-doisin *book_carriere-doisin_cafelitteraire *style_prose *genre_comedy *dist1_carriere-doisin_prose_comedy_cafelitteraire *dist2_carriere-doisin_prose_comedy *id_SAUVELARIME *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_sauvelarime
 
-**** *creator_carriere-doisin *book_carriere-doisin_cafelitteraire *style_prose *genre_comedy *dist1_carriere-doisin_prose_comedy_cafelitteraire *dist2_carriere-doisin_prose_comedy *id_SAUVELARIME *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_sauvelarime
 
 Comme leurs idées.
 
@@ -84,8 +85,18 @@ Mais au moins, Monsieur, permettez que je vous les achète au poids.
 
 Bon, voilà ce qui s'appelle avoir une bibliothèque à bon marché.
 
+**** *creator_carriere-doisin *book_carriere-doisin_cafelitteraire *style_prose *genre_comedy *dist1_carriere-doisin_prose_comedy_cafelitteraire *dist2_carriere-doisin_prose_comedy *id_LACESURE *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_lacesure
+
+
+Et ces extraits devraient-ils sortir du poêle.
+Tiens, voilà pour la table des romanciers, ceci pour celle des critiques.
+
+Quoi ! Les romans, les comédies !
+
+Mais pas si bon marché, cela ne laisse pas que de peser... Quelqu'un vient, répondons.
 
 **** *creator_carriere-doisin *book_carriere-doisin_cafelitteraire *style_prose *genre_comedy *dist1_carriere-doisin_prose_comedy_cafelitteraire *dist2_carriere-doisin_prose_comedy *id_LIMPERATIF *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_limperatif
+
 
 C'est révoltant, je n'y tiens pas.
 
@@ -248,8 +259,8 @@ Monsieur magnétise donc ?
 
 Ah ! Je me sens soulagé. J'avais besoin d'être frappé de ce recueil de lettres pour me rafraîchir. J'ai même un peu trop froid.
 
-
 **** *creator_carriere-doisin *book_carriere-doisin_cafelitteraire *style_prose *genre_comedy *dist1_carriere-doisin_prose_comedy_cafelitteraire *dist2_carriere-doisin_prose_comedy *id_PINCESERRE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pinceserre
+
 
 C'est vrai, Messieurs : continuez, et voilà ma besogne toute faite.
 
@@ -327,8 +338,8 @@ De chez les Docteurs modernes ?
 
 Oui, allons nous répandre dans les cafés.
 
-
 **** *creator_carriere-doisin *book_carriere-doisin_cafelitteraire *style_prose *genre_comedy *dist1_carriere-doisin_prose_comedy_cafelitteraire *dist2_carriere-doisin_prose_comedy *id_DURIMET *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_durimet
+
 
 Messieurs, il y a longtemps que je vous écoute, et je crois que l'approbation d'un prince, tel que feu Monseigneur le Prince de Conti, est un témoignage qui milite bien en faveur de La Folle Journée.
 
@@ -354,8 +365,8 @@ Eh ! Vite endormons-le, frottons-le de ce drame.
 
 Et arrangeons-nous de façon à faire tomber la pièce de ces messieurs.
 
-
 **** *creator_carriere-doisin *book_carriere-doisin_cafelitteraire *style_prose *genre_comedy *dist1_carriere-doisin_prose_comedy_cafelitteraire *dist2_carriere-doisin_prose_comedy *id_LIMEDOUCE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_limedouce
+
 
 Ah ! C'est toi, mon ami, je te cherchais.
 
@@ -367,8 +378,8 @@ Mais, selon toute apparence, de celle que vous vous êtes avisés de mettre en s
 
 Justement, et voici même un de leurs adeptes, qui veut bien être de mes amis, que je vous amène tout exprès.
 
-
 **** *creator_carriere-doisin *book_carriere-doisin_cafelitteraire *style_prose *genre_comedy *dist1_carriere-doisin_prose_comedy_cafelitteraire *dist2_carriere-doisin_prose_comedy *id_GUILLEMET *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillemet
+
 
 Oui, Monsieur, pardonnez-nous ce mouvement de gaieté ; mais le pacte que vous venez de faire avec notre ami est trop plaisant, pour ne point en rire.
 
@@ -386,8 +397,8 @@ Vous aurez beau dire, Messieurs, l'auteur en revient toujours à Molière, et pr
 
 Mais enfin, Monsieur, nous sentons bien une certaine chaleur... certains chatouillements... de grâce, finissez ces gestes-là, et éloignez-vous un peu.
 
-
 **** *creator_carriere-doisin *book_carriere-doisin_cafelitteraire *style_prose *genre_comedy *dist1_carriere-doisin_prose_comedy_cafelitteraire *dist2_carriere-doisin_prose_comedy *id_SONGECREUX *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_songecreux
+
 
 Néanmoins, Messieurs, distinguons la critique d'une satire odieuse et personnelle ; car, comme dit très bien l'auteur de La Folle Journée, « une critique générale est un des plus nobles buts de l'art : elle corrige sans blesser et porte du fruit. La satire au contraire, aussi stérile que funeste, blesse toujours et ne produit jamais ».
 
@@ -438,4 +449,3 @@ Oui, Messieurs, je trouve cette pièce tellement dangereuse, que, pour me servir
 Sans doute, mais rien n'est plus faux. Le Misanthrope est un ouvrage grave et philosophique, dont tout l'ensemble forme le tableau le plus instructif sur les travers et les vices de la société. C'est un tribunal sévère, où là folie ne fait pas perdre le fruit des arrêts qui s'y prononcent. La Folle Journée, au contraire, est un ouvrage de marqueterie, un arsenal où l'on n'entend que des coups de mousqueterie, qui font bien briller l'adresse de l'auteur, mais qui ne peuvent corriger ceux qui en sont frappés.
 
 Et nous notre imprimeur.
-

@@ -2,6 +2,7 @@
 
 **** *creator_mercier *book_mercier_tombeauxdeverone *style_prose *genre_drame *dist1_mercier_prose_drame_tombeauxdeverone *dist2_mercier_prose_drame *id_CAPULET *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_capulet
 
+
 Votre fille, madame, viendra-t-elle ?
 
 Je suis las, madame, de ces éternelles complaintes. Vous auriez dû élever votre fille de manière à me les épargner... Le comte Lodrano m'a fait annoncer son retour, et me presse de conclure : son amour impatient lui fait désirer que ce soit dès aujourd'hui. J'ai répondu et j'ai promis.
@@ -134,8 +135,8 @@ J'ai été dur, insensible, je l'avoue ; mais mon âme est amollie. Pardonnez, g
 
 Nous fûmes aveugles et malheureux. Il est affreux de haïr...
 
-
 **** *creator_mercier *book_mercier_tombeauxdeverone *style_prose *genre_drame *dist1_mercier_prose_drame_tombeauxdeverone *dist2_mercier_prose_drame *id_MONTAIGU *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_montaigu
+
 
 Mes amis, nous sommes maîtres des portes ; entrons en foule, défendez ma cause, défendez mon fils ; ses jours sont en danger. La trahison l'attendait au milieu de ces tombeaux. Je l'ai su...
 Je t'arrache au trépas.
@@ -159,8 +160,8 @@ Pardonnez, grand Dieu, les excès des Montaigus !
 
 Il fera doux d'aimer.
 
+**** *creator_mercier *book_mercier_tombeauxdeverone *style_prose *genre_drame *dist1_mercier_prose_drame_tombeauxdeverone *dist2_mercier_prose_drame *id_JULIETTE *date_(inc *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_juliette
 
-**** *creator_mercier *book_mercier_tombeauxdeverone *style_prose *genre_drame *dist1_mercier_prose_drame_tombeauxdeverone *dist2_mercier_prose_drame *id_JULIETTE *date_(inc *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_juliette
 
 La douzième heure s'est fait entendre... C'est le signal. Ô nuit, épaissis tes ombres, cache dans les ténèbres deux amants malheureux et fidèles ! Je vais jouir de sa présence ! Instants rapides ! Il va paraître pour me quitter ensuite ! Ainsi l'amertume se mêle à nos plus doux plaisirs... Amour, que tes blessures sont profondes, que de souffrances pour des moments qui fuient !... Mon coeur s'effraie de tout ce qui l'environne... Les auteurs de mes jours, paisiblement endormis, ne soupçonnent point que la fille d'un Capulet, amante, épouse d'un Montaigu... Sommeil ! Dérobe-leur les chagrins qui me consument... Cette porte frémit... Est-ce lui ? Non ; ce bruit ne vient pas du côté du jardin... Ciel ! Si nous étions trahis !... Ah ! Je respire ! C'est Laure.
 
@@ -535,8 +536,8 @@ Mon père... pardonnez-moi.
 
 Ô changement!... Ô Roméo ! N'est-ce point un songe ?
 
+**** *creator_mercier *book_mercier_tombeauxdeverone *style_prose *genre_drame *dist1_mercier_prose_drame_tombeauxdeverone *dist2_mercier_prose_drame *id_ROMEO *date_(inc *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_romeo
 
-**** *creator_mercier *book_mercier_tombeauxdeverone *style_prose *genre_drame *dist1_mercier_prose_drame_tombeauxdeverone *dist2_mercier_prose_drame *id_ROMEO *date_(inc *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_romeo
 
 Oui, Juliette.
 
@@ -616,8 +617,8 @@ Tu respires... De quel désespoir je passe à la félicité !... Je ne puis l'ex
 
 Non, Juliette ; c'est toi qui métamorphoses les coeurs.
 
-
 **** *creator_mercier *book_mercier_tombeauxdeverone *style_prose *genre_drame *dist1_mercier_prose_drame_tombeauxdeverone *dist2_mercier_prose_drame *id_BENVOGLIO *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_benvoglio
+
 
 J'accours, ma digne amie... C'est votre mère qui m'envoie vers vous... Elle m'aurait effrayé, si j'eusse ignoré ce qui s'est passé cette nuit.
 
@@ -805,8 +806,8 @@ Je triomphe... Ô mort, tu peux frapper ! J'ai éteint la haine.
 
 Ombres des Capulets et des Montaigus, qui gémissez de vos fureurs passées, soulevez les marbres de vos tombes, applaudissez a cette auguste réconciliation ! Elle efface vos crimes. Du séjour où l'on aperçoit et le néant de l'orgueil et l'atrocité de la vengeance, jouissez d'un spectacle fait pour vous absoudre ! Le sang ne coulera plus ; la haine est éteinte, vos enfants s'embrassent, l'amour va régner. Eh, que de maux, s'il dominait seul, son empire universel n'épargneront-il pas à la terre !
 
-
 **** *creator_mercier *book_mercier_tombeauxdeverone *style_prose *genre_drame *dist1_mercier_prose_drame_tombeauxdeverone *dist2_mercier_prose_drame *id_LAURE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laure
+
 
 Quoi ! Seule, errante au milieu des ténèbres ?
 
@@ -966,4 +967,3 @@ Des miracles ! Ah ! C'est elle qui doit en faire du haut des cieux qu'elle habit
 
 Quel triste emploi ! Et je ne puis m'y refuser !... Oui, j'en aurai le courage. Ce sera donc moi qui lui donnerai le dernier baiser !
 Chère Juliette, adieu, adieu.
-

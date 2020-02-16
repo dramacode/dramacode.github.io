@@ -2,6 +2,7 @@
 
 **** *creator_corneillep *book_corneillep_melite *style_verse *genre_comedy *dist1_corneillep_verse_comedy_melite *dist2_corneillep_verse_comedy *id_ERASTE *date_1630 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
 
+
 Je te l'avoue, ami, mon mal est incurable ;
 Je n'y sais qu'un remède, et j'en suis incapable :
 Le change serait juste, après tant de rigueur ;
@@ -565,8 +566,8 @@ Donnez à leurs raisons ces faveurs singulières ;
 Et pour faire aujourd'hui le bonheur d'un amant,
 Laissez-les disposer de votre sentiment.
 
-
 **** *creator_corneillep *book_corneillep_melite *style_verse *genre_comedy *dist1_corneillep_verse_comedy_melite *dist2_corneillep_verse_comedy *id_TIRCIS *date_1630 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tircis
+
 
 Que je te trouve, ami, d'une humeur admirable !
 Pour paraître éloquent tu te feins misérable :
@@ -1117,8 +1118,8 @@ Ne nous refuse pas ce comble à nos plaisirs.
 Entrons donc ; et tandis que nous irons le prendre,
 Nourrice, va t'offrir pour maîtresse à Philandre.
 
-
 **** *creator_corneillep *book_corneillep_melite *style_verse *genre_comedy *dist1_corneillep_verse_comedy_melite *dist2_corneillep_verse_comedy *id_PHILANDRE *date_1630 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philandre
+
 
 Je meure, mon souci, tu dois bien me haïr ;
 Tous mes soins depuis peu ne vont qu'à te trahir.
@@ -1423,8 +1424,8 @@ Je sais trop comme on venge une flamme outragée.
       Il suffit.
 Je sais comme on se venge.
 
-
 **** *creator_corneillep *book_corneillep_melite *style_verse *genre_comedy *dist1_corneillep_verse_comedy_melite *dist2_corneillep_verse_comedy *id_MELITE *date_1630 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melite
+
 
 Vous deviez l'assurer plutôt qu'il trouverait,
 En ce mépris d'amour, qui le seconderait.
@@ -1703,8 +1704,8 @@ Ma soeur, acquitte-moi d'une reconnaissance
 Dont un autre destin m'a mise en impuissance ;
 Accorde cette grâce à nos justes désirs.
 
-
 **** *creator_corneillep *book_corneillep_melite *style_verse *genre_comedy *dist1_corneillep_verse_comedy_melite *dist2_corneillep_verse_comedy *id_CHLORIS *date_1630 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_chloris
+
 
 Ne m'épouvante point ; à ta mine, je pense
 Que le pardon suivra de fort près cette offense,
@@ -2144,8 +2145,8 @@ J'en croirai seulement la mère de Mélite ;
 Son avis m'ôtera la peur du repentir,
 Et ton mérite alors m'y fera consentir.
 
-
 **** *creator_corneillep *book_corneillep_melite *style_verse *genre_comedy *dist1_corneillep_verse_comedy_melite *dist2_corneillep_verse_comedy *id_LISIS *date_1630 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisis
+
 
 Préparez vos soupirs à la triste nouvelle
 Du malheur où nous plonge un esprit infidèle ;
@@ -2183,8 +2184,8 @@ Qu'il devient souverain à consoler des soeurs.
 
 Et moi, de ces frayeurs de nouveau te guérir.
 
-
 **** *creator_corneillep *book_corneillep_melite *style_verse *genre_comedy *dist1_corneillep_verse_comedy_melite *dist2_corneillep_verse_comedy *id_CLITON *date_1630 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cliton
+
 
 Cela vaut fait, monsieur.
 
@@ -2258,8 +2259,8 @@ Crois que ce n'est pas moi qu'il attrape deux fois.
 
 Contente, à tes périls, ton curieux désir.
 
-
 **** *creator_corneillep *book_corneillep_melite *style_verse *genre_comedy *dist1_corneillep_verse_comedy_melite *dist2_corneillep_verse_comedy *id_NOURRICE *date_1630 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nourrice
+
 
 Cette obstination à faire la secrète
 M'accuse injustement d'être trop peu discrète.
@@ -2419,4 +2420,3 @@ Allez, quelle que soit l'ardeur qui vous emporte,
 On ne se moque point des femmes de ma sorte ;
 Et je ferai bien voir à vos feux empressés
 Que vous n'en êtes pas encor où vous pensez.
-

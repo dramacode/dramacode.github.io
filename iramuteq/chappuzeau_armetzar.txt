@@ -2,6 +2,7 @@
 
 **** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *id_tamerlan *date_1656 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_tamerlan
 
+
 Enfin, je suis vainqueur de tous mes ennemis,
 Tous les Roys de l'Asie à mes piés sont soûmis,
 Du Danube et du Nil j'ay calmé les tempête,
@@ -214,8 +215,8 @@ Et je te donne ensemble et ma fille et la paix.
 Ouy, par de tels bienfaits je veux vous enchaîner,
 Et Tamerlan enfin sçait vaincre et pardonner.
 
-
 **** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *id_armetzar *date_1656 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_armetzar
+
 
 Organte, as-tu tout dit ? et puis-je enfin respondre ?
 Tu crois par ces raisons aisement me confondre ;
@@ -823,8 +824,8 @@ Et j'ay lieu d'esperer, mon juge êtant mon pere.
 Quel bonheur impreveu ! Dieux, que viens-je d'entendre ?
 Ha mon pere ! ha grand Roy ! que pourray-je vous rendre !
 
-
 **** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *id_organte *date_1656 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_organte
+
 
 Seigneur, il ne faut pas consulter davantage,
 Evitez les perils où l'amour vous engage ;
@@ -947,8 +948,20 @@ La Princesse survient.
       Ouy, faisons diligence ;
 Allons, Seigneur, allons, je vous suis en tous lieux.
 
+**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *id_odmar *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_odmar
+
+
+Apres ce que Phocate a fait à nôtre vûe,
+Cette soûmission luy doit être rendue.
+
+**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *id_axalla *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_axalla
+
+
+Avec beaucoup de joye Axalla s'y resout,
+Je seray trop heureux de le suivre par tout.
 
 **** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *id_zinton *date_1656 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_zinton
+
 
 En vain à m'attaquer Tamerlan se prepare,
 Je ne redoute point les efforts du Tartare ;
@@ -1260,8 +1273,8 @@ Tamerlan, c'est me vaincre une seconde fois.
 Je ne dois pas reprendre un don que j'avois fait,
 Il en a ma parole, et peut en voir l'effet.
 
-
 **** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *id_vanlie *date_1656 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_vanlie
+
 
 Destiné dans ce jour à de si grans exploits,
 Sire, un exces de joye a retenu ma voix.
@@ -1633,8 +1646,8 @@ Et le thrône est à vous, daignez y remonter.
 De vos rares bontez c'est une illustre marque ;
 Que ne vous dois-je point, invincible Monarque !
 
-
 **** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *id_artaban *date_1656 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_artaban
+
 
 Recevez d'Artaban le méme compliment.
 
@@ -1733,8 +1746,8 @@ La Reine en peu de temps se verroit satifaitte.
 Mais voicy la beauté pour qui souffroit mon cœur,
 Ne nous exposons plus aux traits⁎ de sa rigueur.
 
-
 **** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *id_zarimene *date_1656 *sexe_feminin *age_veteran *statut_maitre *fonction_autres *role_zarimene
+
 
 Je viens mesler ma joye à vos ravissemens,
 Et nous devons au Ciel mille remercimens ;
@@ -1880,8 +1893,8 @@ Les Dieux sont irritez, cedons à leur colere.
       C'en est fait, qu'on m'emporte d'icy,
 Puisque mon fils est mort, il faut mourir aussy.
 
-
 **** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *id_ladice *date_1656 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_ladice
+
 
 Tu ne me parles point des fureurs⁎ d'une guerre
 Qui vient insolemment menacer nôtre terre,
@@ -2324,8 +2337,8 @@ Qui t'a vû laschement les quitter au combat.
 S'il est ainsi, cher Prince, evitez sa colere.
 Sauvez moy, sauvez vous.
 
-
 **** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *id_iliane *date_1656 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_iliane
+
 
 Quoy, parêtre si triste⁎ en un jour plein de joye !
 C'est peu goûter les biens que le Ciel vous envoye.
@@ -2401,8 +2414,19 @@ Mais, Madame, Armetzar vient chasser vôtre peur.
 Mais le voicy, Madame ; ô ciel tout est perdu,
 Et déja le Tartare en ces lieux s'est rendu !
 
+**** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *id_ulanie *date_1656 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_ulanie
+
+
+Madame, c'est demain que le combat se donne,
+Et vous ôtez au Roy l'appuy de sa couronne.
+Je crains que son couroux, s'il en est eclaircy…
+
+Un garde vient à nous.
+
+Madame…
 
 **** *creator_chappuzeau *book_chappuzeau_armetzar *style_verse *genre_tragedy *dist1_chappuzeau_verse_tragedy_armetzar *dist2_chappuzeau_verse_tragedy *id_garde *date_1656 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_garde
+
 
 Sire, le Prince arrive.
 
@@ -2444,4 +2468,3 @@ Soûs le nom de Phocate, et soûs ces mémes armes
 Vous serviez l'ennemy, je l'ay trop apperceu.
 
 Seigneur, on vous l'ameine.
-

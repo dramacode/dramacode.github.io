@@ -2,6 +2,7 @@
 
 **** *creator_biancolelliromagnesi *book_biancolelliromagnesi_bonnefemme *style_verse *genre_parodie *dist1_biancolelliromagnesi_verse_parodie_bonnefemme *dist2_biancolelliromagnesi_verse_parodie *id_DANAUS *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_danaus
 
+
 Pas tant que tu le dis.
 Pas tant que tu le dis.
 Un frère chicaneur me chassa de Memphis,
@@ -155,8 +156,8 @@ Tous deux vous entraîner au diable.
 
 Vite que l'on m'emporte.
 
-
 **** *creator_biancolelliromagnesi *book_biancolelliromagnesi_bonnefemme *style_verse *genre_parodie *dist1_biancolelliromagnesi_verse_parodie_bonnefemme *dist2_biancolelliromagnesi_verse_parodie *id_HYPERMNESTRE *date_1726 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hypermnestre
+
 
 À quoi vous amusez-vous,
 Mon père, mon père ?
@@ -338,8 +339,8 @@ Il expire, Seigneur...
 Ô ciel quel coup funeste !
 Il ne faut pas quitter le Roi.
 
-
 **** *creator_biancolelliromagnesi *book_biancolelliromagnesi_bonnefemme *style_verse *genre_parodie *dist1_biancolelliromagnesi_verse_parodie_bonnefemme *dist2_biancolelliromagnesi_verse_parodie *id_LYNCEE *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lyncee
+
 
 Ça Fanchon,
 Mon petit bouchon,
@@ -458,8 +459,8 @@ Et zeste, zeste, zeste,
 Puisqu'il est défunt, croyez-moi,
 Songeons au reste.
 
-
 **** *creator_biancolelliromagnesi *book_biancolelliromagnesi_bonnefemme *style_verse *genre_parodie *dist1_biancolelliromagnesi_verse_parodie_bonnefemme *dist2_biancolelliromagnesi_verse_parodie *id_ARCAS *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
+
 
 Deux illustres familles,
 Apaisent leur courroux,
@@ -498,3 +499,11 @@ Pendant que l'on danse
 Ils nous rossent tant et plus,
 Lanturlu, lanturlu, lanturlu.
 
+**** *creator_biancolelliromagnesi *book_biancolelliromagnesi_bonnefemme *style_verse *genre_parodie *dist1_biancolelliromagnesi_verse_parodie_bonnefemme *dist2_biancolelliromagnesi_verse_parodie *id_UNPAYSAN *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_unpaysan
+
+
+Gai, gai, gai,
+Madame la mariée.
+Bon, bon,
+Je sommes ravis tatigué,
+De vous voir si bien accouplée.

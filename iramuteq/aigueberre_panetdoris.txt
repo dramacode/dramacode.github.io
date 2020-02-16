@@ -2,6 +2,7 @@
 
 **** *creator_aigueberre *book_aigueberre_panetdoris *style_verse *genre_pastorale *dist1_aigueberre_verse_pastorale_panetdoris *dist2_aigueberre_verse_pastorale *id_PAN *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pan
 
+
 Amour, le Dieu des Bois Implore ta toute puissance :
 Sauve-moi la douleur de revoir en ces lieux,
 Un Berger trop fatal au bonheur de racs igBazi'egay feux
@@ -80,8 +81,8 @@ Venez, Bergers, accourez tous :
 D'un triomphe si doux,
 Vous partagez la gloire.
 
-
 **** *creator_aigueberre *book_aigueberre_panetdoris *style_verse *genre_pastorale *dist1_aigueberre_verse_pastorale_panetdoris *dist2_aigueberre_verse_pastorale *id_DORIS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_doris
+
 
 Quoi, toujours agité d'une douleur mortelle !
 
@@ -150,8 +151,8 @@ Qui vient d'assurer mon bonheur ;
 C'est le Dieu d'amour lui-même.
 Qui me fait chérir mon erreur.
 
-
 **** *creator_aigueberre *book_aigueberre_panetdoris *style_verse *genre_pastorale *dist1_aigueberre_verse_pastorale_panetdoris *dist2_aigueberre_verse_pastorale *id_PALEMON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_palemon
+
 
 Je viens revoir les lieux où j'ai pris la naissance.
 
@@ -203,8 +204,8 @@ Soient les témoins d'un bonheur qui m'offense.
 Loin des lieux où l'on vient de ravir votre foi,
 Je vais pleurer un bien qui n'était dû qu'à moi.
 
+**** *creator_aigueberre *book_aigueberre_panetdoris *style_verse *genre_pastorale *dist1_aigueberre_verse_pastorale_panetdoris *dist2_aigueberre_verse_pastorale *id_ARCAS *date_(non *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_arcas
 
-**** *creator_aigueberre *book_aigueberre_panetdoris *style_verse *genre_pastorale *dist1_aigueberre_verse_pastorale_panetdoris *dist2_aigueberre_verse_pastorale *id_ARCAS *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_arcas
 
 Palémon sur ces bords, vient de frapper mes yeux.
 
@@ -236,3 +237,20 @@ Ceux que promet l'Âmour n'ont qu'un charme trompeur.
 Doris vers nous s'avance ;
 Fuyons un objet trop charmant.
 
+**** *creator_aigueberre *book_aigueberre_panetdoris *style_verse *genre_pastorale *dist1_aigueberre_verse_pastorale_panetdoris *dist2_aigueberre_verse_pastorale *id_CHOEUR *date_(non *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_choeur
+
+
+Sous votre empire,
+Nous nous rangeons tous,
+Le Dieu qui pour vous soupire,
+Règne sur nous.
+
+Viens, Amour, dans cette retraite ;
+Quitte ton arc et ton carquois :
+Et ne prend plus qu'une houlette ,
+Pour ranger nos coeurs sous tes lois.
+
+Viens Amour dans cette retraite,
+Quitte ton arc et ton carquois.
+Et ne prend plus qu'une houlette,
+Peur ranger nos coeurs sous tes lois.

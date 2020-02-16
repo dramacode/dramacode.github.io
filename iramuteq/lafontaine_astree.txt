@@ -2,6 +2,7 @@
 
 **** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *id_ASTREE *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_astree
 
+
 Avais-je tort, Philis ? Tu vois ces témoignages
 De sa main propre ils sont tracés ;
 Considère de quels outrages
@@ -174,8 +175,8 @@ Ah ! que nous bénirons nos fers,
 Si l'Amour mesure ses charmes
 Sur les tourments qu'on a soufferts.
 
-
 **** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *id_CELADON *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_celadon
+
 
 Hé quoi ! seule en ces lieux, sans songer à la fête
 Dont vous serez tout l'ornement !
@@ -301,8 +302,40 @@ La Nymphe vient à nous.
       Princesse, notre sort
 Vous doit faire excuser ces marques de transport.
 
+**** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *id_SEMIRE *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_semire
+
+
+Perfide que je suis ! infortuné Sémire !
+Les bruits qu'en ces hameaux je répands tous les jours
+Soulageront-ils mon martyre ?
+Que me sert de troubler d'innocentes amours ?
+J'aime Astrée et je tente un dessein téméraire :
+Je détruis son amant, mais que fais-je pour moi ?
+Ce qui le rend suspect de violer sa foi
+Me rend-il capable de plaire ?
+Au sein d'Astrée en vain j'ai versé cent poisons.
+L'implacable dépit, les injustes soupçons,
+L'aveugle et la sourde colère,
+La jalousie, au repos si contraire,
+Enfants de l'art dont je me sers,
+M'ont en vain procuré le secours des Enfers.
+Quel fruit aura ton crime, infortuné Sémire ?
+Les mensonges divers à quoi tu donnes cours
+Soulageront-ils ton martyre ?
+Que te sert de troubler d'innocentes amours ?
+Je me venge, il suffit ; je fais des misérables.
+N'est-ce pas un bien assez doux ?
+Achevons ; puis retirons-nous
+En des déserts inhabitables.
+Amants, heureux amants, dont je détruis la foi,
+Puissiez-vous devenir plus malheureux que moi !
+Je vois déjà cette bergère en larmes
+Ce doit être l'effet des dernières alarmes
+Par qui mon imposture a séduit sa raison ;
+Laissons sur son esprit agir notre poison.,
 
 **** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *id_PHILIS *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philis
+
 
 Ne le soupçonnez pas, ma soeur.
 
@@ -393,8 +426,8 @@ Rejoignons ces bergers : déjà la nuit s'avance,
 Dans ces lieux règne le silence.
 Bergers, attendez-nous... Ils ne m'écoutent pas...
 
-
 **** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *id_HYLAS *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hylas
+
 
 Quoi ! Vous doutez si je vous aime ?
 Eh ! Qui pourrait, Philis, vous voir sans vous aimer ?
@@ -433,8 +466,8 @@ C'est le moyen de déplaire,
 Et de faire
 Qu'à l'objet de vos voeux d'autres plaisent que vous.
 
-
 **** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *id_TIRCIS *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tircis
+
 
 C'est un devoir de persister toujours
 Dans les mêmes amours.
@@ -456,8 +489,8 @@ Ils revivront en un moment. »
 Ne troublons point du sort les mystères terribles ;
 Sortons : à nos hameaux allons tout raconter.
 
-
 **** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *id_GALATEE *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_galatee
+
 
 Je ne me connais plus ; quelle nouvelle ardeur
 Se rend maîtresse de mon coeur ?
@@ -559,8 +592,8 @@ Accompagne aujourd'hui l'hymen de ces amants ;
 Inventez tous des divertissements
 Dignes de ma présence.
 
-
 **** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *id_LEONIDE *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonide
+
 
 Princesse, cherchez-vous ici la solitude ?
 
@@ -616,8 +649,8 @@ Qui vous rend à ces lieux, Ismène, dites-moi ?
 Quels biens votre pouvoir ne va-t-il pas répandre
 Dans cet heureux séjour !
 
-
 **** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *id_ISMENE *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismene
+
 
 Le Ciel exaucera vos voeux ;
 Il me l'a fait savoir. Je suis la fée Ismène.
@@ -671,3 +704,57 @@ Venez, et, sous divers déguisements,
 Faites connaître à ces heureux amants
 Les surprenants effets de votre obéissance.
 
+**** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *id_LIZETTE *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lizette
+
+
+Chi pet mogl' mi vuol pigliar ?
+Son Lizetta,
+Fanciulletta,
+Vezzozetta,
+Leggiadretta,
+Son d'amore la saetta
+Fatta pet tutto infiammar.
+Chi per mogl' mi vuol pigliar ?
+Ogni fior, se non è colto,
+Cade, e da gli venti è tolto.
+Ahi, che tem' ch' al primo fiato
+Certo fior troppo guardato
+Meco piu non possa star !
+Chi pet mogl' mi vuol pigliar ?
+
+Ô quanti becchi,
+Balordi e vecchi !
+Qual bruttalacciol
+Qual nazonaccio !
+Non voglio tal servitù,
+Ne mi maritaro più.
+
+**** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *id_GALIOFFO *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_galioffo
+
+
+Di voi sono inamorato.
+Il fantolin dio bendato
+Con un stral avelenato
+M' ha per voi ferito il cor.
+Rispondete a tanto ardor,
+E fate entrar, en sto di fortunato,
+Il mio vascel' tormentato
+Nel dolce porto d'amor.
+
+Voi mi sprezatte !
+
+**** *creator_lafontaine *book_lafontaine_astree *style_verse *genre_tragedie lyrique *dist1_lafontaine_verse_tragedie lyrique_astree *dist2_lafontaine_verse_tragedie lyrique *id_GAMBARINI *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gambarini
+
+
+Tu sci matt' d'amar sta bella.
+Speri tu qualche merce ?
+Quest' amor convien'a te,
+Com' all' asino la sella.
+Lizetta è fatta pet me,
+Com' io son fatto per ella.
+Son gioven', le è giovanella ;
+Son fedel, le è pien' di fe.
+Com' io son fatto pet ella,
+Lizetta è fatta per me.
+
+Voi mi beffate !

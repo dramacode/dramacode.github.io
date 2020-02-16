@@ -2,6 +2,7 @@
 
 **** *creator_lafossem *book_lafossem_ecoledelaraison *style_verse *genre_comedy *dist1_lafossem_verse_comedy_ecoledelaraison *dist2_lafossem_verse_comedy *id_LARAISON *date_1739 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laraison
 
+
 Je veux, si je le puis, éclairer l'Univers.
 Quand je vois des humains les différents travers,
 De certaine pitié je ne puis me défendre,
@@ -785,8 +786,8 @@ Lorsqu'il s'agit d'occuper vos loisirs.
 Sans un petit grain de Folie,
 Il n'est jamais de vrais plaisirs.
 
-
 **** *creator_lafossem *book_lafossem_ecoledelaraison *style_verse *genre_comedy *dist1_lafossem_verse_comedy_ecoledelaraison *dist2_lafossem_verse_comedy *id_LAFOLIE *date_1739 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lafolie
+
 
 Quoi ! la Raison abandonne les Cieux,
 Pour redescendre sur la terre !
@@ -985,4 +986,3 @@ En prenant de vous sa leçon,
 Il a risqué, je vous en prie,
 Paix si c'est Folie,
 Mais claquez fort, s'il a raison.
-

@@ -2,6 +2,7 @@
 
 **** *creator_corneillet *book_corneillet_domcesardavalos *style_verse *genre_comedy *dist1_corneillet_verse_comedy_domcesardavalos *dist2_corneillet_verse_comedy *id_DONFERNAND *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donfernand
 
+
 Je t'apporte, ma fille, une bonne nouvelle.
 Don César ton époux est ici d'hier au soir.
 
@@ -700,8 +701,8 @@ Ah, ah, mon cavalier, vous décampez ainsi ?
 
 Je ne vous quitte point, allons compter.
 
-
 **** *creator_corneillet *book_corneillet_domcesardavalos *style_verse *genre_comedy *dist1_corneillet_verse_comedy_domcesardavalos *dist2_corneillet_verse_comedy *id_DONCESAR *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_doncesar
+
 
 Il n'était point connu dans cette hôtellerie ?
 
@@ -1298,8 +1299,8 @@ Il faut lui donner lieu de partager ma joie.
 Avec cinq cents écus Béatrix est à toi.
 Vois si tu lui plairas.
 
-
 **** *creator_corneillet *book_corneillet_domcesardavalos *style_verse *genre_comedy *dist1_corneillet_verse_comedy_domcesardavalos *dist2_corneillet_verse_comedy *id_DONPASCAL *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donpascal
+
 
 Ne t'inquiète point, je jouerai bien mon rôle.
 Excusez, si je suis un peu court de parole.
@@ -1747,8 +1748,8 @@ Il y va trop du mien.
 
 Si l'on cherche un brave homme, en voici la monnaie.
 
-
 **** *creator_corneillet *book_corneillet_domcesardavalos *style_verse *genre_comedy *dist1_corneillet_verse_comedy_domcesardavalos *dist2_corneillet_verse_comedy *id_ENRIQUE *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_enrique
+
 
 Voilà ce qu'on m'écrit.
 
@@ -1912,8 +1913,8 @@ Donnez ordre à l'hymen qui charme son attente.
 
       Je me rends.
 
-
 **** *creator_corneillet *book_corneillet_domcesardavalos *style_verse *genre_comedy *dist1_corneillet_verse_comedy_domcesardavalos *dist2_corneillet_verse_comedy *id_ISABELLE *date_1674 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
 
 Va, ta direction aura son plein salaire.
 Ne crains rien ; mais dis-moi, je reviens à ce frère.
@@ -2247,8 +2248,8 @@ Ce que j'en ai souffert ne vous a pas déplu.
       Non, j'y crois trop gagner,
 Pour ne pas obéir avec toute la joie...
 
-
 **** *creator_corneillet *book_corneillet_domcesardavalos *style_verse *genre_comedy *dist1_corneillet_verse_comedy_domcesardavalos *dist2_corneillet_verse_comedy *id_BEATRIX *date_1674 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_beatrix
+
 
 Oui, vous dis-je, l'on vient d'assurer votre père,
 Qu'ici, depuis une heure, on a vu votre frère.
@@ -2536,8 +2537,8 @@ Il l'a pris au collet, et le ramène ici ?
       C'est le moyen de plaire,
 Prends-les.
 
-
 **** *creator_corneillet *book_corneillet_domcesardavalos *style_verse *genre_comedy *dist1_corneillet_verse_comedy_domcesardavalos *dist2_corneillet_verse_comedy *id_SGANARELLE *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sganarelle
+
 
       Bonjour, Monsieur. Qui se fut attendu...
 
@@ -2596,8 +2597,8 @@ Au diable soient les Morts, et toute leur séquelle.
 
       Monsieur.
 
-
 **** *creator_corneillet *book_corneillet_domcesardavalos *style_verse *genre_comedy *dist1_corneillet_verse_comedy_domcesardavalos *dist2_corneillet_verse_comedy *id_CARLIN *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_carlin
+
 
 Non, j'ai su seulement du valet d'écurie,
 Qu'ayant jusques au jour dormi fort en repos,
@@ -3035,8 +3036,8 @@ Qu'est-ce ? Cinq cents écus.
       Quand nous serons mariés, touche-là,
 Nous irons, si tu veux, trafiquer à Goa.
 
-
 **** *creator_corneillet *book_corneillet_domcesardavalos *style_verse *genre_comedy *dist1_corneillet_verse_comedy_domcesardavalos *dist2_corneillet_verse_comedy *id_GUZMAN *date_1674 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guzman
+
 
 Il est à quatre pas, qui brûle de vous voir,
 Madame, et comme il veut tout faire avec méthode,
@@ -3101,4 +3102,3 @@ Je crois de votre humeur qu'elle a pris de l'ombrage.
 Vous avez je ne sais quel diable de langage.
 
 Bon pour rire, mais quand un hymen se résout...
-

@@ -2,6 +2,7 @@
 
 **** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_diligencedelyon *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_diligencedelyon *dist2_cubieres-palmezeaux_prose_comedy *id_MORON *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moron
 
+
 Je dis, Monseigneur, que j'admire votre sang-froid, votre présence d'esprit, et surtout votre courages. Vous ne démentez point la race auguste dont vous descendez.
 
 Ma foi, Monseigneur, comme je n'ai point eu des Héros pour aïeux, et que mon métier n'est point celui des armes, ne pouvant pas être acteur dans le combat, je me suis caché derrière une haie, d'où j'ai été spectateur tout à mon aise.
@@ -252,8 +253,8 @@ Nicolas Frippart, Tailleur : qu'il sache à son tour ci qu'en vaut l'aune.
 
 Qui saura bien le lui rendre.
 
-
 **** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_diligencedelyon *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_diligencedelyon *dist2_cubieres-palmezeaux_prose_comedy *id_MADEMOISELLEPOUF *date_1777 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellepouf
+
 
 Êtes-vous bien sûr, Monsieur, qu'il n'y aura point de menu à notre souper ? D'honneur ! C'est incroyable.
 
@@ -301,8 +302,8 @@ Je ne suis point une Baronne. Je me nomme Mademoiselle Pouf, tout court : je sui
 
 Je serai très honorée de servir Milady.
 
-
 **** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_diligencedelyon *style_prose *genre_comedy *dist1_cubieres-palmezeaux_prose_comedy_diligencedelyon *dist2_cubieres-palmezeaux_prose_comedy *id_LHOTESSE *date_1777 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lhotesse
+
 
 Eh bien ! Messieurs, qu'est-ce qu'il y a ?
 
@@ -319,4 +320,3 @@ Je veux tien croire, Monsieur et Madame, que vous êtes des gens de la plus gran
 Vous faites sonner bien haut ce nom de Baronne ! Parce que Madame est Baronne, vous croyez...
 
 Ma foi, Madame la Baronne, puisque Baronne y a, dussé-je y passer ma vie, cela ne m'empêchera pas de dire qu'on voit dans le monde des gens bien ridicules ? Madame que voilà est une Lady, j'en suis sûre, et je l'aurais deviné à l'air de son visage, quand même ses domestiques ne me l'auraient pas dit ; une Lady vaut bien une Baronne, je pense ; et cependant, voyez si elle a fait tant de façons que vous autres pour se mettre à table ? Tenez, Messieurs, qui faites tant les fiers ; et vous, Madame, qui êtes si haut montée, faut-il vous parler avec franchise ? Les Nobles véritables ne sont jamais orgueilleux. II n'y a que les parvenus ou les roturiers, qui soient.... Dieu me pardonne ! J'allais dire une sottise, et il vaut bien mieux que je m'en aille.
-

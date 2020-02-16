@@ -651,7 +651,7 @@ Est-ce ainsi, qu'on paie les pauvres gens ? et votre qualité nous donne-t-elle
 
 Vous nous avez obligées, sans doute.
 
-**** *creator_moliere *book_moliere_precieusesridicules *style_prose *genre_comedy *dist1_moliere_prose_comedy_precieusesridicules *dist2_moliere_prose_comedy *id_violons *date_1659 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_violons
+**** *creator_moliere *book_moliere_precieusesridicules *style_prose *genre_comedy *dist1_moliere_prose_comedy_precieusesridicules *dist2_moliere_prose_comedy *id_violons *date_1659 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_violons
 
 
 Qu'est-ce donc que ceci ? qui nous payera, nous autres ?

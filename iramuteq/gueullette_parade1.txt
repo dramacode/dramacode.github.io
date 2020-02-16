@@ -2,6 +2,7 @@
 
 **** *creator_gueullette *book_gueullette_parade1 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade1 *dist2_gueullette_prose_farce *id_LEMAITRE *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemaitre
 
+
 Il faut, de toute nécessité, que je m'embarque aujourd'hui pour Corbeil où je dois aller recevoir trois cent francs. Voyons si je n'ai rien oublié pour le voyage. Voilà mon bonnet de nuit, une chemise. Mais, vraiment, le meilleur était sorti de ma mémoire. Gilles ! Gilles !
 
 Gilles !... Ah ! Te voilà... Qu'est-ce que cela veut dire?
@@ -283,8 +284,8 @@ Ah ! Vous joignez l'insulte à l'insolence ! Voilà comme j'étrille Monsieur le
 
 Voilà comment je les paye à des coquins tels que vous.
 
-
 **** *creator_gueullette *book_gueullette_parade1 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade1 *dist2_gueullette_prose_farce *id_GILLES *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
+
 
 Ah ! Monsieur, je n'en puis plus !
 
@@ -769,8 +770,8 @@ A Sansquartieribus, Divertissantibus et Gilantibus.
 
 Quel conte ! Vous n'avez pas assez d'esprit pour cela...
 
-
 **** *creator_gueullette *book_gueullette_parade1 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade1 *dist2_gueullette_prose_farce *id_TAILLEBRAS *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_taillebras
+
 
 Qu'y a-t-il, Monsieur ? Vous criez comme si le feu était à la maison.
 
@@ -819,8 +820,8 @@ Mais, pour monsieur et pour moi, cela peut valoir quinze francs.
 
 Il s'agit de nous satisfaire, sinon...
 
-
 **** *creator_gueullette *book_gueullette_parade1 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade1 *dist2_gueullette_prose_farce *id_VISAUTROU *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_visautrou
+
 
 À quoi servent ces cornets de papier ?
 
@@ -856,8 +857,8 @@ Voilà les cornets ôtés, et ces deux doigts ne sont pas plus maltraités que l
 
 Quel insolent ! Pour qui nous prends-tu ?
 
-
 **** *creator_gueullette *book_gueullette_parade1 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade1 *dist2_gueullette_prose_farce *id_PRENDSTOUT *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_prendstout
+
 
 Morbleu ! Camarade, voilà une belle occasion de boire la bouteille de vin grec que Gilles doit porter à Madamoiselle Ampoüisse.
 
@@ -936,8 +937,8 @@ Ah ! Monsieur, je vous en fais excuse.
 Monsieur, amusez mon père pendant que je m'enfuirai.
 Avant que tu t'enfuisses, je prétends t'estropier et te rendre cul-de-jatte.
 
-
 **** *creator_gueullette *book_gueullette_parade1 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade1 *dist2_gueullette_prose_farce *id_LAISSERIEN *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laisserien
+
 
 Mais comment peux-tu parvenir à la boire, puisque tu as vu, comme moi, que son maître la lui a attachée au derrière ?
 
@@ -963,8 +964,8 @@ Non, mon ami, c'est que la semelle de ces souliers était faite de langues de fe
 
 Adieu, à revoir.
 
-
 **** *creator_gueullette *book_gueullette_parade1 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade1 *dist2_gueullette_prose_farce *id_GILLETTE *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_gillette
+
 
 Qui est le butor qui frappe ainsi ?
 
@@ -1048,8 +1049,8 @@ Ne crains rien, j'ai mis les verrous.
 
 Sauve-toi, Gilles, c'est le plus court. Il est si furieux qu'il veut sauter par la fenêtre.
 
-
 **** *creator_gueullette *book_gueullette_parade1 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade1 *dist2_gueullette_prose_farce *id_SANSQUARTIER *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sansquartier
+
 
 Monsieur, excusez, s'il vous plaît. C'est que la bastarde de la cousine de Monsieur Divertissant a été mariée à Saint-Denis, et, comme il a été prié de la noce, et moi aussi, nous n'avons pas voulu refuser l'honneur qu'on nous a fait.
 
@@ -1173,8 +1174,8 @@ Quelle misère ! tu n'as non plus de courage qu'une poule mouillée.
 
 Si nous avions eu plus d'argent, nous aurions acheté un docteur qui vous eût débité de meilleur latin. Mais, comme vous n'avez jamais étudié qu'à Asnières...
 
-
 **** *creator_gueullette *book_gueullette_parade1 *style_prose *genre_farce *dist1_gueullette_prose_farce_parade1 *dist2_gueullette_prose_farce *id_DIVERTISSANT *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_divertissant
+
 
 Oui, Monsieur, nous en arrivons dans le moment. La mariée a voulu que la noce se fît à Saint-Denis, à cause de la grande mesure. Ah ! Pardi, nous y avons bu comme des trous. Heu !
 
@@ -1289,4 +1290,3 @@ Non, mon ami ; mais tu sais que les chaudrons, et surtout la principale marmite 
 De Bourges, Monsieur.
 
 Mais, Monsieur, enfin ! Nos gages ?
-

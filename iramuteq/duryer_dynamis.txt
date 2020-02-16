@@ -2,6 +2,7 @@
 
 **** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *id_PROXENE *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_proxene
 
+
 Que te sert de montrer par tant d'illustres marques
 Que le Ciel t'a donné les vertus des Monarques ?
 Que te sert d'aspirer au pouvoir souverain
@@ -269,8 +270,8 @@ Qu'il a gagné les coeurs que vous croyez fidèles.
 
 Mais il entre, et ses yeux ne sont pas d'un coupable.
 
-
 **** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *id_TRASILE *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trasile
+
 
 Que je prends de plaisir au vol où je m'engage,
 À te voir aujourd'hui douter de mon courage,
@@ -737,8 +738,8 @@ Que la Reine le garde, il est pour le coupable.
 Et pour me venger d'elle et de ce brave Roi ;
 Je souhaite à tous deux des sujets comme toi.
 
-
 **** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *id_DYNAMIS *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dynamis
+
 
       Oui ma gloire m'est chère.
 C'est trop vous écouter, conseillers odieux,
@@ -1699,8 +1700,8 @@ Au lieu de votre amour mériter votre haine.
 Que ne puis-je honorer un Roi victorieux,
 Un Roi mon défenseur, d'un prix plus glorieux ?
 
-
 **** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *id_POLIANTE *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_poliante
+
 
 Si mon bras combattant pour votre seule gloire,
 A pour vous remporté victoire sur victoire,
@@ -2149,8 +2150,8 @@ Que de donner un prix aux services égal,
 Mais vous voulez montrer que pour payer en Reine
 Il faut donner un prix qui surpasse la peine.
 
-
 **** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *id_PROCLEE *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_proclee
+
 
 Ha, Madame, il est temps de redouter Arcas ;
 Pour venir jusqu'à vous il n'a qu'à faire un pas.
@@ -2270,8 +2271,113 @@ Je meurs avec justice, a-t-il dit en mourant.
 Ainsi deux criminels sont bourreaux l'un de l'autre.
 C'est tout ce qu'il a dit.
 
+**** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *id_EURISTENE *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_euristene
+
+
+C'est exciter la haine et l'attirer sur moi,
+De parler sans témoins contre un si puissant Roi ;
+Mais c'est me rendre aussi justement détestable,
+De laisser l'innocent apparemment coupable.
+Arcas, sorti des Rois vos illustres aïeux,
+A paru trop longtemps criminel à vos yeux ;
+Et c'est à mon avis gagner une victoire,
+De rendre à l'innocent son estime et sa gloire.
+Je ne vous dirai point qu'après un long effroi,
+L'on perdit la bataille, où demeura le Roi ;
+Que le mal fut si grand et la déroute telle,
+Que jamais le Soleil n'en vit de plus cruelle,
+Tout le monde oublia son courage et son coeur,
+Et chacun prit la fuite où le poussa la peur.
+Pour moi, voyant mon sang couler de cent blessures,
+Et de tous les côtés de tristes aventures,
+Je gagnai de grands bois, où chancelant d'abord,
+Parmi quelques buissons je tombai comme mort.
+Si j'y fus bien longtemps, je ne saurais le dire ;
+Remarque-t-on le temps au point que l'on expire ?
+Mais enfin un grand cri qui perça tout ce bois,
+Rappelant mes esprits, me tira des abois.
+Je lève un peu la tête ; à peine puis-je croire
+Ce que me montre ici ma funeste mémoire,
+Ainsi qu'à peine alors pus-je croire mes yeux
+D'un acte si cruel et si prodigieux.
+Je levai donc la tête, et je vis Poliante
+Le visage enflammé, la main toute sanglante,
+Qui retirait du corps du Roi mourant ou mort
+Un poignard effroyable avec un grand effort.
+
+À ce spectacle affreux et si plein de fureur,
+Je tombe en même temps de faiblesse et d'horreur ;
+Je voulus m'écrier, mais la douleur pressante,
+Ou bien plutôt le Ciel retint ma voix mourante,
+De peur que l'assassin, venant à m'aviser,
+Ne perdit le témoin qui pouvait l'accuser.
+
+C'est que jusqu'ici le destin a permis
+Que je sois demeuré parmi les Ennemis :
+Car m'ayant rencontré, ces cruels m'entraînèrent,
+Et dans la servitude ils me précipitèrent.
+Ainsi sans voir depuis que le Ciel et les eaux,
+J'ai toujours avec eux vogué sur leurs vaisseaux,
+Esclave malheureux, que la fortune adverse
+Loin du monde habité priva de tout commerce.
+
+**** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *id_DEPUTES *date_1649 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_deputes
+
+
+Ce n'est point l'intérêt, ce Tyran indomptable,
+Qui nous a fait paraître en ce lieu vénérable,
+Nous y venons pour vous, et poussés d'une ardeur
+Qui n'a jamais brûlé que pour votre Grandeur.
+Il court un mauvais bruit dans la Ville animée,
+Et ce grand bruit n'en veut qu'à votre renommée.
+Il fait croire qu'Arcas, par votre ordre attiré,
+Vient recevoir de vous un Sceptre désiré ;
+Que vous voulez paraître en un danger extrême
+Contrainte à lui céder et le Trône et vous-même ;
+Et que pour étonner les timides esprits,
+Vous avez bien voulu que l'on en fût surpris.
+Ce bruit est faux, Madame, et les Dieux équitables
+En foudroieront bientôt les Auteurs détestables.
+Enfin dans ce désordre on a tenté nos coeurs :
+Pour armer contre vous nos mains et nos fureurs,
+Pour vous donner, Seigneur, la Grandeur souveraine ;
+Mais vous êtes bon frère, et nous aimons la Reine.
+Commencez donc ici par votre jugement
+Du criminel Arcas le juste châtiment.
+La haine de l'État justement découverte,
+Vous demande par nous et sa tête et sa perte,
+Non pas pour satisfaire à notre aversion,
+Mais pour vous assurer par sa punition.
+Si votre coeur surpris lui cédait la victoire,
+Nous saurions malgré nous conserver votre gloire ;
+Nous vengerions le Roi contre tant d'attentats,
+Et dessus son sépulcre immolerions Arcas.
+Que si comme d'un faix votre main était lasse
+De porter toute seule un Sceptre qu'on menace,
+Le Roi des Lyciens, Poliante amoureux,
+Ce Prince renommé, ce Prince généreux,
+Est seul de tous les Rois que la gloire environne,
+Digne de vous aider à porter la Couronne.
+Enfin nous demandons pour tous nos Souverains,
+Que votre autorité soit en vos seules mains ;
+Que de votre Conseil vous éloigniez des traîtres,
+Qui se rendent déjà nos Tyrans et vos Maîtres ;
+Et qui d'un traître encor se déclarant l'appui,
+Font voir leur trahison en vous parlant pour lui.
+Ainsi vos bons sujets demeureront fidèles ;
+Ainsi vous ôterez le prétexte aux rebelles.
+Enfin voilà notre ordre. À ces conditions,
+Espérez nos respects et nos soumissions.
+Nous parlons librement, votre bien nous y porte ;
+Et quand le zèle est grand, il parle de la sorte.
+
+Mais enfin consentez qu'une juste alliance
+De deux fameux États contente l'espérance.
+Si la paix qui revient n'y pouvait séjourner
+Les liens de l'hymen l'y sauraient enchaîner.
 
 **** *creator_duryer *book_duryer_dynamis *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_dynamis *dist2_duryer_verse_tragedy *id_ARCAS *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
+
 
 Ô reine, dont j'aimais et dont je crains la vue,
 Retenez un moment ce regard qui me tue,
@@ -2309,4 +2415,3 @@ Et moi qui leur souhaite un règne favorable,
 Que la paix rende heureux et toujours indomptable,
 Je leur souhaite aussi des sujets et des coeurs,
 Non comme j'ai vécu, mais ainsi que je meurs.
-

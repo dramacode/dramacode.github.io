@@ -2,6 +2,7 @@
 
 **** *creator_dufresny *book_dufresny_departdescomediens *style_verse *genre_comedy *dist1_dufresny_verse_comedy_departdescomediens *dist2_dufresny_verse_comedy *id_ARLEQUIN *date_1794 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
+
 Déserts, affreux déserts, sombres loges, parterre,
 Balcons inhabités, théâtre solitaire ;
 Et vous fidèles bancs, qui seuls depuis six mois,
@@ -187,8 +188,8 @@ J'ai bien des choses à vous dire.
 Si notre adieu vous fait pleurer,
 Votre argent nous fera bien rire.
 
-
 **** *creator_dufresny *book_dufresny_departdescomediens *style_verse *genre_comedy *dist1_dufresny_verse_comedy_departdescomediens *dist2_dufresny_verse_comedy *id_OCTAVE *date_1794 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octave
+
 
 Moi ? Rien.
 
@@ -209,8 +210,8 @@ On n'a que faire d'enseigne, quand on est bien achalandé.
 
 Va, va, je n'ai que faire de ta société ; je trouverai bien dans Paris quelque illustre associé qui m'apprendra le fin du commerce.
 
-
 **** *creator_dufresny *book_dufresny_departdescomediens *style_verse *genre_comedy *dist1_dufresny_verse_comedy_departdescomediens *dist2_dufresny_verse_comedy *id_LEANDRE *date_1794 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+
 
 Fasse son métier qui le saura.
 Jeune fille trop sévère,
@@ -236,8 +237,8 @@ Je vois bien que tu as de bons principes, et si tu veux t'associer avec moi, nou
 Adieu fillettes et garçons,
 Plus assidus que père et mère.
 
-
 **** *creator_dufresny *book_dufresny_departdescomediens *style_verse *genre_comedy *dist1_dufresny_verse_comedy_departdescomediens *dist2_dufresny_verse_comedy *id_MEZZETIN *date_1794 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mezzetin
+
 
 Oui, monsieur. Voyant qu'il n'y a plus rien à faire à la comédie, nous nous en allons jouer un opéra à la campagne. Si vous voulez vous associer à nous, tenez, voilà toutes nos machines.
 
@@ -262,8 +263,8 @@ Vous m'entendez bien.
 Adieu femmes, dont les maris
 Trouvaient ici leurs places franches.
 
-
 **** *creator_dufresny *book_dufresny_departdescomediens *style_verse *genre_comedy *dist1_dufresny_verse_comedy_departdescomediens *dist2_dufresny_verse_comedy *id_COLOMBINE *date_1794 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colombine
+
 
 À quoi diantre s'amuse Arlequin, pendant que la troupe tient conseil sur les affaires présentes ?
 
@@ -314,8 +315,8 @@ J'aurai le profit du jeu, et toi tu fourniras les cartes. Pour ce qui est des ha
 Dieu bons bourgeois de Paris
 Qui veniez nous voir le dimanche.
 
-
 **** *creator_dufresny *book_dufresny_departdescomediens *style_verse *genre_comedy *dist1_dufresny_verse_comedy_departdescomediens *dist2_dufresny_verse_comedy *id_PIERROT *date_1794 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+
 
 Que la comédie aille comme elle pourra, pour moi je serai toujours recherché des femmes pour mon bel esprit.
 
@@ -350,3 +351,9 @@ Je le veux bien.
 Vous pouvez vendre vos sifflets,
 À tous les chaudronniers de France.
 
+**** *creator_dufresny *book_dufresny_departdescomediens *style_verse *genre_comedy *dist1_dufresny_verse_comedy_departdescomediens *dist2_dufresny_verse_comedy *id_PASQUARIEL *date_1794 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pasquariel
+
+
+Je m'en vais avec ma soeur jouer l'opéra en vendange.
+
+Bon : et en faut-il savoir pour chanter à l'opéra ? Nous ne la savons pas non plus, nous autres. Nous avons mis Bellérophon sur les airs du pont-neuf : et si voulez être des nôtres, nous vous donnerons votre rôle, que vous chanterez à livre ouvert.

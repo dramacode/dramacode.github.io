@@ -2,6 +2,7 @@
 
 **** *creator_pompigny *book_pompigny_noeuddamour *style_prose *genre_comedy *dist1_pompigny_prose_comedy_noeuddamour *dist2_pompigny_prose_comedy *id_COLIN *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colin
 
+
 Ah ! Babet !
 
 Mon cher oncle, je voudrais proposer un arrangement à ces Messieurs.
@@ -82,15 +83,8 @@ Ah, Babet ! Tu le veux.... le voilà.
 
 Oh ! Vous venez trop tard.
 
-L'amante a l'air de se défendre
-À l'instant qu'elle veut se rendre ;
-Tous ses efforts ne sont qu'un jeu.
-Feignez de céder, et la belle
-Cesse aussitôt d'être cruelle:
-Voilà le noeud, voilà le noeud.
-
-
 **** *creator_pompigny *book_pompigny_noeuddamour *style_prose *genre_comedy *dist1_pompigny_prose_comedy_noeuddamour *dist2_pompigny_prose_comedy *id_LAMEREBAZU *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamerebazu
+
 
 Assurément. Je n'ai aucun reproche à me faire. Son père et sa mère me l'ont confiée tour-à-tour en mourant, et j'ai pris autant de soin de son bien que de son honneur : car l'honneur....
 
@@ -128,15 +122,8 @@ Ce n'est qu'avec douceur qu'on obtient une faveur si précieuse, et dans ma jeun
 
 J'en suis ravie. Vous voyez que je suis femme de parole. Embrassez-moi, mon cher petit neveu.
 
-Je me souviens qu'en mon jeune âge
-Il en coûtait bien davantage
-Pour obtenir un doux aveu ;
-Mais à présent, ah ! Qu'on se presse !
-On veut jouir de sa jeunesse :
-Voilà le noeud, voilà le noeud.
+**** *creator_pompigny *book_pompigny_noeuddamour *style_prose *genre_comedy *dist1_pompigny_prose_comedy_noeuddamour *dist2_pompigny_prose_comedy *id_BABET *date_1779 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_babet
 
-
-**** *creator_pompigny *book_pompigny_noeuddamour *style_prose *genre_comedy *dist1_pompigny_prose_comedy_noeuddamour *dist2_pompigny_prose_comedy *id_BABET *date_1779 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_babet
 
 Moi ! Je ne veux fâcher personne. Je désirerais pouvoir contenter tout le monde. Qu'ils tirent au sort, et nous verrons après.
 
@@ -311,11 +298,3 @@ Vous en êtes le maître, puisque vous l'avez. Mais si tu m'aimes....
 Rends-le-moi ; j'exige cette preuve de ta tendresse.
 
 Et moi, je te le donne.
-
-Jeunes amants qui voulez plaire,
-Brûlez d'une flamme sincère ;
-C'est beaucoup, mais encor trop peu.
-Il faut que la délicatesse
-Couvre votre amoureuse adresse :
-Voilà le noeud, voilà le noeud.
-

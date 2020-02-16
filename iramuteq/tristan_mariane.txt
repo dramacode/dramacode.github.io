@@ -2,6 +2,7 @@
 
 **** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_HERODE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_herode
 
+
 Fantôme injurieux qui troubles mon repos,
 Ne renouvelle plus tes insolents propos ;
 Va dans l'ombre éternelle, ombre pleine d'envie,
@@ -999,8 +1000,8 @@ Mon âme avec mes pleurs s'efforce de sortir.
 Vois l'excès de l'ennui dont elle est désolée,
 Et comment pour te suivre elle prend sa volée.
 
-
 **** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_THARE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thare
+
 
       Que vous plaît-il, Sire ?
 
@@ -1028,8 +1029,8 @@ Il est évanoui, portons-le sur un lit,
 Possible que des sens il reprendra l'usage,
 Quand on aura jeté de l'eau sur son visage.
 
-
 **** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_PHERORE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pherore
+
 
 On me disait ici que vous dormiez encore.
 
@@ -1177,8 +1178,8 @@ Oubliez cette perte, elle est irréparable,
 Et si vous employant à la considérer,
 Vous ne la voudriez pas vous-même réparer.
 
-
 **** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_SALOME *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_salome
+
 
 Vous plaît-il que j'entende aussi cette aventure,
 Qui n'est à bien parler qu'une vaine peinture,
@@ -1479,8 +1480,8 @@ C'est un corps sans chaleur qui se réduit en cendre.
 Vous direz quelque jour que ce trait exemplaire,
 Était pour votre État un mal fort nécessaire,
 
-
 **** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_MARIANE *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mariane
+
 
 Je croirais ton conseil, s'il était raisonnable :
 Mais quoi ? Veux-tu que j'aime un monstre abominable,
@@ -1832,8 +1833,8 @@ Vous vivrez innocente, et je mourrai coupable.
 
       Par où ?
 
-
 **** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_ALEXANDRA *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alexandra
+
 
 On te mène égorger innocente victime,
 Tu vas donc au supplice, et n'as point fait de crime,
@@ -1885,8 +1886,8 @@ Est tout meurtri des coups que la douleur lui donne.
 Mon âme se va rendre à l'excès de ce deuil,
 Je vais me mettre au lit, ou plutôt au cercueil.
 
-
 **** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_DINA *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dina
+
 
 Si vous ne l'aimez pas, faites-en le semblant ;
 En cette occasion vous devez vous contraindre,
@@ -1947,8 +1948,8 @@ Que je hais ces esprits méchants et curieux.
 
 Ô cieux ! Quelle constance, et quelle cruauté.
 
-
 **** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_LECHANSON *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechanson
+
 
 Pourrais-je dire encore un mot à votre Altesse,
 Sur l'exécution de son commandement ?
@@ -1999,8 +2000,37 @@ Veuillez me pardonner si j'ai tout révélé
 
       Le poison dont vous m'avez parlé.
 
+**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_PREVOT *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_prevot
+
+
+Sire, j'accomplirai le tout de point en point.
+
+      Oui Sire, le voici.
+
+**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_JUGES *date_1636 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_juges
+
+
+Si votre Majesté ne lui fait point de grâce,
+Le crime est capital, la loi veut qu'elle passe.
+
+Ou qu'elle soit au moins confinée en prison,
+En cas que l'on ne puisse avérer le poison.
+
+**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_HUISSIER *date_1636 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_huissier
+
+
+Un de vos échansons à la porte arrêté,
+Désire de parler à votre Majesté,
+Et proteste que c'est un avis d'importance,
+Dont il doit tout soudain vous donner connaissance.
+
+**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_LECHEVALIERDHONNEUR *date_1636 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lechevalierdhonneur
+
+
+Madame, c'est ici qu'on la fera passer.
 
 **** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_SOESME *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_soesme
+
 
 Hé Sire ! Je commis ce crime par faiblesse !
 Ce fut par imprudence et par légèreté
@@ -2041,8 +2071,25 @@ Si je parle autrement je paraîtrai menteur.
 
 On répandra du sang qui doit crier vengeance.
 
+**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_LEUNUQUE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leunuque
+
+
+Sire, un Dieu tout-puissant qui connaît l'innocence
+Pourra faire connaître à votre Majesté
+Comme je l'ai servie avec fidélité.
+
+**** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_LECONCIERGE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leconcierge
+
+
+Madame, on vous attend dedans la salle basse,
+C'est de la part du roi.
+
+D'avoir vu là dehors tout le peuple assemblé,
+Dont les cris et les pleurs sont de mauvais présage
+Pour votre Majesté.
 
 **** *creator_tristan *book_tristan_mariane *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mariane *dist2_tristan_verse_tragedy *id_NARBAL *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_narbal
+
 
       Ô cieux ! Cette aventure
 Met de grandes vertus dans une sépulture,
@@ -2164,4 +2211,3 @@ Tu sais donner des lois à tant de nations,
 Et ne sais pas régner dessus tes passions.
 Mais les meilleurs esprits font des fautes extrêmes,
 Et les rois bien souvent sont esclaves d'eux-mêmes.
-

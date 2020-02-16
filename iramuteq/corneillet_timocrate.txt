@@ -2,6 +2,7 @@
 
 **** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *id_TIMOCRATE *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_timocrate
 
+
       Seigneur, il m'est bien glorieux
 Qu'on se souvienne encor de mon nom en ces lieux,
 Et qu'en le prononçant un grand prince m'assure
@@ -625,8 +626,8 @@ Donc pour rendre ma gloire encore plus certaine,
 Et bénissons le Ciel qui fait voir en ce jour
 Que la plus forte haine obéit à l'amour.
 
-
 **** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *id_LAREINE *date_1656 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lareine
+
 
       J'estime votre zèle,
 Prince, mais ce dessein me rendrait criminelle,
@@ -990,8 +991,8 @@ Qu'apprends-je ? Quoi, Nicandre a délivré Trasille ?
 Mes voeux dont le succès découvre la justice,
 Vous portaient en secret à ce dernier service.
 
-
 **** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *id_CRESPHONTE *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cresphonte
+
 
 Seront-ils contre vous pour un ambitieux ?
 
@@ -1026,8 +1027,35 @@ Mais c'est trop balancer une belle entreprise :
 Et si ce Timocrate est tant à redouter,
 Qui de nous le craindra n'aura qu'à l'éviter.
 
+**** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *id_LEONTIDAS *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leontidas
+
+
+Je n'examine point quelle est cette maxime
+Qui permet de punir un crime par un crime,
+Mais ce vieux droit des gens, partout si révéré,
+Pour le vouloir enfreindre, est un droit trop sacré.
+Non qu'on doive excuser dans l'orgueil qui le flatte
+L'indigne procédé du Prince Timocrate,
+En tête d'une armée expliquer son dessein,
+C'est agir en amant bien moins qu'en souverain.
+Cette honteuse paix dont l'offre nous étonne
+Est un ordre absolu que sa fierté nous donne,
+Et si quelque rebelle osait s'en dispenser,
+Il tient la foudre en main toute prête à lancer.
+Certes il faudrait être ennemi de la gloire
+Pour céder sans combat le prix de la victoire,
+Et ce trône où sans peine il aspire à monter,
+À son ambition vaut bien le disputer.
+Ainsi pour faire voir qu'on craint peu quoi qu'il ose,
+Je ne répondrais rien sur l'hymen qu'il propose,
+Et son Ambassadeur retournerait confus
+Deviner avec lui d'où viendraient mes refus.
+
+Madame, permettez à l'amour qui m'en presse
+D'aller sur cet espoir consulter la Princesse.
 
 **** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *id_ERIPHILE *date_1656 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eriphile
+
 
 Si pour moi cet hymen n'avait eu rien de lâche,
 Rien qui put sur ma gloire imprimer quelque tache,
@@ -1594,8 +1622,8 @@ Je lui dois trop, Seigneur, pour vouloir être ingrate,
 Et quand nous aurions droit encor de le haïr,
 Le vainqueur a parlé, c'est à nous d'obéir.
 
-
 **** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *id_NICANDRE *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicandre
+
 
 Mais es-tu bien certain que ce soit Cléomène ?
 Tes yeux t'ont pu trahir.
@@ -2075,8 +2103,8 @@ Quand le ciel à mes yeux n'offrait que Cléomène,
 Mais bientôt le respect a su régler ma foi
 Quand dans ce Cléomène il m'a fait voir un Roi.
 
-
 **** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *id_TRASILLE *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trasille
+
 
 Quoi, Madame, on persiste en la même imposture ?
 On ose soutenir qu'on ait vaincu mon roi,
@@ -2102,8 +2130,8 @@ Madame, et c'est par lui que le destin trompé,
 Voit un roi magnanime à sa rage échappé,
 Il m'a tiré des fers et reçu dans la ville.
 
-
 **** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *id_DORIDE *date_1656 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_doride
+
 
 Madame, permettez pour vous tirer de peine...
 
@@ -2162,8 +2190,8 @@ Sur un aveu si fort dont la preuve est facile,
 Vous-même sur sa fourbe essayez son esprit,
 Je cours à la Princesse en faire le récit.
 
-
 **** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *id_CLEONE *date_1656 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleone
+
 
 Si c'est là contre lui tout ce qui vous anime,
 Madame, son malheur est plus grand que son crime,
@@ -2281,8 +2309,8 @@ Soupirer et vous plaindre est tout ce que je puis.
 
 Madame, j'aperçois la Reine qui s'avance.
 
-
 **** *creator_corneillet *book_corneillet_timocrate *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_timocrate *dist2_corneillet_verse_tragedy *id_ARCAS *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
+
 
       Il est avec la Reine,
 Seigneur, et son retour qu'exprès l'on fait savoir
@@ -2429,4 +2457,3 @@ Ainsi sans résistance ils ont livré la ville.
 Mais ce qui me confond, c'est d'avoir vu Trasille,
 Qui gardé dans le fort ne peut s'être échappé
 Sans que le gouverneur dans sa fuite ait trempé.
-

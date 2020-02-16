@@ -2,6 +2,7 @@
 
 **** *creator_duryer *book_duryer_saul *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_saul *dist2_duryer_verse_tragedy *id_SAUL *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_saul
 
+
 Cessez, mes chers enfants, de consoler un Père,
 Que le Ciel met en butte aux coups de sa colère,
 Quand son bras irrité frappe si rudement
@@ -1080,8 +1081,8 @@ Vous avez triomphé d'une puissante armée,
 Apprenez par ce coup qui vous dérobe un Roi,
 Que Saül seulement peut triompher de soi.
 
-
 **** *creator_duryer *book_duryer_saul *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_saul *dist2_duryer_verse_tragedy *id_JONATHAS *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jonathas
+
 
 Quel succès, quel prodige effroyable et funeste
 Marque dans vos États la colère céleste ?
@@ -1526,8 +1527,8 @@ Sauvez-vous.
 Achas appelle Abner, et qu'il vienne au secours.
 Ha ! Sire.
 
-
 **** *creator_duryer *book_duryer_saul *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_saul *dist2_duryer_verse_tragedy *id_MICHOL *date_1640 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_michol
+
 
 Quoi, vous dépouillez-vous de ce courage extrême
 Qui dessus votre front assure un Diadème ?
@@ -1768,8 +1769,8 @@ Sire, que dites-vous, le ciel veut-il un crime ?
 
 Sire.
 
-
 **** *creator_duryer *book_duryer_saul *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_saul *dist2_duryer_verse_tragedy *id_ABNER *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_abner
+
 
       Jérusalem oubliant son devoir.
 
@@ -1887,8 +1888,8 @@ On a sauvé le Roi.
       Il perd la voix et la clarté,
 Ô jour trop redoutable, et trop peu redouté !
 
-
 **** *creator_duryer *book_duryer_saul *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_saul *dist2_duryer_verse_tragedy *id_PHALTI *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phalti
+
 
       Que l'ennemi s'avance,
 Redoutable en tous lieux par sa seule insolence.
@@ -2047,8 +2048,8 @@ Tâchons de détourner leurs funestes efforts
 De nos Prince mourants et de nos Princes morts.
 Vous Achas, demeurez.
 
-
 **** *creator_duryer *book_duryer_saul *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_saul *dist2_duryer_verse_tragedy *id_LAPYTHONISSE *date_1640 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lapythonisse
+
 
 Seigneur pour obtenir ma faveur et mon soin,
 Il suffit seulement, que l'on en ait besoin.
@@ -2089,8 +2090,8 @@ La forme d'un vieillard rempli de Majesté.
 
       Ha relevez votre force abattue.
 
+**** *creator_duryer *book_duryer_saul *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_saul *dist2_duryer_verse_tragedy *id_LOMBRE *date_1640 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lombre
 
-**** *creator_duryer *book_duryer_saul *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_saul *dist2_duryer_verse_tragedy *id_LOMBRE *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lombre
 
 Pourquoi, pourquoi fais-tu tant d'injustes efforts
 Pour m'ôter ce repos que le Ciel donne aux morts ?
@@ -2158,8 +2159,18 @@ Que tu verras tomber sous le faix de tes crimes :
 Avant qu'une autre nuit obscurcisse les Cieux
 Sache que tes enfants périront à tes yeux.
 
+**** *creator_duryer *book_duryer_saul *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_saul *dist2_duryer_verse_tragedy *id_ACHAS *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achas
+
+
+      Mais voyez vos blessures.
+
+      Tout blessé, tout mourant,
+Il veut courir encor dans un mal apparent.
+
+      Ha, seigneur ! Le voici.
 
 **** *creator_duryer *book_duryer_saul *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_saul *dist2_duryer_verse_tragedy *id_LECUYER *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecuyer
+
 
 Vous n'avez rien perdu si malgré cet orage
 Vous conservez encore un illustre courage.
@@ -2190,4 +2201,3 @@ Ha Sire ! Il est tombé sur sa fatale épée,
 Il est mort, ô Fortune, et trompeuse et trompée !
 Mais parmi tant de maux, de carnage et d'effroi,
 Mon destin le plus doux est de suivre mon Roi.
-

@@ -2,6 +2,7 @@
 
 **** *creator_regnard *book_regnard_souhaits *style_verse *genre_comedy *dist1_regnard_verse_comedy_souhaits *dist2_regnard_verse_comedy *id_MERCURE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
 
+
 Je le crois aisément ; mais je me persuade
 Que, de leur côté, les époux,
 Pour obtenir même grâce que vous,
@@ -152,8 +153,8 @@ Profitez chaque jour des biens qu'il vous envoie ;
 Laissez à Jupiter le soin du lendemain.
 Les suivants de Mercure forment une contredanse qui finit la comédie.
 
-
 **** *creator_regnard *book_regnard_souhaits *style_verse *genre_comedy *dist1_regnard_verse_comedy_souhaits *dist2_regnard_verse_comedy *id_POISSON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_poisson
+
 
 Seigneur Mercure, en vérité,
 En voyant ce noble équipage
@@ -184,8 +185,8 @@ Paris de mes talents ne profitera pas ;
 Et je m'en vais, tout de ce pas,
 Me faire comédien suisse.
 
-
 **** *creator_regnard *book_regnard_souhaits *style_verse *genre_comedy *dist1_regnard_verse_comedy_souhaits *dist2_regnard_verse_comedy *id_LATHORILLIERE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lathorilliere
+
 
 Avec tous les respects que la divinité
 Exige de l'humanité,
@@ -234,8 +235,8 @@ Vous voyez maintenant si c'est nous faire grâce
 De nous accorder une place
 Que le mérite seul peut nous faire espérer.
 
-
 **** *creator_regnard *book_regnard_souhaits *style_verse *genre_comedy *dist1_regnard_verse_comedy_souhaits *dist2_regnard_verse_comedy *id_MARS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mars
+
 
 Un bruit assez étrange est venu jusqu'à moi,
 Seigneur ; je l'ai jugé trop peu digne .de foi.
@@ -291,8 +292,8 @@ J'ai mon amour ensemble et ma gloire à défendre :
 Pour aller jusqu'aux lieux que vous voulez percer,
 Voilà par quel chemin il vous faudra passer.
 
-
 **** *creator_regnard *book_regnard_souhaits *style_verse *genre_comedy *dist1_regnard_verse_comedy_souhaits *dist2_regnard_verse_comedy *id_VULCAIN *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_vulcain
+
 
 Assez et trop longtemps ma lâche complaisance
 De vos déportements entretient la licence,
@@ -372,8 +373,8 @@ Ton insolent amour aura sa récompense.
 Holà, gardes, à moi. Mais tout beau, mon courroux !
 Ne précipitons rien. Venez, suivez-moi tous.
 
-
 **** *creator_regnard *book_regnard_souhaits *style_verse *genre_comedy *dist1_regnard_verse_comedy_souhaits *dist2_regnard_verse_comedy *id_VENUS *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
+
 
 Ne cesserez-vous point, dans votre humeur farouche,
 De m'immoler sans cesse à vos transports jaloux ?
@@ -394,4 +395,3 @@ Des Amours forgés par Vulcain ?
 
 Quoi ! Voulez-vous, par cette violence,
 Forcer mon coeur à vous haïr !
-

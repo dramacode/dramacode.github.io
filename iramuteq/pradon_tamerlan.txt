@@ -2,6 +2,7 @@
 
 **** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *id_tamerlan *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_tamerlan
 
+
 Prince, j'ai veu les Grecs, et leurs Ambassadeurs
 Ont remis dans mes mains leur Empire⁎ et leurs cœurs :
 Mais quand pour tout objet⁎ on regarde la gloire⁎,
@@ -446,8 +447,8 @@ Elle peut à son gré terminer⁎ vostre sort⁎,
 Araxide et ma gloire⁎ exigent cet effort,
 Je l'épouse, et je pars.
 
-
 **** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *id_bajazet *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_bajazet
+
 
       C'est à vous sans-doute⁎ à qui je dois
 Ce peu de liberté, Seigneur, où je me vois.
@@ -740,8 +741,8 @@ Qui m'enleve à la vie, et m'arrache à la honte,
 Console-toy, ma Fille, et malgré ta douleur
 Souvien-toy que ton Pere expire en Empereur.
 
-
 **** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *id_asterie *date_1676 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_asterie
+
 
 Tu m'aprens que la Cour est pleine d'allégresse,
 Que l'heureux⁎ Andronic va régner dans la Gréce,
@@ -1281,8 +1282,8 @@ Ah ! laisse-moy, Tyran, expirer de douleur !
 Tu pers tout aujoud'huy, malheureuse⁎ Astérie,
 Et pour dernier malheur⁎ il te reste la vie.
 
-
 **** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *id_andronic *date_1676 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_andronic
+
 
 Enfin, Leon, tu vois cette grande Journée
 Qui doit de Tamerlan éclairer l'hymenée⁎ ;
@@ -1775,8 +1776,8 @@ Ciel ! pouvois-je espérer⁎ en ce funeste⁎ jour
 Que la Gloire⁎ vangeât la Nature et l'Amour ?
 FIN.
 
-
 **** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *id_leon *date_1676 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_leon
+
 
 Je l'espere⁎, Seigneur, la superbe⁎ Byzance,
 Apres tant de fureurs⁎, rentre en l'obeïssance ;
@@ -1847,8 +1848,33 @@ Cependant Tamerlan pour le prix de sa vie
 Va malgré luy peut-estre épouser Astérie.
 Tout le Camp est surpris d'un si grand changement.
 
+**** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *id_tamur *date_1676 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_tamur
+
+
+Seigneur, exactement je vay vous en instruire.
+Il m'a mandé luy-mesme, et j'ay couru soudain
+Par vostre ordre, en entrant il m'a donné la main,
+Un air plus satisfait brilloit sur son visage,
+Qui sembloit en banir la fureur⁎ et la rage,
+La douceur et la paix y regnoient à leur tour :
+Je veux voir vostre Maître avant la fin du jour,
+(M'a-t-il dit) je suis las de soufrir⁎ tant de peine,
+Il faut sortir des fers⁎, et finir⁎ nostre haine,
+Allez, et que je voye Astérie avec luy.
+
+Mais, Seigneur, Andronic épousant Araxide,
+Vous n'auriez plus le nom d'ingrat⁎ et de perfide⁎,
+Ce Prince…
+
+N'en doutez point, Seigneur, Bajazet étonné⁎
+Se lasse de se voir captif, infortuné⁎ ;
+Pour sauver le débris⁎ de sa triste⁎ Famille,
+Il veut sortir des fers⁎ en vous donnant sa Fille ;
+N'a-t-il pas fait entendre⁎ un si juste projet ?
+Lors⁎ que…
 
 **** *creator_pradon *book_pradon_tamerlan *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_tamerlan *dist2_pradon_verse_tragedy *id_zaide *date_1676 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_zaide
+
 
 Il vient de me parler ; son desordre, Madame,
 M'a fait connoître⁎ assez le trouble de son ame ;
@@ -1892,4 +1918,3 @@ Dans ces cruels⁎ soupçons, je ne voy rien à craindre,
 En faveur d'Araxide il sçaura se contraindre⁎,
 Et ce superbe⁎ cœur politique⁎ et jaloux
 Doit par trop de raisons⁎ se dégager de vous.
-

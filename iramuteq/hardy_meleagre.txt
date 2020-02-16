@@ -2,6 +2,7 @@
 
 **** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_meleagre *date_1624 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_meleagre
 
+
 Fille de Jupiter, Déesse trois fois grande,
 Au Ciel, dans les forests, & où Pluton commande,
 Diane, desormais fléchible⁎, pren pitié,
@@ -397,8 +398,175 @@ D'autres mettent au lit ce corps foible qui tremble,
 Secourez mes amis votre Roy vistement⁎,
 Où la parque le va ravir tacitement⁎.
 
+**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_aristandre *date_1624 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_aristandre
+
+
+Plus le pilote expert voit s'accroître l'orage,
+D'autant sçait-il mesler l'industrie⁎ au courage,
+Sa constance redouble, ainsy que le danger,
+Et ne sçauroit la peur où chez lui se ranger!
+Imitez-le grand Roy vostre vertu montrée,
+En chose digne d'elle à propos rencontrée,
+Sans doute qu'on devoit selon l'ordre tenu,
+Tel malheur du courroux celeste provenu,
+N'épargner aucuns vœux, sacrifice, priere,
+Capable⁎ d'amolir⁎ la Dive⁎ forestiere,
+Remedes appliquez en leur propre saison,
+Mais il faut que l'effet succede à l'oraison⁎;
+Quiconque attend oisif l'assistance divine,
+Ne la merite pas, amy de sa ruine,
+Sire, il faut employer l'artifice⁎, & l'effort,
+Qui desire exaucé, mettre le monstre à mort.
+
+Un prince vertueux n'obscurcit sa loüange,
+Où la necessité à ce party le range,
+D'employer les amis capables reconnus,
+Et ne luy en sont pas ses peuples moins tenus,
+Qui moissonnent⁎ le fruit d'une volonté bonne,
+Qui le voyent premier⁎ aux effets en personne ;
+Ainsy le bon pasteur contraint reclamera,
+La troupe des voisins qui promte s'armera,
+Et du loup combatu la gloire luy demeure,
+Bien qu'accablé parmy la multitude il meure :
+Sire, pareil honneur ce bel exploit attend,
+Or⁎ vay-je du devoir enchargé⁎ m'aquitant.
+
+**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_chŒur-de-peuple *date_1624 *sexe_masculin *age_sans-age *statut_serviteur *fonction_autres *role_chŒurdepeuple
+
+
+Pere comun des tiens, Monarque magnanime,
+Vueille faire cesser le mal qui les opprime,
+Ce mal qui vagabond assiege nos citez,
+Prive les habitans de leurs necessitez,
+Interdit le commerce, épouventez de sorte,
+Qu'il n'y a contre luy forteresse assez forte,
+Que l'horreur de ce monstre empreinte au souvenir,
+La province un desert rendroit⁎ à l'avenir,
+Chacun qui çà, qui là, minutant sa retraite,
+Où il la juge en lieu de sauveté⁎ distraite,
+Or⁎ dois-tu vray pasteur, ton troupeau secourir,
+A l'extrême réduit, sur le point de mourir.
+
+Quiconque à ce devoir impieux⁎ contredit,
+Soit du moteur suprême, & des hommes maudit,
+Quiconque, épargnera sa fortune, ou sa vie,
+Puisse, l' âme aux enfers criminelle ravie,
+De memoire execrable à la posterité,
+Recevoir un supplice éternel merité.
+
+ESPANCHONS⁎ à ce coup, le sein moüillé de larmes,
+Les genous contre terre, & l'âme dans les Cieux,
+Une priere, afin de revoir nos gendarmes,
+Ce fier⁎ monstre vaincu, le laurier sur les yeux.
+Car, helas ! autrement sa brutale manie⁎,
+Nous chasse vagabons hors du natal sejour,
+Et faut bon-gré, mal-gré, fuir telle tyrannie,
+Qui se veut conserver la lumiere du jour.
+Deux grands peuples détruits, sans ordre, sans conduite,
+Iront par l'univers à la mercy du sort,
+Epreuver les travaux d'une éternelle fuite,
+Et mourir mille fois en redoutant la mort.
+Hélas ! hé ! le moyen, que ces âmes chétives ?
+Qu'un peuple de vieillards, de femmes, & d'enfans,
+Passassent pesle-mesle, aux étrangeres rives,
+Et pour les prolonger n'acourcissent leurs ans ?
+Détourne ce méchef⁎ Déesse, qui présides,
+Au Ciel, dans les forests, & au Royaume vain,
+Termine en ton courous ces fureurs homicides⁎,
+La victoire emportée est un coup de ta main.
+Si tu le fais, ô claire, ô belle Delienne,
+Une pure Hecatombe offerte à tes autels,
+Ne doute que chez nous ta Deïté⁎ n'obtienne,
+Une premiere gloire entre les immortels.
+De riches jeux de prix, celebrez chaque année,
+Jusqu'à la fin du monde honorent ce bien-fait,
+Mais quelqu'un survenu sçait notre destinée,
+Bonne ou mauvaise, ainsy que la chasse aura fait.
+
+**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_troupe-de-paysans *date_1624 *sexe_masculin *age_sans-age *statut_serviteur *fonction_autres *role_troupedepaysans
+
+
+Plaise à ta Majesté, ne souffrir davantage,
+Qu'un fier⁎ hôte infernal gâte son heritage,
+Plusieurs⁎ sans resistance, épars diversement,
+Et de qui le travail est le seul pensement⁎,
+Desesperez d'avoir toujours perte sur perte,
+Sont contraints de quitter la province deserte,
+Province que viendra la famine engloutir,
+Où nul n'ose l'enclos de ses Lares sortir,
+Lares impunément violez à toute heure,
+Du monstre carnacier qui fait que chacun pleure,
+Qui vient les nouriçons aux meres arracher,
+Mortes de ses regards lancez à l'approcher.
+Quiconque d'entre nous ose prendre les armes,
+Ne faisant rien qu'acroistre, & la perte, & les larmes,
+Si qu⁎'au lieu de l'espoir de la blonde Ceres,
+Les steriles chardons herissent nos guerets⁎,
+Bacchus sur les cotaux languit la teste basse,
+Sans qu'aucun⁎ le service⁎ acoutumé luy face ;
+Helas ! qui le pourroit ? l'image du trépas,
+Presente, inseparable, unie à chaque pas.
+Ren nous donc, ô grand Roy, la franchise⁎ premiere,
+Où te cherche qui plus habite un coemetiere,
+Pareille extrémité dispense du devoir,
+Au cas que ton secours n'avise d'y pourvoir.
+
+Bien que notre industrie⁎ à cultiver la terre,
+L'usage n'ait apris des outils de la guerre,
+Propres à conquerir ce brutal ennemy,
+Nul pourtant ne voudroit paroitre homme à demy,
+Nul, où la Majesté du Prince se hazarde⁎,
+Montrer d'aucune peur l'aparence coüarde,
+Plus digne ocasion⁎ ne se peut onc⁎ offrir,
+Plus digne, où le trépas, volontaire souffrir.
+
+**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_veneur1 *date_1624 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_veneur1
+
+
+L' animal effroyable en son espece énorme,
+Surpasse des sangliers la nature, & la forme,
+Qui ne sçauroit de l'œil estre assez admiré,
+Haut, quartanier⁎, & plus, oüy bien plus que miré,
+Sa hure⁎ une forest ombrageuse ressemble,
+N'estant à son mouvoir si brave⁎ qui ne tremble,
+Dessous chaque paupiere un tison furieux,
+Toujours étincelant luy compose les yeux,
+Quelque chesne vieillard qu'imprime sa deffence,
+S'ensuit comme du foudre une mortelle offence,
+Nous-mêmes l'avons veu par maniere d'ébat⁎,
+Dechirer un lion aggresseur du combat,
+Son soufle, bruit plus fort qu'une forte tourmente,
+Et jadis le pareil es⁎ forests d' Erymanthe ;
+Sous Alcide broncha ce demy-dieu vaincoeur,
+Que le Tonant fournit de forces, & de cœur⁎.
+
+Sire, graces aux Dieux, ma vigilance a fait,
+Qu'on tire du repaire un indice parfait,
+D'embuscade caché dedans l'épais fueillage,
+D'un vieil chesne au bois même, où l'ennemy saccage,
+Devers⁎ le point du jour sorty pour vermeiller,
+Bien deux arpens de terre on luy a veu foüiller,
+De là courir brigand les campagnes voisines,
+Sur hommes, & troupeaux, exercer ses rapines,
+Puis le soleil jà⁎ haut, superbe revenir,
+Au creux d'une spelonque⁎ affreuse se tenir,
+Mille buissons autour en deffendent l'aproche,
+Sa profondeur étrange occupe une grand roche,
+Toutefois on pourra le forcer là dedans,
+A coups d'épieux, de dards⁎, avec flambeaux ardens.
+
+**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_veneur2 *date_1624 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_veneur2
+
+
+Hors du cours naturel, conçeu prodigieux⁎,
+Chaque action chez lui nous ébloüit les yeux,
+Aucuns secrets appris du métier de la chasse,
+Non quand un Orion tiendroit la même place,
+Ne le reconnoitroit qui vague⁎ sans égard,
+Et giste, où sa fureur s'adonne de hazard⁎.
 
 **** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_atalante *date_1624 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_atalante
+
 
 Compagnes, n'estimez qu'où la gloire convie,
 Je refuse jamais de prodiguer ma vie,
@@ -599,8 +767,8 @@ Que ton ire⁎ sur moy victime se transporte,
 Que mon époux sauvé, tu ne m'épargnes pas,
 A l'effroyable horreur du plus cruel trépas.
 
+**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_chŒur-de-filles *date_1624 *sexe_masculin *age_sans-age *statut_serviteur *fonction_autres *role_chŒurdefilles
 
-**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_chŒur-de-filles *date_1624 *sexe_neutre *age_sans-age *statut_serviteur *fonction_autres *role_chŒurdefilles
 
 Merveille de nos jours, que l'univers adore,
 Phoenix⁎ que la vertu ne sçauroit plus éclore,
@@ -638,8 +806,8 @@ Un repas sanguinaire à leur rage effrenée,
 Non que la peur luy fit de visage changer,
 Nous seules sans couleur tremblantes du danger.
 
-
 **** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_thesee *date_1624 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thesee
+
 
 Venus à ton secours, juge si telle bande,
 Peut le monstre deffait⁎ accomplir ta demande,
@@ -696,8 +864,8 @@ Un juste creve-cœur⁎ de servir la dispense,
 Elle ne porte plus ses agreables fruits
 Dedans le champ ingrat de l'envie produits.
 
-
 **** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_pirithois *date_1624 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pirithois
+
 
 Monarque Ætolien ta valeur indomtée,
 Au suprême degré de la gloire montée,
@@ -737,8 +905,30 @@ Sa recompense preste à même heure⁎ tenuë,
 En quelque privilege, ou remarque d'honneur,
 Ainsy la comblez-vous de joye, & de bon-heur.
 
+**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_lyncee *date_1624 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lyncee
+
+
+Pourveu que seurement conduit dessur⁎ ses erres⁎,
+L'épaisseur des forests, ne⁎ distance de terres,
+Ne⁎ ruse, que sçauroit l'animal employer,
+Mon œil qui perce tout ne sçauroit fourvoyer⁎.
+Découvert une fois, au peril de la teste,
+Lincée ose plêger⁎ certaine sa conqueste,
+Du plutost que miré, que receu pour objet,
+Diane l'abandone à la parque sujet.
+
+Poursuivre le chevreüil, ou la biche, ou le daim,
+Sont ébats⁎ familiers que demande ta main,
+Non l'extrême peril de la chasse presente,
+Où la dextre plus forte à peine est suffisante.
+
+Dy mieux que son éclair ton tonnerre précede,
+Ou que ta courtoisie à sa beauté le cede,
+Ou que l'afection loin de ce prix vaincoeur,
+Consacre volontiers à ses graces ton cœur.
 
 **** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_plexippe *date_1624 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_plexippe
+
 
 Entre ces clairs soleils de vaillance⁎ guerriere,
 L'honneur ne nous permet de demeurer derrière,
@@ -849,8 +1039,8 @@ O ! brutal, ô barbare, ô ! tyran parricide⁎,
 Fuy mon frere, je tombe au gouffre Acherontide,
 Ce suprême sanglot pousse l'âme dehors.
 
-
 **** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_toxee *date_1624 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_toxee
+
 
 Le cheval genereux en la plaine piquer,
 Est sa peine, dit-on, superfluë appliquer,
@@ -937,8 +1127,8 @@ Rende mon sort semblable au sort de mon germain⁎,
 Le Ciel, le juste Ciel, quelque vengeur nous garde,
 Qui sur ta teste un jour, & dessur⁎ ta paillarde⁎.
 
-
 **** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_idmon *date_1624 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_idmon
+
 
 Oüy, Sire, & m'a prié de l'excuser, si lasse,
 Que ses foibles genous tremblotans sur la place,
@@ -975,8 +1165,8 @@ La parque au sein l'a pris de son epouse aymée,
 Qui Niobe soudain convertie en rocher,
 Ne sçauroit jamais plus de larmes étancher.
 
-
 **** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_altee *date_1624 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_altee
+
 
 Implacables fureurs, que redoute l'Averne,
 A ma plainte quitez votre horrible caverne,
@@ -1110,8 +1300,8 @@ Compagne, m'atendant dans les campagnes sombres,
 Où dans peu, votre düeil precipite mes pas,
 Car de vivre sans vous, m'est pis que le trépas.
 
-
 **** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_nourice *date_1624 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_nourice
+
 
 Moderez le courous épris dedans votre âme,
 Perilleux conseiller, à qui le croit, Madame,
@@ -1170,8 +1360,8 @@ Dieux ! combien ce discours oblique me martelle.
 Madame, parlez mieux, quelle rage incensée,
 Poursuit à vous troubler la brutale pensée ?
 
+**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_chŒur *date_1624 *sexe_masculin *age_sans-age *statut_serviteur *fonction_autres *role_chŒur
 
-**** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_chŒur *date_1624 *sexe_neutre *age_sans-age *statut_serviteur *fonction_autres *role_chŒur
 
 Helas ! mille ont passé l'irrepassable⁎ fleuve,
 Qui trop avantureux firent la même épreuve,
@@ -1258,8 +1448,8 @@ Qui ne dirons que trop comme tout s'est passé,
 Qui débiles⁎ pour toy ne portons d'autres armes,
 Que de sçavoir méler les prieres aux larmes.
 
-
 **** *creator_hardy *book_hardy_meleagre *style_verse *genre_tragedy *dist1_hardy_verse_tragedy_meleagre *dist2_hardy_verse_tragedy *id_messager *date_1624 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_messager
+
 
 Citoyens, qu'on éleve un long io⁎ de joye,
 Le monstrueux sanglier demeure notre proye,
@@ -1323,4 +1513,3 @@ Qui m'en vay faire ouvrir le palais, & les temples;
 Où ce jour produira témoignages plus amples,
 D'une joye acomplie, & d'une liberté,
 Que revoit le païs tel nuage écarté.
-

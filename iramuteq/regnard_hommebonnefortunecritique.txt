@@ -2,6 +2,7 @@
 
 **** *creator_regnard *book_regnard_hommebonnefortunecritique *style_prose *genre_comedy *dist1_regnard_prose_comedy_hommebonnefortunecritique *dist2_regnard_prose_comedy *id_NIVELET *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nivelet
 
+
 Qu'avez-vous donc, monsieur le Baron ? Vous me paraissez bien fâché.
 
 Franchement, vous autres gens d'épée, vous avez quelque sujet de la fronder : il me semble que parfois on vous donne sur la crête.
@@ -26,8 +27,8 @@ Pour vous, mademoiselle, tenez-vous en repos dans ce fauteuil, en attendant qu'o
 
 Ma foi, madame, ne nous faites plus de ces frayeurs-là ; l'ai cru que vous nous serviriez votre enfant sur table.
 
-
 **** *creator_regnard *book_regnard_hommebonnefortunecritique *style_prose *genre_comedy *dist1_regnard_prose_comedy_hommebonnefortunecritique *dist2_regnard_prose_comedy *id_CLAUDINE *date_1690 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_claudine
+
 
 On n'attend plus que cette Comtesse avec sa cousine, qui sont allées à ces bateleurs d'Italiens.
 
@@ -56,4 +57,3 @@ Allons, messieurs, ne voulez-vous point laver ?
 Je vous jetterai l'aiguière par le nez.
 
 Oh, dame ! Monsieur, dans une auberge, on n'engraisse pas à faire des récits.
-

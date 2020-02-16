@@ -2,6 +2,7 @@
 
 **** *creator_leclerc *book_leclerc_iphigenie *style_verse *genre_tragedy *dist1_leclerc_verse_tragedy_iphigenie *dist2_leclerc_verse_tragedy *id_AGAMEMNON *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agamemnon
 
+
 Hélas ! C'est bien assez de ne pas murmurer.
 Tu vois toujours les vents malgré leur inconstance,
 Dans ce funeste port obstinés au silence.
@@ -448,8 +449,8 @@ Allons à Troie, et vous retournez en Argos,
 Madame, et secondez nos efforts légitimes
 Par des voeux plus constants et par d'autres victimes.
 
-
 **** *creator_leclerc *book_leclerc_iphigenie *style_verse *genre_tragedy *dist1_leclerc_verse_tragedy_iphigenie *dist2_leclerc_verse_tragedy *id_MENELAS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_menelas
+
 
       Hé bien, Seigneur, balancez-vous encore ?
 Quand les Dieux dont vous seul attirez le courroux
@@ -586,8 +587,8 @@ Pour suspendre des Dieux l'ordonnance fatale,
 N'ont pu te garantir des coups sourds et secrets
 Qui vengent le mépris de leurs justes décrets.
 
-
 **** *creator_leclerc *book_leclerc_iphigenie *style_verse *genre_tragedy *dist1_leclerc_verse_tragedy_iphigenie *dist2_leclerc_verse_tragedy *id_ACHILLE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achille
+
 
       Quel Dieu nous rend votre présence,
 Ulysse ? En vous voyant, pour ce camp malheureux
@@ -846,8 +847,8 @@ Tu viens de la livrer, père dénaturé ?
 Ah ! Courrons au secours que j'ai trop différé,
 Tous les moments sont chers dans un péril si proche.
 
-
 **** *creator_leclerc *book_leclerc_iphigenie *style_verse *genre_tragedy *dist1_leclerc_verse_tragedy_iphigenie *dist2_leclerc_verse_tragedy *id_ULYSSE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulysse
+
 
 Votre venue a de quoi me payer à son tour,
 Du plaisir surprenant que vous fait mon retour.
@@ -968,8 +969,8 @@ Tout le Camp est charmé de cet heureux présage,
 Achille même cède au souverain pouvoir,
 Et paraît apaisé par un si doux espoir.
 
-
 **** *creator_leclerc *book_leclerc_iphigenie *style_verse *genre_tragedy *dist1_leclerc_verse_tragedy_iphigenie *dist2_leclerc_verse_tragedy *id_ORONTE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
+
 
 Quoi Seigneur, voulez-vous sans cesse soupirer ?
 
@@ -1122,8 +1123,8 @@ Semblent percer la nue et menacent les airs.
 Le Camp en est ému, Calcas s'en désespère,
 Achille veut tout perdre et tout craint sa colère.
 
-
 **** *creator_leclerc *book_leclerc_iphigenie *style_verse *genre_tragedy *dist1_leclerc_verse_tragedy_iphigenie *dist2_leclerc_verse_tragedy *id_CLYTEMNESTRE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clytemnestre
+
 
 Elle nous luit enfin, cette grande journée
 Qui va rendre ta vie à jamais fortunée,
@@ -1408,8 +1409,8 @@ De mon voeu violé vas réparer l'offense,
 Et toi, juste Déesse, excuse mes douleurs,
 Et si sa perte encor m'arrache quelque pleurs.
 
-
 **** *creator_leclerc *book_leclerc_iphigenie *style_verse *genre_tragedy *dist1_leclerc_verse_tragedy_iphigenie *dist2_leclerc_verse_tragedy *id_IPHIGENIE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iphigenie
+
 
 D'un malheur inconnu le présage secret
 M'a fait quitter Argos avec quelque regret.
@@ -1616,8 +1617,8 @@ Ne lui refusez pas un si triste avantage.
       Adieu, ma constance me quitte.
 Le péril est trop grand, il faut que je l'évite.
 
-
 **** *creator_leclerc *book_leclerc_iphigenie *style_verse *genre_tragedy *dist1_leclerc_verse_tragedy_iphigenie *dist2_leclerc_verse_tragedy *id_CLYTIE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clytie
+
 
 Madame, à tant d'amour fûtes-vous insensible
 Si le Ciel ne vous fit un coeur inaccessible
@@ -1633,3 +1634,9 @@ La Reine vient.
 
       Le désespoir s'empare de son âme.
 
+**** *creator_leclerc *book_leclerc_iphigenie *style_verse *genre_tragedy *dist1_leclerc_verse_tragedy_iphigenie *dist2_leclerc_verse_tragedy *id_PHENICE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phenice
+
+
+Madame, espérez mieux.
+
+Madame, Achille vient.

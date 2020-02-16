@@ -2,6 +2,7 @@
 
 **** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *id_ELISABETH *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elisabeth
 
+
 Donc après tant de biens ton âme déloyale
 Abuse lâchement d'une bonté Royale,
 Et ce degré superbe où ma faveur t'a mis
@@ -592,8 +593,8 @@ Approche chère Alix, assiste ma faiblesse.
 Je perds le sentiment, et mon coeur s'affaiblit,
 Pour la dernière fois mène-moi sur mon lit.
 
-
 **** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *id_ESSEX *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_essex
+
 
 Quelque confusion où ce discours plonge
 N'en donnez point la cause au remords qui me ronge
@@ -1102,8 +1103,8 @@ Que je suis bien mari de sa peine inutile.
 Et que jusqu'au tombeau je suis son serviteur,
 Prendrez-vous cette peine ?
 
-
 **** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *id_SOUBTANTONNE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_soubtantonne
+
 
 Je ne vous flatte point, sa menace m'étonne.
 
@@ -1318,8 +1319,36 @@ Mais si le Comte meurt soyez tous assurés.
 
       Bien, bien, vous le saurez.
 
+**** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *id_SALSBURY *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_salsbury
+
+
+Si le Comte d'Essex a failli, comme on dit,
+Votre courroux est juste, et je suis interdit.
+Oui, je croirais Madame, avoir part à l'offense
+Si j'ouvrais seulement la bouche en sa défense.
+Mais (si votre bon té me permet ces deux mots)
+Que votre Majesté fasse tout à propos,
+Et que votre conseil mûrement délibère
+Sur les difficultés d'une importante affaire.
+Que ce ressentiment dans votre âme s'aigrit
+Qu'aucune passion n'emporte votre esprit,
+Et ne vous fasse point hâter des procédures
+Qui demandent du temps contre les impostures.
+Que vos juges surtout ne précipitent rien,
+Et qu'en faisant leur charge ils considèrent bien,
+Qu'en punissant un crime ils n'en fassent un autre,
+S'ils mêlent tant soit peu leur intérêt au vôtre,
+Qu'on s'informe à loisir (la Justice y consent)
+Si le Comte est coupable, ou s'il est innocent.
+Car, Madame, après tout j'ai de la peine à croire
+Que ce coeur généreux, cette âme que la gloire,
+Porta dans les périls pour votre Majesté
+Avec tant de courage et de fidélité,
+Ait pu déshonorer d'une action si lâche
+Ce renom éclatant qui n'avait point de tache.
 
 **** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *id_CECILE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cecile
+
 
 Dans un crime si grand, et de telle importance
 Il faut que la justice emporte la clémence,
@@ -1432,8 +1461,8 @@ La Reine vous envoie.
 Consolez-vous, Madame, et recevez la Reine,
 Elle entre dans la Chambre et vous vient visiter.
 
-
 **** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *id_RALEIG *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_raleig
+
 
 Je suis homme d'honneur.
 
@@ -1476,8 +1505,67 @@ Et certes je pourrais répondre à vos discours.
 Mais de vous affliger à la fin de vos jours,
 Semblerait inhumain et de mauvaise grâce.
 
+**** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *id_POPHAM *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_popham
+
+
+Ce n'est pas dans ce lieu, qu'on vide des querelles.
+Contre vos délateurs vous disputez en vain,
+Et vous êtes ici pour un autre dessein.
+Répondez seulement à ce qu'on vous propose,
+Pour vous justifier il ne faut autre chose,
+Ces Barons gens d'honneur et gens de qualité,
+Vous rendront la Justice avec intégrité,
+Et moi selon le droit que j'ai dans cette terre,
+Comme grand Justicier de toute l'Angleterre,
+J'atteste devant vous le suprême pouvoir,
+Qu'avec toute équité je ferai mon devoir.
+Que d'aucun intérêt mon âme n'est touchée ;
+Que de ses passions elle s'est détachée ;
+Et que je rends justice avec la même foi
+Que je puis souhaiter qu'on me la rende à moi.
+Vous êtes accusé, Comte, et vous Soubtantonne,
+D'avoir fait des complots contre cette Couronne ;
+D'être d'intelligence avec ses ennemis,
+Et de beaucoup d'excès que vous avez commis.
+Vous avez découvert vos secrètes pratiques,
+Tenant beaucoup de gens outre vos domestiques,
+Et recevant chez vous un nombre de soldats :
+Qu'en une autre saison vous n'y recevez pas.
+Vous avez retenu de dessein ou de haine
+Ceux qui vous visitaient de la part de la Reine,
+Et les avez punis d'une injuste prison,
+D'autorité privée et dans votre maison.
+Vous êtes dans la ville entrés à main armée,
+Croyant que par vos soins la révolte allumée,
+Seconderait vos voeux et votre intention,
+Et porterait le peuple à la sédition.
+Vos messagers sont pris, et vos lettres surprises
+Nous découvrent assez toutes vos entreprises.
+Par un billet écrit au Comte de Tiron,
+Où vous avez laissé les armes et le nom,
+La Reine a découvert votre cruelle envie
+De lui ravir ensemble et le Sceptre et la vie.
+Des indices si grands et si pleins de clarté,
+Vous rendent criminels de lèse Majesté.
+Regardez maintenant si vous voulez répondre,
+Vos témoins sont connus, tâchez de les confondre.
+
+Trêve à tous ces discours, n'avez-vous autre chose
+Pour vous justifier contre ce qu'on dépose ?
+
+Suivant l'autorité que ma charge me donne,
+Robert Comte d'Essex, avec Soubtantonne,
+Leur réponse entendue, et leur droit disputé,
+Paraissent convaincu de lèse Majesté,
+D'avoir ouvertement attaqué la Couronne,
+Et notre grande Reine en sa propre personne,
+Et pour punition de ce noir attentat,
+Et contre notre Reine et contre notre État.
+Leur faisant grâce, et droit nous condamnons leurs têtes,
+À réparer leur faute.
 
 **** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *id_MADAMECECILE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamececile
+
 
 Madame, se peut-il.
 
@@ -1730,8 +1818,8 @@ Et pour mourir en paix q'on m'emporte chez moi.
 Où je me garantis de ses justes reproches,
 Par cette douce mort dont je sens les approches.
 
-
 **** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *id_ALIX *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alix
+
 
       Ah Madame.
 
@@ -1808,8 +1896,8 @@ Juste Ciel ! Apaisez ces mortelles douleurs.
 
 Souvenez-vous Madame.
 
-
 **** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *id_LEONORE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonore
+
 
 Le Comte est mort, Madame.
 
@@ -1841,8 +1929,8 @@ Que je crains qu'à présent nous ne la trouvions morte.
 Elle m'a témoigné que son dernier désir,
 N'était que de vous voir, faites-lui ce plaisir.
 
-
 **** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *id_CAPITAINE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_capitaine
+
 
       Que vous plaît-il Madame ?
 
@@ -1866,3 +1954,11 @@ Et qu'avec tout respect je vous obéirai.
 
       Oui, Monsieur, de bon coeur.
 
+**** *creator_lacalprenede *book_lacalprenede_comtedessex *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_comtedessex *dist2_lacalprenede_verse_tragedy *id_HUISSIER *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_huissier
+
+
+Le Comte.
+
+      Le Comte Soubtantonne,
+Demande le pouvoir avec l'humilité,
+De rendre ses devoirs à votre Majesté.

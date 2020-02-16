@@ -2,6 +2,7 @@
 
 **** *creator_euripide *book_euripide_electre *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_electre *dist2_euripide_prose_tragedy *id_ELECTRE *date_1880 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_electre
 
+
 Sombre nuit, mère des astres d'or, qui me vois, la tête chargée de cette urne, aller puiser à la fontaine (non pas que l'indigence me réduise à cette extrémité, mais je veux montrer aux dieux les outrages d'Égisthe), entends les lamentations dont je remplis les airs en l'honneur de mon père. La fille maudite de Tyndare, ma mère, m'a chassée de sa maison pour plaire à son époux. Depuis qu'elle a donné le jour à des enfants dont Égisthe est le père, Oreste et moi ne sommes plus rien dans la maison.
 
 Je mets au rang des dieux un ami tel que toi : car tu ne m'as pas insultée dans mon malheur. C'est un grand bonheur pour les mortels de rencontrer un médecin qui panse les blessures de l'adversité ; et ce médecin, je le trouve en toi. Je dois donc, même sans ton aveu, te soulager autant que possible dans tes travaux, pour que tu en supportes plus facilement le poids, et m'associer à ta vie laborieuse. Tu as bien assez à faire au dehors ; à moi de prendre soin de ta maison. Il est doux pour le laboureur qui revient des champs de trouver tout en ordre au dedans.
@@ -264,8 +265,8 @@ Adieu, patrie ! Adieu, plusieurs fois adieu, chères concitoyennes !
 
 Je pars, et des pleurs mouillent ma tendre paupière.
 
-
 **** *creator_euripide *book_euripide_electre *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_electre *dist2_euripide_prose_tragedy *id_ORESTE *date_1880 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oreste
+
 
 Pylade, car de tous les hommes c'est toi que je considère comme mon ami et mon hôte le plus fidèle ; seul de tant d'amis tu as honoré le malheureux Oreste, victime des cruautés d'Égisthe, qui a tué mon père avec l'aide de ma détestable mère. Docile aux oracles du Dieu je suis arrivé, à l'insu de tous, sur le territoire d'Argos pour expier le meurtre d'un père par le meurtre de ses assassins. Cette nuit même, je suis allé à son tombeau, j'ai offert à ses mânes mes larmes et les prémices de ma chevelure, et j'ai arrosé le bûcher du sang d'une brebis, sans que les tyrans qui oppriment ce pays en aient eu connaissance. Si je ne franchis pas les murs de la ville, c'est que je poursuis deux buts à la fois en m'arrêtant sur les confins de ce pays : je veux me jeter hors d'ici et passer sur une terre étrangère, si quelque espion vient à me reconnaître ; je veux aussi chercher ma soeur (elle n'est plus vierge, dit-on, mais soumise aux lois de l'hymen), m'aboucher avec elle, et, l'associant à mon projet, apprendre clairement de sa bouche ce qui se passe dans ces murs. Mais voici l'aurore qui montre sa face brillante : sortons de ce sentier. Sans doute un laboureur ou quelque servante paraîtra à nos yeux ; nous l'interrogerons et saurons si ma soeur habite ces lieux... Mais j'aperçois une esclave qui porte sur sa tête rasée un vase rempli d'eau. Asseyons-nous, et voyons si nous ne tirerons point de cette femme quelques lumières sur l'objet qui nous amène en ce pays.
 
@@ -471,8 +472,8 @@ Ce sont les dernières paroles que tu m'adresses.
 
 Pylade, sois heureux, et unis-toi à Électre.
 
+**** *creator_euripide *book_euripide_electre *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_electre *dist2_euripide_prose_tragedy *id_LECHOEUR *date_1880 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lechoeur
 
-**** *creator_euripide *book_euripide_electre *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_electre *dist2_euripide_prose_tragedy *id_LECHOEUR *date_1880 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lechoeur
 
 Fille d'Agamemnon, je suis venue te trouver dans ta demeure champêtre. Un habitant de Mycènes, un de ces montagnards qui se nourrissent de lait, est arrivé. Les Argiens, dit-il, font proclamer par le héraut qu'un sacrifice aura lieu dans trois jours ; toutes les vierges d'Argos doivent se rendre au temple de Junon.
 
@@ -534,8 +535,8 @@ Comment, Dieux tous les deux et frères de la victime, n'avez-vous pas détourn�
 
 À vous la joie : quiconque parmi les mortels goûte la joie et ne souffre d'aucun revers, vit heureux.
 
-
 **** *creator_euripide *book_euripide_electre *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_electre *dist2_euripide_prose_tragedy *id_CLYTEMNESTRE *date_1880 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clytemnestre
+
 
 Descendez, Troyennes, et donnez-moi la main pour que je mette le pied hors de ce char. Les temples des dieux sont ornés des dépouilles de la Phrygie ; et moi, j'ai reçu ces captives, choisies entre toutes les Troyennes, en échange de la fille que j'ai perdue : faible prix, qui toutefois ne dépare pas mon palais.
 
@@ -569,8 +570,8 @@ Eh bien ! Je vais célébrer par un sacrifice le dixième jour de la naissance d
 
 Hélas ! Hélas !
 
-
 **** *creator_euripide *book_euripide_electre *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_electre *dist2_euripide_prose_tragedy *id_LESDIOSCURES *date_1880 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesdioscures
+
 
 Fils d'Agamemnon, écoute : reconnais la voix des deux frères de ta mère, les Dioscures, Castor et Pollux, ici présents. Nous venons d'apaiser une tempête redoutable aux navigateurs, et, arrivés à Arcos, nous avons assisté au meurtre de notre soeur et de ta mère. Sa peine est juste, ton action ne l'est pas ; et Phoebus, Phoebus... Mais il est mon roi, je me tais ; s'il est sage, son oracle manque de sagesse. Il faut se résigner. Désormais, il te reste à faire ce que le destin et Jupiter ont ordonné de toi. Donne à Pylade Électre pour épouse : qu'il l'emmène ; et toi, quitte Argos où il ne t'est pas permis d'entrer après avoir tué ta mère. Les redoutables Furies, ces déesses aux yeux de chien, égareront ta raison et promèneront en tous sens tes pas errants. Arrivé à Athènes, embrasse la sainte image de Pallas : car elle repoussera les Furies acharnées après toi, et en couvrant ta tête de l'orbe menaçant de son égide, elle te préservera de l'atteinte de leurs serpents terribles. Or, il est une colline qui porte le nom d'Arès, où les dieux siégèrent une première fois pour connaître du meurtre commis par le cruel Arès, lorsqu'irrité de la violence faite à sa fille, il tua le fils du roi des mers, Halirrhothius. Depuis lors, ce tribunal est saint entre tous et inspire confiance aux Dieux. C'est là que tu dois être poursuivi pour le meurtre de ta mère. Le partage égal des suffrages te dérobera au supplice : car Loxias, qui t'a ordonne de tuer ta mère, se chargera de ton crime. Cet exemple fera loi désormais, et l'égalité des suffrages absoudra toujours l'accusé. Les terribles déesses ; sous le coup de cet échec, s'enfonceront, près de la colline même, dans une grotte souterraine ; qui deviendra un oracle sacré, vénéré des mortels. Et toi, il faut que tu habites une ville d'Arcadie, sur les bords de l'Alphée, non loin du temple Lycéen : cette ville sera appelée de ton nom. Voilà ce que j'avais à te dire. Quant au cadavre d'Égisthe, les citoyens d'Argos lui donneront la sépulture. Ta mère la recevra des mains de Ménélas, arrivé récemment à Nauplie, depuis qu'il s'est emparé de Troie : Hélène s'acquittera avec lui de ce devoir. Car elle a quitté l'Égypte et le palais de Protée pour venir en ces lieux. Jamais elle n'est allée en Phrygie ; mais Jupiter, qui voulait semer la discorde et la mort parmi les mortels, envoya à Ilion le fantôme d'Hélène. Que Pylade prenne donc Électre pour épouse et l'emmène hors de l'Argolide, au sein de ses foyers ; qu'il conduise en Phocide celui qui ne fut ton beau6frère que de nom, et le comble de richesses. Pour toi, franchis d'un pas rapide l'isthme de Corinthe, et rends-toi vers la colline fortunée de la terre de Cécrops. Car lorsque tu auras accompli la destinée à laquelle ton crime te condamne, tu seras heureux et quitte de ces cruelles épreuves.
 
@@ -589,4 +590,3 @@ Rassure-toi : la cité de Pallas, où tu vas, est une cité pieuse. Résigne-toi
 Hélas ! Hélas ! Les dieux mêmes n'entendent point vos plaintes sans être émus. Nous savons, compatir, nous et les autres habitants du ciel, aux infortunes des mortels.
 
 Le soin de cet hymen les regarde. Toi, pars pour Athènes, et dérobe-toi aux poursuites de ces chiennes furieuses. Car elles s'élancent sur tes traces, avec leurs mains de serpents, ces noires divinités qui se repaissent des affreuses douleurs de leurs victimes. Pour nous, hâtons-nous d'aller sur la mer de Sicile pour sauver les vaisseaux. Dans notre course à travers la plaine éthérée, nous ne portons pas secours aux impies ; mais ceux qui pratiquent la piété et la justice, nous les sauvons et les délivrons des maux qui les accablent. Que personne donc ne s'abandonne à l'injustice, et ne navigue en compagnie des parjures. C'est un dieu qui tient ce langage aux mortels.
-

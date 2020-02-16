@@ -2,6 +2,7 @@
 
 **** *creator_sedaine *book_sedaine_richard *style_verse *genre_comedy *dist1_sedaine_verse_comedy_richard *dist2_sedaine_verse_comedy *id_RICHARD *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_richard
 
+
 Florestan ?
 
 Votre fortune est dans vos mains.
@@ -62,8 +63,8 @@ Assure mon bonheur.
 C'est un roi, oui, c'est lui-même,
 Qui vous doit un si beau jour.
 
-
 **** *creator_sedaine *book_sedaine_richard *style_verse *genre_comedy *dist1_sedaine_verse_comedy_richard *dist2_sedaine_verse_comedy *id_MARGUERITE *date_1784 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marguerite
+
 
 Oh, ciel, qu'entends-je... ! Bonhomme, qui peut vous avoir appris l'air que vous jouez si bien sur votre violon ?
 
@@ -99,8 +100,8 @@ Assure ton bonheur.
 
 Richard m'est rendu dans ce jour.
 
-
 **** *creator_sedaine *book_sedaine_richard *style_verse *genre_comedy *dist1_sedaine_verse_comedy_richard *dist2_sedaine_verse_comedy *id_BLONDEL *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blondel
+
 
 Antonio, qu'est-ce que j'entends ? J'entends, je crois, chanter.
 
@@ -498,8 +499,22 @@ Finit votre malheur !
 
 C'est un roi délivré par l'amour.
 
+**** *creator_sedaine *book_sedaine_richard *style_verse *genre_comedy *dist1_sedaine_verse_comedy_richard *dist2_sedaine_verse_comedy *id_MATHURIN *date_1784 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_mathurin
+
+
+Comment, c'est demain
+Que ton vieux Mathurin
+Avec toi, ma femme, se remet en train !
+
+**** *creator_sedaine *book_sedaine_richard *style_verse *genre_comedy *dist1_sedaine_verse_comedy_richard *dist2_sedaine_verse_comedy *id_LAVIEILLEFEMME *date_1784 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_lavieillefemme
+
+
+Après cinquante ans,
+Il est encor temps
+De nous montrer gais, et d'être contents.
 
 **** *creator_sedaine *book_sedaine_richard *style_verse *genre_comedy *dist1_sedaine_verse_comedy_richard *dist2_sedaine_verse_comedy *id_LESENECHAL *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesenechal
+
 
 Madame, tout sera bientôt prêt pour votre départ.
 
@@ -513,8 +528,8 @@ Oui, la force : armons-nous, forçons le château.
 
 Vingt ou trente hommes ! Et les soldats qui jusqu'ici ont servi d'escorte à Marguerite, et qui sont dans la forêt voisine en attendant notre retour ? Je vais les faire avancer ; et que ne peuvent la valeur, notre exemple, et le désir de délivrer le roi ?
 
-
 **** *creator_sedaine *book_sedaine_richard *style_verse *genre_comedy *dist1_sedaine_verse_comedy_richard *dist2_sedaine_verse_comedy *id_FLORESTAN *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_florestan
+
 
 L'aurore va se lever ; profitez-en, Sire, pour votre santé : dans une heure on va vous renfermer.
 
@@ -562,8 +577,8 @@ Ce parti violent ?
 Non, jamais ses destins
 Ne seront dans vos mains.
 
-
 **** *creator_sedaine *book_sedaine_richard *style_verse *genre_comedy *dist1_sedaine_verse_comedy_richard *dist2_sedaine_verse_comedy *id_WILLIAMS *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_williams
+
 
 Je t'apprendrai à porter des lettres à ma fille.
 
@@ -673,8 +688,8 @@ Je vous arrête.
 
 Moi.
 
-
 **** *creator_sedaine *book_sedaine_richard *style_verse *genre_comedy *dist1_sedaine_verse_comedy_richard *dist2_sedaine_verse_comedy *id_LAURETTE *date_1784 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laurette
+
 
 Mon père, hélas !
 Je ne vois pas
@@ -763,8 +778,8 @@ Nous n'avons pas de mystère ;
 Il me disait que ses yeux
 Revoyaient enfin les cieux.
 
-
 **** *creator_sedaine *book_sedaine_richard *style_verse *genre_comedy *dist1_sedaine_verse_comedy_richard *dist2_sedaine_verse_comedy *id_BEATRIX *date_1784 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_beatrix
+
 
 Finissez donc, Madame vous entend de son appartement.
 
@@ -776,8 +791,8 @@ Il demande l'honneur de vous être présenté.
 
 Je lui ai dit que madame était bien triste ; il m'a répondu : « Si je lui parle, je la rendrai bien gaie. » Entendez-vous sa voix, madame ? il l'a très belle.
 
-
 **** *creator_sedaine *book_sedaine_richard *style_verse *genre_comedy *dist1_sedaine_verse_comedy_richard *dist2_sedaine_verse_comedy *id_ANTONIO *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antonio
+
 
 Ce n'est rien, c'est tout le hameau qui s'en retourne chez lui après l'ouvrage des champs ; le soleil est couché.
 
@@ -863,4 +878,3 @@ Ah ! Ce serait
 Sans moi, sans moi.
 Ah ! Ce serait
 Sans moi, sans moi.
-

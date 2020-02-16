@@ -2,6 +2,7 @@
 
 **** *creator_racine *book_racine_thebaide *style_verse *genre_tragedy *dist1_racine_verse_tragedy_thebaide *dist2_racine_verse_tragedy *id_ETEOCLE *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eteocle
 
+
 Madame qu'avez-vous ? Et quel mal si caché...
 
 Non Madame, ce n'est ni de l'un ni de l'autre,
@@ -244,8 +245,8 @@ Si je puis avec lui partager la Couronne.
 
       Adieu, Princesse, adieu.
 
-
 **** *creator_racine *book_racine_thebaide *style_verse *genre_tragedy *dist1_racine_verse_tragedy_thebaide *dist2_racine_verse_tragedy *id_POLYNICE *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polynice
+
 
 Madame, au nom des dieux, cessez de m'arrêter,
 Je vois bien que la paix ne peut s'exécuter.
@@ -410,8 +411,8 @@ Partager avec toi la lumière des cieux.
 
 Courons. Adieu, ma soeur.
 
-
 **** *creator_racine *book_racine_thebaide *style_verse *genre_tragedy *dist1_racine_verse_tragedy_thebaide *dist2_racine_verse_tragedy *id_JOCASTE *date_1664 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jocaste
+
 
 Ils sont sortis, Olympe ? Ah mortelles douleurs !
 Qu'un moment de repos me va coûter de pleurs !
@@ -888,8 +889,8 @@ Je n'ai plus pour mon sang ni pitié ni tendresse,
 Votre exemple m'apprend à ne le plus chérir,
 Et moi je vais, cruels, vous apprendre à mourir.
 
-
 **** *creator_racine *book_racine_thebaide *style_verse *genre_tragedy *dist1_racine_verse_tragedy_thebaide *dist2_racine_verse_tragedy *id_ANTIGONE *date_1664 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_antigone
+
 
 Oui, Madame, on m'a dit la fureur de mes frères.
 
@@ -1289,8 +1290,8 @@ Et vous osez, Créon, m'offrir le Diadème ?
 
 Attendez.
 
-
 **** *creator_racine *book_racine_thebaide *style_verse *genre_tragedy *dist1_racine_verse_tragedy_thebaide *dist2_racine_verse_tragedy *id_CREON *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_creon
+
 
 Seigneur, votre sortie a mis tout en alarmes,
 Thèbes qui croit vous perdre est déjà toute en larmes,
@@ -1736,8 +1737,8 @@ La foudre va tomber, la terre est entr'ouverte,
 Je ressens à la fois mille tourments divers,
 Et je m'en vais chercher du repos aux Enfers.
 
-
 **** *creator_racine *book_racine_thebaide *style_verse *genre_tragedy *dist1_racine_verse_tragedy_thebaide *dist2_racine_verse_tragedy *id_HEMON *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hemon
+
 
 Hé quoi ! Vous me plaignez votre aimable présence,
 Après un an entier de supplice et d'absence,
@@ -1861,8 +1862,8 @@ Rien ne peut ébranler leur constance farouche.
 
 Madame il n'est plus rien qui les puisse arrêter.
 
-
 **** *creator_racine *book_racine_thebaide *style_verse *genre_tragedy *dist1_racine_verse_tragedy_thebaide *dist2_racine_verse_tragedy *id_OLYMPE *date_1664 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_olympe
+
 
       Du haut de la muraille,
 Je les ai vus déjà tous rangés en bataille,
@@ -1928,8 +1929,8 @@ Et j'ai cru que mon âme allait suivre ses pas,
 Heureuse mille fois si ma douleur mortelle,
 Dans la nuit du tombeau, m'eût plongée avec elle.
 
-
 **** *creator_racine *book_racine_thebaide *style_verse *genre_tragedy *dist1_racine_verse_tragedy_thebaide *dist2_racine_verse_tragedy *id_ATTALE *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_attale
+
 
 Polynice, Seigneur, demande une entrevue ;
 C'est ce que d'un héraut nous apprend la venue ;
@@ -1972,3 +1973,12 @@ En perdant vos deux fils...
 
       Ah ! Seigneur quelle cruelle envie.
 
+**** *creator_racine *book_racine_thebaide *style_verse *genre_tragedy *dist1_racine_verse_tragedy_thebaide *dist2_racine_verse_tragedy *id_SOLDAT *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_soldat
+
+
+Seigneur, on est aux mains, et la trêve est rompue,
+Et les Thébains, conduits par Créon, et leur roi,
+Attaquent votre armée et violent leur foi.
+Le brave Hippomédon s'efforce en votre absence,
+De soutenir leur choc de toute sa puissance,
+Par son ordre, Seigneur, je vous viens avertir.

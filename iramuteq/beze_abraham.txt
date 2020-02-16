@@ -1,6 +1,59 @@
 
 
+**** *creator_beze *book_beze_abraham *style_verse *genre_tragedy *dist1_beze_verse_tragedy_abraham *dist2_beze_verse_tragedy *id_PROLOGUE *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_prologue
+
+
+Dieu vous garde tous, autant gros que menus,
+Petits et grands, bien soyez vous venus.
+Longtemps y a, au moins comme il me semble,
+Qu'ici n'y eut autant de peuple ensemble ;
+Que plut à Dieu que toutes les semaines.
+Nous pussions voir les Églises si pleines.
+Or ça messieurs, et vous dames honnêtes,
+Je vous supplie d'entendre mes requêtes,
+Je vous requiers vous taire seulement.
+Comment ? Dira quelqu'une voirement,
+Je ne saurais, ni ne voudrais avec.
+Or si faut-il pourtant clore le bec,
+Ou vous et moi avons peine perdue
+Moi de parler, et vous d'être venue.
+Je vous requiers tant seulement silence,
+Je vous supplie d'ouir en patience.
+Petits et grands je vous dirai merveilles :
+Tant seulement prêtez moi vos oreilles.
+Or doncques peuple, écoute un bine grand cas,
+Tu penses être au lieu où tu n'es pas.
+Plus n'est ici Lausanne, elle est bine loin :
+Mais toutefois quand il sera besoin,
+Chacun pourra, voire dedans une heure,
+Sans nul danger retrouver sa demeure.
+Maintenant donc ici est le pays.
+Des philistins. Êtes-vous ébahis ?
+Je dis bien plus, voyez vous bien ce lieu ?
+C'est la maison d'une serviteur de Dieu,
+Dit Abraham, celui même duquel
+Par vive foi, le nom est immortel.
+8En cet endroit vous le verrez tenté,
+Et jusqu'au vif atteint et tourmenté.
+Vous le verrez par soi justifié,
+Son fils Isaac quasi sacrifié,
+Bref, vous verrez étranges passions,
+La chair, le monde, et ses affections
+Non seulement au vif représentées,
+Mais qui plus est, par le foi surmontées.
+Et qu'ainsi soit, maint loyal personnage,
+En donnera bientôt bon témoignage,
+Bientôt verrez Abraham et Sarah,
+Et tôt après Isaac sortira :
+Ne sont-ils pas témoins très véritables ?
+Qui veut donc voir des choses tant admirables,
+Nous le prions seulement d'écouter,
+Et ce qu'il a d'oreilles nous prêter,
+Étant tout sûr qu'il entendra merveilles,
+Et puis après lui rendrons ses oreilles.
+
 **** *creator_beze *book_beze_abraham *style_verse *genre_tragedy *dist1_beze_verse_tragedy_abraham *dist2_beze_verse_tragedy *id_ABRAHAM *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_abraham
+
 
 Depuis que j'ai mon pays délaissé,
 Et de courir çà et là n'aI cessé,
@@ -453,8 +506,8 @@ Prendre le veux
       Me Voici,
 Seigneur, Seigneur.
 
-
 **** *creator_beze *book_beze_abraham *style_verse *genre_tragedy *dist1_beze_verse_tragedy_abraham *dist2_beze_verse_tragedy *id_SARAH *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sarah
+
 
 Après avoir pensé et repensé
 Combien j'ai eu de biens le temps passé.
@@ -569,8 +622,8 @@ Bientôt mon seigneur je revoie,
 Et mon Isaac que m'as donné,
 J'accole en santé retourné.
 
-
 **** *creator_beze *book_beze_abraham *style_verse *genre_tragedy *dist1_beze_verse_tragedy_abraham *dist2_beze_verse_tragedy *id_ISAAC *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_isaac
+
 
 Holà, je vous pris demeurez,
 Comment ? Me laissez vous ainsi ?
@@ -704,8 +757,8 @@ D'aller à Dieu ?
 
       Ô Dieu !
 
-
 **** *creator_beze *book_beze_abraham *style_verse *genre_tragedy *dist1_beze_verse_tragedy_abraham *dist2_beze_verse_tragedy *id_LANGE *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lange
+
 
 Abraham, Abraham.
 
@@ -753,8 +806,8 @@ Je déploierai mes bénédictions
 Et grands trésors de divine puissance,
 Puisque tu m'as porté obéissance.
 
-
 **** *creator_beze *book_beze_abraham *style_verse *genre_tragedy *dist1_beze_verse_tragedy_abraham *dist2_beze_verse_tragedy *id_SATAN *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_satan
+
 
 Je vois, je viens, jour et nuit je travaille,
 Et m'est avis, en quelque part que j'aille,
@@ -890,4 +943,3 @@ Mais je vous prie, qui eut pensé cela ?
 
 Jamais, jamais enfant mieux ne parla.
 Je suis confus, et faut que je m'enfuie.
-

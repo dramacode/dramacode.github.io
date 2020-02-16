@@ -2,6 +2,7 @@
 
 **** *creator_gueullette *book_gueullette_amantpoussif *style_prose *genre_farce *dist1_gueullette_prose_farce_amantpoussif *dist2_gueullette_prose_farce *id_CASSANDRE *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cassandre
 
+
 Tiens, Gilles, va-t'en à la boucherie, j'ai parlé au boucher, il te donnera pour notre soupe deux aloyaux, et deux bons foies de veau : tu mettras au milieu un dindon de garenne, un cochon de lait, un agneau, un...
 
 Non, Gilles, mon ami, nous en avons de reste, et ma femme en a encore serré hier, avec le derrière et les cuisses... du chapon de mercredi.
@@ -88,8 +89,8 @@ Monsieur est gentilhomme, mettez encore une pelle, trois pincettes, et deux souf
 
 Mettez pour ma fille par surcroît, Monsieur le Notaire, les quatre dadas de feu sa mère que j'ai fait mettre au blanchissage.
 
-
 **** *creator_gueullette *book_gueullette_amantpoussif *style_prose *genre_farce *dist1_gueullette_prose_farce_amantpoussif *dist2_gueullette_prose_farce *id_ISABELLE *date_1720 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
 
 Quoi ! Mon père, vous voulez me marier en face d'Église, sans m'en avoir t'avertie, avec un homme que je n'ai vu ni manié ? Je prendrais plutôt le voile d'un monastère.
 
@@ -152,8 +153,8 @@ Ah mon cher père.... Que de remerciements.
 
 Ah ! Cher Léandre, je ne souffrirai point que...
 
-
 **** *creator_gueullette *book_gueullette_amantpoussif *style_prose *genre_farce *dist1_gueullette_prose_farce_amantpoussif *dist2_gueullette_prose_farce *id_LEANDRE *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+
 
 Ah ! Charmante Isabelle, qu'ai-je appris, qu'ai-je surpris, qu'ai-je compris! Qu'ai-je oui ! Ou plutôt malheureux infortuné, qu'ai-je vu, qu'ai-je su ! Qu'ai-je entendu !
 
@@ -225,8 +226,8 @@ Ah ! Monsieur, c'en est trop, je suis piqué de la générosité de Monsieur mon
 
 Cela sera comme ça, Mam'selle.
 
-
 **** *creator_gueullette *book_gueullette_amantpoussif *style_prose *genre_farce *dist1_gueullette_prose_farce_amantpoussif *dist2_gueullette_prose_farce *id_GILLES *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
+
 
 Monsieur, faudra-t-il que je prenne du mou ?
 
@@ -310,3 +311,28 @@ Ou autrement si Mam'selle l'aime mieux.
 
 Me voilà aussi, Monsieur.
 
+**** *creator_gueullette *book_gueullette_amantpoussif *style_prose *genre_farce *dist1_gueullette_prose_farce_amantpoussif *dist2_gueullette_prose_farce *id_NOTAIRE *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_notaire
+
+
+Où sont les futurs conjoints.
+
+« Pardevant les conseillers, notaires garde-mottes et garde-selles et garde-robes du Châtelet de Paris ; furent absents en leurs personnes Christophe Joachim de Léandre, soit disant mineur, demeurant rue des Foureurs, paroisse Saint Germain-l'Auxerrois, d'autre part : et Blaise Cassandre, bourgeois de Paris, et sergent du Guet à pied, stipulant pour Cunégonde Isabelle, sa vraie fille, de son consentement demeurante avec lui rue Trousse-vache, à la Corne de cerf, paroisse Saint Jean-le-rond, d'une part.
+Lesquels en la présence de leurs parents et amis ci-devant nommés ; savoir, du côté du futur et de la future d'Alexandre César, Thomas de Gilles, parrain de ladite future. Sonneur du quartier Saint-Roch, et lanternier en exercice de la rue Traversine et rues circonvoisines, sont convenus de ce qui s'ensuit.
+C'est à savoir que ledit Joachim de Léandre et ladite Cunégonde Isabelle, pourront s'épouser devant ou derrière l'Église, le plutôt qu'ils pourront.
+Ledit sieur Blaise Cassandre donne en conservation dudit mariage, seize livres de rente viagère à prendre sur une maison, sise rue Fromenteau.
+Plus soixante livres onze sols en nippes, joyaux, bijoux, diamants, ustensiles, meubles et immeubles ci-après mentionnés.
+Savoir :
+Un bahut avec un gond et sa serrure,
+Un bandage à descente,
+Huit suspensoirs,
+Trois seringues à fistule,
+Un bourlet presque neuf,
+Six béguins, trois gourmettes,
+Un hochet de métal de prince,
+Un diamant de Cédras estimé huit livres,
+Deux étuis à chapeau,
+Une trappe à prendre des rats,
+Un urinal de fer blanc,
+Six manches de couteau.»
+
+Quatre dadas. Le survivant des futurs époux aura pour prépuce dix-sept livres onze sols treize deniers, une fois payé à prendre sur le plus clair et le plus net du bien.

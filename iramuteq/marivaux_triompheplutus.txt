@@ -2,6 +2,7 @@
 
 **** *creator_marivaux *book_marivaux_triompheplutus *style_prose *genre_comedy *dist1_marivaux_prose_comedy_triompheplutus *dist2_marivaux_prose_comedy *id_APOLLON *date_1728 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
 
+
 Que vois-je ? Je crois que c'est Plutus déguisé en financier. Venez donc que je vous embrasse.
 
 Peut-on vous demander ce que vous venez faire ici ?
@@ -122,8 +123,8 @@ Expéditif ;
 Tout est vif, exact, attentif,
 Un jour finit l'affaire.
 
-
 **** *creator_marivaux *book_marivaux_triompheplutus *style_prose *genre_comedy *dist1_marivaux_prose_comedy_triompheplutus *dist2_marivaux_prose_comedy *id_PLUTUS *date_1728 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_plutus
+
 
 J'aperçois Apollon ; il est descendu dans ces lieux pour y faire sa cour à sa nouvelle maîtresse. Je m'avisai l'autre jour de lui dire que je voulais en avoir une ; Monsieur le blondin me railla fort ; il me défia d'en être aimé, me traita comme un imbécile, et je viens ici exprès pour souffler la sienne. Il ne se doute de rien ; nous allons voir beau jeu. Cet aigrefin de dieu qui veut tenir contre Plutus ? Contre le dieu des trésors ! Chut !... Le voilà ! Ne faisons semblant de rien.
 
@@ -307,8 +308,8 @@ Hé, hé, hé ! Que le voilà beau garçon avec son mérite !
 
 Cela signifie qu'Ergaste est Apollon, et moi Plutus, qui lui a escroqué sa maîtresse. Ne vous alarmez pas ; je vous laisse les présents que je vous ai faits. Vous vous passerez bien de moi avec cela ; n'est-ce pas ? Adieu, la compagnie. Vous êtes de bonnes gens ; vous m'avez fait gagner la gageure, et je vais bien faire rire l'Olympe de cette aventure. Allons, divertissez-vous ; les musiciens sont payés, la fête est prête, qu'on l'exécute !
 
-
 **** *creator_marivaux *book_marivaux_triompheplutus *style_prose *genre_comedy *dist1_marivaux_prose_comedy_triompheplutus *dist2_marivaux_prose_comedy *id_ARMIDAS *date_1728 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_armidas
+
 
 Ah ! Te voilà, Arlequin ; est-ce que ton maître est arrivé ?
 
@@ -423,8 +424,8 @@ Votre valet très humble.
 
 Que signifie ce que nous venons d'entendre ?
 
-
 **** *creator_marivaux *book_marivaux_triompheplutus *style_prose *genre_comedy *dist1_marivaux_prose_comedy_triompheplutus *dist2_marivaux_prose_comedy *id_AMINTE *date_1728 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aminte
+
 
 Il s'est enfermé dans une chambre pour composer un divertissement qu'il veut me donner en musique.
 
@@ -490,8 +491,8 @@ Ont le dessus.
 De tels noeuds sont bientôt rompus ;
 Un jour en fait l'affaire.
 
-
 **** *creator_marivaux *book_marivaux_triompheplutus *style_prose *genre_comedy *dist1_marivaux_prose_comedy_triompheplutus *dist2_marivaux_prose_comedy *id_ARLEQUIN *date_1728 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+
 
 Bonjour, Spinette, comment te portes-tu ? Je suis bien aise de te revoir. Mon maître est-il arrivé ?
 
@@ -577,8 +578,8 @@ Est en rumeur ;
 La pièce meurt malgré l'acteur
 Un jour en fait l'affaire.
 
-
 **** *creator_marivaux *book_marivaux_triompheplutus *style_prose *genre_comedy *dist1_marivaux_prose_comedy_triompheplutus *dist2_marivaux_prose_comedy *id_SPINETTE *date_1728 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_spinette
+
 
 Je suis charmée de vous voir de retour, Monsieur Ergaste. Pendant votre absence, je vous ai rendu auprès de ma maîtresse tous les petits services qui dépendaient de moi.
 
@@ -688,4 +689,3 @@ Hé ! Vous me faites perdre ici mon temps ; le dîner est prêt ; est-ce que 
 Qui est là ?
 
 Je m'en vais faire descendre la compagnie.
-

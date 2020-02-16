@@ -2,6 +2,7 @@
 
 **** *creator_lafontaine *book_lafontaine_florentin *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_florentin *dist2_lafontaine_verse_comedy *id_HARPAGEME *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_harpageme
 
+
 Que vois-je ?
 
       Bon !
@@ -249,8 +250,8 @@ Le sénat le prend mal.
 
       Je n'irai pas.
 
-
 **** *creator_lafontaine *book_lafontaine_florentin *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_florentin *dist2_lafontaine_verse_comedy *id_HORTENSE *date_1685 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hortense
+
 
 Un jaloux furieux, les astres en courroux,
 L'horreur d'une prison longue, obscure, ennuyante,
@@ -495,8 +496,8 @@ Mais je crois qu'avec lui l'oracle est moins certain.
 
       Adieu, Monsieur ; votre servante.
 
-
 **** *creator_lafontaine *book_lafontaine_florentin *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_florentin *dist2_lafontaine_verse_comedy *id_TIMANTE *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_timante
+
 
 Oui, je sais tout cela, Marinette ; mais j'aime.
 Voyant sortir d'ici le brutal Harpagême,
@@ -549,8 +550,8 @@ Vos parents et les miens vont combler votre espoir ;
 Allons, Hortense...
       Adieu, Seigneur, jusqu'au revoir.
 
+**** *creator_lafontaine *book_lafontaine_florentin *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_florentin *dist2_lafontaine_verse_comedy *id_AGATHE *date_1685 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_agathe
 
-**** *creator_lafontaine *book_lafontaine_florentin *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_florentin *dist2_lafontaine_verse_comedy *id_AGATHE *date_1685 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_agathe
 
 Mon fils, bouleverser l'ordre des éléments,
 Sur les flots irrités voguer contre les vents,
@@ -633,8 +634,8 @@ Vous ne seriez pas là, si j'en eusse crue.
 
       C'en est fait.
 
-
 **** *creator_lafontaine *book_lafontaine_florentin *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_florentin *dist2_lafontaine_verse_comedy *id_MARINETTE *date_1685 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marinette
+
 
 Que vois-je ? Êtes-vous fou, Timante ? Ignorez-vous
 À quel point est féroce un florentin jaloux ?
@@ -760,4 +761,3 @@ Ah ! Les méchantes gens !
 Je n'oserais, Monsieur ; Timante m'en empêche.
 
       Adieu : prenez un peu de patience.
-

@@ -2,6 +2,7 @@
 
 **** *creator_carmontelle *book_carmontelle_fauxempoisonnement *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_fauxempoisonnement *dist2_carmontelle_prose_proverbe *id_JULIE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
 
+
 En vérité, Madame, je ne vous reconnais plus ! Vous qui n'avez jamais eu la moindre humeur, qui ne voyez rien que sous une forme plaisante, vous soupirez, vous êtes languissante, abattue, je n'y comprends rien. Vous êtes veuve et jeune, vous aimez le Comte de Belville , vous êtes sure qu'il vous adore...
 
 Quoi, pourriez-vous douter de son amour ?
@@ -54,8 +55,8 @@ Cette vengeance est encore trop douce.
 
 Madame, veut-elle les glaces qu'elle a demandées ?
 
-
 **** *creator_carmontelle *book_carmontelle_fauxempoisonnement *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_fauxempoisonnement *dist2_carmontelle_prose_proverbe *id_LAFLEUR *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafleur
+
 
 Monsieur, tout est prêt, et vous pourrez partir quand il vous plaira, je n'ai pas perdu de temps, comme vous voyez.
 
@@ -69,3 +70,9 @@ Je crois qu'il est devenu fou.
 
 Monsieur, je n'en sais rien, je crois qu'il est enragé.
 
+**** *creator_carmontelle *book_carmontelle_fauxempoisonnement *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_fauxempoisonnement *dist2_carmontelle_prose_proverbe *id_LAFRANCE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafrance
+
+
+Monsieur le Comte de Belville.
+
+On demande, Mademoiselle Julie.

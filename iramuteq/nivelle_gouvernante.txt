@@ -1,6 +1,7 @@
 
 
-**** *creator_nivelle *book_nivelle_gouvernante *style_verse *genre_comedy *dist1_nivelle_verse_comedy_gouvernante *dist2_nivelle_verse_comedy *id_SAINVILLE *date_1744 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_sainville
+**** *creator_nivelle *book_nivelle_gouvernante *style_verse *genre_comedy *dist1_nivelle_verse_comedy_gouvernante *dist2_nivelle_verse_comedy *id_SAINVILLE *date_1744 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_sainville
+
 
 Puis-je en faire un plus doux et plus heureux emploi ?
 
@@ -634,8 +635,8 @@ Ciel ! Qu'entends-je ?
 Ah ! Quel bonheur ! La vie, au prix de ce bienfait,
 Est le moindre présent que vous nous ayez fait.
 
+**** *creator_nivelle *book_nivelle_gouvernante *style_verse *genre_comedy *dist1_nivelle_verse_comedy_gouvernante *dist2_nivelle_verse_comedy *id_ANGELIQUE *date_1744 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_angelique
 
-**** *creator_nivelle *book_nivelle_gouvernante *style_verse *genre_comedy *dist1_nivelle_verse_comedy_gouvernante *dist2_nivelle_verse_comedy *id_ANGELIQUE *date_1744 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_angelique
 
       Hélas !
 
@@ -1256,8 +1257,8 @@ Nous ne nous verrons plus, recevez mes adieux.
 
 Ma mère, il y consent.
 
+**** *creator_nivelle *book_nivelle_gouvernante *style_verse *genre_comedy *dist1_nivelle_verse_comedy_gouvernante *dist2_nivelle_verse_comedy *id_JULIETTE *date_1744 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_juliette
 
-**** *creator_nivelle *book_nivelle_gouvernante *style_verse *genre_comedy *dist1_nivelle_verse_comedy_gouvernante *dist2_nivelle_verse_comedy *id_JULIETTE *date_1744 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_juliette
 
 Angélique, est-ce tout ? Faites-vous violence :
 Je voudrais bien savoir à quoi sert le silence
@@ -1588,4 +1589,3 @@ Il est vrai : cependant, que faire de son coeur ?
 Comment ! Vous voilà seule ?
 
 Allons, tout au plus vite, en avertir Sainville.
-

@@ -2,6 +2,7 @@
 
 **** *creator_marivaux *book_marivaux_iledesesclaves *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledesesclaves *dist2_marivaux_prose_comedy *id_IPHICRATE *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_iphicrate
 
+
 Arlequin !
 
 Que deviendrons-nous dans cette île ?
@@ -98,8 +99,8 @@ Dites plutôt : quel exemple pour nous, Madame, vous m'en voyez pénétré.
 
 Etes-vous contente, Madame ?
 
-
 **** *creator_marivaux *book_marivaux_iledesesclaves *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledesesclaves *dist2_marivaux_prose_comedy *id_ARLEQUIN *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+
 
 Mon patron !
 
@@ -326,8 +327,8 @@ Ah ! Vous ne voyez rien, nous sommes admirables ; nous sommes des rois et des re
 
 Voilà aussi mon dernier mot, qui vaut bien des paroles.
 
-
 **** *creator_marivaux *book_marivaux_iledesesclaves *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledesesclaves *dist2_marivaux_prose_comedy *id_EUPHROSINE *date_1725 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_euphrosine
+
 
 Impertinente que vous êtes !
 
@@ -420,8 +421,8 @@ Viens que je t'embrasse, ma chère Cléanthis.
 La reconnaissance me laisse à peine la force de te répondre. Ne parle plus de ton esclavage, et ne songe plus désormais qu'à partager avec moi tous les biens que les dieux m'ont donné, si nous retournons à Athènes.  
 
 
-
 **** *creator_marivaux *book_marivaux_iledesesclaves *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledesesclaves *dist2_marivaux_prose_comedy *id_CLEANTHIS *date_1725 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleanthis
+
 
 Monsieur, je suis esclave aussi, moi, et du même vaisseau ; ne m'oubliez pas, s'il vous plaît.
 
@@ -542,8 +543,8 @@ Hélas ! Comment en aviez-vous le courage ? Mais voilà qui est fait, je veux bi
 
 Je n'ai que faire de vous en dire davantage, vous voyez ce qu'il en est.
 
-
 **** *creator_marivaux *book_marivaux_iledesesclaves *style_prose *genre_comedy *dist1_marivaux_prose_comedy_iledesesclaves *dist2_marivaux_prose_comedy *id_TRIVELIN *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trivelin
+
 
 Arrêtez, que voulez-vous faire ?
 
@@ -697,4 +698,3 @@ Que vois-je ? Vous pleurez, mes enfants, vous vous embrassez !
 Et vous, Cléanthis, êtes-vous du même sentiment ?
 
 Vous me charmez. Embrassez-moi aussi, mes chers enfants ; c'est là ce que j'attendais. Si cela n'était pas arrivé, nous aurions puni vos vengeances, comme nous avons puni leurs duretés. Et vous, Iphicrate, vous, Euphrosine, je vous vois attendris ; je n'ai rien à ajouter aux leçons que vous donne cette aventure. Vous avez été leurs maîtres, et vous en avez mal agi ; ils sont devenus les vôtres, et ils vous pardonnent ; faites vos réflexions là-dessus. La différence des conditions n'est qu'une épreuve que les dieux font sur nous : je ne vous en dis pas davantage. Vous partirez dans deux jours, et vous reverrez Athènes. Que la joie à présent, et que les plaisirs succèdent aux chagrins que vous avez sentis, et célèbrent le jour de votre vie le plus profitable.
-

@@ -2,6 +2,7 @@
 
 **** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_stenobee *date_1738 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_stenobee
 
+
 Air 35. Le fameux Diogenes.
 Quand cessera ta haine ?
 Ma présence te gêne,
@@ -96,8 +97,8 @@ A ses effets.
 Oh ! l'excellent remede
 Pour les forfaits.
 
-
 **** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_philonoe *date_1738 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philonoe
+
 
 Air 85. Le plaisir passe la peine.
 Amour, lorsque sous ton Empire,
@@ -162,8 +163,8 @@ Quel bonheur ! mon cher Bellerophon.
 
 Expliquez, expliquez-vous sans détour.
 
-
 **** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_le-roi *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_leroi
+
 
 Air 96. Trois voleurs insolens.
 Un Monstre bien méchant
@@ -231,8 +232,8 @@ Air 62. Mariez, mariez, mariez-moi.
 Allons donnez-vous la main,
 Je couronne votre flame.
 
-
 **** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_bellerophon *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bellerophon
+
 
 Ah vous voilà, Princesse ? que je suis content !
 Air I. Zon, zon.
@@ -393,8 +394,8 @@ Palsambleu mon petit cœur, mon amour ;
 Ce seroit trop pour un jour.
 FIN
 
-
 **** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_amisodar *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amisodar
+
 
 Voyez quel conte,
 
@@ -473,8 +474,8 @@ Si de leur essence subtile,
 Je puis ne faire qu'un venin,
 Tout antidote est inutile.
 
-
 **** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_le-sacrificateur *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesacrificateur
+
 
 Air 19. Quand on a prononcé ce malheureux oüi.
 Reçois, grand Apollon, reçois ce Sacrifice,
@@ -496,8 +497,31 @@ Peuples, réjoüissez-vous, & dansez autour du feu.
 
 Grand Apollon nous n'attendons plus que votre réponse.
 
+**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_pythie *date_1738 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pythie
+
+
+Air 15. Pierre Bagnolet.
+Je n'étois pas fort nécessaire
+Pour vous annoncer Apollon,
+Mais dans une importante affaire
+Il faut toûjours du carillon,
+Du carillon, bis.
+Eh bien ! on va vous stisfaire,
+Et tonner sur un joli ton.
+Phœbus va parler, que le Théatre s'obscurcisse, & représente la nuit.
+
+**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_apollon *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_apollon
+
+
+Air 33. Flon, flon.
+Un des fils de Neptune
+Appaisera, dit-on,
+La Celeste rancune ;
+Mais il lui faut Fanchon ;
+Flon, flon, &c.
 
 **** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_poete *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_poete
+
 
 Qu'est-ce, Seigneur Bellerophon, vous me paroissez bien embarassé ? vous attendez sans doute Pallas pour vous tirer d'affaire ? car il faut toûjours que le merveilleux s'en mêle point du tout, c'est moi qui vais faire ce miracle-là.
 
@@ -524,8 +548,56 @@ Venez-vous, dis-je, suivez-moi, & ne craignez rien ; montez hardiment ce superb
 
 Belle demande ! montez sur le Pegaze & soyez sûr de la victoire.
 
+**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_sorciers *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sorciers
 
-**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_amazone1 *date_1738 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_amazone1
+
+Parle, nous voilà prêts, tout nous sera possible.
+
+Air 93. Ramplan.
+Par le commandement,
+Que le Tenare s'ouvre,
+Ramplan, pataplan,
+Ramplan, promptement,
+Que l'enfer se découvre
+Dans ce même moment,
+Ramplan.
+
+Air 94. Passant sur le Pont-Neuf.
+Noires filles du Styx, Hecate, Erebe, Averne,
+Nuit, Mort, Chiens des enfers que la fureur gouverne,
+Que l'on travaille
+A désoler cette Canaille,
+Entendez nos clameurs, c'est pour vous que l'on braille.
+
+**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_sorcier *date_1738 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_sorcier
+
+
+Pour assoûvir votre fureur,
+C'étoit assez du Procureur.
+
+**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_peuple *date_1738 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_peuple
+
+
+Air 97. Ah ! Madame Anroux.
+Ah ! Grand Apollon
+Délivre-nous donc
+D'une affreuse bête,
+Par ton divin nom,
+De plus par la tête
+Du serpent Python.
+
+Air 270.
+Quelle horreur ! quel ravage !
+Le Monstre redouble sa rage.
+
+Air 59. M. Lapalisse est mort.
+Le Monstre a fini son sort ;
+Ne craignons plus sa furie.
+Ma foi s'il ‘étoit pas mort,
+Il seroit encore en vie.
+
+**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_amazone1 *date_1738 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_amazone1
+
 
 Air 86. Digue, diguedon.
 Un heureux penchant vous entraîne ;
@@ -552,8 +624,8 @@ Air 87. Menuet du Grandval.
 Sa brûlante ardeur pour la gloire
 En lui ne peut se moderer.
 
+**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_amazone2 *date_1738 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_amazone2
 
-**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_amazone2 *date_1738 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_amazone2
 
 Palsanbleu ! la Princesse a raison, elle parle en connoisseuse.
 
@@ -565,3 +637,18 @@ Avec ce gaillard la victoire
 N'a pas le tems de respirer.
 Voilà ce qui s'appelle une gasconade Lyrique.
 
+**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_voix-derriere-theatre *date_1738 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_voixderrieretheatre
+
+
+Garre le Monstre, fuyons, fuyons.
+
+**** *creator_romagnesi *book_romagnesi_arlequinbellerophon *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_arlequinbellerophon *dist2_romagnesi_verse_comedy *id_petite-fille *date_1738 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_petitefille
+
+
+Air 4. Voici les Dragons.
+Qu le Monstre est en colère !
+Vîte sauvons-nous ;
+Il a mangé ma grand-Mere,
+Il vous mangera, ma Mere,
+Et moi itou,
+Et moi itou.

@@ -2,6 +2,7 @@
 
 **** *creator_marivaux *book_marivaux_colonie *style_prose *genre_comedy *dist1_marivaux_prose_comedy_colonie *dist2_marivaux_prose_comedy *id_ARTHENICE *date_1750 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_arthenice
 
+
 Ah çà ! Madame Sorbin, ou plutôt ma compagne, car vous l'êtes, puisque les femmes de votre état viennent de vous revêtir du même pouvoir dont les femmes nobles m'ont revêtue moi-même, donnons-nous la main, unissons-nous et n'ayons qu'un même esprit toutes les deux.
 
 Nous voici chargées du plus grand intérêt que notre sexe ait jamais eu, et cela dans la conjoncture du monde la plus favorable pour discuter notre droit vis-à-vis les hommes.
@@ -174,8 +175,8 @@ Eh ! Le moyen de rien statuer avec cette harengère ?
 
 La brutalité de cette femme-là me dégoûte de tout, et je renonce à un projet impraticable avec elle.
 
-
 **** *creator_marivaux *book_marivaux_colonie *style_prose *genre_comedy *dist1_marivaux_prose_comedy_colonie *dist2_marivaux_prose_comedy *id_TIMAGENE *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_timagene
+
 
 Ah ! Pardon, belle Arthénice, je ne vous croyais pas si près.
 
@@ -233,8 +234,8 @@ Madame, on vient d'apercevoir une foule innombrable de sauvages qui descendent d
 
 Je me réjouis de voir l'affaire terminée. Ne vous inquiétez point, Mesdames ; allez vous mettre à l'abri de la guerre, on aura soin de vos droits dans les usages qu'on va établir.
 
-
 **** *creator_marivaux *book_marivaux_colonie *style_prose *genre_comedy *dist1_marivaux_prose_comedy_colonie *dist2_marivaux_prose_comedy *id_LINA *date_1750 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lina
+
 
 Qu'il s'en retourne ! Eh ! D'où vient, ma mère ?
 
@@ -312,8 +313,8 @@ Hélas ! Le mien serait d'emmener mon amant et son amour avec nous.
 
 Oui, mais on m'a commandé de vous déclarer un adieu dont on ne verra ni le bout ni la fin.
 
-
 **** *creator_marivaux *book_marivaux_colonie *style_prose *genre_comedy *dist1_marivaux_prose_comedy_colonie *dist2_marivaux_prose_comedy *id_PERSINET *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_persinet
+
 
 Je viens à vous, vénérable et future belle-mère ; vous m'avez promis la charmante Lina ; et je suis bien impatient d'être son époux ; je l'aime tant, que je ne saurais plus supporter l'amour sans le mariage.
 
@@ -389,8 +390,8 @@ Tout subitement.
 
 Ces belles personnes me suivent, et voilà pour vos écritures, Monsieur le notaire ; tâchez de nous griffonner le papier sur ce papier.
 
-
 **** *creator_marivaux *book_marivaux_colonie *style_prose *genre_comedy *dist1_marivaux_prose_comedy_colonie *dist2_marivaux_prose_comedy *id_HERMOCRATE *date_1750 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hermocrate
+
 
 Non, seigneur Timagène, nous ne pouvons pas mieux choisir ; le peuple n'a pas hésité sur Monsieur Sorbin, le reste des citoyens n'a eu qu'une voix pour vous, et nous sommes en de bonnes mains.
 
@@ -442,4 +443,3 @@ Doucement, Mesdames, laissons cet article-ci en litige, nous y reviendrons.
 Je ne serais pas de votre sentiment là-dessus, Madame Sorbin ; je trouve la chose équitable, tout homme que je suis.
 
 Que lui répondez-vous, Madame, et que faut-il que j'écrive ?
-

@@ -2,6 +2,7 @@
 
 **** *creator_sophocle *book_sophocle_philoctete *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_philoctete *dist2_sophocle_prose_tragedy *id_ULYSSE *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulysse
 
+
 Voici le rivage de la terre de Lemnos entourée des flots, non foulé et non habité par les hommes, où, autrefois, ô rejeton du plus brave des Hellènes, j'abandonnai, par l'ordre des rois, le Malien, fils de Péas, dont le pied distillait un sang corrompu. Il ne nous était plus permis de faire tranquillement ni libations, ni sacrifices, car il emplissait tout le camp de plaintes et d'horribles imprécations, hurlant et gémissant. Mais que sert de dire ces choses ? Ce n'est pas le temps des longues paroles. Qu'il sache que je suis ici, et toute la ruse sera vaine à l'aide de laquelle je pense me saisir bientôt de lui. C'est à toi de faire le reste et de découvrir où est la roche s'ouvrant par deux issues, qui est chauffée par Hélios de l'un et de l'autre côté en hiver, et où, en été, le vent circule et convie au sommeil. Il est possible que tu voies un peu plus bas, à gauche, une eau de source, si elle dure encore. Approche en silence et apprends-moi si ces choses sont encore en ce lieu, afin que tu entendes ce qui me reste à te dire et que nous le fassions tous deux.
 
 En bas ou en haut ? Car je ne comprends pas.
@@ -114,8 +115,8 @@ Et moi, je le défends, que les dieux le sachent, au nom des Atrides et de toute
 
 Certes, et tu me vois devant toi, moi qui t'emmènerai de force vers les plaines de Troie, que le fils d'Achille le veuille ou non.
 
-
 **** *creator_sophocle *book_sophocle_philoctete *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_philoctete *dist2_sophocle_prose_tragedy *id_NEOPTOLEME *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_neoptoleme
+
 
 Roi Ulysse, voici ce dont tu parles. Il me semble voir l'antre tel que tu l'as dit.
 
@@ -443,8 +444,8 @@ Marche donc, après avoir baisé cette terre.
 
 Et moi aussi j'ai cette résolution.
 
-
 **** *creator_sophocle *book_sophocle_philoctete *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_philoctete *dist2_sophocle_prose_tragedy *id_PHILOCTETE *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philoctete
+
 
 Ah ! Étrangers, qui êtes-vous, qui avez abordé à l'aide de l'aviron marin cette terre sans port et inhabitée ? Dirai-je vraiment de quelle patrie et de quelle race vous êtes ? Voici, en effet, le vêtement helladien qui m'est très cher. Mais je désire entendre votre voix. Ne reculez pas, épouvantés de moi, farouche ; mais ayez pitié d'un malheureux homme seul, abandonné, sans amis. Parlez à un homme accablé de maux, si vous venez en amis. Répondez, car il n'est point convenable que vous ne me parliez ou que je ne vous réponde point.
 
@@ -722,8 +723,8 @@ Je les chasserai au loin.
 
 Allons ! Mais, en partant, je saluerai cette terre. Je vous salue, ô retraite qui m'as abrité, nymphes, habitantes des prairies arrosées, violente clameur de la mer contre le promontoire, où souvent ma tête, dans le creux de l'antre, fut mouillée par les souffles du Notos, et toi, montagne de Hermaios, qui me renvoyas tant de fois le bruit de mes gémissements ! Maintenant, ô sources, ô breuvage Lykien, je vous quitte, sans que l'espoir m'en soit jamais venu. Je te salue, ô terre de Lemnos entourée des flots ! Envoie-moi, sain et sauf, par une heureuse navigation, là où me conduisent la grande Moire et la volonté de mes amis et le démon qui dompte toute chose et qui a voulu celle-ci.
 
-
 **** *creator_sophocle *book_sophocle_philoctete *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_philoctete *dist2_sophocle_prose_tragedy *id_UNMARCHAND *date_1877 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_unmarchand
+
 
 Fils d'Achille, j'ai demandé à cet homme, ton compagnon, qui, avec deux autres, gardait la nef, de me montrer le lieu où tu étais, puisque, contre mon attente, je t'ai rencontré, ayant été poussé par hasard vers cette terre. Je naviguais, en effet, comme marchand, avec peu de compagnons, d'Hélios vers mon pays, Péparèthos riche en vignes, quand j'ai entendu dire que tous ces marins avaient navigué avec toi. Il m'a semblé que je devais ne pas me taire et ne pas faire voile, avant de venir à toi et d'être récompensé de ma nouvelle ; car il se peut que tu ne connaisses rien des nouveaux desseins des Argiens sur toi ; et ce ne sont pas seulement des desseins, mais des actes qui ne tarderont pas à être accomplis.
 
@@ -751,8 +752,15 @@ Je t'apprendrai tout ceci, car, sans doute, tu ne le sais pas. Il y avait un div
 
 Je ne sais rien de ceci, mais je vais à ma nef. Qu'un dieu vous soit en aide !
 
+**** *creator_sophocle *book_sophocle_philoctete *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_philoctete *dist2_sophocle_prose_tragedy *id_HERACLES *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_heracles
 
-**** *creator_sophocle *book_sophocle_philoctete *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_philoctete *dist2_sophocle_prose_tragedy *id_LECHOEUR *date_1877 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lechoeur
+
+Non pas du moins avant d'avoir écouté mes paroles, fils de Poias. Sache que la voix de Héracles frappe tes oreilles et que tu vois son visage. Je suis venu ici pour toi, ayant quitté la demeure Ouranienne, afin de te révéler les desseins de Zeus et de te barrer le chemin que tu te prépares à prendre. Écoute donc mes paroles. Je te rappellerai d'abord mes diverses fortunes et les innombrables travaux que j'ai subis et accomplis avant d'avoir conquis l'immortel honneur dont tu me vois revêtu. Sache bien qu'une telle destinée t'est faite, et que tu jouiras d'une glorieuse vie en retour de tes maux. Après que tu seras arrivé avec celui-ci, à la ville Troïque, tu guériras d'abord de ton mal terrible, et, choisi comme le plus brave de toute l'armée, à l'aide de mes flèches tu arracheras la vie à Pâris, cause de ces maux, et tu dévasteras Troie ; et, les dépouilles que tu auras reçues pour prix de ton courage, tu les enverras à ton père Poias, en ta demeure, dans les plaines qui sont aux pieds de l'Oita, ta patrie ; mais, pour celles que tu auras reçues de l'armée, porte-les à mon bûcher comme en hommage à mes flèches. Et toi, fils d'Achille, je t'avertis aussi : tu ne pourras renverser Troie sans lui, ni lui sans toi ; mais, tels que deux lions unis, ne vous séparez pas. J'enverrai à Hélios Asklepios qui te délivrera de ton mal ; car Hélios est destinée à être prise deux fois par mes flèches. Et souvenez-vous, quand vous dévasterez cette ville, d'honorer les dieux avec piété, car le père Zeus met la piété au-dessus de tout. La piété suit les mortels dans le Hadès, et, soit qu'ils vivent ou meurent, elle ne périt pas.
+
+N'apportez donc point de plus longs retards. Voici l'instant favorable : le vent souffle de la poupe.
+
+**** *creator_sophocle *book_sophocle_philoctete *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_philoctete *dist2_sophocle_prose_tragedy *id_LECHOEUR *date_1877 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lechoeur
+
 
 Maître, étranger sur cette terre étrangère, que dirai-je à cet homme défiant ? Enseigne-le-moi. En effet, la science de qui tient le sceptre divin de Zeus l'emporte sur la science de tous les autres, et le commandement suprême, ô fils, t'a été légué depuis les anciens âges. C'est pourquoi dis-moi comment je puis te servir.
 
@@ -829,4 +837,3 @@ Où ?
 Je serais retourné depuis longtemps à ma nef, si je ne voyais venir à nous Ulysse et le fils d'Achille.
 
 Partons donc tous ensemble, après avoir prié les Nymphes de la mer, afin qu'elles nous assurent le retour.
-

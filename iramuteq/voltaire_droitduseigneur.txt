@@ -2,6 +2,7 @@
 
 **** *creator_voltaire *book_voltaire_droitduseigneur *style_verse *genre_comedy *dist1_voltaire_verse_comedy_droitduseigneur *dist2_voltaire_verse_comedy *id_LEBAILLIF *date_1749 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebaillif
 
+
       Plaisante question !
 Eh ! Que t'importe ?
 
@@ -250,8 +251,8 @@ C'est qu'il pense beaucoup.
 
 C'est pour ton bien.
 
-
 **** *creator_voltaire *book_voltaire_droitduseigneur *style_verse *genre_comedy *dist1_voltaire_verse_comedy_droitduseigneur *dist2_voltaire_verse_comedy *id_MATHURIN *date_1749 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mathurin
+
 
 Écoutez-moi, monsieur le magister :
 Vous savez tout, du moins vous avez l'air
@@ -594,8 +595,8 @@ Défense à moi de lui parler... Je crève.
 Mais je l'aurai, car je suis fiancé :
 Consolons-nous, tout le mal est passé.
 
-
 **** *creator_voltaire *book_voltaire_droitduseigneur *style_verse *genre_comedy *dist1_voltaire_verse_comedy_droitduseigneur *dist2_voltaire_verse_comedy *id_DIGNANT *date_1749 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dignant
+
 
 Carre-toi bien ; mais songe qu'à présent
 On ne peut rien sans le consentement
@@ -715,8 +716,8 @@ En sa faveur.
 Il m'a parlé... Je ne sais quoi l'accable.
 Il est saisi d'un trouble inconcevable.
 
-
 **** *creator_voltaire *book_voltaire_droitduseigneur *style_verse *genre_comedy *dist1_voltaire_verse_comedy_droitduseigneur *dist2_voltaire_verse_comedy *id_ACANTE *date_1749 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_acante
+
 
       Hélas ! Très volontiers.
 
@@ -1175,8 +1176,8 @@ La vérité plaît à votre belle âme.
 
 Ah ! Je tombe à vos pieds...
 
-
 **** *creator_voltaire *book_voltaire_droitduseigneur *style_verse *genre_comedy *dist1_voltaire_verse_comedy_droitduseigneur *dist2_voltaire_verse_comedy *id_BERTHE *date_1749 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_berthe
+
 
       Qui m'a désobéi ?
 Qui contredit, s'il vous plaît, quand j'ordonne ?
@@ -1258,8 +1259,8 @@ Et l'on croirait, mon cher, à la façon
 Dont monseigneur regarde cette injure,
 Que c'est à lui qu'on a pris la future.
 
-
 **** *creator_voltaire *book_voltaire_droitduseigneur *style_verse *genre_comedy *dist1_voltaire_verse_comedy_droitduseigneur *dist2_voltaire_verse_comedy *id_COLETTE *date_1749 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colette
+
 
       Je t'y prends, traître !
 
@@ -1638,8 +1639,8 @@ On ne m'enlève point, et j'en enrage.
 On vient, adieu : suis ton brillant destin ;
 Et je retourne à mon gros Mathurin.
 
-
 **** *creator_voltaire *book_voltaire_droitduseigneur *style_verse *genre_comedy *dist1_voltaire_verse_comedy_droitduseigneur *dist2_voltaire_verse_comedy *id_CHAMPAGNE *date_1749 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_champagne
+
 
 Oui, nous avons terminé la campagne :
 Nous avons sauvé Metz, mon maître et moi ;
@@ -1706,4 +1707,3 @@ Est bien revêche.
       Je crois que nous sommes trahis ;
 C'est du secours qui vient aux ennemis :
 J'entends grand bruit, c'est monseigneur.
-

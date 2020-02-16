@@ -2,6 +2,7 @@
 
 **** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_theandre *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_theandre
 
+
 STANCES.
 
 La porte du Soleil est close,
@@ -451,8 +452,8 @@ Sa valeur se veut mal, d'avoir esté si lasche;
 Et sa foy vous promet avec du repentir,
 En ne manquant jamais, de n'en jamais sentir.
 
-
 **** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_rosilee *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosilee
+
 
 De quoy s'entretenoit la moitié de mon ame?
 
@@ -587,8 +588,8 @@ Pour le mesme aujourd'huy donnez-les à mes larmes;
 Sur la foy de Theandre il est icy venu;
 Reconnoissez le Roy, puis qu'il s'est reconnu.
 
-
 **** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_lucidan *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucidan
+
 
 La fortune me rit, le sort m'est favorable;
 Je suis autant heureux, que j'estois miserable;
@@ -1142,8 +1143,13 @@ Conserver apres nous cet acte plein de gloire;
 Et que de vostre Nom, les Siècles amoureux,
 Consacrent un Autel au VASSAL GENEREUX.
 
+**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_policrane *date_1636 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_policrane
+
+
+Monseigneur, le Roy sort,
 
 **** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_androphile *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_androphile
+
 
 L'esperance est le bien qui devance les autres;
 N'estant point de vertus qui ne paroissent aux vostres;
@@ -1250,8 +1256,8 @@ N'approchant point tes feux d'un tronc qui n'est que glace,
 Grave en ton souvenir, que par ton fol amour,
 Tu ravis la lumière à qui te mis au jour.
 
-
 **** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_glacitide *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_glacitide
+
  
 Ouy, je vous le permets, Theandre le merite:
 
@@ -1335,8 +1341,8 @@ Son regne sera franc⁎ de toute tyrannie;
 Et soyez asseurez qu'on vous verra benir,
 Le fidele Vassal qui l'a fait revenir.
 
-
 **** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_lindorante *date_1636 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lindorante
+
 
 Le respect vous oblige, et la raison aussi,
 D'esteindre, ou de couvrir ce feu qui brusle ainsi.
@@ -1394,8 +1400,8 @@ Mais gagnez le Palais, car ce peuple s'approche;
 Je finis à vos pieds, percé de part en part;
 Et je veux que mon corps vous serve de rempart.
 
-
 **** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_philidaspe *date_1636 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_philidaspe
+
 
 Ignorans Medecins, stupides que nous sommes,
 De mesurer les grands au vulgaire des hommes;
@@ -1480,8 +1486,8 @@ Le nombre excusera ce peu de lascheté;
 
 Sire consolez vous;
 
-
 **** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_perintor *date_1636 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_perintor
+
 
 Monsieur, soyez certain, que jamais Artesie,
 Puis que pour s'en servir Madame l'a choisie,
@@ -1525,8 +1531,8 @@ En mourant du premier, tu n'en feras point trois.
 
 Je vous attaqueray dans une autre saison⁎;
 
-
 **** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_artesie *date_1636 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_artesie
+
 
 Mon logis escarté trompera sa poursuite;
 Icy rien ne sçauroit empescher nostre fuite;
@@ -1591,8 +1597,28 @@ Entrez au champ de Mars, la barriere est ouverte:
 
 Je seray tousjours prest à vous faire raison.
 
+**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_alcaste *date_1636 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_alcaste
+
+
+Madame sauvez-vous, de crainte d'estre prise;
+Le logis de mon Maistre attaqué par le Roy,
+N'a pas un serviteur qui ne tremble d'effroy;
+Et ce Prince voyant son attente trompée,
+A porté sa colere au bout de son espée;
+Mais le peuple irrité ne pouvant l'endurer,
+Les armes à la main l'en a fait retirer;
+C'est à vous de choisir, quel conseil⁎ on doit prendre:
+
+**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_palinonde *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_palinonde
+
+
+Les Princes, le Senat, et le peuple Gaulois,
+Ne pouvant plus souffrir le desordre des Loix,
+Declarent Lucidan indigne de l'Empire;
+Ordonnant qu'il s'en aille, à peine d'avoir pire.
 
 **** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_rosimar *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rosimar
+
 
 Comment? peuple Gaulois, la valeur indomptée,
 De vos braves Ayeuls, est-elle surmontée?
@@ -1680,3 +1706,86 @@ Nos ames sans raison paroistroient obstinées;
 Theandre et vous, estant nostre unique souci⁎,
 Si vous estes contents, nous le sommes aussi.
 
+**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_menocrite *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_menocrite
+
+
+Illumine sa connoissance,
+Ayant le Sceptre en main:
+Et fais que d'un esprit humain,
+Il use bien de sa puissance:
+Qu'il esloigne ses pas de ce mauvais sentier,
+Où s'est perdu son devancier.
+
+Rosimar a dict vray, j'ay parlé par sa bouche;
+Il n'a de sentiment que celuy qui me touche;
+Vous seul devez regner; vous seul devez avoir
+Dessus le peuple Franc un absolu pouvoir.
+Desja dedans nos cœurs vous aviez un Empire;
+Apres un tel honneur des long-temps on souspire;
+Vos rares⁎ qualitez vous ont desja soubmis,
+L'Estat qu'à vos vertus la fortune a promis;
+Et puis qu'en me taisant il faut que je m'explique,
+La voix que je vous donne, est une voix publique.
+
+Que ce Manteau Royal couvre vostre personne;
+Reçevez de bon cœur la France qui le donne,
+Faisant voir à vos pieds les vices abatus,
+Ternissez son esclat, par celuy des vertus.
+
+**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_orchomene *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orchomene
+
+
+Fais que sa valeur indomptable,
+Digne d'un Potentat⁎
+Se puisse faire un bel Estat
+De toute la terre habitable;
+Et qu'en fin le Soleil à dix ans aujourd'huy,
+Se leve et se couche chez luy.
+
+Quand cét Estre infiny qui commande aux humains
+Le Sceptre universel auroit mis en vos mains,
+Il vous auroit donné moins que vostre merite:
+Certes pour la grandeur la terre est trop petite;
+Et l'Empire François s'estime fortuné,
+De recevoir la Loy d'un Prince si bien nay;
+Prince jeune, vaillant, sage, clement, et juste;
+Qui fera de son regne un Empire d'Auguste;
+Desja de vos vertus les peuples sont ravis;
+Et vous estes leur Roy, si l'on suit mon advis.
+
+Que vostre Majesté pour marque de puissance,
+Prenne le Sceptre d'or dont on regit la France;
+Que par luy puissiez-vous escarter le malheur,
+Et le faire adorer comme vostre valeur.
+
+**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_lucidame *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucidame
+
+
+Fais qu'une flame legitime,
+Puisse brusler son cœur,
+Et qu'Amour ce puissant vainqueur,
+Luy forme des desirs sans crime:
+Afin que sa main laisse à sa posterité,
+Un Sceptre qu'elle a merité.
+
+Qui pourroit s'opposer à ce chois legitime?
+Ne vouloir pas un Roy que l'Univers estime!
+Qui fait taire l'envie⁎, et qu'on ne peut haïr!
+Je tiens que c'est regner, que de vous obeïr.
+Vous avez une teste à porter la Couronne;
+On ne peut vous l'oster, car le Ciel vous la donne;
+Elle est fort espineuse, et le Sceptre est pesant;
+Mais de le soustenir ce bras est suffisant:
+Prenez donc la puissance, ayez la souveraine;
+Et puis qu'on vous fait Roy, faites nous une Reine:
+
+Cette main dans la vostre en faisant son office,
+Doit tenir la balance esgale à la Justice;
+Que le foible, et le fort, le petit et le grand,
+Soient pesez sans faveur dedans leur differend.
+
+**** *creator_scudery *book_scudery_vassalgenereux *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_vassalgenereux *dist2_scudery_verse_tragedy *id_citoyen *date_1636 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_citoyen
+
+
+Sans vouloir rechercher le conseil d'aucun autre,
+Que vostre volonté dispose de la nostre.

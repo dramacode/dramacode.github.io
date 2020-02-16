@@ -2,6 +2,7 @@
 
 **** *creator_boyer *book_boyer_artaxerce *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_artaxerce *dist2_boyer_verse_tragedy *id_artaxerce *date_1683 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_artaxerce
 
+
 Me fuyez-vous ? A qui puis-je avec assurance
 Confier mieux qu'à vous les troubles de mon coeur
 Chargé du nouveau soin⁎ de faire un Successeur ?
@@ -453,8 +454,8 @@ Et porter nos regrets au pied de leurs Autels.
 FIN.
 Permis d'imprimer. Fait ce 13. Janvier 1683. DE LA REYNIE.
 
-
 **** *creator_boyer *book_boyer_artaxerce *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_artaxerce *dist2_boyer_verse_tragedy *id_darius *date_1683 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_darius
+
 
 La Perse enfin triomphe ; et des Grecs ennemis,
 Ce qui restoit à vaincre, est défait⁎, ou soûmis.
@@ -843,8 +844,8 @@ L'hymen de Nitocris me rendroit-il ma gloire ?
 La vie est-elle un bien avec tant d'infamie ?
 La vie est-elle un bien à qui perd Aspasie ?
 
-
 **** *creator_boyer *book_boyer_artaxerce *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_artaxerce *dist2_boyer_verse_tragedy *id_aspasie *date_1683 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_aspasie
+
 
 Ma fortune est sans-doute illustre, et non commune ;
 Mais je sens des malheurs plus grands que ma fortune.
@@ -1195,8 +1196,8 @@ Moy, de tant de malheurs la cause infortunée,
 Seigneur, à vivre encor m'auriez-vous condamnée ?
 Eteignez dans mon sang ces malheureux appas.
 
-
 **** *creator_boyer *book_boyer_artaxerce *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_artaxerce *dist2_boyer_verse_tragedy *id_tiribaze *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tiribaze
+
  
 Il brûle de le faire, et malgré tant d'ardeur,
 Il plaint Ariarathe, et son inquiétude
@@ -1514,8 +1515,8 @@ Le salut de l'Etat, la sûreté des Roys.
 
 Rien ne peut nous vanger que le sang de son Fils.
 
-
 **** *creator_boyer *book_boyer_artaxerce *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_artaxerce *dist2_boyer_verse_tragedy *id_nitocris *date_1683 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_nitocris
+
 
 Quel succés attend-il, Seigneur, de vostre zele ?
 A son Frere, à vous-mesme, estes-vous infidelle ?
@@ -1744,8 +1745,8 @@ La haine d'un Rival trop aimé d'Aspasie,
 Un exemple à donner, des Loix à maintenir,
 Un affront à vanger, un grand crime à punir.
 
-
 **** *creator_boyer *book_boyer_artaxerce *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_artaxerce *dist2_boyer_verse_tragedy *id_oronte *date_1683 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_oronte
+
 
 Oüy, Seigneur. Mais je voy qu'entre ses Fils jaloux
 Le Roy ne distinguant qu'Ariarathe et vous,
@@ -1853,8 +1854,8 @@ A ce mot il succombe, et cede à sa foiblesse ;
 Son cœur qui veut parler, ne fait que soûpirer,
 Et par ce vain effort acheve d'expirer.
 
-
 **** *creator_boyer *book_boyer_artaxerce *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_artaxerce *dist2_boyer_verse_tragedy *id_barsine *date_1683 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_barsine
+
 
 Quel que soit le sujet de vostre inquiétude,
 Vous ne pouvez sans honte, et sans ingratitude,
@@ -1882,8 +1883,8 @@ Nitocris…
 D'un si prompt changement estes-vous allarmée ?
 Je vous voy condamner, et craindre ses ardeurs.
 
-
 **** *creator_boyer *book_boyer_artaxerce *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_artaxerce *dist2_boyer_verse_tragedy *id_cleonne *date_1683 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cleonne
+
 
       Quelque espoir dont Darius vous flate,
 Le tendre Ariarathe a pour vous tant d'ardeur…
@@ -1904,8 +1905,8 @@ Quelle est cette allégresse au milieu des allarmes ?
 Vous entendez par tout un bruit de voix et d'armes ;
 On voit par tout du sang, des Mourans, et des Morts.
 
-
 **** *creator_boyer *book_boyer_artaxerce *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_artaxerce *dist2_boyer_verse_tragedy *id_mindate *date_1683 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_mindate
+
 
 Le Peuple est discret, Seigneur, mais quelquefois
 Le Ciel le fait parler pour avertir les Roys.
@@ -1927,4 +1928,3 @@ Seigneur, le Prince est là, qui demande à vous voir.
  
       Oüy, Seigneur, et plein de desespoir,
 J'ay vû sur son visage une douleur mortelle.
-

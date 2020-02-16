@@ -2,6 +2,7 @@
 
 **** *creator_gueullette *book_gueullette_chasteisabelle *style_prose *genre_farce *dist1_gueullette_prose_farce_chasteisabelle *dist2_gueullette_prose_farce *id_GILLES *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
 
+
 Il me paraît notre maître qu'il y a bien du train dans votre quartier, le vielleux a joué toute la nuit ; hier au soir on a montré la curiosité.
 
 Pardienne je le crois qu'ils ont du moyen.
@@ -28,8 +29,8 @@ Je vous laisse tous deux ensemble, vous n'avez pardienne pas besoin de moi pour 
 
 Allez, Messieurs, faites la paix, croyez-moi, je vais boire à votre santé. Voilà ce que c'est que de vouloir souper dehors.
 
-
 **** *creator_gueullette *book_gueullette_chasteisabelle *style_prose *genre_farce *dist1_gueullette_prose_farce_chasteisabelle *dist2_gueullette_prose_farce *id_ISABELLE *date_1720 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
 
 Ah ! Bonjour donc Léandre, pourquoi n'êtes-vous pas venu hier chez nous comme à l'accoutumée ?
 
@@ -126,4 +127,3 @@ Ah ! Mon cher amant, ne les tuez pas.
 Qui va là ?
 
 Qui vous ?
-

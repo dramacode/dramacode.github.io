@@ -2,6 +2,7 @@
 
 **** *creator_voltaire *book_voltaire_originaux *style_prose *genre_comedy *dist1_voltaire_prose_comedy_originaux *dist2_voltaire_prose_comedy *id_MONSIEURDUCAPVERT *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurducapvert
 
+
 Eh ! Ouvrez, ventrebleu ! Voici une rade bien difficile : il y a une heure que je parcours ce bâtiment sans pouvoir trouver le patron. Où est donc le président et la présidente ? Et où est Fanchon ?
 
 Petit mousse, je te ferai donner la cale.
@@ -170,8 +171,8 @@ Moi, je renonce à la mer pour le reste de ma vie.
 
 Je partage mon bien entre mes enfants, et donne cet étourdi-ci à cette étourdie-là. Je ne suis pas si malheureux : il est vrai que j'ai retrouvé ma femme ; mais puisque le ciel me redonne aussi mes deux enfants, ne pensons plus qu'à nous réjouir. J'ai amené quelques Turcs avec moi, qui vont vous donner un petit ballet en attendant la noce.
 
-
 **** *creator_voltaire *book_voltaire_originaux *style_prose *genre_comedy *dist1_voltaire_prose_comedy_originaux *dist2_voltaire_prose_comedy *id_LACOMTESSE *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lacomtesse
+
 
 Nous descendons, madame.
 
@@ -321,8 +322,8 @@ Voyez si vous êtes honnête homme, et si vous tiendrez vos promesses.
 
 Dieu m'en préserve ! J'ai été trop maltraitée sous ce titre. Contentez-vous d'être fils de votre père, gendre de votre beau-père, et mari de votre femme.
 
-
 **** *creator_voltaire *book_voltaire_originaux *style_prose *genre_comedy *dist1_voltaire_prose_comedy_originaux *dist2_voltaire_prose_comedy *id_FANCHON *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fanchon
+
 
 Est-ce vous, Monsieur le Chevalier ?
 
@@ -564,8 +565,8 @@ Mon cher monsieur le comte...
 
 Ma chère dame, embrassez-moi. Mon Dieu ! Que je suis aise de vous voir !
 
-
 **** *creator_voltaire *book_voltaire_originaux *style_prose *genre_comedy *dist1_voltaire_prose_comedy_originaux *dist2_voltaire_prose_comedy *id_MADAMEDUCAPVERT *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameducapvert
+
 
 C'est donc ici la maison du président Bodin ?
 
@@ -614,8 +615,8 @@ Assurément, cela va tout seul, n'est-il pas vrai, madame Rafle ? Vous savez com
 
 Allons, allons, n'en parlons plus. J'ai retrouvé mes trois vagabonds tout cela est à moi.
 
-
 **** *creator_voltaire *book_voltaire_originaux *style_prose *genre_comedy *dist1_voltaire_prose_comedy_originaux *dist2_voltaire_prose_comedy *id_MONSIEURDELETRIER *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdeletrier
+
 
 Monseigneur, voici votre lingère, votre baigneur, votre parfumeur, votre rôtisseur, votre doreur, votre sellier, votre éperonnier, votre bijoutier, votre usurier, qui attendent dans l'antichambre, et qui demandent tous de l'argent.
 
@@ -655,8 +656,13 @@ Oui, monseigneur ;
 
 Oui, la vieille, c'est la maison du président Bodin ; mais c'est ici chez monsieur le comte.
 
+**** *creator_voltaire *book_voltaire_originaux *style_prose *genre_comedy *dist1_voltaire_prose_comedy_originaux *dist2_voltaire_prose_comedy *id_CHAMPAGNE *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_champagne
+
+
+Elle est morte ce matin.
 
 **** *creator_voltaire *book_voltaire_originaux *style_prose *genre_comedy *dist1_voltaire_prose_comedy_originaux *dist2_voltaire_prose_comedy *id_NUITBLANCHE *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nuitblanche
+
 
 Monsieur ?
 
@@ -672,3 +678,9 @@ Eh ! De grâce, monsieur, où avez-vous déjà fait connaissance avec cette demo
 
 Ah ! Monsieur, nous sommes perdus ! Voici des gens avec une arquebuse.
 
+**** *creator_voltaire *book_voltaire_originaux *style_prose *genre_comedy *dist1_voltaire_prose_comedy_originaux *dist2_voltaire_prose_comedy *id_MADAMERAFLE *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamerafle
+
+
+Eh ! Mon Dieu oui ! Je les reconnais... Bonjour, mes deux espiègles. Comme cela est devenu grand !
+
+On ne peut pas s'y méprendre : voilà vingt marques indubitables auxquelles je les reconnais.

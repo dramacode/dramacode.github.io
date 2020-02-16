@@ -2,6 +2,7 @@
 
 **** *creator_marivaux *book_marivaux_denouementimprevu *style_prose *genre_comedy *dist1_marivaux_prose_comedy_denouementimprevu *dist2_marivaux_prose_comedy *id_MONSIEURARGANTE *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurargante
 
+
 Avec qui étais-tu là ?
 
 Eh ! Qui est-il ce quelqu'un ?
@@ -151,8 +152,8 @@ J'en suis charmé. Ne songeons donc plus qu'à nous réjouir ; et que, pour marq
 
 Laisse là Dorante.
 
-
 **** *creator_marivaux *book_marivaux_denouementimprevu *style_prose *genre_comedy *dist1_marivaux_prose_comedy_denouementimprevu *dist2_marivaux_prose_comedy *id_MADEMOISELLEARGANTE *date_1724 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoiselleargante
+
 
 Il me semble que mon père sort fâché d'avec toi. De quoi parliez-vous ?
 
@@ -292,8 +293,8 @@ Oui, mon père.
 
 Si vous vouliez bien lui parler, mon père ; on lui doit un peu d'égard, et cela me tirerait d'embarras avec lui.
 
-
 **** *creator_marivaux *book_marivaux_denouementimprevu *style_prose *genre_comedy *dist1_marivaux_prose_comedy_denouementimprevu *dist2_marivaux_prose_comedy *id_DORANTE *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+
 
 Je suis au désespoir, mon pauvre maître Pierre : je ne sais que devenir.
 
@@ -327,8 +328,8 @@ Eh ! Pourquoi l'oubliez-vous ?
 
 Adieu, Madame ; songez que mon bonheur dépend de vous.
 
-
 **** *creator_marivaux *book_marivaux_denouementimprevu *style_prose *genre_comedy *dist1_marivaux_prose_comedy_denouementimprevu *dist2_marivaux_prose_comedy *id_ERASTE *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+
 
 Je m'y rends avec un grand plaisir, Monsieur. Crispin vous aura dit sans doute ce que je souhaite que vous m'accordiez ?
 
@@ -408,8 +409,8 @@ Je vous adore ; et puisque vous haïssez la campagne, je ne saurais plus la souf
 
 Je te les donne de bon coeur, moi.
 
-
 **** *creator_marivaux *book_marivaux_denouementimprevu *style_prose *genre_comedy *dist1_marivaux_prose_comedy_denouementimprevu *dist2_marivaux_prose_comedy *id_MAITREPIERRE *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maitrepierre
+
 
 Eh ! Marguenne, arrêtez-vous donc ! Voute lamentation me corrompt toute ma balle humeur.
 
@@ -536,8 +537,8 @@ Il m'avait pourmis cinquante pistoles, si vous deveniez sa femme : baillez-m'en 
 
 C'est marché fait : chantez et dansez à votre aise, à cette heure, je n'y mets pus d'empêchement.
 
-
 **** *creator_marivaux *book_marivaux_denouementimprevu *style_prose *genre_comedy *dist1_marivaux_prose_comedy_denouementimprevu *dist2_marivaux_prose_comedy *id_LISETTE *date_1724 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
 Eh bien ?
 
@@ -581,8 +582,8 @@ Eh ! Oui, cela va sans dire : retirons-nous ; je crois que votre père est reven
 
 Oui, Monsieur ; elle repose.
 
-
 **** *creator_marivaux *book_marivaux_denouementimprevu *style_prose *genre_comedy *dist1_marivaux_prose_comedy_denouementimprevu *dist2_marivaux_prose_comedy *id_CRISPIN *date_1724 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
+
 
 Monsieur, je viens de dix lieues d'ici, vous dire que je suis votre serviteur.
 
@@ -605,4 +606,3 @@ Vertuchou, Monsieur ! Vous ne savez pas ce que c'est que l'oreille d'une femme. 
 Oh ! La surdité lève tout scrupule ; et cela étant, je vous dirai sans façon que Monsieur Eraste va venir ; mais qu'il vous prie de ne point dire à sa future que c'est lui, parce qu'il se fait un petit ragoût de la voir sous le nom seulement d'un ami dudit Monsieur Eraste ; ainsi ce n'est point lui qui va venir, et c'est pourtant lui ; mais lui sous la figure d'un autre que lui : ce que je dis là n'est-il pas obscur ?
 
 Je crois que le voilà ; c'est lui-même. À présent je vais chercher mes ballots et les siens ; mais de grâce, avant que de partir, souffrez, Monsieur, que je vous recommande mon coeur ; il est sans condition, daignez lui en trouver une.
-

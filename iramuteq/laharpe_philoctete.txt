@@ -2,6 +2,7 @@
 
 **** *creator_laharpe *book_laharpe_philoctete *style_verse *genre_tragedy *dist1_laharpe_verse_tragedy_philoctete *dist2_laharpe_verse_tragedy *id_PHILOCTETE *date_1783 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philoctete
 
+
 Hélas ! Au nom des dieux, qui que vous puissiez être,
 Étrangers que les vents dans cette île ont portés,
 D'où venez-vous chercher ces bords inhabités ?
@@ -612,8 +613,8 @@ Partons, brave Pyrrhus, avec les vents propices.
 Remplissons le destin qui, nous est confié :
 Je sers, en vous suivant, les dieux et l'amitié.
 
-
 **** *creator_laharpe *book_laharpe_philoctete *style_verse *genre_tragedy *dist1_laharpe_verse_tragedy_philoctete *dist2_laharpe_verse_tragedy *id_ULYSSE *date_1783 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulysse
+
 
 Nous voici dans Lemnos, dans cette île sauvage,
 Dont jamais nul mortel n'habita le rivage.
@@ -842,8 +843,8 @@ Et la peine du moins suivra de près l'offense.
       Non, ne l'espérez pas,
 Ulysse et tous les Grecs arrêteront vos pas.
 
-
 **** *creator_laharpe *book_laharpe_philoctete *style_verse *genre_tragedy *dist1_laharpe_verse_tragedy_philoctete *dist2_laharpe_verse_tragedy *id_PYRRHUS *date_1783 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pyrrhus
+
 
 Au premier de vos soins je m'en vais satisfaire.
 Oui, je crois voir déjà ce sauvage repaire,
@@ -1298,3 +1299,31 @@ Vous les tenez de moi.
 Écoutez, leur voix parle, entendez le tonnerre :
 Leur pouvoir se déclare.
 
+**** *creator_laharpe *book_laharpe_philoctete *style_verse *genre_tragedy *dist1_laharpe_verse_tragedy_philoctete *dist2_laharpe_verse_tragedy *id_HERCULE *date_1783 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hercule
+
+
+Arrête, et reconnais Hercule et ton ami.
+Je descends pour toi seul de la voûte éternelle.
+Je partage des dieux la grandeur immortelle.
+Tu sais par quel chemin je m'y suis élevé :
+Par les mêmes travaux tu dois être éprouvé.
+Ton sort est de marcher dans les sentiers d'Alcide ;
+Suis ce jeune héros qui s'offre pour ton guide.
+La Grèce sur tes pas conduira ses guerriers,
+Et le sang de Pâris doit teindre tes lauriers.
+Sa vie est dévouée aux flèches que tu portes.
+Du coupable Ilion tu briseras les portes.
+Pour Pyrrhus et pour loi les destins ont gardé
+Ce triomphe éclatant, si longtemps retardé.
+Allez chercher tous deux votre commune proie ;
+Présente au vieux Poean les dépouilles de Troie ;
+Mais, lorsqu'en son palais tu rentreras vainqueur,
+Rapportant dans OEta le prix de ta valeur,
+Sur le tombeau d'Alcide offres-en les prémices ;
+À mes flèches, à moi tu dois ces sacrifices.
+Va, de ta guérison Esculape est chargé.
+Rends grâce aux immortels qui t'auront protégé.
+Honore-les toujours : ta gloire est leur ouvrage ;
+D'un coeur religieux ils chérissent l'hommage :
+Et la pure vertu, le plus beau don des cieux,
+Ne meurt point avec l'homme, et se rejoint aux dieux.

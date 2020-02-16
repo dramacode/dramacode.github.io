@@ -2,6 +2,7 @@
 
 **** *creator_regnard *book_regnard_serenade *style_prose *genre_comedy *dist1_regnard_prose_comedy_serenade *dist2_regnard_prose_comedy *id_MONSIEURGRIFON *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgrifon
 
+
 Je vous donnai, il y a huit jours, un sac de mille francs à faire valoir, dont j'ai votre billet, Monsieur Mathieu.
 
 Nous sommes convenus à trois mille huit cents livres ; ce sont encore deux cents louis qu'il faut vous donner pour le collier, Monsieur Mathieu.
@@ -195,8 +196,8 @@ Comment donc ?
 
 Double pendard ! Ah ! Je suis assassiné ! Quelle maudite journée ! Non je ne veux jamais entendre parler, ni de fils, ni de maîtresse, ni d'amour, ni de mariage, et je vous donne à tous les diables.
 
-
 **** *creator_regnard *book_regnard_serenade *style_prose *genre_comedy *dist1_regnard_prose_comedy_serenade *dist2_regnard_prose_comedy *id_VALERE *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+
 
 Eh bien ! Scapin, apprends-moi des nouvelles de Léonor. L'as-tu vue ? Que t'a dit Marine ?
 
@@ -288,8 +289,8 @@ Je n'irai pas loin.
 Ah ! Tout beau, s'il vous plaît, mon père : je vous ai dit que je vous le ferais voir, mais je ne vous ai pas dit que je vous le rendrais. Quand une fille se marie, elle a besoin d'un collier. En voilà un tout trouvé.
 Je vous prie, mademoiselle, de l'accepter pour l'amour de moi.
 
-
 **** *creator_regnard *book_regnard_serenade *style_prose *genre_comedy *dist1_regnard_prose_comedy_serenade *dist2_regnard_prose_comedy *id_MADAMEARGANTE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameargante
+
 
 Allons, ma fille, approchez, et saluez le mari que je vous ai destiné.
 
@@ -315,8 +316,8 @@ Et moi, je vous réponds de cette petite impertinente-là ; elle vous épousera,
 
 Ne vous mettez pas en peine ; je saurai la réduire ; elle sera votre femme aujourd'hui, ou vous mourrez de mort subite.
 
-
 **** *creator_regnard *book_regnard_serenade *style_prose *genre_comedy *dist1_regnard_prose_comedy_serenade *dist2_regnard_prose_comedy *id_SCAPIN *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scapin
+
 
 Bonjour, ma charmante.
 
@@ -549,8 +550,8 @@ Vous voulez bien, monsieur, que je vous fasse aussi mes petites excuses, et que 
 
 J'offre ici mon savoir-faire à tous ceux qui n'ont point d'argent ; je crois que le nombre en est grand, et je n'aurai pas peu d'affaire. Malgré toute ma ressource, gardez-vous d'un sexe enchanteur : non content de prendre le coeur, il en veut encore à la bourse.
 
-
 **** *creator_regnard *book_regnard_serenade *style_prose *genre_comedy *dist1_regnard_prose_comedy_serenade *dist2_regnard_prose_comedy *id_MARINE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marine
+
 
 Je vous dis encore une fois que madame n'est pas au logis, et qu'il faut que vous reveniez, si vous voulez lui parler.
 
@@ -660,8 +661,8 @@ Oui, monsieur, c'est nous qui avons fait le coup.
 
 Tant mieux : voilà peut-être la première chose qu'il ait donnée de sa vie.
 
-
 **** *creator_regnard *book_regnard_serenade *style_prose *genre_comedy *dist1_regnard_prose_comedy_serenade *dist2_regnard_prose_comedy *id_CHAMPAGNE *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_champagne
+
 
 Hé ! C'est toi, mon pauvre Scapin !
 
@@ -734,4 +735,3 @@ Je ne trouve rien, la peste m'étouffe. Je l'avais pourtant avant que d'aller au
 Oh ! Vous en demandez trop. Quand on a bu, on ne peut pas retrouver sa maison, vous voulez que je retrouve un billet : il n'y a pas de raison à cela.
 
 Écoutez, ne nous brouillons point. J'étais de sang froid quand je l'ai perdu, je le retrouverai quand je serai de sang froid, cela est infaillible. Jusqu'au revoir.
-

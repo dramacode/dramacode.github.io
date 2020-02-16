@@ -2,6 +2,7 @@
 
 **** *creator_voltaire *book_voltaire_sophonisbe *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_sophonisbe *dist2_voltaire_verse_tragedy *id_SCIPION *date_1774 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scipion
 
+
       Je viens vous embrasser.
 J'ai su votre faiblesse, et j'en ai craint la suite.
 Vous devez pardonner si de votre conduite
@@ -130,8 +131,8 @@ Malheureux ! qu'as-tu fait ?
 Grands dieux ! puissé-je un jour, ayant dompté Carthage,
 Quitter Rome et la vie avec même courage !
 
-
 **** *creator_voltaire *book_voltaire_sophonisbe *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_sophonisbe *dist2_voltaire_verse_tragedy *id_LELIE *date_1774 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lelie
+
 
 Votre âme impatiente était trop alarmée
 Des bruits qu'a répandus l'aveugle renommée.
@@ -311,8 +312,8 @@ Se cacheront dans l'ombre en voyant Scipion.
 
 Que tous deux sont à plaindre !
 
-
 **** *creator_voltaire *book_voltaire_sophonisbe *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_sophonisbe *dist2_voltaire_verse_tragedy *id_SYPHAX *date_1774 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_syphax
+
 
 Se peut-il qu'à ce point l'ingrate me trahisse ?
 Sophonisbe ! Ma femme ! Écrire à Massinisse !
@@ -397,8 +398,8 @@ Laissez-moi : fuyez-moi ; vos remords me suffisent.
       Demeurez, je l'ordonne : je pars ;
 Et Syphax en tombant ne veut point vos regards.
 
-
 **** *creator_voltaire *book_voltaire_sophonisbe *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_sophonisbe *dist2_voltaire_verse_tragedy *id_SOPHONISBE *date_1774 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sophonisbe
+
 
 Que voulez-vous, Syphax ? Et quelle tyrannie
 Traîne ici votre épouse avec ignominie ?
@@ -778,8 +779,8 @@ Souviens-toi de ma gloire : adieu, jusqu'à ma mort.
 Achève de m'ôter ce fardeau de la vie.
 Digne époux, je meurs libre, et je meurs dans tes bras.
 
-
 **** *creator_voltaire *book_voltaire_sophonisbe *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_sophonisbe *dist2_voltaire_verse_tragedy *id_MASSINISSE *date_1774 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_massinisse
+
 
 Sophonisbe me fuit.
 
@@ -1269,8 +1270,8 @@ Me délivre à la fois d'un tyran et d'un traître.
 Je meurs chéri des miens, qui vengeront leur maître :
 Va, je ne veux pas même un tombeau de tes mains.
 
-
 **** *creator_voltaire *book_voltaire_sophonisbe *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_sophonisbe *dist2_voltaire_verse_tragedy *id_ACTOR *date_1774 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_actor
+
 
 Reine, dans ce moment le secours de Carthage
 Sous nos remparts sanglants s'est ouvert un passage ;
@@ -1354,8 +1355,8 @@ Je reviens à vos pieds périr ou vous défendre.
 
 Que de maux à la fois accumulés sur nous !
 
-
 **** *creator_voltaire *book_voltaire_sophonisbe *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_sophonisbe *dist2_voltaire_verse_tragedy *id_ALAMAR *date_1774 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alamar
+
 
 Sous votre loi, seigneur, ils n'auraient rien à craindre
 Mais on craint les Romains, ces cruels conquérants,
@@ -1399,8 +1400,8 @@ Le succès en est sûr, et tout nous favorise :
 Nous suivons Massinisse ; et ces tyrans surpris
 Vont payer de leur sang leur superbe mépris.
 
-
 **** *creator_voltaire *book_voltaire_sophonisbe *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_sophonisbe *dist2_voltaire_verse_tragedy *id_PHAEDIME *date_1774 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phaedime
+
 
       Il vous laisse, et vous devez tout craindre.
 Je vous vois tous les deux également à plaindre :
@@ -1478,4 +1479,3 @@ Par le roi Massinisse entre vos mains remise,
 Va bientôt, à vos pieds déposant sa douleur,
 Reconnaître dans vous son maître et son vainqueur ;
 Elle est prête à partir.
-

@@ -2,6 +2,7 @@
 
 **** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *id_MADAMELOURDIS *date_1780 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamelourdis
 
+
 Monsieur, je ne puis rien répondre à tout cela. Mais voilà mon mari ; expliquez-vous avec lui.
 
 Pourquoi donc porte-t-il l'uniforme ?
@@ -48,8 +49,8 @@ Un valet, ah Ciel ! Et ma fille ?
 
 Mais je compte bien vous la tenir aussi.
 
+**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *id_ANGELIQUE *date_1780 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_angelique
 
-**** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *id_ANGELIQUE *date_1780 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_angelique
 
 Mais, mon père...
 
@@ -69,17 +70,8 @@ Ciel !
 
 Ma mère, que je vous aurai d'obligation !
 
-Si l'amour est une folie,
-Au moins il promet d'heureux jours ;
-D'une agréable Comédie,
-Il nous représente le cours.
-Réservons la sagesse,
-Pour confidente au sentiment,
-Pour notre intrigue adoptons la tendresse,
-Et le bonheur pour dénouement.
-
-
 **** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *id_LISETTE *date_1780 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
 Mais écoute donc...
 
@@ -171,17 +163,8 @@ Vous, Monsieur, vous êtes une des dupes en question.
 
 Consolez-vous, allez, Monsieur, où le rôle de l'Amant commence, celui de rival est fini.
 
-Quand pour épouser une Belle
-On amène un Provincial,
-La Scène s'entame avec elle,
-Presque toujours par un Rival.
-C'est l'amant de Province,
-Malgré le Papa, la Maman,
-Qui fait toujours le rôle le plus mince,
-Et s'en retourne au dénouement.
-
-
 **** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *id_MADAMEFINOT *date_1780 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamefinot
+
 
 Ce n'est pas parce que Finot est mon fils, mais je vous réponds qu'il jouera bien son rôle.
 
@@ -218,8 +201,8 @@ Madame, vous m'avez donné votre parole, et je m'y tiens.
 
 À la bonne heure, j'y consens.
 
-
 **** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *id_FINOTFILS *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_finotfils
+
 
 Eh bien, beau-père, vous nous laissez tous seuls ?
 
@@ -283,17 +266,8 @@ Oui-da, oh bien, Monsieur, vous m'avez dupé à la répétition ; mais ne compte
 
 À condition qu'il n'y aura pas de Comédie pour la noce toujours.
 
-La peste soit de la manie,
-Qu'on a de se moquer des gens ;
-Vous vous donnez la Comédie,
-Je le vois trop, à mes dépens.
-Si jamais on m'occupe
-D'autre rôle en pareil moment,
-Je promets bien, de peur d'être encore dupe,
-D'aller tout droit au dénouement.
-
-
 **** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *id_VALERE *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+
 
 Ah ! Monsieur, prenez pitié d'un amoureux passionné qui n'a plus d'espérance qu'en vous.
 
@@ -349,17 +323,8 @@ Mettez Monsieur, Capitaine au Régiment de...
 
 Vous voyez bien, c'est naturel comme cela. Mais vous ne devez pas l'entendre, vous, parce qu'il est censé qu'on vous trompe...
 
-Dans la richesse et la fortune
-Faire consister le bonheur,
-Cette erreur n'est que trop commune,
-Mais n'a jamais séduit mon cœur.
-Ah ! si dans cette vie
-Nous disposons d'un seul moment ;
-Si ce moment n'est qu'une Comédie,
-Qu'amour en soit le dénouement.
-
-
 **** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *id_FRONTIN *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+
 
 Mon pauvre maître ! Ah ! Quel malheur ! Il en mourra !
 
@@ -543,17 +508,8 @@ Et pour que la fête soit complète, Monsieur, admirez notre prévoyance, nous a
 
 Vous n'attendrez pas longtemps, entrez, Messieurs.
 
-En vain dans une Comédie,
-L'auteur traite un plaisant sujet,
-Si vous n'approuvez sa folie,
-Il aura manqué son objet.
-Mais quand votre suffrage,
-L'accueille favorablement,
-Alors il voit couronner son Ouvrage
-Par le plus heureux dénouement.
-
-
 **** *creator_archambault *book_archambault_comediealimpromptu *style_prose *genre_comedy *dist1_archambault_prose_comedy_comediealimpromptu *dist2_archambault_prose_comedy *id_BONNEFOI *date_1780 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bonnefoi
+
 
 Pour vous servir, Monsieur ; voici le contrat que vous m'avez fait demander.
 
@@ -576,4 +532,3 @@ Comment, une Comédie !
 Je le crois. Ma foi, mon cher Monsieur, je ne sais si vous avez cru jouer une Comédie, ni quel rôle vous avez dû y remplir ; mais vous savez du moins que le Notaire est réel, et je puis vous assurer que le dénouement est véritable.
 
 Effectivement, Monsieur, les choses font bien avancées maintenant. Le contrat est signé, l'on ne peut plus s'en dédire... Mais je connais Monsieur, et je puis vous assurer que c'est un très bon parti pour Mademoiselle.
-

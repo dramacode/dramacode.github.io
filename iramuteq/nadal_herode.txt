@@ -2,6 +2,7 @@
 
 **** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *id_HERODE *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_herode
 
+
 Que vois-je, mes enfants ? Qu'ai-je entendu, ma fille ?
 Quel désordre nouveau divise ma famille ?
 Et par quel attentat prompte à se signaler,
@@ -410,8 +411,8 @@ Arrête malheureux ! C'est le sang de ton père :
 Il est sacré pour toi ; n'en souille point ton bras,
 Et laisse à ma fureur le soin de mon trépas.
 
-
 **** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *id_ALEXANDRE *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alexandre
+
 
 Que fait le Roi ?
 
@@ -851,8 +852,8 @@ Prêt à bénir la main...
 
 Vous allez être instruit, Seigneur, de tous mes crimes.
 
-
 **** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *id_ANTIPATER *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antipater
+
 
       Madame, c'en est fait,
 De vos bontés pour moi je n'attends plus l'effet,
@@ -959,8 +960,8 @@ Arbitre de ses jours...
       Je conçois vos desseins : il suffit.
 Adieu, Madame.
 
-
 **** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *id_GLAPHIRA *date_1709 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_glaphira
+
 
 Phénice, connais mieux sa cruelle ennemie.
 Les caresses du Roi, l'appui de l'Empereur,
@@ -1117,8 +1118,8 @@ Ne crois pas seul ici lui disposer l'empire.
 Il est à ton amour un obstacle fatal :
 Mais il n'est pas le seul ... Hérode est ton rival.
 
-
 **** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *id_SALOME *date_1709 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_salome
+
 
 Oui, des desseins qu'enfante un trop juste courroux,
 Ma prudence, Philon, se repose sur vous.
@@ -1507,8 +1508,8 @@ Par tes maux désormais ose compter mes crimes.
 Adieu. De tant d'horreurs si j'ai rempli ton sort,
 Je te laisse du moins l'exemple de ma mort.
 
-
 **** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *id_THIRRON *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thirron
+
 
 Arrête ici, Thirron. Alexandre en ces lieux,
 En entrant chez le Roi, va s'offrir à tes yeux.
@@ -1703,8 +1704,30 @@ Voilà ce que mon coeur me pressait de t'apprendre.
 Tu peux punir l'audace où j'ose recourir :
 Mais qui brave un Tyran ne craint point de mourir.
 
+**** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *id_NARBAL *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_narbal
+
+
+Qu'ai-je donc vu, Seigneur ? Et quel ressentiment
+A produit tout à coup un affreux changement ?
+Déjà tout bénissait la bonté paternelle :
+Cependant, entouré d'une troupe cruelle ,
+Alexandre en ces lieux...
+
+Quelle fatalité vous dérobe à vous-même
+De ses persécuteurs le cruel stratagème ?
+Déjà même Philon, sous les coups expiré,
+Par le peuple en fureur vient d'être déchiré.
+Tout Solime est instruit de ses noirs artifices ;
+Et peut-être, Seigneur, veut d'autres sacrifices.
+La triste Glaphira cède à son désespoir ;
+Tous les coeurs à ses cris se laissent émouvoir :
+Et tremblant du péril qui menace Alexandre,
+Antipater lui-même armé pour le défendre...
+
+Seigneur...
 
 **** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *id_PHILON *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philon
+
 
 Madame, je ferai tout ce que j'ai promis.
 
@@ -1827,8 +1850,8 @@ Du départ à mes soins remettez la conduite.
 Laissez-moi partager le péril et la fuite.
 Quel qu'en soit le succès heureux, ou malheureux...
 
-
 **** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *id_ACHAS *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achas
+
 
 Seigneur, je viens savoir vos volontés dernières
 Le Conseil les attend, tout prêt à prononcer.
@@ -1869,8 +1892,32 @@ Et de sa part Thirron vous demande audience.
 
 Juste Ciel !
 
+**** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *id_PHENICE *date_1709 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phenice
+
+
+Madame, enfin le Ciel touché de vos alarmes ;
+Va tarir pour jamais la source de vos larmes ;
+Alexandre lui-même à vos désirs rendu,
+Va presser un hymen si longtemps attendu ;
+Par ses derniers malheurs sa faveur affermie...
+
+Madame, je sais trop que la faveur de Rome,
+Que son retour aigrit la haine de Salomé ;
+Mais en vous son destin trouve un nouvel appui ;
+Contre elle dans ces lieux vous pouvez tout lui.
+Vous allez écarter les pièges qu'on lui dresse.
+Vous savez que le Roi vous aime avec tendresse ;
+Que souvent plus farouche, et noyé dans ses pleurs,
+Votre seule présence a calmé ses fureurs.
+Il croit revoir en vous tous les traits de la Reine.
+
+Du trouble de vos sens quelle est la violence ?
+Quoi, Madame, tout cède à votre impatience ?
+Mille soins différents auront pu retenir
+Un amant sur ses pas ardent à revenir.
 
 **** *creator_nadal *book_nadal_herode *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_herode *dist2_nadal_verse_tragedy *id_PHEDIME *date_1709 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phedime
+
 
 Ô Ciel ! Que faites-vous, Madame, en quelles mains
 Osez-vous confier de semblables desseins ?
@@ -1908,4 +1955,3 @@ De Rome ainsi pour lui vous briguez le suffrage ?
 
 Un bruit court que Thirron a paru dans Solime,
 Madame, et son retour...
-

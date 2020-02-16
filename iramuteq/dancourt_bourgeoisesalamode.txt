@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_bourgeoisesalamode *style_prose *genre_comedy *dist1_dancourt_prose_comedy_bourgeoisesalamode *dist2_dancourt_prose_comedy *id_MONSIEURSIMON *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieursimon
 
+
 Ah ! Te voilà, coquine. Que fait ma femme ?
 
 Déjà sortie ! À l'heure qu'il est, elle n'est pas éveillée le plus souvent.
@@ -272,8 +273,8 @@ Madame, Madame, vous allez faire un bon conte de cette aventure ; mais…
 
 J'enrage : je crève, et je renonce à toutes les femmes.
 
-
 **** *creator_dancourt *book_dancourt_bourgeoisesalamode *style_prose *genre_comedy *dist1_dancourt_prose_comedy_bourgeoisesalamode *dist2_dancourt_prose_comedy *id_ANGELIQUE *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+
 
 Il n'est encore venu personne ? Ah ! Te voilà, que veux-tu, Frontin ?
 
@@ -590,8 +591,8 @@ Et moi, je vous promets de trouver les moyens de faire consentir votre père à 
 
 Je me chargerai de tout.
 
-
 **** *creator_dancourt *book_dancourt_bourgeoisesalamode *style_prose *genre_comedy *dist1_dancourt_prose_comedy_bourgeoisesalamode *dist2_dancourt_prose_comedy *id_MONSIEURGRIFFARD *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgriffard
+
 
 Bonjour, ma chère enfant.
 
@@ -737,8 +738,8 @@ Comment donc, quoi ! Qu'entends-je ! Ma femme a reçu un présent de mille éc
 
 On se moquait de moi, j'ai ce que je mérite.
 
-
 **** *creator_dancourt *book_dancourt_bourgeoisesalamode *style_prose *genre_comedy *dist1_dancourt_prose_comedy_bourgeoisesalamode *dist2_dancourt_prose_comedy *id_ARAMINTE *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_araminte
+
 
 Hé bonjour, mon aimable petite.
 
@@ -802,8 +803,8 @@ Elle extravague, ma mignonne, cela ne se peut pas.
 
 Trouve donc aussi le secret de faire ma paix avec mon mari.
 
+**** *creator_dancourt *book_dancourt_bourgeoisesalamode *style_prose *genre_comedy *dist1_dancourt_prose_comedy_bourgeoisesalamode *dist2_dancourt_prose_comedy *id_MARIANE *date_1692 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_mariane
 
-**** *creator_dancourt *book_dancourt_bourgeoisesalamode *style_prose *genre_comedy *dist1_dancourt_prose_comedy_bourgeoisesalamode *dist2_dancourt_prose_comedy *id_MARIANE *date_1692 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_mariane
 
 Que me veut ma belle-mère, Lisette ? On m'a dit qu'elle me demande.
 
@@ -935,8 +936,8 @@ Et vous n'êtes point un vrai Chevalier ?
 
 Quand il n'aurait pas les vingt mille écus, je ne l'en aimerais pas moins, je vous assure.
 
-
 **** *creator_dancourt *book_dancourt_bourgeoisesalamode *style_prose *genre_comedy *dist1_dancourt_prose_comedy_bourgeoisesalamode *dist2_dancourt_prose_comedy *id_LISETTE *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
 Ah ! Ah ! C'est toi : bonjour, Frontin.
 
@@ -1569,8 +1570,8 @@ La pauvre enfant !
 
 Hors les maris, tout le monde sort toujours bien d'intrigues. Par ma foi, si les hommes donnaient à leurs femmes ce qu'ils dépensent pour leurs maîtresses, ils feraient mieux leurs comptes de toutes manières.
 
-
 **** *creator_dancourt *book_dancourt_bourgeoisesalamode *style_prose *genre_comedy *dist1_dancourt_prose_comedy_bourgeoisesalamode *dist2_dancourt_prose_comedy *id_MADAMEAMELIN *date_1692 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameamelin
+
 
 Oh, Madame, ce n'est pas là ce qui m'amène ici.
 
@@ -1698,8 +1699,8 @@ Comment donc la tromper ! Tredame, Monsieur Janot, puisque Monsieur Janot y a, 
 
 Oui, Madame, vingt mille écus, quand je perdrais ceux que je vous ai donnés encore.
 
-
 **** *creator_dancourt *book_dancourt_bourgeoisesalamode *style_prose *genre_comedy *dist1_dancourt_prose_comedy_bourgeoisesalamode *dist2_dancourt_prose_comedy *id_LECHEVALIER *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
 
 Hé bien, Frontin, as-tu donné mon billet à Lisette ?
 
@@ -1875,8 +1876,8 @@ Je suis au désespoir.
 
 Ah, Madame !
 
-
 **** *creator_dancourt *book_dancourt_bourgeoisesalamode *style_prose *genre_comedy *dist1_dancourt_prose_comedy_bourgeoisesalamode *dist2_dancourt_prose_comedy *id_FRONTIN *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+
 
 J'arrive comme vous, je n'ai encore vu personne ; mais, j'ai appris en Ville une très fâcheuse nouvelle.
 
@@ -2268,8 +2269,8 @@ Comment, diable ?
 
 Ma foi, nous sommes plus heureux que sages.
 
-
 **** *creator_dancourt *book_dancourt_bourgeoisesalamode *style_prose *genre_comedy *dist1_dancourt_prose_comedy_bourgeoisesalamode *dist2_dancourt_prose_comedy *id_MONSIEURJOSSE *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurjosse
+
 
 Je voudrais bien parler à Monsieur Simon, on m'a dit là-bas, qu'il y était.
 
@@ -2289,8 +2290,8 @@ Je faisais voir à Monsieur ce diamant que vous venez d'apporter chez moi.
 
 Je vous baise les mains, Monsieur.
 
-
 **** *creator_dancourt *book_dancourt_bourgeoisesalamode *style_prose *genre_comedy *dist1_dancourt_prose_comedy_bourgeoisesalamode *dist2_dancourt_prose_comedy *id_JASMIN *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jasmin
+
 
 Madame Amelin, votre Marchande de modes…
 
@@ -2301,4 +2302,3 @@ Son Maître de Clavecin est avec elle.
 Votre Maître de Géographie vous attend, Mademoiselle.
 
 Celle qui est venue tantôt ici ? Oui, Madame.
-

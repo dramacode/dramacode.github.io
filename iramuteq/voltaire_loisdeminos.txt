@@ -2,6 +2,7 @@
 
 **** *creator_voltaire *book_voltaire_loisdeminos *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_loisdeminos *dist2_voltaire_verse_tragedy *id_TEUCER *date_1774 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_teucer
 
+
 Quoi ! Toujours, cher ami, ces archontes, ces grands,
 Feront parler les lois pour agir en tyrans !
 Minos, qui fut cruel, a régné sans partage ;
@@ -547,8 +548,8 @@ Prêtres, et grands, et peuple, adoucissez vos moeurs ;
 Servez Dieu désormais dans un plus digne temple,
 Et que la Grèce instruite imite votre exemple.
 
-
 **** *creator_voltaire *book_voltaire_loisdeminos *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_loisdeminos *dist2_voltaire_verse_tragedy *id_MERIONE *date_1774 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merione
+
 
 On ne peut faire grâce, et votre autorité
 Contre un usage antique, et partout respecté,
@@ -645,8 +646,8 @@ Sachez que tout l'état l'emporte sur un homme.
 
       Vous le voulez ?
 
-
 **** *creator_voltaire *book_voltaire_loisdeminos *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_loisdeminos *dist2_voltaire_verse_tragedy *id_DICTIME *date_1774 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dictime
+
 
 Ce trône a ses périls ; je les connais sans doute ;
 Je les ai vus de près ; je sais ce qu'il en coûte.
@@ -874,8 +875,8 @@ Ne vous attendez pas, dans ces émotions,
 Que l'orgueil de Pharès s'abaisse à vous complaire :
 Il atteste les lois, mais il prétend les faire.
 
-
 **** *creator_voltaire *book_voltaire_loisdeminos *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_loisdeminos *dist2_voltaire_verse_tragedy *id_PHARES *date_1774 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phares
+
 
 Prenez place, seigneurs, au temple de Gortine ;
 Adorez et vengez la puissance divine.
@@ -958,8 +959,8 @@ Qu'il demande à nos mains un sang dont il est maître.
       Ah ! Ton audace impie,
 Sacrilège tyran, sera bientôt punie.
 
-
 **** *creator_voltaire *book_voltaire_loisdeminos *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_loisdeminos *dist2_voltaire_verse_tragedy *id_AZEMON *date_1774 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_azemon
+
 
 Quoi ! Nul ne vient à moi dans ces lieux solitaires !
 Je ne retrouve point mes compagnons, mes frères !
@@ -1105,8 +1106,8 @@ Et je dois l'approuver encor plus que jamais.
       Respectable soldat,
 Astérie est ta femme, ou Teucer est ingrat.
 
-
 **** *creator_voltaire *book_voltaire_loisdeminos *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_loisdeminos *dist2_voltaire_verse_tragedy *id_DATAME *date_1774 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_datame
+
 
 C'est moi.
 
@@ -1384,8 +1385,8 @@ Règne, règne à jamais sur mon peuple et sur moi.
 Je ne méritais pas le trône où l'on m'appelle ;
 Mais j'adore Astérie, et me crois digne d'elle.
 
-
 **** *creator_voltaire *book_voltaire_loisdeminos *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_loisdeminos *dist2_voltaire_verse_tragedy *id_ASTERIE *date_1774 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_asterie
+
 
 Je veux bien te répondre. Astérie est mon nom ;
 Ma mère est au tombeau ; le vieillard Azémon,
@@ -1578,8 +1579,8 @@ Datame est plus qu'un roi.
 
 Ah ! Vous seul êtes juste.
 
-
 **** *creator_voltaire *book_voltaire_loisdeminos *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_loisdeminos *dist2_voltaire_verse_tragedy *id_HERAUT *date_1774 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_heraut
+
 
       De Cydon les nombreux députés
 Ont marché vers nos murs, et s'y sont présentés.
@@ -1622,8 +1623,8 @@ Il demandait Datame avec empressement.
 Étranger malheureux, je t'annonce mon roi ;
 Il vient avec bonté : parle, rassure-toi.
 
+**** *creator_voltaire *book_voltaire_loisdeminos *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_loisdeminos *dist2_voltaire_verse_tragedy *id_CYDONIENS *date_1774 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_cydoniens
 
-**** *creator_voltaire *book_voltaire_loisdeminos *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_loisdeminos *dist2_voltaire_verse_tragedy *id_CYDONIENS *date_1774 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_cydoniens
 
 Cher Datame, est-il vrai qu'en ces pourpris funestes
 On n'offre que du sang aux puissances célestes ?
@@ -1688,3 +1689,9 @@ Elle en est entourée.
       Allons, c'est à ses pieds
 Qu'il faut, en la vengeant, mourir sacrifiés.
 
+**** *creator_voltaire *book_voltaire_loisdeminos *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_loisdeminos *dist2_voltaire_verse_tragedy *id_VOIX *date_1774 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_voix
+
+
+      Datame, arrête !
+
+Datame !...

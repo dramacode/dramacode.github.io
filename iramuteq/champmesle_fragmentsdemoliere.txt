@@ -2,6 +2,7 @@
 
 **** *creator_champmesle *book_champmesle_fragmentsdemoliere *style_prose *genre_comedy *dist1_champmesle_prose_comedy_fragmentsdemoliere *dist2_champmesle_prose_comedy *id_lignon *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lignon
 
+
 O Amour, que tu agites mon esprit de diverses inquiétudes !
 
 Pourquoy, cruel Amour…
@@ -86,8 +87,8 @@ Non, ne nous pendons point. Je trouve que pour nostre disgrace ce n'est pas asse
  
 Cela est vray, Pasteur.
 
-
 **** *creator_champmesle *book_champmesle_fragmentsdemoliere *style_prose *genre_comedy *dist1_champmesle_prose_comedy_fragmentsdemoliere *dist2_champmesle_prose_comedy *id_jourdain *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jourdain
+
 
 Charlote, Belle Charlote !
  
@@ -172,8 +173,8 @@ Tu as raison, mon pauvre Fleuve, vien que je te pende le premier, et tu me pendr
 Ah ! voicy nostre Rival ; retirons-nous, Pasteur, de peur de quelques demeslez.
 
 
-
 **** *creator_champmesle *book_champmesle_fragmentsdemoliere *style_prose *genre_comedy *dist1_champmesle_prose_comedy_fragmentsdemoliere *dist2_champmesle_prose_comedy *id_pierrot *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+
 
 Parguenne⁎ il ne s'en est pas fallu l'époisseur d'une éplingue⁎ qu'ils ne se sayent nayez tous deux.
 
@@ -255,8 +256,8 @@ Pour moy je ne trouve rien de meilleur pour nos affaires que de crier haro sur c
 
 Oh, pargué⁎, vela un honneste homme cela. Oh bian vous ly diré pour l'amour de cela que je sommes son sarviteur, et que j'allons décrier l'allarme et boire à sa santé. Venez payer chopaine.
 
-
 **** *creator_champmesle *book_champmesle_fragmentsdemoliere *style_prose *genre_comedy *dist1_champmesle_prose_comedy_fragmentsdemoliere *dist2_champmesle_prose_comedy *id_charlote *date_1682 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_charlote
+
 
 N'avez-vous point veu Pierrot ? Je ne sçay où il est depuis ce matin qu'il s'est mis en Mer avec la Chaloupe.
 
@@ -346,8 +347,8 @@ Va va Pierrot, tu porteras des fromages cheux nous.
 
 Mon pere, pourquoy me tourmentez-vous ? Est-ce ma faute si j'aime mieux ce Monsieur que ce gros vilain Pierrot que vous me voulez donner ?
 
-
 **** *creator_champmesle *book_champmesle_fragmentsdemoliere *style_prose *genre_comedy *dist1_champmesle_prose_comedy_fragmentsdemoliere *dist2_champmesle_prose_comedy *id_gusman *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gusman
+
 
 Par ma foy il semble que nous n'ayons jamais bû que du vin, et nous voila aussi bien remis que si de rien n'avoit esté ; mais, Monsieur, dites-moy un peu, s'il vous plaist, tous ces vœux que nous avons faits avec tant d'ardeur dans le péril sur la Mer, seront-ils executez avec la mesme ?
  
@@ -431,8 +432,8 @@ Et vostre petit Chien ? Il vous ressemble comme deux goutes d'eau. Allons donc,
 
 Et qu'y a-t-il, Messieurs ? à quoy bon tout ce vacarme ? Vous inquietez-vous ? J'ai tourné l'esprit de mon Maistre tout comme vous le souhaitez ; il ne s'oppose plus à vostre mariage, au contraire il prétend estre de la noce. Il en payera le Festin, et mesme il se retient pour estre le Compere au premier Enfant que vous aurez.
 
-
 **** *creator_champmesle *book_champmesle_fragmentsdemoliere *style_prose *genre_comedy *dist1_champmesle_prose_comedy_fragmentsdemoliere *dist2_champmesle_prose_comedy *id_juge *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_juge
+
 
 Allons, petite baboüine, allons, vous aimez donc les Monsieur ; or je vous apprendray que les Monsieur ne sont pas pour vous, et que vous n'estes pas pour eux. Rentrez au logis, et qu'il ne vous arrive plus de songer à d'autres qu'à Pierrot, c'est luy qui sera mon gendre, il a bon mestier, et vous ne sçauriez mourir de faim avec luy. Adieu, qu'on ne m'en souffle pas seulement un petit mot. Voyez-vous, il leur faut des godeluriaux, de ces petits muguets bastis comme des poupées, avec leurs grands cheveux et leurs petites épées ; non sera, non sera vostre Monsieur, le Monsieur ne sera pas pour vous, ma fille. Ah, voicy son Valet de Chambre, c'est le plus honneste d'eux tous, celuy-là, car dés le matin nous avons bû ensemble.
 
@@ -458,8 +459,8 @@ Qui, moy ? Oh, en bien faisant on ne craint rien ; et on luy montrera bien les
 
 Je m'en vais un peu consulter ce que j'ay à faire, et si on ne me conseille rien de bon là-dessus, j'iray assembler le Village, et on sonnera le toxin sur vostre Maistre et sur vous.
 
-
 **** *creator_champmesle *book_champmesle_fragmentsdemoliere *style_prose *genre_comedy *dist1_champmesle_prose_comedy_fragmentsdemoliere *dist2_champmesle_prose_comedy *id_juan *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_juan
+
 
 Tais-toy. Ah ! la jolie Personne, Gusman.
 
@@ -561,8 +562,8 @@ Vous vous moquez.
 
 Hola, hé ? des Flambeaux, et reconduisez Mr Dimanche.
 
-
 **** *creator_champmesle *book_champmesle_fragmentsdemoliere *style_prose *genre_comedy *dist1_champmesle_prose_comedy_fragmentsdemoliere *dist2_champmesle_prose_comedy *id_dimanche *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dimanche
+
  
 Monsieur….
 
@@ -608,8 +609,8 @@ Je vous demande s'il vous souvient bien que vous me devez en vostre particulier 
 
 Oh je n'entens pas raillerie, et…
 
-
 **** *creator_champmesle *book_champmesle_fragmentsdemoliere *style_prose *genre_comedy *dist1_champmesle_prose_comedy_fragmentsdemoliere *dist2_champmesle_prose_comedy *id_silvestre *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_silvestre
+
 
 Gusman, fay-moy connoistre un peu le Juge de ce lieu, qui est le pere de cette jolie Charlote.
 
@@ -634,4 +635,3 @@ C'est ce que je demande, morbleu ; c'est ce que je demande : ah, teste ; ah, 
 Voilà qui vous apprendra à vous oser joüer à moy.
 
 Ah ventre, jarny⁎, que ne le puis-je trouver ?
-

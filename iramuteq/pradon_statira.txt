@@ -2,6 +2,7 @@
 
 **** *creator_pradon *book_pradon_statira *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_statira *dist2_pradon_verse_tragedy *id_STATIRA *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_statira
 
+
 La superbe Roxane est toujours irritée,
 Léonatus, enfin, rend son âme agitée ;
 Quoi qu'elle dissimule et flatte Perdiccas,
@@ -485,8 +486,8 @@ J'entre, vous apprendrez le reste en peu de temps ;
 Mais ne me suivez pas, et je vous le défends.
 Adieu, Seigneur.
 
-
 **** *creator_pradon *book_pradon_statira *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_statira *dist2_pradon_verse_tragedy *id_ROXANE *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_roxane
+
 
 Nous sommes investis, déjà Léonatus
 Nous menace et nous compte au nombre des Vaincus ;
@@ -1016,8 +1017,8 @@ Et si mon triste amour a su vous outrager,
 Voilà, voilà le Bras qui saura vous venger,
 Je vous suivrai de près, Madame.
 
-
 **** *creator_pradon *book_pradon_statira *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_statira *dist2_pradon_verse_tragedy *id_LEONATUS *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leonatus
+
 
 Avant que de nous faire une sanglante guerre
 Dont les grands intérêts arment toute la terre,
@@ -1321,8 +1322,8 @@ Quoi, Statira n'est plus !
       Et vous plus de rival.
 Je veux périr, il faut que la mort nous assemble.
 
-
 **** *creator_pradon *book_pradon_statira *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_statira *dist2_pradon_verse_tragedy *id_PERDICCAS *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_perdiccas
+
 
 Je sais trop d'Alexandre honorer la mémoire,
 Seigneur, pour me flatter de tant de vaine gloire ;
@@ -1606,8 +1607,8 @@ Oui, Seigneur, périssons, mais périssons ensemble,
 Je viens pour la venger, et mourir avec vous,
 Mais perdons Cassander et Roxane avec nous.
 
-
 **** *creator_pradon *book_pradon_statira *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_statira *dist2_pradon_verse_tragedy *id_CASSANDER *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cassander
+
 
 Pourquoi tant balancer, quand pour vous tout conspire ?
 Vous devez vous saisir des rênes de l'Empire,
@@ -1869,8 +1870,8 @@ Puisqu'il a pu vous voir, et ne vous aimer pas.
 Je vais vous préparer un destin glorieux,
 Ou bien j'aurai l'honneur de mourir à vos yeux.
 
-
 **** *creator_pradon *book_pradon_statira *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_statira *dist2_pradon_verse_tragedy *id_HESIONE *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hesione
+
 
 Mais, Madame, après tout oserai-je sans crime
 Savoir quelle raison contre elle vous anime ?
@@ -1903,8 +1904,8 @@ Quand on a tant de haine, on n'est pas sans amour.
 
 Madame, elle revient.
 
-
 **** *creator_pradon *book_pradon_statira *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_statira *dist2_pradon_verse_tragedy *id_CLEONE *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleone
+
 
 Lors que Léonatus est venu de l'armée,
 Madame, l'on a vu que Roxane alarmée,
@@ -1945,8 +1946,8 @@ Ciel ! Je le vois, Madame, et contre votre attente.
 
 Ah ! Seigneur...
 
-
 **** *creator_pradon *book_pradon_statira *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_statira *dist2_pradon_verse_tragedy *id_PEUCESTAS *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_peucestas
+
 
 Léonatus arrive, et Perdiccas l'emmène ;
 Madame, ils sont déjà dans la chambre prochaine,
@@ -1969,4 +1970,3 @@ Les Barbares, Seigneur, pourraient bien profiter
 Des troubles dangereux qui vont vous agiter,
 Ils pourraient assembler des Troupes effroyables,
 Telles que Darius...
-

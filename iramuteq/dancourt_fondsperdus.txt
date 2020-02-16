@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_fondsperdus *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fondsperdus *dist2_dancourt_prose_comedy *id_MONSIEURORONTE *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieuroronte
 
+
 Très humble serviteur à mon aimable bru.
 
 Vous trouvez donc, Madame, que j'ai quelque mine avec cet habit-là ?
@@ -76,8 +77,8 @@ Coquin !
 
 J'enrage !
 
-
 **** *creator_dancourt *book_dancourt_fondsperdus *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fondsperdus *dist2_dancourt_prose_comedy *id_VALERE *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+
 
 Oui, mon pauvre Merlin, je veux savoir d'elle sa destinée et la mienne, et je ne saurais plus vivre dans la contrainte où nous sommes depuis si longtemps l'un et l'autre.
 
@@ -133,8 +134,8 @@ Monsieur veut que ce soit Mademoiselle votre fille que j'épouse.
 
 Puisque Monsieur le veut, Madame, j'en suis content pour moi.
 
-
 **** *creator_dancourt *book_dancourt_fondsperdus *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fondsperdus *dist2_dancourt_prose_comedy *id_MADAMEGERANTE *date_1686 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamegerante
+
 
 Bonjour, Merlin.
 
@@ -366,8 +367,8 @@ Fourbe !
 
 Je suis au désespoir !
 
-
 **** *creator_dancourt *book_dancourt_fondsperdus *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fondsperdus *dist2_dancourt_prose_comedy *id_ANGELIQUE *date_1686 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+
 
 Et moi, Valère, j'ai de bien fâcheuses nouvelles à vous apprendre. Votre père me persécute pour me faire consentir à l'épouser ; il demanda hier l'aveu de ma mère, et vous jugez bien qu'il l'a obtenu. Elle ne m'a donné que cette seule journée pour me préparer.
 
@@ -393,8 +394,8 @@ Et vous mon beau-père, Monsieur ?
 
 Je trouve, Monsieur, que Valère a raison.
 
-
 **** *creator_dancourt *book_dancourt_fondsperdus *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fondsperdus *dist2_dancourt_prose_comedy *id_MERLIN *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merlin
+
 
 Enfin donc, quoi qu'il en puisse arriver, vous voulez voir Angélique ?
 
@@ -707,8 +708,8 @@ La, la, la, la, ne vous fâchez point, la colère fait mal ; vous avez mis votre
 
 Eh bien, ne vous ai-je pas tenu parole ? Voilà Monsieur votre père et Madame votre mère mariés ensemble, lorsqu'ils s'y attendaient le moins ; qu'ils consomment le mariage, si bon leur semble. Songeons à ce qu'il faut faire pour le vôtre, et rendez grâce au ciel, que les extravagances de vos parents ne soient point sorties de leurs familles.
 
-
 **** *creator_dancourt *book_dancourt_fondsperdus *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fondsperdus *dist2_dancourt_prose_comedy *id_LISETTE *date_1686 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
 Oh ! Monsieur Merlin, cela vous plaît à dire.
 
@@ -932,8 +933,8 @@ Oh ! Il n'y a point de doute à cela.
 
 Est-ce que vous voulez que Monsieur ait la peine de récrire tout cela ?
 
-
 **** *creator_dancourt *book_dancourt_fondsperdus *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fondsperdus *dist2_dancourt_prose_comedy *id_LEBEGUE *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebegue
+
 
 Que vous plaît-il, Madame ?
 
@@ -964,4 +965,3 @@ Mordi cela n'est pas vrai, vous-même ; c'est vous qui parlez bien quand vous vo
 Et je devais aussi vous battre le premier.
 
 Vraiment, il m'a roué de coups.
-

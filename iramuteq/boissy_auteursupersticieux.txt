@@ -2,6 +2,7 @@
 
 **** *creator_boissy *book_boissy_auteursupersticieux *style_verse *genre_comedy *dist1_boissy_verse_comedy_auteursupersticieux *dist2_boissy_verse_comedy *id_CLITANDRE *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
 
+
 Cher ami, c'est l'effet d'une faiblesse extrême,
 Que je ne puis dompter, dont j'ai honte moi-même^
 Dont à d'autres que vous mon coeur n'ose parler,
@@ -271,8 +272,8 @@ Ah ! mon procès perdu m'est d'un mauvais augure.
 Mais voyons au plus tôt cet objet ravissant,
 Et nous visiterons le parterre en passant.
 
-
 **** *creator_boissy *book_boissy_auteursupersticieux *style_verse *genre_comedy *dist1_boissy_verse_comedy_auteursupersticieux *dist2_boissy_verse_comedy *id_DAMON *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damon
+
 
 Qui vous fait brusquement quitter ainsi la table
 Au milieu d'un repas et d'une troupe aimable ?
@@ -372,8 +373,8 @@ Ils le disent tout haut.
 Moi, j'espère au retour vous faire compliment ;
 Et je cours me placer sans perdre un seul moment.
 
-
 **** *creator_boissy *book_boissy_auteursupersticieux *style_verse *genre_comedy *dist1_boissy_verse_comedy_auteursupersticieux *dist2_boissy_verse_comedy *id_ARLEQUIN *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+
 
 Peste ! Quand vous frappez, ce n'est pas de main morte.
 
@@ -436,4 +437,3 @@ Courons-y de ce pas... Mais on vient ; c'est mon maître.
 Qu'avez-vous ?
 
 Monsieur, d'un bon succès ce billet vous assure.
-

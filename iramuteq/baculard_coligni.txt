@@ -2,6 +2,7 @@
 
 **** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *id_COLIGNY *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_coligny
 
+
 Où portai-je mes pas... Où suis-je... Quel réveil ?...
 Quels cris se font entendre au milieu du sommeil ?...
 Le trouble malgré moi de mon âme s'empare...
@@ -309,8 +310,8 @@ C'est pour sentir les coups d'une nouvelle mort...
 
 Mon fils... Mon Dieu... Je meurs.
 
-
 **** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *id_HAMILTON *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hamilton
+
 
 Ô Nuit, trop lente nuit, permets que la vengeance
 T'adresse ici ses voeux et son impatience:
@@ -724,8 +725,8 @@ Reportons le trépas dans ce coeur que j'abhorre...
 Il n'est plus, et je vis, sur ce premier dégré,
 Mon pouvoir chancelant est enfin assuré.
 
+**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *id_TELIGNI *date_1739 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_teligni
 
-**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *id_TELIGNI *date_1739 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_teligni
 
       Où courrez-vous, Seigneur ?
 Allez-vous d'un vil peuple assouvir la fureur...
@@ -866,8 +867,8 @@ Vous me verrez toujours l'âme de vos combats,
 Et de Rome ébranlée avançant la ruine
 Lui rendre tous les coups dont elle m'assassine.
 
-
 **** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *id_MARSILLAC *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marsillac
+
 
 Ô Mon cher Lavardin, où courir, où trouver
 Ce Héros malheureux que nous devons sauver ?
@@ -1072,8 +1073,8 @@ Le glaive à son aspect tombera de leurs mains,
 La pitié rentrera dans ces coeurs inhumains,
 Le peuple...
 
-
 **** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *id_LAVARDIN *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lavardin
+
 
 Pour lui nous donnerions nos biens et notre vie,
 Si d'avides bourreaux repaissant la furie,
@@ -1111,8 +1112,35 @@ Nous sommes immolés des mains mêmes du Roi !
 
 Et pour qui vivrait-il si vous perdez la vie ?
 
+**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *id_PARDAILLAN *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pardaillan
+
+
+Ah, serait-il encor pour des coeurs innocents,
+Quand tout semble embrasser le parti des tyrans ?
+
+      Ah mon maître... Ah cruels...
+Seigneur... éloignons-nous de ces lieux criminels,
+Venez....
+
+Il succombe à ses maux, amis, s'il en est temps,
+Sauvons-le, ménageons ces précieux instants,
+Mais si le Ciel jaloux des vertus d'un grand homme,
+En terminant ses jours combat encor pour Rome,
+Rassurons-nous.... ce sang doit vous encourager,
+Rome osa le verser.... vous.... osez le venger.
+
+**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *id_RENEL *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_renel
+
+
+De ces nobles transports tu nous vois tous remplis.
+
+**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *id_QUERCHI *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_querchi
+
+
+      Eh, quel est-il ?
 
 **** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *id_BEME *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_beme
+
 
 Tous sauront obéir, et d'un bras assuré,
 Servant Rome, Paris, Médicis, et vous-même,
@@ -1175,8 +1203,8 @@ Il ne te reste plus qu'à m'arracher la vie !
 Monstre d'impiété, tu me fait trop d'horreur...
 J'emporte mes bourreaux dans le fond de mon coeur.
 
-
 **** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *id_TAVANNE *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tavanne
+
 
 Pardonnez, de mes sens la faiblesse s'empare
 Daignez me rassurer, me rendre assez barbare
@@ -1226,8 +1254,8 @@ Ne pouvons-nous du moins épargner ce vieillard ?...
       Je frémis... Ciel, tu tonnes en vain,
 Je ne puis soutenir ce spectacle inhumain.
 
-
 **** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *id_BUSSI *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bussi
+
 
 Amis, je crois entendre un nouveau Samuel.
 
@@ -1243,3 +1271,36 @@ Les remords, et je cède à son juste pouvoir...
 Si Médicis et Rome ordonnent qu'il périsse,
 Qu'ils chargent d'autres bras du soin du sacrifice.
 
+**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *id_NEVERS *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nevers
+
+
+Nous brûlons d'obéir, parlez, que faut-il faire ?
+
+Dieu qui nous connaissez, nous jurons à genoux,
+De vivre, de combattre, et de mourir pour vous
+De la Divinité la foudre est le partage,
+Tonnez, montrez-vous Dieu, déchirez cet ouvrage
+Indigne de la main qui l'a daigné former
+De l'esprit des Martyrs venez nous animer,
+Parmi ses saints vengeurs que la France nous nomme,
+Et n'ayons de parents que les amis de Rome.
+
+Enveloppons ces murs de la nuit du trépas,
+
+**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *id_GONDI *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gondi
+
+
+Partageant avec toi ces nobles sentiments,
+Nous nous lions à Dieu par les mêmes serments.
+
+      Frappons.
+
+**** *creator_baculard *book_baculard_coligni *style_verse *genre_tragedy *dist1_baculard_verse_tragedy_coligni *dist2_baculard_verse_tragedy *id_DESADRETS *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_desadrets
+
+
+Disposez de nos bras, disposez de notre âme,
+Que la Religion nous guide, nous enflamme,
+Nous attendons de vous ces glaives assassins,
+Instruments de la mort, qu'ont dû bénir vos mains.
+
+      Courrons donc,

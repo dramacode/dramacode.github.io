@@ -2,6 +2,7 @@
 
 **** *creator_hauteroche *book_hauteroche_cochersuppose *style_prose *genre_comedy *dist1_hauteroche_prose_comedy_cochersuppose *dist2_hauteroche_prose_comedy *id_LISIDOR *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisidor
 
+
 « J'irai tantôt me promener aux Invalides ; ne manquez pas de vous y trouver : je m'y rendrai de bonne heure, pour avoir la joie d'être plus longtemps avec vous. Adieu; aimez-moi toujours autant que je vous aime. »
 
 J'espère que, lorsque nous serons ensemble, nous trouverons les moyens de prévenir les malheurs qui nous menacent, et je hasarderai toutes choses pour avoir le bonheur d'être son époux. Mais il me semble que j'aperçois quelqu'un venir ici : éloignons-nous un peu.
@@ -14,8 +15,8 @@ Monsieur, ce n'est point en ce lieu que je dois expliquer les choses ; lorsque n
 
 Madame...
 
-
 **** *creator_hauteroche *book_hauteroche_cochersuppose *style_prose *genre_comedy *dist1_hauteroche_prose_comedy_cochersuppose *dist2_hauteroche_prose_comedy *id_DOROTHEE *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorothee
+
 
 J'aperçois son oncle qui sort de sa maison : éloignons-nous.
 
@@ -67,8 +68,8 @@ Comment ?
 
 Que c'est un fourbe, un scélérat que je déteste.
 
-
 **** *creator_hauteroche *book_hauteroche_cochersuppose *style_prose *genre_comedy *dist1_hauteroche_prose_comedy_cochersuppose *dist2_hauteroche_prose_comedy *id_JULIE *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+
 
 Tais-toi ; je ne veux pas que Lisidor sache que je suis en cette ville.
 
@@ -246,8 +247,8 @@ On pardonne aisément aux personnes qu'on aime.
 
 Vous l'apprendrez une autre fois. Sortons, et ne donnons point sujet à monsieur Hilaire de se plaindre davantage.
 
-
 **** *creator_hauteroche *book_hauteroche_cochersuppose *style_prose *genre_comedy *dist1_hauteroche_prose_comedy_cochersuppose *dist2_hauteroche_prose_comedy *id_ROSETTE *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosette
+
 
 Ah ! Madame, regardez ; il me semble que voilà Morille. Oui, c'est lui : il faudrait l'appeler.
 
@@ -337,8 +338,8 @@ Tu en es quitte à bon marché.
 
 De tout mon coeur.
 
-
 **** *creator_hauteroche *book_hauteroche_cochersuppose *style_prose *genre_comedy *dist1_hauteroche_prose_comedy_cochersuppose *dist2_hauteroche_prose_comedy *id_ROLINE *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_roline
+
 
 Que voulez-vous, monsieur?
 
@@ -354,8 +355,8 @@ Non, monsieur.
 
 Elle est à sa chambre; venez, je vais vous conduire.
 
-
 **** *creator_hauteroche *book_hauteroche_cochersuppose *style_prose *genre_comedy *dist1_hauteroche_prose_comedy_cochersuppose *dist2_hauteroche_prose_comedy *id_MORILLE *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_morille
+
 
 Ah ! Monsieur, je viens de vous chercher.
 
@@ -599,8 +600,8 @@ Et toi, Rosette, n'en fais-tu pas de même ?
 
 Je vous suis ; car il ne fait pas bon ici pour moi.
 
-
 **** *creator_hauteroche *book_hauteroche_cochersuppose *style_prose *genre_comedy *dist1_hauteroche_prose_comedy_cochersuppose *dist2_hauteroche_prose_comedy *id_ADRIAN *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adrian
+
 
 Madame, voilà le logis de monsieur Hilaire, de la nièce duquel, comme je vous ai dit, monsieur Lisidor est passionnément amoureux.
 
@@ -619,4 +620,3 @@ Ah ! Madame, je viens de rencontrer, chemin faisant, Morille et monsieur Lisidor
 Eh bien! Madame, vous ne pouvez plus l'ignorer.
 
 Suffit, madame.
-

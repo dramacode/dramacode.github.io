@@ -2,6 +2,7 @@
 
 **** *creator_romagnesiriccoboni *book_romagnesiriccoboni_sauvages *style_verse *genre_piece *dist1_romagnesiriccoboni_verse_piece_sauvages *dist2_romagnesiriccoboni_verse_piece *id_LALZIRE *date_1736 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lalzire
 
+
 Dieu ! Quels sont mes malheurs !
 
 Pourrais-je y consentir ? Hélas ! Je pleure encore
@@ -233,8 +234,8 @@ Que tout doit y finir ; que tout le monde y vienne.
 Tu n'en saurais douter, je mourrai noblement,
 Des héros comme nous meurent-ils autrement ?
 
-
 **** *creator_romagnesiriccoboni *book_romagnesiriccoboni_sauvages *style_verse *genre_piece *dist1_romagnesiriccoboni_verse_piece_sauvages *dist2_romagnesiriccoboni_verse_piece *id_NEGRITTE *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_negritte
+
 
 Madame, un des captifs, qui dans cette journée,
 N'ont du leur liberté qu'à ce grand hyménée,
@@ -250,8 +251,8 @@ Des qu'il a vu de l'or, ses esprits enchantés...
 
 Non, non, ne craignez rien, la nuit nous favorise.
 
-
 **** *creator_romagnesiriccoboni *book_romagnesiriccoboni_sauvages *style_verse *genre_piece *dist1_romagnesiriccoboni_verse_piece_sauvages *dist2_romagnesiriccoboni_verse_piece *id_BONHOMMES *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bonhommes
+
 
 Oui, de me succéder mon fils aura l'honneur,
 Et chez les Missouris le voila  Gouverneur.
@@ -409,8 +410,8 @@ Vous allez tous les deux mourir de mort subite :
 Pour conserver tes jours, j'ai fait ce que j'ai pu ;
 Mais malgré mon crédit ; va, tu seras pendu.
 
-
 **** *creator_romagnesiriccoboni *book_romagnesiriccoboni_sauvages *style_verse *genre_piece *dist1_romagnesiriccoboni_verse_piece_sauvages *dist2_romagnesiriccoboni_verse_piece *id_GARNEMENT *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_garnement
+
 
 Comment ferait-on voir que l'on est grand Seigneur,
 Si l'on ne se donnait un air supérieur ?
@@ -553,8 +554,8 @@ Des traits que la Critique a lieu de respecter ;
 Nous les trouvons si beaux, que nous ferions scrupule,
 De répandre sur eux le moindre ridicule.
 
-
 **** *creator_romagnesiriccoboni *book_romagnesiriccoboni_sauvages *style_verse *genre_piece *dist1_romagnesiriccoboni_verse_piece_sauvages *dist2_romagnesiriccoboni_verse_piece *id_FADEZE *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fadeze
+
 
 Bonjour, cher Bonhommés.
 
@@ -650,8 +651,8 @@ Gardes, je veux qu'ici votre main le retienne.
 Mais il est avec vous un accommodement ;
 Obéissez, prenez que ce soit Garnement.
 
-
 **** *creator_romagnesiriccoboni *book_romagnesiriccoboni_sauvages *style_verse *genre_piece *dist1_romagnesiriccoboni_verse_piece_sauvages *dist2_romagnesiriccoboni_verse_piece *id_MATAMORE *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_matamore
+
 
 Amis infortunés, qui partagez mes peines,
 Nous revoyons le jour, on a brisé nos chaînes.
@@ -860,8 +861,8 @@ Parle sans t'émouvoir comme je vais t'entendre.
 Il ne promettait pas d'avoir l'âme si bonne ;
 Si je l'avais tué je m'en repentirais.
 
-
 **** *creator_romagnesiriccoboni *book_romagnesiriccoboni_sauvages *style_verse *genre_piece *dist1_romagnesiriccoboni_verse_piece_sauvages *dist2_romagnesiriccoboni_verse_piece *id_NEGRILLON *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_negrillon
+
 
       Personne n'en sait rien.
 Peut-être croyez-vous l'apprendre dans la suite,
@@ -897,4 +898,3 @@ Qu'on ne redoute plus, quand on sait le connaître.
 Mes yeux de l'artifice ont été les témoins.
 
 La garde dans ces lieux doit arrêter mes pas.
-

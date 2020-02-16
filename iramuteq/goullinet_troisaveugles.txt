@@ -2,6 +2,7 @@
 
 **** *creator_goullinet *book_goullinet_troisaveugles *style_prose *genre_comedy *dist1_goullinet_prose_comedy_troisaveugles *dist2_goullinet_prose_comedy *id_JEROME *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jerome
 
+
 D'où venez-vous donc, petite fille ?
 
 Bon, faut-il une demi-heure pour aller chercher du tabac ?
@@ -194,8 +195,8 @@ Ah ! Voilà le pot-aux-roses ! C'est ce malheureux quiproquo qui est la cause de
 
 La maudite journée ! Me voilà pourtant ruiné pour n'avoir pas vu assez clair, tandis que j'en connais tant qui ont fait leur fortune, pour avoir su faire à propos les Aveugles.
 
-
 **** *creator_goullinet *book_goullinet_troisaveugles *style_prose *genre_comedy *dist1_goullinet_prose_comedy_troisaveugles *dist2_goullinet_prose_comedy *id_BABET *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_babet
+
 
 Monsieur Julien ! Monsieur Julien !
 
@@ -231,8 +232,8 @@ Nous n'en demandons pas tant, Monsieur le Bailli. Que mon père consente seuleme
 
 Que je suis contente !
 
-
 **** *creator_goullinet *book_goullinet_troisaveugles *style_prose *genre_comedy *dist1_goullinet_prose_comedy_troisaveugles *dist2_goullinet_prose_comedy *id_JULIEN *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_julien
+
 
 Il n'est encore presque pas jour ; je parie qu'il n'y a que moi de levé dans le village. Ce que c'est que l'amour ! C'est un furieux réveil-matin... Voilà pourtant la demeure de Mamselle Babet. Si ce qu'elle me disait encore hier, est vrai, ah ! Elle ne doit pas être plus tranquille que moi. N'faut pourtant pas que j'm'amuse, je n'suis pas l'seul ici que l'amour tourmente. J'gagerois aussi que c'est là une lettre d'amour, que ce Monsieur Lisidor m'a remise hier pour cette Dame de Paris. Julien, m'a-t-il dit, ne manque pas d'y aller drès le matin, et tu observeras bien comment elle recevra ça. Elle ne dira peut-être rien, mais ses yeux parleront. Il n'y a que l'amour qui fait comme ça parler les yeux. Oh ! Je m'y connais, depuis que je suis amoureux. Il ne faut pas que j'manque d'y aller, avant que Monsieur la Piquette soit levé ; ça m'vaudra toujours quelque chose pour faire un petit cadeau à Mamselle Babet... Mais, voilà Monsieur le Bailli sur pied de bon matin ! Est-ce qu'il y a aussi quelque mouche qui l'pique ? Car, c'est comme une épidémie que c't'amour.
 
@@ -328,8 +329,8 @@ Ah ! Babet, je reconnais bien là votre cour ! Oui, Monsieur le Bailli, laissez-
 
 Et c'est lui, ma chère Babet, qui a avancé le moment de notre bonheur.
 
-
 **** *creator_goullinet *book_goullinet_troisaveugles *style_prose *genre_comedy *dist1_goullinet_prose_comedy_troisaveugles *dist2_goullinet_prose_comedy *id_LAPIQUETTE *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lapiquette
+
 
 On y va, on y va... Mais, qu'est-ce que c'est donc que ces Aveugles-là, qui crient comme des sourds ?
 
@@ -387,8 +388,8 @@ Tenez, Monsieur le Bailli, voilà d'abord le chapeau du père Jérôme, que je v
 
 Mais, Monsieur le Bailli, v'là qu'est fort bien ; vous rendez justice à tout le monde ; il n'y a qu'une chose à redire, c'est que je ne vois pas là-dedans qu'est-ce qui me payera, moi.
 
-
 **** *creator_goullinet *book_goullinet_troisaveugles *style_prose *genre_comedy *dist1_goullinet_prose_comedy_troisaveugles *dist2_goullinet_prose_comedy *id_JEANLOUIS *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jeanlouis
+
 
 Bastien, sommes-nous encore loin du Carrefour ?
 
@@ -466,8 +467,8 @@ Je n'ai pas le premier liard.
 
 Moi, je me retire ; payera qui pourra.
 
-
 **** *creator_goullinet *book_goullinet_troisaveugles *style_prose *genre_comedy *dist1_goullinet_prose_comedy_troisaveugles *dist2_goullinet_prose_comedy *id_BASTIEN *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bastien
+
 
 Nou ous, nous ous en approchons.
 
@@ -553,8 +554,8 @@ Je e défie bien qu'on me fasse payer.
 
 Oui i, arrangez-vous comme vous voudrez.
 
-
 **** *creator_goullinet *book_goullinet_troisaveugles *style_prose *genre_comedy *dist1_goullinet_prose_comedy_troisaveugles *dist2_goullinet_prose_comedy *id_LEBAILLI *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebailli
+
 
 Pas encore, mon ami ; mais comme j'ai appris que la Mère Simone et Lucas étaient en procès, je m'en vais les voir, pour tâcher de les arranger. On ne peut jamais se lever trop matin pour faire du bien.
 
@@ -591,8 +592,8 @@ Ne faut-il pas mieux la laisser à un avare comme vous ?
 
 Mes enfants, ce mouvement de générosité de votre part est trop beau, pour que je m'y oppose. Venez-vous en tous chez moi, nous ferons ce partage - là... Je suis charmé de coopérer au bonheur de ces jeunes gens... De la joie, de la bonne humeur ! Je régale tout le monde, et je vous garantis que je ne serai pas le moins content de la fête.
 
-
 **** *creator_goullinet *book_goullinet_troisaveugles *style_prose *genre_comedy *dist1_goullinet_prose_comedy_troisaveugles *dist2_goullinet_prose_comedy *id_LISIDOR *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisidor
+
 
 Tu me fais mourir d'impatience, mon cher Julien ; j'ai cru qu'un amoureux comme toi connaissait le prix des instants... Mais, je vois que tu es triste !... Tu ne me dis rien ! Ah ! Ciel ! Je suis perdu ! On n'aura pas voulu recevoir ma lettre.
 
@@ -618,4 +619,3 @@ Rien n'est plus juste : je me charge de payer toute la dépense ; il ne faut pas
 Je ne sais pas ce que vous voulez dire, père Jérôme ; je n'ai rien donné ni à vous, ni à vos Camarades.
 
 Ce n'est pas à vous autres que je le donnais ; c'était à Julien, à qui je devais cette petite reconnaissance.
-

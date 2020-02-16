@@ -2,6 +2,7 @@
 
 **** *creator_barreradet *book_barreradet_candide *style_verse *genre_vaudeville *dist1_barreradet_verse_vaudeville_candide *dist2_barreradet_verse_vaudeville *id_CANDIDE *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_candide
 
+
 D'une triste destinée,
 Quand le malheur nous poursuit,
 Les peines de la journée
@@ -163,8 +164,8 @@ Je vais donc enfin être heureux !
 Je vois qu'il faut soi-même
 Cultiver son jardin.
 
+**** *creator_barreradet *book_barreradet_candide *style_verse *genre_vaudeville *dist1_barreradet_verse_vaudeville_candide *dist2_barreradet_verse_vaudeville *id_JUSTIN *date_1788 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_justin
 
-**** *creator_barreradet *book_barreradet_candide *style_verse *genre_vaudeville *dist1_barreradet_verse_vaudeville_candide *dist2_barreradet_verse_vaudeville *id_JUSTIN *date_1788 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_justin
 
 Es-tu seul, ami Cacambo ?
 
@@ -367,8 +368,8 @@ Un petit terrain,
 Et j'espère, sans aide,
 Cultiver mon jardin.
 
-
 **** *creator_barreradet *book_barreradet_candide *style_verse *genre_vaudeville *dist1_barreradet_verse_vaudeville_candide *dist2_barreradet_verse_vaudeville *id_PANGLOSS *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pangloss
+
 
 Le projet n'est point illusoire,
 Puisqu'il fera venir chez nous
@@ -505,8 +506,8 @@ Tout est bien.
 D'un fils qui vous adore
 Le retour... .
 
-
 **** *creator_barreradet *book_barreradet_candide *style_verse *genre_vaudeville *dist1_barreradet_verse_vaudeville_candide *dist2_barreradet_verse_vaudeville *id_MARTIN *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_martin
+
 
 Mon cher, votre erreur est extrême,
 Il faut l'avouer entre nous :
@@ -607,8 +608,8 @@ Je le soutiens encore.
 
       Est fatal.
 
-
 **** *creator_barreradet *book_barreradet_candide *style_verse *genre_vaudeville *dist1_barreradet_verse_vaudeville_candide *dist2_barreradet_verse_vaudeville *id_CACAMBO *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cacambo
+
 
 Nos Philosophes sommeillent,
 Exempts de maux et de soins ;
@@ -796,8 +797,8 @@ Content du destin,
 Et je chante sans cesse,
 Cultivant mon jardin.
 
-
 **** *creator_barreradet *book_barreradet_candide *style_verse *genre_vaudeville *dist1_barreradet_verse_vaudeville_candide *dist2_barreradet_verse_vaudeville *id_CALEB *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caleb
+
 
 Je le sais, mes enfants, je le sais.
 Mais je voudrais, de ce côté,
@@ -874,8 +875,8 @@ L'éveille à la fin,
 Quand faute de culture,
 A péri son jardin.
 
+**** *creator_barreradet *book_barreradet_candide *style_verse *genre_vaudeville *dist1_barreradet_verse_vaudeville_candide *dist2_barreradet_verse_vaudeville *id_ZULMIS *date_1788 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_zulmis
 
-**** *creator_barreradet *book_barreradet_candide *style_verse *genre_vaudeville *dist1_barreradet_verse_vaudeville_candide *dist2_barreradet_verse_vaudeville *id_ZULMIS *date_1788 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_zulmis
 
 Si l'apparence
 De l'abondance
@@ -946,8 +947,8 @@ Dont il presse la fin,
 Pour avoir l'avantage
 D'aider à son voisin.
 
+**** *creator_barreradet *book_barreradet_candide *style_verse *genre_vaudeville *dist1_barreradet_verse_vaudeville_candide *dist2_barreradet_verse_vaudeville *id_ZELIE *date_1788 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_zelie
 
-**** *creator_barreradet *book_barreradet_candide *style_verse *genre_vaudeville *dist1_barreradet_verse_vaudeville_candide *dist2_barreradet_verse_vaudeville *id_ZELIE *date_1788 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_zelie
 
 Sa bienfaisance,
 Sur l'innocence,
@@ -1039,8 +1040,8 @@ Paix donc.
 
 Voudrez-vous bien de moi pour votre fille ?
 
-
 **** *creator_barreradet *book_barreradet_candide *style_verse *genre_vaudeville *dist1_barreradet_verse_vaudeville_candide *dist2_barreradet_verse_vaudeville *id_OSMIN *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_osmin
+
 
 Des riches dons de la nature
 Comme ce verger s'embellit !
@@ -1111,4 +1112,3 @@ D'une constance pareille
 Chacun a l'espoir certain,
 Et plus encor que la veille,
 On s'aime le lendemain.
-

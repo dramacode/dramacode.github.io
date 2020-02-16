@@ -2,6 +2,7 @@
 
 **** *creator_brueyspalaprat *book_brueyspalaprat_avocatpatelin *style_prose *genre_comedy *dist1_brueyspalaprat_prose_comedy_avocatpatelin *dist2_brueyspalaprat_prose_comedy *id_MADAMEPATELIN *date_1706 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamepatelin
 
+
 Je te chasserai, et tu ne te marieras point avec Agnelet ton fiancé, si tu ne me dis la chose comme elle est.
 
 Mais où prend Valère de quoi faire ses présents ? Son père est un riche brutal qui ne lui donne rien.
@@ -70,8 +71,8 @@ Eh ! Monsieur, si vous lui parlez d'affaires, vous l'allez tuer.
 
 Bon, le voilà parti, je me retire ; mais demeure encore là un moment, en cas qu'il revient.
 
+**** *creator_brueyspalaprat *book_brueyspalaprat_avocatpatelin *style_prose *genre_comedy *dist1_brueyspalaprat_prose_comedy_avocatpatelin *dist2_brueyspalaprat_prose_comedy *id_HENRIETTE *date_1706 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_henriette
 
-**** *creator_brueyspalaprat *book_brueyspalaprat_avocatpatelin *style_prose *genre_comedy *dist1_brueyspalaprat_prose_comedy_avocatpatelin *dist2_brueyspalaprat_prose_comedy *id_HENRIETTE *date_1706 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_henriette
 
 Laissez-moi, Valère, mon père et ma mère me suivent ; nous allons souper chez ma tante ; ils m'ont dit de m'avancer : retirez-vous.
 
@@ -85,8 +86,8 @@ Voici mon père ; Fuyons tous.
 
 Monsieur, je suis fâchée...
 
-
 **** *creator_brueyspalaprat *book_brueyspalaprat_avocatpatelin *style_prose *genre_comedy *dist1_brueyspalaprat_prose_comedy_avocatpatelin *dist2_brueyspalaprat_prose_comedy *id_MONSIEURGUILLAUME *date_1706 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurguillaume
+
 
 On commence à ne voir guère clair dans la boutique ; exposons ceci un peu plus à la vue des passants... Oh ! Ça, Valère, je t'avais dit de me chercher un berger pour garder le troupeau dont la laine sert à faire mes draps.
 
@@ -390,8 +391,8 @@ De noces ! Au moins je tâterai de l'oie.
 
 Me voilà bien payé de mon drap et de mes moutons.
 
+**** *creator_brueyspalaprat *book_brueyspalaprat_avocatpatelin *style_prose *genre_comedy *dist1_brueyspalaprat_prose_comedy_avocatpatelin *dist2_brueyspalaprat_prose_comedy *id_VALERE *date_1706 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_valere
 
-**** *creator_brueyspalaprat *book_brueyspalaprat_avocatpatelin *style_prose *genre_comedy *dist1_brueyspalaprat_prose_comedy_avocatpatelin *dist2_brueyspalaprat_prose_comedy *id_VALERE *date_1706 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_valere
 
 Est-ce, mon père, que vous n'êtes pas content d'Agnelet ?
 
@@ -414,8 +415,8 @@ Mon père, je vous proteste....
 
 Mon père, il est temps de l'avouer, tout ceci ne s'est fait que par mon ordre.
 
-
 **** *creator_brueyspalaprat *book_brueyspalaprat_avocatpatelin *style_prose *genre_comedy *dist1_brueyspalaprat_prose_comedy_avocatpatelin *dist2_brueyspalaprat_prose_comedy *id_COLETTE *date_1706 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colette
+
 
 Peste ! Madame, il faut vous le dire. Valère, le fils unique de Monsieur Guillaume, ce riche Marchand Drapier qui demeure là, est amoureux de Mademoiselle Henriette, et il lui fait des présents de temps en temps.
 
@@ -461,8 +462,8 @@ Que cela est bien imaginé !
 
 Que me donnerez-vous à la place de mon fiancé ?
 
-
 **** *creator_brueyspalaprat *book_brueyspalaprat_avocatpatelin *style_prose *genre_comedy *dist1_brueyspalaprat_prose_comedy_avocatpatelin *dist2_brueyspalaprat_prose_comedy *id_AGNELET *date_1706 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agnelet
+
 
 Bon vêpre, Monsieur, et bonne nuit.
 
@@ -553,4 +554,3 @@ Miséricorde !
 Ma foi, non.
 
 Une tête de veau, Monsieur.
-

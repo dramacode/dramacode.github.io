@@ -1,6 +1,7 @@
 
 
-**** *creator_regnard *book_regnard_joueur *style_verse *genre_comedy *dist1_regnard_verse_comedy_joueur *dist2_regnard_verse_comedy *id_GERONTE *date_1696 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_geronte
+**** *creator_regnard *book_regnard_joueur *style_verse *genre_comedy *dist1_regnard_verse_comedy_joueur *dist2_regnard_verse_comedy *id_GERONTE *date_1696 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_geronte
+
 
 Doucement ; j'ai deux mots à vous dire, Valère.
 Pour toi, j'ai quelques coups de canne à te prêter.
@@ -241,8 +242,8 @@ Fils indigne de moi, va, je te déshérite ;
 Je ne veux plus te voir, après cette action,
 Et te donne cent fois ma malédiction.
 
-
 **** *creator_regnard *book_regnard_joueur *style_verse *genre_comedy *dist1_regnard_verse_comedy_joueur *dist2_regnard_verse_comedy *id_VALERE *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+
 
 Quelle heure est-il ?
 
@@ -810,8 +811,8 @@ Où vas-tu donc ?
 Va, va, consolons-nous, Hector : et quelque jour
 Le jeu m'acquittera des pertes de l'amour.
 
-
 **** *creator_regnard *book_regnard_joueur *style_verse *genre_comedy *dist1_regnard_verse_comedy_joueur *dist2_regnard_verse_comedy *id_ANGELIQUE *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+
 
 Mon coeur serait bien lâche, après tant de serments,
 D'avoir encor pour lui de tendres mouvements.
@@ -1027,8 +1028,8 @@ Si vous êtes heureux au jeu comme en maîtresse,
 Et si vous conservez aussi mal ses présents,
 Vous ne ferez, je crois, fortune de longtemps.
 
+**** *creator_regnard *book_regnard_joueur *style_verse *genre_comedy *dist1_regnard_verse_comedy_joueur *dist2_regnard_verse_comedy *id_DORANTE *date_1696 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_dorante
 
-**** *creator_regnard *book_regnard_joueur *style_verse *genre_comedy *dist1_regnard_verse_comedy_joueur *dist2_regnard_verse_comedy *id_DORANTE *date_1696 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_dorante
 
 Quel est donc le sujet pourquoi ton coeur soupire ?
 
@@ -1150,8 +1151,8 @@ Vous n'aurez rien perdu dans ces lieux pour attendre,
 Ni toi, Nérine, aussi. Suivez-moi toutes deux.
 Quelque autre fois, Monsieur, vous serez plus heureux.
 
-
 **** *creator_regnard *book_regnard_joueur *style_verse *genre_comedy *dist1_regnard_verse_comedy_joueur *dist2_regnard_verse_comedy *id_NERINE *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
+
 
 Que fait Valère ?
 
@@ -1517,8 +1518,8 @@ Et le notaire peut remporter son contrat.
 Grâce au ciel, ma maîtresse a tiré son enjeu.
 Vous épouser, Monsieur, c'était jouer gros jeu.
 
-
 **** *creator_regnard *book_regnard_joueur *style_verse *genre_comedy *dist1_regnard_verse_comedy_joueur *dist2_regnard_verse_comedy *id_HECTOR *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hector
+
 
 Il est, parbleu, grand jour. Déjà de leur ramage
 les coqs ont éveillé tout notre voisinage.
@@ -2234,4 +2235,3 @@ Adieu, tison d'enfer, fesse-mathieu femelle.
 
       Je vais à la bibliothèque
 Prendre un livre, et vous lire un traité de Sénèque.
-

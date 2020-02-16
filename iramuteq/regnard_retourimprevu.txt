@@ -1,6 +1,7 @@
 
 
-**** *creator_regnard *book_regnard_retourimprevu *style_prose *genre_comedy *dist1_regnard_prose_comedy_retourimprevu *dist2_regnard_prose_comedy *id_GERONTE *date_1700 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_geronte
+**** *creator_regnard *book_regnard_retourimprevu *style_prose *genre_comedy *dist1_regnard_prose_comedy_retourimprevu *dist2_regnard_prose_comedy *id_GERONTE *date_1700 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_geronte
+
 
 Enfin, après bien des travaux et des dangers, voilà, grâce au ciel, mon voyage heureusement terminé ; je retrouve ma chère maison, et je crois que mon fils sera bien sensible au plaisir de me revoir en bonne santé.
 
@@ -184,8 +185,8 @@ Quoi ! La maison...
 
 Ah, malheureux ! Mais... Qu'on me rende mon argent, je me sens assez d'humeur à consentir à ce que vous voulez ; c'est le moyen de vous empêcher de faire pis.
 
-
 **** *creator_regnard *book_regnard_retourimprevu *style_prose *genre_comedy *dist1_regnard_prose_comedy_retourimprevu *dist2_regnard_prose_comedy *id_CLITANDRE *date_1700 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clitandre
+
 
 Hé ! Bonjour, ma chère Lisette. Comment te portes-tu, mon enfant ? Que fait ta belle maîtresse ?
 
@@ -231,8 +232,8 @@ Les moments sont trop chers aux amants ; n'en perdons aucun.
 
 Il ne faut pas, mon père, abuser plus longtemps de votre crédulité. Tout ceci est un effet du zèle et de l'imagination de Merlin, pour vous empêcher d'entrer chez vous, où j'étais avec Lucile dans le dessein de l'épouser. Je vous demande pardon de ma conduite passée : consentez à ce mariage, je vous prie : on vous rendra votre argent ; et je promets que vous serez content de moi dans la suite.
 
-
 **** *creator_regnard *book_regnard_retourimprevu *style_prose *genre_comedy *dist1_regnard_prose_comedy_retourimprevu *dist2_regnard_prose_comedy *id_MADAMEBERTRAND *date_1700 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamebertrand
+
 
 Ah ! Vous voilà ! Je suis fort aise de vous rencontrer. Parlons ensemble un peu sérieusement, je vous prie, mademoiselle Lisette.
 
@@ -296,8 +297,17 @@ C'est cette coquine de Lisette et ma nièce.
 
 Lucile est ma nièce ; et si votre fils l'épouse, je lui donnerai un mariage dont vous serez content.
 
+**** *creator_regnard *book_regnard_retourimprevu *style_prose *genre_comedy *dist1_regnard_prose_comedy_retourimprevu *dist2_regnard_prose_comedy *id_LUCILE *date_1700 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucile
+
+
+Les démarches que vous me faites faire, Clitandre, ne peuvent être justifiées que par le succès qu'elles vont avoir ; et je serais entièrement perdue dans le monde, si le mariage ne mettait fin à toutes les parties de plaisir où je me laisse engager tous les jours.
+
+Et depuis quand, monsieur le Marquis, vous mêlez- vous d'aller à Versailles ? Il me semble que vous faites ordinairement votre cour à Paris.
+
+Avez-vous bien des écoliers ?
 
 **** *creator_regnard *book_regnard_retourimprevu *style_prose *genre_comedy *dist1_regnard_prose_comedy_retourimprevu *dist2_regnard_prose_comedy *id_CIDALISE *date_1700 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cidalise
+
 
 Je suis caution de la bonté de votre coeur, et vous touchez au moment de la justifier par vous-même. Mais moi qui n'entre pour rien dans l'aventure, et qui n'ai point en vue de conclusion, quel personnage est-ce que je fais dans tout ceci ? Et que dira-t-on, je vous prie ?
 
@@ -307,8 +317,8 @@ En vérité, monsieur le Marquis, vous vous êtes bien fait attendre.
 
 L'état de fille ne m'a point encore ennuyée.
 
-
 **** *creator_regnard *book_regnard_retourimprevu *style_prose *genre_comedy *dist1_regnard_prose_comedy_retourimprevu *dist2_regnard_prose_comedy *id_LEMARQUIS *date_1700 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+
 
 Serviteur, mon ami. Ah, mesdames ! Je suis ravi de vous voir. Vous m'attendez, c'est bien fait : je suis l'âme de vos parties, j'en conviens ; le premier mobile de vos plaisirs, je le sais. Où en sommes-nous ? Le souper est-il prêt ? Épouserons-nous ? Aurons- nous du vin abondamment ? Allons, de la gaîté ; je ne me suis jamais senti de si belle humeur ; et je vous défie de m'ennuyer.
 
@@ -360,8 +370,8 @@ Ne nous plaignons point les uns des autres, et ne parlons point mal des absents�
 
 C'est bien dit ; cela me plaît. Touchez là, monsieur Géronte ; vous êtes un brave homme : je veux boire avec vous : allons nous remettre à table. Cela est heureux que vous soyez venu tout à propos pour être de la noce.
 
-
 **** *creator_regnard *book_regnard_retourimprevu *style_prose *genre_comedy *dist1_regnard_prose_comedy_retourimprevu *dist2_regnard_prose_comedy *id_LISETTE *date_1700 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
 Aussi sérieusement qu'il vous plaira, Madame Bertrand.
 
@@ -435,8 +445,8 @@ Vingt mille francs !
 
 Mais si...
 
-
 **** *creator_regnard *book_regnard_retourimprevu *style_prose *genre_comedy *dist1_regnard_prose_comedy_retourimprevu *dist2_regnard_prose_comedy *id_MONSIEURANDRE *date_1700 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurandre
+
 
 Bonjour, monsieur Merlin.
 
@@ -456,8 +466,8 @@ J'en ai bien de la joie.
 
 Soit. Je suis votre valet.
 
-
 **** *creator_regnard *book_regnard_retourimprevu *style_prose *genre_comedy *dist1_regnard_prose_comedy_retourimprevu *dist2_regnard_prose_comedy *id_MERLIN *date_1700 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merlin
+
 
 Bonjour, ma chère enfant. Qui est cette vieille madame avec qui tu étais en conversation ?
 
@@ -709,8 +719,8 @@ Elle ne l'est que de ma façon. ?
 
 Tout cela part de là.
 
-
 **** *creator_regnard *book_regnard_retourimprevu *style_prose *genre_comedy *dist1_regnard_prose_comedy_retourimprevu *dist2_regnard_prose_comedy *id_JAQUINET *date_1700 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jaquinet
+
 
 À la fin me voilà. Hé ! Bonjour, Merlin ; soyez le bien retrouvé. Comment te portes-tu ?
 
@@ -733,4 +743,3 @@ Moi ! Que veux-tu que je fasse ?
 Cela n'est pas bien difficile.
 
 J'exécuterai tes ordres à merveille, ne te mets pas en peine.
-

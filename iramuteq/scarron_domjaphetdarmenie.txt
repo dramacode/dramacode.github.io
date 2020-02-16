@@ -2,6 +2,7 @@
 
 **** *creator_scarron *book_scarron_domjaphetdarmenie *style_verse *genre_comedy *dist1_scarron_verse_comedy_domjaphetdarmenie *dist2_scarron_verse_comedy *id_DONJAPHET *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjaphet
 
+
       Bailli, votre fortune est grande,
 Puisque vous m'avez plu.
 
@@ -1005,8 +1006,8 @@ Foucaral, fais venir mon bagage d'Orgas.
 Soit ; aussi bien mon train n'est pas chose encore prête,
 Mais point de renifleur, ou je trouble la fête.
 
-
 **** *creator_scarron *book_scarron_domjaphetdarmenie *style_verse *genre_comedy *dist1_scarron_verse_comedy_domjaphetdarmenie *dist2_scarron_verse_comedy *id_FOUCARAL *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_foucaral
+
 
 C'est plus qu'il ne nous faut.
 
@@ -1223,8 +1224,8 @@ Don Japhet courroucé vient chanter votre gamme.
 Il est déjà venu sans mulets ni charrette,
 J'ai tout dans un chausson au fonds de ma pochette.
 
-
 **** *creator_scarron *book_scarron_domjaphetdarmenie *style_verse *genre_comedy *dist1_scarron_verse_comedy_domjaphetdarmenie *dist2_scarron_verse_comedy *id_DONALFONCE *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donalfonce
+
 
 Si Marc Antoine m'aime, il faut bien qu'il s'y range.
 
@@ -1501,8 +1502,8 @@ Et que j'étais aimé de ma belle Maîtresse ;
 Vous ne me croirez plus d'âme double et traîtresse,
 Et vous pardonnerez.
 
-
 **** *creator_scarron *book_scarron_domjaphetdarmenie *style_verse *genre_comedy *dist1_scarron_verse_comedy_domjaphetdarmenie *dist2_scarron_verse_comedy *id_MARCANTOINE *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marcantoine
+
 
 La résolution est tout à fait étrange.
 
@@ -1611,8 +1612,8 @@ Dieu nous veuille garder d'avoir pis que Japhet ;
 Ô qu'il est mal aisé quand on sert un jeune homme
 De dormir tous les jours à l'aise et de bon somme.
 
-
 **** *creator_scarron *book_scarron_domjaphetdarmenie *style_verse *genre_comedy *dist1_scarron_verse_comedy_domjaphetdarmenie *dist2_scarron_verse_comedy *id_LECOMMANDEUR *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecommandeur
+
 
 Vous dites donc Monsieur, que ma bonne Cousine,
 Dans deux jours au plus tard en ces lieux s'achemine ?
@@ -1804,8 +1805,8 @@ Et puis après ira suivi de vingt Carrosses
 Recevoir dans Madrid l'infante Ahihua,
 Qui vient de Père en fils, de Capac et Coïa.
 
-
 **** *creator_scarron *book_scarron_domjaphetdarmenie *style_verse *genre_comedy *dist1_scarron_verse_comedy_domjaphetdarmenie *dist2_scarron_verse_comedy *id_LEONORE *date_1647 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonore
+
 
 Je ne le puis celer, je l'aime.
 
@@ -1973,8 +1974,8 @@ Ce serait fait de moi.
 Votre bonté me rend et muette et confuse,
 Et mon crime est si grand.
 
-
 **** *creator_scarron *book_scarron_domjaphetdarmenie *style_verse *genre_comedy *dist1_scarron_verse_comedy_domjaphetdarmenie *dist2_scarron_verse_comedy *id_MARINE *date_1647 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marine
+
 
       À la bonne heure,
 Puisqu'il vous aime aussi voulez-vous tout à l'heure
@@ -2089,8 +2090,8 @@ Léonore m'attend, foin, ma bougie est morte,
 Je pourrais bien heurter mon nez à quelque porte,
 Peste soit de l'amour.
 
-
 **** *creator_scarron *book_scarron_domjaphetdarmenie *style_verse *genre_comedy *dist1_scarron_verse_comedy_domjaphetdarmenie *dist2_scarron_verse_comedy *id_ELVIRE *date_1647 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elvire
+
 
 Ma Mère est un esprit qui ne peut revenir,
 Nous n'obtiendrons jamais ce que nous voulons d'elle,
@@ -2117,8 +2118,8 @@ Que vous avez coûté de larmes à ma mère ?
 
 Ce bien heureux Hymen va la ressusciter.
 
-
 **** *creator_scarron *book_scarron_domjaphetdarmenie *style_verse *genre_comedy *dist1_scarron_verse_comedy_domjaphetdarmenie *dist2_scarron_verse_comedy *id_DONALVARE *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donalvare
+
 
 Depuis deux mois entiers qu'il partit de Séville,
 Personne ne l'a vu dans cette grande ville,
@@ -2287,8 +2288,8 @@ Il épouse aujourd'hui Léonore, ou demain ;
 
 Si vous vous en mêlez la chose est fort facile.
 
-
 **** *creator_scarron *book_scarron_domjaphetdarmenie *style_verse *genre_comedy *dist1_scarron_verse_comedy_domjaphetdarmenie *dist2_scarron_verse_comedy *id_RODRIGUE *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rodrigue
+
 
 Cette Lettre Monsieur vous apprendra l'affaire.
 Qui m'achemine ici.
@@ -2328,8 +2329,8 @@ J'ai trouvé ces habits au détour de la rue ;
 Un homme qui fuyait les tenait embrassés
 Il les a laissés choir, je les ai ramassés.
 
-
 **** *creator_scarron *book_scarron_domjaphetdarmenie *style_verse *genre_comedy *dist1_scarron_verse_comedy_domjaphetdarmenie *dist2_scarron_verse_comedy *id_LEBAILLI *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebailli
+
 
       Le bon Dieu vous le rende.
 
@@ -2404,8 +2405,8 @@ C'est le grand Don Japhet.
 
 Cousin de Charles-Quint.
 
-
 **** *creator_scarron *book_scarron_domjaphetdarmenie *style_verse *genre_comedy *dist1_scarron_verse_comedy_domjaphetdarmenie *dist2_scarron_verse_comedy *id_JEANVINCENT *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jeanvincent
+
 
       À vous-même.
 Monsieur, c'est le Bailli.
@@ -2445,8 +2446,8 @@ Devant que de partir il faut un peu manger.
 Vous n'avez que le temps qu'il vous faut justement :
 Allez tout de ce pas vous jeter en carrosse.
 
-
 **** *creator_scarron *book_scarron_domjaphetdarmenie *style_verse *genre_comedy *dist1_scarron_verse_comedy_domjaphetdarmenie *dist2_scarron_verse_comedy *id_HARANGUEUR *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_harangueur
+
 
 Monsieur.
 
@@ -2508,8 +2509,8 @@ Où notre Commandeur l'a lui-même enfermée.
 
       Je crois que le voici.
 
-
 **** *creator_scarron *book_scarron_domjaphetdarmenie *style_verse *genre_comedy *dist1_scarron_verse_comedy_domjaphetdarmenie *dist2_scarron_verse_comedy *id_COURIER *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_courier
+
 
       Je suis le Courier ordinaire
 De votre grand César.
@@ -2552,3 +2553,26 @@ De gorges de Griffons, de peaux de Loups-garous
 De baume gris de lin, de Vezugues musquées,
 De grandes pièces d'or non encor fabriquées.
 
+**** *creator_scarron *book_scarron_domjaphetdarmenie *style_verse *genre_comedy *dist1_scarron_verse_comedy_domjaphetdarmenie *dist2_scarron_verse_comedy *id_TORRIBOPONCIL *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_torriboponcil
+
+
+Torribio Poncil.
+
+      La Calabre.
+
+**** *creator_scarron *book_scarron_domjaphetdarmenie *style_verse *genre_comedy *dist1_scarron_verse_comedy_domjaphetdarmenie *dist2_scarron_verse_comedy *id_LLORENTERIBEROS *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_llorenteriberos
+
+
+      Llorente Riberos.
+
+      Portugal.
+
+      De Miros.
+
+**** *creator_scarron *book_scarron_domjaphetdarmenie *style_verse *genre_comedy *dist1_scarron_verse_comedy_domjaphetdarmenie *dist2_scarron_verse_comedy *id_DUEGNE *date_1647 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_duegne
+
+
+      La nuit est fort obscure,
+Gare l'eau.
+
+Gare l'eau.

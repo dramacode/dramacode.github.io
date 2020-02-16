@@ -2,6 +2,7 @@
 
 **** *creator_racine *book_racine_britannicus *style_verse *genre_tragedy *dist1_racine_verse_tragedy_britannicus *dist2_racine_verse_tragedy *id_NERON *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_neron
 
+
 N'en doutez point, Burrhus ; malgré ses injustices
 C'est ma mère, et je veux ignorer ses caprices.
 Mais je ne prétends plus ignorer ni souffrir
@@ -459,8 +460,8 @@ Madame, mais qui peut vous tenir ce langage ?
 
       Narcisse, suivez-moi.
 
-
 **** *creator_racine *book_racine_britannicus *style_verse *genre_tragedy *dist1_racine_verse_tragedy_britannicus *dist2_racine_verse_tragedy *id_BRITANNICUS *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_britannicus
+
 
       Ce que je cherche ? Ah dieux !
 Tout ce que j'ai perdu, Madame, est en ces lieux.
@@ -759,8 +760,8 @@ Hâtez-vous d'embrasser ma soeur qui vous attend.
 Dès que je le pourrai je reviens sur vos traces,
 Madame, et de vos soins j'irai vous rendre grâces.
 
-
 **** *creator_racine *book_racine_britannicus *style_verse *genre_tragedy *dist1_racine_verse_tragedy_britannicus *dist2_racine_verse_tragedy *id_AGRIPPINE *date_1669 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_agrippine
+
 
 Albine, il ne faut pas s'éloigner un moment.
 Je veux l'attendre ici. Les chagrins qu'il me cause
@@ -1265,8 +1266,8 @@ Mais Burrhus, allons voir jusqu'où vont ses transports.
 Voyons quel changement produiront ses remords,
 S'il voudra désormais suivre d'autres maximes.
 
-
 **** *creator_racine *book_racine_britannicus *style_verse *genre_tragedy *dist1_racine_verse_tragedy_britannicus *dist2_racine_verse_tragedy *id_JUNIE *date_1669 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junie
+
 
 Seigneur, je ne vous puis déguiser mon erreur.
 J'allais voir Octavie, et non pas l'empereur.
@@ -1487,8 +1488,8 @@ Ah mon Prince !
       Pardonnez, Madame, à ce transport.
 Je vais le secourir, si je puis, ou le suivre.
 
-
 **** *creator_racine *book_racine_britannicus *style_verse *genre_tragedy *dist1_racine_verse_tragedy_britannicus *dist2_racine_verse_tragedy *id_BURRHUS *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_burrhus
+
 
       Madame,
 Au nom de l'empereur j'allais vous informer
@@ -1815,8 +1816,8 @@ La plus soudaine mort me sera la plus chère.
 
 Plût aux dieux que ce fût le dernier de ses crimes !
 
-
 **** *creator_racine *book_racine_britannicus *style_verse *genre_tragedy *dist1_racine_verse_tragedy_britannicus *dist2_racine_verse_tragedy *id_NARCISSE *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_narcisse
+
 
 N'importe. Elle se sent comme vous outragée.
 À vous donner Junie elle s'est engagée.
@@ -2029,8 +2030,8 @@ Laissez les pleurs, Madame, à vos seuls ennemis.
 Qu'ils mettent ce malheur au rang des plus sinistres.
 Mais vous...
 
-
 **** *creator_racine *book_racine_britannicus *style_verse *genre_tragedy *dist1_racine_verse_tragedy_britannicus *dist2_racine_verse_tragedy *id_ALBINE *date_1669 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_albine
+
 
 Quoi ! Tandis que Néron s'abandonne au sommeil,
 Faut-il que vous veniez attendre son réveil ?
@@ -2134,4 +2135,3 @@ Si vous l'abandonnez plus longtemps sans secours,
 Que sa douleur bientôt n'attente sur ses jours.
 Le temps presse. Courez. Il ne faut qu'un caprice.
 Il se perdrait, Madame.
-

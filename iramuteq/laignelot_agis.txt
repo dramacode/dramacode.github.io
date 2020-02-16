@@ -2,6 +2,7 @@
 
 **** *creator_laignelot *book_laignelot_agis *style_verse *genre_tragedy *dist1_laignelot_verse_tragedy_agis *dist2_laignelot_verse_tragedy *id_AGIS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agis
 
+
 Au péril de vos jours pourquoi me secourir,
 Et de vos boucliers malgré moi me couvrir ?
 Léonidas nous laisse une libre retraite :
@@ -421,8 +422,8 @@ Vis ; et ma mère, et toi, consacrez ce grand jour.
 C'est pour lui, Citoyens, que je cesse de vivre ;
 Je vous lègue, en mourant, ce bel exemple à suivre.
 
-
 **** *creator_laignelot *book_laignelot_agis *style_verse *genre_tragedy *dist1_laignelot_verse_tragedy_agis *dist2_laignelot_verse_tragedy *id_LEONIDAS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leonidas
+
 
       Quoi, vous, ma fille, ici !
 Venez-vous de ce traître encourager l'audace ?
@@ -769,8 +770,8 @@ Par qui le criminel doit être accompagné,
 Et que de toutes parts il soit environné :
 Je vole à l'ennemi.
 
-
 **** *creator_laignelot *book_laignelot_agis *style_verse *genre_tragedy *dist1_laignelot_verse_tragedy_agis *dist2_laignelot_verse_tragedy *id_AGESISTRATE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_agesistrate
+
 
 Je viens d'armer mon fils ! C'est aux Dieux à juger
 Lequel des deux partis ils doivent protéger :
@@ -1050,8 +1051,8 @@ Célébrons dignement aux yeux de Sparte entière
 Un héros que sa mort égale aux Immortels,
 Et que partout l'encens fume sur les Autels.
 
-
 **** *creator_laignelot *book_laignelot_agis *style_verse *genre_tragedy *dist1_laignelot_verse_tragedy_agis *dist2_laignelot_verse_tragedy *id_CHELONIS *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_chelonis
+
 
 Tes périls, mon devoir. Connais-moi toute entière.
 Quant le sort ennemi persécuta mon père,
@@ -1253,8 +1254,8 @@ Mais, hélas ! C'est à moi de fermer sa paupière.
 
 Il expire !
 
-
 **** *creator_laignelot *book_laignelot_agis *style_verse *genre_tragedy *dist1_laignelot_verse_tragedy_agis *dist2_laignelot_verse_tragedy *id_LYSANDER *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lysander
+
 
 Que le peu de vrais fils dont s'honore l'État
 Court à Léonidas présenter le combat.
@@ -1587,4 +1588,3 @@ Renfermez devant lui les transports de votre âme !
 Nous jurons d'obéir.
 
 Ô courage !
-

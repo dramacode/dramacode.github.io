@@ -2,6 +2,7 @@
 
 **** *creator_patrat *book_patrat_vengeance *style_verse *genre_comedy *dist1_patrat_verse_comedy_vengeance *dist2_patrat_verse_comedy *id_MADAMEWANDERK *date_1798 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamewanderk
 
+
 Mon notaire oubliait ces papiers importants.
 Cours après lui, Fridric, et passe en même temps
 Chez mon bijoutier.
@@ -440,8 +441,8 @@ On marche au vice par l'erreur.
 Si vous voulez toujours suivre l'honneur,
 N'offensez jamais la nature. »
 
-
 **** *creator_patrat *book_patrat_vengeance *style_verse *genre_comedy *dist1_patrat_verse_comedy_vengeance *dist2_patrat_verse_comedy *id_ADELAIDE *date_1798 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_adelaide
+
 
 Ô comme c'est joli !
       Maman que je t'embrasse.
@@ -759,8 +760,8 @@ Je signe l'arrêt de ma mort.
 
 Ma mère !
 
-
 **** *creator_patrat *book_patrat_vengeance *style_verse *genre_comedy *dist1_patrat_verse_comedy_vengeance *dist2_patrat_verse_comedy *id_LISBETH *date_1798 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisbeth
+
 
 Allons, allons ; le temps s'avance.
 
@@ -963,8 +964,8 @@ Oh ! Gardez vos secrets, cela m'est bien égal.
 
 Ah ! Je vous reconnais !
 
-
 **** *creator_patrat *book_patrat_vengeance *style_verse *genre_comedy *dist1_patrat_verse_comedy_vengeance *dist2_patrat_verse_comedy *id_FRIDRIC *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fridric
+
 
 Je ne m'amuse pas ; et vous pouvez le voir.
 
@@ -1132,4 +1133,3 @@ Hé wals, hé wals, hé houp ça, ça !
 Votre notaire.
 
 C'est à présent qu'on valsera.
-

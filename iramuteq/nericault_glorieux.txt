@@ -2,6 +2,7 @@
 
 **** *creator_nericault *book_nericault_glorieux *style_verse *genre_comedy *dist1_nericault_verse_comedy_glorieux *dist2_nericault_verse_comedy *id_LISIMON *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisimon
 
+
 Bonjour, ma chère enfant ; embrasse-moi bien fort.
 Comment donc, tu me fuis ?
 
@@ -478,8 +479,8 @@ Bon ! Nous allons donc faire un double mariage.
 Et, s'il reste entiché d'un peu de vaine gloire,
 Avec tant de mérite on peut s'en faire accroire.
 
-
 **** *creator_nericault *book_nericault_glorieux *style_verse *genre_comedy *dist1_nericault_verse_comedy_glorieux *dist2_nericault_verse_comedy *id_ISABELLE *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
 
 Adieu ! Vous moquez-vous ? Dites-moi donc, mon frère,
 Cette grande nouvelle.
@@ -776,8 +777,8 @@ Je prends part au bonheur que le ciel vous envoie.
 
 Mon cour parle pour vous ; mais je crains vos hauteurs.
 
-
 **** *creator_nericault *book_nericault_glorieux *style_verse *genre_comedy *dist1_nericault_verse_comedy_glorieux *dist2_nericault_verse_comedy *id_VALERE *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+
 
 Mon père, qu'avez-vous ?
 
@@ -1025,8 +1026,8 @@ Je suis perdu.
 
 Quel heureux dénouement ! Je vais mourir de joie.
 
-
 **** *creator_nericault *book_nericault_glorieux *style_verse *genre_comedy *dist1_nericault_verse_comedy_glorieux *dist2_nericault_verse_comedy *id_PHILINTE *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philinte
+
 
 Madame... je crains bien de vous importuner.
 
@@ -1165,8 +1166,8 @@ Me permet d'aspirer au bonheur de lui plaire.
 Dès qu'elles m'excluront, je leur obéirai.
 Jusque-là j'ai mes droits, et je les soutiendrai.
 
-
 **** *creator_nericault *book_nericault_glorieux *style_verse *genre_comedy *dist1_nericault_verse_comedy_glorieux *dist2_nericault_verse_comedy *id_LYCANDRE *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lycandre
+
 
 Enfin, je vous revois ; cette rencontre heureuse
 Me comble de plaisir.
@@ -1569,8 +1570,8 @@ Sa vertu, plus que moi, la remet dans son rang.
 Mon fils est glorieux ; mais il a le cour bon.
 Cela répare tout.
 
-
 **** *creator_nericault *book_nericault_glorieux *style_verse *genre_comedy *dist1_nericault_verse_comedy_glorieux *dist2_nericault_verse_comedy *id_LISETTE *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
 Mon cher Monsieur Pasquin, je suis votre servante.
 
@@ -2354,8 +2355,8 @@ Mon frère, en vérité, ment fort bien quelquefois.
 
 En me reconnaissant, confirmez mon bonheur.
 
-
 **** *creator_nericault *book_nericault_glorieux *style_verse *genre_comedy *dist1_nericault_verse_comedy_glorieux *dist2_nericault_verse_comedy *id_PASQUIN *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pasquin
+
 
 Lisette ne vient point : je crois que la friponne
 A voulu se moquer un peu de ma personne
@@ -2787,8 +2788,8 @@ Comment donc ? Le voilà comme pétrifié !
 
       Il y fait trop chaud. Je fais ce qu'on m'ordonne.
 
-
 **** *creator_nericault *book_nericault_glorieux *style_verse *genre_comedy *dist1_nericault_verse_comedy_glorieux *dist2_nericault_verse_comedy *id_LAFLEUR *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafleur
+
 
 Il joue ; et, qui plus est, il y fait bien son compte :
 Car il va mettre à sec un franc provincial,
@@ -2865,8 +2866,8 @@ Et je parlerai, moi, si je n'ai pas réponse.
 
       Oserais-je vous dire ?...
 
-
 **** *creator_nericault *book_nericault_glorieux *style_verse *genre_comedy *dist1_nericault_verse_comedy_glorieux *dist2_nericault_verse_comedy *id_MONSIEURJOSSE *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurjosse
+
 
       Est-ce ici qu'on s'assemble ?
 
@@ -2925,4 +2926,3 @@ Et quel douaire aura l'épouse contractante ?
 Sur quoi l'assignez-vous ?
 
       Voilà votre affaire finie.
-

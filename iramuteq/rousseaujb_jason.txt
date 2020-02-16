@@ -2,6 +2,7 @@
 
 **** *creator_rousseaujb *book_rousseaujb_jason *style_verse *genre_opera *dist1_rousseaujb_verse_opera_jason *dist2_rousseaujb_verse_opera *id_PAN *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pan
 
+
 Un doux repos suspend les troubles de la guerre
 Dans nos tranquilles champs les jeux vont revenir;
 Et Mars, las d'alarmer la terre
@@ -46,8 +47,24 @@ De leurs derniers efforts tout l'effet se réduit
 Et contre leurs propres remparts
 Tourner la fureur de leurs armes.
 
+**** *creator_rousseaujb *book_rousseaujb_jason *style_verse *genre_opera *dist1_rousseaujb_verse_opera_jason *dist2_rousseaujb_verse_opera *id_LAPAIX *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lapaix
+
+
+C'est en vain qu'à ses ennemis
+Son coeur se montre favorable
+Leur orgueil, mille fois soumis,
+Renaît du malheur qui l'accable.
+
+Laissons-les s'égarer dans leurs vagues projets,
+Et goûtons les douceurs d'un repos plein d'attraits.
+
+Retraçons aujourd'hui la célèbre entreprise
+Qui conduisit Jason sur les bords de Colchos
+Et montrons ce que peut la vertu d'un héros,
+Lorsque le ciel la favorise.
 
 **** *creator_rousseaujb *book_rousseaujb_jason *style_verse *genre_opera *dist1_rousseaujb_verse_opera_jason *dist2_rousseaujb_verse_opera *id_MEDEE *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_medee
+
 
 Je ne viens point, par un indigne effroi
 Arrêter en ces lieux l'ardeur qui vous anime ;
@@ -308,8 +325,8 @@ La nature cède à l'amour.
 Je t'offre la Toison, et, je vais dans la Grèce,
 Par ce gage éclatant racheter ton retour.
 
-
 **** *creator_rousseaujb *book_rousseaujb_jason *style_verse *genre_opera *dist1_rousseaujb_verse_opera_jason *dist2_rousseaujb_verse_opera *id_JASON *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jason
+
 
 Au milieu des horreurs d'une guerre effroyable,
 Dois-je accabler encore un roi trop déplorable,
@@ -536,8 +553,8 @@ Que m'inspire un juste transport,
 Partons et que bientôt ma mort
 Succède à la douceur de venger ce que j'aime.
 
-
 **** *creator_rousseaujb *book_rousseaujb_jason *style_verse *genre_opera *dist1_rousseaujb_verse_opera_jason *dist2_rousseaujb_verse_opera *id_ORPHEE *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orphee
+
 
 C'est trop garder un timide silence
 Nos Grecs, si longtemps abusés,
@@ -595,8 +612,8 @@ Embarquons-nous, venez, le temps nous presse.
 Étouffez une vaine flamme
 Partons, éloignons-nous de ces funestes bords.
 
-
 **** *creator_rousseaujb *book_rousseaujb_jason *style_verse *genre_opera *dist1_rousseaujb_verse_opera_jason *dist2_rousseaujb_verse_opera *id_HYPSIPILE *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hypsipile
+
 
 Enfin je vous revois et mon âme interdite...
 Que vois-je ? Et quelle est ma douleur ?
@@ -716,3 +733,84 @@ Et ce fer va finir ma vie et mes douleurs.
 Reçois ce sanglant sacrifice,
 Chère ombre, cher amant c'est pour toi que je meurs.
 
+**** *creator_rousseaujb *book_rousseaujb_jason *style_verse *genre_opera *dist1_rousseaujb_verse_opera_jason *dist2_rousseaujb_verse_opera *id_VENUS *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
+
+
+Vénus s'intéresse à ton sort,
+Garde-toi d'écouter le dangereux transport
+Où ton coeur s'abandonne.
+L'Amour veut par tes soins être victorieux,
+Tu dois suivre ce qu'il ordonne,
+La vertu des mortels est d'obéir aux Dieux.
+
+**** *creator_rousseaujb *book_rousseaujb_jason *style_verse *genre_opera *dist1_rousseaujb_verse_opera_jason *dist2_rousseaujb_verse_opera *id_NEPTUNE *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_neptune
+
+
+N'accuse plus ton héros d'inconstance.
+Son coeur t'aime toujours avec sincérité,
+Sur les rapports trompeurs d'une vaine apparence,
+Ne doute plus de sa fidélité.
+Divinités qui régnez sur les ondes,
+Néréides, Tritons, Dieux soumis à mes lois,
+Quittez vos retraites profondes,
+Venez remplir ces lieux du bruit de votre voix ;
+Et vous, peuples de ce rivage,
+Par vos jeux et par vos concerts
+Rendez à cette reine un éclatant hommage ;
+Jamais Vénus, sortant du sein des mers
+Ne fit voir à vos yeux un plus riche assemblage
+De grâces et d'attraits divers.
+
+**** *creator_rousseaujb *book_rousseaujb_jason *style_verse *genre_opera *dist1_rousseaujb_verse_opera_jason *dist2_rousseaujb_verse_opera *id_LAMOUR *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
+
+
+L'amour vient terminer votre peine cruelle,
+Tendres amants, soyez heureux.
+Disparaissez, monstres affreux;
+Rentrez dans la nuit éternelle.
+Venez, charmants plaisirs, changer ces tristes lieux,
+En des jardins délicieux.
+Amants, conservez l'espérance
+Tôt ou tard un heureux moment
+Est la récompense
+De votre tourment.
+Quand après de longues chaînes
+L'amour comble vos désirs,
+Le souvenir de vos peines
+Doit redoubler vos plaisirs.
+Marquez, aimables jeux, votre réjouissance,
+Que tout ressente ici l'amour et sa puissance.
+
+**** *creator_rousseaujb *book_rousseaujb_jason *style_verse *genre_opera *dist1_rousseaujb_verse_opera_jason *dist2_rousseaujb_verse_opera *id_LASIBYLLE *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lasibylle
+
+
+Cesse de vouloir me contraindre,
+Ne cherche plus à t'assurer
+Des malheurs que ton coeur peut craindre,
+C'est toujours un bien d'espérer,
+Et les maux ne sont point à plaindre,
+Tant que l'on peut les ignorer.
+
+Vers ces antres inhabitables
+Vois s'élever aux cieux cet arbre révéré,
+C'est sur son feuillage sacré
+Que j'écris du destin les lois irrévocables ;
+Mais du sage Apollon les ordres éternels
+Défendent aux coeurs criminels
+De jouir de cet avantage.
+Si par quelque noirceur ton coeur est profané,
+Tu verras dans les airs disperser ce feuillage,
+De la fureur des vents jouet infortuné.
+
+Je vais répondre à ton attente,
+Mes sens sont agités d'une sainte fureur.
+Le fatal avenir à mes yeux se présente.
+Dieux ! Quel spectacle plein d'horreur! 1
+Tu meurs, ô déplorable amante!
+Tu t'immoles toi-même à ta vaine terreur ;
+Et ta rivale triomphante
+Jouit en paix de ton erreur.
+Mais quel forfait épouvantable
+Va cimenter son bonheur odieux ?
+Tremble, malheureuse coupable,
+Crains le juste courroux des Dieux.

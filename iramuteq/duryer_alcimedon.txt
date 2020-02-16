@@ -2,6 +2,7 @@
 
 **** *creator_duryer *book_duryer_alcimedon *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcimedon *dist2_duryer_verse_tragedy *id_DAPHNE *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_daphne
 
+
 Termine ce discours que j'entends chaque jour,
 Tu perds contre un rocher les flèches de l'amour,
 Appelle-moi cruelle, appelle-moi sauvage,
@@ -520,8 +521,8 @@ Et nie l'ayant donné vous voulez me l'ôter.
 Nous n'avons pas tari la source de nos pleurs,
 En devons-nous encore à de nouveaux malheurs ?
 
-
 **** *creator_duryer *book_duryer_alcimedon *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcimedon *dist2_duryer_verse_tragedy *id_NERINE *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
+
 
 Quitte, Chère Daphné, le titre de cruelle,
 Pour te faire adorer il suffit d'être belle,
@@ -952,8 +953,8 @@ Voici de tant de maux le sujet malheureux.
 Tyrène il faut céder, et te rendre à ton tour,
 Puisque un Roi prend ici le parti de l'amour.
 
-
 **** *creator_duryer *book_duryer_alcimedon *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcimedon *dist2_duryer_verse_tragedy *id_SCAMANDRE *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scamandre
+
 
       Et souffre enfin adorable beauté
 Que je voie une fois mon bonheur arrêté.
@@ -1521,8 +1522,8 @@ Qu'à tant de déplaisirs succède tant de gloire ?
 Ha ! Madame, nos biens sont d'autant plus certains,
 Que pour les appuyer vous nous prêtez les mains.
 
-
 **** *creator_duryer *book_duryer_alcimedon *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcimedon *dist2_duryer_verse_tragedy *id_PHILANTE *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philante
+
 
       Cruelle
 Autant que ton amant est aimable et fidèle,
@@ -1691,8 +1692,8 @@ Le plus sacré lien qui nous vienne des Cieux ;
 Votre sort est si beau, tant d'éclat l'environne
 Qu'il mérite aujourd'hui qu'un grand Roi le couronne.
 
-
 **** *creator_duryer *book_duryer_alcimedon *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcimedon *dist2_duryer_verse_tragedy *id_RODOPE *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rodope
+
 
 Ha que c'est vainement qu'en matières d'amours
 Hors de l'objet aimé l'on cherche du secours !
@@ -2164,8 +2165,8 @@ Devant que ton Amour le reçoive du Roi.
 Puissiez-vous les trouver aussi remplis de charmes
 Que leur possession vous a coûté de larmes.
 
-
 **** *creator_duryer *book_duryer_alcimedon *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcimedon *dist2_duryer_verse_tragedy *id_TIRENE *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tirene
+
 
 Madame on vous attend au château de Climène.
 
@@ -2373,8 +2374,8 @@ La foi qu'on m'a donnée et qu'on me veut ôter.
 Je n'ai jamais brûlé d'une amour obstinée,
 Et le vouloir du Roi m'est une destinée
 
-
 **** *creator_duryer *book_duryer_alcimedon *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcimedon *dist2_duryer_verse_tragedy *id_TRACINE *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tracine
+
 
       Je vous viens assurer
 Que la force d'un Dieu ne l'en peut retirer.
@@ -2401,8 +2402,8 @@ Mais, Madame.
 
 Ce n'est pas lui, Madame.
 
-
 **** *creator_duryer *book_duryer_alcimedon *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_alcimedon *dist2_duryer_verse_tragedy *id_GERON *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_geron
+
 
 Scamandre, il faut mourir.
 
@@ -2420,4 +2421,3 @@ Madame vengez-vous.
 Madame je la tiens, contentez votre envie.
 
       Hé Dieux quelle surprise !
-

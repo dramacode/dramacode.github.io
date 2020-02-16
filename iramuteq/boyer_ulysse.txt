@@ -2,6 +2,7 @@
 
 **** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *id_ulisse *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_ulisse
 
+
 Vostre Reyne aujourd'huy se fait beaucoup attendre ;
 J'ay crû qu'elle seroit la premiere à s'y rendre,
 Pour jouïr d'un concert si remply de douceur,
@@ -440,8 +441,8 @@ Monstre en vous dignement le Dieu dont vous sortez ;
 Et repande par tout des rayons de lumiere
 Aussi purs et brillans que ceux de vostre pere.
 
-
 **** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *id_euriloche *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_euriloche
+
 
 Non, Seigneur, nostre Grece en delices fertile
 N'a rien de comparable aux douceurs de cette Ile.
@@ -991,8 +992,8 @@ Je ne puis me resoudre à perdre un bien si cher.
 Amys qu'on se dispose au combat qui s'apreste
 Contre nos ennemis et contre la tempeste.
 
-
 **** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *id_elpenor *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_elpenor
+
 
 Quand flatté⁎ d'un bonheur qui passe⁎ mon attente,
 Je mesure au passé ma fortune⁎ presente,
@@ -1201,8 +1202,8 @@ D'un cœur qui fut à vous je vous rends la moitié.
 Daignent les Dieux tesmoins si la vostre m'est chere,
 Punir qui de nous deux l'offrira moins sincere.
 
-
 **** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *id_circe *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_circe
+
 
 Je l'advouë aujourd'huy, vous m'avez attenduë,
 Mais tousjours cette ardeur⁎ ne m'a pas prevenuë⁎ :
@@ -1651,8 +1652,8 @@ Reprenons toutes trois nos premiers sentimens ;
 Pour affranchir nos cœurs de ces malheurs extremes
 Vivons sans passions, et Reynes de nous-mesmes.
 
-
 **** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *id_phaetuse *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phaetuse
+
 
 Elle l'est, Elpenor, et la part que j'y prends,
 M'a donné vos transports⁎, et peut-estre plus grands.
@@ -1924,8 +1925,8 @@ Des monstres de la mer eviter la furie⁎.
 Puisqu'Elpenor est mort, nul ne peut dignement    
 Apres un tel heros se dire mon amant⁎.
 
-
 **** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *id_leucosie *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leucosie
+
  
 Quoy vous ne suivez pas ? quel ennuy⁎ vous possede ?
 Qu'est-ce ?
@@ -2164,8 +2165,8 @@ Ouy, ouy, c'est elle mesme, allons la recevoir.
 Moy, qui presumois trop d'un traistre et d'un coupable
 Je hay son sexe autant qu'il me parut aymable.
 
-
 **** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *id_perimede *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_perimede
+
 
       Que voulez-vous grand Roy ?
 Dieu des vents, qui vous fait descendre jusqu'à moy.
@@ -2232,8 +2233,18 @@ Favorise un vaisseau qui semble nous poursuivre.
  
       Sauvez là donc, on vient vous l'arracher.
 
+**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *id_melante *date_1650 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_melante
 
-**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *id_suite-ulysse *date_1650 *sexe_neutre *age_sans-age *statut_serviteur *fonction_autres *role_suiteulysse
+
+      En Ulisse, Madame
+Il attend son malheur, et cette grandeur d'ame
+Le fait voir dans ses fers⁎, dans cette affreuse⁎ tour
+Plus qu'il ne fut jamais digne de vostre amour.
+
+      Ulisse, où sera ton espoir ?
+
+**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *id_suite-ulysse *date_1650 *sexe_masculin *age_sans-age *statut_serviteur *fonction_autres *role_suiteulysse
+
 
 Des plus profonds cachots du centre de la terre
 Je roule incessamment cette masse de pierre ;
@@ -2379,8 +2390,102 @@ Tu luy doy mille exploits, et ta fidelle amour
 Par elle doit encor triompher à son tour.    
 Adieu.
 
+**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *id_eole *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_eole
+
+
+Enfans tumultueux des vapeurs de la terre,
+Qui balancez les airs d'une immortelle guerre ;
+Qui trainant apres vous le desordre et l'horreur,
+Vous combatez vous-mesme avec tant de fureur⁎,
+Furieux⁎ tourbillons, quel injuste licence
+Vous soustrait au devoir de vostre obeissance ?
+Ulisse assez souvent a senty vos efforts⁎,
+Puisque vostre fureur⁎ l'a jetté sur ces bors,
+Sans me monstrer encor dans ce dernier orage
+Sur ce vaisseau brisé l'effect de vostre rage.
+Ce Grec que Penelope envoye à son époux
+Quel crime a-t- il commis ? qu'a-t- il fait contre vous ?
+Ministres insolens des fureurs⁎ de Neptune,
+Esclaves dangereux d'une haine importune,
+Qui pour vanger un fils sur Ulisse et les siens,
+Meut toute la nature en brisant vos liens ;
+Si son ordre vous force à former des tempestes
+Allez sur d'autres mers et contre d'autres testes ;
+Mais laissez pour Ulisse et pour tous ses vaisseaux
+Un chemin applani sur l'empire des eaux.
+Toy qu'un coup de tempeste a poussé dans cette isle
+Et qui dans ce rocher cherches en vain azile,
+Sors, Perimede, sors.
+
+Du Heros que tu sers les vertus⁎ non communes
+Interessent⁎ les Dieux dans toutes ses fortunes⁎ ;
+Il sçait que de long-temps je l'ay favorisé :
+Et si ses compagnons en eussent mieux usé,
+Ulisse apres le sac de la superbe⁎ Troye,
+Eût par un prompt retour comblé les siens de joye.
+Mais les destins en ont autrement ordonné :
+A de plus longs travaux⁎ Ulisse est condamné.
+Ils veulent que sa vie en merveilles féconde
+Force avant ce retour, l'Enfer, la Terre et l'Onde :
+Et que de mille maux⁎ ce Heros combattu
+Fasse aux siècles futurs adorer sa vertu⁎.
+Revere leurs decrets, et benis ton naufrage,
+Qui seul jusques à luy t'a pû faire un passage.
+Circé depuis un an le retient en ces lieux
+Par un charme⁎ eternel de l'oreille et des yeux.
+Il viendra ce matin sur ces humides plaines,
+Jouyr avec Circé du concert des Syrenes :
+Le calme, que je laisse en garde à mes Zéphirs,
+Les invite encor mieux à ces nouveaux plaisirs.
+Tâche de l'aborder.
+
+Aeole doit ces soins⁎ à la gloire d'Ulisse ;
+A Penelope… il vient. Acheve ton employ.
+Zephir demeure icy. Vous autres suivez moy.
+
+**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *id_sommeil *date_1650 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_sommeil
+
+ 
+Vous pouvez icy tout, Nymphe que faut-il faire ?
+Commandez, et Morphée aura soin de vous plaire.
+
+**** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *id_soleil *date_1650 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_soleil
+
+
+      Asseuré des bontez⁎ de mon pere
+Je parle, et quoy qu'instruit que ses soins⁎ paternels
+Tousjours avec regret perdent les criminels,
+Plein d'une genereuse⁎, et juste confiance,
+Dessus ces mesmes soins⁎ je prens trop d'asseurance
+Pour croire, qu'oubliant ma naissance et mon rang
+Il neglige un moment la gloire de mon sang ;
+Vous cognoissez l'affront, et cet œil adorable
+Comme sur l'innocent ouvert sur le coupable,
+Voit un fier ravisseur soüiller impunement
+De ses noirs attentats l'un et l'autre element.
+Quelle bonté coupable envers vostre justice
+Sur ce grand criminel balance le suplice ?
+La foudre est inutile en vos puissantes mains,
+Si vous ne punissez celuy dont je me plains :
+De ce monstre odieux purgez la terre et l'onde,
+Et faites par ce coup justice à tout le monde ;
+Que si cet interest vous touche foiblement
+Prenez tous les transports⁎ de mon ressentiment⁎ ;
+Ou souffrez⁎ pour le moins qu'un pere miserable⁎
+Retire ses clartez de dessus un coupable,
+Et d'un soudain eclipse expliquant son malheur
+Invite tout le monde à vanger sa douleur.
+
+Soit pour son interest, ou celuy de ma fille
+Vangez sans plus tarder l'honneur de ma famille ;
+Voyez-le cet infame, avec quels longs efforts⁎
+Il veut forcer mon sang à ses lasches transports⁎ ;
+Voyez d'une autre part sur un char qui s'avance
+Leucosie et Circé, qui pressent leur vengeance.
+Je la leur ay promise.
 
 **** *creator_boyer *book_boyer_ulysse *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_ulysse *dist2_boyer_verse_tragedy *id_jupiter *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_jupiter
+
 
 Du trosne où je m'assois dans le plus haut des Cieux,
 D'où je puis commander les hommes et les Dieux,
@@ -2415,4 +2520,3 @@ Va, mon fils, enrichir l'autre moitié du monde.
 
 Nimphes voicy le coup qui vous fera justice
 Vous pouvez maintenant jouyr de son suplice.
-

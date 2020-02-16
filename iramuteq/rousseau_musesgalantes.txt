@@ -2,6 +2,7 @@
 
 **** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *id_APOLLON *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
 
+
 Naissez divins esprits, naissez fameux héros ;
 Brillez par les beaux arts, brillez par la victoire ;
 Méritez d'être admis au temple de Mémoire :
@@ -33,8 +34,22 @@ Daigne rendre Daphné sensible.
 Quoi ! Toujours soupirer sans pouvoir la fléchir ?
 Cruel ! Que ma peine est terrible !
 
+**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *id_LESMUSES *date_1744 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lesmuses
+
+
+Non, non, l'amour ni ses faux charmes
+Ne troublent jamais nos cours.
+
+Fuyons un tyran perfide,
+Craignons à notre tour.
+
+Ah ! qu'il est doux, qu'il est charmant de plaire !
+C'est l'art le plus nécessaire.
+Ah ! qu'il est doux, qu'il est flatteur
+De savoir parler au cour.
 
 **** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *id_LAMOUR *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
+
 
 Tu méprises l'Amour, éprouve sa colère.
 Aux pieds d'une beauté sévère
@@ -70,8 +85,35 @@ Un règne glorieux vous y sera trouver
 Des amants dignes de vous plaire,
 Et des héros à célébrer.
 
+**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *id_LAGLOIRE *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lagloire
+
+
+Quelle triste erreur vous séduit !
+Voyez ce dieu charmant, soutien de mon empire,
+Par lui l'amant triomphe et le guerrier soupire ;
+Il forme les héros et sa voix les conduit.
+Il faut lui céder la victoire
+Quand on veut briller à ma Cour :
+Rien n'est plus chéri de la gloire
+Qu'un grand cour guidé par l'amour.
+
+Pourquoi cet effroi timide ?
+Apollon régnait parmi vous,
+Souffrez que l'Amour y préside
+Sous des auspices plus doux.
+
+Les vents, les affreux orages,
+Font par d'horribles ravages,
+La terreur des matelots :
+Amour, quand ta voix le guide,
+On voit l'Alcyon timide
+Braver la fureur des flots.
+Tes divines flammes
+Des plus faibles âmes
+Peuvent faire des héros.
 
 **** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *id_EGLE *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_egle
+
 
 Doris, j'aime Hésita, et plus que l'on ne pense
 Je m'occupe de son bonheur :
@@ -107,8 +149,8 @@ Daigne animer mes dons de ta divine flamme :
 Nous pouvons du génie exciter les efforts ;
 Mais les succès heureux sont dûs à tes transports.
 
-
 **** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *id_DORIS *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_doris
+
 
 L'amour va vous offrir la plus charmante fête,
 Déjà pour disputer chaque berger s'apprête :
@@ -142,8 +184,8 @@ Unis d'un amour sincère,
 Un berger, une bergère,
 Sont-il moins heureux que vous ?
 
-
 **** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *id_HESIODE *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hesiode
+
 
 Eglé méprise ma tendresse,
 Séduite par les chants de mes heureux rivaux ;
@@ -195,8 +237,27 @@ Muse, vos dons divins ont prévenu mes voux,
 Dois-je espérer encor que votre âme sensible
 Daigne aimer un berger et partager mes feux ?
 
+**** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *id_EUTERPE *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_euterpe
+
+
+Ta crainte offense ma gloire.
+Tu mérites le prix qu'ont promis mes serments ;
+Je le dois à la victoire,
+Et le donne à tes sentiments.
+
+La vertu des mortels fait leur rang chez les Dieux.
+Une âme pure, un cour tendre et sincère,
+Sont les biens les plus précieux;
+Et quand on fait aimer le mieux,
+On est le plus digne de plaire.
+Calmez votre dépit jaloux, :
+Bergers rassemblez-vous :
+Venez former les plus riantes fêtes,
+Je me plais dans vos bois, je chéris vos Musettes,
+Reconnaissez Euterpe et célébrez ses feux.
 
 **** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *id_OVIDE *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ovide
+
 
 Cruel amour, funeste flamme !
 Faut-il encor t'abandonner mon âme ?
@@ -268,8 +329,8 @@ Fait le vrai bonheur,
 Le plus doux partage
 Est un tendre cour.
 
-
 **** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *id_ERITHIE *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_erithie
+
 
 C'en est donc fait ; et dans quelques moments
 Diane à ses autels recevra mes serments.
@@ -308,8 +369,8 @@ Du temple de Diane on me commet le soin ;
 Tout le peuple d'Ithome en veut être témoin,
 Et je dois dès ce jour...
 
-
 **** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *id_ANACREON *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anacreon
+
 
 LeS beautés de Samos aux pieds de la Déesse
 Par votre ordre aujourd'hui vont présenter leurs voux ;
@@ -407,8 +468,8 @@ Dans leur cour le traître
 Est bientôt le maître,
 Et rit a son tour.
 
-
 **** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *id_POLYCRATE *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polycrate
+
 
 On ne peut sur la tendresse
 Tromper les yeux d'Anacréon.
@@ -491,8 +552,8 @@ L'heureux Anacréon voit combler ses désirs.
 Accourez, chantez sa conquête
 Comme il a chanté vos plaisirs.
 
-
 **** *creator_rousseau *book_rousseau_musesgalantes *style_verse *genre_ballet *dist1_rousseau_verse_ballet_musesgalantes *dist2_rousseau_verse_ballet *id_THEMIRE *date_1744 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_themire
+
 
 Je fuis les soupirs, les langueurs,
 Les soins, les tourments, les alarmes :
@@ -542,4 +603,3 @@ Seigneur, vous pourriez croire
 Que je donne tout à la gloire,
 Je veux tout donner à l'amour.
 Pardonnez à mon cour un penchant invincible.
-

@@ -2,6 +2,7 @@
 
 **** *creator_durant *book_durant_bonnerenommee *style_prose *genre_proverbe *dist1_durant_prose_proverbe_bonnerenommee *dist2_durant_prose_proverbe *id_LICIDOR *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_licidor
 
+
 Quoi ! Sérieusement vous allez vous marier , après l'oppositionque je vous ai vue à ce lien fatal, dans lequel on se repent si souvent de s'être mis ?
 
 Voilà bien des qualités souhaitables ; mais vous avez un grand désintéressement, car vous ne parlez point de son bien ; et j'ai toujours entendu dire que c'était le point essentiel de l'affaire.
@@ -16,8 +17,8 @@ Pour moi, mon cher Philinte, je ne suis plus ce sévère censeur qui cherchait �
 
 Je joins mes prières à celles de votre belle amie, Madame ; prononcez un arrêt si doux.
 
-
 **** *creator_durant *book_durant_bonnerenommee *style_prose *genre_proverbe *dist1_durant_prose_proverbe_bonnerenommee *dist2_durant_prose_proverbe *id_PHILINTE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philinte
+
 
 Oui, mon ami, très sérieusement je me marie, et c'est avec une confiance parfaite et une joie insensible. Celle que j'épouse est belle, jeune, spirituelle ; sage ; je serai trop heureux de la posséder.
 
@@ -35,3 +36,19 @@ Souffrez que je baise votre belle main, et que je vous prie d'avancer mon bonheu
 
 Je vous le demande à genoux ; trop modeste Élise , ne me refusez pas d'avancer le plus beau de mes jours.
 
+**** *creator_durant *book_durant_bonnerenommee *style_prose *genre_proverbe *dist1_durant_prose_proverbe_bonnerenommee *dist2_durant_prose_proverbe *id_ELISE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elise
+
+
+Vous devenez vous-même poète, Philinte ; les exagérations ne vous coûtent plus rien : prenez garde que vous ne vous laissiez séduire par l'amour propre, et que m'ayant choisi pour compagne, vous ne croyiez voir en moi, par cette raison, un mérite au-dessus de celui que j'ai.
+
+Indigne que je suis des honneurs qu'on m'adresse,
+Je veux bien les recevoir, pour que la gloire en rejaillisse sur un homme avec qui je dois tout partager.
+
+Je me rends à mon amie, à votre ami, et à vous, Philinte, plus qu'à personne ; je ne dois plus souhaiter que de vous être agréable.
+
+**** *creator_durant *book_durant_bonnerenommee *style_prose *genre_proverbe *dist1_durant_prose_proverbe_bonnerenommee *dist2_durant_prose_proverbe *id_MARIANE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mariane
+
+
+Non, ma chère Élise, je réponds pour Philinte du désintéressement de ses paroles : il y a trop longtemps que je vous connais, pour me pouvoir méprendre dans le jugement que tout le monde fait de vous : ce n'est que d'après ce grand juge que nous vous encensons, et votre approbation particulière n'ajoute que très peu au panégyrique universel.
+
+Ne refusez pas, ma chère Élise, la prière d'un amant qui vous a préféré à tout ce que l'univers préfère à tout : je suis riche, je ne suis pas laide, il pouvait espérer de réussir auprès de moi ; votre réputation seule l'a déterminé, et votre personne l'enchante.

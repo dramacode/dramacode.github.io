@@ -2,6 +2,7 @@
 
 **** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_apollon *date_1679 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_apollon
 
+
 Muses, preparons nos Concerts.
 Le plus grand Roy de l'Univers
 Vient d'asseurer le repos de la Terre ;
@@ -32,8 +33,90 @@ Le celeste courroux.
 Pour l'en recompenser, il faut que la Princesse
 Le prenne pour Espoux.
 
+**** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_muses *date_1679 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_muses
+
+
+Apres avoir chanté les fureurs de la Guerre,
+Chantons les douceurs de la Paix.
+
+**** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_bacchus *date_1679 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_bacchus
+
+
+Du fameux bord de l'Inde, où toûjours la Victoire
+Rangea les Peuples sous ma Loy,
+Je viens prendre part à la gloire⁎
+D'un Vainqueur aussi grand que moy.
+
+Ils n'ont plus à craindre la Guerre,
+Qui des Amants troubloit les plus beaux jours.
+
+Si l'Amour a des maux, il a mille plaisirs
+Qui rendent ses peines legeres.
+
+**** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_pan *date_1679 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_pan
+
+
+J'ay quitté les Forests où je tiens mon Empire
+Pour venir comme vous admirer ce Heros⁎.
+Nos Plaines & nos Bois luy doivent leur repos,
+C'est par luy seul qu'en nos Champs on respire.
+
+Tout est paisible sur la Terre,
+Voicy l'heureux temps des Amours.
+
+Aimez, Bergers, aimez, Bergeres,
+Suivez vos plus tendres desirs.
+
+**** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_berger *date_1679 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_berger
+
+
+Pourquoy n'avoir pas le cœur tendre ?
+Rien n'est si doux que d'aimer.
+Peut-on aisément s'en défendre ?
+Non, non, non, l'Amour doit tout charmer.
+Que sert la fierté dans les Belles ?
+Tout aime enfin à son tour.
+Voit-on des rigueurs eternelles ?
+Non, non, non, rien n'échappe à l'Amour.
+
+**** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_dryade *date_1679 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_dryade
+
+
+Il n'est plus d'herbes dans les plaines.
+
+Tout perit.
+
+Quel excés d'ennuis⁎ !
+
+**** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_napee *date_1679 *sexe_masculin *age_sans-age *statut_serviteur *fonction_autres *role_napee
+
+
+Il n'est plus d'eaux dans les fontaines.
+
+Tout tarit.
+
+      Quelles peines !
+
+**** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_pallas *date_1679 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pallas
+
+
+Espere en ta valeur⁎, Bellerophon, espere,
+Pallas descend du Ciel pour t'ofrir son secours.
+
+Ton sort est marqué dans les Cieux,
+Viens, monte dans ce Char, & t'abandonne aux Dieux.
+
+Connoissez⁎ le Fils de Neptune
+Dans ce jeune Heros⁎.
+A sa seule valeur⁎ vous devez le repos
+Qui succede à vostre infortune.
+Pallas le raméne en ces lieux.
+C'est luy qui doit espouser la Princesse,
+Faites en tous paroistre une entière allegresse,
+Et rendez grace aux Dieux.
 
 **** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_iobate *date_1679 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_iobate
+
 
 Contre Bellerophon, j'ay fait jusqu'à ce jour
 Ce que Pretus pouvoit attendre
@@ -176,8 +259,8 @@ Soient doux & charmants,
 Et qu'un bon-heur sans fin répare
 Ce qu'un sort rigoureux vous causa de tourments.
 
-
 **** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_stenobee *date_1679 *sexe_feminin *age_veteran *statut_maitre *fonction_autres *role_stenobee
+
 
 Non, les soûlevements d'une Ville rebelle
 Ne m'ont point fait quitter Argos.
@@ -371,8 +454,8 @@ Qu'en renonçant au jour ;
 Voy mes derniers soûpirs, impitoyable Amour,
 J'expire.
 
-
 **** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_philonoe *date_1679 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_philonoe
+
 
 Reyne, vous sçavez qu'en ce jour
 Je reçois un Espoux de la main de mon Pere.
@@ -475,8 +558,8 @@ Quel excés de fureur⁎ ?
 
 O changement à mes vœux favorables !
 
-
 **** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_bellerophon *date_1679 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_bellerophon
+
 
 Seigneur, quand on combat pour vous
 N'est-on pas seur de la victoire ?
@@ -591,8 +674,8 @@ Quand la mort seule peut me plaire.
 
 Enfin je vous revoy, Princesse incomparable.
 
-
 **** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_amisodar *date_1679 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amisodar
+
 
 Lorsque l'amour vous asservit mon ame,
 Votre insensible cœur devroit se contenter
@@ -678,8 +761,8 @@ Est-ce à moy d'empécher qu'il ne perde⁎ le jour ?
 
 Le Monstre approche, éloignez-vous.
 
-
 **** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_argie *date_1679 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_argie
+
 
 Quoy, de Bellerophon l'outrageante froideur
 Ne peut de cet amour dégager vostre cœur ?
@@ -737,8 +820,8 @@ Ou renoncer à vostre amour.
 
 Ciel, contre sa fureur⁎ embrasse ma défense.
 
-
 **** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_sacrificateur *date_1679 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_sacrificateur
+
 
 Reçois, grand Apollon⁎, reçois ce Sacrifice,
 Fais que le Ciel nous soit propice.
@@ -759,8 +842,55 @@ Redoublez à l'envy⁎ vos marques d'allegresse.
 Digne Fils de Latone & du plus grand des Dieux,
 Parle, & daigne regler le destin de ces lieux.
 
+**** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_pythie *date_1679 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_pythie
 
-**** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_magiciens *date_1679 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_magiciens
+
+Gardez tous un silence extrême,
+Apollon⁎ vous entend & va parler luy-mesme.
+Son approche désja fait briller les éclairs,
+Entendez résonner le sifflement des airs.
+Escoutez le bruit du Tonnerre.
+Voyez trembler & le Temple & la Terre,
+Il va paroistre, je le vois ;
+A son aspect fremissez comme moy.
+
+**** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_amazones *date_1679 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_amazones
+
+
+Quand un Vainqueur est tout brillant de gloire,
+Qu'il est doux de porter ses fers⁎ !
+
+Chantons, chantons la valeur éclatante
+Du plus grand des Heros⁎ ;
+Si la Lycie⁎ est triomphante,
+C'est à luy qu'elle doit sa gloire & son repos.
+
+**** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_amazone1 *date_1679 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_amazone1
+
+ 
+Les douceurs que l'amour fait trouver dans ses chaînes,
+Aux plus heureux Amans ont coûté des soûpirs.
+
+Que de Lauriers sur une seule teste !
+Avec luy la Victoire a peine à respirer.
+
+**** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_amazone2 *date_1679 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_amazone2
+
+
+Les plaisirs qui n'ont point commencé par les peines,
+Ne font jamais de vrais plaisirs.
+
+De l'Univers entier il eut fait la conqueste,
+Si son grand cœur n'eût sçeu se moderer.
+
+**** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_solymes *date_1679 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_solymes
+
+
+Celuy qui nous soûmit commande à la Victoire,
+Il soûmettra tout l'Univers.
+
+**** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_magiciens *date_1679 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_magiciens
+
 
 Parle, nous voilà prests, tout nous sera possible.
 
@@ -791,8 +921,8 @@ Nous avons la gloire
 De tout surmonter.
 Non, non, rien ne peut nous resister.
 
+**** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_choeur-peuple *date_1679 *sexe_masculin *age_sans-age *statut_serviteur *fonction_autres *role_choeurpeuple
 
-**** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_choeur-peuple *date_1679 *sexe_neutre *age_sans-age *statut_serviteur *fonction_autres *role_choeurpeuple
 
 Le mal-heur qui nous accable
 Demande un Dieu favorable.
@@ -886,8 +1016,32 @@ Dans les beaux jours qu'un Heros⁎ nous raméne,
 Cherchons les Ris, les Jeux, & les plaisirs.
 FIN.
 
+**** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_tous *date_1679 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_tous
 
-**** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_voix-derriere-theatre *date_1679 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_voixderrieretheatre
+
+Chantons le plus grand des Mortels,
+Chantons un Roy digne de nos Autels.
+
+Chantons le plus grand des Mortels,
+Chantons un Roy digne des Autels.
+
+Pour ce Grand Roy redoublons nos efforts,
+Preparons nos plus doux accords.
+FIN DU PROLOGUE
+
+**** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_dieux-bois *date_1679 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_dieuxbois
+
+
+Les Forests sont en feu, le ravage s'augmente,
+Ce n'est partout qu'épouvante & horreur.
+
+Helas ! que sont-ils devenus
+Ces Bois dont nous faisions nos retraites tranquilles ?
+
+Que de tristess !
+
+**** *creator_corneillet *book_corneillet_bellerophon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bellerophon *dist2_corneillet_verse_tragedy *id_voix-derriere-theatre *date_1679 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_voixderrieretheatre
+
 
 Tout est perdu, le Monstre avance,
 Sauvons-nous, sauvons-nous.
@@ -901,4 +1055,3 @@ Dieux, soûtenez son bras, et conduisez ses coups.
 Le Monstre est défait. Quelle gloire⁎ !
 Bellerophon remporte la victoire.
 FIN DU QUATRIEME ACTE.
-

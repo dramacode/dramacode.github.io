@@ -2,6 +2,7 @@
 
 **** *creator_carmontelle *book_carmontelle_lievre *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_lievre *dist2_carmontelle_prose_proverbe *id_GROSPIERRE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_grospierre
 
+
 Bonjour, Dame Jaqueline.
 
 Oui, vraiment. Vous vous portez bien ?
@@ -132,8 +133,8 @@ Oh, je n'en suis pas fâché à cause de vous mais à cause d'elle.
 
 Adieu, Monsieur l'Avocat, je ne croirons plus jamais que votre première parole.
 
-
 **** *creator_carmontelle *book_carmontelle_lievre *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_lievre *dist2_carmontelle_prose_proverbe *id_VINCENT *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_vincent
+
 
 Hé, Gros-Pierre. Quoi que tu fais ici ? Je t'ai vu entrer, et j'ai dit comme ça, il faut que je lui demande s'il veut que nous nous en allions ensemble.
 
@@ -164,4 +165,3 @@ Eh bien, je ne le crois pas encore.
 Je te l'avais bien dit, Gros-Pierre.
 
 Moi, j'en suis bien aise, parce que tu n'as pas voulu me croire. Allons, allons-nous-en.
-

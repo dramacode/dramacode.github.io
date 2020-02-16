@@ -1,6 +1,7 @@
 
 
-**** *creator_durant *book_durant_jourssesuivent *style_prose *genre_proverbe *dist1_durant_prose_proverbe_jourssesuivent *dist2_durant_prose_proverbe *id_LABARONNE *date_(inc *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_labaronne
+**** *creator_durant *book_durant_jourssesuivent *style_prose *genre_proverbe *dist1_durant_prose_proverbe_jourssesuivent *dist2_durant_prose_proverbe *id_LABARONNE *date_(inc *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_labaronne
+
 
 Hélas, Monsieur l'Abbé, vous savez ce que j'ai perdu ; vous n'ignorez pas comme nous vivions Monsieur le baron, et moi : jamais aucune contradiction , jamais aucune jalousie n'a troublé notre bonheur ; la guerre même, l'impitoyable guerre, avait respecté une si belle union ; et une simple fièvre m'enlève mon cher époux dans le temps que nous passions ensemble des jours filés de joie !
 
@@ -20,8 +21,8 @@ Approchez, Merlin, je veux faire votre paix.
 
 Et moi je suis bien aise d'aller avertir ma famille de mon heureuse aventure.
 
-
 **** *creator_durant *book_durant_jourssesuivent *style_prose *genre_proverbe *dist1_durant_prose_proverbe_jourssesuivent *dist2_durant_prose_proverbe *id_LECOMTE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomte
+
 
 Par la morbleu, monsieur l'abbé, on est bien fou de s'aller faire estropier à l'armée ! La valeur a de belles récompenses ! Je porte sur mon corps des blessures assez honorables ; mais tenez-moi pour déshonoré si on m'y attrape.
 
@@ -65,8 +66,8 @@ Je suis engagé à la même chose.
 
 Oui, Mademoiselle, oui, vous m'y verrez ; tous les moments que je passerai sans vous, me paraîtront des années.
 
-
 **** *creator_durant *book_durant_jourssesuivent *style_prose *genre_proverbe *dist1_durant_prose_proverbe_jourssesuivent *dist2_durant_prose_proverbe *id_MADEMOISELLEDUFRENE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoiselledufrene
+
 
 Ah ! Madame, il était votre mari ? Rien n'est si propre à vous consoler : l'amour ne règne guère dans un ménage ; cela ne va que du plus au moins. Vous connaissez des infortunes d'une espèce humiliante et si vive, que vous ne leur devez pas comparer les vôtres.
 
@@ -87,8 +88,8 @@ Oh bien donc, Monsieur le Comte, puisque sans être de méchante compagnie, je n
 
 Je suis Madame la Baronne à Paris : Monsieur le Comte , on espère vous y voir à votre retour de Versailles ?
 
-
 **** *creator_durant *book_durant_jourssesuivent *style_prose *genre_proverbe *dist1_durant_prose_proverbe_jourssesuivent *dist2_durant_prose_proverbe *id_LEMARQUIS *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lemarquis
+
 
 Ne vous moquez point de moi, mon pauvre abbé ; il y a deux ans que je suis une coquette pas à pas, que je prodigue pour elle l'opéra, les comédies, fêtes, soupers ; je ne parle ni des assiduités ni des soupirs, la barbare ne m'en a jamais tenu compte ; mais ce qui comble ma douleur, un bourgeois, un fat, a su toucher son cour : contente d'un tel choix, elle en fait vanité à mes yeux , et je viens dans ces bois pour y cacher ma honte, et pour attendre encore une réponse de l'inhumaine.
 Mais, Monsieur l'Abbé, vous ne me présentez pas à ces dames ! Leurs noms et leurs personnes ne me sont point inconnus, et je crois trouver en elles deux illustres malheureuses qui prendront sans doute pitié de mes maux ; ils sont d'une espèce, ces maux, à les conter aux arbres et aux rochers : jugez si j'en dois faire part à une si bonne compagnie.
@@ -115,8 +116,8 @@ J'accorde à Madame la Baronne le pardon que vous n'auriez jamais obtenu.
 
 Pour moi, madame, je ne puis plus vous quitter.
 
-
 **** *creator_durant *book_durant_jourssesuivent *style_prose *genre_proverbe *dist1_durant_prose_proverbe_jourssesuivent *dist2_durant_prose_proverbe *id_MONSIEURLABBE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurlabbe
+
 
 Eh ! Doucement, Monsieur le Comte, le François est impatient ; mais il est brave : si la guerre recommençait, nous vous verrions tout de plus belle, voler à la gloire, et tôt ou tard, elle trouve les récompenses qui lui sont dues ; mais moi, quelle ressource puis-je avoir ? Depuis deux ans que je poursuis des bénéfices, a-t-on pu voir une perruque à calotte plus écourtée que la mienne ? Des manchettes plus plates que celles que je porte ? Cependant qu'ai-je obtenu, que des refus ?
 
@@ -167,4 +168,3 @@ Non, mon pauvre Merlin, ne t'embarrasse point dans les justifications ; embrasse
 Nous voici tous réconciliez avec la fortune ; il serait doux de lui faire vos petits sacrifices dans ces lieux champêtres ; mais il faut que j'aille à Versailles rendre grâces au Roi de ses bontés.
 
 Quand nous aurons tous rempli nos devoirs, je vous offre la maison où vous avez couché pour célébrer les noces.
-

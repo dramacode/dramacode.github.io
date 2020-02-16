@@ -2,6 +2,7 @@
 
 **** *creator_scudery *book_scudery_ligdamonelidias *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_ligdamonelidias *dist2_scudery_verse_tragicomedie *id_LIGDAMON *date_1630 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ligdamon
 
+
 Si jamais un mortel a fait expérience
 De cette aigre vertu qu'on nomme patience,
 Si jamais un captif arrêté dans les fers
@@ -746,8 +747,8 @@ J'aurais en vous servant un souverain plaisir.
 
 Vous pouvez commander avec juste raison.
 
-
 **** *creator_scudery *book_scudery_ligdamonelidias *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_ligdamonelidias *dist2_scudery_verse_tragicomedie *id_ALCIDOR *date_1630 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcidor
+
 
 Insensé que fais-tu ' Las ! Quel étrange sort
 Te peut contraindre ici de courir à la mort ?
@@ -867,8 +868,8 @@ Oui si tu prends pitié d'un que tu fais mourir.
 Bien que jà trépassé, belle et cruelle dame,
 Un baiser seulement lui redonnerait l'âme.
 
-
 **** *creator_scudery *book_scudery_ligdamonelidias *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_ligdamonelidias *dist2_scudery_verse_tragicomedie *id_LIDIAS *date_1630 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lidias
+
 
 Puisque nous nous trouvons en ce lieu solitaire,
 Où tout comme je fais sait bien l'art de se taire,
@@ -1109,8 +1110,8 @@ Tout mon sang épargné se répandra pour vous.
 Vous à qui mon visage a fait un mal extrême,
 Disposez de mon bien comme du vôtre même.
 
-
 **** *creator_scudery *book_scudery_ligdamonelidias *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_ligdamonelidias *dist2_scudery_verse_tragicomedie *id_CLIDAMANT *date_1630 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clidamant
+
 
 Sire, dedans trois mots ma réponse comprise
 Vous fera voir à clair quelle est mon entreprise,
@@ -1327,8 +1328,8 @@ Me tient lieu de loyer, si j'en ai mérité :
 Sans lui je ne saurais voir la clarté céleste,
 Pylade je ne peux vivre sans mon Oreste.
 
-
 **** *creator_scudery *book_scudery_ligdamonelidias *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_ligdamonelidias *dist2_scudery_verse_tragicomedie *id_MEROVEE *date_1630 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merovee
+
 
 La victoire est à nous, le coeur me le présage,
 Déjà tous mes soldats l'ont peinte en leur visage,
@@ -1538,8 +1539,8 @@ Mais si trompé d'espoir mon attente était vaine,
 Et que le neustrien aigrit un potentat,
 Foi de roi nous l'aurons, ou j'y perdrai l'État.
 
-
 **** *creator_scudery *book_scudery_ligdamonelidias *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_ligdamonelidias *dist2_scudery_verse_tragicomedie *id_NICANDRE *date_1630 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicandre
+
 
 Sus, demeure assassin, tourne visage, infâme,
 Qui perdit ton renom pour gagner une femme,
@@ -1556,8 +1557,8 @@ Celui meurt doublement qui vit sans se venger.
 As-tu peur que la mort, traître, ne me soulage ?
 Ajoute à cette plaie un supplice nouveau.
 
-
 **** *creator_scudery *book_scudery_ligdamonelidias *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_ligdamonelidias *dist2_scudery_verse_tragicomedie *id_LAMERE *date_1630 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamere
+
 
 Plus avant que Niobe en la douleur amère,
 Et ja prête à me voir ravir le nom de mère,
@@ -1683,8 +1684,8 @@ Juges, mille mercis.
 
 Vous nous ferez l'honneur de prendre la maison.
 
-
 **** *creator_scudery *book_scudery_ligdamonelidias *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_ligdamonelidias *dist2_scudery_verse_tragicomedie *id_AEGIDE *date_1630 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aegide
+
 
 Quoi ! Voulez-vous toujours, Monsieur, que la tristesse
 Soit dedans votre esprit une importune hôtesse ?
@@ -1916,8 +1917,8 @@ Je dois à son secours le reste de ma vie.
 
 Je suis aussi joyeux que j'étais affligé.
 
-
 **** *creator_scudery *book_scudery_ligdamonelidias *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_ligdamonelidias *dist2_scudery_verse_tragicomedie *id_LEMIRE *date_1630 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemire
+
 
 Illustres sénateurs ! Vous, père vénérable,
 Je viens vous faire voir une chose admirable,
@@ -1941,4 +1942,3 @@ Arrosant de cette eau l'un et l'autre visage.
 Je suis aussi content comme vous réjouis.
 
 J'ai pris ma récompense en faisant mon devoir.
-

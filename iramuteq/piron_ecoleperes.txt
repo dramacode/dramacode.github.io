@@ -1,6 +1,7 @@
 
 
-**** *creator_piron *book_piron_ecoleperes *style_verse *genre_comedy *dist1_piron_verse_comedy_ecoleperes *dist2_piron_verse_comedy *id_CHRISALDE *date_1728 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_chrisalde
+**** *creator_piron *book_piron_ecoleperes *style_verse *genre_comedy *dist1_piron_verse_comedy_ecoleperes *dist2_piron_verse_comedy *id_CHRISALDE *date_1728 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_chrisalde
+
 
 Ah ! Que me dites-vous ? Quoi ! La belle Angélique...
 
@@ -246,8 +247,8 @@ Vous avez trop suivi votre penchant funeste.
 Angélique et mon frère ont des vertus sans prix.
 Ils sont récompensés, et vous êtes punis.
 
-
 **** *creator_piron *book_piron_ecoleperes *style_verse *genre_comedy *dist1_piron_verse_comedy_ecoleperes *dist2_piron_verse_comedy *id_GERONTE *date_1728 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_geronte
+
 
 Oui, mon frère ; d'Argante elle est la fille unique.
 
@@ -695,8 +696,8 @@ De ce que vous avez déposé chez mon frère ;
 Ce que je vous enlève en cet heureux moment,
 Suffit, et par delà, pour votre châtiment.
 
-
 **** *creator_piron *book_piron_ecoleperes *style_verse *genre_comedy *dist1_piron_verse_comedy_ecoleperes *dist2_piron_verse_comedy *id_PASQUIN *date_1728 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pasquin
+
 
 De l'un de vos trois fils la cuisine en est cause.
 En passant, comme un basque, auprès de sa maison,
@@ -1321,8 +1322,8 @@ Qu'on vous jouait.
 
 Morbleu ! N'avancez pas, ou je vous déshérite !
 
-
 **** *creator_piron *book_piron_ecoleperes *style_verse *genre_comedy *dist1_piron_verse_comedy_ecoleperes *dist2_piron_verse_comedy *id_ANGELIQUE *date_1728 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_angelique
+
 
       Ma honte vous abuse.
 De vos bontés, monsieur, vous me voyez confuse :
@@ -1573,8 +1574,8 @@ De mon père, en ceci, le pur esprit m'anime.
 Pleine de sa mémoire, il me semble aujourd'hui,
 Qu'en m'unissant à vous, je me rejoins à lui.
 
-
 **** *creator_piron *book_piron_ecoleperes *style_verse *genre_comedy *dist1_piron_verse_comedy_ecoleperes *dist2_piron_verse_comedy *id_NERINE *date_1728 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
+
 
       Ah ! Ma chère maîtresse !
 Mille remerciements ! Que ne vous dois-je pas ?
@@ -1988,8 +1989,8 @@ Vous savez donc, messieurs, qu'Angélique a du bien ?
 Comme dans le péché leur âme est endurcie !
 Voyez si seulement un d'eux me remercie.
 
-
 **** *creator_piron *book_piron_ecoleperes *style_verse *genre_comedy *dist1_piron_verse_comedy_ecoleperes *dist2_piron_verse_comedy *id_ERASTE *date_1728 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+
 
       Comment t'en va ?
 
@@ -2222,8 +2223,8 @@ J'aimais ailleurs aussi ; mais cela n'y fait rien.
 
 En effet, nous voilà de fort jolis garçons !
 
-
 **** *creator_piron *book_piron_ecoleperes *style_verse *genre_comedy *dist1_piron_verse_comedy_ecoleperes *dist2_piron_verse_comedy *id_DAMIS *date_1728 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
+
 
 Tu grondes ? Qu'as-tu donc ?
 
@@ -2578,8 +2579,8 @@ Scélérat ! Que penser de tout ce que je vois ?
 
 Peut-on plus outrager, et de plus de façons ?
 
-
 **** *creator_piron *book_piron_ecoleperes *style_verse *genre_comedy *dist1_piron_verse_comedy_ecoleperes *dist2_piron_verse_comedy *id_VALERE *date_1728 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+
 
 Bonjour, Grégoire.
 
@@ -2888,8 +2889,8 @@ Mandez-lui qu'elle vienne ; et je l'épouse à vue.
 
 Vous en serez payés selon votre mérite.
 
+**** *creator_piron *book_piron_ecoleperes *style_verse *genre_comedy *dist1_piron_verse_comedy_ecoleperes *dist2_piron_verse_comedy *id_GREGOIRE *date_1728 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_gregoire
 
-**** *creator_piron *book_piron_ecoleperes *style_verse *genre_comedy *dist1_piron_verse_comedy_ecoleperes *dist2_piron_verse_comedy *id_GREGOIRE *date_1728 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_gregoire
 
 Hai là ! Vous m'en voyez encor tout ahuri !
 Ce n'est pas note faute ; et j'en son bian marri.
@@ -3214,4 +3215,3 @@ I vous ressemblion : fausse et belle apparance.
 Vote père dans vous boutoit son espérance ;
 Il a vu dans le fond que vous ne valiais rian.
 Vous revla sous sa coupe : adieu ; porté vous bian.
-

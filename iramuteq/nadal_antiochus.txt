@@ -2,6 +2,7 @@
 
 **** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *id_ANTIOCHUS *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antiochus
 
+
 Peuples, écoutez-moi. Suspendez vos alarmes.
 Le Ciel, vous le voyez, favorise mes armes,
 Et lui-même arrêtant vos projets inhumains,
@@ -535,8 +536,8 @@ Mais quoi ! De tous côtés, j'entends gronder la foudre.
 Où me réduit l'éclat de ton pouvoir immense ?
 Grand Dieu ! Sans l'espérer j'implore ta clémence.
 
-
 **** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *id_SALMONE *date_1722 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_salmone
+
 
 N'en doutez point, mon fils, votre mère est contente ;
 D'un Peuple tout entier, vous remplissez l'attente.
@@ -813,8 +814,8 @@ Allons, mon fils, allons.
 
 C'est toi qui me soutiens par un si beau transport.
 
-
 **** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *id_MACCABEE *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maccabee
+
 
 Je sais quel prix sa main attache à ses rigueurs :
 Et l'espoir ne doit point expirer dans nos coeurs.
@@ -1022,8 +1023,8 @@ Elle couvre mon sang d'une immortelle gloire.
 
 C'est courir au triomphe, et non pas à la mort.
 
-
 **** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *id_ZORAIDE *date_1722 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_zoraide
+
 
 Sans discuter les droits d'un Vainqueur en courroux,
 C'est déjà trop pour moi de m'offrir devant vous.
@@ -1331,8 +1332,8 @@ Mais que vois-je ? Grand Dieu !
 Seigneur, dans les vrais biens que sa main nous dispense,
 Puisse votre vertu, trouver sa récompense !
 
-
 **** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *id_AZAEL *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_azael
+
 
 Où suis-je, Dieu puissant ?
 
@@ -1433,8 +1434,8 @@ Qui vécut en tyran, ne peut mourir en Roi.
 
 C'est à vous que je dois et ma vie et ma mort.
 
-
 **** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *id_PHOSTIME *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phostime
+
 
 Quelques horreurs, Seigneur, que ce grand jour entraîne,
 Et qu'étalent ici la discorde et la haine,
@@ -1529,8 +1530,45 @@ Et le Temple est ouvert à vos yeux, à vos larmes.
 Venez ; et sans tarder, y conduisant vos pas,
 J'y veux rendre avec vous grâce au Dieu des combats.
 
+**** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *id_ELISE *date_1722 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elise
+
+
+Ah ! Songez l'un et l'autre à votre sûreté.
+Madame, de vos fils, tout le reste arrêté
+Dans un sort, où déjà leur garde se redouble,
+Du peuple, qui s'amasse, augmente encor le trouble.
+Mais jugez ce qu'il faut vous-même en augurer,
+De ses frères, Madame, on vient de séparer
+Le plus jeune, et le Roi lui-même...
+
+Veut que dans son Palais sa Garde le conduise,
+Et commande que loin d'effrayer ses regards,
+Tout ce qui l'environne ait pour lui des égards.
+On admire son air : et l'on plaint son enfance.
+
+On tremble aussi pour vous, et l'on n'a point douté,
+Seigneur, qu'on attentât à votre liberté.
+
+**** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *id_PHOEDIME *date_1722 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phoedime
+
+
+Eh ! Quel est ce transport, où la douleur vous livre ?
+Où m'ordonnez-vous donc, Madame, de vous suivre ?
+Songez-vous qu'en ces lieux, tout pleins de sa splendeur,
+Le Roi va, de l'Égypte ouïr l'Ambassadeur ?
+La victoire cruelle en a changé la face.
+À peine de nos pas j'y retrouve la trace.
+À leur auguste aspect, lieux si chers autrefois,
+L'asile des vertus, le Palais de nos Rois,
+Et d'un tyran cruel, maintenant la demeure,
+Qu'y venez-vous chercher ?
+
+Vous serez obéie au gré de vos désirs.
+Mais est-il quelque espoir dans nos longs déplaisirs ?
+Et peut-on se flatter qu'en un jour si funeste...
 
 **** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *id_MENELAUS *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_menelaus
+
 
 Non, tout cet appareil ne doit point te surprendre,
 Alcime. Dans ces lieux, le vainqueur va se rendre ;
@@ -1649,8 +1687,8 @@ L'on dit même, l'on dit, que son Ambassadeur,
 Que chacun dans ce jour attend en cette place,
 À déjà contre vous, rallumé leur audace.
 
-
 **** *creator_nadal *book_nadal_antiochus *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_antiochus *dist2_nadal_verse_tragedy *id_ACHAS *date_1722 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achas
+
 
 L'Ambassadeur d'Égypte attend son audience,
 Seigneur, daignez répondre à son impatience,
@@ -1716,4 +1754,3 @@ Pour conserver un Roi que la Syrie adore,
 Au travers des périls se feront jour encore :
 Je vous réponds pour eux d'un invincible effort.
 Marchons.
-

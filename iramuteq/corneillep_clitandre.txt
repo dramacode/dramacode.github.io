@@ -2,6 +2,7 @@
 
 **** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_ALCANDRE *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcandre
 
+
 L'admirable rencontre à mon âme ravie,
 De voir que deux amants s'entre-doivent la vie,
 De voir que ton péril la tire de danger,
@@ -165,8 +166,8 @@ Je défends désormais de se montrer cruelle ;
 Et nous verrons alors cueillir en même jour
 À deux couples d'amants les fruits de leur amour.
 
-
 **** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_FLORIDAN *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_floridan
+
 
 Ce cheval trop fougueux m'incommode à la chasse ;
 Tiens-m'en un autre prêt, tandis qu'en cette place,
@@ -376,8 +377,8 @@ Ce partage m'oblige, et je tiens tes pensées
 Vers un si beau sujet d'autant mieux adressées,
 Que je lui veux céder ce qui m'en appartient.
 
-
 **** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_ROSIDOR *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rosidor
+
 
 Ce devoir, ou plutôt cette importunité,
 Au lieu de m'assurer de ta fidélité,
@@ -644,8 +645,8 @@ Et si peu que j'avais près de vous de crédit,
 Je l'employai dès lors contre votre colère.
 En moi dorénavant faites état d'un frère.
 
-
 **** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_CLITANDRE *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+
 
 Ce récit ennuyeux de ma triste langueur,
 Mon prince, ne vaut pas le tirer en longueur ;
@@ -836,8 +837,8 @@ La moitié des pensers qui ne sont dûs qu'à vous.
 En moi, d'un serviteur dont l'amour éperdu
 Ne vous conteste plus un prix qui vous est dû.
 
-
 **** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_PYMANTE *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pymante
+
 
       Au lieu de me flatter,
 Voyons si le projet ne saurait avorter,
@@ -1284,8 +1285,8 @@ Et sans l'âpre rigueur du sort qui me tourmente,
 Vous pleureriez le prince et souffririez Pymante.
 Mais que tardez-vous plus ? J'ai tout dit : punissez.
 
-
 **** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_CALISTE *date_1631 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_caliste
+
 
 N'en doute plus, mon coeur, un amant hypocrite,
 Feignant de m'adorer, brûle pour Hippolyte :
@@ -1501,8 +1502,8 @@ En le remerciant parle au nom de tous deux.
       Ah ma soeur, tu me prends pour une autre,
 Si tu crois que je puisse encor m'en souvenir.
 
-
 **** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_DORISE *date_1631 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorise
+
 
 Modère ces bouillons d'une âme colérée,
 Ils sont trop violents pour être de durée ;
@@ -1777,8 +1778,8 @@ De qui chacun d'horreur détournerait les yeux.
 Si le pardon du roi me peut donner le vôtre,
 Si mon crime…
 
-
 **** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_LYSARQUE *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lysarque
+
 
 Cette inclination, qui jusqu'ici vous mène,
 À me la déguiser vous donne trop de peine.
@@ -1852,8 +1853,8 @@ D'un maître qui n'a pu s'en dessaisir que mort.
 Suivons-les au hasard. Vous autres, enlevez
 Promptement ces deux corps que nous avons trouvés.
 
-
 **** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_GERONTE *date_1631 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_geronte
+
 
 En ce déguisement on ne peut nous connaître,
 Et sans doute bientôt le jour qui vient de naître
@@ -1881,8 +1882,8 @@ Si bien que ce cartel, quoique tout de ma main,
 Lui-même, et le voici qui s'avance vers nous :
 À force de courir il s'est mis hors d'haleine.
 
-
 **** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_CLEON *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleon
+
 
 Réserve à d'autres temps cette ardeur de courage
 Qui rend de ta valeur un si grand témoignage.
@@ -1913,8 +1914,24 @@ Non, Seigneur, acquittés de la charge commise,
 Vos veneurs ont conduit Pymante, et moi Dorise ;
 Et je viens seulement prendre un ordre nouveau.
 
+**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_LYCASTE *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lycaste
+
+
+      N'en soyez plus en peine ;
+Il est où vous savez, et tout bouffi d'orgueil
+Il n'y pense à rien moins qu'à son proche cercueil.
+
+Pour notre sûreté, portons-les avec nous,
+De peur que, cependant que nous serons aux coups,
+Quelque maraud, conduit par sa bonne aventure,
+Ne nous laisse tous trois en mauvaise posture.
+Quand il faudra donner, sans les perdre des yeux,
+Au pied du premier arbre ils seront beaucoup mieux.
+
+Ne craignez pas sans eux que je fasse retraite.
 
 **** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_GEOLIER *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_geolier
+
 
 Permettez que ma main de ces fers vous détache.
 
@@ -1944,3 +1961,41 @@ Perdez-en le dessein avecque l'espérance :
 Et puisque vous dressez des pièges à ma foi,
 Adieu, ce lieu devient trop dangereux pour moi.
 
+**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_ARCHER1 *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_archer1
+
+
+Pourrait-elle en douter ? Ces deux corps reconnus
+Font trop voir le succès de toute l'entreprise.
+
+      Que malgré leur surprise,
+Leur nombre avantageux et leur déguisement,
+Rosidor de leurs mains se tire heureusement.
+
+Mais où serait son corps ?
+
+**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_ARCHER2 *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_archer2
+
+
+Monsieur, connaissez-vous ce fer et cette garde ?
+
+Monsieur, avec cela j'ai vu dans cette route
+Des pas mêlés de sang distillé goutte à goutte.
+
+**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_VENEUR1 *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_veneur1
+
+
+      Écoute, il est fort proche :
+C'est sa voix qui résonne au creux de cette roche,
+Et c'est lui que tantôt nous avions entendu.
+
+Si nous manquons, Seigneur, les voilà toutes prêtes.
+Admirez cependant le foudre et ses efforts,
+Qui dans cette forêt ont consumé trois corps :
+En voici les habits, qui sans aucun dommage
+Semblent avoir bravé la fureur de l'orage.
+
+**** *creator_corneillep *book_corneillep_clitandre *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_clitandre *dist2_corneillep_verse_tragedy *id_VENEUR2 *date_1631 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_veneur2
+
+
+Oui, je le vois. Seigneur, quelle aventure étrange,
+Quel malheureux destin en cet état vous range ?

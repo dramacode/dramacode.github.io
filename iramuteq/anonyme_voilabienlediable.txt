@@ -2,6 +2,7 @@
 
 **** *creator_anonyme *book_anonyme_voilabienlediable *style_verse *genre_comedy *dist1_anonyme_verse_comedy_voilabienlediable *dist2_anonyme_verse_comedy *id_MONSIEURPOTDEVIN *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurpotdevin
 
+
 Babet !
 
 Mais... Ayez donc l'air occupé de ce que je vais vous dire. Ce n'est point ici une soirée comme les autres.
@@ -167,8 +168,8 @@ Que cette nuit on approche du mien
 Son lit jumeau ; qu'en un mot on les mette
 Tous deux unis comme mon coeur au sien.
 
-
 **** *creator_anonyme *book_anonyme_voilabienlediable *style_verse *genre_comedy *dist1_anonyme_verse_comedy_voilabienlediable *dist2_anonyme_verse_comedy *id_MADAMEPOTDEVIN *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamepotdevin
+
 
 Je suis toute en eau...
 Jusqu'aux genoux j'ai de la crotte ;
@@ -218,8 +219,8 @@ Monsieur Pot-de-vin, suppliez Madame la Comtesse d'accepter votre main, Mademois
 Monsieur le Marquis, c'est bien de l'honneur que vous me faites.
 L'Abbé, fermez la porte...
 
+**** *creator_anonyme *book_anonyme_voilabienlediable *style_verse *genre_comedy *dist1_anonyme_verse_comedy_voilabienlediable *dist2_anonyme_verse_comedy *id_MADEMOISELLEADELAIDE *date_(non *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_mademoiselleadelaide
 
-**** *creator_anonyme *book_anonyme_voilabienlediable *style_verse *genre_comedy *dist1_anonyme_verse_comedy_voilabienlediable *dist2_anonyme_verse_comedy *id_MADEMOISELLEADELAIDE *date_(non *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_mademoiselleadelaide
 
 Vous me faites une querelle d'Allemand, Monsieur Pot-de-vin; je ne suis point triste, et je n'ai jamais eu moins envie de l'être.
 Un tel projet serait vain,
@@ -239,8 +240,8 @@ Il y a longtemps que je voudrais être dehors.
 
 La Maman de Madame Pot-de-vin ; c'est un trait de mémoire unique : car il y a quarante ans que la bonne femme doit être morte.
 
-
 **** *creator_anonyme *book_anonyme_voilabienlediable *style_verse *genre_comedy *dist1_anonyme_verse_comedy_voilabienlediable *dist2_anonyme_verse_comedy *id_MONSIEURDEPODOLIE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdepodolie
+
 
 Je vous demande pardon, Monsieur le Marquis; je ne bois jamais entre mes repas.
 
@@ -258,8 +259,26 @@ Ah ! Mesdames, par grâce demeurez ; ce malheureux homme serait au désespoir...
 
 J'espère, Mesdames, que vous ne serez point fâchées d'être restées. L'arrangement des lits, les douceurs de Monsieur le Marquis ; voilà pour Madame Pot-de-vin de l'utile et de l'agréable ; son front est déjà plus serein.
 
+**** *creator_anonyme *book_anonyme_voilabienlediable *style_verse *genre_comedy *dist1_anonyme_verse_comedy_voilabienlediable *dist2_anonyme_verse_comedy *id_MONSIEURLABBEPATELIN *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurlabbepatelin
+
+
+Désagréable au possible, Madame.
+Comme j'ai plaint ma chère Tante !...
+J'en avais les larmes aux yeux :
+C'est la chaleur qui la tourmente ;
+Puis, ce sont des chemins affreux !
+Ah ! Mon Oncle !... Vous avez tort.
+Je pense
+Que ce trait l'offense,
+Et bien fort ;
+Mais son coeur est bon :
+Demandez pardon.
+Vous l'obtiendrez, j'en suis sûr, mon cher oncle.
+
+Oui, ma chère Tante.
 
 **** *creator_anonyme *book_anonyme_voilabienlediable *style_verse *genre_comedy *dist1_anonyme_verse_comedy_voilabienlediable *dist2_anonyme_verse_comedy *id_BABET *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_babet
+
 
 Monsieur.
 
@@ -297,4 +316,3 @@ Rire tout à mon aise de l'air d'assurance qu'il a, tandis qu'il tremble comme u
 Madame la Comtesse de la Bicoquette, Mademoiselle Adélaîde, Monsieur le Marquis de Cinq-Arpens et Monsieur de Podolie.
 
 Madame est servie.
-

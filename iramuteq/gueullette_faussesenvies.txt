@@ -2,6 +2,7 @@
 
 **** *creator_gueullette *book_gueullette_faussesenvies *style_prose *genre_farce *dist1_gueullette_prose_farce_faussesenvies *dist2_gueullette_prose_farce *id_LEMAITRE *date_1740 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemaitre
 
+
 Il faut avouer que je suis le gentilhomme de France le plus fortuné. Il y a bientôt trois ans que j'ai épousé Mademoiselle Isabelle ; après avoir essuyé plusieurs mauvaises plaisanteries sur sa stérilité, je commençais à désespérer d'avoir de sa lignée en ligne directe, lorsque cette lettre m'annonce que je serai bientôt père. Je suis parti pour la guerre de Corse, où j'avais un poste considérable. Après avoir servi dans la milice du guet à pied, où j'étais chef d'escadre, j'avais obtenu le commandement des brouettes qui servent à enlever les boues du camp ; mais, quelque gloire qu'il y eût pour moi dans ce périlleux emploi, je n'ai pas eu plutôt reçu cette missive de ma femme que, volant vers notre général, je lui ai demandé un congé de six semaines ; il me l'a accordé, et j'arrive en poste pour embrasser tendrement ma chère moitié, que je vais surprendre bien agréablement. Entrons dans ma maison sans me faire annoncer.
 
 Peste soit du brutal !
@@ -239,8 +240,8 @@ Mais, ma petite femme, et tes envies ?
 
 Ah ! Que je suis aise de te voir ainsi guérie ! Rentrons et allons nous réjouir d'un si grand bonheur.
 
-
 **** *creator_gueullette *book_gueullette_faussesenvies *style_prose *genre_farce *dist1_gueullette_prose_farce_faussesenvies *dist2_gueullette_prose_farce *id_ISABELLE *date_1740 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
 
 Quel est l'insolent qui m'appelle ainsi ?
 
@@ -374,8 +375,8 @@ Oh ! Dame ! Je n'ai pas fait réflexion à tout cela ; j'en suis fâchée, mon a
 
 Oh ! Mon cher petit bouchon, elles sont passées ; ce sont fantaisies ordinaires à notre sexe.
 
-
 **** *creator_gueullette *book_gueullette_faussesenvies *style_prose *genre_farce *dist1_gueullette_prose_farce_faussesenvies *dist2_gueullette_prose_farce *id_LEANDRE *date_1740 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+
 
 Ah ! Charmante Isabelle, queu contretemps ! Quoi ! Au moment que je vas rassasier mon âme des plaisirs les plus délicieux, il faut qu'un brutal de mari vienne mal à propos m'en sevrer !
 
@@ -475,8 +476,8 @@ La proposition n'est pas honnête. Je ne puis le faire voir qu'à huis clos.
 
 Justement, tu comptes à merveille.
 
-
 **** *creator_gueullette *book_gueullette_faussesenvies *style_prose *genre_farce *dist1_gueullette_prose_farce_faussesenvies *dist2_gueullette_prose_farce *id_GILLES *date_1740 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
+
 
 Que le diable emporte le triple cocu qui m'a enfoncé !
 
@@ -753,4 +754,3 @@ Je le croirais bien. Écoutez, Monsieur, il est encore dans la maison. Il faut l
 Oui, mais pourquoi me battre, moi ? Si je l'ai fait entrer dans la maison, je n'y ai pas entendu de finesse ; c'était par l'ordre de notre maître.
 
 Grand merci, notre maîtresse ; je ne pense plus aux coups que j'ai reçus.
-

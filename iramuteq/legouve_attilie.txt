@@ -2,6 +2,7 @@
 
 **** *creator_legouve *book_legouve_attilie *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_attilie *dist2_legouve_verse_tragedy *id_ADRIEN *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adrien
 
+
 C'est donc là ce Guerrier, ce Romain respectable,
 Des jeux de la fortune exemple mémorable :
 Placide, notre appui, si grand par vos exploits
@@ -502,8 +503,8 @@ Dieux ! Prenez seuls le soin de venger vos injures.
 Que l'on soit citoyen, à mes yeux il suffit.
 Est-ce un crime d'État qu'une erreur de l'esprit ?
 
-
 **** *creator_legouve *book_legouve_attilie *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_attilie *dist2_legouve_verse_tragedy *id_PLACIDE *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_placide
+
 
 Je n'osais espérer de les revoir jamais,
 Ces portiques pompeux, ce superbe palais.
@@ -998,8 +999,8 @@ Par mes pleurs, par ce sang qui coule de tes veines.
 
       Exauce enfin mes voeux.
 
-
 **** *creator_legouve *book_legouve_attilie *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_attilie *dist2_legouve_verse_tragedy *id_ATTILIE *date_1750 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_attilie
+
 
 Cesse de me vanter l'éclat du diadème :
 De trop près mes regards ont vu du rang suprême
@@ -1505,8 +1506,8 @@ Mais quel rayon soudain ! Je revis. Quelle voix !
 C'est mon frère ; il m'appelle, il m'attend.
 Je le vois. Ah ! Mon frère !
 
-
 **** *creator_legouve *book_legouve_attilie *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_attilie *dist2_legouve_verse_tragedy *id_MAXIME *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maxime
+
 
 Respectable Vainqueur, l'Empereur vous honore.
 
@@ -1733,8 +1734,8 @@ Et puis-je de mon sort ne me pas applaudir ?
 Oui, de nos tristes jours que ce beau sacrifice,
 Trop longtemps séparés, à jamais nous unisse.
 
-
 **** *creator_legouve *book_legouve_attilie *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_attilie *dist2_legouve_verse_tragedy *id_JUSTIN *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_justin
+
 
 Cher Placide, quel est ce chagrin qui m'étonne ?
 Le Sort n'a plus de traits à lancer contre vous :
@@ -1920,8 +1921,8 @@ Il faut, Seigneur, qu'il vive, ou que vous m'immoliez,
 On l'amène. Ordonnez ma mort, ou mon pardon.
 J'ai dans un ordre feint employé votre nom.
 
-
 **** *creator_legouve *book_legouve_attilie *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_attilie *dist2_legouve_verse_tragedy *id_PAULINE *date_1750 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pauline
+
 
 Non : mais son sort, Madame, enfin n'est plus douteux,
 Et son superbe époux s'échappe de ses noeuds...
@@ -1972,8 +1973,8 @@ Son ami l'accompagne.
 
       Elle expire !
 
-
 **** *creator_legouve *book_legouve_attilie *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_attilie *dist2_legouve_verse_tragedy *id_ALBIN *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_albin
+
 
 Placide vous demande un moment d'audience, Seigneur.
 
@@ -2002,4 +2003,3 @@ Placide pouvait-il céder ? Mais j'ose dire
 Que dans cette chaleur de la foi qui l'inspire,
 Avec joie il devait proscrire un sang chéri ;
 Je le crois père enfin, puisqu'il s'est attendri.
-

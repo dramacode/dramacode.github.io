@@ -1,6 +1,76 @@
 
 
+**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *id_DIANE *date_1686 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_diane
+
+
+Qu'avec plaisir je reviens en ces lieux,
+Que jadis mon séjour rendis si glorieux,
+Où régnaient la splendeur et la magnificence !
+Le Fils du plus puissant, du plus juste des Rois
+Leur redonne aujourd'hui par sa seule présence
+Encore plus d'éclat qu'ils n'eurent autrefois.
+
+Suivez les mouvements de votre ardeur fidèle ;
+Commencez vos concerts,
+Que le bruit de vos chants raisonne dans les airs !
+Heureux ! Si le succès répond à votre zèle !
+
+**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *id_LABONDANCE *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_labondance
+
+
+Dans les jours de réjouissance,
+J'ai toujours le premier emploi ;
+Vous seriez-vous flattés de la vaine espérance
+De pouvoir vous passer de moi ?
+Que feriez-vous sans l'Abondance ?
+
+**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *id_COMUS *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_comus
+
+
+À mon visage, à ma suite ordinaire
+Reconnaissez Comus Dieu des Festins,
+Dont la présence à vos desseins .
+Est aujourd'hui si nécessaire.
+Que vous sert d'assembler au gré de vos désirs
+Tous les Jeux et tous les Plaisirs ?
+Si vous n'avez ceux de la Table
+Tous les coeurs seront mécontents,
+La Fête la plus agréable
+Sans moi ne peut durer longtemps.
+
+Apollon flatte nos voeux,
+D'un succès heureux,
+Nous connaissons sa puissance,
+Il remplira notre espérance.
+
+**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *id_APOLLON *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
+
+
+Apollon en ce jour approuve votre zèle
+Pour un prince charmant,
+Et vient joindre aux plaisirs d'une fête si belle
+D'un spectacle nouveau le doux amusement.
+Au plus grand des Héros j'ai toujours soin de plaire,
+Eh ! Que puis-je mieux faire
+Que de vous seconder par des chants destinés
+À divertir un fils qu'il aime ?
+Puissent ces mêmes chants un jour plus fortunés,
+Le divertir encor lui-même !
+Digne Fils de ce conquérant,
+Que ne quittent jamais Minerve et la Victoire,
+Tu vois par les respects que l'Univers lui rend
+Le prix de ses travaux, et l'éclat de sa gloire,
+Tu vois ses ennemis à ses pieds abattus,
+Tu jouis des exploits de sa main triomphante,
+Tâche de l'imiter ; sans cesse il te présente
+Un exemple parfait de toutes les Vertus.
+Vous, habitants de ce séjour aimable,
+Redoublez votre empressement,
+Gardez-vous de perdre un moment
+D'un temps si favorable.
+
 **** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *id_ACIS *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_acis
+
 
 C'est vain qu'en ces lieux j'ai devancé l'Aurore,
 Hélas ! Je n'y vois point la beauté que j'adore,
@@ -128,8 +198,8 @@ Déesse c'en est fait, je vous perds, et j'expire.
 
       Galatée ?
 
-
 **** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *id_GALATEE *date_1686 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_galatee
+
 
 J'ai cru trouver ici la Nymphe qui m'est chère,
 Je vais lui reprocher son peu d'empressement.
@@ -306,8 +376,8 @@ Et s'il se peut encor augmentez son amour.
 
 Cher Acis !
 
-
 **** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *id_POLIPHEME *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polipheme
+
 
 Je regarde partout, et ma recherche est vaine,
 Ces nymphes, ces bergers que sont-ils devenus,
@@ -417,8 +487,8 @@ Elle assure à la fois mon repos et ma gloire,
 J'immole dans le même jour
 Mon rival et mon amour.
 
-
 **** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *id_TELEME *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_teleme
+
 
 Vous n'êtes pas le seul de qui la voix plaintive
 Se fait entendre en ces lieux chaque jour,
@@ -470,8 +540,8 @@ En des marques de leur colère,
 Et vous serez un jour par ce retour sévère
 L'objet le plus funeste et le plus odieux.
 
-
 **** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *id_SCYLLA *date_1686 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_scylla
+
 
 Quoi ! M'arrêterez-vous en dépit de moi-même !
 
@@ -508,8 +578,18 @@ Et déjà ma fierté commence à vous déplaire ;
 Je me bannis de votre Cour,
 Pour éviter votre colère.
 
+**** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *id_TIRCIS *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tircis
+
+
+Que mon coeur est charmé !
+
+Je ne puis exprimer la douceur qui m'enchante.
+
+L'Amour dans ces beaux lieux nous a tous rassemblés,
+Célébrons les faveurs dont il nous a comblés.
 
 **** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *id_AMINTE *date_1686 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aminte
+
 
 Que mon âme est contente !
 
@@ -526,8 +606,8 @@ Parmi nous soient toujours prêtes !
 Qu'au bruit de nos chansons la plus fière beauté
 Ne puisse un seul moment garder sa liberté.
 
-
 **** *creator_campistron *book_campistron_acisgalathee *style_verse *genre_pastorale heroique *dist1_campistron_verse_pastorale heroique_acisgalathee *dist2_campistron_verse_pastorale heroique *id_NEPTUNE *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_neptune
+
 
 Je sors de mes grottes profondes,
 Tes cris ont pénétré jusques au fond des ondes,
@@ -554,4 +634,3 @@ Vous Fleuves amoureux, vous Naïades charmantes
 Venez de ces amants redoubler les plaisirs ;
 Venez, animer leurs désirs
 Par les chansons les plus touchantes.
-

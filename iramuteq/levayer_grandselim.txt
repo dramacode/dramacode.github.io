@@ -2,6 +2,7 @@
 
 **** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *id_BAJAZET *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bajazet
 
+
 Ciel peux-tu conspirer pour l'intérêt d'un traître ?
 Donc dedans mes États je ne suis plus le maître,
 Et des hommes sans foi suivant leurs sentiments,
@@ -175,8 +176,8 @@ Qui font ici passer pour remède des crimes.
 Et pour me bien venger de leur noir attentat,
 Je me perdrai plutôt avec eux et l'État.
 
-
 **** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *id_LASULTANE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lasultane
+
 
 Sage dispensateur du bon et mauvais sort,
 Qui tiens entre tes mains et ma vie et ma mort ;
@@ -548,8 +549,8 @@ Mais enfin celle-là lui peut être commune.
 
 En cas que par adresse on n'en vint pas à bout.
 
-
 **** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *id_SELIM *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_selim
+
 
 Dans l'état où je suis j'aurais droit de me plaindre,
 Si tout ce que je vois ne m'empêchait de craindre :
@@ -1096,8 +1097,8 @@ Veux-tu donc, cher Corchut, que je te satisfasse ?
 S'il ne tient qu'à ma mort, ton bonheur est parfait :
 Ce fer va te venger du mal que je t'ai fait.
 
-
 **** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *id_CORCHUT *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_corchut
+
 
 Quel est donc l'accident qui vous met en colère ?
 
@@ -1354,8 +1355,8 @@ Mais c'est trop différer le sujet qui t'amène,
 Ce long retardement a mis ton Prince en peine ;
 Achève et rend bientôt ton ordre exécuté.
 
-
 **** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *id_ACHMET *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achmet
+
 
 Mes yeux, me trompez-vous ?
 
@@ -1365,8 +1366,8 @@ Mes yeux, me trompez-vous ?
 
       Fuyons.
 
-
 **** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *id_IZAIDE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_izaide
+
 
 Qu'a résolu Selim ?
 
@@ -1449,8 +1450,8 @@ Que tu es une branche, et qu'il en est la souche.
 Suis donc tes sentiments je suivrai mon courage,
 Meurs et je vais mourir ; à Dieu cruel, à Dieu.
 
-
 **** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *id_AGA *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aga
+
 
 Je viens plaindre une perte importante à l'Empire ;
 Madame, et dans le deuil dont je suis abattu,
@@ -1724,8 +1725,8 @@ Seigneur ne le lis point.
 
 Quels violents transports que la douleur lui donne !
 
-
 **** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *id_HALY *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_haly
+
 
       Ne t'en mets plus en peine.
 
@@ -2040,3 +2041,172 @@ Le remords le possède, et l'esprit l'abandonne ;
 Suivons-le cher ami de peur que quelque effort,
 Au milieu de son deuil, ne lui donne la mort.
 
+**** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *id_HERZEGOGLIS *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_herzegoglis
+
+
+Accuse-toi toi seul de l'horrible tempête,
+Que depuis quelques jours a menacé ta tête.
+Un mort d'un fils vivant emprunte le secours,
+Pour se venger de ceux qui finirent ses jours.
+La perte d'Achomat est tout ce qui l'anime,
+Et son supplice seul est cause de son crime :
+Un Trône est mal payé qui l'est par le tombeau,
+Ce n'est pas un licol qu'on doit pour un bandeau,
+Et ta puissance enfin se voyant couronnée,
+Devait aimer celui qui te l'avait donnée.
+
+Depuis le temps qu'on voit régner les Ottomans,
+L'on n'a point vu Seigneur de pareils sentiments.
+Quelque ardeur qu'aux combats nous ayons vu paraître,
+Un sujet n'eut jamais droit de se faire un maître :
+Quelque sang qu'un soldat pour son Prince ait versé,
+L'honneur de le servir l'a trop récompensé.
+N'écoute pas Seigneur, cet injuste requête,
+Les bras défendent bien, mais ils ne sont pas la tête,
+Et ces membres si forts qui font tous nos exploits,
+Peuvent donner des coups, mais n'ont jamais de voix.
+Si le droit de choisir devenait leur salaire,
+Nous verrions naître un Roi de chaque Janissaire.
+Et de l'État ainsi renversant tous les rangs,
+D'esclaves qu'ils étaient ils deviendraient tyrans.
+Empêche le malheur, il n'est rien de plus rude,
+Que l'ordre d'un esprit né dans la servitude ;
+Il se venge des maux de sa captivité,
+Surtout où peut agir son peu de liberté ;
+Et croit que qui lui rend ce don de la nature,
+Ne fait pas un bienfait, mais finit une injure.
+Puisque donner ainsi c'est leur rendre leur bien,
+Et que leur rendre enfin, c'est ne leur donner rien.
+Mais l'on obéit mieux à celui que l'on aime,
+Et celui qu'on choisit est un autre soi-même.
+Ne regardez-vous pas qu'ainsi le Prince élu,
+Sur ceux qui l'ont fait Roi n'est jamais absolu :
+Il ne saurait sur eux exercer sa puissance,
+Puisqu'elle même fait toute sa dépendance.
+Et leur étant unis par de si forts liens,
+Tous ceux qui l'ont fait maître, il les croit tous les siens.
+Alors qu'on joint un chef avecque des parties,
+À qui quelque défaut les rend mal assorties ;
+Le tout qui s'en produit en devient moins puissant,
+Et dans son mouvement est faible et languissant ;
+Mais ce tout est bien fait, et rien ne lui peut nuire,
+Étant fait par un Roi qui seul le peut produire,
+Ou son autorité qu'on respecte toujours,
+Règne en celui qui règne à la fin de ses jours.
+Dedans l'autre au contraire, où le soldat conspire,
+À donner à quelqu'un ce grand et vaste Empire :
+Celui qu'on a choisi n'ose donner des lois,
+Ceux qu'il vit compagnons, il les croit tous des Rois.
+La tête en quelque sorte est d'une autre structure
+Que le reste du corps qui forment la structure :
+Autrement c'est un corps mal ordonné, confus,
+Où l'on appelle chef ce qui paraît le plus.
+Achmet, ce dites-vous ? N'est pas un grand courage ;
+Dites vos sentiments ; mais sans faire d'outrage,
+Considérez celui dont il est le portrait,
+Vous devriez l'honorer quand il serait mal fait.
+Mais pourquoi le blâmer, attendez quelque ouvrage,
+Sélim montre du coeur, mais un coeur plein de rage.
+L'oisiveté vaut mieux que la rébellion :
+L'obéissance aussi plus que l'ambition.
+Si même contre un père il forma ses tempêtes,
+Que ne souffriront point ces misérables têtes ?
+Il ne les verra plus que comme ses bourreaux,
+Ayant tué son père, il rompra ses couteaux.
+Il leur sera donné comme un digne supplice ;
+Ils se verront punis par l'effet de son vice,
+Et se montrant ainsi sans mémoire et sans foi,
+Lui-même il punira ceux qui l'auront fait Roi.
+Seigneur, prenant Sélim, tu témoignes ta crainte,
+Lui-même prend ton choix comme fait par contrainte ;
+Pour tout remerciement de l'avoir couronné,
+Il reçoit comme un mal, un bien trop tard donné,
+Et dit déjà partout par un sentiment traître,
+Il m'a fait Empereur, il ne pouvait plus l'être.
+Le grand Prince Ottoman alors qu'il fit ses lois,
+Dit que les Turcs seraient esclaves de leurs Rois,
+Établissant entre eux cette grande distance,
+Afin que les sujets fussent sans résistance.
+Par là notre Monarque est toujours absolu :
+Par là toujours on fait ce qu'il a résolu.
+Voyant sa Majesté l'on ne peut se résoudre
+D'en voir briller l'éclair sans en craindre la foudre,
+Et dedans cet éclat les Trônes sont des Cieux,
+Où ce n'est qu'en tremblant qu'on peut porter les yeux.
+
+Il est dans les États de certaines maximes,
+Qu'on ne saurait choquer sans commettre des crimes.
+L'insolence autrement prenant un libre cours,
+La face de l'État changerait tous les jours.
+Ce sont lois où l'Empire établit ce Génie,
+Qui conserve toujours sa parfaite harmonie,
+Et qui des autres lois étant le fondement,
+Font le pouvoir d'un Prince, et son gouvernement.
+Tu ne dois pas encor délaisser les affaires,
+Pour tout ce qu'on te dit, de tous ces Janissaires,
+Grand Prince c'est le bien de tous les Musulmans,
+De leur savoir donner de rudes châtiments.
+Tu dois pour te venger d'une telle insolence,
+Employer les efforts de toute ta puissance ;
+Lorsqu'un peuple est rebelle, un puissant potentat
+Perd avec plus d'honneur ses jours que son État.
+Ce qu'ils nous ont gagné les oblige à mieux faire,
+L'impunité jamais ne devient un salaire :
+Et quoiqu'avec ardeur on ait bien combattu,
+Le vice n'est jamais le prix de la vertu.
+S'ils ont formé l'État, doivent-ils le détruire,
+Et des bienfaits rendus servent-ils pour lui nuire ?
+Quoi qu'on veuille alléguer de Sélim furieux,
+Le crime qu'il a fait le doit rendre odieux :
+Mais si contre son père il parut si barbare,
+Du sang de ses voisins sera-t-il moins avare ;
+Sa rage paraissant dedans tous ses projets,
+Fera des ennemis, et non pas des sujets.
+Ainsi toute la terre à notre astre opposée,
+Rendra par l'Univers sa lumière éclipsée ;
+Et par une aventure effroyable à nos jours,
+Le Soleil décroîtra contre son propre cours.
+Quand la fureur d'un Roi nous donne des alarmes,
+Nous ne lui devons pas répondre avec les armes.
+Nous devons nous purger, et c'est toujours mieux fait,
+De souffrir innocent que commettre un forfait.
+Ce n'est pas aux sujets de juger si les Princes
+Sont capables des soins qu'ils doivent aux Provinces.
+Et par les sentiments d'un orgueil sans pareil,
+De juger des esprits qui sont dans leur conseil.
+S'ils font quelque action qui ne soit pas permise,
+Nous devons néanmoins souffrir leur entreprise :
+Car dedans la fureur de leurs plus rudes coups,
+Ils faillent contre Dieu, mais non pas contre nous.
+Ne t'épouvante pas des forces d'une armée,
+Dont le dessein s'en va se réduire en fumée,
+Étant ainsi sans Chef leur ardeur les trahit,
+Tous voulant commander, personne n'obéit ;
+Et par l'étrange effet d'une insigne injustice,
+Eux-mêmes de leurs bras ils forgent leur supplice :
+Dieu regarde le peuple, il est vrai, quelquefois,
+Même pour nous parler il le prend pour sa voix ;
+Mais c'est lorsqu'il s'agit de faire quelque injure,
+À ces premières lois que dicte la nature :
+Car lors comme on prétend s'éloigner de l'erreur,
+Un sentiment commun est trouvé le meilleur.
+Mais alors qu'il s'agit de donner des Couronnes,
+L'Esprit de Dieu descend dedans d'autres personnes ;
+Afin de mieux former cet oeuvre précieux,
+Dieu prend aussi des Rois qui sont comme des Dieux ;
+Il se sert de leur voix pour faire un tel ouvrage,
+Et leur image sert à faire leur image.
+
+**** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *id_ESCLAVESELIM *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_esclaveselim
+
+
+Je venais t'avertir que la Sultane Reine
+Te demande, Seigneur.
+
+**** *creator_levayer *book_levayer_grandselim *style_verse *genre_tragedy *dist1_levayer_verse_tragedy_grandselim *dist2_levayer_verse_tragedy *id_ESCLAVEHALY *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_esclavehaly
+
+
+Oui Seigneur, c'est Sélim, je sais que c'est lui-même.
+
+      Je ne puis en deviner la cause,
+J'ai vu dans un instant dissiper son ennui.

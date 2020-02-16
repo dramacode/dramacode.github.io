@@ -2,6 +2,7 @@
 
 **** *creator_racine *book_racine_phedre *style_verse *genre_tragedy *dist1_racine_verse_tragedy_phedre *dist2_racine_verse_tragedy *id_thesee *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thesee
 
+
 La fortune à mes voeux cesse d'être opposée,
 Madame, et dans vos bras met...
 
@@ -274,8 +275,8 @@ Et pour mieux apaiser ses mânes irrités,
 Que malgré les complots d'une injuste famille
 Son amante aujourd'hui me tienne lieu de fille.
 
-
 **** *creator_racine *book_racine_phedre *style_verse *genre_tragedy *dist1_racine_verse_tragedy_phedre *dist2_racine_verse_tragedy *id_phedre *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phedre
+
 
 N'allons point plus avant. Demeurons, chère Oenone.
 Je ne me soutiens plus. Ma force m'abandonne.
@@ -823,8 +824,8 @@ Et le ciel, et l'époux que ma présence outrage ;
 Et la mort à mes yeux dérobant la clarté
 Rend au jour, qu'ils souillaient, toute sa pureté.
 
-
 **** *creator_racine *book_racine_phedre *style_verse *genre_tragedy *dist1_racine_verse_tragedy_phedre *dist2_racine_verse_tragedy *id_hippolyte *date_1677 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_hippolyte
+
 
 Le dessein en est pris, je pars, cher Théramène,
 Et quitte le séjour de l'aimable Trézène.
@@ -1230,8 +1231,8 @@ Et la chaste Diane, et l'auguste Junon,
 Et tous les dieux enfin témoins de mes tendresses
 Garantiront la foi de mes saintes promesses.
 
-
 **** *creator_racine *book_racine_phedre *style_verse *genre_tragedy *dist1_racine_verse_tragedy_phedre *dist2_racine_verse_tragedy *id_aricie *date_1677 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_aricie
+
 
 Hippolyte demande à me voir en ce lieu ?
 Hippolyte me cherche, et veut me dire adieu ?
@@ -1395,8 +1396,8 @@ Je l'affligerais trop, si j'osais achever.
 J'imite sa pudeur, et fuis votre présence
 Pour n'être pas forcée à rompre le silence.
 
-
 **** *creator_racine *book_racine_phedre *style_verse *genre_tragedy *dist1_racine_verse_tragedy_phedre *dist2_racine_verse_tragedy *id_oenone *date_1677 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_oenone
+
 
 Hélas, Seigneur ! Quel trouble au mien peut-être égal ?
 La reine touche presque à son terme fatal.
@@ -1667,8 +1668,8 @@ Ont brûlé quelquefois de feux illégitimes.
 Ah, Dieux ! Pour la servir, j'ai tout fait, tout quitté.
 Et j'en reçois ce prix ? Je l'ai bien mérité.
 
-
 **** *creator_racine *book_racine_phedre *style_verse *genre_tragedy *dist1_racine_verse_tragedy_phedre *dist2_racine_verse_tragedy *id_theramene *date_1677 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_theramene
+
 
 Et dans quels lieux, Seigneur, l'allez-vous donc chercher ?
 Déjà pour satisfaire à votre juste crainte
@@ -1871,8 +1872,8 @@ Et m'acquitter, Seigneur, du malheureux emploi,
 Dont son coeur expirant s'est reposé sur moi.
 Mais j'aperçois venir sa mortelle ennemie.
 
-
 **** *creator_racine *book_racine_phedre *style_verse *genre_tragedy *dist1_racine_verse_tragedy_phedre *dist2_racine_verse_tragedy *id_ismene *date_1677 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_ismene
+
 
 C'est le premier effet de la mort de Thésée.
 Préparez-vous, Madame, à voir de tous côtés
@@ -1915,8 +1916,8 @@ Mais il en a les yeux, s'il n'en a le langage.
       Vous l'entendrez lui-même,
 Il vient à vous.
 
-
 **** *creator_racine *book_racine_phedre *style_verse *genre_tragedy *dist1_racine_verse_tragedy_phedre *dist2_racine_verse_tragedy *id_panope *date_1677 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_panope
+
 
 Je voudrais vous cacher une triste nouvelle,
 Madame. Mais il faut que je vous la révèle.
@@ -1961,4 +1962,3 @@ Trois fois elle a rompu sa lettre commencée.
 Daignez la voir, Seigneur, daignez la secourir.
 
 Elle expire, Seigneur.
-

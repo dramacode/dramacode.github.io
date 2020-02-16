@@ -2,6 +2,7 @@
 
 **** *creator_regnard *book_regnard_foliesamoureuses *style_verse *genre_comedy *dist1_regnard_verse_comedy_foliesamoureuses *dist2_regnard_verse_comedy *id_MONSIEURDANCOUR *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdancour
 
+
 Parbleu, vous vous chargez d'un soin bien obligeant.
 
       Eh ! Mademoiselle,
@@ -85,8 +86,8 @@ Vous nous autorisez à trop de vanité.
 L'imagination mérite qu'on la loue ;
 Et la pièce, je crois, s'en trouvera fort bien.
 
-
 **** *creator_regnard *book_regnard_foliesamoureuses *style_verse *genre_comedy *dist1_regnard_verse_comedy_foliesamoureuses *dist2_regnard_verse_comedy *id_MADEMOISELLEBEAUVAL *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellebeauval
+
 
 Oui, je vous le soutiens, messieurs, c'est fort mal fait,
 Vous n'avez point de conscience.
@@ -283,8 +284,8 @@ Avec tous ces gens-là point de plaisanterie.
 
 Commençons donc.
 
-
 **** *creator_regnard *book_regnard_foliesamoureuses *style_verse *genre_comedy *dist1_regnard_verse_comedy_foliesamoureuses *dist2_regnard_verse_comedy *id_MADEMOISELLEDESBROSSES *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoiselledesbrosses
+
 
       Voici bien un autre embarras !
 L'auteur, dans les foyers, se fait tenir à quatre ;
@@ -313,8 +314,8 @@ Nous souffririons de votre raillerie.
 
 Sur ce pied-là, l'auteur voudra bien qu'on la joue.
 
-
 **** *creator_regnard *book_regnard_foliesamoureuses *style_verse *genre_comedy *dist1_regnard_verse_comedy_foliesamoureuses *dist2_regnard_verse_comedy *id_MOMUS *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
+
 
 Serviteur à la compagnie.
 Des dieux de la mythologie
@@ -457,8 +458,30 @@ C'est beaucoup, dans un temps où chacun, dans sa vie,
 Fait pour le moins une folie.
 Adieu, jusqu'au revoir. Surtout, vivons en paix.
 
+**** *creator_regnard *book_regnard_foliesamoureuses *style_verse *genre_comedy *dist1_regnard_verse_comedy_foliesamoureuses *dist2_regnard_verse_comedy *id_MONSIEURDUBOCAGE *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_monsieurdubocage
+
+
+Tout le monde veut s'en aller.
+Hé ! Commençons de grâce ; allez vous habiller.
+De nos débats le public n'a que faire.
+
+Oui ; là-dessus, n'ayez point de souci.
+Une personne fort jolie,
+Qui paraît beaucoup notre amie,
+Et qui l'est de l'auteur aussi,
+Dans le moment vient d'arriver ici
+Avec nombreuse compagnie :
+Ils disent que c'est la folie ;
+Et c'est elle en effet. J'ai bien jugé d'abord,
+Comme on a mis son nom au titre de la pièce,
+Qu'au succès elle s'intéresse.
+Mais je vois quelqu'un qui s'empresse
+À venir de sa part pour vous mettre d'accord.
+
+Voilà le fait.
 
 **** *creator_regnard *book_regnard_foliesamoureuses *style_verse *genre_comedy *dist1_regnard_verse_comedy_foliesamoureuses *dist2_regnard_verse_comedy *id_ALBERT *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_albert
+
 
 J'ai fait dans mon château, toute la nuit la ronde,
 Et dans un plein repos j'ai trouvé tout le monde.
@@ -923,8 +946,8 @@ Que le feu, que la faim, que la peste et la guerre,
 De tous les gens de bien tu dois être maudit ;
 Je te rends pour jamais au diable qui te fit.
 
-
 **** *creator_regnard *book_regnard_foliesamoureuses *style_verse *genre_comedy *dist1_regnard_verse_comedy_foliesamoureuses *dist2_regnard_verse_comedy *id_ERASTE *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+
 
       Eh bien ! Quelle nouvelle,
 Cher Crispin ? Dans ces lieux as-tu vu cette belle ?
@@ -1196,8 +1219,8 @@ Ne perdons point de temps, quittons cette demeure.
 Ce bois nous favorise ; Albert ne saura pas
 De quel côté l'amour aura tourné nos pas.
 
-
 **** *creator_regnard *book_regnard_foliesamoureuses *style_verse *genre_comedy *dist1_regnard_verse_comedy_foliesamoureuses *dist2_regnard_verse_comedy *id_AGATHE *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_agathe
+
 
 Paix, tais-toi, parle bas ; tu sauras mon dessein.
 Éraste est de retour.
@@ -1501,8 +1524,8 @@ Quel calme en mon esprit vient succéder au trouble !
 
 Je mets entre vos mains et mon sort et ma vie.
 
-
 **** *creator_regnard *book_regnard_foliesamoureuses *style_verse *genre_comedy *dist1_regnard_verse_comedy_foliesamoureuses *dist2_regnard_verse_comedy *id_LISETTE *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
 Lorsqu'en un plein repos chacun encor sommeille,
 Quel démon, s'il vous plaît, vous tire par l'oreille,
@@ -1808,8 +1831,8 @@ Vive, vive Crispin ! Et vivat la folie !
 Allons courir les champs, pour remplir notre sort,
 Et le laissons tout seul exhaler son transport.
 
-
 **** *creator_regnard *book_regnard_foliesamoureuses *style_verse *genre_comedy *dist1_regnard_verse_comedy_foliesamoureuses *dist2_regnard_verse_comedy *id_CRISPIN *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
+
 
 Mon maître, qui m'attend au cabaret prochain,
 M'envoie ici devant pour sonder le terrain.
@@ -2126,4 +2149,3 @@ Il s'en va m'échapper.
 
 Courez donc au plus tôt. Laisserez-vous périr
 Un homme qui, pour vous, s'est offert à mourir ?
-

@@ -2,6 +2,7 @@
 
 **** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_CEPHEE *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cephee
 
+
       N'en parlons plus, Phinée,
 Et laissons d'Andromède aller la destinée.
 Votre amour fait pour elle un inutile effort :
@@ -176,8 +177,8 @@ Dans cet excès de joie à craindre nous oblige ?
 Qui nous ferme la porte et nous défend d'entrer
 Où tout notre bonheur se devait rencontrer ?
 
-
 **** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_CASSIOPE *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cassiope
+
 
 Généreux inconnu, qui chez tous les monarques
 Portez de vos vertus les éclatantes marques,
@@ -537,8 +538,8 @@ c'est trop…
 Redoublons donc nos voeux, redoublons nos ferveurs,
 Pour mériter du ciel ces nouvelles faveurs.
 
-
 **** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_ANDROMEDE *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_andromede
+
 
 Nymphes, notre guirlande est encor mal ornée ;
 Et devant qu'il soit peu nous reverrons Phinée,
@@ -892,8 +893,24 @@ Il n'en a pas besoin s'il n'a que vous à craindre.
 
 Il porte à son côté de quoi l'en garantir.
 
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_JUPITER *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
+
+
+Des noces de mon fils la terre n'est pas digne,
+La gloire en appartient aux cieux,
+Et c'est là ce bonheur insigne
+Qu'en vous fermant mon temple ont annoncé les dieux.
+Roi, reine, et vous amants, venez sans jalousie
+Vivre à jamais en ce brillant séjour,
+Où le nectar et l'ambroisie
+Vous seront comme à nous prodigués chaque jour ;
+Et quand la nuit aura tendu ses voiles,
+Vos corps semés de nouvelles étoiles,
+Du haut du ciel éclairant aux mortels,
+Leur apprendront qu'il vous faut des autels.
 
 **** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_JUNON *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junon
+
 
 N'en doute point, Phinée, et cesse d'endurer.
 
@@ -919,8 +936,66 @@ Arrêtez là votre remerciement :
 L'obéissance est le seul compliment
 Qu'agrée un Dieu quand il commande.
 
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_NEPTUNE *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_neptune
+
+
+      Je sais vos déplaisirs,
+Mes filles ; et je viens au bruit de vos soupirs,
+De l'affront qu'on vous fait plus que vous en colère.
+C'est moi que tyrannise un superbe de frère,
+Qui dans mon propre état m'osant faire la loi,
+M'envoie un de ses fils pour triompher de moi.
+Qu'il règne dans le ciel, qu'il règne sur la terre ;
+Qu'il gouverne à son gré l'éclat de son tonnerre ;
+Que même du destin il soit indépendant ;
+Mais qu'il me laisse à moi gouverner mon trident.
+C'est bien assez pour lui d'un si grand avantage,
+Sans me venir braver encor dans mon partage.
+Après cet attentat sur l'empire des mers,
+Même honte à leur tour menace les enfers ;
+Aussi leur souverain prendra notre querelle :
+Je vais l'intéresser avec Junon pour elle ;
+Et tous trois, assemblant notre pouvoir en un,
+Nous saurons bien dompter notre tyran commun.
+Adieu : consolez-vous, nymphes trop outragées ;
+Je périrai moi-même, ou vous serez vengées ;
+Et j'ai su du destin, qui se ligue avec nous,
+Qu'Andromède ici-bas n'aura jamais d'époux.
+
+Neptune n'est pas moins propice,
+Et vos encens désarment son courroux.
+
+Reines, venez ; que ma haine étouffée
+Vous conduise elle-même à cet heur souverain.
+
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_MERCURE *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+
+
+Roi, reine, et vous princesse, et vous heureux vainqueur,
+Que Jupiter mon père
+Tient pour mon digne frère,
+Ne craignez plus du sort la jalouse rigueur.
+Ces portes du temple fermées,
+Dont vos âmes sont alarmées,
+Vous marquent des faveurs où tout le ciel consent :
+Tous les dieux sont d'accord de ce bonheur suprême ;
+Et leur monarque tout-puissant
+Vous le vient apprendre lui-même.
+
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_VENUS *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
+
+
+Ne tremblez plus, mortels ; ne tremble plus, ô mère !
+On va jeter le sort pour la dernière fois,
+Et le ciel ne veut plus qu'un choix
+Pour apaiser de tout point sa colère.
+Andromède ce soir aura l'illustre époux
+Qui seul est digne d'elle, et dont seule elle est digne.
+Préparez son hymen, où, pour faveur insigne,
+Les dieux ont résolu de se joindre avec vous.
 
 **** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_MELPOMENE *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
+
 
 Arrête un peu ta course impétueuse :
 Mon théâtre, Soleil, mérite bien tes yeux ;
@@ -962,8 +1037,8 @@ Et je lis chaque jour son destin dans les cieux.
 
 Soleil, j'y vole ; attends-moi donc, de grâce.
 
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_SOLEIL *date_1650 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_soleil
 
-**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_SOLEIL *date_1650 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_soleil
 
 Charmante muse de la scène,
 Chère et divine Melpomène,
@@ -1018,8 +1093,68 @@ Doit regagner le temps que sur cette province,
 Pour contempler ce prince,
 Je me suis arrêté.
 
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_EOLE *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eole
+
+
+Téméraire mortel, n'en dis pas davantage ;
+Tu n'obliges que trop les dieux à te haïr :
+Quoi que pense attenter l'orgueil de ton courage,
+Ils ont trop de moyens de se faire obéir.
+Connais-moi pour ton infortune ;
+Je suis Éole, roi des vents.
+Partez, mes orageux suivants,
+Faites ce qu'ordonne Neptune.
+
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_CYMODOCE *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cymodoce
+
+
+Ainsi notre colère est de tout point bravée ;
+Ainsi notre victime à nos yeux enlevée
+Va croître les douceurs de ses contentements
+Par le juste mépris de nos ressentiments.
+
+Oui, c'est sans doute un dieu qui vient de la défendre :
+Mais il n'est pas, mes soeurs, encor temps de nous rendre ;
+Et puisqu'un dieu pour elle ose nous outrager,
+Il faut trouver aussi des dieux à nous venger.
+Du sang de notre monstre encore toutes teintes,
+Au palais de Neptune allons porter nos plaintes,
+Lui demander raison de l'immortel affront
+Qu'une telle défaite imprime à notre front.
+
+Après le doux espoir d'une telle promesse,
+Reprenons, chères soeurs, une entière allégresse.
+
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_EPHYRE *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ephyre
+
+
+Toute notre fureur, toute notre vengeance
+Semble avec son destin être d'intelligence,
+N'agir qu'en sa faveur ; et ses plus rudes coups
+Ne font que lui donner un plus illustre époux.
+
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_CYDIPPE *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cydippe
+
+
+Le sort, qui jusqu'ici nous a donné le change,
+Immole à ses beautés le monstre qui nous venge ;
+Du même sacrifice, et dans le même lieu,
+De victime qu'elle est, elle devient le dieu.
+Cessons dorénavant, cessons d'être immortelles,
+Puisque les immortels trahissent nos querelles,
+Qu'une beauté commune est plus chère à leurs yeux ;
+Car son libérateur est sans doute un des dieux.
+Autre qu'un dieu n'eût pu nous ôter cette proie
+Autre qu'un dieu n'eût pu prendre une telle voie ;
+Et ce cheval ailé fût péri mille fois,
+Avant que de voler sous un indigne poids.
+
+Je crois qu'il nous prévient ; les ondes en bouillonnent ;
+Les conques des tritons dans ces rochers résonnent :
+c'est lui-même, parlons.
 
 **** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_PHINEE *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phinee
+
 
 Est-ce un crime en ces lieux, seigneur, que d'être belle ?
 
@@ -1365,8 +1500,8 @@ Le mien s'efforcera pour ce dernier service.
 Vous pouvez cependant divertir vos esprits
 À rendre compte au roi de vos justes mépris.
 
-
 **** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_PERSEE *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_persee
+
 
 J'en ai déjà jugé, reine, en vous imitant ;
 Et si de vos malheurs la cause ne procède
@@ -1590,8 +1725,8 @@ Au bonheur de ton fils te fait porter envie ?
 
 Accablés et surpris d'une faveur si grande…
 
-
 **** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_TIMANTE *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_timante
+
 
       Ah ! Seigneur, ah ! Madame.
 
@@ -1643,8 +1778,8 @@ Nous bénissons le ciel d'un tel mal à ce prix ;
 Et voyant quel époux il donne à la princesse,
 La douleur s'en termine en ces chants d'allégresse.
 
-
 **** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_AMMON *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ammon
+
 
 Seigneur, auparavant d'une âme plus remise
 Daignez voir le succès d'une telle entreprise.
@@ -1686,8 +1821,8 @@ Sous ce honteux espoir votre fureur se dompte ?
 
 Je vous plains ; mais enfin j'obéis, et vous laisse.
 
-
 **** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_AGLANTE *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aglante
+
 
 Quoi ? Madame.
 
@@ -1725,8 +1860,33 @@ Clyte et Nylée encor vaillamment le défendent ;
 Mais ce sont vains efforts de peu d'autres suivis,
 Et je viens toute en pleurs vous en donner avis.
 
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_CEPHALIE *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cephalie
+
+
+Où les vôtres, madame, épandent leur lumière,
+Cette honte pour nous est assez coutumière.
+Les plus vives clartés s'éteignent auprès d'eux,
+Comme auprès du soleil meurent les autres feux ;
+Et pour peu qu'on vous voie et qu'on vous considère,
+Vous ne nous laissez point de conquêtes à faire.
+
+C'est à vous d'en juger, vous qui les entendez.
+
+Un digne amour succède à cette haute estime :
+Si je puis toutefois vous le dire sans crime,
+C'est hasarder beaucoup que croire entièrement
+L'impétuosité d'un si prompt changement.
+Comme pour vous Phinée eut toujours quelques charmes,
+Peut-être il ne lui faut qu'un soupir et deux larmes
+Pour dissiper un peu de cette avidité
+Qui d'un si gros torrent suit la rapidité.
+Deux amants que sépare une légère offense
+Rentrent d'un seul coup d'oeil en pleine intelligence.
+Vous reverrez en lui ce qui le fit aimer,
+Les mêmes qualités qu'il vous plut estimer…
 
 **** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_LIRIOPE *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_liriope
+
 
 Phinée est plus aimé qu'Andromède n'est belle,
 Bien qu'ici-bas tout cède à ses attraits ;
@@ -1765,8 +1925,8 @@ Joignons nos voix pour bénir leur attente.
 
 Heureuse amour qu'un tel succès couronne !
 
-
 **** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_PAGE *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_page
+
 
 Qu'elle est lente, cette journée !
 
@@ -1807,8 +1967,42 @@ L'amour les joint.
 
 Douce union que chacun doit bénir !
 
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_PHORBAS *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phorbas
 
-**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_CHOEUR *date_1650 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_choeur
+
+      Mettez, grand roi, votre esprit en repos ;
+La tête de Méduse a puni tous ces traîtres.
+
+Aussitôt que Persée a pu voir son rival :
+"Descendons, a-t-il dit, en un combat égal ;
+Quoique j'aie en ma main un entier avantage,
+Je ne veux que mon bras, ne prends que ton courage.
+- Prends, prends cet avantage, et j'userai du mien, "
+Dit Phinée ; et soudain, sans plus répondre rien,
+Les siens donnent en foule, et leur troupe pressée
+Fait choir Ménale et Clyte aux pieds du grand Persée.
+Il s'écrie aussitôt : « Amis, fermez les yeux,
+Et sauvez vos regards de ce présent des cieux :
+J'atteste qu'on m'y force, et n'en fais plus d'excuse.»
+Il découvre à ces mots la tête de Méduse.
+Soudain j'entends des cris qu'on ne peut achever ;
+J'entends gémir les uns, les autres se sauver ;
+J'entends le repentir succéder à l'audace ;
+J'entends Phinée enfin qui lui demande grâce.
+« Perfide, il n'est plus temps, » lui dit Persée. Il fuit :
+J'entends comme à grands pas ce vainqueur le poursuit ;
+Comme il court se venger de qui l'osait surprendre ;
+Je l'entends s'éloigner, puis je cesse d'entendre.
+Alors, ouvrant les yeux par son ordre fermés,
+Je vois tous ces méchants en pierre transformés ;
+Mais l'un plein de fureur, et l'autre plein de crainte,
+En porte sur le front l'image encore empreinte ;
+Et tel voulait frapper, dont le coup suspendu
+Demeure en sa statue à demi descendu ;
+tant cet affreux prodige…
+
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_CHOEUR *date_1650 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_choeur
+
 
 Reine de Paphe et d'Amathonte,
 Mère d'amour, et fille de la mer,
@@ -1916,3 +2110,10 @@ Vos corps semés de nouvelles étoiles,
 Du haut du ciel éclairant aux mortels,
 Leur apprendront qu'il vous faut des autels.
 
+**** *creator_corneillep *book_corneillep_andromede *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_andromede *dist2_corneillep_verse_tragedy *id_VOIX *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_voix
+
+
+Andromède est le prix qui suit votre victoire :
+Combattez, combattez ;
+Et vos plaisirs et votre gloire
+Rendront jaloux les dieux dont vous sortez.

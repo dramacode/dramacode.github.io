@@ -2,6 +2,7 @@
 
 **** *creator_corneillet *book_corneillet_comtedessex *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_comtedessex *dist2_corneillet_verse_tragedy *id_ELISABETH *date_1678 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elisabeth
 
+
 En vain tu crois tromper la douleur qui m'accable,
 C'est parce qu'il me hait, qu'il s'est rendu coupable,
 Et la belle Suffole refusée à ses voeux,
@@ -620,8 +621,8 @@ Les honneurs du tombeau réparent l'injustice.
 Si le ciel à mes voeux peut se laisser toucher,
 Vous n'aurez pas longtemps à me le reprocher.
 
-
 **** *creator_corneillet *book_corneillet_comtedessex *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_comtedessex *dist2_corneillet_verse_tragedy *id_LADUCHESSE *date_1678 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laduchesse
+
 
 J'ai causé vos malheurs, et le trouble où vous êtes
 M'apprend de mon hymen les plaintes que vous faites ;
@@ -948,8 +949,8 @@ Qu'en vain de mon amour il combattait les charmes,
 Je vais pleurer ailleurs, après ces rudes coups,
 Ce que je n'ai perdu que par vous et pour vous.
 
-
 **** *creator_corneillet *book_corneillet_comtedessex *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_comtedessex *dist2_corneillet_verse_tragedy *id_LECOMTE *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomte
+
 
 Non, mon cher Salsbury, vous n'avez rien à craindre :
 Quel que soit son courroux, l'amour saura l'éteindre ;
@@ -1493,8 +1494,8 @@ Avancez, je vous suis.
       Prenez soin de ses jours ;
 L'état où je la laisse a besoin de secours.
 
-
 **** *creator_corneillet *book_corneillet_comtedessex *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_comtedessex *dist2_corneillet_verse_tragedy *id_CECILE *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cecile
+
 
 La Reine m'a chargé de vous faire savoir
 Que vous vous teniez prêt dans une heure à la voir.
@@ -1609,8 +1610,8 @@ Qu'un sujet infidèle...
 
       Ces violents éclats...
 
-
 **** *creator_corneillet *book_corneillet_comtedessex *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_comtedessex *dist2_corneillet_verse_tragedy *id_SALSBURY *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_salsbury
+
 
 Je sais ce que de vous par plus d'une victoire
 L'Angleterre a reçu de surcroît à sa gloire.
@@ -1801,8 +1802,8 @@ Il se met à genoux ; déjà le fer s'apprête.
 D'un visage intrépide il présente sa tête,
 Qui du tronc séparée.
 
-
 **** *creator_corneillet *book_corneillet_comtedessex *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_comtedessex *dist2_corneillet_verse_tragedy *id_TILNEY *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tilney
+
 
 Quelques justes soupçons que vous en puissiez prendre,
 J'ai peine contre vous à ne le pas défendre.
@@ -1883,8 +1884,8 @@ Déjà ce triste Arrêt était exécuté,
 Et sa perte si dure à votre âme affligée,
 Permise malgré vous, ne peut qu'être vengée.
 
-
 **** *creator_corneillet *book_corneillet_comtedessex *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_comtedessex *dist2_corneillet_verse_tragedy *id_CROMMER *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crommer
+
 
 C'est avec déplaisir que je parais ici ;
 Mais un ordre cruel dont tout mon coeur soupire...
@@ -1902,4 +1903,3 @@ Vous avez dans vos mains ce que toute la Terre
 A vu plus d'une fois utile à l'Angleterre.
 Marchons ; quelque douleur que j'en puisse sentir,
 La Reine veut se perdre, il faut y consentir.
-

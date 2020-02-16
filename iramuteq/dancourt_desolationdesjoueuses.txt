@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_desolationdesjoueuses *style_prose *genre_comedy *dist1_dancourt_prose_comedy_desolationdesjoueuses *dist2_dancourt_prose_comedy *id_DORIMENE *date_1687 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorimene
 
+
 Oui, Monsieur, la résolution en est prise, et c'est à vous de voir si vous me pouvez faire toucher cet argent aussitôt que je serai arrivée.
 
 À quoi rêvez-vous ?
@@ -108,8 +109,8 @@ Eh ! De grâce, épargnez-le un peu, je vous prie.
 
 Je suis ravie d'être désabusée, Dorante, et je vous donne ma fille, pourvu que vous appreniez à jouer, et que vous veniez avec moi en Angleterre.
 
-
 **** *creator_dancourt *book_dancourt_desolationdesjoueuses *style_prose *genre_comedy *dist1_dancourt_prose_comedy_desolationdesjoueuses *dist2_dancourt_prose_comedy *id_ANGELIQUE *date_1687 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+
 
 Je t'avoue, Lisette, que je voudrais de tout mon coeur que ce ne fût point uue fausse nouvelle, et que ce qu'on nous en disait hier au soir se confirmât aujourd'hui.
 
@@ -163,8 +164,8 @@ Vous avez raison, Madame.
 
 Qu'est-ce donc, Monsieur, quel désordre est ceci ?
 
-
 **** *creator_dancourt *book_dancourt_desolationdesjoueuses *style_prose *genre_comedy *dist1_dancourt_prose_comedy_desolationdesjoueuses *dist2_dancourt_prose_comedy *id_LACOMTESSE *date_1687 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+
 
 Bonjour, ma chère. Qu'est-ce que c'est donc que ceci ? Où est tout notre monde aujourd'hui ? Quels paresseux ! Le chevalier n'est point encore venu ? Où est Monsieur l'abbé, ma mignonne ? Et le petit caissier, je ne le vois point. Il faut que la marquise soit malade, puisqu'elle n'est point arrivée la première.
 
@@ -248,8 +249,8 @@ Vraiment, vous vous moquez, je n'y veux point regarder !
 
 Un esquipot à Monsieur le chevalier de Bellemonte ! Je le croyais le plus honnête homme de toute la Gascogne.
 
-
 **** *creator_dancourt *book_dancourt_desolationdesjoueuses *style_prose *genre_comedy *dist1_dancourt_prose_comedy_desolationdesjoueuses *dist2_dancourt_prose_comedy *id_LINTENDANTE *date_1687 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lintendante
+
 
 Un fauteuil, ma pauvre Lisette, un fauteuil. Ah ! Je n'en puis plus.
 
@@ -299,8 +300,8 @@ Je ne l'avais pas encore remarqué.
 
 Nous jouerons donc quelque reprise de lansquenet en faveur du mariage ?
 
-
 **** *creator_dancourt *book_dancourt_desolationdesjoueuses *style_prose *genre_comedy *dist1_dancourt_prose_comedy_desolationdesjoueuses *dist2_dancourt_prose_comedy *id_ERASTE *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+
 
 Eh ! Bons dieux ! Mesdames, qu'avez-vous fait à ce pauvre petit caissier ? Je viens de le rencontrer, il sort d'ici dans une rage épouvantable.
 
@@ -332,8 +333,8 @@ Va, misérable, je t'en ferai raison à coups de canne !
 
 Iras-tu ?
 
-
 **** *creator_dancourt *book_dancourt_desolationdesjoueuses *style_prose *genre_comedy *dist1_dancourt_prose_comedy_desolationdesjoueuses *dist2_dancourt_prose_comedy *id_CLITANDRE *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+
 
 Madame, je vous donne le bonjour.
 
@@ -387,8 +388,8 @@ On découvrira ce manège, à la fin.
 
 Oui, oui, reconduisez celui-là, nous aurons soin de celui-ci.
 
-
 **** *creator_dancourt *book_dancourt_desolationdesjoueuses *style_prose *genre_comedy *dist1_dancourt_prose_comedy_desolationdesjoueuses *dist2_dancourt_prose_comedy *id_LECAISSIER *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecaissier
+
 
 Comment donc, Madame ! Est-ce que l'on ne joue pas aujourd'hui ? Je ne vois point de carosses à votre porte, personne dans le logis. Qu'est-ce que cela veut dire ?
 
@@ -418,8 +419,8 @@ Têtebleu ! Madame, cela n'est pas bien. Vous me mettez au désespoir, je me pen
 
 Non, morbleu c'est à vous : c'est vous qui avez profité de mon argent. Vous ne m'engagiez à le prêter aux joueurs, qu'afin de le leur gagner dans la suite ; mais, par la morbleu ! Je passerai cet article-là dans mes comptes, et vous aurez affaire à forte partie.
 
-
 **** *creator_dancourt *book_dancourt_desolationdesjoueuses *style_prose *genre_comedy *dist1_dancourt_prose_comedy_desolationdesjoueuses *dist2_dancourt_prose_comedy *id_DORANTE *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+
 
 Hé bien ! Madame, puis-je espérer que le changement dont on parle aujourd'hui dans tout Paris, fera changer les sentiments de Madame votre mère, et croyez-vous qu'elle me pardonne maintenant de n'être pas joueur de profession ?
 
@@ -491,8 +492,8 @@ Je vous suivrai partout, Madame.
 
 Nous ferons tout ce qu'il vous plaira, Madame.
 
-
 **** *creator_dancourt *book_dancourt_desolationdesjoueuses *style_prose *genre_comedy *dist1_dancourt_prose_comedy_desolationdesjoueuses *dist2_dancourt_prose_comedy *id_MERLIN *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merlin
+
 
 Je viens de chez Monsieur votre oncle, Monsieur, comme vous me l'aviez ordonné.
 
@@ -562,8 +563,8 @@ Messieurs, ne nous mettez point dehors en même temps, il m'assommerait dans la 
 
 Et si l'on veut, je fournirai les cartes.
 
-
 **** *creator_dancourt *book_dancourt_desolationdesjoueuses *style_prose *genre_comedy *dist1_dancourt_prose_comedy_desolationdesjoueuses *dist2_dancourt_prose_comedy *id_LISETTE *date_1687 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
 Quand Madame votre mère en devrait enrager cent fois davantage, je ne saurais m'empêcher d'en être ravie, et je gage que vous en êtes pour le moins aussi contente que moi.
 
@@ -669,3 +670,7 @@ Un bateau serait bien meilleur.
 
 Oui, Madame, un bateau. On prend un bateau au Pont-Rouge, et l'on va, jouant, jusqu'à Saint-Cloud, et si vous n'avez pas regagné votre argent, et que le coeur vous en dise, vous pourrez descendre jusqu'à Rouen, et Madame sera, par ce moyen, à demi-chemin de l'Angleterre.
 
+**** *creator_dancourt *book_dancourt_desolationdesjoueuses *style_prose *genre_comedy *dist1_dancourt_prose_comedy_desolationdesjoueuses *dist2_dancourt_prose_comedy *id_UNLAQUAIS *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_unlaquais
+
+
+Voilà Madame l'intendante dans votre antichambre, qui se trouve mal, je crois.

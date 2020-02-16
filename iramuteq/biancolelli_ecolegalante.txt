@@ -2,6 +2,7 @@
 
 **** *creator_biancolelli *book_biancolelli_ecolegalante *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_ecolegalante *dist2_biancolelli_verse_comedy *id_LEDOCTEUR *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledocteur
 
+
       Non, je n'y puis suffire :
 C'est souffrir trop longtemps un rigoureux martyre :
 Quoi, je ne puis jouir d'un moment de repos !
@@ -156,8 +157,8 @@ Allons, je vous pardonne, et vous comme mon gendre.
 
 Qu'est-ce donc Arlequin, vous gardez le silence ?
 
+**** *creator_biancolelli *book_biancolelli_ecolegalante *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_ecolegalante *dist2_biancolelli_verse_comedy *id_SPINETTE *date_1710 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_spinette
 
-**** *creator_biancolelli *book_biancolelli_ecolegalante *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_ecolegalante *dist2_biancolelli_verse_comedy *id_SPINETTE *date_1710 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_spinette
 
       Que veux-tu Scaramouche ?
 
@@ -275,8 +276,8 @@ Allons trouver Octave.
       En vérité mon père,
 Je le ferais encor si j'avais à le faire.
 
-
 **** *creator_biancolelli *book_biancolelli_ecolegalante *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_ecolegalante *dist2_biancolelli_verse_comedy *id_ARLEQUIN *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+
 
 Hélas ! pardonnez-moi mon aimable Argentine,
 J'ai tout à redouter de vôtre humeur badine ;
@@ -707,8 +708,8 @@ Donnez-m'en des signes certains,
 J'en serai sûr si le parterre
 Veut bien carillonner des mains.
 
+**** *creator_biancolelli *book_biancolelli_ecolegalante *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_ecolegalante *dist2_biancolelli_verse_comedy *id_ARGENTINE *date_1710 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_argentine
 
-**** *creator_biancolelli *book_biancolelli_ecolegalante *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_ecolegalante *dist2_biancolelli_verse_comedy *id_ARGENTINE *date_1710 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_argentine
 
 Quel plaisir trouvez vous à me désespérer ?
 Vôtre cœur aux soupçons ne fait que se livrer.
@@ -892,8 +893,8 @@ Dans vôtre âme un ardent brasier,
 En pareil cas souvent le Maître
 Est moins heureux que l'écolier.
 
-
 **** *creator_biancolelli *book_biancolelli_ecolegalante *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_ecolegalante *dist2_biancolelli_verse_comedy *id_OCTAVE *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octave
+
 
 Se peut-il, cher ami, que ton cœur à son tout
 Refuse de se rendre au pouvoir de l'amour ?
@@ -1055,8 +1056,8 @@ Je prétends par l'hymen réparer son honneur.
       Ah ! Monsieur le Docteur.
 Ne vous emportez pas.
 
-
 **** *creator_biancolelli *book_biancolelli_ecolegalante *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_ecolegalante *dist2_biancolelli_verse_comedy *id_SCARAMOUCHE *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scaramouche
+
 
       À parler franchement,
 C'est un vilain métier que celui d'un Amant :
@@ -1219,8 +1220,8 @@ Elle en fait d'abord son galant,
 C'est une Anguille qui frétille,
 Un Moulin qui tourne à tout vent.
 
-
 **** *creator_biancolelli *book_biancolelli_ecolegalante *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_ecolegalante *dist2_biancolelli_verse_comedy *id_LEANDRE *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+
 
 Pourquoi me blâmes-tu ? Ta remontrance est vaine,
 Je cède avec plaisir au penchant qui m'entraîne,
@@ -1475,8 +1476,8 @@ Que je me suis laissé charmer,
 Et comme un écolier fidèle,
 J'ai bien pratiqué l'art d'aimer.
 
-
 **** *creator_biancolelli *book_biancolelli_ecolegalante *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_ecolegalante *dist2_biancolelli_verse_comedy *id_MEZZETIN *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mezzetin
+
 
 Vive le jus de la treille
 Pour dissiper le chagrin :
@@ -1578,8 +1579,8 @@ Fait rarement de bons effets,
 Mais dans une école galante,
 On fait bientôt d'heureux progrès.
 
-
 **** *creator_biancolelli *book_biancolelli_ecolegalante *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_ecolegalante *dist2_biancolelli_verse_comedy *id_PIERROT *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+
 
       Bonjour la brune-blonde,
 Il faut auprès de vous que mon cœur se débonde ;
@@ -1707,3 +1708,30 @@ L'amour a des passes-par-tout,
 Quand on conserve trop la viande
 Tôt ou tard la mouche s'y met.
 
+**** *creator_biancolelli *book_biancolelli_ecolegalante *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_ecolegalante *dist2_biancolelli_verse_comedy *id_LACHANTEUSE *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lachanteuse
+
+
+Un amant soumis à vos lois,
+Languit pour vous, belle Spinette ;
+Il brûle d'une ardeur parfaite,
+Et n'a pu faire un plus beau choix.
+Il cherche sans cesse à vous plaire.
+Ah ! daignez répondre à ses feux !
+Si vous voulez le rendre heureux,
+Il n'aura plus de vœux à faire.
+
+En vain pour garder une belle
+Un jaloux veille nuit et jour,
+Quoi qu'il fasse la sentinelle,
+Rien n'est impossible à l'amour.
+Pour se soustraire à l'esclavage,
+Une jeune beauté va souvent autre part,
+Et l'oiseau que l'on tient en cage
+S'envole tôt ou tard.
+
+Si le plaisir vous intéresse
+Cédez à des appas vainqueurs,
+Et vous livrant à la tendresse
+Goûtez ses flatteuses douceurs :
+Si l'amour est une faiblesse,
+C'est la faiblesse des grands cœurs.

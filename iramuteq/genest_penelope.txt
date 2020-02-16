@@ -2,6 +2,7 @@
 
 **** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *id_PENELOPE *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_penelope
 
+
 J'appelle en vain Ulysse : ô fatale journée !
 Pénélope, à quel choix te vois-tu condamnée !
 Non, mes persécuteurs, non, le sort en courroux.
@@ -469,8 +470,8 @@ De mes longues douleurs je suis récompensée !
 Mais ce bonheur, mon fils, qu'ils rendent à mes voeux.
 Ne serait pas parfait, si vous n'étiez heureux.
 
-
 **** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *id_ULYSSE *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulysse
+
 
 Déesse, dont le soin et me guide et m'inspire,
 Est-ce donc l'air d'Ithaque enfin que je respire ?
@@ -785,8 +786,8 @@ Ce n'en est pas le temps, il faut vous secourir.
       Ne me retenez pas.
 Attendez, espérez.
 
-
 **** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *id_TELEMAQUE *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_telemaque
+
 
 Je vous dois trop, seigneur. Mais ne saurais-je apprendre
 D'où naît un changement qui vient de me surprendre ?
@@ -1119,8 +1120,8 @@ Et que devient Iphise ?
       Pardonnez si mon empressement
 Cherche Iphise...
 
-
 **** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *id_EURIMAQUE *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eurimaque
+
 
 Divine reine, enfin je vois cette journée
 Que pour me rendre heureux le ciel a destinée.
@@ -1337,8 +1338,8 @@ En présence du peuple on le livre au supplice.
 Je cours pour seconder les soins d'Antinoüs.
 L'arrêt est prononcé ; je ne pardonne plus.
 
-
 **** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *id_IPHISE *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iphise
+
 
 Ce désordre m'alarme, et j'ai trouvé mon père
 Moins enflammé d'amour qu'il ne l'est de colère.
@@ -1455,8 +1456,8 @@ Fera tomber le fer de leurs mains criminelles.
 Paraissez. Hâtez-vous. Le prince va périr.
 Ah ! s'il est temps encor je vais le secourir..
 
-
 **** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *id_EUMEE *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eumee
+
 
 Ce zèle qui ressent vos funestes alarmes,
 Madame, vient mêler mes regrets à vos larmes ;
@@ -1664,8 +1665,8 @@ L'esquif qui le portait s'abîme sous les eaux.
 Ulysse vous attend pour aller voir Laërte,
 Madame.
 
-
 **** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *id_ANTINOUS *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antinous
+
 
 Madame...
 
@@ -1792,8 +1793,8 @@ Un sujet tel que moi n'a rien à redouter ;
 Et d'une autorité qui semble encor douteuse
 Cette épreuve, Seigneur, serait trop dangereuse.
 
-
 **** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *id_ERICLEE *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ericlee
+
 
 Contraignez- vous encore, essuyez ces beaux yeux.
 Montrez-vous, reprenez cet air victorieux,
@@ -1859,8 +1860,34 @@ Madame !
 
       Le ciel semble vous l'envoyer.
 
+**** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *id_EURINOME *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eurinome
+
+
+      Pourquoi fuyez-vous notre vue ?
+À paraître en public vous étiez résolue :
+Vous laissiez à nos soins adoucir vos regrets.
+Et relever l'éclat de vos divins attraits.
+Mais vous pleurez encore avec plus d'amertume :
+Faut-il que votre vie en plaintes se consume ?
+Dans ce jour solennel, où vous...
+
+      On dit qu'on reconnaît Ulysse ;
+Qu'on l'immole, qu'il meurt. Un combat furieux.
+Un spectacle inouï vient d'effrayer mes yeux :
+Je n'ai pu discerner qui périt, qui se venge ;
+De cris, de sang, de morts, c'est un affreux mélange.
+J'entendais : C'est Ulysse ! Et mille bruits confus
+Mêlaient avec son nom celui d'Antinoüs.
+Le roi, dit-on, cédant au nombre qui l'accable,
+Arrache aussi la vie à ce monstre exécrable.
+Télémaque entraîné par le sort inhumain.
+Pressé dans ce palais, court le fer à la main ;
+Pour venir jusqu'à vous, sa valeur étonnante
+S'ouvre par cent combats une route sanglante
+Sous ses pas... Il paraît
 
 **** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *id_ARGINE *date_1684 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_argine
+
 
 Sans cesse à ses regrets vous mêlez vos soupirs.
 Quel excès de pitié, quel soin vous importune,
@@ -1883,3 +1910,29 @@ Son oubli, son silence...
 
       On vous entendra, madame ; c'est le roi.
 
+**** *creator_genest *book_genest_penelope *style_verse *genre_tragedy *dist1_genest_verse_tragedy_penelope *dist2_genest_verse_tragedy *id_ARCAS *date_1684 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
+
+
+Un plein succès ainsi suivra votre entreprise.
+L'Ithaque dès longtemps à vos lois est soumise ;
+Si Télémaque échappe à la fureur des eaux.
+Il trouvera sa perte en trouvant nos vaisseaux :
+Rien ne l'en peut sauver. Mais le dernier orage
+D'armes et de débris a couvert ce rivage ;
+Il a péri sans doute.
+
+      Le prince est arrivé ;
+Et de tant de périls par miracle sauvé :
+Entrant dans ce palais, il trouve avec Eumée
+Une foule de peuple à son aspect charmée.
+
+      Il eût été surpris
+Dans l'embûche dressée aux rochers d'Astéris ;
+Mais, par un coup du sort, la dernière tempête
+De ce péril certain a garanti sa tête ;
+Et du port qu'il cherchait par les vents écarté.
+Sous le cap de Porcin les vagues l'ont jeté.
+Ces vents dont la fureur est cause qui ! respire,
+Seigneur, ont fait périr des vaisseaux de Corcyre :
+Poussés sur les rochers, navires, matelots.
+Ont été cette nuit abîmés dans les flots.

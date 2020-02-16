@@ -1,6 +1,7 @@
 
 
-**** *creator_sallebray *book_sallebray_amante_ennemie *style_verse *genre_tragi-comédie *dist1_sallebray_verse_tragi-comédie_amante_ennemie *dist2_sallebray_verse_tragi-comédie *id_tersandre *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_tersandre
+**** *creator_sallebray *book_sallebray_amante_ennemie *style_verse *genre_tragi-comédie *dist1_sallebray_verse_tragi-comédie_amante_ennemie *dist2_sallebray_verse_tragi-comédie *id_tersandre *date_1640 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_tersandre
+
 
 Et quel est ce moyen ?
 
@@ -480,8 +481,8 @@ Dont le succés heureux fait ma joye et ma gloire ;
 Allons de ce bon-heur loüer les Immortels,
 Et perdre nostre haine aux pieds de leurs Autels.
 
+**** *creator_sallebray *book_sallebray_amante_ennemie *style_verse *genre_tragi-comédie *dist1_sallebray_verse_tragi-comédie_amante_ennemie *dist2_sallebray_verse_tragi-comédie *id_meliarque *date_1640 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_meliarque
 
-**** *creator_sallebray *book_sallebray_amante_ennemie *style_verse *genre_tragi-comédie *dist1_sallebray_verse_tragi-comédie_amante_ennemie *dist2_sallebray_verse_tragi-comédie *id_meliarque *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_meliarque
 
 Enfin, c'est trop long temps me cacher ce mystere,
 Qui vous rend d'une humeur⁎ si triste et solitaire ;
@@ -622,8 +623,8 @@ Pour asservir mon ame au pouvoir de vos yeux ;
 De quoy puy-je payer cette aimable réponce,
 Connessant la valeur du bien qu'elle m'annonce ?
 
+**** *creator_sallebray *book_sallebray_amante_ennemie *style_verse *genre_tragi-comédie *dist1_sallebray_verse_tragi-comédie_amante_ennemie *dist2_sallebray_verse_tragi-comédie *id_claironde *date_1640 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_claironde
 
-**** *creator_sallebray *book_sallebray_amante_ennemie *style_verse *genre_tragi-comédie *dist1_sallebray_verse_tragi-comédie_amante_ennemie *dist2_sallebray_verse_tragi-comédie *id_claironde *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_claironde
 
 Lucine, c'est icy qu'une juste vangeance
 Doit terminer le cours de ma longue souffrance ;
@@ -1278,8 +1279,8 @@ Que vous donne le cours de deux mois de ma vie ;
 Vous sçaurez des sujets dont un jour à venir
 Les Theatres fameux pourront s'entretenir.
 
+**** *creator_sallebray *book_sallebray_amante_ennemie *style_verse *genre_tragi-comédie *dist1_sallebray_verse_tragi-comédie_amante_ennemie *dist2_sallebray_verse_tragi-comédie *id_lucine *date_1640 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lucine
 
-**** *creator_sallebray *book_sallebray_amante_ennemie *style_verse *genre_tragi-comédie *dist1_sallebray_verse_tragi-comédie_amante_ennemie *dist2_sallebray_verse_tragi-comédie *id_lucine *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lucine
 
 Madame, par ce coup, que l'Enfer mesme abhorre,
 (Je vous l'ay dit cent fois, et vous le dis encore)
@@ -1605,8 +1606,8 @@ Pourveu que nous soyons à leurs vœux exorables.
       Si c'est vostre desir,
 J'y consens.
 
+**** *creator_sallebray *book_sallebray_amante_ennemie *style_verse *genre_tragi-comédie *dist1_sallebray_verse_tragi-comédie_amante_ennemie *dist2_sallebray_verse_tragi-comédie *id_alcinor *date_1640 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_alcinor
 
-**** *creator_sallebray *book_sallebray_amante_ennemie *style_verse *genre_tragi-comédie *dist1_sallebray_verse_tragi-comédie_amante_ennemie *dist2_sallebray_verse_tragi-comédie *id_alcinor *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_alcinor
 
 Traistres, si mon sort veut qu'elle me soit ravie,
 Ce fer⁎ auparavant, que vous allez sentir,
@@ -1884,8 +1885,8 @@ Et vous dont la beauté m'avoit l'ame ravie,
 Pour la troisiesme fois vous me sauvez la vie :
 Mais pour tant de faveurs je n'ay que des desirs.
 
+**** *creator_sallebray *book_sallebray_amante_ennemie *style_verse *genre_tragi-comédie *dist1_sallebray_verse_tragi-comédie_amante_ennemie *dist2_sallebray_verse_tragi-comédie *id_flaviane *date_1640 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_flaviane
 
-**** *creator_sallebray *book_sallebray_amante_ennemie *style_verse *genre_tragi-comédie *dist1_sallebray_verse_tragi-comédie_amante_ennemie *dist2_sallebray_verse_tragi-comédie *id_flaviane *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_flaviane
 
 Clymene, que dis-tu de mon nouvel Amant⁎ ?
 Est-il sous le Soleil un objet plus charmant ?
@@ -2149,8 +2150,8 @@ Depuis vostre départ, vos belles avantures ?
 Car il est mal-aisé que sous ce vestement
 Vous n'en ayez pas fait presque à chaque moment.
 
+**** *creator_sallebray *book_sallebray_amante_ennemie *style_verse *genre_tragi-comédie *dist1_sallebray_verse_tragi-comédie_amante_ennemie *dist2_sallebray_verse_tragi-comédie *id_clymene *date_1640 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_clymene
 
-**** *creator_sallebray *book_sallebray_amante_ennemie *style_verse *genre_tragi-comédie *dist1_sallebray_verse_tragi-comédie_amante_ennemie *dist2_sallebray_verse_tragi-comédie *id_clymene *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_clymene
 
       Que vous serez heureuse :
 Tous deux riches d'appas⁎, et vos cœurs bien unis,
@@ -2279,8 +2280,8 @@ Seiche nos oeillets et nos roses :
 Une fille sur l'âge est comme un lys fané,
 Qui, vieilly sur sa tyge, est tousjours profané.
 
+**** *creator_sallebray *book_sallebray_amante_ennemie *style_verse *genre_tragi-comédie *dist1_sallebray_verse_tragi-comédie_amante_ennemie *dist2_sallebray_verse_tragi-comédie *id_diomede *date_1640 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_diomede
 
-**** *creator_sallebray *book_sallebray_amante_ennemie *style_verse *genre_tragi-comédie *dist1_sallebray_verse_tragi-comédie_amante_ennemie *dist2_sallebray_verse_tragi-comédie *id_diomede *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_diomede
 
 Apres avoir cherché sur la Terre et sur l'Onde⁎,
 Où verray-je finir ma course vagabonde ?
@@ -2376,3 +2377,9 @@ De haster le retour.
 
       Et comment ?
 
+**** *creator_sallebray *book_sallebray_amante_ennemie *style_verse *genre_tragi-comédie *dist1_sallebray_verse_tragi-comédie_amante_ennemie *dist2_sallebray_verse_tragi-comédie *id_troisvoleurs *date_1640 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_troisvoleurs
+
+
+Rens la bourse et l'argent, ou tu perdras la vie.
+
+      Rentrons, il luy vient du secours.

@@ -2,6 +2,7 @@
 
 **** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_LAVERTU *date_1682 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lavertu
 
+
 Ne vous abusez point par une vaine attente :
 On n'a pas aisément les prix que je présente ;
 Ils coûtent mille efforts ils font mille jaloux.
@@ -41,8 +42,56 @@ Les Dieux, qui méditaient leur plus parfait ouvrage,
 Autrefois dans Persée en tracèrent l'image :
 J'obtiendrai qu'Apollon le ranime aujourd'hui.
 
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_PHRONIME *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phronime
+
+
+La Vertu veut choisir ce lieu pour sa retraite :
+C'est un heureux séjour ; tout y plaît à mes yeux.
+
+Sans la Vertu, sans son secours,
+On n'a point de bien véritable.
+Elle est toujours aimable ;
+Il faut l'aimer toujours.
+
+On n'est point heureux sans vous.
+
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_MEGATHYME *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_megathyme
+
+
+La Vertu fait trouver dans les plus tristes lieux
+Une félicité secr7te
+
+Elle éternise la mémoire
+D'un héros qui la suit.
+La gloire où la Vertu conduit
+Est la parfaite gloire.
+
+Avec vous rien n'épouvante.
+
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_LAFORTUNE *date_1682 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lafortune
+
+
+Effaçons du passé la mémoire importune ;
+J'ai toujours contre vous vainement combattu :
+Un auguste héros ordonne à la Fortune
+D'être en paix avec la Vertu.
+
+Lui seul pour vous pouvait vaincre ma haine ;
+Il vous révère, et je le sers.
+Je l'aime constamment, moi qui suis si légère.
+Partout suivant ses voeux avec ardeur je cours.
+Vous paraissez toujours sévère,
+Et vous êtes toujours
+Ses plus chères amours.
+
+Vous régnez sur un coeur qui vaut seul tous les autres.
+Ah ! S'il m'eût voulu suivre, il eût tout surmonté.
+Tout tremblait, tout cédait à l'ardeur qui l'anime.
+C'est vous, Vertu trop magnanime ;
+C'est vous qui l'avez arrêté.
 
 **** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_PERSEE *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_persee
+
 
 Belle princesse, enfin vous souffrez ma présence.
 
@@ -110,8 +159,8 @@ Le ciel nous promet d'heureux jours ;
 Vénus vient à notre secours ;
 Elle amène l'Amour et l'Hymen avec elle.
 
-
 **** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_CEPHEE *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cephee
+
 
 Je crains que Junon ne refuse
 D'apaiser sa haine pour nous ;
@@ -190,8 +239,8 @@ Persée en vain toujours combat avec chaleur.
 Que servent les efforts qu'il tente ?
 Le nombre tôt ou tard accable la valeur.
 
-
 **** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_CASSIOPE *date_1682 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cassiope
+
 
 Heureuse épouse, heureuse mère,
 Trop vaine d'un sort glorieux,
@@ -277,8 +326,8 @@ Que les dieux sont cruels ! qu'ils sont ingénieux
 
       Ma fille !
 
-
 **** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_MEROPE *date_1682 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_merope
+
 
 Puissions nous désarmer le ciel qui nous menace.
 
@@ -427,8 +476,8 @@ Volez ne trouverez plus d'autres chemins ouverts.
 Sauvez-vous ; profitez de mes avis fidèles :
 C'est à fuir seulement que vous devez songer.
 
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_ANDROMEDE *date_1682 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_andromede
 
-**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_ANDROMEDE *date_1682 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_andromede
 
 Cessez de craindre.
 
@@ -576,8 +625,8 @@ Redoutez le courroux de Dieux
 
 A s'exposer pour moi c'est en vain qu'il s'obstine.
 
-
 **** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_PHINEE *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phinee
+
 
 Cessez de feindre.
 
@@ -727,8 +776,23 @@ Ce superbe appareil, ces riches ornements,
 Tout ici de ma rage accroît la violence :
 Allons hâter l'éclat de nos ressentiments.
 
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_CORITE *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_corite
+
+
+Méduse revient dans ces lieux !
+
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_PROTENOR *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_protenor
+
+
+Garde-nous de la voir, la Mort est dans ses yeux.
+Tous ensembles, en fuyant.
+Fuyons ce monstre terrible ;
+Sauvons-nous s'il est possible :
+Sauvons-nous, hâtons nos pas ;
+Fuyons un affreux trépas.
 
 **** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_MERCURE *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+
 
 Persée, où courez-vous ? qu'allez-vous entreprendre ?
 
@@ -793,8 +857,8 @@ Gorgones, désormais vous serez sans pouvoir :
 Ce lieu n'est pas pour vous un séjour assez noir,
 Venez dans la nuit éternelle.
 
-
 **** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_MEDUSE *date_1682 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_meduse
+
 
 J'ai perdu la beauté qui me rendit si vaine :
 Je n'ai plus ces cheveux si beaux
@@ -844,3 +908,35 @@ De songer que l'on fut aimable !
 Avec une vive douleur
 Le repos est incompatible.
 
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_IDAS *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_idas
+
+
+L'implacable Junon cause notre infortune ;
+Elle arme contre nous l'empire de Neptune ;
+Un monstre en doit sortir, qui viendra dévorer
+L'innocente Andromède ;
+Et Thétis et ses soeurs viennent de déclarer
+Qu'il n'est plus permis d'espérer
+De voir finir nos maux sans ce cruel remède.
+Les Tritons ont saisi la princesse à nos yeux ;
+Et le pouvoir des dieux
+Nous a rendus tous immobiles.
+C'est sur ces bords qu'au monstre on la doit exposer.
+Pour son secours Persée en vain veut tout oser ;
+Ses efforts seront inutiles :
+Il faut céder aux dieux ; il faut céder au sort
+Dont Andromède est poursuivie.
+Croyait-on voir fini une si belle vie
+Par une si terrible mort ?
+
+**** *creator_quinault *book_quinault_persee *style_verse *genre_show *dist1_quinault_verse_show_persee *dist2_quinault_verse_show *id_VENUS *date_1682 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
+
+
+Mortels, vivez en paix ; vos malheurs sont finis.
+Jupiter vous protège en faveur de son fils ;
+À ce dieu si puissant tous les dieux veulent plaire,
+Et Junon même enfin apaise sa colère.
+Cassiope, Céphée, et vous, heureux époux,
+Prenez place au ciel avec nous.
+Les souverains destins ordonnent
+Que des feux éclatants toujours vous environnent.

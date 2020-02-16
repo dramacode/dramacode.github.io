@@ -2,6 +2,7 @@
 
 **** *creator_blanc *book_blanc_druides *style_verse *genre_tragedy *dist1_blanc_verse_tragedy_druides *dist2_blanc_verse_tragedy *id_CYNDONAX *date_1772 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cyndonax
 
+
 Qu'on ouvre ces parvis. Arbitre des mortels,
 Permets à tous les tiens l'accès de tes autels ;
 Des enfants vertueux, dont la gloire t'est chère,
@@ -473,8 +474,8 @@ Si Dieu parle à nos coeurs, c'est là qu'il faut l'entendre.
 Que la Religion, sous votre auguste loi,
 Soit le lien du monde et n'en soit plus l'effroi.
 
-
 **** *creator_blanc *book_blanc_druides *style_verse *genre_tragedy *dist1_blanc_verse_tragedy_druides *dist2_blanc_verse_tragedy *id_EMNON *date_1772 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_emnon
+
 
 Oui, tout autre, sans doute, en entrant dans ces lieux,
 Eut rencontré la mort sous le glaive des Dieux ;
@@ -860,8 +861,8 @@ Qu'attendez-vous encore, guerrier audacieux ?
 À ma religion je ne veux pas survivre.
 Tombent, sur vous, d'Hésus tous les foudres vengeurs !
 
-
 **** *creator_blanc *book_blanc_druides *style_verse *genre_tragedy *dist1_blanc_verse_tragedy_druides *dist2_blanc_verse_tragedy *id_INDUMAR *date_1772 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_indumar
+
 
       Ah ! Ma fille !
       Ah ! Seigneur !
@@ -1072,8 +1073,8 @@ Et vous peuple, à mon coeur, plus cher que a famille,
 Tombez aux pieds d'un sage, instruit par la vertu,
 Qui vous rend à ce Dieu trop longtemps combattu.
 
+**** *creator_blanc *book_blanc_druides *style_verse *genre_tragedy *dist1_blanc_verse_tragedy_druides *dist2_blanc_verse_tragedy *id_EMIRENE *date_1772 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_emirene
 
-**** *creator_blanc *book_blanc_druides *style_verse *genre_tragedy *dist1_blanc_verse_tragedy_druides *dist2_blanc_verse_tragedy *id_EMIRENE *date_1772 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_emirene
 
 Hélas !
 
@@ -1690,8 +1691,8 @@ Apporter le bonheur et la paix à la terre.
 
       Ah ! Seigneur !
 
+**** *creator_blanc *book_blanc_druides *style_verse *genre_tragedy *dist1_blanc_verse_tragedy_druides *dist2_blanc_verse_tragedy *id_CLODOMIR *date_1772 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_clodomir
 
-**** *creator_blanc *book_blanc_druides *style_verse *genre_tragedy *dist1_blanc_verse_tragedy_druides *dist2_blanc_verse_tragedy *id_CLODOMIR *date_1772 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_clodomir
 
 Où s'égarent mes pas dans l'horreur des ténèbres ?
 Je marche en frémissant sous ces ombres funèbres.
@@ -1996,8 +1997,8 @@ Allume quelquefois pour le bonheur du monde.
 
 Ô mon père !
 
-
 **** *creator_blanc *book_blanc_druides *style_verse *genre_tragedy *dist1_blanc_verse_tragedy_druides *dist2_blanc_verse_tragedy *id_AXENOE *date_1772 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_axenoe
+
 
 Ô pur sang de nos Rois, ô fille auguste et chère,
 Vous qu'Hésus voit ici d'un regard tutélaire,
@@ -2125,8 +2126,8 @@ Condamné par le sort... est...
 
 Qu'osez-vous dir ? Hélas !
 
-
 **** *creator_blanc *book_blanc_druides *style_verse *genre_tragedy *dist1_blanc_verse_tragedy_druides *dist2_blanc_verse_tragedy *id_LUTHAR *date_1772 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_luthar
+
 
 SEIGNEUR, on voit au loin, sur le fleuve tranquille,
 Des vaisseaux élancés s'ouvrir un cours facile.
@@ -2172,4 +2173,3 @@ Seigneur, le même trouble éclatait dans ses yeux ;
 Au même désespoir son âme était livrée,
 Et j'ai cru voir, de loin, la Princesse éplorée,
 Frémissant du revers qui l'avait confondu.
-

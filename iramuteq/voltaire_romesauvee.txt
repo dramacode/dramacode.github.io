@@ -2,6 +2,7 @@
 
 **** *creator_voltaire *book_voltaire_romesauvee *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_romesauvee *dist2_voltaire_verse_tragedy *id_CICERON *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ciceron
 
+
 Suivez mon ordre, allez ; de ce perfide coeur
 Je prétends, sans témoin, sonder la profondeur.
 La crainte quelquefois peut ramener un traître.
@@ -429,8 +430,8 @@ Grands dieux ! Que ce héros soit toujours citoyen.
 Dieux ! Ne corrompez pas cette âme généreuse ;
 Et que tant de vertu ne soit pas dangereuse.
 
-
 **** *creator_voltaire *book_voltaire_romesauvee *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_romesauvee *dist2_voltaire_verse_tragedy *id_CESAR *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cesar
+
 
 Oui, si dans le sénat on te fait injustice,
 César te défendra, compte sur mon service.
@@ -570,8 +571,8 @@ Romain je le condamne, et soldat je l'admire.
 J'aimai Catilina ; mais vous voyez mon coeur ;
 Jugez si l'amitié l'emporte sur l'honneur.
 
-
 **** *creator_voltaire *book_voltaire_romesauvee *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_romesauvee *dist2_voltaire_verse_tragedy *id_CATILINA *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_catilina
+
 
 Orateur insolent, qu'un vil peuple seconde,
 Assis au premier rang des souverains du monde,
@@ -1221,8 +1222,8 @@ C'en est fait ; le signal vous appelle aux combats.
 Vous, Sénat incertain, qui venez de m'entendre,
 Choisissez à loisir le parti qu'il faut prendre.
 
-
 **** *creator_voltaire *book_voltaire_romesauvee *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_romesauvee *dist2_voltaire_verse_tragedy *id_AURELIE *date_1750 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aurelie
+
 
 Ah ! Calmez les horreurs dont je suis poursuivie,
 Cher époux, essuyez les larmes d'Aurélie.
@@ -1441,8 +1442,8 @@ Je devais... un billet remis entre vos mains...
 Consul... de tous côtés je vois vos assassins...
 Je me meurs...
 
-
 **** *creator_voltaire *book_voltaire_romesauvee *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_romesauvee *dist2_voltaire_verse_tragedy *id_CATON *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caton
+
 
 Vos ordres sont suivis. Ma prompte vigilance
 A disposé déjà ces braves chevaliers
@@ -1571,8 +1572,18 @@ Que je vole au rempart, que du moins mon aspect
 Contienne encor César, qui m'est toujours suspect.
 Et si dans ce grand jour la fortune contraire...
 
+**** *creator_voltaire *book_voltaire_romesauvee *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_romesauvee *dist2_voltaire_verse_tragedy *id_LUCULLUS *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucullus
+
+
+Ô ciel !
+
+**** *creator_voltaire *book_voltaire_romesauvee *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_romesauvee *dist2_voltaire_verse_tragedy *id_CRASSUS *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crassus
+
+
+Que fait César ?
 
 **** *creator_voltaire *book_voltaire_romesauvee *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_romesauvee *dist2_voltaire_verse_tragedy *id_CLODIUS *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clodius
+
 
 Rome est en sûreté ; César est citoyen.
 Qui peut avoir ici d'autre avis que le sien ?
@@ -1613,8 +1624,8 @@ Vos égaux après tout, que vous deviez entendre,
 Par vous seul condamnés, n'ayant pu se défendre,
 Semblent autoriser...
 
-
 **** *creator_voltaire *book_voltaire_romesauvee *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_romesauvee *dist2_voltaire_verse_tragedy *id_CETHEGUS *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cethegus
+
 
 Ils viendront dans ces lieux du consul ignorés,
 Sous ce portique même, et près du temple impie
@@ -1722,8 +1733,8 @@ Mais si tu servis Rome, attends ta récompense.
 
       En as-tu la puissance ?
 
-
 **** *creator_voltaire *book_voltaire_romesauvee *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_romesauvee *dist2_voltaire_verse_tragedy *id_SURA *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sura
+
 
 Ainsi, malgré mes soins et malgré ma prière,
 Vous prenez dans César une assurance entière ;
@@ -1810,8 +1821,13 @@ Quand de tels intérêts...
 
 Oses-tu prononcer quand le sénat balance ?
 
+**** *creator_voltaire *book_voltaire_romesauvee *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_romesauvee *dist2_voltaire_verse_tragedy *id_CONJURES *date_1750 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_conjures
 
-**** *creator_voltaire *book_voltaire_romesauvee *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_romesauvee *dist2_voltaire_verse_tragedy *id_MARTIAN *date_1750 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_martian
+
+Périsse le sénat !
+
+**** *creator_voltaire *book_voltaire_romesauvee *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_romesauvee *dist2_voltaire_verse_tragedy *id_MARTIAN *date_1750 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_martian
+
 
 Seigneur, Cicéron vient près de ce lieu fatal ;
 Par son ordre bientôt le sénat se rassemble :
@@ -1830,8 +1846,13 @@ Les conjurés en foule au carnage s'excitent,
 Et des moindres délais leurs courages s'irritent.
 Prescrivez le moment où Rome doit périr.
 
+**** *creator_voltaire *book_voltaire_romesauvee *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_romesauvee *dist2_voltaire_verse_tragedy *id_STATILIUS *date_1750 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_statilius
 
-**** *creator_voltaire *book_voltaire_romesauvee *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_romesauvee *dist2_voltaire_verse_tragedy *id_LICTEURS *date_1750 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_licteurs
+
+Les gardes sont séduits ; on peut tout entreprendre.
+
+**** *creator_voltaire *book_voltaire_romesauvee *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_romesauvee *dist2_voltaire_verse_tragedy *id_LICTEURS *date_1750 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_licteurs
+
 
 Seigneur, on a saisi ce dépôt formidable.
 
@@ -1860,4 +1881,3 @@ Les plaintes des ingrats et les clameurs des traîtres
 Réclament contre vous les droits de nos ancêtres,
 Redemandent le sang répandu par vos mains :
 On parle de punir le vengeur des Romains.
-

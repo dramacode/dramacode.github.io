@@ -1,6 +1,81 @@
 
 
-**** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_choeur *date_1693 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_choeur
+**** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_victoire *date_1693 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_victoire
+
+
+Le Ciel dans vos vœux s'interesse,
+Depuis long-tems, la France est mon sejour.
+Attachée au Heros, qui pour elle sans cesse
+Fait agir sa haute sagesse,
+Je sens pour luy de jour en jour,
+En redoublant mes soins⁎, redoubler mon amour.
+Ne craignez pas que la Victoire,
+Favorise jamais les jaloux de sa gloire⁎.
+Ils ne cherchent à triompher
+Qu'afin de prolonger la guerre.
+LOUIS combat pour l'étouffer,
+Et rendre le calme à la terre.
+
+Le bruit des tambours, des trompettes,
+Ne viendra plus troubler vos jeux,
+Bergers, reprenez vos musettes,
+Chantez l'amour, chantez ses feux⁎,
+La guerre & ses dangers affreux,
+N'approchent point de vos douces retraittes :
+Le plus grand des Heros, vous y fait vivre heureux.
+Il vaincra tant de fois, sur la terre & sur l'onde,
+Que ses Ennemis terrassez,
+Malgré tous leurs projets, seront enfin forcez
+De souffrir⁎ le repos⁎ qu'il veut donner au monde.
+
+**** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_bellone *date_1693 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_bellone
+
+
+Vous resistez en vain, tremblez, fiers Ennemis,
+Au grand Roy que je sers, je vous rendray soûmis.
+Chez vous plus que jamais, par l'effroy de ses armes,
+Je porteray les plus rudes allarmes :
+Et mille triomphes divers,  
+Feront de son grand Nom retentir l'Univers.
+
+**** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_gloire *date_1693 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_gloire
+
+
+Pour seconder vos soins⁎, laissez faire la Gloire,
+Ce Heros me cherit, & je l'aimay toujours.
+On verra durer nos amours,
+Quand même il n'aura plus besoin de la Victoire.
+Non, non, ses ennemis jaloux,
+Ne pourront jamais rien, contre des nœuds⁎ si doux.
+
+**** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_chef-habitans *date_1693 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_chefhabitans
+
+
+LOUIS est triomphant, tout céde à sa puissance,           
+La Victoire en tous lieux, fait reverer ses Loix.
+Pour la voir avec nous toujours d'intelligence,
+Rendons-luy des honneurs dignes de sa presence.
+Rendons-luy des honneurs dignes des grands exploits        
+Qui consacrent le Nom du plus puissant des Roys.
+
+**** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_bergers1 *date_1693 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_bergers1
+
+
+Dans le bel âge,
+Si l'on n'est volage,
+Les tendres cœurs
+Goûtent peu de douceurs.
+L'ardeur⁎ d'une flâme constante
+Est bien-tost languissante,
+Veut-on d'agreables amours ?
+Il faut changer toujours.
+Dans le bel âge,
+Si l'on n'est volage,
+Les tendres cœurs
+Goûtent peu de douceurs.
+
+**** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_choeur *date_1693 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_choeur
+
  
 LOUIS est triomphant, tout céde à sa puissance,
 La Victoire en tous lieux, fait reverer ses Loix.
@@ -50,8 +125,8 @@ N'ont des plaisirs qu'en apparence.
 En voulez-vous de charmans ?
 Cherchez-les dans la vengeance.
 
-
 **** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_creon *date_1693 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_creon
+
 
 L'allegresse en ces lieux, ne peut estre plus grande…
 Mon peuple voit Oronte, & son secours promis
@@ -185,8 +260,8 @@ Je vais apprendre à Radamante⁎
 Jusqu'où va la noirceur de ses enchantemens.
 Fin du quatriéme Acte.
 
-
 **** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_creuse *date_1693 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_creuse
+
 
 Seigneur, souvenez-vous que c'est par vostre aveu⁎
 Que Jason dans mon ame alluma ce beau feu⁎.
@@ -327,8 +402,8 @@ Mais adieu ; de la mort les horreurs me saisissent,
 Je perds la voix, mes forces s'affoiblissent,
 C'en est fait, j'expire, je meurs.
 
-
 **** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_medee *date_1693 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_medee
+
 
 Pour flater mes ennuis⁎, que ne puis-je te croire !
 Tout le voudroit, mon repos⁎ & ma gloire⁎ ;
@@ -725,8 +800,8 @@ Voyant Corinthe en feu, ses Palais embrasez,
 Pleure à jamais les maux que ta flame a causez.
 Fin du cinquième et dernier Acte.
 
-
 **** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_jason *date_1693 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_jason
+
 
 Creon redoute Acaste, & ne s'explique pas ;
 Mais contre nous quoy qu'on puisse entreprendre,
@@ -924,8 +999,8 @@ Pour te punir j'iray jusqu'aux Enfers.
 
 Ah, le Ciel qui toûjours protegea l'innocence…
 
-
 **** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_oronte *date_1693 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_oronte
+
 
 Seigneur, la Thessalie attaquant vos Estats,
 Pour vous de mon secours je craindrois la foiblesse⁎,
@@ -1023,8 +1098,19 @@ Mais à ne rien menager,
 Le plaisir de vous vanger
 Me rendra-t-il la Princesse ?
 
+**** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_arcas *date_1693 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_arcas
+
+
+Si vous l'abandonnez, songez-vous à la rage
+Où la mettra son desespoir ?
+
+Dans ce que peut Medée, oseray-je vous dire
+Que vous ne sçauriez trop redouter son couroux⁎ ?
+Si sur vostre ame encor la gloire⁎ a quelque empire,
+Voyez ce qu'elle veut de vous.
 
 **** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_nerine *date_1693 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_nerine
+
 
 Un mouvement⁎ jaloux vous le peint infidelle,
 Mais d'injustes soupçons troublent vostre repos ;
@@ -1077,8 +1163,8 @@ Jason ignore encor ce triste évenement.
 Occupé par les soins⁎ que la guerre demande,
 Il range avec nos chefs les troupes qu'il commande.
 
-
 **** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_cleone *date_1693 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cleone
+
 
 Jamais on ne la vit si belle,
 Cette Robe superbe augmente ses appas⁎  ;
@@ -1108,8 +1194,8 @@ Du mesme fer il s'est percé luy-même.
 Ah, s'est-il écrié, le ciel a donc permis,
 J'ay vaincu tous mes ennemis.     
 
+**** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_corinthiens *date_1693 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_corinthiens
 
-**** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_corinthiens *date_1693 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_corinthiens
 
 Disparoissez, inquietes alarmes⁎ ;
 Vaines terreurs, fuyez, éloignez-vous.
@@ -1141,8 +1227,44 @@ Nos malheurs sont leur injuste ouvrage ?
 Refusons nostre encens, nostre hommage
 A ces Dieux inhumains.
 
+**** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_corinthien *date_1693 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_corinthien
 
-**** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_captifs *date_1693 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_captifs
+
+Courez aux champs de Mars, volez, jeune Heros.
+Ouvrez-nous le chemin qui conduit à la gloire⁎.
+Nos cœurs ont trop languy dans le sein du repos⁎ :
+Pour nous mener à la victoire,
+Courez aux champs de Mars, volez, jeune Heros.
+
+**** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_argien *date_1693 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_argien
+
+
+Regnez ; l'Amour à vos loix
+Vient soumettre son empire,
+Chacun à vous plaire aspire ;
+Voulez-vous faire un beau choix ?
+Vous n'avez qu'à dire.
+Tous mes traits sont doux,
+C'est par eux qu'on ayme,
+Mon Arc est à vous,
+Lancez les vous-même.
+Vous me resistez,
+J'ay lieu de m'en plaindre.
+Montez dans mon char, montez,
+Un Enfant n'est pas à craindre.
+
+Tendres Captifs, faites luy vostre cour,
+Et que chacun de vous s'applique tour à tour
+A l'hommage qu'il faut luy rendre.
+Tendres captifs, faites luy vostre cour.
+
+Vous voyez à quoy j'aspire.
+Pour faire un heureux vainqueur,
+Je compte sur vostre cœur.
+Oserez-vous m'en dedire ?
+
+**** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_captifs *date_1693 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_captifs
+
 
 Qu'elle est charmante, qu'elle est belle !
 Ah, qu'il est doux de soupirer pour elle !
@@ -1188,8 +1310,48 @@ La gloire⁎ est l'objet de ses vœux.
 Ton triomphe est certain, victoire, Amour, victoire.
 Fin du second Acte.
 
+**** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_captif *date_1693 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_captif
 
-**** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_trois-captifs *date_1693 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_troiscaptifs
+
+Venir l'adorer en ces lieux,
+Est un destin bien glorieux ;
+Mais si la douceur de ses yeux
+Doit tromper une ardeur⁎ si belle,
+Ah, quel malheur pour un amant fidelle !
+
+Une rigoureuse fierté
+Sieroit mal à tant de beauté,
+L'amour par tout si rédouté
+L'empeschera d'estre crüelle ;
+Ah, quel bonheur pour un amant fidelle !
+
+**** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_captive *date_1693 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_captive
+
+
+Chi teme d'amore
+Ilgrato martire,
+O non vuol gioire,
+O cuore non hà.
+Son gusti idolori,
+Le spine son fiori
+Ch'Amore ne dà ;
+Ma solo penando
+Ardendo, e sperando,
+Un'alma legata
+Fra ceppi beata,
+Per prova lo sà.
+Chi teme d'amore
+Ilgrato martire,
+O non vuol gioire,
+O cuore non hà.
+
+Chi teme d'amore
+Ilgrato martire,
+O non vuol gioire,
+O cuore non hà.
+
+**** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_trois-captifs *date_1693 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_troiscaptifs
+
 
 D'un amant qui veut plaire
 L'hommage est sincere,
@@ -1209,8 +1371,8 @@ L'hommage est sincere,
 D'un amant qui veut plaire
 L'hommage est constant.
 
+**** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_demons *date_1693 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_demons
 
-**** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_demons *date_1693 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_demons
  
 L'Enfer obéït à ta voix,
 Commande, il va suivre tes loix.
@@ -1227,3 +1389,47 @@ Faites-nous voir les seurs effets.
 Tout répond à nostre envie⁎,
 Les Monstres perdent la vie.
 
+**** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_phantomes *date_1693 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_phantomes
+
+
+Aprés de mortelles alarmes,
+Qu'un heureux calme semble doux !
+
+Cœurs agitez d'un vain couroux⁎,
+Cedez, rendez-vous à nos charmes.
+Où prendrez-vous des armes
+Qui tiennent contre nous ?
+
+Tout ressent le pouvoir
+Du plaisir de nous voir.
+Une ame de glace
+S'en laisse émouvoir,
+Et quoy que l'on fasse,
+Le chagrin le plus noir
+Luy doit ceder la place.
+Tout ressent le pouvoir
+Du plaisir de nous voir.
+
+**** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_phantome *date_1693 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_phantome
+
+
+Aprés de mortelles alarmes,
+Qu'un heureux calme semble doux !
+
+Cœurs agitez d'un vain couroux⁎,
+Cedez, rendez-vous à nos charmes.
+Où prendrez-vous des armes
+Qui tiennent contre nous ?
+
+**** *creator_corneillet *book_corneillet_medee *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_medee *dist2_corneillet_verse_tragedy *id_deux-phantomes *date_1693 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_deuxphantomes
+
+
+Tout ressent le pouvoir
+Du plaisir de nous voir.
+Une ame de glace
+S'en laisse émouvoir,
+En quoy que l'on fasse,
+Le chagrin le plus noir
+Luy doit ceder la place.
+Tout ressent le pouvoir
+Du plaisir de nous voir.     

@@ -2,6 +2,7 @@
 
 **** *creator_rotrou *book_rotrou_agesilan *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_agesilan *dist2_rotrou_verse_tragedy *id_FLORISEL *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_florisel
 
+
 Non non, en un duel dont ma tête est le prix,
 Il serait trop honteux à ma main d'être lasse ;
 Je ne compose point, et ne fait point de grâce.
@@ -293,8 +294,8 @@ Il n'est pas déplaisant en sa mélancolie,
 Mais déjà de ces lieux l'ombre chasse le jour,
 Allons sacrifier au pouvoir de l'amour.
 
-
 **** *creator_rotrou *book_rotrou_agesilan *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_agesilan *dist2_rotrou_verse_tragedy *id_BRUNEO *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bruneo
+
 
 Puisque de ce combat l'issue est incertaine,
 Et l'avantage égal ; prenons un peu d'haleine ;
@@ -474,8 +475,8 @@ S'acquittent d'une dette avecque moi commune,
 Ils viennent à vos pieds, vaincus de Florisel,
 S'exposer aux rigueurs d'un servage éternel.
 
-
 **** *creator_rotrou *book_rotrou_agesilan *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_agesilan *dist2_rotrou_verse_tragedy *id_AGESILAN *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agesilan
+
 
 Enfin (cher Darinel) il reste de te dire
 Que de tous les sujets de l'amoureux Empire,
@@ -579,8 +580,8 @@ Sous de faux vêtements l'appareil de ma plaie,
 D'une si douce ardeur, mon cour est embrasé,
 Que tout dessein me tarde, et que tout m'est aisé.
 
-
 **** *creator_rotrou *book_rotrou_agesilan *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_agesilan *dist2_rotrou_verse_tragedy *id_DARINEL *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_darinel
+
 
 Votre seule beauté charme tout l'Univers,
 Et le Ciel sur vous seul tient tous ses yeux ouverts :
@@ -761,8 +762,8 @@ Exercer leur valeur, et contenter sa haine.
 
 Laissez-moi seulement conduire cette feinte.
 
-
 **** *creator_rotrou *book_rotrou_agesilan *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_agesilan *dist2_rotrou_verse_tragedy *id_ARLANDES *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlandes
+
 
 Mais vous obtîntes d'elle un traitement si doux,
 Par la foi seulement qu'elle tenait de vous.
@@ -798,8 +799,8 @@ Si le sort est pour toi, moins qu'un honteux trépas.
 
 Dieux l'agréable fou :
 
-
 **** *creator_rotrou *book_rotrou_agesilan *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_agesilan *dist2_rotrou_verse_tragedy *id_ROSARAN *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rosaran
+
 
 Tyran des volontés, Dieu de fers, et de flammes
 Enfant malicieux, petit bourreau des âmes ;
@@ -911,8 +912,8 @@ Et partout me remplit de frayeur et de honte,
 Honneur, Diane, amour, je brise vos liens,
 Et ne reconnais plus de charmes que les miens.
 
-
 **** *creator_rotrou *book_rotrou_agesilan *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_agesilan *dist2_rotrou_verse_tragedy *id_DARAIDE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_daraide
+
 
 Je souhaite, je crains, je meurs, je ressuscite,
 À l'abord du pays, où ce bel astre habite ;
@@ -1350,8 +1351,8 @@ Daraide n'est plus.
 
       Ô qu'il est insensé !
 
-
 **** *creator_rotrou *book_rotrou_agesilan *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_agesilan *dist2_rotrou_verse_tragedy *id_DIANE *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_diane
+
 
 Quelle agréable voix a frappé mon oreille ?
 
@@ -1658,8 +1659,8 @@ Quelle joie est pareille à mon ravissement ?
 
       L'agréable folie.
 
-
 **** *creator_rotrou *book_rotrou_agesilan *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_agesilan *dist2_rotrou_verse_tragedy *id_ARDENIE *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ardenie
+
 
 Certes vous ne pouvez faire un plus juste choix,
 Et son esprit est rare encor plus que sa voix.
@@ -1938,8 +1939,8 @@ Quel bonheur est pareil à celui de ces lieux ?
 
       Ô plaisante aventure !
 
-
 **** *creator_rotrou *book_rotrou_agesilan *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_agesilan *dist2_rotrou_verse_tragedy *id_SYDONIE *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sydonie
+
 
       Quelle est cette étrangère ?
 
@@ -2309,8 +2310,19 @@ Et Diane eut été le prix de la victoire.
 
 Ô le doux passe-temps.
 
+**** *creator_rotrou *book_rotrou_agesilan *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_agesilan *dist2_rotrou_verse_tragedy *id_PAGE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_page
+
+
+Madame, un étranger vient d'entrer en ces lieux,
+Qui parle d'un Combat dont il veut rendre compte,
+À votre Majesté.
+
+Je crois qu'il l'a nommé.
+
+Je n'ai rien entendu.
 
 **** *creator_rotrou *book_rotrou_agesilan *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_agesilan *dist2_rotrou_verse_tragedy *id_ANAXARTE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anaxarte
+
 
 Des pays reculés où se lève le jour,
 Après de longs travaux, j'arrive en cette Cour,
@@ -2391,3 +2403,20 @@ Qui ravit la raison à l'esprit d'un amant,
 À ma honte, partout, vantez cette victoire,
 Et faites publier votre commune gloire.
 
+**** *creator_rotrou *book_rotrou_agesilan *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_agesilan *dist2_rotrou_verse_tragedy *id_CAVALIERS *date_1635 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_cavaliers
+
+
+Par arrêt du vainqueur, j'apporte ici l'épée,
+Qui fut contre son bras vainement occupée,
+La loi de mon malheur m'a mis en son pouvoir,
+Et m'oblige, Madame, à ce honteux devoir.
+
+Vaincu par sa valeur, qui toute autre surpasse,
+Je viens pour même fin.
+
+      Et telle est ma disgrâce,
+Ce glorieux auteur de ma captivité
+M'envoie humble captif à votre Majesté ;
+Mais ou mon oil s'abuse ou ce généreux Prince,
+A devancé nos pas dedans cette province ;
+C'est lui que nous voyons.

@@ -2,6 +2,7 @@
 
 **** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *id_AMELIE *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amelie
 
+
 Et bien veux-tu savoir l'état de ma fortune ?
 J'accorde ce discours à ta plainte importune,
 Et je vais t'avouer sur le bord de ces eaux
@@ -517,8 +518,8 @@ Rien ne peut égaler, ce que vous méritez.
 
 Adieu terreur du monde.
 
-
 **** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *id_DIONYS *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dionys
+
 
 Mais, si je l'importune ?
 
@@ -1102,8 +1103,8 @@ Valence offre à nos voeux des passe-temps plus doux,
 Allons y célébrer ces heureux hyménées,
 Qui de biens infinis vont combler nos années.
 
-
 **** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *id_ERANTE *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_erante
+
 
       Courrez vite à mon père.
 
@@ -1343,8 +1344,8 @@ Le voici qui revient.
 
 Adieu divin charmeur des âmes et des yeux.
 
-
 **** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *id_LISIDAN *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisidan
+
 
 Que tu peux espérer, et sans présomption.
 
@@ -1574,8 +1575,8 @@ Ce dessein est plaisant.
 
       Adieu race des Dieux !
 
-
 **** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *id_ERASTE *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+
 
 Je vous nuis en ce lieu ?
 
@@ -1719,8 +1720,8 @@ Et pour moins que son ombre, il met les armes bas.
 
 Adieu le plus vaillant de la terre et de l'onde.
 
-
 **** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *id_CLORIS *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cloris
+
 
 Vous dois-je révéler mon amoureux souci ?
 M'est-il permis de soupirer ici ?
@@ -1924,8 +1925,46 @@ L'affaire est d'importance, et différée, empire.
 
 Adieu le plus grand fou qui soit en tout le monde.
 
+**** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *id_LEPERE *date_1633 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_lepere
+
+
+Le temps peut tout changer, son enfance indiscrète,
+Ne sait ce qu'elle craint, ni ce qu'elle souhaite,
+La force en obtiendra le bonheur, que je veux,
+Ou mon autorité gouvernera ses voeux ;
+Adieu, ne craignez rien, et dessus ma promesse,
+Espérez du remède à l'ardeur, qui vous presse.
+
+Ô sort injurieux ! Des ennuis si cuisants,
+M'étaient donc réservés pour la fin de mes ans.
+Il n'était rien d'égal au repos de ma vie,
+Mes biens étaient plus grands que n'étaient mon envie,
+Les plus chéris du sort parlaient de mes plaisirs,
+Et je ne trouvais plus d'objets à mes désirs ;
+Faut-il qu'en ce bonheur une file indiscrète
+S'oppose aveuglément au bien que je souhaite,
+Cet esprit libertin, tout respect étouffant,
+Rit des avis d'un père, et suit ceux d'un enfant.
+N'as-tu rien découvert d'une telle entreprise,
+Toi qui tenais sa vie en ta garde commise,
+Qui ressens en effet, ou feins tant de douleur
+N'as-tu pu divertir sa perte, et mon malheur ?
+Connaissant son esprit, ta longue expérience,
+Te devait conseiller un peu de défiance,
+Tu voyais les ardeurs qu'elle a pour Dionys,
+Et tu pouvais prévoir mes tourments infinis.
+
+Qu'un simple citoyen, sans honneur, sans fortune,
+D'un sort si différent, d'une race commune,
+Pour qui je n'eus jamais aucune intention,
+Fasse un jour vanité, de sa possession,
+Ait chez moi malgré moi, cette place occupée,
+Ma fortune, plutôt se verra dissipée,
+Je perdrai pour les perdre, et fond et revenu,
+Et comme on le dépeint, leur amour sera nu.
 
 **** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *id_DORISE *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorise
+
 
 C'est lui que vous aimez.
 
@@ -2016,8 +2055,8 @@ Vous devez puissamment occuper sa mémoire,
 Autrement le sommeil ne lui fournirait pas,
 Un portrait si puissant de vos rares appas.
 
-
 **** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *id_EMILE *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_emile
+
 
 Et très cher confident que t'a dit mon Aurore ?
 
@@ -2245,8 +2284,8 @@ Effacerait mon nom et ternirait ma gloire :
 Quelque dessein qu'ils aient d'exercer mon courroux,
 Ils n'auront pas l'honneur de mourir de mes coups.
 
-
 **** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *id_VALET *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valet
+
 
 Ô qu'elle vous chérit et qu'elle vous honore
 Comment, a-t-elle dit ; l'honneur de l'univers
@@ -2379,3 +2418,27 @@ Que de vaincus à bas, que de corps sur les herbes :
 C'est trop fait pour un coup, allons parmi les pots
 Après tant de travail prendre un peu de repos.
 
+**** *creator_rotrou *book_rotrou_amelie *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_amelie *dist2_rotrou_verse_tragedy *id_NOURRICE *date_1633 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_nourrice
+
+
+J'expliquais ses regards, je lisais dans son âme,
+Je croyais découvrir sa plus secrète flamme,
+Mais las ! C'est bien l'esprit le plus dissimulé,
+Qui des flammes d'amour ait encore brûlé ;
+Elle ne me parlait, que de l'obéissance,
+Dont elle honorerait l'auteur de sa naissance,
+Je la voyais trembler à votre seul aspect,
+Et je croyais que rien n'égalait son respect ;
+Lors, comme j'estimais voir son humeur si nue,
+Je la blâmais parfois de trop de retenue,
+Et ma simplicité lui donnait des avis,
+Dont elle abuse hélas, et qu'elle a trop suivis ;
+Elle a subtilement gagné l'esprit d'Érante,
+À qui cette entreprise était indifférente,
+Qui bonne, comme elle est, n'ayant pu l'arrêter,
+Suit ses pas, sans dessein, que de la contenter.
+
+C'est là les menacer de beaucoup de misère,
+Mais il est bien aisé d'apaiser sa colère,
+L'amour que porte un père a de puissants appas,
+Et s'il ne perd ce nom, il ne les perdra pas.

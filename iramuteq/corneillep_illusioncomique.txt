@@ -2,6 +2,7 @@
 
 **** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *id_ALCANDRE *date_1636 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_alcandre
 
+
 Dorante, c'est assez, je sais ce qui l'amène :
 Ce fils est aujourd'hui le sujet de sa peine.
 Vieillard, n'est-il pas vrai que son éloignement
@@ -214,8 +215,8 @@ Servir les gens d'honneur est mon plus grand désir :
 J'ai pris ma récompense en vous faisant plaisir.
 Adieu : je suis content, puisque je vous vois l'être.
 
-
 **** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *id_PRIDAMANT *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pridamant
+
 
 J'en attends peu de chose, et brûle de le voir.
 J'ai de l'impatience, et je manque d'espoir.
@@ -349,8 +350,8 @@ Un si rare bienfait ne se peut reconnaître :
 Mais, grand mage, du moins croyez qu'à l'avenir
 Mon âme en gardera l'éternel souvenir.
 
-
 **** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *id_DORANTE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+
 
 Ce mage, qui d'un mot renverse la nature,
 N'a choisi pour palais que cette grotte obscure.
@@ -429,8 +430,8 @@ S'unissant avec moi d'étroite affection…
 Il nous faut sans réplique accepter ses arrêts ;
 Je vous attends chez moi.
 
-
 **** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *id_MATAMORE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_matamore
+
 
 Il est vrai que je rêve, et ne saurais résoudre
 Lequel je dois des deux le premier mettre en poudre,
@@ -780,8 +781,8 @@ Si je laisse une fois échapper ma colère…
 
 Un sot les attendrait.
 
-
 **** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *id_CLINDOR *date_1636 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_clindor
+
 
 Quoi ! Monsieur, vous rêvez ! Et cette âme hautaine,
 Après tant de beaux faits, semble être encore en peine !
@@ -1170,8 +1171,8 @@ Conspirent désormais à me faire la guerre ;
 Ce coeur, inexpugnable aux assauts de leurs yeux,
 N'aura plus que les tiens pour maîtres et pour dieux.
 
-
 **** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *id_ADRASTE *date_1636 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_adraste
+
 
 Hélas ! S'il est ainsi, quel malheur est le mien !
 Je soupire, j'endure, et je n'avance rien ;
@@ -1283,8 +1284,8 @@ Chargé d'autant de bois qu'il en pourra porter.
 Cet insolent discours te coûtera la vie,
 Suborneur.
 
-
 **** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *id_GERONTE *date_1636 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_geronte
+
 
 Apaisez vos soupirs et tarissez vos larmes ;
 Contre ma volonté ce sont de faibles armes :
@@ -1366,8 +1367,8 @@ Vous autres, cependant, arrêtez l'assassin.
 C'en est fait, emportez ce corps à la maison ;
 Et vous, conduisez tôt ce traître à la prison.
 
-
 **** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *id_ISABELLE *date_1636 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_isabelle
+
 
 Je ne sais pas, monsieur, de quoi vous me blâmez.
 Je me connais aimable, et crois que vous m'aimez :
@@ -1841,8 +1842,8 @@ Mes forces et ma voix cèdent à ma douleur ;
 Son vif excès me tue ensemble et me console,
 Et puisqu'il nous rejoint…
 
-
 **** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *id_LYSE *date_1636 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lyse
+
 
 À ce compte, monsieur, votre esprit est malade ?
 
@@ -2157,8 +2158,8 @@ Madame, quelqu'un vient.
 Madame… Elle se meurt ; épargnons les discours,
 Et courons au logis appeler du secours.
 
-
 **** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *id_GEOLIER *date_1636 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_geolier
+
 
 Bannissez vos frayeurs : tout va le mieux du monde ;
 Il ne faut que partir, j'ai des chevaux tous prêts,
@@ -2197,3 +2198,31 @@ Mais ici ne songeons qu'à nous ôter de prise ;
 
 Nous nous amusons trop, il est temps d'évader.
 
+**** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *id_PAGE *date_1636 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_page
+
+
+Monsieur.
+
+      Un courrier vous demande.
+
+      De la part de la reine d'Islande.
+
+**** *creator_corneillep *book_corneillep_illusioncomique *style_verse *genre_comedy *dist1_corneillep_verse_comedy_illusioncomique *dist2_corneillep_verse_comedy *id_ERASTE *date_1636 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_eraste
+
+
+      Reçois, traître, avec joie
+Les faveurs que par nous ta maîtresse t'envoie.
+
+Puissent les suborneurs ainsi toujours périr !
+
+      Un juste et grand exemple,
+Qu'il faut qu'avec effroi tout l'avenir contemple,
+Pour apprendre aux ingrats, aux dépens de son sang,
+À n'attaquer jamais l'honneur d'un si haut rang.
+Notre main a vengé le prince Florilame,
+La princesse outragée, et vous-même, madame,
+Immolant à tous trois un déloyal époux,
+Qui ne méritait pas la gloire d'être à vous.
+D'un si lâche attentat souffrez le prompt supplice,
+Et ne vous plaignez point quand on vous rend justice.
+Adieu.

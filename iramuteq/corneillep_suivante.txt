@@ -2,6 +2,7 @@
 
 **** *creator_corneillep *book_corneillep_suivante *style_verse *genre_comedy *dist1_corneillep_verse_comedy_suivante *dist2_corneillep_verse_comedy *id_GERASTE *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_geraste
 
+
 Excuse, ou pour le moins pardonne à ma folie ;
 Le sort en est jeté : va, ma chère Célie,
 Va trouver la beauté qui me tient sous sa loi ;
@@ -218,8 +219,20 @@ Allons dans le jardin faire deux tours d'allée,
 Afin que cet ennui que j'en pourrai sentir
 Parmi votre entretien trouve à se divertir.
 
+**** *creator_corneillep *book_corneillep_suivante *style_verse *genre_comedy *dist1_corneillep_verse_comedy_suivante *dist2_corneillep_verse_comedy *id_POLEMON *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polemon
+
+
+J'ai grand regret, monsieur, que la foi qui vous lie
+Empêche que chez vous mon neveu ne s'allie,
+Et que son feu m'emploie aux offres qu'il vous fait,
+Lorsqu'il n'est plus en vous d'en accepter l'effet.
+
+Mais si quelque hasard rompait cette alliance ?
+
+Adieu : faites état de mon humble service.
 
 **** *creator_corneillep *book_corneillep_suivante *style_verse *genre_comedy *dist1_corneillep_verse_comedy_suivante *dist2_corneillep_verse_comedy *id_CLARIMOND *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clarimond
+
 
 Ces dédains rigoureux dureront-ils toujours ?
 
@@ -300,8 +313,8 @@ Tu ne flattes mon coeur que d'un espoir frivole.
 Mais si j'en recevais, je serais bien confus.
 Un oncle pourra mieux concerter cette affaire.
 
-
 **** *creator_corneillep *book_corneillep_suivante *style_verse *genre_comedy *dist1_corneillep_verse_comedy_suivante *dist2_corneillep_verse_comedy *id_FLORAME *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_florame
+
 
 Encore est-ce à regret qu'ici je viens me rendre,
 Et comme un criminel qu'on traîne à sa prison.
@@ -769,8 +782,8 @@ Vos feux et mon devoir, ma flamme et vos souhaits.
 
 Toujours l'impatience à l'amour est mêlée
 
-
 **** *creator_corneillep *book_corneillep_suivante *style_verse *genre_comedy *dist1_corneillep_verse_comedy_suivante *dist2_corneillep_verse_comedy *id_THEANTE *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_theante
+
 
 Ami, n'y rêve plus ; c'est en juger trop bien
 Pour t'oser plaindre encor de n'y comprendre rien.
@@ -1120,8 +1133,8 @@ Qui ne me puisse mettre au-dessus de Florame.
 Allons : je ne puis voir sans mille déplaisirs
 Ce possesseur du bien où tendaient mes désirs.
 
-
 **** *creator_corneillep *book_corneillep_suivante *style_verse *genre_comedy *dist1_corneillep_verse_comedy_suivante *dist2_corneillep_verse_comedy *id_DAMON *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damon
+
 
 Ami, j'ai beau rêver, toute ma rêverie
 Ne me fait rien comprendre en ta galanterie.
@@ -1282,8 +1295,8 @@ Amarante, à ce compte, est hors de ta pensée ?
 Arrête : cette fuite est hors de bienséance,
 Et je n'ai point d'appel à faire en ta présence.
 
-
 **** *creator_corneillep *book_corneillep_suivante *style_verse *genre_comedy *dist1_corneillep_verse_comedy_suivante *dist2_corneillep_verse_comedy *id_DAPHNIS *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_daphnis
+
 
 Voyez comme tous deux ont fui notre rencontre !
 Je vous l'ai déjà dit, et l'effet vous le montre :
@@ -1702,8 +1715,8 @@ Qu'un nom tu par hasard nous a donné de peine !
 
 Quoi ! Je ne savais rien d'une telle partie !
 
-
 **** *creator_corneillep *book_corneillep_suivante *style_verse *genre_comedy *dist1_corneillep_verse_comedy_suivante *dist2_corneillep_verse_comedy *id_AMARANTE *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amarante
+
 
 J'en ai vu d'échappés que j'ai su rattraper.
 
@@ -2097,8 +2110,8 @@ Me contraindre moi-même à déplorer ton sort,
 Te faire un long trépas, et cette jeune épouse
 User toute sa vie à souhaiter ta mort !
 
-
 **** *creator_corneillep *book_corneillep_suivante *style_verse *genre_comedy *dist1_corneillep_verse_comedy_suivante *dist2_corneillep_verse_comedy *id_CELIE *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celie
+
 
 Eh bien ! J'en parlerai ; mais songez qu'à votre âge
 Mille accidents fâcheux suivent le mariage :
@@ -2176,3 +2189,7 @@ Et donne un prompt succès à vos contentements !
 Attendez-la, monsieur, et qu'à cela ne tienne :
 Je cours exécuter cette commission.
 
+**** *creator_corneillep *book_corneillep_suivante *style_verse *genre_comedy *dist1_corneillep_verse_comedy_suivante *dist2_corneillep_verse_comedy *id_CLEON *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleon
+
+
+      Il est en ce car four.

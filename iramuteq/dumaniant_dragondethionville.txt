@@ -2,6 +2,7 @@
 
 **** *creator_dumaniant *book_dumaniant_dragondethionville *style_prose *genre_fait historique *dist1_dumaniant_prose_fait historique_dragondethionville *dist2_dumaniant_prose_fait historique *id_DUSINCERE *date_1786 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dusincere
 
+
 Bonjour, monsieur le Chevalier.
 
 Je descends de chez mon colonel. Il m'a parlé beaucoup de vous. Il est Fâché que, logeant dans le même corps de logis, vous ne vous soyez pas présenté chez lui.
@@ -114,8 +115,8 @@ En continuant de m'aimer, en ne me parlant jamais d'une action si simple et si n
 
 Mon Colonel !
 
-
 **** *creator_dumaniant *book_dumaniant_dragondethionville *style_prose *genre_fait historique *dist1_dumaniant_prose_fait historique_dragondethionville *dist2_dumaniant_prose_fait historique *id_LECOLONEL *date_1786 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecolonel
+
 
 Te voilà encore ?
 
@@ -170,4 +171,3 @@ Voilà, voilà votre vrai bienfaiteur.
 Un trait si beau ne restera pas dans l'oubli.
 
 On ne saurait trop publier les belles actions. Leur récit console les bons, corrige quelquefois les méchants, et fait aimer la vertu à tout le monde.
-

@@ -2,6 +2,7 @@
 
 **** *creator_voltaire *book_voltaire_oreste *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oreste *dist2_voltaire_verse_tragedy *id_ORESTE *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oreste
 
+
 Pylade, où sommes-nous ? en quels lieux t'a conduit
 Le malheur obstiné du destin qui me suit ?
 L'infortune d'Oreste environne ta vie.
@@ -330,8 +331,8 @@ J'y cours, j'y vais trouver la prêtresse homicide
 Qui n'offre que du sang à des dieux en courroux,
 À des dieux moins cruels, moins barbares que vous.
 
-
 **** *creator_voltaire *book_voltaire_oreste *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oreste *dist2_voltaire_verse_tragedy *id_ELECTRE *date_1750 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_electre
+
 
       Il est venu ce jour où l'on apprête
 Les détestables jeux de leur coupable fête.
@@ -937,8 +938,8 @@ Vous...
 
 Demeurez : conjurez leur justice et leur haine.
 
-
 **** *creator_voltaire *book_voltaire_oreste *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oreste *dist2_voltaire_verse_tragedy *id_IPHISE *date_1750 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iphise
+
 
 Est-il vrai, cher Pammène, et ce lieu solitaire,
 Ce palais exécrable où languit ma misère,
@@ -1163,8 +1164,8 @@ Ah, ma soeur ! ah, Pylade ! entendez-vous ces cris ?
 
       Ô crime !
 
-
 **** *creator_voltaire *book_voltaire_oreste *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oreste *dist2_voltaire_verse_tragedy *id_CLYTEMNESTRE *date_1750 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clytemnestre
+
 
 Allez ; que l'on me laisse en ces lieux retirés :
 Pammène, éloignez-vous; mes filles, demeurez.
@@ -1479,8 +1480,8 @@ Si j'en puis être digne, en remplir tous les droits.
 
       Mon fils !... j'expire de ta main.
 
-
 **** *creator_voltaire *book_voltaire_oreste *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oreste *dist2_voltaire_verse_tragedy *id_EGISTHE *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_egisthe
+
 
 Quoi ! Ces solennités qui vous étaient si chères,
 Ces gages renaissants de nos destins prospères,
@@ -1721,8 +1722,8 @@ Le sang d'Agamemnon ne m'épouvante pas.
 Quels mortels et quels dieux pourraient sauver Oreste
 Du père de Plistène, et du fils de Thyeste ?
 
-
 **** *creator_voltaire *book_voltaire_oreste *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oreste *dist2_voltaire_verse_tragedy *id_PYLADE *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pylade
+
 
 J'ignore en quels climats nous jette la tempête ;
 Mais de notre destin pourquoi désespérer ?
@@ -1925,8 +1926,8 @@ Je te suivrai partout où leur fureur t'entraîne.
 Que l'amitié triomphe, en ce jour odieux,
 Des malheurs des mortels, et du courroux des dieux !
 
+**** *creator_voltaire *book_voltaire_oreste *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oreste *dist2_voltaire_verse_tragedy *id_PAMMENE *date_1750 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_pammene
 
-**** *creator_voltaire *book_voltaire_oreste *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oreste *dist2_voltaire_verse_tragedy *id_PAMMENE *date_1750 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_pammene
 
 Ô respectable Iphise ! ô fille de mon roi !
 Relégué comme vous dans ce séjour d'effroi,
@@ -2107,3 +2108,15 @@ Marcher autour d'Oreste, en appelant la mort.2
 
       Elle-même.
 
+**** *creator_voltaire *book_voltaire_oreste *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oreste *dist2_voltaire_verse_tragedy *id_DIMAS *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dimas
+
+
+Seigneur !
+
+      On vient de découvrir Oreste.
+
+Paraissez ; c'est à vous, seigneur, d'être obéi.
+Oreste s'est nommé dès qu'il a vu Pammène.
+Pylade, cet ami qui partage sa chaîne,
+Montre aux soldats émus le fils d'Agamemnon ;
+Et je crains la pitié pour cet auguste nom.

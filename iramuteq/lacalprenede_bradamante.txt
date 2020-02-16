@@ -2,6 +2,7 @@
 
 **** *creator_lacalprenede *book_lacalprenede_bradamante *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_bradamante *dist2_lacalprenede_verse_tragedy *id_CHARLES *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_charles
 
+
 Ma parole est donnée, il n'en faut plus parler.
 
       L'événement éclaircira l'affaire.
@@ -212,8 +213,8 @@ Et que votre bonheur ne se diffère pas.
 Que le Ciel vous unisse avec autant de joie,
 Que je ressens ma part du bien qu'il vous envoie.
 
-
 **** *creator_lacalprenede *book_lacalprenede_bradamante *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_bradamante *dist2_lacalprenede_verse_tragedy *id_LEON *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leon
+
 
 Que vous me haïrez pour cette lâcheté.
 
@@ -752,8 +753,8 @@ Approuvez sans regret ce que le Ciel ordonne.
 Je vais parmi leurs biens me repaître d'espoir.
 Mais je suis trop heureux ayant fait mon devoir.
 
-
 **** *creator_lacalprenede *book_lacalprenede_bradamante *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_bradamante *dist2_lacalprenede_verse_tragedy *id_ROGER *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roger
+
 
 Ne jugez point si mal de ma fidélité.
 
@@ -1276,8 +1277,8 @@ Mais je n'attends de vous que celui de ma vie,
 Prononcez-le, Madame, et ne permettez pas,
 Que deux mots seulement me donnent le trépas.
 
-
 **** *creator_lacalprenede *book_lacalprenede_bradamante *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_bradamante *dist2_lacalprenede_verse_tragedy *id_AYMON *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aymon
+
 
 Si votre Majesté la voulait rappeler,
 Je me pourrais servir des droits de la naissance,
@@ -1534,8 +1535,8 @@ Ce n'est pas qu'ébloui d'une pourpre éclatante,
 Sa nouvelle grandeur me le fasse estimer,
 Mais c'est pour sa vertu qui m'oblige à l'aimer.
 
-
 **** *creator_lacalprenede *book_lacalprenede_bradamante *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_bradamante *dist2_lacalprenede_verse_tragedy *id_RENAUD *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_renaud
+
 
 Former sans apparence un bien imaginaire,
 C'est se paître de vent et d'une ombre légère,
@@ -1692,8 +1693,8 @@ Et si vous remarquez un si grand avantage,
 Vous serez obligé de changer de courage,
 Outre que Bradamante a de l'amour pour lui.
 
-
 **** *creator_lacalprenede *book_lacalprenede_bradamante *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_bradamante *dist2_lacalprenede_verse_tragedy *id_BRADAMANTE *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_bradamante
+
 
 Mon coeur ne retient plus la douleur qui te presse,
 Il est vrai ce perfide a faussé sa promesse,
@@ -1997,8 +1998,8 @@ Puis donc que mes parents l'ont ainsi résolu,
 Je ne m'oppose point à ce qu'ils ont voulu,
 Leurs volontés me sont des lois inviolables.
 
-
 **** *creator_lacalprenede *book_lacalprenede_bradamante *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_bradamante *dist2_lacalprenede_verse_tragedy *id_HIPALQUE *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hipalque
+
 
 Marfise vous attend pour aller chez le Roi.
 
@@ -2037,8 +2038,8 @@ Des plus fiers Sarrasins une confuse troupe,
 Votre coeur sans raison se voulut ressentir,
 Mais Roger innocent vous en fit repentir.
 
-
 **** *creator_lacalprenede *book_lacalprenede_bradamante *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_bradamante *dist2_lacalprenede_verse_tragedy *id_MARPHISE *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marphise
+
 
 Je n'envierai jamais un semblable bonheur,
 J'aime mieux de mon gré lui quitter cet honneur.
@@ -2252,8 +2253,8 @@ Que vous êtes à lui, que lui répondez-vous ?
 Il ose effrontément se donner cette gloire,
 Qu'il a devant vous remporté la victoire.
 
-
 **** *creator_lacalprenede *book_lacalprenede_bradamante *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_bradamante *dist2_lacalprenede_verse_tragedy *id_NAYMES *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_naymes
+
 
 Cette férocité pleine de tant d'audace,
 Qui même sous l'armet se remarque en sa face,
@@ -2271,8 +2272,15 @@ Par un si grand travail ils sont tous deux lassés.
 
 Ils ont recommencé plus fort qu'auparavant.
 
+**** *creator_lacalprenede *book_lacalprenede_bradamante *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_bradamante *dist2_lacalprenede_verse_tragedy *id_ZENON *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zenon
 
-**** *creator_lacalprenede *book_lacalprenede_bradamante *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_bradamante *dist2_lacalprenede_verse_tragedy *id_AMBASSADEURS *date_1636 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_ambassadeurs
+
+Je vous fais pour le mien une même prière.
+
+Nous nous acheminons.
+
+**** *creator_lacalprenede *book_lacalprenede_bradamante *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_bradamante *dist2_lacalprenede_verse_tragedy *id_AMBASSADEURS *date_1636 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_ambassadeurs
+
 
 Sire, nous espérons de votre Majesté,
 D'obtenir le pardon de notre liberté.
@@ -2324,4 +2332,3 @@ Et qui vous a voué tant de fidélité,
 Pour périr de regret se voyant rebuté ?
 
 Doncque tout le premier je vous donne ma foi.
-

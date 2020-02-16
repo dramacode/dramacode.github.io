@@ -2,6 +2,7 @@
 
 **** *creator_boissy *book_boissy_critiqueauteursupersticieux *style_verse *id_CLITANDRE *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
 
+
 Cher ami, c'est l'effet d'une faiblesse extrême,
 Que je ne puis dompter, dont j'ai honte moi-même^
 Dont à d'autres que vous mon coeur n'ose parler,
@@ -271,8 +272,8 @@ Ah ! mon procès perdu m'est d'un mauvais augure.
 Mais voyons au plus tôt cet objet ravissant,
 Et nous visiterons le parterre en passant.
 
-
 **** *creator_boissy *book_boissy_critiqueauteursupersticieux *style_verse *id_DAMON *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_damon
+
 
 Qui vous fait brusquement quitter ainsi la table
 Au milieu d'un repas et d'une troupe aimable ?
@@ -372,8 +373,8 @@ Ils le disent tout haut.
 Moi, j'espère au retour vous faire compliment ;
 Et je cours me placer sans perdre un seul moment.
 
-
 **** *creator_boissy *book_boissy_critiqueauteursupersticieux *style_verse *id_ARLEQUIN *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+
 
 Peste ! Quand vous frappez, ce n'est pas de main morte.
 
@@ -469,8 +470,8 @@ Car j'étais dans l'ivresse
 Quand j'ai fait ce beau coup.
 Mais d'ouïr ma Complainte ayez la politesse.
 
-
 **** *creator_boissy *book_boissy_critiqueauteursupersticieux *style_verse *id_APOLLON *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
+
 
 Dans le monde on a d'elle une autre opinion ;
 Par un injuste effet de la prévention,
@@ -650,8 +651,26 @@ Justifiez mon choix,
 Dans le haut rang où je vous place ;
 Et donnez le précepte et l'exemple à la fois.
 
+**** *creator_boissy *book_boissy_critiqueauteursupersticieux *style_verse *id_THALIE *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
+
+
+Seigneur, malgré la brigue et la clameur publique,
+Parmi les doctes soeurs, vous venez de placer
+La juste et la saine Critique :
+Elle vient s'établir dans l'État Poétique,
+Pour y maintenir l'ordre, et pour le policer.
+Je ne saurais, pour moi qui préside au Comique,
+Et qui tiens de ses traits mon plus grand agrément,
+Donner à votre choix trop d'applaudissement.
+Quel bonheur de la voir gouverner le Parnasse,
+Elle par qui le Vrai, se règle uniquement,
+Et ne fait à personne injustice ni grâce !
+
+C'est la Critique apparemment
+Je vous laisse avec lui.
 
 **** *creator_boissy *book_boissy_critiqueauteursupersticieux *style_verse *id_CHRISANTE *date_1732 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chrisante
+
 
       Je viens voir la Critique ;
 Pour un dessein qu'il faut que je lui communique.
@@ -873,8 +892,8 @@ Que qui se moque du Public,
 Se moque aussi de la Critique,
 Et d'Apollon et de toute sa clique.
 
-
 **** *creator_boissy *book_boissy_critiqueauteursupersticieux *style_verse *id_LAMEDISANCE *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamedisance
+
 
 Madame, je prends part, comme votre parente,
 À votre fortune brillante.
@@ -1039,8 +1058,8 @@ Quelle prude sauvage ! Ah ! je brûle
 D'arriver à Paris pour soulager mon coeur,
 Et la tourner en ridicule;
 
-
 **** *creator_boissy *book_boissy_critiqueauteursupersticieux *style_verse *id_LEVAUDEVILLE *date_1732 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_levaudeville
+
 
 Votre règne aimable ;
 Critique agréable,
@@ -1323,4 +1342,3 @@ Par vos manières folles :
 Prenez un ton plus doux, il se rendra ;
 C'est l'air, o gué lon la,
 Qui fait passer les paroles.
-

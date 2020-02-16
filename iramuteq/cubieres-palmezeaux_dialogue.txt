@@ -2,6 +2,7 @@
 
 **** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_dialogue *style_prose *genre_dialogue *dist1_cubieres-palmezeaux_prose_dialogue_dialogue *dist2_cubieres-palmezeaux_prose_dialogue *id_LAUTEUR *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lauteur
 
+
 Qu'il tombe ou réussisse, que m'importe ? Ai-je fait un livre utile ? Je ne veux savoir que cela.
 
 Pourquoi est-ce donc que l'on vous consulte ?
@@ -102,8 +103,8 @@ Il y paraît par sa froideur et par les éloges qu'en ont fait tous les journali
 
 Le sentiment et la raison y étaient également insultés en faveur du goût ; il fallait les venger l'un et l'autre de mes pitoyables sarcasmes, et c'est pour me punir de l'avoir composée que je l'ai fait imprimer.
 
-
 **** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_dialogue *style_prose *genre_dialogue *dist1_cubieres-palmezeaux_prose_dialogue_dialogue *dist2_cubieres-palmezeaux_prose_dialogue *id_LHOMMEDEGOUT *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lhommedegout
+
 
 Eh Bien ! Je vous l'avais dit que votre premier volume tomberait. Le second aura le même sort : le voilà, je viens de le lire avec attention ; il tombera, vous dis-je, personne ne le lira, et les Journaux en diront mille fois plus de mal que du premier.
 
@@ -204,4 +205,3 @@ Savez-vous qu'il y a, dans cette pièce, beaucoup de plaisanteries , qui mainten
 Vous aviez bien du goût, quand vous avez donné Le Dramaturge.
 
 Pourquoi donc l'avoir publiée, si vous l'avez jugée mauvaise ?
-

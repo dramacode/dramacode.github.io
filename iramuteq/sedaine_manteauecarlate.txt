@@ -2,6 +2,7 @@
 
 **** *creator_sedaine *book_sedaine_manteauecarlate *style_prose *genre_proverbe *dist1_sedaine_prose_proverbe_manteauecarlate *dist2_sedaine_prose_proverbe *id_MARTON *date_1784 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
 
+
 Qui frappe ?
 
 Votre nom ?
@@ -102,8 +103,8 @@ Madame a raison. Vous êtes tout de feu lorsque vous faites des reproches, et to
 
 Mon cher maître !
 
-
 **** *creator_sedaine *book_sedaine_manteauecarlate *style_prose *genre_proverbe *dist1_sedaine_prose_proverbe_manteauecarlate *dist2_sedaine_prose_proverbe *id_DORIMENE *date_1784 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorimene
+
 
 Amie.
 
@@ -186,8 +187,17 @@ Eh bien ! Défendez-vous. Voilà mes armes.
 
 Eh bien ! Monsieur le jaloux...
 
+**** *creator_sedaine *book_sedaine_manteauecarlate *style_prose *genre_proverbe *dist1_sedaine_prose_proverbe_manteauecarlate *dist2_sedaine_prose_proverbe *id_BLAISE *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blaise
+
+
+J'pouvons ben vous répondre....
+
+Pour moi, ça s'ra ben facile, car j'nons rien vu, d'abord et d'un. J'ons arpentais toute la journée les murs du jardin, et si par fois, j'nous sommes réposé un tantinet, c'est qu'j'n'pouvions pu mettre un pied devant l'autre. Mais j'avions toujours l'becen l'air, et tout ça pour rian. J'avons eu beau ouvrir de grands yeux j'n'en avons vu ni pus, ni moins qu'ceux-là qui n'les ont jamais ouverts.
+
+C'est au contraire votre rêve qui vous partrouble l'imagination.
 
 **** *creator_sedaine *book_sedaine_manteauecarlate *style_prose *genre_proverbe *dist1_sedaine_prose_proverbe_manteauecarlate *dist2_sedaine_prose_proverbe *id_GERAULT *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gerault
+
 
 Oh ! Pour ce qui est de ça...
 
@@ -196,4 +206,3 @@ J'ai vu beaucoup de braconniers dans la plaine ; mais pour ceux-là qui en veule
 Je vous jure que non.
 
 Blaise a raison, Monsieur.
-

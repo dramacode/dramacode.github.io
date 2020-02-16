@@ -2,6 +2,7 @@
 
 **** *creator_carmontelle *book_carmontelle_petitmaitreparphilosophie *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_petitmaitreparphilosophie *dist2_carmontelle_prose_proverbe *id_LACOMTESSE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
 
+
 Chevalier, j'ai été bien longtemps, n'est-ce pas ? Je suis excédée ! Ma complaisance me coûte cher.
 Mais où est donc le Marquis ? On m'avait dit qu'il était ici.
 
@@ -119,8 +120,8 @@ Allez, Monsieur, vous me confirmez ; mais trop tard ce qu'on m'avait dit des hom
 
 C'en est fait, Monsieur, je ne vous verrai plus.
 
-
 **** *creator_carmontelle *book_carmontelle_petitmaitreparphilosophie *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_petitmaitreparphilosophie *dist2_carmontelle_prose_proverbe *id_LEMARQUIS *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+
 
 Oui, Monsieur, plus une femme vous plaît plus elle vous convient, plus vous en voulez être aimé ; moins il faut vous livrer à votre passion.
 
@@ -233,8 +234,8 @@ Laisse passer le premier moment ; si elle t'aime véritablement, l'amour lui par
 
 Dans quelque temps, je suis bien sûr que tu penseras comme moi.
 
-
 **** *creator_carmontelle *book_carmontelle_petitmaitreparphilosophie *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_petitmaitreparphilosophie *dist2_carmontelle_prose_proverbe *id_LECHEVALIER *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
 
 Entrons ici, en attendant la Comtesse.
 
@@ -463,3 +464,7 @@ Vous ne la connaissez pas.
 
 Non, je ne vous écoute plus.
 
+**** *creator_carmontelle *book_carmontelle_petitmaitreparphilosophie *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_petitmaitreparphilosophie *dist2_carmontelle_prose_proverbe *id_DUPRE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dupre
+
+
+Monsieur le Marquis, Madame la Comtesse va passer, ici tout à l'heure.

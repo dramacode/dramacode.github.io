@@ -2,6 +2,7 @@
 
 **** *creator_brosse *book_brosse_turnedevirgile *style_verse *genre_tragedy *dist1_brosse_verse_tragedy_turnedevirgile *dist2_brosse_verse_tragedy *id_latinus *date_1647 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_latinus
 
+
 Nous esperons en vain de surmonter⁎ Ænée,
 Rien ne peut arrester sa bonne destinée⁎,
 Elle est comme un torrent dont seulement le bruit
@@ -325,8 +326,8 @@ Vous en viendrez à bout par la perseverance,
 L'une et l'autre à la fin rendront vos voeux contens,
 Mais il faut que ce soit un ouvrage du temps.
 
-
 **** *creator_brosse *book_brosse_turnedevirgile *style_verse *genre_tragedy *dist1_brosse_verse_tragedy_turnedevirgile *dist2_brosse_verse_tragedy *id_amata *date_1647 *sexe_feminin *age_veteran *statut_maitre *fonction_autres *role_amata
+
 
 Saisie esgalement de crainte et de colere
 Turne je viens blasmer vostre vertu⁎ severe,
@@ -567,8 +568,8 @@ Pensez-vous qu'elle vueille…
 
 C'est un commandement qui tend à l'impossible.
 
-
 **** *creator_brosse *book_brosse_turnedevirgile *style_verse *genre_tragedy *dist1_brosse_verse_tragedy_turnedevirgile *dist2_brosse_verse_tragedy *id_lavinie *date_1647 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_lavinie
+
 
 Arrestez.
 
@@ -849,8 +850,8 @@ Plaignons et soûpirons sa triste destinee⁎.
       Turne qui vit, encore dans mon cœur⁎
 Le rend inaccessible à ce cruel vainqueur.
 
-
 **** *creator_brosse *book_brosse_turnedevirgile *style_verse *genre_tragedy *dist1_brosse_verse_tragedy_turnedevirgile *dist2_brosse_verse_tragedy *id_turne *date_1647 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_turne
+
 
 Ha ne me faites point un traittement⁎ si rude,
 Que pouvoit la valeur⁎ contre la multitude ?
@@ -1383,8 +1384,8 @@ Adieu, je vay payer le tribut à la parque,
 Le feu qui m'animoit s'esteint par ce soûpir,
 Souvenez vous au moins de mon dernier desir.
 
-
 **** *creator_brosse *book_brosse_turnedevirgile *style_verse *genre_tragedy *dist1_brosse_verse_tragedy_turnedevirgile *dist2_brosse_verse_tragedy *id_juturne *date_1647 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_juturne
+
 
 Ouy si quelque respect et quelque amour vous reste,
 Estouffez un dessein qui vous seroit funeste⁎,
@@ -1509,8 +1510,8 @@ Et vous ne balancez qu'afin que je commence.
 Je vay donc sur leur chef porter le premier coup,
 Donnons, nous les vaincrons sans nous péner beaucoup.
 
-
 **** *creator_brosse *book_brosse_turnedevirgile *style_verse *genre_tragedy *dist1_brosse_verse_tragedy_turnedevirgile *dist2_brosse_verse_tragedy *id_sidon *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sidon
+
 
       Une belle nouvelle.
 
@@ -1642,8 +1643,18 @@ Il veut faire eclatter sa generosité.
 
 Il est dessus un lict dans la sale prochaine⁎.
 
+**** *creator_brosse *book_brosse_turnedevirgile *style_verse *genre_tragedy *dist1_brosse_verse_tragedy_turnedevirgile *dist2_brosse_verse_tragedy *id_tyrene *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tyrene
+
+
+PRéparez vous Madame à recevoir un coup,
+Qui doit ou vous abatre, ou vous blesser beaucoup.
+Nostre Roy n'est plus Roy, le Troyen qui nous brave⁎
+Le tient dedans son camp, et le traite d'esclave,
+Je ne puis déguiser un mal si violent,
+Je trahirois l'estat en le dissimulant.
 
 **** *creator_brosse *book_brosse_turnedevirgile *style_verse *genre_tragedy *dist1_brosse_verse_tragedy_turnedevirgile *dist2_brosse_verse_tragedy *id_enee *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_enee
+
 
 L'Amour me le commande, et l'honneur m'y convie,
 Ne vous opposez plus à ce noble dessein,
@@ -1866,8 +1877,8 @@ Et l'orage me plaist qui conduit à tel port.
 
 Dure obstination ! rigoureuse⁎ constance !
 
-
 **** *creator_brosse *book_brosse_turnedevirgile *style_verse *genre_tragedy *dist1_brosse_verse_tragedy_turnedevirgile *dist2_brosse_verse_tragedy *id_acate *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_acate
+
 
 QUOY Seigneur, hazarder⁎ une si belle vie !
 
@@ -1890,4 +1901,3 @@ Ce seroit en un mot luy donner une preuve,
 Qu'il est comme un roseau, vous de mesme qu'un fleuve,
 Dont le rapide cours méprise de heurter,
 Un obstacle impuissant qui ne peut l'arrester.
-

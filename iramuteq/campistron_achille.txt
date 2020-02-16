@@ -1,6 +1,84 @@
 
 
+**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_MERCURE *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+
+
+Savantes Soeurs, arbitres de la scène,
+Quel accident funeste a fait cesser vos jeux ?
+Je ne vois plus ici votre appareil pompeux,
+Et je ne reconnais qu'a peine,
+Thalie et Melpomène ;.
+Et vous dont les charmants concerts,
+En ces lieux autrefois, raisonneront dans les Airs ;
+Quel trouble, ou quelle indifférence
+Cause aujourd'hui votre silence ?
+
+Terminez vos regrets que votre douleur cesse.
+Dans vôtre sort Jupiter s'intéresse,
+Et veut ici revoir, dès ce même moment
+Un spectacle charmant,
+Ou'un changement favorable
+Redonne à ces tristes lieux
+Tout ce qu'ils ont est d'aimable?'
+C'est l'ordre irrévocable
+Du souverain des Dieux.
+
+Jupiter va paraître,
+Redoublez vos efforts pour plaire à votre Maître.
+
+**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_MELPOMENE *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_melpomene
+
+
+Ignorez vous que le plus grand des rois
+Étendant chaque jour ses conquêtes
+Et signalant son bras, par de nouveaux exploits
+A négligé nos plus superbes fêtes.
+
+Vous, secourables Génies,
+Nécessaire à nos jeux,
+Hâtez-vous, secondez nos voeux ;
+Venez, et prêtez-nous vos grâces infinies.
+
+**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_TERPSICORE *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_terpsicore
+
+
+La tristesse règne en ces lieux,
+Nous rougissons de ne pouvoir lui plaîre ;
+Hélas ! Ne saurions-nous rien faire
+Digne de paraître à ses yeux.
+
+**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_THALIE *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thalie
+
+
+Depuis ce fatal moment,
+Nos Spectacles privés de leur magnificence,
+Ne sauraient plus avoir l'éclat et l'agrément
+Qu'ils ne devaient qu'à sa présence,
+
+Vous qui savez si bien, par une heureuse adresse
+Calmer les noirs chagrins, bannir les soins fâcheux,
+Favorisez mes soeurs, et mêlez dans leur quelques traits de votre allégresse.
+
+**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_JUPITER *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
+
+
+Il ne manque aux apprêts de la fête nouvelle,
+Que Mercure a fait préparé,
+Que le choix du Héros qu'on y doit célébrer,
+Le soin de le choisir auprès de vous m'appelle.
+Renouvelez dans vos jeux
+Le souvenir de l'invincible Achille,
+Et rappelez dans une Cour tranquille,
+L'Histoire et les combats de ce guerrier fameux.
+
+Consacrez tous vos jeux au plus grand Roi du monde,
+Formez sur lui tous les Portraits
+De vos Héros les plus parfaits,
+Sa valeur, sa bonté, sa sagesse profonde,
+Vous prêteront d'inimitables traits.
+
 **** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_ACHILLE *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achille
+
 
 Je vois avec plaisir les pertes de la Grèce,
 La valeur d'Hector m'a vengé,
@@ -186,8 +264,8 @@ Secondez les transports de mon âme ;
 Joignez nos voix,
 Pour chanter les beautés de l'objet qui m'enflamme.
 
-
 **** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_PATROCLE *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_patrocle
+
 
 Non, je ne saurais plus me taire,
 Je vous dois un conseil sincère.
@@ -233,8 +311,8 @@ J'ai tous les sentiments et les soins des Héros,
 Non, les jours les plus doux passés dans le repos
 Ne valent pas un jour marqué part la victoire.
 
-
 **** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_DIOMEDE *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_diomede
+
 
 Ne répondrez-vous point aux désirs de la Grèce ?
 Il faut qu'en sa faveur votre colère cesse,
@@ -289,8 +367,20 @@ Que c'est un plaisir charmant,
 Après une absence cruelle,
 De retrouver sa maîtresse fidèle !
 
+**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_VENUS *date_1687 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
+
+
+J'abandonne les Cieux, je descends sur la Terre :
+Pour finir de tes maux le déplorable cours,
+En vain l'injuste sort t'a déclaré la guerre,
+Espère tout de mon secours.
+Vous, Divinités aimables,
+Du plus grand des héros charmés le triste coeur,
+Et faites succéder à sa vive douleur
+Les plaisirs les plus agréables.
 
 **** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_ARCAS *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
+
 
 Ô déplorable coup du sort !
 
@@ -320,8 +410,8 @@ Achille ne vit plus !
 L'indigne ravisseur d'Hélène
 Par une trahison a terminé son sort.
 
-
 **** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_AGAMEMNON *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agamemnon
+
 
 Ah ! S'il faut à ce prix assurer son repos,
 Dieux ! Qu'il en coûtera de tourments à mon âme !
@@ -362,8 +452,8 @@ N'ont fait qu'allumer son courroux ;
 Ses constantes rigueurs m'ont appris que son âme
 Ne peut brûler que pour vous.
 
-
 **** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_PRIAM *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_priam
+
 
 Restes infortunés du plus beau sang du monde,
 Polixène, ma fille et vous, veuve d'Hector,
@@ -421,8 +511,8 @@ Ne perdons plus de précieux moments,
 Allons sur les autels consacrer les serments
 D'une paix éternelle.
 
-
 **** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_ANDROMAQUE *date_1687 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_andromaque
+
 
 J'ai perdu mon époux dans un combat funeste,
 Votre valeur me l'a ravi ;
@@ -486,8 +576,8 @@ C'est qu'en donnant toujours des pleurs à ta mémoire,
 Je rendrai ma fidélité
 Aussi fameuse que ta gloire.
 
+**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_POLIXENE *date_1687 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_polixene
 
-**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_POLIXENE *date_1687 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_polixene
 
 Que pourrais-je espérer du secours de mes pleurs,
 Si mon père et ma soeur vous trouvent inflexible !
@@ -618,8 +708,8 @@ Achille, c'est à toi que je me sacrifie...
 Sans toi, je déteste la vie...
 Oui, je le jure... Hélas... Je frissonne... Je meurs.
 
-
 **** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_BRISEIS *date_1687 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_briseis
+
 
 Quel triste accueil, Dieux ! Qu'est-ce que je vois?
 Suis-je encor Briseis ? N'êtes-vous plus Achille ?
@@ -716,3 +806,30 @@ Sur les remparts de votre ville,
 Puisse le juste Ciel se déclarer pour nous !
 Et puisse aujourd'hui les Troyens périr tous.
 
+**** *creator_campistron *book_campistron_achille *style_verse *genre_tragedie en musique *dist1_campistron_verse_tragedie en musique_achille *dist2_campistron_verse_tragedie en musique *id_JUNON *date_1687 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junon
+
+
+Calme tes déplaisirs, ne verse plus de larmes,
+L'Hymen qui cause tes alarmes
+Ne sera jamais achevé
+En vain Priam croit son pays sauvé,
+Son trône doit tomber, et de toute sa gloire
+Il ne restera rien qu'une triste mémoire.
+Je vais évoquer des Enfers
+La Haine, la Fureur, la Discorde et l'Envie,
+Leur présence sera suivie
+De cent prodiges divers.
+Sortez de la nuit infernale,
+Noires Divinités, vos antres sont ouverts.
+
+Volez, portez par tout votre rage fatale,
+Versez dans tous les coeurs votre mortel poison,
+Chassez la paix de cette terre,
+Et faites y régner la guerre,
+La vengeance et la trahison.
+Versez dans tous les coeurs votre mortel poison.
+Poursuivez votre carrière,
+Soleil, et rendez-nous votre clarté première.
+
+Avant la fin du jour tes yeux seront témoins
+De l'effet de ma promesse.

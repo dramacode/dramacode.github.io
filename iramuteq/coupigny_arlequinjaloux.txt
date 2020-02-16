@@ -2,6 +2,7 @@
 
 **** *creator_coupigny *book_coupigny_arlequinjaloux *style_prose *genre_comedy *dist1_coupigny_prose_comedy_arlequinjaloux *dist2_coupigny_prose_comedy *id_ARLEQUIN *date_1797 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
+
 J'avais toujours entendu dire qu'on ne pouvait être parfaitement heureux; j'ai cru pendant quelque temps que Rosette me ferait donner le démenti à tous les philosophes ; mais je commence à croire que ces gens-là pourront bien y voir plus clair que l'Amour. Je le crois bien : l'Amour est aveugle. Pas toujours pourtant ; et certainement il y voyait très bien, quand il m'a donné Colombine. Mais c'est que tout le monde a aussi de bons yeux ; et je remarque depuis quelque temps que tout le monde la trouve jolie. C'est très mal, entendez-vous : je ne veux pas qu'on trouve ma femme jolie ; je le défends. Mais j'ai beau le défendre, il y a toujours des rebelles ! Voilà un an que nous sommes mariés, et il me semble que j'étais plus content quand j'étais moins heureux. Ces amants sont singuliers ! Ils veulent toujours devenir époux : c'est pourtant diablement différent. Quand je poursuivais Rosette, j'attaquais ; à présent que ma femme est ma femme, je me défends. Il y a une foule de personnes qui voudraient se mêler de ce qui ne les regarde pas. Ah ! Les plus honnêtes gens du monde sont bien fripons en ce genre-là. Mais, d'un autre côté, Colombine m'aime tant ! Ah ! La voici.
 
 Oui, je craignais d'avoir froid. Mais, tu as raison, c'est inutile.
@@ -152,8 +153,8 @@ Ajoutez-moi ainsi.
 
 J'ai mes raisons pour ça.
 
-
 **** *creator_coupigny *book_coupigny_arlequinjaloux *style_prose *genre_comedy *dist1_coupigny_prose_comedy_arlequinjaloux *dist2_coupigny_prose_comedy *id_COLOMBINE *date_1797 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colombine
+
 
 Te voilà, mon ami... Ah ! Mon Dieu, en robe de chambre!
 
@@ -264,8 +265,8 @@ Comment ! À mes genoux !
 
 Mon cher Arlequin !
 
-
 **** *creator_coupigny *book_coupigny_arlequinjaloux *style_prose *genre_comedy *dist1_coupigny_prose_comedy_arlequinjaloux *dist2_coupigny_prose_comedy *id_SCAPIN *date_1797 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scapin
+
 
 Mon maître !
 Oui, mon maître, c'est moi.
@@ -356,4 +357,3 @@ Madame, tout est perdu ! Voilà Monsieur qui arrive !
 Ah ! Ah !
 
 Allons, ma maîtresse n'est pas ce que je croyais , ni son mari non plus.
-

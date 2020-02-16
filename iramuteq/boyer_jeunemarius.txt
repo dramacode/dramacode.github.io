@@ -2,6 +2,7 @@
 
 **** *creator_boyer *book_boyer_jeunemarius *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_jeunemarius *dist2_boyer_verse_tragedy *id_marius *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_marius
 
+
 Quel zele, quel ⁎bon-heur t'a conduit en ces lieux,
 Et t'a fait traverser un Camp victorieux ?
 Enfermé dans Preneste, où Sylla nous assiege...
@@ -545,8 +546,8 @@ Quelque soit le succés que mon amour attend,
 Je mourray satisfait, ou je vivray content.
 Adieu, Madame.
 
-
 **** *creator_boyer *book_boyer_jeunemarius *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_jeunemarius *dist2_boyer_verse_tragedy *id_sylla *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_sylla
+
 
 Je devrois plus encore, à qui je doy la vie,
 Mais n'ayant rien, qui soit plus cher à vostre amour...
@@ -971,8 +972,8 @@ Tremblez mes ennemis, tout Sylla va parestre.
 Vous pouvez demeurer, et vous aider tous deux
 A plaindre dignement un ⁎Amant malheureux.
 
-
 **** *creator_boyer *book_boyer_jeunemarius *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_jeunemarius *dist2_boyer_verse_tragedy *id_pompee *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_pompee
+
 
 Rome et vostre ⁎fortune ont vaincu par ma main.
 
@@ -1223,8 +1224,8 @@ Il cherche à s'immoler mille et mille victimes.
 Et si vous n'avez soin de calmer son ⁎courrous,
 Je crains tout pour luy-mesme, et pour Rome et pour nous.
 
-
 **** *creator_boyer *book_boyer_jeunemarius *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_jeunemarius *dist2_boyer_verse_tragedy *id_cecilie *date_1670 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_cecilie
+
 
 Ce qu'annonce Maxime est une verité
 Seigneur, advoüez-vous ce secours tant vanté,
@@ -1831,8 +1832,8 @@ Des titres odieux de perfide et d'ingrat.
 Allons, allons nous mettre entre Rome et mon pere,
 Et mourir à ses pieds ou fléchir sa colere.
 
-
 **** *creator_boyer *book_boyer_jeunemarius *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_jeunemarius *dist2_boyer_verse_tragedy *id_pison *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pison
+
 
 Sylla rend aujourd'huy tous vos vœux satisfaits :
 Nul accord n'a jamais avec si peu de peine
@@ -1881,8 +1882,8 @@ Brûle d'aller dans Rome achever son ouvrage,
 Rien de ce noir projet ne le peut divertir :
 Les ordres sont donnez, Madame il faut partir.
 
-
 **** *creator_boyer *book_boyer_jeunemarius *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_jeunemarius *dist2_boyer_verse_tragedy *id_maxime *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maxime
+
  
 De nos troubles, Seigneur, c'est le seul privilege,
 Qu'un seul peuple formant deux partis differens,
@@ -1995,8 +1996,8 @@ Et par cette prudente et modeste retraite
 D'un ennemy qu'il aime, honore la défaite.
 Mais il vient.
 
-
 **** *creator_boyer *book_boyer_jeunemarius *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_jeunemarius *dist2_boyer_verse_tragedy *id_marcelle *date_1670 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_marcelle
+
 
 Ce malheureux ⁎Amant, que vous traitez si mal,
 N'a t-il point deviné, quand il croit qu'un Rival
@@ -2070,8 +2071,8 @@ Tant ils craignent ce front, devant qui tant de fois
 L'univers tout entier a veu trembler ses Rois :
 Marius reste seul sans secours, sans defence,
 
-
 **** *creator_boyer *book_boyer_jeunemarius *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_jeunemarius *dist2_boyer_verse_tragedy *id_sabine *date_1670 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_sabine
+
 
 C'est là de Marius l'image veritable ;
 Mais en trouverez-vous qui luy soit comparable ?
@@ -2095,3 +2096,9 @@ Un seul mot, un regard le peuvent desarmer.
       Mais voulez-vous exposer vostre pere !
 Vous voyez quels perils...
 
+**** *creator_boyer *book_boyer_jeunemarius *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_jeunemarius *dist2_boyer_verse_tragedy *id_octave *date_1670 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_octave
+
+
+Seigneur. Pompée arrive, et le bruit de sa gloire
+Déja de toutes parts annonce sa victoire ;
+Cent Messagers ⁎hastez de nous faire sçavoir...

@@ -2,6 +2,7 @@
 
 **** *creator_tristan *book_tristan_mortdechrispe *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortdechrispe *dist2_tristan_verse_tragedy *id_FAUSTE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fauste
 
+
 Doux cruels tyrans de mon âme insensée,
 Qui mettez, tant de trouble en ma triste pensée.
 Chères impressions qui causés ma douleur,
@@ -860,8 +861,8 @@ Mais l'ayant su parti, j'ai fait vou de le suivre.
 
 Je vais vous satisfaire à tous deux de ce pas.
 
-
 **** *creator_tristan *book_tristan_mortdechrispe *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortdechrispe *dist2_tristan_verse_tragedy *id_CORNELIE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cornelie
+
 
 Madame.
 
@@ -1015,8 +1016,8 @@ Vous pourrez tout nier avecque sûreté.
 Dieux ! Voici l'Empereur, quel trouble en son visage,
 Employez cet esprit à calmer cet orage.
 
-
 **** *creator_tristan *book_tristan_mortdechrispe *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortdechrispe *dist2_tristan_verse_tragedy *id_CHRISPE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chrispe
+
 
 Madame, tout l'honneur de cet heureux destin,
 Se doit attribuer au sage Constantin ;
@@ -1438,8 +1439,8 @@ Je sais par quels serments il s'y trouve obligé.
 
 Nous verrons.
 
-
 **** *creator_tristan *book_tristan_mortdechrispe *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortdechrispe *dist2_tristan_verse_tragedy *id_CONSTANTIN *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_constantin
+
 
 À ma nièce, cessez ; je ne puis vous entendre ;
 À l'objet de vos pleurs je me trouve trop tendre,
@@ -1733,8 +1734,8 @@ On la fasse sans bruit porter au monument.
 Elle avait des défauts, mais elle avait des charmes
 Qui m'obligent encore à répandre des larmes.
 
-
 **** *creator_tristan *book_tristan_mortdechrispe *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortdechrispe *dist2_tristan_verse_tragedy *id_CONSTANCE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_constance
+
 
 Seigneur, en cet espoir ne vous trompez vous point ?
 J'ai connu dans ses yeux une secrète haine
@@ -1884,8 +1885,8 @@ Ni vous aimer aussi qu'avec beaucoup d'horreur.
 
 On ne m'accuse point d'avoir perdu mon père.
 
-
 **** *creator_tristan *book_tristan_mortdechrispe *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortdechrispe *dist2_tristan_verse_tragedy *id_LACTANCE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lactance
+
 
       Qu'avez-vous, Seigneur, qui vous fait soupirer ?
 
@@ -1948,8 +1949,25 @@ Seigneur accourez, vite au quartier de Constance.
       Ah Sire ! Des malheurs
 Qui vous obligeront à fondre tout en pleurs.
 
+**** *creator_tristan *book_tristan_mortdechrispe *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortdechrispe *dist2_tristan_verse_tragedy *id_LEONCE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leonce
+
+
+      Adarne le voici.
+
+Madame, à vos avis j'ai mûrement pensé,
+Mais mon esprit encor se trouve balancé ;
+J'aime ce jeune Prince, et j'ai peine à rien faire
+Qui le puisse offenser, ou lui puisse déplaire ;
+Peut-on mieux acquérir du bien qu'en le servant ?
+N'est-il pas adoré comme un Soleil levant ?
+
+Madame, ce discours montre mon ignorance,
+Je veux sur vos conseils fonder mon espérance,
+Et je croirai faillir avec impunité,
+Servant aveuglement une Divinité.
 
 **** *creator_tristan *book_tristan_mortdechrispe *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_mortdechrispe *dist2_tristan_verse_tragedy *id_PROBE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_probe
+
 
 Madame, en un moment deux astres de la Cour
 Ont perdu pour jamais la lumière du jour :
@@ -2029,4 +2047,3 @@ Lors tenant le coffret serré de ses deux bras,
 Elle s'est élancée en l'eau la tête en bas :
 Au fonds de l'eau bouillante elle s'est abîmée,
 Et l'on ria plus rien vu dans l'épaisse fumée.
-

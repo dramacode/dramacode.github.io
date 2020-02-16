@@ -2,6 +2,7 @@
 
 **** *creator_lesage *book_lesage_arlequinmahomet *style_verse *genre_comedy *dist1_lesage_verse_comedy_arlequinmahomet *dist2_lesage_verse_comedy *id_ARLEQUIN *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
+
 Ô Sort ! Ô Devins ennemis !
 Dans quel état m'avez-vous mis :
 J'ai voulu téter du commerce ;
@@ -159,8 +160,24 @@ Tu me serviras de Houri.
 
 Tarelire, talaleri, talalerire.
 
+**** *creator_lesage *book_lesage_arlequinmahomet *style_verse *genre_comedy *dist1_lesage_verse_comedy_arlequinmahomet *dist2_lesage_verse_comedy *id_DAHI *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dahi
+
+
+Je reviens a regret,
+Ami, vous instruire
+De ce qu'en secret
+On m'est venu dire
+Vos créanciers en ce jour
+Veulent vous jouer d'un tour.
+
+Vous les connaissez
+Trompez leur envie.
+
+Adieu. Soyez assez fin
+Pour éluder leur dessein.
 
 **** *creator_lesage *book_lesage_arlequinmahomet *style_verse *genre_comedy *dist1_lesage_verse_comedy_arlequinmahomet *dist2_lesage_verse_comedy *id_LAPRINCESSE *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laprincesse
+
 
 Cependant, le Roi mon père
 Craint ce que l'on a prédit ;
@@ -187,4 +204,3 @@ Qu'il est désagréable !
 
 J'y consens pour satisfaire
 Le grand Prophète et mon père.
-

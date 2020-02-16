@@ -2,6 +2,7 @@
 
 **** *creator_duryer *book_duryer_nitocris *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_nitocris *dist2_duryer_verse_tragedy *id_NITOCRIS *date_1648 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nitocris
 
+
 J'ai d'un oeil attentif regardé votre affaire,
 Et je sais contenter quiconque sait me plaire.
 Mais enfin j'ai jugé quoi que vous prétendiez,
@@ -565,8 +566,8 @@ Que par un grand triomphe obtenu sur moi-même,
 Et que par mon exemple on aille raconter
 Qu'on peut dompter l'amour quand on veut le dompter.
 
-
 **** *creator_duryer *book_duryer_nitocris *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_nitocris *dist2_duryer_verse_tragedy *id_CLEODATE *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleodate
+
 
 Il est vrai, je l'avoue, un furieux tourment
 Me suit de tous côtés, me presse incessamment ;
@@ -1044,8 +1045,8 @@ Par un acte de paix, d'amour et de clémence.
 Araxe a contre moi sans sujet attenté,
 Je demande sa grâce à votre Majesté.
 
-
 **** *creator_duryer *book_duryer_nitocris *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_nitocris *dist2_duryer_verse_tragedy *id_ARAXE *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_araxe
+
 
 En vain j'ai relevé ma fortune abattue,
 En vain de tant de gloire elle s'est revêtue,
@@ -1504,8 +1505,8 @@ Je n'aurais pas aimé, je serais innocent.
 
 Qu'on reçoit aisément un jugement si doux.
 
-
 **** *creator_duryer *book_duryer_nitocris *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_nitocris *dist2_duryer_verse_tragedy *id_ATIS *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_atis
+
 
 Qu'est-ce que votre esprit se forme et se propose ?
 Et que désire-t-on quand on a toute chose ?
@@ -1548,8 +1549,8 @@ N'était donc qu'un portrait d'un amour enflammé.
 
 Alcine vient ici.
 
-
 **** *creator_duryer *book_duryer_nitocris *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_nitocris *dist2_duryer_verse_tragedy *id_AXIANE *date_1648 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_axiane
+
 
 Hélas ! Tu dois savoir...
 
@@ -1756,8 +1757,8 @@ Mais que puis-je donner au fameux Cléodate,
 Je ne lui donne pas un trône qu'il sauva,
 Madame, il le conquit lorsqu'il le conserva.
 
-
 **** *creator_duryer *book_duryer_nitocris *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_nitocris *dist2_duryer_verse_tragedy *id_ALCINE *date_1648 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alcine
+
 
 Mais d'où vient qu'Axiane a l'esprit si changé
 Depuis que Cléodate a demandé congé ?
@@ -1986,8 +1987,8 @@ Mais la Reine...
 
       Ô Ciel soit-lui propice ?
 
-
 **** *creator_duryer *book_duryer_nitocris *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_nitocris *dist2_duryer_verse_tragedy *id_ACHATE *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achate
+
 
       Oui vous pouvez partir,
 Et bientôt vous en plaindre et vous en repentir.
@@ -2101,4 +2102,3 @@ Arrêtez cet esprit qui s'agite sans cesse
 Par l'hymen glorieux d'une belle Princesse.
 Alcine est de son rang, elle l'acceptera,
 Et pour sa garantir Araxe l'aimera.
-

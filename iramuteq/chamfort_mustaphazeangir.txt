@@ -2,6 +2,7 @@
 
 **** *creator_chamfort *book_chamfort_mustaphazeangir *style_verse *genre_tragedy *dist1_chamfort_verse_tragedy_mustaphazeangir *dist2_chamfort_verse_tragedy *id_SOLIMAN *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_soliman
 
+
 Prenez place, madame ; il faut que, dans ce jour,
 Votre âme à mes regards se montre sans détour :
 Le prince dans ces lieux vient enfin de se rendre.
@@ -348,8 +349,8 @@ Que mon ombre bientôt redouble tes tourments,
 Et puisse en inventer de qui la barbarie
 Égale mes malheurs, ma haine et ta furie.
 
-
 **** *creator_chamfort *book_chamfort_mustaphazeangir *style_verse *genre_tragedy *dist1_chamfort_verse_tragedy_mustaphazeangir *dist2_chamfort_verse_tragedy *id_ROXELANE *date_1777 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_roxelane
+
 
 Et quoi ! Vous l'ignorez !... Oui, c'est moi seule, Osman,
 Dont les soins ont hâté l'ordre de Soliman.
@@ -836,8 +837,8 @@ J'y tombe sans effroi, j'y brave sa colère,
 Le pouvoir d'un despote et les fureurs d'un père.
 Ma mort...
 
-
 **** *creator_chamfort *book_chamfort_mustaphazeangir *style_verse *genre_tragedy *dist1_chamfort_verse_tragedy_mustaphazeangir *dist2_chamfort_verse_tragedy *id_ZEANGIR *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zeangir
+
 
 Ah !... Je tremble pour lui.
 
@@ -1279,8 +1280,8 @@ Je connais votre coeur, vous n'y survivrez pas.
 C'est la dernière fois que le mien vous offense.
 Mon supplice finit, et le vôtre commence.
 
-
 **** *creator_chamfort *book_chamfort_mustaphazeangir *style_verse *genre_tragedy *dist1_chamfort_verse_tragedy_mustaphazeangir *dist2_chamfort_verse_tragedy *id_AZEMIRE *date_1777 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_azemire
+
 
 Eh quoi ! Que faut-il craindre ? Et quel nouvel orage...
 
@@ -1413,8 +1414,8 @@ Dévoilez son secret, montrez son innocence :
 Heureuse si j'avais, en voulant le sauver,
 Et des périls plus grands, et la mort à braver !
 
-
 **** *creator_chamfort *book_chamfort_mustaphazeangir *style_verse *genre_tragedy *dist1_chamfort_verse_tragedy_mustaphazeangir *dist2_chamfort_verse_tragedy *id_OSMAN *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_osman
+
 
 Oui, Madame, en secret le sultan vient d'entendre
 Le récit des succès que je dois vous apprendre ;
@@ -1529,8 +1530,38 @@ Ce zèle impétueux qu'excitent vos vertus...
 
       Vous avez lu, Nessir, obéissez.
 
+**** *creator_chamfort *book_chamfort_mustaphazeangir *style_verse *genre_tragedy *dist1_chamfort_verse_tragedy_mustaphazeangir *dist2_chamfort_verse_tragedy *id_ALI *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ali
+
+
+      Il le faudrait peut-être.
+Mais je viens contre lui m'adresser à son maître ;
+Qu'il demeure, il le peut. Sultan, tu ne crois pas
+Que j'eusse d'un rebelle accompagné les pas.
+Ton fils, ainsi que moi, vit et mourra fidèle.
+J'ai su calmer des siens et la fougue et le zèle ;
+Ils te révèrent tous. Mais on craint les complots
+Que la haine en ces lieux trame contre un héros.
+"Ah ! Du moins, disaient-ils, dans leur secret murmure
+Ah ! Si la vérité confondait l'imposture !
+Si, détrompant un maître et cherchant ses regards
+Elle osait pénétrer ces terribles remparts !
+Mais la mort punirait un zèle téméraire. "
+On peut près du cercueil hasarder de déplaire.
+Sultan, d'un vieux guerrier ces restes languissants,
+Ce sang, dans les combats prodigué soixante ans,
+Exposés pour ton fils que tout l'empire adore,
+S'ils sauvaient un héros te serviraient encore,
+De notre amour pour lui ne prends aucuns soupçons ;
+C'est le grand Soliman qu'en lui nous chérissons ;
+Il nous rend tes vertus, et tu permets qu'on l'aime.
+Mais crains ses ennemis, crains ton pouvoir suprême,
+Crains d'éternels regrets, et surtout un remords.
+J'ai rempli mon devoir : ordonnes-tu ma mort ?
+
+Sur le sort de ton fils je suis donc sans effroi.
 
 **** *creator_chamfort *book_chamfort_mustaphazeangir *style_verse *genre_tragedy *dist1_chamfort_verse_tragedy_mustaphazeangir *dist2_chamfort_verse_tragedy *id_ACHMET *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achmet
+
 
       Prince, que faites-vous ?
 D'un tel excès d'honneur mon âme est accablée.
@@ -1628,3 +1659,14 @@ Vous pourriez... pardonnez. Je n'ose en dire plus.
 À de plus chers conseils mon coeur vous abandonne,
 Et vole à d'autres soins que mon zèle m'ordonne.
 
+**** *creator_chamfort *book_chamfort_mustaphazeangir *style_verse *genre_tragedy *dist1_chamfort_verse_tragedy_mustaphazeangir *dist2_chamfort_verse_tragedy *id_FELIME *date_1777 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_felime
+
+
+Je conçois les terreurs où votre coeur s'égare ;
+Mais un mot, pardonnez, pouvait les prévenir.
+L'aveu de votre amour...
+
+Je frémis avec vous pour vous-même et pour eux.
+Eh ! Qui peut sans douleur voir deux coeurs vertueux
+Briser les noeuds sacrés d'une amitié si chère,
+Et contraints de haïr un rival dans un frère ?

@@ -2,6 +2,7 @@
 
 **** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *id_POMPEE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pompee
 
+
 Puisque vos repentirs ont fait mourir sa haine,
 Que vous êtes certain de l'amitié Romaine,
 Vivez dores-en-avant comme notre allié,
@@ -107,8 +108,8 @@ Et mettez tous vos soins pour emporter la ville.
 Surtout souvenez-vous en cette affaire ici,
 Que Rome fait les Rois, et les défait aussi.
 
-
 **** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *id_PHARNACE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pharnace
+
 
 Je ne me flatte point d'une louange vaine,
 Que la seule vertu soit cause de ma haine,
@@ -596,8 +597,8 @@ A souffrir parmi vous une peine éternelle ?
 Pompée à son départ vous a-il ordonné,
 De me traiter en serf, lui qui m'a couronné ?
 
-
 **** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *id_MITHRIDATE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mithridate
+
 
 Toi qui dans mes combats compagne inséparable,
 M'accompagnes aussi dans mon sort déplorable,
@@ -1205,8 +1206,8 @@ Trouvent ce pâle corps dans le trône Royal.
 Conserve dans ma mort ma dignité première,
 Mais je perds la parole en perdant la lumière.
 
-
 **** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *id_MENANDRE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_menandre
+
 
 Vous avez à vos murs la puissance Romaine :
 Mille étendards volants font ombrage à la plaine.
@@ -1248,8 +1249,8 @@ Ces corps que vous voyez viennent de rendre l'âme,
 Par le poison vos soeurs, la Reine et votre femme :
 Et le Roi par le fer.
 
-
 **** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *id_EMILE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_emile
+
 
 Et quoi vous n'êtes donc résolu qu'à demi.
 
@@ -1325,8 +1326,8 @@ Quand nous verrons la vôtre un peu mieux revenue.
 Mais délivrons ses yeux de l'horreur de ces morts,
 Et pour les inhumer qu'on enlève ces corps.
 
-
 **** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *id_HYPSICRATEE *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hypsicratee
+
 
       S'il est permis à ma fidélité
 D'accuser vos transports d'un peu de lâcheté,
@@ -1541,8 +1542,8 @@ Mais dieux ! Il faut céder au feu qui me dévore,
 Mes yeux sont obscurcis, à peine je te vois,
 Par ce dernier baiser prends un congé de moi.
 
-
 **** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *id_BERENICE *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_berenice
+
 
 Si je ne suis coupable ainsi que mon époux,
 Et si je puis encor embrasser vos genoux,
@@ -1797,8 +1798,8 @@ Je vous quitte madame, ô dieux ! je n'en puis plus.
 S'il m'est encor permis de toucher votre main,
 Je mourrai satisfaite.
 
-
 **** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *id_MITHRIDATIE *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mithridatie
+
 
 Allez où la fureur aveuglement vous porte :
 Je ne vous verrai plus, mon espérance est morte :
@@ -1907,8 +1908,8 @@ Tends ces bras languissants, permets que je t'embrasse.
 Ouvre encore tes yeux, vois ta soeur qui te suit,
 Et qui perd la clarté du soleil qui la fuit.
 
-
 **** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *id_NISE *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nise
+
 
 Ô par dessus le sexe heureuse Hypsicratée ;
 Ayant reçu du Ciel une force indomptée,
@@ -1959,3 +1960,29 @@ Quelle étrange douleur succède à ma faiblesse!
 
 Mithridatie, adieu, c'en est fait, je trépasse.
 
+**** *creator_lacalprenede *book_lacalprenede_mortmitrhidate *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_mortmitrhidate *dist2_lacalprenede_verse_tragedy *id_SOLDAT *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_soldat
+
+
+Sans ce dernier secours notre espérance est morte,
+Nos meilleurs escadrons sont à demi rompus.
+
+Ce n'est pas de frayeur que mon âme est atteinte :
+Mais poussé d'un courage et fidèle et prudent,
+Je vous viens avertir du péril évident.
+Mithridate suivi de sa troupe enfermée,
+Est sorti des remparts pour attaquer l'armée :
+Comme c'est un éclat qu'on n'avait point prévu
+Les premiers bataillons sont pris à l'impourvu,
+cette bouillante ardeur ne peut être arrêtée :
+Tout fuit devant le Roi, tout fuit Hypsicratée.
+Ils ne sont du butin, mais du sang altérés ;
+Et s'ils sont peu de gens, ils sont désespérés.
+Enfin tout a fait jour à leurs premières armes,
+Et les champs sont couverts du corps de nos gendarmes.
+Cette forte Amazone atterre de ses mains,
+Et les Bythiniens, et les soldats Romains :
+Tous indifféremment font rougir son épée,
+Elle appelle au combat et Pharnace et Pompée :
+Son époux qui la couvre avecque son écu,
+Massacre sans pitié cet escadron vaincu.
+Bref tout n'est plus que sang, qu'horreur, que funérailles.

@@ -2,6 +2,7 @@
 
 **** *creator_barreredetdesfontaines *book_barreredetdesfontaines_marigedescarron *style_verse *genre_vaudeville *dist1_barreredetdesfontaines_verse_vaudeville_marigedescarron *dist2_barreredetdesfontaines_verse_vaudeville *id_SCARRON *date_1797 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scarron
 
+
 Place à l'équipage
 De monsieur Scarron :
 Salut à Ménage,
@@ -473,8 +474,8 @@ Pour les soupers de Scarron.
 Venez chanter et rire
 Avec ma femme et Ninon.
 
-
 **** *creator_barreredetdesfontaines *book_barreredetdesfontaines_marigedescarron *style_verse *genre_vaudeville *dist1_barreredetdesfontaines_verse_vaudeville_marigedescarron *dist2_barreredetdesfontaines_verse_vaudeville *id_MENAGE *date_1797 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_menage
+
 
 Enfin, je saurai si ce qu'on m'a dit est vrai, et si mon diable de fou a tout-à-fait perdu la tête... Le voici.
 
@@ -576,8 +577,8 @@ Scarron fit jusqu'ici :
 Mais la plus jolie,
 Est celle d'aujourd'hui.
 
-
 **** *creator_barreredetdesfontaines *book_barreredetdesfontaines_marigedescarron *style_verse *genre_vaudeville *dist1_barreredetdesfontaines_verse_vaudeville_marigedescarron *dist2_barreredetdesfontaines_verse_vaudeville *id_GIRAULT *date_1797 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_girault
+
 
 Oui, Monsieur l'Abbé.
 
@@ -657,8 +658,8 @@ Trop heureux si je pouvais un jour mériter la confiance de ces dames !
 
 Voici votre affaire : la somme est en or.
 
-
 **** *creator_barreredetdesfontaines *book_barreredetdesfontaines_marigedescarron *style_verse *genre_vaudeville *dist1_barreredetdesfontaines_verse_vaudeville_marigedescarron *dist2_barreredetdesfontaines_verse_vaudeville *id_MAUGIN *date_1797 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maugin
+
 
 Ah ! Ah !... Déjà neuf heures !... Monsieur l'Abbé ne tardera peut-être pas à sortir du lit, c'est à-dire, à vouloir que je l'en sorte ; car, sans moi, il y resterait longtemps ; mais il attend Mademoiselle d'Aubigné ; il sera matinal. Préparons-lui toutes ses petites affaires... Sa table...
 Ses livres...
@@ -828,8 +829,8 @@ Viendront à foison
 Pour y voir la femme
 De monsieur l'Abbé Scarron !
 
-
 **** *creator_barreredetdesfontaines *book_barreredetdesfontaines_marigedescarron *style_verse *genre_vaudeville *dist1_barreredetdesfontaines_verse_vaudeville_marigedescarron *dist2_barreredetdesfontaines_verse_vaudeville *id_MADEMOISELLEDAUBIGNE *date_1797 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mademoiselledaubigne
+
 
 Avec Monsieur de Villarceaux !
 
@@ -996,8 +997,8 @@ Et mon cœur ne désire plus rien :
 De Scarron si je remplis l'attente,
 Son bonheur fera toujours le mien.
 
-
 **** *creator_barreredetdesfontaines *book_barreredetdesfontaines_marigedescarron *style_verse *genre_vaudeville *dist1_barreredetdesfontaines_verse_vaudeville_marigedescarron *dist2_barreredetdesfontaines_verse_vaudeville *id_BABET *date_1797 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_babet
+
 
 Je ne vois pas ce monsieur.
 
@@ -1042,4 +1043,3 @@ Ah ! Monsieur.
 Des miens !
 
 Ah ! Monsieur, comment reconnaître...
-

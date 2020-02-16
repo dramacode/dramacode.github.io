@@ -2,6 +2,7 @@
 
 **** *creator_carmontelle *book_carmontelle_chanteuritalien *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_chanteuritalien *dist2_carmontelle_prose_proverbe *id_MONSIEURDESAINTHYGIN *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdesainthygin
 
+
 Passons ici, Monsieur Delamarre ; puisque vous avez à me parler, nous y serons mieux que dans le salon, qu'on va arranger pour le concert.
 
 Oui, ma fille aime beaucoup la Musique, et je ne suis pas fâché de lui donner quelquefois cet amusement-là.
@@ -105,8 +106,8 @@ Pourquoi ne m'aviez-vous pas dit aussi ?
 
 Non, non, Monsieur ; et vous avez grande raison, allons, passez, passez.
 
+**** *creator_carmontelle *book_carmontelle_chanteuritalien *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_chanteuritalien *dist2_carmontelle_prose_proverbe *id_MADEMOISELLEDESAINTHYGIN *date_1768 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_mademoiselledesainthygin
 
-**** *creator_carmontelle *book_carmontelle_chanteuritalien *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_chanteuritalien *dist2_carmontelle_prose_proverbe *id_MADEMOISELLEDESAINTHYGIN *date_1768 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_mademoiselledesainthygin
 
 Hé bien, Papa, il n'y a pas encore un violon d'arrivé, il n'y a que les Basses, concevez-vous que ces Messieurs se fassent attendre aujourd'hui encore comme la dernière fois ?
 
@@ -134,8 +135,8 @@ Papa, il a une drôle de voix, ce Monsieur-là.
 
 Mais Papa, c'est aussi trop presser Monsieur.
 
-
 **** *creator_carmontelle *book_carmontelle_chanteuritalien *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_chanteuritalien *dist2_carmontelle_prose_proverbe *id_MONSIEURDELAMARRE *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdelamarre
+
 
 Vous avez concert aujourd'hui ?
 
@@ -177,8 +178,8 @@ C'est qu'il vous prenait pour un autre. Monsieur Octavini est un célèbre chant
 
 Je ne savais pas ce qui arriverait.
 
-
 **** *creator_carmontelle *book_carmontelle_chanteuritalien *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_chanteuritalien *dist2_carmontelle_prose_proverbe *id_MONSIEUROCTAVINI *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieuroctavini
+
 
 Monsieur, est Monsieur de Saint-Hygin ?
 
@@ -225,4 +226,3 @@ Monsieur Delamarre, Monsieur, il se fâche contre moi ; je sais pas purquoi.
 Monsieur, vous voyez bien à ste moment.
 
 Monsieur, il n'est plous fâché avec moi ?
-

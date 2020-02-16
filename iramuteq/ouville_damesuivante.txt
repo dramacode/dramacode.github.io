@@ -2,6 +2,7 @@
 
 **** *creator_ouville *book_ouville_damesuivante *style_verse *genre_comedy *dist1_ouville_verse_comedy_damesuivante *dist2_ouville_verse_comedy *id_climante *date_1643 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_climante
 
+
 Oüy vous avez querelle, et je sçay de certain
 Que vous vous allez batre, Adraste à quel dessein
 Vous cachez-vous de moy ?
@@ -649,8 +650,8 @@ En effet il est vray, Dorotée a grand tort.
 Je veux aussi donner mil escus à Carlin,
 Et devant⁎ qu'il soit nuict je veux qu'on les fiance.
 
-
 **** *creator_ouville *book_ouville_damesuivante *style_verse *genre_comedy *dist1_ouville_verse_comedy_damesuivante *dist2_ouville_verse_comedy *id_adraste *date_1643 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_adraste
+
 
       L'estrange resverie !
 
@@ -926,8 +927,8 @@ C'est le plus digne objet⁎ qui soit dessous les Cieux.
 Apres un tel adveu, je suis ingrat, Madame,
 Si je me plains du Ciel.
 
-
 **** *creator_ouville *book_ouville_damesuivante *style_verse *genre_comedy *dist1_ouville_verse_comedy_damesuivante *dist2_ouville_verse_comedy *id_carlin *date_1643 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_carlin
+
 
       Je vous viens advertir
 Que ce soir Leonor s'en va se divertir⁎ :
@@ -1277,8 +1278,8 @@ Oüy, je rompray le col, j'en fais un bon serment,
 A quiconque osera m'appeller autrement.
 Fin de la Comedie de la Dame Suivante.
 
-
 **** *creator_ouville *book_ouville_damesuivante *style_verse *genre_comedy *dist1_ouville_verse_comedy_damesuivante *dist2_ouville_verse_comedy *id_isabelle *date_1643 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_isabelle
+
 
 Protegez, Cavalier, une innocente femme,
 Qu'un jaloux sans sujet⁎ veut traitter en infame ;
@@ -2104,8 +2105,8 @@ Tu sçais bien son logis, fay-la venir ici.
 Va, je t'en donne mille, en veux-tu davantage ?
 Pourrois-tu souhaitter un plus beau mariage.
 
-
 **** *creator_ouville *book_ouville_damesuivante *style_verse *genre_comedy *dist1_ouville_verse_comedy_damesuivante *dist2_ouville_verse_comedy *id_dorise *date_1643 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_dorise
+
 
       Ouy : Mais Dieux qu'est-cecy !
 Veillay-je⁎, ou si je dors ? quelle est cette advanture ?
@@ -2284,8 +2285,8 @@ Grands Dieux ! que cette fille est facile à tromper ?
 
 Le hazard⁎ est bien grand que vous allez courir.
 
-
 **** *creator_ouville *book_ouville_damesuivante *style_verse *genre_comedy *dist1_ouville_verse_comedy_damesuivante *dist2_ouville_verse_comedy *id_lucille *date_1643 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lucille
+
 
       Qui frappe à cette porte ?
 
@@ -2327,8 +2328,8 @@ Par là vous contentez de tout point ses plaisirs,
 Car n'ayant plus d'obstacle à ses ardents desirs,
 Vostre rivale arrive au comble de sa gloire.
 
-
 **** *creator_ouville *book_ouville_damesuivante *style_verse *genre_comedy *dist1_ouville_verse_comedy_damesuivante *dist2_ouville_verse_comedy *id_pamphile *date_1643 *sexe_masculin *age_veteran *statut_serviteur *fonction_valet *role_pamphile
+
 
 Songez-y mieux, Madame, et que pensez-vous faire ?
 
@@ -2396,8 +2397,8 @@ Elle vous laisse libre aujourd'huy sa maison,
 Afin d'y recevoir, comme estant la Maistresse,
 Qui bon vous semblera.
 
-
 **** *creator_ouville *book_ouville_damesuivante *style_verse *genre_comedy *dist1_ouville_verse_comedy_damesuivante *dist2_ouville_verse_comedy *id_ariste *date_1643 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_ariste
+
 
 Non, mais desirez-vous estre ainsi toûjours triste ?
 Reprenez une fois vos esprits : quoy Monsieur,
@@ -2419,8 +2420,8 @@ Elle est bien familiere entrant de cette sorte :
 Elle entre avec la clef, sans frapper à la porte,
 Que veut dire cela ?
 
-
 **** *creator_ouville *book_ouville_damesuivante *style_verse *genre_comedy *dist1_ouville_verse_comedy_damesuivante *dist2_ouville_verse_comedy *id_timandre *date_1643 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_timandre
+
 
 Ne me croyez-vous point ? en doutez-vous encor ?
 Allons sur ce sujet consulter Leonor.
@@ -2442,8 +2443,8 @@ Ce double mariage, il nous faut couronner
 Ce beau couple d'Amans d'une immortelle gloire,
 Afin que nos Neveux⁎ en celebrent l'histoire.
 
-
 **** *creator_ouville *book_ouville_damesuivante *style_verse *genre_comedy *dist1_ouville_verse_comedy_damesuivante *dist2_ouville_verse_comedy *id_leonor *date_1643 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_leonor
+
 
 Qu'on fasse promptement avancer mon cocher.
 
@@ -2848,3 +2849,11 @@ Mais pardonnez, Madame, à mon extravagance.
 Je devois bien juger, voyant ce que je voy,
 Que je devois servir, vous, commander chez moy.
 
+**** *creator_ouville *book_ouville_damesuivante *style_verse *genre_comedy *dist1_ouville_verse_comedy_damesuivante *dist2_ouville_verse_comedy *id_le-page *date_1643 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lepage
+
+
+Souffrez la liberté, Monsieur, que j'ose prendre ;
+Estes-vous pas Climante ? …
+
+Venez donc, ma Maistresse assez proche d'ici.
+Vous attend à la porte, elle s'en va descendre.

@@ -2,6 +2,7 @@
 
 **** *creator_barante *book_barante_arlequinmisanthrope *style_prose *genre_comedy *dist1_barante_prose_comedy_arlequinmisanthrope *dist2_barante_prose_comedy *id_ARLEQUIN *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
+
 Non, te dis-je, je ne la jouerai pas.
 
 Il n'y a point de plaisanterie à cela, et j'aimerais mieux être Arlequin Cochon, Arlequin Dogue, Cygne, Taureau, et tout ce qu'il te plaira, que d'être Arlequin Misanthrope.
@@ -668,8 +669,8 @@ Prend un nid qui n'est point à lui ;
 Ainsi l'Officier a l'adresse,
 De pondre dans le nid d'autrui.
 
+**** *creator_barante *book_barante_arlequinmisanthrope *style_prose *genre_comedy *dist1_barante_prose_comedy_arlequinmisanthrope *dist2_barante_prose_comedy *id_OCTAVE *date_1696 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_octave
 
-**** *creator_barante *book_barante_arlequinmisanthrope *style_prose *genre_comedy *dist1_barante_prose_comedy_arlequinmisanthrope *dist2_barante_prose_comedy *id_OCTAVE *date_1696 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_octave
 
 Ô Ciel ! Dans quel étrange situation me trouve-je ? Je fuis Colombine, et mon coeur court après elle ; depuis six jours que je l'ai quittée, j'ai souffert tout ce que... Mais ne vois-je pas Scaramouche que j'avais laissé à Paris pour m'en apporter des nouvelles ?
 
@@ -774,8 +775,8 @@ Du côté du poids le plus fort,
 Ainsi femme à qui plus finance,
 Se livre sans aucun effort.
 
+**** *creator_barante *book_barante_arlequinmisanthrope *style_prose *genre_comedy *dist1_barante_prose_comedy_arlequinmisanthrope *dist2_barante_prose_comedy *id_COLOMBINE *date_1696 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_colombine
 
-**** *creator_barante *book_barante_arlequinmisanthrope *style_prose *genre_comedy *dist1_barante_prose_comedy_arlequinmisanthrope *dist2_barante_prose_comedy *id_COLOMBINE *date_1696 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_colombine
 
 Mais tu te moques.
 
@@ -943,8 +944,8 @@ Les nuages les plus épais ;
 Ainsi l'éclat du plumet chasse
 Les grands et les petits collets.
 
-
 **** *creator_barante *book_barante_arlequinmisanthrope *style_prose *genre_comedy *dist1_barante_prose_comedy_arlequinmisanthrope *dist2_barante_prose_comedy *id_LEDOCTEUR *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledocteur
+
 
 Monsieur...
 
@@ -992,8 +993,8 @@ Monsieur, Monsieur, voilà par le plus grand bonheur du monde, ce fils dont je v
 
 On m'a tout conté, et je la prie de recevoir mon fils pour son mari.
 
-
 **** *creator_barante *book_barante_arlequinmisanthrope *style_prose *genre_comedy *dist1_barante_prose_comedy_arlequinmisanthrope *dist2_barante_prose_comedy *id_SCARAMOUCHE *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scaramouche
+
 
 Gare, Monsieur, gare, prenez garde, hem, n'est-elle pas là ?
 
@@ -1091,8 +1092,8 @@ Qu'il est auprès de l'ambre chaud ;
 L'ambre à Paris c'est la grisette,
 Et le fétu c'est le courtaud.
 
-
 **** *creator_barante *book_barante_arlequinmisanthrope *style_prose *genre_comedy *dist1_barante_prose_comedy_arlequinmisanthrope *dist2_barante_prose_comedy *id_PIERROT *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+
 
 Oh dame, en voilà bien d'un autre ! Le Coche de Paris veut vous voir, le ferai-je entrer ?
 
@@ -1104,8 +1105,8 @@ Oui, des femmes. Il y en a de jeunes et de vieilles. Il y en a de pimpantes comm
 
 Oh, pour ceux-là, ils m'ont bien fait rire. Il y avait un petit rougeau qui se plaignait de vapeurs, et un autre endévait d'avoir perdu sa boîte à mouches.
 
-
 **** *creator_barante *book_barante_arlequinmisanthrope *style_prose *genre_comedy *dist1_barante_prose_comedy_arlequinmisanthrope *dist2_barante_prose_comedy *id_MONSIEURDISANVRAY *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdisanvray
+
 
 Quoi ! Vous ennuyez-vous déjà dans votre retraite ? À quel changement vous attendez-vous depuis un mois que vous êtes hors de Paris ?
 
@@ -1137,8 +1138,8 @@ Celui-là ne sera pas dur à la vente.
 
 Il enrichira l'Imprimeur, si tous ceux qui en ont besoin en achètent un exemplaire.
 
-
 **** *creator_barante *book_barante_arlequinmisanthrope *style_prose *genre_comedy *dist1_barante_prose_comedy_arlequinmisanthrope *dist2_barante_prose_comedy *id_MADAMEDELARCHITRAVE *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedelarchitrave
+
 
 Monsieur, je suis une fabricatrice de niches humaines, un antidote contre les injures du temps, un répertoire de la commodité des saisons, un alambic des aises de la vie ; Architecte à votre service, commandant pour l'honneur de vos commandements, une escouade de Limousins.
 
@@ -1204,8 +1205,16 @@ Oh ; pour cela, précaution inutile, je vous garantis les parasites suffisammen
 
 Pour moi je vais donner ordre à tout, afin que les choses s'avancent.
 
+**** *creator_barante *book_barante_arlequinmisanthrope *style_prose *genre_comedy *dist1_barante_prose_comedy_arlequinmisanthrope *dist2_barante_prose_comedy *id_MEZZETIN *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mezzetin
+
+
+Comme les abeilles habiles
+Puisent des fleurs les sucs nouveaux ;
+Ainsi les coquettes subtiles
+Sucent la bourse des nigauds.
 
 **** *creator_barante *book_barante_arlequinmisanthrope *style_prose *genre_comedy *dist1_barante_prose_comedy_arlequinmisanthrope *dist2_barante_prose_comedy *id_LACOMTESSE *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+
 
 Oh ça, Monsieur, en deux mots comme en mille, qu'il se mette à la raison, ou je le quitte.
 
@@ -1233,8 +1242,8 @@ Oh point, on a tous les torts du monde de dire que je suis médisante, je suis l
 
 Enfin, monsieur, pour trancher court, je suis venue vous prier d'écrire à mon mari, que s'il ne me retire au plutôt d'ici, je m'en retirerai moi-même ; qu'il prenne ses mesures là-dessus. Allons Chevalier, allons.
 
-
 **** *creator_barante *book_barante_arlequinmisanthrope *style_prose *genre_comedy *dist1_barante_prose_comedy_arlequinmisanthrope *dist2_barante_prose_comedy *id_LECHEVALIER *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
 
 Quoi, Monsieur, vous ne comprenez pas que Madame a toutes les raisons du monde de se plaindre de Monsieur son Époux, qui la maintient dans une terre d'où il ne veut pas qu'elle parte sans son ordre ?
 
@@ -1252,8 +1261,8 @@ Il est vrai. Mais nous avons des promenades qui ne valent guère moins.
 
 Madame dit cela d'un air malicieux qui enchante.
 
-
 **** *creator_barante *book_barante_arlequinmisanthrope *style_prose *genre_comedy *dist1_barante_prose_comedy_arlequinmisanthrope *dist2_barante_prose_comedy *id_MONSIEURDECOLAFON *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdecolafon
+
 
 Serviteur très humble, Monsieur.
 
@@ -1277,8 +1286,8 @@ Bon ! Je suis le premier homme du monde, pour escrimer. C'est moi qui ai eu l'h
 
 Vous allez voir ce que je sais faire. Allons, faites assaut contre moi.
 
-
 **** *creator_barante *book_barante_arlequinmisanthrope *style_prose *genre_comedy *dist1_barante_prose_comedy_arlequinmisanthrope *dist2_barante_prose_comedy *id_JAQUET *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jaquet
+
 
 Monsieur, je venons vous prier de nous donner un petit brin d'avis, en payant, s'entend, comme de raison.
 
@@ -1292,8 +1301,8 @@ Quoi ; tout notre bien en un guenillon ?
 
 Puisque vous le trouvez bon, qu'alle fricasse comme alle l'entendra, j'aurai le plaisir de voir ma femme brave. Adieu, Monsieur, et grand merci.
 
-
 **** *creator_barante *book_barante_arlequinmisanthrope *style_prose *genre_comedy *dist1_barante_prose_comedy_arlequinmisanthrope *dist2_barante_prose_comedy *id_MACINE *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_macine
+
 
 Oui, Monsieur, je voulons faire les choses de bonne grâce, et s'y n'y a pas assez des quinze sols, j'irons jusqu'à la pièce neuve.
 
@@ -1313,8 +1322,8 @@ Mettrai-je de l'or sur cet habit, Monsieur ?
 
 Pour les Cornettes, je les prendrai de papier ? Ça ne dure guères, mais ça reluit beaucoup. Votre servante.
 
-
 **** *creator_barante *book_barante_arlequinmisanthrope *style_prose *genre_comedy *dist1_barante_prose_comedy_arlequinmisanthrope *dist2_barante_prose_comedy *id_MONSIEURDEGERESOL *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdegeresol
+
 
 Je ne sais, Monsieur, si vous nous connaissez.
 
@@ -1350,8 +1359,8 @@ Qu'ils chantent par bécarre les airs de bémol.
 
 Que les femmes y aient des maris jaloux, et soupirent inutilement après un Maître à Chanter, pour rendre leurs Billets.
 
-
 **** *creator_barante *book_barante_arlequinmisanthrope *style_prose *genre_comedy *dist1_barante_prose_comedy_arlequinmisanthrope *dist2_barante_prose_comedy *id_MONSIEURDELACABRIOLE *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdelacabriole
+
 
 Nous n'avons pas voulu manquer cette occasion de vous faire la révérence.
 
@@ -1386,4 +1395,3 @@ Pour votre petite Bicoque, tout y sera de travers, et puisque vous en excluez le
 Que quand ils voudront danser la Courante, ils dansent le Rigodon.
 
 En un mot, qu'ils soient impolis, malfaits, et sans goût, comme des gens qui méprisent la danse et la Musique.
-

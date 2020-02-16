@@ -2,6 +2,7 @@
 
 **** *creator_lacalprenede *book_lacalprenede_enfantsdherode *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_enfantsdherode *dist2_lacalprenede_verse_tragedy *id_HERODE *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_herode
 
+
 Conseillers inhumains qui bourrelez ma vie
 Qu'on me laisse en repos, allez monstre d'envie,
 Et ne revenez plus enchanter ma raison
@@ -512,8 +513,8 @@ Du sang de mes enfants, femme frères amis,
 Je finisse une longue, et détestable vie
 Au milieu des remords, dont elle est poursuivie.
 
-
 **** *creator_lacalprenede *book_lacalprenede_enfantsdherode *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_enfantsdherode *dist2_lacalprenede_verse_tragedy *id_ALEXANDRE *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alexandre
+
 
       Cesse, cesse mon âme,
 Je n'ai jamais douté de ta pudique flamme
@@ -987,8 +988,8 @@ Ne perdons point le temps en discours superflus
 Allons mon frère, allons, et ne résistons plus.
 Où devons-nous passer.
 
-
 **** *creator_lacalprenede *book_lacalprenede_enfantsdherode *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_enfantsdherode *dist2_lacalprenede_verse_tragedy *id_ARISTOBULE *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aristobule
+
 
 Certes il est des coeurs que le ressentiment
 Eut sans doute portés à quelque changement,
@@ -1151,8 +1152,17 @@ Non ne m'approchez point.
 
 Allons saouler ce monstre, et rejoindre la Reine.
 
+**** *creator_lacalprenede *book_lacalprenede_enfantsdherode *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_enfantsdherode *dist2_lacalprenede_verse_tragedy *id_PHERORE *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pherore
+
+
+      Ah Seigneur.
+
+      J'ai parlé sans dessein,
+Le Prince l'a mal pris, oui croyez je vous prie
+Que j'ai fait ce discours comme une raillerie.
 
 **** *creator_lacalprenede *book_lacalprenede_enfantsdherode *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_enfantsdherode *dist2_lacalprenede_verse_tragedy *id_ANTIPATRE *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antipatre
+
 
 Fais parler ce jeune homme aigrisse davantage
 Et par ta flatterie irrite son courage,
@@ -1246,8 +1256,8 @@ Et si de vos desseins, il n'est pas averti,
 Sans doute ils seront morts avant que la Princesse
 Apporte leur salut.
 
-
 **** *creator_lacalprenede *book_lacalprenede_enfantsdherode *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_enfantsdherode *dist2_lacalprenede_verse_tragedy *id_GLAPHIRA *date_1638 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_glaphira
+
 
 De grâce, guérissez de cette frénésie
 Bannissez ces soupçons de votre fantaisie,
@@ -1598,8 +1608,8 @@ Mais avant mon départ beau portrait effacé
 De ce que j'aimais tant souffre que je te touche
 Et rendre en expirant mon esprit sur ta bouche.
 
-
 **** *creator_lacalprenede *book_lacalprenede_enfantsdherode *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_enfantsdherode *dist2_lacalprenede_verse_tragedy *id_SALOME *date_1638 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_salome
+
 
 Vous le devez louer du soin qu'il a de vous
 Sa bonté vous protège, et nous conserve tous,
@@ -1711,8 +1721,19 @@ Et vous ferez fort bien d'éloigner de vos yeux
 Celle à qui vous serez un objet odieux,
 Et qui ne vous peut voir.
 
+**** *creator_lacalprenede *book_lacalprenede_enfantsdherode *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_enfantsdherode *dist2_lacalprenede_verse_tragedy *id_RACHEL *date_1638 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rachel
+
+
+      La Princesse se pâme.
+Ah Madame.
+
+Vous qui connaissez bien la rage qui l'emporte
+Apaisez juste Ciel une douleur si forte,
+Et ne permettez point que son coeur abattu
+Perde dans ce malheur sa première vertu.
 
 **** *creator_lacalprenede *book_lacalprenede_enfantsdherode *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_enfantsdherode *dist2_lacalprenede_verse_tragedy *id_DIOPHANTE *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_diophante
+
 
 Il suffit que sa main est si bien contrefaite
 Qu'Alexandre lui-même à peine y connaîtrait
@@ -1752,8 +1773,8 @@ Et c'est bien malgré nous que nous sommes forcés,
 
       Dans la chambre prochaine.
 
-
 **** *creator_lacalprenede *book_lacalprenede_enfantsdherode *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_enfantsdherode *dist2_lacalprenede_verse_tragedy *id_MELAS *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_melas
+
 
 Ah Seigneur, croyez-vous à ces rapports funestes
 De ces méchants esprits qui par leur trahison
@@ -1848,4 +1869,3 @@ De se voir opprimés par d'autres que par vous.
 Ah Seigneur accordez leur grâce à cette vue
 Vous reconnaissez trop comme ils sont innocents,
 Différez pour le moins.
-

@@ -2,6 +2,7 @@
 
 **** *creator_legrand *book_legrand_familleextravagante *style_verse *genre_comedy *dist1_legrand_verse_comedy_familleextravagante *dist2_legrand_verse_comedy *id_PIETREMISE *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pietremise
 
+
 Ma mère, finissez vos proverbes des halles,
 Sentences du vieux temps, fades et triviales ;
 On n'entend que cela dans toute la maison,
@@ -180,8 +181,8 @@ J'aurais droit de plaider pourtant : lorsqu'on a robe...
 
 Quoi ! Ma robe servait à couvrir un fripon ?
 
-
 **** *creator_legrand *book_legrand_familleextravagante *style_verse *genre_comedy *dist1_legrand_verse_comedy_familleextravagante *dist2_legrand_verse_comedy *id_CLEON *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleon
+
 
       Saint-Germain, quel malheur !
 Je viens de rencontrer la soeur du procureur.
@@ -330,8 +331,8 @@ Je ne veux qu'elle seule, elle fait mon bonheur.
 Mesdames, contre moi n'ayez point de colère ;
 Pour obtenir Élise il était nécessaire...
 
-
 **** *creator_legrand *book_legrand_familleextravagante *style_verse *genre_comedy *dist1_legrand_verse_comedy_familleextravagante *dist2_legrand_verse_comedy *id_BAZOCHE *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bazoche
+
 
 Serviteur. Laisse-nous, Lisette.
 
@@ -420,8 +421,8 @@ Mais mon amour n'entend plus de raison.
 Et si jamais je la trouve seulette.
 L'occasion fait le larron.
 
-
 **** *creator_legrand *book_legrand_familleextravagante *style_verse *genre_comedy *dist1_legrand_verse_comedy_familleextravagante *dist2_legrand_verse_comedy *id_SAINTGERMAIN *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_saintgermain
+
 
       Piétremine
 Vient de sortir ; j'étais caché dans la cuisine,
@@ -686,8 +687,8 @@ D'un juge équitable et savant,
 On peut dire communément,
 Il juge comme le parterre.
 
-
 **** *creator_legrand *book_legrand_familleextravagante *style_verse *genre_comedy *dist1_legrand_verse_comedy_familleextravagante *dist2_legrand_verse_comedy *id_MADAMERISSOLE *date_1709 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamerissole
+
 
 Soit, vous n'entendrez plus proverbes ni chansons,
 Mais revenons un peu, de grâce, à nos moutons.
@@ -885,8 +886,8 @@ J'avais juré de l'être après sa mort ;
 Mais il n'est point de femme tourterelle,
 Les absents ont toujours tort:
 
-
 **** *creator_legrand *book_legrand_familleextravagante *style_verse *genre_comedy *dist1_legrand_verse_comedy_familleextravagante *dist2_legrand_verse_comedy *id_LUCRECE *date_1709 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucrece
+
 
 Entendez-nous.
 
@@ -945,8 +946,8 @@ Par un ingrat qu'une autre a su charmer :
 À mes dépens, j'ai de l'expérience ;
 Il faut connaître avant qu'aimer.
 
-
 **** *creator_legrand *book_legrand_familleextravagante *style_verse *genre_comedy *dist1_legrand_verse_comedy_familleextravagante *dist2_legrand_verse_comedy *id_SUZON *date_1709 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_suzon
+
 
 Mais, mon père...
 
@@ -1038,8 +1039,8 @@ Je veux de toi,
 Voilà ma foi.
 Qui refuse, muse.
 
-
 **** *creator_legrand *book_legrand_familleextravagante *style_verse *genre_comedy *dist1_legrand_verse_comedy_familleextravagante *dist2_legrand_verse_comedy *id_ELISE *date_1709 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elise
+
 
       Ah ! Cléon !
 
@@ -1073,8 +1074,8 @@ Signé notre contrat.
 
 Mesdames, contre moi n'ayez point de courroux.
 
-
 **** *creator_legrand *book_legrand_familleextravagante *style_verse *genre_comedy *dist1_legrand_verse_comedy_familleextravagante *dist2_legrand_verse_comedy *id_LISETTE *date_1709 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
 Me voici seule enfin, parlons un peu raison.
 Cléon et son valet sont dans cette maison
@@ -1279,4 +1280,3 @@ J'ai bien conduit cette manoeuvre :
 Messieurs, si vous êtes contents,
 Applaudissez, voici le temps.
 Toujours la fin couronne l'oeuvre.
-

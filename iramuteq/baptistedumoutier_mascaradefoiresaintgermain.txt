@@ -1,1 +1,69 @@
 
+
+**** *creator_baptistedumoutier *book_baptistedumoutier_mascaradefoiresaintgermain *style_verse *genre_mascarade *dist1_baptistedumoutier_verse_mascarade_mascaradefoiresaintgermain *dist2_baptistedumoutier_verse_mascarade *id_UNBALAYEUR *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_unbalayeur
+
+
+
+
+Ô malheur du temps où nous sommes,
+Je suis le plus adroit des hommes,
+Et suis réduit à balayer :
+Mais si vous voulez m'employer
+Au charmant métier de vous plaire,
+Vous verrez ce que je sais faire.
+Si je n'en sors à mon honneur,
+Ne vous fiez jamais au balayeur.
+
+Un valet est de bon usage
+À qui veut être proprement,
+Je ne sache point d'instrument
+Qui nettoie mieux un ménage ;
+Si vous voulez avoir le vôtre toujours net,
+Belles, prenez le mien pour votre cabinet.
+
+**** *creator_baptistedumoutier *book_baptistedumoutier_mascaradefoiresaintgermain *style_verse *genre_mascarade *dist1_baptistedumoutier_verse_mascarade_mascaradefoiresaintgermain *dist2_baptistedumoutier_verse_mascarade *id_TROISRAMONEURS *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_troisramoneurs
+
+
+Bourges, cette ville frontière,
+Que le Prince aime comme choux.
+À des orfèvres tels que nous,
+Qui chôment, faute de matière.
+Belles Dames, qui nous voyez
+Bien adroits et mal employés.
+Fournissez, s'il vous plaît, de fournaise et l'enclume,
+Mais surtout de riches métaux ;
+Et nous vous fournirons, selon notre coutume,
+Notre travail et nos marteaux.
+
+Beautés, qui triomphez et mettez tout à bas,
+Laissez-nous ramoner toujours de haut en bas.
+
+**** *creator_baptistedumoutier *book_baptistedumoutier_mascaradefoiresaintgermain *style_verse *genre_mascarade *dist1_baptistedumoutier_verse_mascarade_mascaradefoiresaintgermain *dist2_baptistedumoutier_verse_mascarade *id_QUATREPAGES *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_quatrepages
+
+
+Belles, dont le doux visage
+Cache une extrême rigueur,
+Qui gagnerait votre coeur,
+Ferait un bon tour de page.
+
+**** *creator_baptistedumoutier *book_baptistedumoutier_mascaradefoiresaintgermain *style_verse *genre_mascarade *dist1_baptistedumoutier_verse_mascarade_mascaradefoiresaintgermain *dist2_baptistedumoutier_verse_mascarade *id_DEUXMAURES *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_deuxmaures
+
+
+Beautés pleines d'appas,
+Qui brûlez qui vous adore !
+Au nom de Dieu n'allez pas
+Nous traiter de Turc à Maure.
+
+**** *creator_baptistedumoutier *book_baptistedumoutier_mascaradefoiresaintgermain *style_verse *genre_mascarade *dist1_baptistedumoutier_verse_mascarade_mascaradefoiresaintgermain *dist2_baptistedumoutier_verse_mascarade *id_DEUXFILOUS *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_deuxfilous
+
+
+Objets si charmants et si doux,
+Et vous, braves et galants hommes
+Qui nous prenez pour des filous,
+Savez-vous quels filous nous sommes ?
+Nous n'attrapons pas seulement
+L'argent des simples et des dupes,
+Mais nous faisons également
+Trembler les manteaux et les jupes ;
+Prenez garde au sortir d'ici
+Que la chose n'arrive aussi.

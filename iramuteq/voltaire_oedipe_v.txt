@@ -2,6 +2,7 @@
 
 **** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *id_OEDIPE *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oedipe
 
+
 Peuple qui, dans ce temple apportant vos douleurs,
 Présentez à nos dieux des offrandes de pleurs,
 Que ne puis-je, sur moi détournant leurs vengeances,
@@ -598,8 +599,8 @@ Qui nous rend l'un à l'autre un objet exécrable.
       C'en est fait ; nos destins sont remplis.
 Laïus était mon père, et je suis votre fils.
 
-
 **** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *id_JOCASTE *date_1718 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jocaste
+
 
 Seigneur, quand le destin, me réservant à vous,
 Par un coup imprévu m'enleva mon époux,
@@ -1048,8 +1049,8 @@ Honorez mon bûcher, et songez à jamais
 Qu'au milieu des horreurs du destin qui m'opprime,
 J'ai fait rougir les dieux qui m'ont forcée au crime.
 
-
 **** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *id_PHILOCTETE *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philoctete
+
 
       Ce séjour convient aux malheureux :
 Va, laisse-moi le soin de mes destins affreux,
@@ -1294,8 +1295,61 @@ Croit honorer les dieux en trahissant ses rois ;
 Surtout quand l'intérêt, père de la licence,
 Vient de leur zèle impie enhardir l'insolence.
 
+**** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *id_ARASPE *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_araspe
+
+
+Oui, ce peuple expirant, dont je suis l'interprète,
+D'une commune voix accuse Philoctète,
+Madame ; et les destins, dans ce triste séjour,
+Pour nous sauver, sans doute, ont permis son retour.
+
+      Oui, Madame, lui-même.
+A quel autre, en effet, pourraient-ils imputer
+Un meurtre qu'à nos yeux il sembla méditer ?
+Il haïssait Laïus, on le sait ; et sa haine
+Aux yeux de votre époux ne se cachait qu'à peine :
+La jeunesse imprudente aisément se trahit ;
+Son front mal déguisé découvrait son dépit :
+J'ignore quel sujet animait sa colère ;
+Mais au seul nom du roi, trop prompt et trop sincère,
+Esclave d'un courroux qu'il ne pouvait dompter,
+Jusques à la menace il osa s'emporter :
+Il partit ; et, depuis ; sa destinée errante
+Ramena sur nos bords sa fortune flottante.
+Même il était dans Thèbe en ces temps malheureux
+Que le ciel a marqués d'un parricide affreux
+Depuis ce jour fatal, avec quelque apparence
+De nos peuples sur lui tomba la défiance.
+Que dis-je ? assez longtemps les soupçons des Thébains
+Entre Phorbas et lui flottèrent incertains.
+Cependant ce grand nom qu'il s'acquit dans la guerre,
+Ce titre si fameux de vengeur de la terre,
+Ce respect qu'aux héros nous portons malgré nous,
+Fit taire nos soupçons, et suspendit nos coups.
+Mais les temps sont changés : Thèbe, en ce jour funeste,
+D'un respect dangereux dépouillera le reste ;
+En vain sa gloire parle à ces coeurs agités ;
+Les dieux veulent du sang, et sont seuls écoutés.
+
+Tandis que par vos soins vous pouvez tout apprendre,
+Quel besoin que le ciel ici se fasse entendre ?
+Ces dieux dont le pontife a promis le secours,
+Dans leurs temples, Seigneur, n'habitent pas toujours.
+On ne voit point leur bras si prodigue en miracles :
+Ces antres, ces trépieds, qui rendent leurs oracles,
+Ces organes d'airain que nos mains ont formés,
+Toujours d'un souffle pur ne sont pas animés.
+Ne nous endormons point sur la foi de leurs prêtres ;
+Au pied du sanctuaire il est souvent des traîtres,
+Qui, nous asservissant sous un pouvoir sacré,
+Font parler les destins, les font taire à leur gré.
+Voyez, examinez avec un soin extrême
+Philoctète, Phorbas, et Jocaste elle-même.
+Ne nous fions qu'à nous ; voyons tout par nos yeux :
+Ce sont là nos trépieds, nos oracles, nos dieux.
 
 **** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *id_EGINE *date_1718 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_egine
+
 
       Ma surprise est extrême !...
 
@@ -1354,8 +1408,8 @@ Mais voulez-vous qu'il parte ?
 
 Hélas !
 
-
 **** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *id_DIMAS *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dimas
+
 
 Philoctète, est-ce vous ? quel coup affreux du sort
 Dans ces lieux empestés vous fait chercher la mort ?
@@ -1460,8 +1514,8 @@ Vient des dieux irrités conjurer les rigueurs.
 Seigneur, en ce moment un étranger arrive
 Il se dit de Corinthe, et demande à vous voir.
 
+**** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *id_PHORBAS *date_1718 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_phorbas
 
-**** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *id_PHORBAS *date_1718 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_phorbas
 
 Eh bien ! est-ce aujourd'hui qu'il faut que je périsse ?
 Grande reine, avez-vous ordonné mon supplice ?
@@ -1518,8 +1572,8 @@ D'un sang plus glorieux et plus infortuné.
 
 Qu'avons-nous fait tous deux ?
 
+**** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *id_ICARE *date_1718 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_icare
 
-**** *creator_voltaire *book_voltaire_oedipe_v *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_oedipe_v *dist2_voltaire_verse_tragedy *id_ICARE *date_1718 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_icare
 
 Seigneur, Polybe est mort.
 
@@ -1603,4 +1657,3 @@ Vos destins sont connus, et voilà votre père...
 Et voilà donc le fruit de mes généreux soins ?
 
 Seigneur...
-

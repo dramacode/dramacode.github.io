@@ -1,6 +1,7 @@
 
 
-**** *creator_euripide *book_euripide_heraclides *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_heraclides *dist2_euripide_prose_tragedy *id_IOLAS *date_1880 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_iolas
+**** *creator_euripide *book_euripide_heraclides *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_heraclides *dist2_euripide_prose_tragedy *id_IOLAS *date_1880 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_iolas
+
 
 Je suis convaincu depuis longtemps de cette vérité, que l'homme juste est dévoué à ses semblables, tandis que celui dont le coeur est possédé de l'amour du gain, inutile à l'État et d'un commerce désagréable, n'est bon que pour lui seul. Or, ce n'est pas pour l'avoir entendu dire que je le sais. Quand je pouvais vivre tranquille à Argos, fidèle à l'honneur et aux liens de la parenté, je me suis associé, seul, aux nombreux travaux d'Hercule, alors qu'il était au milieu de nous ; maintenant qu'il habite au ciel, j'abrite ses enfants sous mon aile et je veille à leur salut, quoique j'aie besoin moi-même de protection. Lorsque leur père eût quitté la terre, Eurysthée commença par vouloir nous tuer ; mais nous échappâmes à ses coups ; et, si notre patrie disparut, notre vie fut sauve. Nous promenons en tous lieux notre exil et passons d'une contrée dans une autre. Car à tous les maux qui nous accablent, Eurysthée a jugé bon d'ajouter un nouvel outrage : en quelque lieu de la Grèce qu'il nous sache arrêtés, il envoie des hérauts qui nous réclament, et il nous chasse du pays, mettant en avant la ville d'Argos, puissante par son amitié comme par sa haine, et l'éclat de sa propre fortune. Quand on voit ma faiblesse et l'âge tendre de ces orphelins, on s'incline devant le plus fort, et l'on nous chasse du pays. Pour moi, j'accompagne ces enfants dans leur fuite, et je partage leur infortune ; je rougirais de les abandonner et que l'on pût dire : « Voyez, depuis que ces enfants n'ont plus leur père, Iolas a cessé de les défendre, quoiqu'il soit leur parent. » Repoussés de toute la Grèce, nous sommes venus à Marathon et dans le pays qui en dépend nous asseoir en suppliants devant les autels des Dieux pour implorer leur appui. Car on dit que les fils de Thésée, issus de Pandion, habitent cette contrée qui leur est échue par le sort, ce sont les proches des enfants d'Hercule : voilà pourquoi nous avons dirigé nos pas vers le territoire de l'illustre Athènes. Deux vieillards guident cette troupe d'exilés : moi, je m'occupe de ces pauvres enfants ; Alcmène est dans l'intérieur de ce temple avec les filles qu'abrite sa tendresse : car il nous semble malséant que de jeunes vierges assiègent les autels, mêlées à la foule. Hyllus et ses frères plus avancés en âge cherchent en quel lieu nous trouverons un refuge, si nous sommes chassés de ce pays par la force. Ô mes enfants, mes enfants ! Venez près de moi et attachez-vous à mes vêtements. Je vois s'avancer vers nous le héraut d'Eurysthée, celui qui nous poursuit et nous chasse, pauvres vagabonds, de tout pays. Homme odieux, puisses-tu périr et celui qui t'envoie ! C'est toi qui, de cette même bouche, as dénoncé tant d'ordres cruels à leur généreux père.
 
@@ -114,8 +115,8 @@ Tu me verras frapper l'ennemi dans la mêlée.
 
 Hélas ! Que ne peux-tu me seconder, ô mon bras, et déployer cette vigueur que tu possédais, je m'en souviens, lorsque tu dévastais Sparte avec Hercule ! Tu mettrais en fuite Eurysthée : car il est trop lâche pour soutenir le choc des lances. On a le tort de mesurer la bravoure sur la puissance et de croire que l'homme heureux sait tout à fond.
 
-
 **** *creator_euripide *book_euripide_heraclides *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_heraclides *dist2_euripide_prose_tragedy *id_COPREE *date_1880 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_copree
+
 
 Tu te crois sans doute assis en sûreté dans ce lieu, et tu comptes sur l'assistance de cette ville : erreur ! Car il n'est personne capable de préférer ton débile appui à la puissance d'Eurysthée. Va-t'en : pourquoi te donner une peine inutile ? Il faut te lever et prendre le chemin d'Argos, où l'on t'attend pour te lapider.
 
@@ -157,8 +158,8 @@ Je le saurai bientôt pour en avoir fait l'expérience.
 
 Je pars ; car, à combattre seul, on est sans force. Mais je reviendrai ici, amenant avec moi une armée nombreuse d'Argiens tout couverts d'airain : dix mille guerriers m'attendent, commandés par le roi Eurysthée en personne ; il reste sur l'extrême frontière d'Alcathos, attendant l'issue de ma démarche. Quand il apprendra ton insolence, il apparaîtra terrible à toi-même, à tes citoyens, à cette terre et à ses productions. C'est en vain que nous posséderions à Argos une jeunesse aussi nombreuse, si nous te laissions impuni.
 
+**** *creator_euripide *book_euripide_heraclides *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_heraclides *dist2_euripide_prose_tragedy *id_LECHOEUR *date_1880 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_lechoeur
 
-**** *creator_euripide *book_euripide_heraclides *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_heraclides *dist2_euripide_prose_tragedy *id_LECHOEUR *date_1880 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_lechoeur
 
 Hé ! Hé ! Quel cri a retenti près de l'autel ? Quel malheur va-t-il nous révéler ?
 
@@ -226,8 +227,8 @@ Rien de mieux ; comment donc la chose est-elle possible ?
 
 J'approuve ce langage. Allez, serviteurs. Car, pour ce qui nous concerne, nos rois n'auront pas de meurtre à expier.
 
-
 **** *creator_euripide *book_euripide_heraclides *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_heraclides *dist2_euripide_prose_tragedy *id_DEMOPHON *date_1880 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_demophon
+
 
 Puisque, tout vieux que tu es, tu nous as devancés à la course, nous autres jeunes gens, jusqu'à cet autel de Jupiter, dis-nous quel événement rassemble cette foule.
 
@@ -265,8 +266,8 @@ L'armée argienne s'avance avec son roi Eurysthée : c'est moi-même qui l'ai vu
 
 Ce que tu dis part d'un noble coeur, mais est impossible. Ce n'est pas parce que tu lui fais faute qu'Eurysthée conduit son armée contre nous : quel avantage reviendrait à ce prince de ta mort ? C'est la postérité d'Hercule qu'il veut anéantir ; un ennemi ne voit pas sans terreur grandir des fils généreux, pleins du souvenir des injures faites à leur père : voilà à quoi Eurysthée doit pourvoir. Si tu connais une autre voie de jsalut plus praticable, mets-toi à l'oeuvre : car je ne sais que faire, et les oracles que j'ai entendus m'ont rempli d'effroi.
 
+**** *creator_euripide *book_euripide_heraclides *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_heraclides *dist2_euripide_prose_tragedy *id_MACARIE *date_1880 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_macarie
 
-**** *creator_euripide *book_euripide_heraclides *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_heraclides *dist2_euripide_prose_tragedy *id_MACARIE *date_1880 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_macarie
 
 Étrangers, si je suis sortie de ce temple, ne me reprochez pas ma hardiesse ; c'est la première grâce que je vous demanderai : le silence et la modestie sont les plus beaux ornements d'une femme, et son rôle est de se tenir tranquille dans l'intérieur de la maison. Mais j'ai entendu tes lamentations, Iolas, et je suis sortie, sans avoir reçu aucune mission de ma famille ; toutefois, j'y suis autorisée par le tendre intérêt que je porte à mes frères ; et, dans mon propre intérêt, je désire savoir si quelque infortune nouvelle est venue s'ajouter à nos anciens maux et déchirer ton coeur.
 
@@ -282,8 +283,8 @@ Obtiens du moins de cet étranger que j'exhale ma vie loin du regard des hommes,
 
 Adieu, vieillard, adieu ! Charge-toi d'élever ces enfants, de les rendre en tout sages comme toi-même, rien de plus ; c'est assez pour eux. Tâche de les conserver, et pour cela ne te hâte point de mourir : nous sommes tes enfants ; c'est de tes mains que nous fûmes nourris. Moi-même, tu le vois, dans la saison de L'hymen, je leur donne ma vie, je meurs pour eux. Et vous, mes frères, qui vous pressez autour de moi, soyez heureux, et puissiez-vous jouir de tous les biens que mon trépas doit vous assurer par avance. Ce vieillard, cette femme chargée d'années, réfugiée dans ce temple, Alcmène, la mère de mon père, honorez-la ; honorez ces étrangers. Quand vous serez, grâce aux dieux, sortis de vos épreuves et rentrés dans votre patrie, n'oubliez pas de donner à celle qui vous aura sauvés la sépulture, une sépulture magnifique : cela est juste, car je ne vous ai point failli, je meurs pour les miens. Ce tombeau me tiendra lieu d'enfants et d'hyménée, s'il reste sous la terre quelque sentiment. Ah ! Plutôt qu'il n'en reste aucun ! Car si les mortels, une fois morts, doivent encore souffrir là-bas, où chercher alors un refuge ? La mort passe, en effet, pour être le souverain remède à tous les maux.
 
-
 **** *creator_euripide *book_euripide_heraclides *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_heraclides *dist2_euripide_prose_tragedy *id_ALCMENE *date_1880 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcmene
+
 
 Pourquoi remplir tout ce temple de tes cris, Iolas ? Est-il encore venu d'Argos un héraut qui te fait violence ? Mes forces sont usées par l'âge ; mais sache bien, étranger, que, moi vivante, tu n'emmèneras point ces enfants, ou je consens qu'on ne m'appelle plus la mère d'Hercule. Si tu les touches seulement de la main, il te faudra lutter, et la gloire sera mince, avec deux vieillards.
 
@@ -337,3 +338,9 @@ Je te l'apprendrai facilement : je tuerai mon ennemi, puis je donnerai son cadav
 
 Pourquoi balancer, après cette déclaration, a le sacrifier, puisqu'il doit assurer le salut de cette ville et de vos descendants ? Il vous montre la voie la plus sûre : vivant, il est votre énnemi ; mort, votre protecteur. Emmenez-le, esclaves, et, après l'avoir tué, livrez son cadavre aux chiens. Car n'espère plus m'échapper et me proscrire encore de ma terre natale.
 
+**** *creator_euripide *book_euripide_heraclides *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_heraclides *dist2_euripide_prose_tragedy *id_EURYSTHEE *date_1880 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eurysthee
+
+
+Sache bien, femme, que je ne te flatterai pas, et que je ne dirai rien pour sauver mes jours qui puisse me faire accuser de lâcheté. C'est malgré moi que je vous ai persécutés : je savais bien que j'étais ton cousin et uni par le sang à ton fils Hercule ; mais que je le voulusse ou non, Junon (car c'est une déesse qu'il faut accuser) m'a soufflé ces sentiments haineux. Dès que je devins l'ennemi d'Hercule et que je sus quelle lutte j'avais à soutenir, j'inventai mainte épreuve pénible, et je passais les nuits rêver aux moyens de repousser et d'anéantir mes ennemis pour vivre désormais à l'abri de la crainte, sachant bien que ton fils n'était pas un être vulgaire, mais vraiment un homme : car, quoiqu'il ait été mon ennemi, je lui rendrai hommage parce que ce fut un héros. Débarrassé de lui, ne devais-je pas, me sachant haï de ces enfants, héritiers de la haine paternelle, tout machiner, tout mettre en oeuvre pour les tuer et les proscrire ? Ma sûreté était à ce prix. Toi-même, à ma place, n'aurais-tu pas poursuivi sans pitié ces nourrissons odieux d'un lion terrible, ou, plus modérée, les aurais-tu laissés habiter Argos ? C'est ce que tu ne feras croire à personne. Aujourd'hui qu'ils ne m'ont pas tué malgré mon ardeur guerrière, ma mort, d'après les lois de la Grèce, sera une souillure pour celui qui m'aura tué, et Athènes a fait sagement en me laissant aller ; elle respecte plus les Dieux que votre haine. À ce que tu as dit, voilà ma réponse : il me reste à invoquer le dieu protecteur des suppliants et des braves. Toutefois, pour que tu saches où j'en suis, je ne désire pas mourir, mais je quitterai la vie sans regret.
+
+Tue-moi, je ne te demande pas la vie ; mais cette ville qui m'a épargné et a refusé de me faire périr, je la récompenserai par un vieil oracle d'Apollon, à qui lui servira un jour plus qu'on ne pense. Vous enterrerez mon corps au lieu fixé par le destin, à l'entrée du temple de la vierge Pallas. Sous cette terre où je reposerai quoique étranger, je serai pour vous et pour cette ville un ami, un sauveur ; je serai pour les descendants des Héraclides un ennemi implacable, lorsque, oubliant votre bienfait, ils viendront ici avec une armée nombreuse : voilà les hôtes que vous avez couverts de votre protection. Comment se fait-il que, sachant cela, je sois venu ici, et n'aie point redouté l'oracle du Dieu ? Je croyais que Junon, plus puissante que des oracles, ne m'abandonnerait pas. Mais gardez-vous de m'offrir des libations et de verser du sang sur mon tombeau ; en récompense,je donnerai à vos ennemis un funeste retour. Ma mort vous sera donc doublement profitable ; j'assure en périssant votre salut et leur ruine.

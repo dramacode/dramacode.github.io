@@ -2,6 +2,7 @@
 
 **** *creator_voisenon *book_voisenon_hilasetzelis *style_verse *genre_pastorale *dist1_voisenon_verse_pastorale_hilasetzelis *dist2_voisenon_verse_pastorale *id_LAMOUR *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
 
+
 Hilas peut-il inspirer de l'amour ?
 Dès le moment de sa naissance
 Ses yeux furent fermés à la clarté du jour ;
@@ -48,8 +49,8 @@ Chantez, célébrez ma victoire ;
 Goûtez tous leurs plaisirs :
 Aimez ; c'est en aimant qu'on célèbre ma gloire.
 
-
 **** *creator_voisenon *book_voisenon_hilasetzelis *style_verse *genre_pastorale *dist1_voisenon_verse_pastorale_hilasetzelis *dist2_voisenon_verse_pastorale *id_ZELIS *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zelis
+
 
 Vous, qui soumettez les Dieux et les Mortels,
 Dieu du bonheur, âme de la nature,
@@ -132,8 +133,8 @@ Je fais gloire.
 De ta victoire :
 Toi seul remplis mes vœux.
 
-
 **** *creator_voisenon *book_voisenon_hilasetzelis *style_verse *genre_pastorale *dist1_voisenon_verse_pastorale_hilasetzelis *dist2_voisenon_verse_pastorale *id_HILAS *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hilas
+
 
 Pour rendre ma tendresse extrême
 Ai-je besoin d'admirer vos appas ?
@@ -174,4 +175,3 @@ Soleil, voici l'instant où je te rends hommage !
 C'est elle ! C'est Zélis ! Quel transport ! Quel moment !
 Ah, quel bonheur pour un amant
 Quand le coeur et les yeux confondent leur hommage.
-

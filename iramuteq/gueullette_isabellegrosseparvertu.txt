@@ -2,6 +2,7 @@
 
 **** *creator_gueullette *book_gueullette_isabellegrosseparvertu *style_prose *genre_farce *dist1_gueullette_prose_farce_isabellegrosseparvertu *dist2_gueullette_prose_farce *id_ISABELLE *date_1738 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
 
+
 Certainement, mon cher Gilles, tu es tout mon espoir.
 
 Mais que veux-tu donc que je devienne, vertueuse comme je suis, faut-il que je me voie entraînée dans une hyménée, où de toute nécessité mon époux sera cocu. Tu sais et tu n'ignores pas quelle haine j'ai pour le docteur, et quel amour j'ai pour Léandre.
@@ -51,8 +52,8 @@ Allez, ingrat, allez, je n'étais grosse que de vous voir.
 
 Tenez perfide, voilà toute ma réponse.
 
-
 **** *creator_gueullette *book_gueullette_isabellegrosseparvertu *style_prose *genre_farce *dist1_gueullette_prose_farce_isabellegrosseparvertu *dist2_gueullette_prose_farce *id_GILLES *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
+
 
 Ho ! Voilà qui est fort bien ; le diable vous emporte, Mam'selle, à force d'avoir imaginé des stratagèmes dans le pour et le contre de votre amour, le tournebroche de mon esprit est usé, les filles croient qu'on est toujours en état et avec elles, il faut toujours recommencer.
 
@@ -142,8 +143,8 @@ Il faut ce Mardi-Gras
 Employer la béquille
 Du père Barnabas.
 
-
 **** *creator_gueullette *book_gueullette_isabellegrosseparvertu *style_prose *genre_farce *dist1_gueullette_prose_farce_isabellegrosseparvertu *dist2_gueullette_prose_farce *id_LEANDRE *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+
 
 Non, parbleu, il ne sera pas dit que j'en serai le dindon, et je vois bien que je n'ai pas d'autre parti à prendre que de mettre l'épée à la main.
 
@@ -167,8 +168,8 @@ Que dites-vous ?
 
 Ah ! Que vois-je ! Quelle faveur ! Feinte trop spirituelle ! Terrine qui me rendez la vie en périssant ; tessons qui méritez d'être bordés d'or tout à l'entour, ne doutez point de l'estime et de la reconnaissance que j'aurai éternellement pour vous.
 
-
 **** *creator_gueullette *book_gueullette_isabellegrosseparvertu *style_prose *genre_farce *dist1_gueullette_prose_farce_isabellegrosseparvertu *dist2_gueullette_prose_farce *id_LEDOCTEUR *date_1738 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledocteur
+
 
 Volontiers...
 
@@ -201,4 +202,3 @@ J'ai...
 Volontiers.
 
 Cela est sensible.
-

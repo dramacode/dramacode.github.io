@@ -2,6 +2,7 @@
 
 **** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *id_ANDRIGENE *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_andrigene
 
+
       Rendez-moi celui qui de mon nom,
 N'a pas moins étendu le bruit que le renom.
 Rendez-moi ce grand coeur dont la seule vaillance,
@@ -358,8 +359,8 @@ S'ils ne sont assez forts pour me faire mourir.
 Allez sans relâcher de cette illustre haine,
 Pour détrôner Pamphage et remettre Andrigene.
 
-
 **** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *id_PHILARCHIE *date_1652 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philarchie
+
 
       Je ne vis que d'attente,
 Ou plutôt mon esprit pour s'être abandonné,
@@ -463,8 +464,8 @@ Il n'est pas trop aisé de s'en pouvoir défaire,
 Mais voila les écueils de votre autorité.
 Je vous laisse avec eux.
 
-
 **** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *id_THEMIDE *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_themide
+
 
 Que ce coup me surprend, qu'il me donne de peine ?
 Mon esprit divisé d'un double sentiment,
@@ -630,8 +631,8 @@ Par le juste succès de cette décadence,
 Rentre en un même temps dans son premier repos
 En suite du retour de trois de ses héros.
 
-
 **** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *id_PROTARQUE *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_protarque
+
 
 Je vois bien maintenant, et mon esprit comprend,
 Qu'on ne peut sans éclat faire tomber un Grand !
@@ -984,8 +985,8 @@ Pour abattre l'orgueil tôt ou tard s'intéresse,
 Et que Pamphage enfin à nos pieds abattu
 nous instruit, en servant de marche à la vertu.
 
-
 **** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *id_PHILIDEME *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philideme
+
 
       Nous fuyez-vous Madame.
 
@@ -1136,8 +1137,8 @@ Il voulut s'opposer par ce coup redoutable !
 Je penserais pour lors qu'il serait abattu
 Puis que le désespoir réglerait sa vertu.
 
-
 **** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *id_MYSTARQUE *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mystarque
+
 
 Madame, entrez donc mieux dedans nos sentiments ;
 Reconnaissez nos coeurs et tous leurs mouvements ;
@@ -1367,8 +1368,8 @@ Qu'il viendra l'élargir de sa captivité,
 Il nous accusera pour un coup de partie
 De nous être opposez longtemps à sa sortie.
 
-
 **** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *id_PAMPHAGE *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pamphage
+
 
 Trassidule il est vrai, tes bras ont raffermi
 Mon pouvoir ébranlé par ce grand ennemi !
@@ -1853,8 +1854,8 @@ Ne peut plus consentir à rendre Pantonice.
 
 Oui, mais souvenez-vous qu'il est dans Charlymin.
 
-
 **** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *id_MONOFTHALME *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monofthalme
+
 
 Si le peuple ne hait Pantonice et ses frères
 Que pour avoir servi de base à vos misères ;
@@ -1993,8 +1994,38 @@ Elle a su le trépas de la noble Herogene.
 Qu'il ne soit assez fort pour vous perdre d'honneur,
 En tout cas hasardés ; voilà Protarque arrive.
 
+**** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *id_TRASSIDULE *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trassidule
+
+
+Je crains plutôt, Seigneur, que Pantonice à bas
+Ne vous mette bientôt tous les siens sur les bras !
+Comme il n'a succombé que sur cette croyance,
+Qu'on n'oserait jamais attaquer sa puissance,
+Et qu'il était trop grand pour ployer sous les coups
+De quiconque en ferait l'objet de son courroux ;
+L'honneur de ce succès n'est du qu'au peu d'estime,
+Qu'il faisait du pouvoir dont il est la victime !
+C'est en vous dédaignant qu'il vous a fait vainqueur,
+Comme il vous eut vaincu s'il eut eu moins de coeur.
+Ainsi vous ne pouvez inscrire cette gloire,
+Qu'au mépris qu'il a fait de gagner la Victoire ;
+Et l'éclat en revient moins à votre vertu,
+Qu'au dédain qu'il faisait d'en être combattu.
+De vrai si son esprit eût permis à sa crainte,
+De donner à son coeur quelque sorte d'atteinte,
+L'eussiez vous attaqué s'il eut seulement su,
+L'ambitieux dessein que vous aviez conçu !
+Ou si de ses amis le conseil politique
+N'eut trouvé dans son âme un coeur trop héroïque.
+Cette réflexion qu'il ne nous est soumis !
+Que parce qu'il n'a peu nous craindre en ennemis ;
+Me fait appréhender que l'État d'Andrigene !
+Ne nous fasse pour lui les objets de sa haine ;
+Et qu'en nous assurant de son plus ferme appui,
+Nous n'ayons ébranlé tout le reste pour lui.
 
 **** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *id_DISANGEL *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_disangel
+
 
       Arctodeme, Madame
 Jointe avec Allomice.
@@ -2044,8 +2075,49 @@ Oui je te le promets, fallut-il me risquer,
 Semnandre le hardi sera le Capitaine,
 Sous lequel je m'en vais te déclarer ma haine.
 
+**** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *id_EVANGEL *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_evangel
+
+
+      Madame !
+
+Quelque grande rigueur qu'on tienne à Pantonice,
+Jusqu'à ne souffrir pas qu'il demande justice,
+Il a toutefois su si bien prendre son temps
+Pour vous déduire en bref ses plus purs sentiments
+Que malgré la fureur et la rage des gardes,
+Ce billet a forcé toutes leurs hallebardes.
+
+**** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *id_GENTILHOMME *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gentilhomme
+
+
+      Seigneur Pamphage enfin
+Prévenant vos desseins vient d'ouvrir Charlymin.
+
+      Oui, Seigneur, en espérant peut-être
+Qu'en le faisant ouvrir il s'en rendrait le maître,
+Et qu'en rétablissant ces Princes élargis,
+Il se rétablirait ainsi dans leurs esprits ;
+Ou qu'il ferait du moins en déguisant sa haine,
+Du dessein spécieux de choquer Andrigene,
+Qu'ils croiraient que malgré tout l'État conspiré,
+Pour les faire sortir il aurait conjuré !
+Mais tous nos bons destins ont éventé sa mine,
+Pour nous donner moyen d'achever sa ruine,
+Et de nos trois héros, ce fourbe n'a gagné
+Que le simple bonheur de se voir épargné,
+Pendant qu'on espérait du vaillant Pantonice
+Qu'il le sacrifierait d'abord à sa justice.
+
+Ont secoué les fers pour goûter le repos
+Et pour cet heureux temps que le Ciel nous renvoie,
+Andrigene a voulu qu'on fit des feux de joie ;
+Cependant qu'avec eux desséchant tous ses pleurs,
+Elle les entretient de toutes ses douleurs.
+Et confond ses plaisirs dans la douceur des larmes,
+Qu'elle verse en riant sur le Dieu de ses armes.
 
 **** *creator_dubosc *book_dubosc_balancedetat *style_verse *genre_tragedy *dist1_dubosc_verse_tragedy_balancedetat *dist2_dubosc_verse_tragedy *id_PAGE *date_1652 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_page
+
 
 Seigneur je viens vous faire un importun message,
 
@@ -2065,4 +2137,3 @@ On leur ait malgré vous élargi Pantonice !
 Accourez au plutôt pour guérir promptement
 Un mal qui se rendrait mortel en empirant ;
 Philarchie en état !
-

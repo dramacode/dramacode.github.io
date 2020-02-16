@@ -2,6 +2,7 @@
 
 **** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *id_LECAPITAN *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecapitan
 
+
 Ce siècle est si fertile en animaux connus,
 On voit tant de coquettes, on voit tant de cocus,
 Qu'il faut qu'autant hymen je me précautionne,
@@ -185,8 +186,8 @@ Son pauvre homme cocu e l'en avertirait :
 Je vous enfermerai désormais, ignorante,
 Rentrez, rentrez ici, sotte, bête, innocente.
 
-
 **** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *id_TRAPOLIN *date_(inc *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_trapolin
+
 
 Et pour moi je sais bien de meilleures nouvelles.
 
@@ -231,8 +232,8 @@ Voilà Pallas par terre, amour lui fait le loi.
 
 Adieu belle Pallas.
 
-
 **** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *id_LEDOCTEUR *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledocteur
+
 
       Et bien cerveau léger,
 Ne vas pas sur la mer si tu crains le danger.
@@ -339,8 +340,28 @@ Capitan, nous verrons qui s'en pourra parer.
 
 Allez vous en chanter avecque les coucous.
 
+**** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *id_LUCINDE *date_(inc *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_lucinde
+
+
+Je vous ai mille fois assuré que mon coeur
+N'aime que vous, et n'a que vous pour son vainqueur ;
+Mais te prends tant de soin pour me conserver pure,
+Qu'un simple mot d'amour me tient lieu d'une injure,
+Je suis fort sage enfin, je le dis, croyez-moi,
+Mon honneur m'entretient, il me donne la loi,
+En vérité l'honneur est une belle chose,
+On a beau soupirer pour mes lys, pour ma rose,
+Quand mes yeux auraient mis le feu dans l'univers,
+Ma pudeur ne verrait jamais mes sens pervers ;
+Mais quelle douleur me prend, à l'aide, à l'ide, à l'aide,
+Ne puis-je ici trouver ni secours ni remède,
+Laissez-moi, s'il vous plaît, un cruel mal au coeur
+Me tourmente beaucoup, ah ! Dieu quelle douleur.
+
+      À l'aide ?
 
 **** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *id_PHILIS *date_(inc *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_philis
+
 
 Et bien cher Capitan, votre âme est-elle encore,
 Dans ce doute que le jaloux dévore ?
@@ -409,8 +430,8 @@ Adieu cher Capitan, adieu, consolez-vous.
 Allez dire aux maris des champs et de la ville,
 Que la précaution leur est choses inutile.
 
-
 **** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *id_CLORIS *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cloris
+
 
 Jadis le Capitan m'adressait tout ses voeux.
 
@@ -449,8 +470,8 @@ Aussitôt mon esprit s'est montré curieux :
 J'ai brûlé du désir de les pouvoir apprendre,
 Et lui-même a voulu me les faire comprendre.
 
-
 **** *creator_dorimond *book_dorimond_ecoledescocus *style_verse *genre_comedy *dist1_dorimond_verse_comedy_ecoledescocus *dist2_dorimond_verse_comedy *id_LEANDRE *date_(inc *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_leandre
+
 
 Ce climat est fort doux, les dames en sont belles.
 
@@ -511,4 +532,3 @@ Adieu divin objet, ma reine.
 
       À qui donc parlez-vous ?
 Est-ce à moi ?
-

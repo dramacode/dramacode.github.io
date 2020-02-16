@@ -2,6 +2,7 @@
 
 **** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *id_CESAR *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cesar
 
+
 Connaissez-vous César, de lui parler ainsi ?
 Que m'offrirait de pis la fortune ennemie,
 À moi qui tiens le trône égal à l'infamie ?
@@ -314,8 +315,8 @@ Couronne Cléopatre et m'apaise Pompée,
 élève à l'une un trône, à l'autre des autels,
 Et jure à tous les deux des respects immortels.
 
-
 **** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *id_ANTOINE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antoine
+
 
 Oui, seigneur, je l'ai vue : elle est incomparable ;
 Le ciel n'a point encor, par de si doux accords,
@@ -349,8 +350,8 @@ Et pense auprès de vous se mettre en haute estime.
 Dès qu'ils ont abordé, vos chefs, par vous instruits,
 Sans leur rien témoigner, les ont ici conduits.
 
-
 **** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *id_CORNELIE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cornelie
+
 
 César, car le destin, que dans tes fers je brave,
 Me fait ta prisonnière et non pas ton esclave,
@@ -627,8 +628,8 @@ Vengeront sur ton sang leurs avis dédaignés.
 J'empêche ta ruine, empêchant tes caresses.
 Adieu : j'attends demain l'effet de tes promesses.
 
-
 **** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *id_PTOLEMEE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ptolemee
+
 
 Le destin se déclare, et nous venons d'entendre
 Ce qu'il a résolu du beau-père et du gendre.
@@ -977,8 +978,8 @@ Je crains que ma présence à vos yeux ne l'irrite,
 Que son courroux ému ne s'aigrisse à me voir ;
 Et vous agirez seule avec plus de pouvoir.
 
-
 **** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *id_CLEOPATRE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleopatre
+
 
 Seigneur, Pompée arrive, et vous êtes ici !
 
@@ -1397,8 +1398,8 @@ Qu'aussitôt à mon coeur mon sang ne le reproche ;
 J'en ressens dans mon âme un murmure secret,
 Et ne puis remonter au trône sans regret.
 
-
 **** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *id_PHOTIN *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_photin
+
 
 Seigneur, quand par le fer les choses sont vidées,
 La justice et le droit sont de vaines idées ;
@@ -1583,8 +1584,8 @@ Seigneur, et ne montrez que faiblesse et que crainte.
 Nous allons vous quitter, comme objets odieux
 Dont l'aspect importun offenserait ses yeux.
 
-
 **** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *id_ACHILLAS *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achillas
+
 
 Seigneur, Photin dit vrai ; mais quoique de Pompée
 Je voie et la fortune et la valeur trompée,
@@ -1671,8 +1672,42 @@ Pressés de la terreur que sa mort leur imprime,
 Ne cherchent qu'à venger par un coup généreux
 Le mépris qu'en leur chef ce superbe a fait d'eux.
 
+**** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *id_SEPTIME *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_septime
+
+
+Seigneur, je suis romain : je connais l'un et l'autre.
+Pompée a besoin d'aide, il vient chercher la vôtre ;
+Vous pouvez, comme maître absolu de son sort,
+Le servir, le chasser, le livrer vif ou mort.
+Des quatre le premier vous serait trop funeste ;
+Souffrez donc qu'en deux mots j'examine le reste.
+Le chasser, c'est vous faire un puissant ennemi,
+Sans obliger par là le vainqueur qu'à demi,
+Puisque c'est lui laisser et sur mer et sur terre
+La suite d'une longue et difficile guerre,
+Dont peut-être tous deux également lassés
+Se vengeraient sur vous de tous les maux passés.
+Le livrer à César n'est que la même chose :
+Il lui pardonnera, s'il faut qu'il en dispose,
+Et s'armant à regret de générosité,
+D'une fausse clémence il fera vanité :
+Heureux de l'asservir en lui donnant la vie,
+Et de plaire par là même à Rome asservie !
+Cependant que forcé d'épargner son rival,
+Aussi bien que Pompée il vous voudra du mal.
+Il faut le délivrer du péril et du crime,
+Assurer sa puissance, et sauver son estime,
+Et du parti contraire en ce grand chef détruit,
+Prendre sur vous le crime, et lui laisser le fruit.
+C'est là mon sentiment, ce doit être le vôtre :
+Par là vous gagnez l'un, et ne craignez plus l'autre ;
+Mais suivant d'Achillas le conseil hasardeux,
+Vous n'en gagnez aucun, et les perdez tous deux.
+
+Seigneur…
 
 **** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *id_CHARMION *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_charmion
+
 
 Quoi ? Vous aimez César, et si vous étiez crue,
 L'Égypte pour Pompée armerait à sa vue,
@@ -1717,8 +1752,8 @@ Ce qu'au juste Osiris la reine demandait.
 Je vais bien la ravir avec cette nouvelle.
 Vous, continuez-lui ce service fidèle.
 
-
 **** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *id_ACHOREE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achoree
+
 
 Madame, j'ai couru par votre ordre au rivage ;
 J'ai vu la trahison, j'ai vu toute sa rage ;
@@ -1962,3 +1997,58 @@ Par des cris redoublés demande à voir sa reine,
 Et tout impatient déjà se plaint aux cieux
 Qu'on lui donne trop tard un bien si précieux.
 
+**** *creator_corneillep *book_corneillep_mortpompee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_mortpompee *dist2_corneillep_verse_tragedy *id_PHILIPPE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philippe
+
+
+Tout couvert de son sang, et plus mort que lui-même,
+Après avoir cent fois maudit le diadème,
+Madame, j'ai porté mes pas et mes sanglots
+Du côté que le vent poussait encor les flots.
+Je cours longtemps en vain ; mais enfin d'une roche
+J'en découvre le tronc vers un sable assez proche,
+Où la vague en courroux semblait prendre plaisir
+À feindre de le rendre, et puis s'en ressaisir.
+Je m'y jette, et l'embrasse, et le pousse au rivage ;
+Et ramassant sous lui le débris d'un naufrage,
+Je lui dresse un bûcher à la hâte et sans art,
+Tel que je pus sur l'heure, et qu'il plût au hasard.
+À peine brûlait-il que le ciel plus propice
+M'envoie un compagnon en ce pieux office :
+Cordus, un vieux Romain qui demeure en ces lieux,
+Retournant de la ville, y détourne les yeux ;
+Et n'y voyant qu'un tronc dont la tête est coupée,
+À cette triste marque il reconnaît Pompée.
+Soudain la larme à l'oeil : « Ô toi, qui que tu sois,
+À qui le ciel permet de si dignes emplois,
+Ton sort est bien, dit-il, autre que tu ne penses ;
+Tu crains des châtiments, attends des récompenses.
+César est en Égypte, et venge hautement
+Celui pour qui ton zèle a tant de sentiment.
+Tu peux faire éclater les soins qu'on t'en voit prendre,
+Tu peux même à sa veuve en reporter la cendre.
+Son vainqueur l'a reçue avec tout le respect
+Qu'un dieu pourrait ici trouver à son aspect.
+Achève, je reviens. » Il part et m'abandonne,
+Et rapporte aussitôt ce vase qu'il me donne,
+Où sa main et la mienne enfin ont renfermé
+Ces restes d'un héros par le feu consumé.
+
+En entrant j'ai trouvé des désordres étranges.
+J'ai vu fuir tout un peuple en foule vers le port,
+Où le roi, disait-on, s'était fait le plus fort.
+Les Romains poursuivaient ; et César, dans la place
+Ruisselante du sang de cette populace,
+Montrait de sa justice un exemple si beau,
+Faisant passer Photin par les mains d'un bourreau.
+Aussitôt qu'il me voit, il daigne me connaître ;
+Et prenant de ma main les cendres de mon maître :
+" restes d'un demi-dieu, dont à peine je puis
+égaler le grand nom, tout vainqueur que j'en suis,
+De vos traîtres, dit-il, voyez punir les crimes :
+Attendant des autels, recevez ces victimes ;
+Bien d'autres vont les suivre. Et toi, cours au palais
+Porter à sa moitié ce don que je lui fais ;
+Porte à ses déplaisirs cette faible allégeance,
+Et dis-lui que je cours achever sa vengeance. "
+Ce grand homme à ces mots me quitte en soupirant,
+Et baise avec respect ce vase qu'il me rend.

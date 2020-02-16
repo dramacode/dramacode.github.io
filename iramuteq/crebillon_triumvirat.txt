@@ -2,6 +2,7 @@
 
 **** *creator_crebillon *book_crebillon_triumvirat *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_triumvirat *dist2_crebillon_verse_tragedy *id_LEPIDE *date_1754 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepide
 
+
       Vertueuse Tullie,
 Arrêtez un moment, c'est moi qui vous en prie ;
 Confondez-vous Lépide avec des furieux,
@@ -117,8 +118,8 @@ Mais pour jamais de Rome il faut que je m'exile,
 Pour la dernière fois, je vous offre un asile ;
 Adieu.
 
-
 **** *creator_crebillon *book_crebillon_triumvirat *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_triumvirat *dist2_crebillon_verse_tragedy *id_CICERON *date_1754 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ciceron
+
 
 Prêt de voir consommer mon destin déplorable
 Et parer de mon nom cette odieuse table,
@@ -567,8 +568,8 @@ Hélas ! pour ma défense ils se perdront tous deux.
 Adieu, tristes témoins de mes vœux superflus,
 Palais infortuné, je ne vous verrai plus.
 
-
 **** *creator_crebillon *book_crebillon_triumvirat *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_triumvirat *dist2_crebillon_verse_tragedy *id_TULLIE *date_1754 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_tullie
+
 
 Où vais-je, infortunée, et quel espoir me luit ?
 Que de cris, que de pleurs, et quelle affreuse nuit !
@@ -966,8 +967,8 @@ Ne lui conteste point un coup digne de toi.
 Traître, pour assouvir la fureur qui t'anime,
 Tourne les yeux : voilà ta dernière victime.
 
-
 **** *creator_crebillon *book_crebillon_triumvirat *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_triumvirat *dist2_crebillon_verse_tragedy *id_SEXTUS *date_1754 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sextus
+
 
 J'ai cru devoir moi-même y forcer votre père ;
 Je craignais de jeter dans un cœur généreux
@@ -1144,8 +1145,8 @@ Est-ce au fer des bourreaux qu'il faut avoir recours ?
 Eh bien, si rien ne peut nous sauver de la mort,
 Nous mourrons tous du moins dignes d'un meilleur sort.
 
-
 **** *creator_crebillon *book_crebillon_triumvirat *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_triumvirat *dist2_crebillon_verse_tragedy *id_MECENE *date_1754 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mecene
+
 
 Cicéron désormais n'a qu'un désir unique,
 C'est de vous voir, Seigneur, sauver la République,
@@ -1313,8 +1314,8 @@ Tant d'amour convient-il avec autant de gloire ?
 Qu'espérez-vous d'un cœur épris d'un autre amant ?
 Faites-en à Sextus un généreux présent.
 
-
 **** *creator_crebillon *book_crebillon_triumvirat *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_triumvirat *dist2_crebillon_verse_tragedy *id_PHILIPPE *date_1754 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philippe
+
 
 Quel trouble dans mon cœur élève sa présence !
 Ô mes yeux, contemplez : voilà sa ressemblance,
@@ -1415,4 +1416,3 @@ Il vient de m'ordonner de veiller sur vos jours,
 Même aux dépens des miens d'en défendre le cours.
 Marchons à Tusculum, tandis qu'avec Tullie,
 Sextus ira se rendre au rivage d'Ostie.
-

@@ -2,6 +2,7 @@
 
 **** *creator_bievre *book_bievre_seducteur *style_verse *genre_comedy *dist1_bievre_verse_comedy_seducteur *dist2_bievre_verse_comedy *id_LEMARQUIS *date_1783 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
 
+
 Ô mon illustre ami, daignez vous souvenir
 Qu'après avoir été laquais de feu mon père,
 Je vous ai fait monter au rang de Secrétaire.
@@ -1151,8 +1152,8 @@ J'enlève la sagesse au lieu de la beauté.
 Je me suis trop pressé. Plaignons, mon cher Docteur,
 Ceux qui jugent si mal votre esprit et mon coeur."
 
-
 **** *creator_bievre *book_bievre_seducteur *style_verse *genre_comedy *dist1_bievre_verse_comedy_seducteur *dist2_bievre_verse_comedy *id_ORGON *date_1783 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orgon
+
 
       Mon, mon ami : c'est bien.
 Écoutez ce digne homme : et vous saurez, ensuite
@@ -1413,8 +1414,8 @@ Ma colère du moins, serait juste une sois.
 C'est vous seuls, mes enfants, qui charmerez ma vie.
 Que mon amour pour vous soit ma philosophie.
 
+**** *creator_bievre *book_bievre_seducteur *style_verse *genre_comedy *dist1_bievre_verse_comedy_seducteur *dist2_bievre_verse_comedy *id_ROSALIE *date_1783 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_rosalie
 
-**** *creator_bievre *book_bievre_seducteur *style_verse *genre_comedy *dist1_bievre_verse_comedy_seducteur *dist2_bievre_verse_comedy *id_ROSALIE *date_1783 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_rosalie
 
 Je m'avance en tremblant, mon amie : il me semble
 Que j'aurais mieux aimé ne les pas voir ensemble.
@@ -1745,8 +1746,8 @@ Ah ! Mon coeur envers vous est bien plus criminel !
 Détromper votre coeur quand il fait tout pour moi.
 C'est lui qui m'a remis la lettre.
 
+**** *creator_bievre *book_bievre_seducteur *style_verse *genre_comedy *dist1_bievre_verse_comedy_seducteur *dist2_bievre_verse_comedy *id_ORPHISE *date_1783 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_orphise
 
-**** *creator_bievre *book_bievre_seducteur *style_verse *genre_comedy *dist1_bievre_verse_comedy_seducteur *dist2_bievre_verse_comedy *id_ORPHISE *date_1783 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_orphise
 
 Ce dîner, Rosalie, était embarrassant.
 Je voyais dans vos yeux un trouble intéressant,
@@ -2138,8 +2139,8 @@ De la séduction qui peut se garantir ?...
 Ne vous séparez plus pour mieux vous secourir.
 Que ce moment d'erreur vous guide, et vous éclaire.
 
-
 **** *creator_bievre *book_bievre_seducteur *style_verse *genre_comedy *dist1_bievre_verse_comedy_seducteur *dist2_bievre_verse_comedy *id_DAMIS *date_1783 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
+
 
       Madame...
 
@@ -2256,8 +2257,8 @@ Revenez.
 
       C'est elle.
 
-
 **** *creator_bievre *book_bievre_seducteur *style_verse *genre_comedy *dist1_bievre_verse_comedy_seducteur *dist2_bievre_verse_comedy *id_MELISE *date_1783 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melise
+
 
       Il est charmant.
 
@@ -2368,8 +2369,8 @@ Que, depuis plusieurs jours, tous ses pas sont suivis.
 On a su dévoiler son horrible conduite.
 Rien ne peut le sauver que la plus prompte fuite.
 
+**** *creator_bievre *book_bievre_seducteur *style_verse *genre_comedy *dist1_bievre_verse_comedy_seducteur *dist2_bievre_verse_comedy *id_DARMANCE *date_1783 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_darmance
 
-**** *creator_bievre *book_bievre_seducteur *style_verse *genre_comedy *dist1_bievre_verse_comedy_seducteur *dist2_bievre_verse_comedy *id_DARMANCE *date_1783 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_darmance
 
 J'y viens à contre-coeur ; vous le jugez : aussi
 Je ne fais qu'obéir aux ordres de mon père.
@@ -2582,8 +2583,8 @@ Votre père....
 
 Rosalie a daigné pardonner ma faiblesse.
 
-
 **** *creator_bievre *book_bievre_seducteur *style_verse *genre_comedy *dist1_bievre_verse_comedy_seducteur *dist2_bievre_verse_comedy *id_ZERONES *date_1783 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zerones
+
 
 Des dehors affectés un Sage se défie.
 Rien n'échappe aux regards de la Philosophie.
@@ -2950,3 +2951,10 @@ Qu'on va vous arrêter ? Ce n est point un faux bruit,
 C'est un avis qui vient de quelqu'un bien instruit.
 Nous voilà tous les deux dans de belles affaires."
 
+**** *creator_bievre *book_bievre_seducteur *style_verse *genre_comedy *dist1_bievre_verse_comedy_seducteur *dist2_bievre_verse_comedy *id_LEDOMESTIQUE *date_1783 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledomestique
+
+
+Monsieur, c'est un billet de cette jeune dame
+Dont l'amant jaloux...
+
+      Suffit.

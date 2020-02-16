@@ -2,6 +2,7 @@
 
 **** *creator_marivaux *book_marivaux_provinciale *style_prose *genre_comedy *dist1_marivaux_prose_comedy_provinciale *dist2_marivaux_prose_comedy *id_CATHOS *date_1750 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cathos
 
+
 Nous sommes revenues ; et Madame la Marquise s'est arrêtée dans le jardin. Vous avez donc encore du monde ?
 
 Est-ce moi que Monsieur veut dire ?
@@ -173,8 +174,15 @@ Doucement ! Arrête là.
 
 Quels misérables avec leur réputation !
 
+**** *creator_marivaux *book_marivaux_provinciale *style_prose *genre_comedy *dist1_marivaux_prose_comedy_provinciale *dist2_marivaux_prose_comedy *id_COLIN *date_1750 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colin
+
+
+Oui, notre maîtresse... Non, non : oui, Marquise, hé, je veux dire Madame.
+
+Eh ! Pardi oui, droit sur ses jambes, dans le jardin, où il se promène.
 
 **** *creator_marivaux *book_marivaux_provinciale *style_prose *genre_comedy *dist1_marivaux_prose_comedy_provinciale *dist2_marivaux_prose_comedy *id_MADAMELEPINE *date_1750 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamelepine
+
 
 Ah ! Vraiment, il est bien temps de venir : je n'ai plus le loisir de vous entretenir ; il y a une heure que je vous attends, et que vous devriez être ici.
 
@@ -422,8 +430,8 @@ Lisez, lisez, Monsieur le méfiant... Vous y verrez vos questions résolues.
 
 Il y a apparence qu'il ne se plaindra pas, car il rit.
 
-
 **** *creator_marivaux *book_marivaux_provinciale *style_prose *genre_comedy *dist1_marivaux_prose_comedy_provinciale *dist2_marivaux_prose_comedy *id_LECHEVALIER *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
 
 C'est la faute de ce coquin-là, qui m'a éveillé trop tard.
 
@@ -503,8 +511,8 @@ Oh ! Votre emportement décide : vous insultez Madame ; et pour la venger, j'avo
 
 Le prend-on sur ce ton-là ?... Je ne m'en soucie guère.
 
-
 **** *creator_marivaux *book_marivaux_provinciale *style_prose *genre_comedy *dist1_marivaux_prose_comedy_provinciale *dist2_marivaux_prose_comedy *id_LARAMEE *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laramee
+
 
 Ma foi, c'est que je ne me suis pas éveillé plus tôt. Quand on dort, on ne se ressouvient pas de se lever.
 
@@ -660,8 +668,8 @@ Pour la mettre en vogue ; pour lui donner de belles manières.
 
 Oh ! Tout à fait jolie. C'est dommage qu'elle ait manqué. La réputation de Madame y perd.
 
-
 **** *creator_marivaux *book_marivaux_provinciale *style_prose *genre_comedy *dist1_marivaux_prose_comedy_provinciale *dist2_marivaux_prose_comedy *id_MONSIEURLORMEAU *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurlormeau
+
 
 Qu'est-ce que c'est que cet homme-là, Cathos ?
 À qui donc parlez-vous de faire crédit ici ?
@@ -721,8 +729,8 @@ Fripons que vous êtes !
 
 Renvoyons ce maraud-là, et qu'il ne soit plus parlé de cette malheureuse affaire.
 
-
 **** *creator_marivaux *book_marivaux_provinciale *style_prose *genre_comedy *dist1_marivaux_prose_comedy_provinciale *dist2_marivaux_prose_comedy *id_MONSIEURDERVAL *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurderval
+
 
 Je sens bien que j'en aurai encore davantage.
 
@@ -743,3 +751,8 @@ Si je le connais ? C'est le fils de mon procureur.
 
 Et pourquoi tirer dix mille écus de Madame ?
 
+**** *creator_marivaux *book_marivaux_provinciale *style_prose *genre_comedy *dist1_marivaux_prose_comedy_provinciale *dist2_marivaux_prose_comedy *id_MARTON *date_1750 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
+
+
+Un instant de patience, Madame ; que je parle à mon tour.
+Et vous, Mons de la Ramée, qui vous amusez ici à tourner la tête de ce petit oison de chambrière, qu'on détale, et qu'on marche devant moi tout à l'heure, pour aller payer ce marchand de vin avec l'argent que je porte et qu'un huissier vous demande !

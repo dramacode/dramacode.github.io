@@ -2,6 +2,7 @@
 
 **** *creator_dufresny *book_dufresny_noceinterrompue *style_prose *genre_comedy *dist1_dufresny_prose_comedy_noceinterrompue *dist2_dufresny_prose_comedy *id_LECOMTE *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomte
 
+
 Oui certes, les Noces de Nanette me ramènent l'idée des nôtres. Combien y a-t-il, mon cœur ? Il y a bien trente-cinq années que nous faisons la félicité l'un de l'autre.
 
 Dans les douceurs d'une union parfaite, la durée des ans est imperceptible.
@@ -148,8 +149,8 @@ Elle ferait quelque faux pas.
 
 Je suis trompé ! À moi mes gens, mes vassaux.
 
-
 **** *creator_dufresny *book_dufresny_noceinterrompue *style_prose *genre_comedy *dist1_dufresny_prose_comedy_noceinterrompue *dist2_dufresny_prose_comedy *id_LACOMTESSE *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+
 
 Si je consulte mon affection conjugale, il n'y a qu'un jour que je te possède.
 
@@ -250,8 +251,8 @@ Nous paraît aisé :
 Mais du vouloir au savoir plaire,
 Ah ! Que je vois de pas à faire.
 
-
 **** *creator_dufresny *book_dufresny_noceinterrompue *style_prose *genre_comedy *dist1_dufresny_prose_comedy_noceinterrompue *dist2_dufresny_prose_comedy *id_ADRIEN *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adrien
+
 
 N'est-ce pas huit cents livres que Monsieur le Comte vous a promis ?
 
@@ -462,8 +463,8 @@ Et moins tu vivras.
 
 Vous n'avez point d'autre vassal que moi ; je suis à présent vassal de Monsieur.
 
-
 **** *creator_dufresny *book_dufresny_noceinterrompue *style_prose *genre_comedy *dist1_dufresny_prose_comedy_noceinterrompue *dist2_dufresny_prose_comedy *id_NANETTE *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nanette
+
 
 Ahy !
 
@@ -507,8 +508,8 @@ Ah ! Voici Monsieur le Comte.
 
 Vous êtes le Maître, Monsieur, je vous obéirai.
 
-
 **** *creator_dufresny *book_dufresny_noceinterrompue *style_prose *genre_comedy *dist1_dufresny_prose_comedy_noceinterrompue *dist2_dufresny_prose_comedy *id_DORANTE *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+
 
 L'impatience m'a pris : mais on ne peut nous surprendre, j'ai fermé les portes. Dis-moi, Adrien, l'aimable Nanette a-t-elle compris mes billets ? Lui as-tu parlé de ma passion ? T'écoute-t-elle ? Y répond elle ? Puis-je espérer ?
 
@@ -566,8 +567,8 @@ Trop heureux que vous ayez quelque confiance en moi.
 
 Monsieur, je me suis fait paysan pour obtenir Nanette, je suis redevenu cavalier pour vous en remercier.
 
-
 **** *creator_dufresny *book_dufresny_noceinterrompue *style_prose *genre_comedy *dist1_dufresny_prose_comedy_noceinterrompue *dist2_dufresny_prose_comedy *id_LUCAS *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucas
+
 
 Ah respect, respect, Monsieur le Tabellion.
 
@@ -607,8 +608,8 @@ J'y tâche aussi ; mais l'amour prend le mord aux dents. Jarnigué l'amour en a
 
 Parguenne, Monsieur le Comte, vla la Noce que je vous ramène, comme vous m'avez commandé. Ma mère m'a dit itou de bouter l'amour au croc, vla qu'es toisé.
 
-
 **** *creator_dufresny *book_dufresny_noceinterrompue *style_prose *genre_comedy *dist1_dufresny_prose_comedy_noceinterrompue *dist2_dufresny_prose_comedy *id_LESOLDAT *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesoldat
+
 
 Et chut, paix, qu'on m'écoute. Il me vient une belle pensée là-dessus. Signez toujours, gnia point d'argent, c'est comme qui dirait, buvez toujours, allons compère, buvez toujours ; mais il n'y a point de vin : ça ne fait rien, buvez toujours : or, il faut voir le vin, et puis on boit.
 
@@ -636,8 +637,8 @@ Baise-lui la main ou je te tue.
 
 Ah ! Les voilà mariés, il y aura de la noce, Vivat. En attendant la noce, allons boire.
 
-
 **** *creator_dufresny *book_dufresny_noceinterrompue *style_prose *genre_comedy *dist1_dufresny_prose_comedy_noceinterrompue *dist2_dufresny_prose_comedy *id_LETABELLION *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_letabellion
+
 
 Par la mort, non pas de mon âme, Monsieur le Comte et Madame le Comtesse se moquent-ils de faire attendre si longtemps un homme comme moi ?
 
@@ -658,4 +659,3 @@ Salut à l'homme d'affaire de Monsieur le Comte ; il nous va compter, nombrer e
 En quelle espèce de monnaie ?
 
 Point de fond ?
-

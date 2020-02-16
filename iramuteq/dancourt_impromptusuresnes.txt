@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_PHILIS *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philis
 
+
 Sensible aux maux de l'univers,
 Il ne jetait sur lui ses regards qu'avec peine,
 Sur les coteaux les raisins étaient verts ;
@@ -16,27 +17,8 @@ Et des mers craignant les orages,
 Elle refuse à leurs rivages
 Les tributs qu'elle doit y porter.
 
-Trop de contrainte
-Dans les beaux jours
-Révolte toujours ;
-On en fait sa plainte
-Au Dieu des Amours,
-Il vient au secours
-D'une âme atteinte
-D'une juste crainte,
-Et la contrainte
-Dans les beaux jours
-Révolte toujours.
-
-Dans ces lieux l'Amour amène
-Les plaisirs, les jeux, les ris ;
-Des plus doux nœuds il enchaîne
-Les cœurs de ses feux épris,
-Chacun déserte Paris
-Pour venir rire à Suresnes.
-
-
 **** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_THERSANDRE *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thersandre
+
 
 Depuis que les Dieux sur la terre
 Ont éteint le feu de la guerre,
@@ -63,15 +45,8 @@ Gardons-nous de nous écarter,
 D'un lieu charmant que les Dieux même
 Ne dédaignent pas d'habiter.
 
-Suivons le cours de la Seine
-Dans cet aimable pays,
-Le doux penchant qui l'entraîne
-Vers ces bords des Dieux chéris,
-Invite à quitter Paris
-Pour venir rire à Suresnes.
-
-
 **** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_BACCHUS *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bacchus
+
 
 Quoi donc la Folie sans l'Amour.
 
@@ -179,15 +154,8 @@ Et le mien avec la Folie ?
 
 Vous y demeurerez plus que vous ne croyez. C'est votre élément, que les Guinguettes. Allons, Messieurs de la Symphonie, de la Musique tendre, un peu folle, où il y ait quelque air d'ivresse en ma faveur.
 
-Par Bacchus tout droit d'aubaine
-Sur les vins y sont remis ;
-Les filles sont du domaine
-De Vénus et de son fils.
-Morbleu, quittez tous Paris,
-Venez habiter Suresnes.
-
-
 **** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_LAMOUR *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
+
 
 Mais où m'emmenez-vous, s'il vous plaît ? Madame la Folie ?
 
@@ -227,42 +195,8 @@ Celui du Chevalier et de la Veuve.
 
 Écoutez, voilà bien des mariages, prenez-y garde ; ce n'est pas là le moyen de me garder longtemps parmi vous.
 
-Oh, la charmante retraite !
-De la félicité parfaite
-C'est ici l'heureux séjour.
-
-Oh, la charmante retraite !
-De la félicité parfaite
-C'est ici l'heureux séjour.
-
-La bonne chère
-Des plus longe jours,
-En fait les plus courts.
-Quand Bacchus veut plaire
-Au Dieu des Amours,
-Son puissant secours
-Rend la Bergère
-Plus vive et moins fière.
-La bonne chère
-Des plus longe jours,
-En fait les plus courts.
-
-Ne quittons point cet aimable séjour,
-Aux doux plaisirs tout ici nous convie,
-Pour plaire à l'Amour
-Avec la Folie
-Bacchus s'allie
-Dans cet heureux jour.
-
-Qu'aucune Beauté n'y vienne
-Sans des Amants favoris ;
-À l'autre bord de la Seine
-Faisons rester les Maris,
-Aucun fâcheux n'est admis
-Dans les plaisirs de Suresnes.
-
-
 **** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_SILENE *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_silene
+
 
 Ne vous emportez point, mon ami, un peu de douceur et de tranquillité, il n'y aura point de désordre, je vous en réponds. Moi, je suis le père de Silène. Bacchus m'a donné ordre de faire garder la porte pour éviter les inconvénients ; la pratique donne bien, comme vous voyez, la maison ne désemplit point, on se bat pour entrer.
 
@@ -288,8 +222,8 @@ Surtout quand la Folie s'en mêle.
 
 Il n'y a point d'appel, mon bon ami, ce sont des Arrêts de guinguette, qui s'exécutent toujours par provision.
 
-
 **** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_FORET *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_foret
+
 
 Puissant Dieu des buveurs, pouvais-je mieux marquer mon respect pour vous et pour votre divine liqueur, qu'en la conservant chèrement comme j'ai fait.
 
@@ -393,15 +327,8 @@ Comment, cinq noces à la fois ; voudriez-vous aussi me remarier, moi ?
 
 Morbleu, non ! Mais par votre moyen, avec un de ces Arrêts de Guinguettes, qui s'exécutent par provision, on pourrait toujours en attendant…
 
-Bacchus et le bon Silène
-Font les honneurs du logis ;
-Ils versent à tasse pleine
-Tout mon vin vieux rouge ou gris,
-Et nous font quitter Paris
-Pour venir boire à Suresnes.
-
-
 **** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_CLITANDRE *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+
 
 Que vient-on de m'apprendre, ma chère Nérine ?
 
@@ -427,8 +354,8 @@ Les Dieux se mêlent de nos affaires, en pouvons-nous craindre l'événement ?
 
 Cela est inutile, c'est une chose réglée dans le conseil que l'on vient de tenir à table.
 
-
 **** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_ERASTE *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+
 
 Savez-vous bien, ma chère Lucile, que vous me mettez au désespoir ?
 
@@ -474,8 +401,8 @@ Pour posséder la charmante Lucile.
 
 Nous vous le promettons.
 
-
 **** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_KERPINOT *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_kerpinot
+
 
 Holà, ho, quelqu'un, du vin, de la glace, et de l'eau cordiale !
 
@@ -507,20 +434,8 @@ Le conseil est bon, ma Princesse, il le faut suivre.
 
 On ne nous encanaille point, allons ma Princesse : que vous m'allez aimer, et que je m'en vais boire.
 
-Le Dimanche et les Lundis
-Je cours de Guinguette en Guinguette,
-J'y retourne les Mardis
-Et Mercredis ;
-Et dans ces douces retraites
-Je passe aussi les Jeudis
-Et Vendredis.
-Amour, serait-ce la peine
-D'en sortir les Samedis !
-Non, comme j'ai commencé la semaine
-Avec Bacchus je la finis.
-
-
 **** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_LECHEVALIER *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
 
 Hé, comment donc, la première ici ? Oh pour le coup, je suis un fat, belle personne, et vous n'êtes pas faite pour attendre.
 
@@ -548,8 +463,8 @@ Cadédis, oui, je vous en réponds.
 
 Volontiers, je suis sans façons, et ne refuse ni partie d'amour, ni partie de table, ce sont mes centres.
 
-
 **** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_LAFOLIE *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lafolie
+
 
 Est-ce pour vous une nouveauté, Seigneur Bacchus ? Il est bien vrai que l'Amour ne va jamais sans la Folie ; mais je vais souvent sans l'Amour.
 
@@ -711,41 +626,8 @@ Voilà qui est fait, je le veux bien, vous n'en ferez pas dédit, et la plus gra
 
 Vous serez content. C'est le caractère des Musiciens de la Guinguette.
 
-Sans la Folie
-Vos plus beaux jours
-Languiraient toujours ;
-Sa douce manie
-Est d'un grand secours
-Au Dieu des Amours,
-Quand il s'ennuie
-Près d'une Silvie.
-Sans la Folie
-Vos plus beaux jours
-Languiraient toujours.
-
-Ceux qu'ici l'Amour amène,
-Ou Céladon ou Cloris,
-S'exposeraient à la haine
-De la Reine de Cypris,
-S'ils retournaient à Paris
-Sans folâtrer à Suresnes.
-
-Thalie avec Melpomène
-Dans ces lieux nous ont conduits ;
-Ces Déesses de la Scène,
-Des soins que nous avons pris,
-Nous ont assuré pour prix
-L'honneur de plaire à Suresnes.
-
-Pour faire honneur à la Scène
-Les soins que nous avons pris
-De Thalie et Melpomène
-Recevront un digne prix,
-Si nous avons à Paris
-Même foule qu'à Suresnes.
-
-
 **** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_LAVEUVE *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laveuve
+
 
 C'est ici le lieu du rendez-vous, et le Chevalier n'y est point encore.
 
@@ -785,8 +667,8 @@ Mais les aînés chez vous n'ont-ils pas tout le bien ?
 
 Allons, mon cher Chevalier, je me trouve bien partout où vous êtes.
 
-
 **** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_NERINE *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
+
 
 Qu'est-ce que c'est, mes enfants, qu'y a-t-il de nouveau ? Vous voilà dans les réflexions dans les grandes phrases, poussez-vous les beaux sentiments ?
 
@@ -842,8 +724,8 @@ Ni mon oncle de grâce.
 
 Ne suffit-il pas de celui de Bacchus et de l'Amour ?
 
-
 **** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_MADAMEPINTERELLE *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamepinterelle
+
 
 Holà donc, doucement, tenez-vous, petit badin, ces sortes d'empressements-là sont trop marqués, un peu de modestie.
 
@@ -861,8 +743,8 @@ Je défère beaucoup à vos conseils.
 
 L'Amour et le Dieu du vin, voilà bonne compagnie.
 
-
 **** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_LUCILE *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucile
+
 
 Je plains fort l'état où vous êtes. Ma situation n'est pas meilleure.
 
@@ -916,15 +798,8 @@ Ne laissez point entrer mon père, Madame, je vous prie.
 
 Le moyen de résister à leurs volontés ?
 
-Que le passeur du bac prenne
-Le nom de chaque Adonis,
-Qui vient avec sa Climène
-Dans nos aimables réduits,
-Et sort exprès de Paris
-Pour venir rire à Suresnes.
-
-
 **** *creator_dancourt *book_dancourt_impromptusuresnes *style_prose *genre_comedieballet *dist1_dancourt_prose_comedieballet_impromptusuresnes *dist2_dancourt_prose_comedieballet *id_CLAUDINE *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_claudine
+
 
 Hé vite, Monsieu, dépêchez-vous.
 
@@ -933,4 +808,3 @@ Tout est au pillage dans votre magasin.
 Les portes se sont ouvartes d'elles-mêmes ; il y a je ne sais combian de garçons qui tiront le vin dans de grandes cruches, les broches tournent dans toutes les cheminées. Il est tombé dans la maison une nuée d'affamés qui feront la cuisine jusques dans le jardin, et ils disont comme ça, qu'il y en a encore davantage de l'autre côté de l'iau, qui s'apprêtont à venir faire comme eux.
 
 Venez mettre ordre à ça, s'il vous plaît. On ne sait auquel entendre, et ils mettront peut-être le feu à la maison, s'ils ne voyont parsonne à qui parler.
-

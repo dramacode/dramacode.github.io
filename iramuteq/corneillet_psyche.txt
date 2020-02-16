@@ -1,6 +1,65 @@
 
 
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_venus-prologue *date_1678 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venusprologue
+
+
+Pourquoy du Ciel m'obliger à descendre ?
+Mon merite en ces lieux n'a plus rien à pretendre,
+En vain vous m'y rendez ces honneurs solemnels.
+Le mespris est mon seul partage⁎,
+Et depuis qu'à Psyché les aveugles Mortels
+De leurs vœux adressent l'hommage,
+Venus demeure sans Autels.
+Dans une si honteuse offense
+Laissez-moy sans témoins resoudre ma vangeance.
+
+Mon Fils, si tu plains mes mal-heurs
+Fais moy voir que tu m'és fidelle.
+Tu sçais combien Psyché me dérobe d'honneurs,
+Elle est mon ennemie, il faut me vanger d'elle.
+Pour servir mon juste couroux
+Prens de tes traits le plus à craindre,
+Un trait qui la puisse contraindre
+De se donner au plus indigne Espoux
+Dont jamais une Belle ait eû lieu de se plaindre.
+Cours, vole, & par de prompts effets
+Monstre que tu prens part aux affronts qu'on m'a faits.
+
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_flore *date_1678 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_flore
+
+
+Ce n'est plus le temps de la Guerre ;
+Le plus puissant des Rois
+Interrompt ses Exploits
+Pour donner la Paix à la Terre.
+Descendez, Mere des Amours,
+Venez nous donner de beaux jours.
+
+
+Est-on sage
+Dans le bel âge,
+Est-on sage
+De n'aimer pas ?
+Que sans cesse
+L'on se presse
+De goûter les plaisirs icy bas ;
+La sagesse
+De la Jeunesse,
+C'est de sçavoir joüir de ses appas.
+
+L'Amour charme
+Ceux qu'il desarme,
+L'Amour charme,
+Cedons luy tous.
+Nostre peine
+Seroit vaine
+De vouloir resister à ses coups ;
+Quelque chaîne
+Qu'un Amant prenne,
+La liberté n'a rien qui soit si doux.
+
 **** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_vertumne *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_vertumne
+
 
 Rendez-vous, Beautez cruelles,
 Soûpirez à vostre tour.
@@ -14,8 +73,8 @@ Languissons, puis qu'il le faut.
 Un bel Objet toûjours severe
 Ne se fait jamais bien aimer.
 
-
 **** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_palemon *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_palemon
+
 
 Voici la Reine des Belles
 Qui vient inspirer l'amour.
@@ -31,8 +90,8 @@ Est-il un plus grand défaut ?
 C'est la beauté qui commence de plaire,
 Mais la douceur acheve de charmer.
 
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_choeur *date_1678 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_choeur
 
-**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_choeur *date_1678 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_choeur
 
 Nous goûtons une paix profonde ;
 Les plus doux Jeux sont icy bas ;
@@ -74,8 +133,8 @@ Avec le doux son des Muzettes ;
 Accordez-vous toujours
 Avec le doux chant des Amours.
 
-
 **** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_jupiter *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
+
 
 Venus veut-elle resister ?
 N'a-t'elle point assés écouté sa colere,
@@ -95,8 +154,8 @@ Aimez sans trouble & sans alarmes.
 Vous, Dieux, accourez tous, & dans cet heureux jour
 Celebrez à l'envy la gloire de l'Amour. 
 
-
 **** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_venus *date_1678 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
+
 
 Quoy, vous vous employez pour la fiére Psyché ;
 Pour une insolente Mortelle ?
@@ -224,8 +283,8 @@ Jupiter a parlé, je n'ay plus de couroux.
 Psyché, revois le jour,
 On te permet enfin de vivre pour l'Amour.
 
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_amour *date_1678 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_amour
 
-**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_amour *date_1678 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_amour
 
 Et bien, Psyché, des cruautez du Sort
 Avez-vous beaucoup à vous plaindre ?
@@ -268,8 +327,8 @@ Tu m'as veu, c'en est fait, tu vas me perdre, Adieu.
 
 O favorable changement !
 
-
 **** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_mercure *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+
 
 Vous croyez trop la jalouze colere
 Qui vous anime contre un Fils.
@@ -298,8 +357,8 @@ Toute la Nature perit.
 
 Jupiter qui paroist vous le dira luy-mesme.
 
-
 **** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_vulcain *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_vulcain
+
 
 Cyclopes, achevez ce superbe Palais,
 Que tout vostre Art s'épuise en cét Ouvrage.
@@ -373,8 +432,30 @@ Et je me borne à travailler pour elle.
 L'Amour icy nous a mandez exprés,
 Achevons, achevons ce qui nous reste à faire.
 
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_zephire *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zephire
+
+
+Pressez-vous ce Travail que l'Amour vous demande ?
+Vous hastez-vous d'accomplir ses desirs ?
+
+Psyché merite bien une ardeur si fidelle,
+En ces lieux pour l'Amour j'ay conduit cette Belle ;
+Et maintenant sur des Gâzons voisins
+Un doux sommeil de ses sens est le maistre.
+J'ay fait naistre autour d'elle & Roses et Jasmins,
+Qu'elle eût pû sans moy faire naistre.
+
+Faites tout pour l'Amour, & rien contre Venus.
+Penser à la vangeance, abus, Vulcain, abus.
+Quelques tours que nous fasse une Moitié⁎ coquette,
+Le meilleur est de n'y jamais songer.
+Il est toûjours trop tard de s'en vanger,
+L'affaire est faite.
+Je retourne à Psyché que je vais éveiller,
+Cyclopes, excitez vos bras à travailler.
 
 **** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_roy *date_1678 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_roy
+
 
 Apprens de mes soûpirs mon infortune extréme,
 Apprens ce que mon cœur tremble à te declarer.
@@ -425,8 +506,8 @@ Pour la conduire au Monstre, ont déployé leurs aisles.
 Dieux cruels, qui l'avez permis,
 Accablez vous ainsi ceux qui vous sont fidelles ?
 
-
 **** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_psyche *date_1678 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_psyche
+
 
 Ainsi pour vous rendre en ce lieu
 Vous avez prévenu⁎ l'heure du Sacrifice ?
@@ -727,8 +808,8 @@ Vous y consentez ? quelle gloire !
 
 On me rend donc à vous ? ô destin plein de charmes !
 
-
 **** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_aglaure *date_1678 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_aglaure
+
 
 Enfin, ma Sœur, le Ciel est appaisé,
 Et le Serpent qui nous rendoit à plaindre
@@ -775,8 +856,8 @@ Nous plaignons vostre erreur.
 Quand vous sçaurez ce qui les fait couler...
 Adieu, nous n'avons pas la force de parler.
 
-
 **** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_cidippe *date_1678 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_cidippe
+
 
 Les Peuples d'erreur prevenus
 La nommoient une autre Venus,
@@ -815,8 +896,8 @@ Le moyen de luy dire adieu ?
 
       Ah ! trop funestes charmes !
 
-
 **** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_lychas *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lychas
+
 
 Ah ! Princesses !
 
@@ -846,8 +927,81 @@ Qu'à venir en ces lieux offrir un Sacrifice.
 Voyez comme chacun regrettant la Princesse
 Abandonne son cœur à l'ennuy⁎ qui le presse.
 
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_fleuve *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fleuve
 
-**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_nymphe2 *date_1678 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_nymphe2
+
+Arreste, c'est trop tost renoncer à l'espoir,
+Il faut vivre, l'Amour l'ordonne.
+
+Ne crains rien ; je t'en veux aprendre le chemin.
+Viens icy prendre place, & tu seras instruite
+Des ordres du Destin.
+
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_nymphe-cachee *date_1678 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_nymphecachee
+
+
+Attens encor, Psyché, de plus grandes merveilles.
+Tout est dans ces beaux lieux soûmis à tes appas.
+Pour rendre ton bon-heur durable
+Souviens-toy seulement que lors qu'on est aimable,
+C'est un crime de n'aimer pas.
+
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_zephir-cache *date_1678 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_zephircache
+
+
+D'un jeune cœur c'est la plus douce affaire.
+
+Aimez, il n'est de beaux ans
+Que dans l'amoureux Empire.
+Qui laisse échaper le temps
+Quelque-fois trop tard soûpire.
+Aimez, il n'est de beaux ans
+Que dans l'amoureux Empire.
+
+Un Dieu qui se prepare à t'assurer luy-mesme
+De son amour extrême.
+
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_amour-cache *date_1678 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_amourcache
+
+
+C'est moy, Psyché, c'est moy qui me rends à vos charmes.
+
+Le Destin vous deffend de me voir comme Dieu,
+Où ma perte aussi-tost vous coûtera des larmes.
+
+Pour me monstrer à vous, je vay dans ce Palais
+Prendre d'un Mortel la figure.
+
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_nymphe1 *date_1678 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_nymphe1
+
+
+Aimable Jeunesse,
+Suivez la tendresse,
+Joignez aux beaux jours
+La douceur des Amours.
+C'est pour vous surprendre
+Qu'on vous fait entendre
+Qu'il faut éviter leurs soûpirs
+Et craindre leurs desirs.
+Laissés-vous aprendre
+Quels sont leurs plaisirs.
+
+L'Amour a des charmes,
+Rendons luy les armes,
+Ses soins & ses pleurs
+Ne sont pas sans douceurs ;
+Un cœur pour le suivre
+A cent maux se livre.
+Il faut pour goûter ses appas
+Languir jusqu'au trespas,
+Mais ce n'est pas vivre
+Que de n'aimer pas.
+
+Psyché, cessez de soûpirer,
+Si Venus vous poursuit, on flêchira sa haine.
+
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_nymphe2 *date_1678 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_nymphe2
+
 
 Un cœur jeune & tendre
 Est fait pour se rendre,
@@ -874,8 +1028,8 @@ Vient d'en instruire Proserpine.
 Elle sçait quel present Venus attend de vous,
 Et pour vous l'aporter elle se sert de nous.
 
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_nymphe3 *date_1678 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_nymphe3
 
-**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_nymphe3 *date_1678 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_nymphe3
 
 Chacun est obligé d'aimer
 A son tour,
@@ -907,8 +1061,8 @@ Qu'aimer & que plaire ?
 C'est un soin charmant
 Que l'employ d'un Amant.
 
-
 **** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_nymphes-acheron *date_1678 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nymphesacheron
+
 
 En vain ce soin⁎ vous embarasse.
 Nous avons l'ordre, allez, & nous quittez la place.
@@ -924,8 +1078,8 @@ Perdez l'effroy dont vos sens sont glacez,
 Nous allons vous servir de guide.
 Vous, Noirs Esprits, disparoissez.
 
-
 **** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_trois-furies *date_1678 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_troisfuries
+
 
 Où penses-tu porter tes pas,
 Temeraire Mortelle ?
@@ -949,8 +1103,156 @@ Aidez-nous à punir l'audace criminelle
 D'une fiere Mortelle
 Qui vient troubler l'Empire de Pluton.
 
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_furie *date_1678 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_furie
 
-**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_tous *date_1678 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_tous
+
+Puis qu'à la voir elle s'obstine
+Promptement, qu'on l'aille avertir.
+
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_apollon *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
+
+
+Unissons-nous, Troupe immortelle ;
+Le Dieu d'Amour devient heureux Amant.
+Et Venus a repris sa douceur naturelle
+En faveur d'un Fils si charmant.
+Il va goûter en paix aprés un long tourment,
+Une felicité qui doit estre eternelle.
+
+Le Dieu qui nous engage
+A luy faire la Cour,
+Deffend qu'on soit trop sage.
+Les Plaisirs ont leur tour,
+C'est leur plus doux usage
+Que de finir les soins du Jour ;
+La Nuit est le partage
+Des Jeux & de l'Amour.
+Ce seroit grand dommage
+Qu'en ce charmant Séjour
+On eût un Cœur sauvage.
+Les Plaisirs ont leur tour,
+C'est leur plus doux usage
+Que de finir les soins du jour ;
+La Nuit est le partage
+Des Jeux & de l'Amour.
+
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_bacchus *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bacchus
+
+
+Si quelque fois,
+Suivant nos douces Loix,
+La raison se perd & s'oublie,
+Ce que le vin nous cause de folie
+Commence & finit en un jour ;
+Mais quand un Cœur est enivré d'amour,
+Souvent c'est pour toute la vie.
+
+Admirons le Jus de la Treille :
+Qu'il est puissant ! qu'il a d'attraits !
+Il sert aux douceurs de la Paix,
+Et dans la Guerre il fait merveille :
+Mais sur tout pour les Amours,
+Le Vin est d'un grand secours.
+
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_mome *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mome
+
+
+Je cherche à médire
+Sur la Terre & dans les Cieux ;
+Je Soûmets à ma Satire
+Les plus grands des Dieux.
+Il n'est dans l'Univers que l'Amour qui m'étonne⁎,
+Il est le seul que j'épargne aujourd'huy ;
+Il n'apartient qu'à luy
+De n'épargner personne.
+
+
+Folâtrons, divertissons-nous,
+Raillons, nous ne sçaurions mieux faire,
+La Raillerie est necessaire
+Dans les Jeux les plus doux.
+Sans la douceur que l'on goûte à médire
+On trouve peu de plaisirs sans ennuy ;
+Rien n'est si plaisant que de rire,
+Quand on rit au despens d'autruy.
+
+Plaisantons, ne pardonnons rien,
+Rions, rien n'est plus à la mode,
+On court peril d'estre incommode
+En disant trop de bien.
+Sans la douceur que l'on goûte à médire,
+On trouve peu de plaisirs sans ennuy ;
+Rien n'est si plaisant que de rire,
+Quand on rit aux despens d'autruy.
+
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_mars *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mars
+
+
+Mes plus fiers Ennemis vaincus ou pleins d'éfroy
+Ont veu toûjours ma Valeur triomphante,
+L'Amour est le seul qui se vante
+D'avoir pû triompher de moy.
+
+Laissons en paix toute la Terre,
+Cherchons de doux amusements ;
+Parmy les Jeux les plus charmants,
+Meslons l'image de la Guerre.
+
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_muses *date_1678 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_muses
+
+
+
+Gardez-vous, Beautez severes,
+Les Amours font trop d'affaires,
+Craignez toûjours de vous laisser charmer.
+Quand il faut que l'on soûpire,
+Tout le mal n'est pas de s'enflamer ;
+Le martire
+De le dire,
+Coûte plus cent fois que d'aimer.
+
+On ne peut aimer sans peines,
+Il est peu de douces chaînes,
+A tout moment on se sent allarmer.
+Quand il faut que l'on soûpire,
+Tout le mal n'est pas de s'enflamer ;
+Le martire
+De le dire,
+Coûte plus cent fois que d'aimer.
+
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_silene *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_silene
+
+
+
+Bacchus veut qu'on boive à longs traits ;
+On ne se plaint jamais
+Sous son heureux Empire :
+Tout le jour on n'y fait que rire,
+Et la nuit on y dort en paix.
+
+Ce Dieu rend nos vœux satisfaits ;
+Que sa Cour a d'attraits !
+Chantons y bien sa gloire :
+Tout le jour on n'y fait que boire,
+Et la nuit on y dort en paix.
+
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_satire1 *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_satire1
+
+
+Les Grandeurs sont sujetes
+A cent peines secretes.
+
+C'est là que sont les Ris, les Jeux, les Chansonnetes.
+
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_satire2 *date_1678 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_satire2
+
+
+L'Amour fait perdre le repos.
+
+C'est dans le Vin qu'on trouve les bons mots.
+
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_tous *date_1678 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_tous
+
 
 Pleurons, pleurons ; en de si grands mal-heurs
 On ne peut trop verser de pleurs.
@@ -976,8 +1278,26 @@ Ne les cherchez qu'au fonds des Pots.
 Voulez-vous des douceurs parfaites ?
 Ne les cherchez qu'au fonds des Pots.
 
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_femme-affligee *date_1678 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_femmeaffligee
 
-**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_homme-afflige1 *date_1678 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_hommeafflige1
+
+Deh, piangete al pianto mio,
+Saffi duri, antiche selve,
+Lagrimate, fonti, e belve,
+D'un bel volto il fato rio.
+
+Rispondete a miei lamenti,
+Antri cavi, ascose rupi ;
+Deh, ridite, fondi cupi,
+Del mio duolo i mesti accenti.
+
+Ahi ch'indarno si tarda,
+Non resiste a li Dei mortale affetto
+Alto impero ne sforza
+Ove commanda il Ciel, l'Uom cede à forza.
+
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_homme-afflige1 *date_1678 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_hommeafflige1
+
 
 Ahi dolore !
 
@@ -989,8 +1309,8 @@ Ahi dolore !
 
 Cruda morte !
 
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_homme-afflige2 *date_1678 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_hommeafflige2
 
-**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_homme-afflige2 *date_1678 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_hommeafflige2
 
 Ahi martire !
 
@@ -1007,3 +1327,8 @@ Ahi Martire !
 
 Empia sorte.
 
+**** *creator_corneillet *book_corneillet_psyche *style_verse *genre_show *dist1_corneillet_verse_show_psyche *dist2_corneillet_verse_show *id_trio *date_1678 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_trio
+
+
+Voulez-vous des douceurs parfaites ?
+Ne les cherchez qu'au fonds des Pots.

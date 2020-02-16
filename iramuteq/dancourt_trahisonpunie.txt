@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_trahisonpunie *style_verse *genre_comedy *dist1_dancourt_verse_comedy_trahisonpunie *dist2_dancourt_verse_comedy *id_DONFELIX *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donfelix
 
+
 Plaise au ciel que pour vous ma visite en soit une.
 
 Je vous en instruirai, n'en soyez point en peine.
@@ -310,8 +311,8 @@ Et quel cœur généreux j'avais choisi pour vous.
 Sans prendre mes avis vous faites choix d'un autre,
 Je suis bon, et veux bien que mon choix cède au vôtre.
 
-
 **** *creator_dancourt *book_dancourt_trahisonpunie *style_verse *genre_comedy *dist1_dancourt_verse_comedy_trahisonpunie *dist2_dancourt_verse_comedy *id_DONANDRE *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donandre
+
 
 Que veut-on ?
 
@@ -784,8 +785,8 @@ Adieu, quand un peu moins nous nous mépriserons,
 Si le cœur vous en dit, nous nous éclaircirons.
 Suis-moi, Fabrice, viens.
 
-
 **** *creator_dancourt *book_dancourt_trahisonpunie *style_verse *genre_comedy *dist1_dancourt_verse_comedy_trahisonpunie *dist2_dancourt_verse_comedy *id_DONGARCIE *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dongarcie
+
 
 Je voudrais, Don André, vous parler en secret.
 
@@ -938,8 +939,8 @@ Mon rival !
 
 Ah, Seigneur !
 
-
 **** *creator_dancourt *book_dancourt_trahisonpunie *style_verse *genre_comedy *dist1_dancourt_verse_comedy_trahisonpunie *dist2_dancourt_verse_comedy *id_DONJUAN *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjuan
+
 
 Quel plaisir je ressens d'une telle embrassade !
 Mon cher ami.
@@ -1531,8 +1532,8 @@ Et cédons Léonor aux veux de Don Garcie.
 De l'effort que je fais, vos yeux sont les témoins ;
 Vous n'avez pu m'aimer, estimez-moi du moins.
 
-
 **** *creator_dancourt *book_dancourt_trahisonpunie *style_verse *genre_comedy *dist1_dancourt_verse_comedy_trahisonpunie *dist2_dancourt_verse_comedy *id_LEONOR *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonor
+
 
 Je suis dans un chagrin qu'aucun autre n'égale ;
 Sortons de cette chambre, et restons dans la salle :
@@ -1840,8 +1841,8 @@ Et Jacinte à mon gré vous tient trop en suspens.
 
       Ah, mon père !
 
-
 **** *creator_dancourt *book_dancourt_trahisonpunie *style_verse *genre_comedy *dist1_dancourt_verse_comedy_trahisonpunie *dist2_dancourt_verse_comedy *id_ISABELLE *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
 
 Ma chère Léonor, qui vous agite ainsi ?
 
@@ -2000,8 +2001,8 @@ Quel désordre ? Quel bruit ?
 
 Juste Ciel!
 
-
 **** *creator_dancourt *book_dancourt_trahisonpunie *style_verse *genre_comedy *dist1_dancourt_verse_comedy_trahisonpunie *dist2_dancourt_verse_comedy *id_FABRICE *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fabrice
+
 
 C'est bien du temps qu'une heure, et nous n'en avons guères,
 Tant nous sommes chargés de ces sortes d'affaires.
@@ -2669,8 +2670,8 @@ Selon que tout à l'heure, il m'en a fait l'aveu,
 Ardents à le servir, poussés d'un zèle extrême,
 L'ont pour l'un de vous deux assassiné lui-même.
 
-
 **** *creator_dancourt *book_dancourt_trahisonpunie *style_verse *genre_comedy *dist1_dancourt_verse_comedy_trahisonpunie *dist2_dancourt_verse_comedy *id_JACINTE *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jacinte
+
 
 Oui.
 
@@ -3250,8 +3251,8 @@ Il ne faut pas qu'ailleurs tu t'ailles adresser.
 
 Nous étions tous deux, ma chère, en bonne main.
 
-
 **** *creator_dancourt *book_dancourt_trahisonpunie *style_verse *genre_comedy *dist1_dancourt_verse_comedy_trahisonpunie *dist2_dancourt_verse_comedy *id_IGNEZ *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ignez
+
 
       Jacinte ?
 
@@ -3264,3 +3265,8 @@ C'est de l'une ou de l'autre, à coup sûr.
 
 Don Juan d'Alvarade.
 
+**** *creator_dancourt *book_dancourt_trahisonpunie *style_verse *genre_comedy *dist1_dancourt_verse_comedy_trahisonpunie *dist2_dancourt_verse_comedy *id_UNLAQUAIS *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_unlaquais
+
+
+      Un Cavalier demande
+À parler à Monsieur.

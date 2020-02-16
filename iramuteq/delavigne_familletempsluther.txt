@@ -2,6 +2,7 @@
 
 **** *creator_delavigne *book_delavigne_familletempsluther *style_verse *genre_tragedy *dist1_delavigne_verse_tragedy_familletempsluther *dist2_delavigne_verse_tragedy *id_PAOLO *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_paolo
 
+
       Dieu vengeur, je t'offense,
 Mais, à l'aspect des lieux témoins de notre enfance,
 Je me sens défaillir sous l'horrible dessein
@@ -766,8 +767,8 @@ Par une mort chrétienne à l'immortalité !
 
       Non, vous l'avez maudit !
 
-
 **** *creator_delavigne *book_delavigne_familletempsluther *style_verse *genre_tragedy *dist1_delavigne_verse_tragedy_familletempsluther *dist2_delavigne_verse_tragedy *id_MARCO *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marco
+
 
       J'accours, maîtresse.
 
@@ -1086,8 +1087,8 @@ Dieu ne fait que deux parts : les mauvais et les bons.
       De grand coeur ; jamais homme,
 Si l'homme heureux dort bien, n'aura fait meilleur somme.
 
-
 **** *creator_delavigne *book_delavigne_familletempsluther *style_verse *genre_tragedy *dist1_delavigne_verse_tragedy_familletempsluther *dist2_delavigne_verse_tragedy *id_THECLA *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thecla
+
 
 Bien ! Gloire à Dieu, Luigi ! Du moins mon premier-né
 Suit l'exemple pieux qu'à deux fils j'ai donné.
@@ -1530,8 +1531,8 @@ Moi, qui n'ai plus de fils !
       Ah ! Pardon ! Qu'ai-je dit ?
 Il m'en reste un encor.
 
-
 **** *creator_delavigne *book_delavigne_familletempsluther *style_verse *genre_tragedy *dist1_delavigne_verse_tragedy_familletempsluther *dist2_delavigne_verse_tragedy *id_ELCI *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elci
+
 
 Contre vous, bonne mère ! Ah ! Dites mieux, pour vous.
 Un plaisir qui surprend n'en est-il pas plus doux ?
@@ -1767,4 +1768,3 @@ Je l'embrasse, ô mon père ! Elle est mon espérance :
 Je vous suivrai du moins.
 
 Il expire !
-

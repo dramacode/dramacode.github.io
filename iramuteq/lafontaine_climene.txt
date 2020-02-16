@@ -2,6 +2,7 @@
 
 **** *creator_lafontaine *book_lafontaine_climene *style_verse *genre_comedy *dist1_lafontaine_verse_comedy_climene *dist2_lafontaine_verse_comedy *id_APOLLON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
 
+
       Comment, vous, Uranie !
 En ce cas, Terpsichore, Euterpe, et Polymnie,
 Qui n'ont pas des emplois du tout si relevés,
@@ -214,4 +215,3 @@ Comment ?
 Je l'étais, et Daphné ne m'en traita pas mieux ;
 Perdons ce souvenir. Vous triomphez, Acanthe :
 Nous vous laissons, adieu ; notre troupe est contente.
-

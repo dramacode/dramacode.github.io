@@ -1,6 +1,7 @@
 
 
-**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_pomone *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_pomone
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_pomone *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_pomone
+
 
 Passons nos jours dans ces vergers,
 Loin des amours & des Bergers.
@@ -107,8 +108,8 @@ Que l'Automne,
 
       les vergers,
 
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_flore *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_flore
 
-**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_flore *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_flore
 
 Ah ! ma sœur, à quoy penses-tu ?
 Veux-tu bannir de ton empire
@@ -162,8 +163,8 @@ On fasse l'amour sur nos terres.
 
       les parterres⁎.
 
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_vertune *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_vertune
 
-**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_vertune *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_vertune
 
 J'admire tes grandeurs & la felicité⁎
 De ta belle Cité ;
@@ -302,8 +303,8 @@ Vivons, vivons amis.
 
       dans les maisons,
 
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_faune *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_faune
 
-**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_faune *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_faune
 
 C'est bien à toy, Dieu miserable,
 De pretendre à tes maux quelque soulagement !
@@ -381,8 +382,8 @@ Oses-tu regarder ta maistresse offensée ?
 
 Les champs,
 
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_ledieudesjardins *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_ledieudesjardins
 
-**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_ledieudesjardins *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_ledieudesjardins
 
 Soulage donc les flames
 Du grand Dieu des Jardins.
@@ -454,8 +455,8 @@ Vallent mieux que la Pomme.
 
 Dans les jardins,
 
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_juturne *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_juturne
 
-**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_juturne *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_juturne
 
 Dans l'empire amoureux⁎
 Le sort le plus heureux
@@ -489,8 +490,8 @@ Rien n'est si doux,
 Qu'on y cüeille les fleurettes⁎,
 Et les doux fruits d'amourettes⁎.
 
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_venilie *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_venilie
 
-**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_venilie *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_venilie
 
 Qui croit ce cajoleur⁎
 N'a que peine et douleur.
@@ -511,8 +512,8 @@ Le Ciel me faisoit la Venus ;
 Il en auroit le front aussi bien que la forme,
 Et ne cederoit point aux Dieux les plus cornus.
 
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_beroe *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_beroe
 
-**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_beroe *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_beroe
 
 Ah !si tu connoissois comme moi ses malices⁎ !
 
@@ -608,8 +609,55 @@ Mes fautes dans l'oubly seront ensevelies,
 Et qui ressent les plaisirs de l'amour,
 En pardonne aysement le crime et les folies⁎.
 
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_lanymphedelaseine *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lanymphedelaseine
 
-**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_jardinier3 *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_jardinier3
+
+Toy qui vis autresfois le Fleuve des Romains
+Triompher des humains
+Et porter le sceptre du Monde,
+Vertune, que dis-tu de ma rive feconde ?
+
+Aussi sur la Terre & sur l'onde,
+Ce Monarque puissant ne fait point de projets,
+Que le Ciel ne seconde :
+Il est l'Amour.
+
+Mais quel dessein t'amene
+Sur le bord de la Seine ?
+
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_lesjardiniers *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lesjardiniers
+
+
+Vive le Dieu des Jardiniers,
+Il est toujours prest à bien faire,
+Bergeres, portez vos paniers,
+Il a dequoy vous satisfaire.
+Sans luy les jeux, les passe-temps
+N'ont qu'une douceur imparfaite ;
+Et s'il n'est de la feste,
+L'on ne rit pas long-temps.
+Rien n'est si doux que sa fureur⁎
+Ny si plaisant que sa folie⁎ ;
+Elle bannit de nostre cœur
+La plus noire mélancolie,
+Sans luy, etc.
+
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_jardinier1 *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_jardinier1
+
+
+Ma sœur !
+
+      allons, Bergeres.
+
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_jardinier2 *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_jardinier2
+
+
+      ma femme !
+
+Allons, Bergers,
+
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_jardinier3 *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_jardinier3
+
 
       ma cousine !
 
@@ -622,8 +670,21 @@ Tristesse et langueur⁎
 Nos peaux sont plus seches
 Que des parchemins,
 
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_jardinier4 *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_jardinier4
 
-**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_vertune-pluton *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_vertunepluton
+
+      c'est toy chere Cloris !
+
+      ah ! Climene !
+O Dieux ! qui vous amene
+En ces bords étrangers ?
+
+Dez la moindre peine,
+Nous perdons haleine,
+Courage et vigueur.
+
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_vertune-pluton *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_vertunepluton
+
 
 Charmé de tes accents, adorable Pomone,
 Mais plus charmé de l'éclat de tes yeux,
@@ -648,8 +709,8 @@ Je puis en peupler tous ces lieux.
 Hé bien garde ta pauvreté,
 Adieu, c'est trop aimer une ingrate⁎ beauté.
 
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_vertune-bacchus *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_vertunebacchus
 
-**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_vertune-bacchus *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_vertunebacchus
 
 Remply d'amour et de tendresse,
 Je viens, belle Déesse,
@@ -667,3 +728,110 @@ Il faut le secourir,
 Donnez-luy du meilleur du muy,
 Enfants, faites-le boire, et beuvez avec luy.
 
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_vertune-beroe *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_vertuneberoe
+
+
+      Croiras-tu mes avis ?
+
+Je detestois l'amour et traitois ses delices
+De crime et de supplices :
+Mais depuis que j'ay veu Vertune ton amant,
+J'ay bien changé de sentiment.
+Qu'il a d'amour ! qu'il a de charmes !
+Il me dit l'autre jour les peines qu'il ressent,
+D'un air si doux, si languissant,
+Qu'il m'attendrit et me tira des larmes.
+Je le dy franchement,
+Si j'estois jeune et belle,
+Mon cœur à cét amant
+Ne seroit point rebelle.
+
+Souvent le plus constant
+S'ébranle en un instant.
+
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_follets-bergeres1 *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_folletsbergeres1
+
+
+Tu veux m'assassiner ?
+
+Depuis que vous cessez de cultiver nos terres,
+La mousse et les buissons croissent dans nos parterres⁎ :
+
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_follets-bergeres2 *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_folletsbergeres2
+
+
+Mon aymable Alcidor !
+
+On voit sur nostre teint une jaune pasleur⁎,
+
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_follets-bergeres3 *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_folletsbergeres3
+
+
+Ah Damon !
+
+Le desir de revoir nos aymables Bergers
+
+Nous n'avons plus de Lys
+
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_follets-bergeres4 *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_folletsbergeres4
+
+
+      nous n'avons plus de Roses,
+
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_follets-bergeres5 *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_folletsbergeres5
+
+
+C'est toy, Philandre, helas !
+
+Et nos fleurs demy closes
+Fletrissent de douleur.
+
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_follets-satyres1 *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_folletssatyres1
+
+
+      elle échauffe le cœur.
+
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_follets-satyres2 *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_folletssatyres2
+
+
+      c'est l'honneur de la table.
+
+Tien, bon-homme, fay nous raison,
+Et pour estre mieux à ton ayse
+Couche toy-là sur le gazon.
+
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_follets-satyres3 *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_folletssatyres3
+
+
+      rien n'est si delectable.
+
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_follets-amours *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_folletsamours
+
+ 
+Venez, Dieux et mortels, à cette grande feste,
+Celebrez ce jour de conqueste,
+Ce jour illustre et bienheureux :
+Nostre Dieu va gouster les plaisirs amoureux⁎,
+Sautons, rions, dansons, et chantons à sa gloire
+Des chants d'amour et de victoire. Rit.
+
+Et vous, Follets, qui formez dans les airs
+La foudre⁎ et les éclairs,
+Des vents et des nuages,
+Arbitres souverains,
+Rendez les Cieux tranquilles et serains,
+Et chassez loin de nous la foudre⁎ et les orages.
+Voicy le jour, voicy le temps,
+Des jeux des ris, des passe-temps.
+Sautons, rions, dansons, et chantons, etc. Ritorn⁎.
+
+**** *creator_perrin *book_perrin_pomonelivret *style_verse *genre_show *dist1_perrin_verse_show_pomonelivret *dist2_perrin_verse_show *id_follets *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_follets
+
+
+Cesse, grand Dieu, cesse tes plaintes vaines.
+
+Nous sommes deux Nymphes des Chesnes,
+Et le Ciel t'annonce par nous,
+Qu'un jour il finira tes peines.
+
+Quand tu seras discret et fidele en aymant.

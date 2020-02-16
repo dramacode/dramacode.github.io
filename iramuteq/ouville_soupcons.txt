@@ -2,6 +2,7 @@
 
 **** *creator_ouville *book_ouville_soupcons *style_verse *genre_comedy *dist1_ouville_verse_comedy_soupcons *dist2_ouville_verse_comedy *id_leandre *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
 
+
 Je rends graces au Ciel, nous sommes arrivez ;
 J'en sens plus de plaisir que vous n'en concevez.
 
@@ -556,8 +557,8 @@ Ne repondez vous pas à cette noble ardeur ?
 Trop soupçonneux mari, j'ay pris à contre sens,
 Ses pensers les plus saints et les plus innocens.
 
-
 **** *creator_ouville *book_ouville_soupcons *style_verse *genre_comedy *dist1_ouville_verse_comedy_soupcons *dist2_ouville_verse_comedy *id_filemon *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_filemon
+
 
 Je me trouve lassé du chemin et du coche.
 
@@ -1059,8 +1060,8 @@ Je ne l'esperois pas, et je m'en crois indigne ;
 Mais si tout ce bon-heur n'est pas illusion,
 Allons tout quatre ensemble en écrire à Lyon.
 
-
 **** *creator_ouville *book_ouville_soupcons *style_verse *genre_comedy *dist1_ouville_verse_comedy_soupcons *dist2_ouville_verse_comedy *id_alcipe *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcipe
+
 
 Arreste, nous voicy dans la ruë, où demeure
 L'inflexible beauté, qui consent⁎ que je meure ;
@@ -1445,8 +1446,8 @@ Et je veux obtenir sa place en vostre lit.
 Mais que tarday-je plus ? évitons leur colere,
 Fuyons Sylvain.
 
-
 **** *creator_ouville *book_ouville_soupcons *style_verse *genre_comedy *dist1_ouville_verse_comedy_soupcons *dist2_ouville_verse_comedy *id_astree *date_1650 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_astree
+
 
 N'est-ce pas vous Alcipe ?
 
@@ -1848,8 +1849,8 @@ Quelque agreable objet qui peût vous émouvoir ;
 J'ay sçeu sur un soupçon d'une noire entreprise,
 Vous retenir toûjours aupres de vostre Orphise.
 
-
 **** *creator_ouville *book_ouville_soupcons *style_verse *genre_comedy *dist1_ouville_verse_comedy_soupcons *dist2_ouville_verse_comedy *id_orphise *date_1650 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_orphise
+
 
 Sans paroistre incivile, et manquer de conduitte ;
 Je ne pouvois d'un jour differer ma visite.
@@ -1974,8 +1975,8 @@ Il l'aime et non pas moy.
 Estant vostre parente et sous vostre tutele,
 Si cette ardeur vous plaist, elle me semble belle.
 
-
 **** *creator_ouville *book_ouville_soupcons *style_verse *genre_comedy *dist1_ouville_verse_comedy_soupcons *dist2_ouville_verse_comedy *id_hyppolite *date_1650 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_hyppolite
+
 
 J'ay le paquet, Madame, et si j'ay fait promettre
 Qu'on me reconnoistra s'il vient quelqu'autre lettre.
@@ -2045,8 +2046,8 @@ Non, c'est peu de t'aimer, Valentin, je t'adore.
 Tu le peu faire encor ; car je ne t'aime pas.
 FIN.
 
-
 **** *creator_ouville *book_ouville_soupcons *style_verse *genre_comedy *dist1_ouville_verse_comedy_soupcons *dist2_ouville_verse_comedy *id_sylvain *date_1650 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_sylvain
+
 
       Appercevez aussi
 Que de vostre tourment elle a peu de soucy.
@@ -2190,8 +2191,8 @@ Leurs coups que fiction, nos clameurs que chimeres :
 Et bien-tost en ce jeu l'on m'eut veu le trahir,
 N'eust esté qu'un valet doit toûjours obeïr.
 
-
 **** *creator_ouville *book_ouville_soupcons *style_verse *genre_comedy *dist1_ouville_verse_comedy_soupcons *dist2_ouville_verse_comedy *id_valentin *date_1650 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_valentin
+
 
       Le temps ne me le peut permettre,
 Je vay voir au Courier s'il n'a point quelque lettre.
@@ -2248,8 +2249,8 @@ Hyppolite di moy si tu m'aimes encore ?
 
 Je pensois échapper de tes mignons appas.
 
-
 **** *creator_ouville *book_ouville_soupcons *style_verse *genre_comedy *dist1_ouville_verse_comedy_soupcons *dist2_ouville_verse_comedy *id_picard *date_1650 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_picard
+
 
 Malgré l'ombre et l'horreur de cet air obscurcy,
 Je ne me trompe pas : heurtons⁎ fort, c'est icy.
@@ -2278,3 +2279,11 @@ L'absence de Leandre en croist la conjecture,
 Toutesfois, tels soupçons souvent sont mal conceus,
 Et d'ailleurs je n'ay rien à gloser là dessus.
 
+**** *creator_ouville *book_ouville_soupcons *style_verse *genre_comedy *dist1_ouville_verse_comedy_soupcons *dist2_ouville_verse_comedy *id_un-voisin *date_1650 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_unvoisin
+
+
+Qui sont ceux qui là bas font si long-temps du bruit ?
+
+Un quart-d'heure plustost, vous l'eussiez rencontrée ;
+Elle est sortie alors, pour aller secourir
+Sa cousine malade en danger de mourir.

@@ -2,6 +2,7 @@
 
 **** *creator_corneillet *book_corneillet_ariane *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_ariane *dist2_corneillet_verse_tragedy *id_OENARUS *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oenarus
 
+
 Je le confesse, Arcas, ma faiblesse redouble,
 Je ne puis voir ici Pirithoüs sans trouble.
 Quelques maux où ma flamme ait dû me préparer,
@@ -265,8 +266,8 @@ Sa douleur est un mal qu'un prompt remède irrite ;
 Et c'en serait sans doute accroître les efforts,
 Qu'opposer quelque obstacle à ses premiers transports.
 
-
 **** *creator_corneillet *book_corneillet_ariane *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_ariane *dist2_corneillet_verse_tragedy *id_THESEE *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thesee
+
 
 Il ne faut pas juger sur ce qu'on voit paraître ;
 Seigneur, on n'est heureux qu'autant qu'on le croit être.
@@ -589,8 +590,8 @@ Elle fuit avec moi ; prenez soin d'Ariane.
 Prenez soin d'Ariane ! Il viole sa foi,
 Ma désespère, et veut qu'on prenne soin de moi.
 
-
 **** *creator_corneillet *book_corneillet_ariane *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_ariane *dist2_corneillet_verse_tragedy *id_PIRITHOUS *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pirithous
+
 
 Cette joie est encor plus sensible pour moi,
 Seigneur ; et de plus Thésée a pendant mon absence
@@ -798,8 +799,8 @@ D'un départ si secret le Roi sera surpris.
 
 Madame, si j'osais...
 
-
 **** *creator_corneillet *book_corneillet_ariane *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_ariane *dist2_corneillet_verse_tragedy *id_ARIANE *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ariane
+
 
 Je sais qu'avec le Roi j'ai tout à ménager,
 J'aurais tout de l'aigrir. L'asile qu'il nous prête
@@ -1728,8 +1729,8 @@ Soutiens-moi, je succombe aux transports de mon âme.
 Si dans mes déplaisirs tu veux me secourir,
 Ajoute à ma faiblesse, et me laisse mourir.
 
-
 **** *creator_corneillet *book_corneillet_ariane *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_ariane *dist2_corneillet_verse_tragedy *id_PHEDRE *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phedre
+
 
 Vous pouvez là-dessus vous répondre vous-même.
 Prince, je vous l'ai dit, il est vrai, je vous aime,
@@ -1975,8 +1976,8 @@ J'en répare l'outrage, en m'offrant à vous suivre.
 Puisqu'à ce grand effort ma flamme se résout,
 Donnez l'ordre qu'il faut, je serai prête à tout.
 
-
 **** *creator_corneillet *book_corneillet_ariane *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_ariane *dist2_corneillet_verse_tragedy *id_NERINE *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
+
 
 Le Roi, de ce refus eût eu lieu de se plaindre,
 Madame, vous devez un moment vous contraindre ;
@@ -2060,8 +2061,8 @@ Par l'éclat de vos cris s'entendent au Palais ?
 
       Que faites-vous, Madame ?
 
-
 **** *creator_corneillet *book_corneillet_ariane *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_ariane *dist2_corneillet_verse_tragedy *id_ARCAS *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
+
 
 Ariane vous charme, et sans doute elle est belle ;
 Mais Seigneur, quand l'Amour vous a parlé pour elle,
@@ -2102,4 +2103,3 @@ Seigneur, je vous apporte un Billet de Thésée.
 
 On vient de voir au Port arriver une Barque.
 C'est de là qu'est venu le Billet que voici.
-

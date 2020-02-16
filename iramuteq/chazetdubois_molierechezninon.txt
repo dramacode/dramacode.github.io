@@ -2,6 +2,7 @@
 
 **** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *id_MOLIERE *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moliere
 
+
       Ah ! Monsieur Saint-Alban !
 
 Eh pourquoi ?
@@ -169,8 +170,8 @@ Dix mille affiches soient à l'instant répandues...
 Pour annoncer enfin au public de Paris
 Qu'on jouera le Tartuffe.
 
-
 **** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *id_NINON *date_1802 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ninon
+
 
       Pardonnez si je n'ai pu me rendre...
 
@@ -487,8 +488,8 @@ De vos amis, de moi, conservez la mémoire.
 Que l'esprit, la valeur, viennent dans ce Salon
 Retrouver quelquefois Molière chez Ninon.
 
-
 **** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *id_RACINE *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_racine
+
 
       Oui,
 Les honneurs qu'à la Cour obtint le grand Corneille.
@@ -520,8 +521,30 @@ J'ai toujours ses conseils et jamais son suffrage.
 
 Il ne doit pas garder un silence coupable.
 
+**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *id_BOILEAU *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_boileau
+
+
+Et tu les mènes bien.
+
+Racine, vous croyez mes avis indiscrets.
+Je vous critique avant, pour vous louer après.
+La gloire sans effort est un bien périssable :
+Il faut la mériter quand on la veut durable..
+Les succès usurpés n'ont jamais qu'un moment.
+Les efforts concertés peuvent pour un instant
+D'un peuple enthousiaste égarer le suffrage,
+Mais bientôt du bon goût le temps vengeant l'outrage,
+Vient livrer à l'oubli la médiocrité.
+L'intrigue lutte en vain, de la postérité
+Le jour s'élève, luit ; l'ombre pâlit, s'efface ,
+Le fantôme s'éclipse, et tout reprend sa place.
+
+Mais La Fontaine hier m'a dit certaine fable
+Qui pourra réunir les avis sur ce point.
+Bonhomme, dis-nous là.
 
 **** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *id_LAFONTAINE *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafontaine
+
 
       Nous Rois...
 
@@ -536,8 +559,8 @@ Elle avait tant besoin de prier pour son âme !
 
       Je ne m'en souviens point.
 
-
 **** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *id_CHAPELLE *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chapelle
+
 
 Messieurs, dans un instant vous allez voir Ninon.
 
@@ -623,8 +646,8 @@ Croyez-vous que vos dents impriment leurs outrages
 Sur tant de beaux ouvrages ?
 Ils sont pour vous d'airain, d'acier, de diamant.
 
-
 **** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *id_SAINTALBAN *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_saintalban
+
 
 Un motif important auprès de vous m'amène.
 Madame.
@@ -797,8 +820,8 @@ Daignez lire vous-même adorable Ninon !
 
 Comment faire à présent !....
 
-
 **** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *id_LAFORET *date_1802 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laforet
+
 
 Mademoiselle Ninon... Je désirons la voir
 Ben vite... Je venons de la part de notr' maître
@@ -943,3 +966,18 @@ Je crierai, mais ben haut : À bas le cabaleur.
 Et s'il redouble encor, moi j'agirai de sorte
 Que le public se lève et lui crie : À la porte.
 
+**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *id_UNPAGE *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_unpage
+
+
+J'arrive de Lille,
+
+L'ordre doit concerner une pièce.
+
+**** *creator_chazetdubois *book_chazetdubois_molierechezninon *style_verse *genre_comedy *dist1_chazetdubois_verse_comedy_molierechezninon *dist2_chazetdubois_verse_comedy *id_UNVALET *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_unvalet
+
+
+Monsieur de Saint-Alban.
+
+Le Prince de Condé.
+
+      Monsieur Molière, un page vous demande.

@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_eauxdebourbon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_eauxdebourbon *dist2_dancourt_prose_comedy *id_MONSIEURGROGNET *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgrognet
 
+
 C'est une chose étrange que la manie de ce pays-ci ! Toujours des flûtes, des hautbois, des violons, de la musique ! Cela me fera renoncer à la médecine. Le grand plaisir d'avoir des malades qui ne font rien moins que leur métier, et qui ne songent qu'à se divertir !
 
 Est-ce toi, gros coquin, qui m'amène ici ces canailles-là faire leur charivari ? Qui est le sot qui les paie ?
@@ -62,8 +63,8 @@ Les choses ont mieux tourné que tu ne mérites : va, je te pardonne.
 
 Vous avez pris la place de votre père, faites pour lui les honneurs de la noce.
 
-
 **** *creator_dancourt *book_dancourt_eauxdebourbon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_eauxdebourbon *dist2_dancourt_prose_comedy *id_MADAMEGUIMAUVIN *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameguimauvin
+
 
 Je ne me trompe point, c'est la Marquise de Fourbanville.
 
@@ -183,8 +184,8 @@ Vous perdrez votre procès, Monsieur, ils ont six mos d'avance.
 
 Il les fera mieux que personne.
 
-
 **** *creator_dancourt *book_dancourt_eauxdebourbon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_eauxdebourbon *dist2_dancourt_prose_comedy *id_LAPRESIDENTE *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lapresidente
+
 
 Oh, cela est bien changé, mon pauvre Monsieur le Baron, je n'en puis plus ; les eaux me sont mortelles, et l'on m'enterrera ici, je pense.
 
@@ -212,8 +213,8 @@ Vous êtes bien content de vous, Monsieur le Baron ?
 
 Ne seriez-vous pas d'avis que nous nous masquassions aussi, pou vous divertir ?
 
-
 **** *creator_dancourt *book_dancourt_eauxdebourbon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_eauxdebourbon *dist2_dancourt_prose_comedy *id_BABET *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_babet
+
 
 Ah ! Que je te rencontre à propos, ma chère Madame Guimauvin ! Je suis accablée de chagrins.
 
@@ -271,8 +272,8 @@ Oui, je me soumets à vos volontés, mon père, et je n'ai qu'à vous remercier 
 
 C'est avec la dernière confusion, mon père
 
-
 **** *creator_dancourt *book_dancourt_eauxdebourbon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_eauxdebourbon *dist2_dancourt_prose_comedy *id_BLAISE *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blaise
+
 
 Palsanguenne, il faut avouer que je sis un grand fou de me mêler des affaires d'un homme aussi fou que ce vieux Monsieur le Baron de Saint Aubin qui loge cheux nous. Il viant ici prendre des yaux pour se rétablir le foie, et il y deviant estropié par la cervelle ; les Médecins le guarissont d'une façon, et les femmes le rendont malade d'une autre. Je crois, Dieu me pardonne, qu'il est amoureux de tretoutes, mais il n'y en aura pas une qui devienne amoureuse de ly. Le vela qui viant ici. Queu peste de figure !
 
@@ -421,8 +422,8 @@ Jusqu'au revoir. Allez vous coucher, Monsieur le Baron, vous avez un petit somme
 
 Allons, Messieux des Yaux de Bourbon, vive la joie : ce que n'an se baille de plaisir dans la vie fait morgué plus de bian que toutes les yaux du monde.
 
-
 **** *creator_dancourt *book_dancourt_eauxdebourbon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_eauxdebourbon *dist2_dancourt_prose_comedy *id_VALERE *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+
 
 Que viens-je d'apprendre en arrivant, mon pauvre la Roche ?
 
@@ -456,8 +457,8 @@ Ma belle-mère, elle ? Tu rêves ! Madame Guimauvin : cela ne se peut pas, c'
 
 Et moi, Monsieur, puis-je espérer aussi
 
-
 **** *creator_dancourt *book_dancourt_eauxdebourbon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_eauxdebourbon *dist2_dancourt_prose_comedy *id_LAROCHE *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laroche
+
 
 Ohé, ohé, ohé. Ah la maudite voiture que la Poste, cela n'est bon que pour les lettres, ouf.
 
@@ -555,3 +556,9 @@ Oui, Monsieur, ils l'ont signé aussi, c'est une chose réglée.
 
 Hé bien, justement, voilà l'affaire, le père et le fils portent le même nom, et nous profitons de la ressemblance.
 
+**** *creator_dancourt *book_dancourt_eauxdebourbon *style_prose *genre_comedy *dist1_dancourt_prose_comedy_eauxdebourbon *dist2_dancourt_prose_comedy *id_JASMIN *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jasmin
+
+
+N'est-ce pas là-bas, en tournant du côté gauche ?
+
+Je lui dirai, Madame.

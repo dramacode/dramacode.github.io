@@ -2,6 +2,7 @@
 
 **** *creator_decaux *book_decaux_marius *style_verse *genre_tragedy *dist1_decaux_verse_tragedy_marius *dist2_decaux_verse_tragedy *id_HIEMPSAL *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hiempsal
 
+
 Seigneur, je n'ai pas cru que l'assassin d'un homme
 Dont la seule valeur tant de fois sauva Rome,
 Dût venir en ma cour, au nom de ces Romains,
@@ -269,8 +270,8 @@ N'avait jamais brûlé d'une si vive flamme.
 Dieux cruels, qui tenez notre sort en vos mains,
 Faut-il payer si cher le salut des Romains !
 
-
 **** *creator_decaux *book_decaux_marius *style_verse *genre_tragedy *dist1_decaux_verse_tragedy_marius *dist2_decaux_verse_tragedy *id_CAIUSMARIUS *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caiusmarius
+
 
 Oui, tu vois Marius. Après tant de revers ;
 Rendu méconnaissable aux yeux de l'univers,
@@ -717,8 +718,8 @@ Qu'il apprenne de vous à dévorer ses larmes ;
 N'allez point nous trahir et perdre tout le fruit
 D'un projet que vos soins avaient si bien conduit.
 
-
 **** *creator_decaux *book_decaux_marius *style_verse *genre_tragedy *dist1_decaux_verse_tragedy_marius *dist2_decaux_verse_tragedy *id_MARIUS *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marius
+
 
 Ne crois pas que jamais je puisse balancer ;
 Je voudrais... mais que faire, et par où commencer ?
@@ -888,8 +889,8 @@ Avait près d'Hiempsal secondé vos projets ;
 Sans vous, j'allais partir, et ce roi magnanime
 Allait, en me servant, mériter votre estime.
 
-
 **** *creator_decaux *book_decaux_marius *style_verse *genre_tragedy *dist1_decaux_verse_tragedy_marius *dist2_decaux_verse_tragedy *id_ARISBE *date_1715 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_arisbe
+
 
 Il est temps, Marius, de s'armer de constance :
 D'aujourd'hui seulement votre malheur commence.
@@ -1263,8 +1264,8 @@ Qui m'a voit ordonné d'éloigner ce que j'aime.
 Dans ce même moment j'entends encor sa voix :
 Elle parle, et voilà l'ordre que j'en reçois.
 
-
 **** *creator_decaux *book_decaux_marius *style_verse *genre_tragedy *dist1_decaux_verse_tragedy_marius *dist2_decaux_verse_tragedy *id_CETHEGUS *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cethegus
+
 
 Qui peut vous retenir, Seigneur, sur cette rive ?
 Un Romain doit rougir d'une douleur oisive ;
@@ -1388,8 +1389,8 @@ Dont l'aspect menaçant perce au travers des ombres,
 Et qui fixant sur lui leurs avides regards,
 Annoncent le péril qui vient de toutes parts.
 
-
 **** *creator_decaux *book_decaux_marius *style_verse *genre_tragedy *dist1_decaux_verse_tragedy_marius *dist2_decaux_verse_tragedy *id_NUMERIUS *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_numerius
+
 
 Seigneur, je l'avouerai, j'ai peine à vous répondre ;
 Et tout ce que je vois a droit de me confondre.
@@ -1444,8 +1445,8 @@ Le jeune Marius a mérité son zèle :
 Ce roi veut le servir, seigneur ; jugez de là
 Comment il peut traiter l'envoyé de Sylla.
 
-
 **** *creator_decaux *book_decaux_marius *style_verse *genre_tragedy *dist1_decaux_verse_tragedy_marius *dist2_decaux_verse_tragedy *id_NERBAL *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nerbal
+
 
 Oui, seigneur, un projet si grand, si légitime,
 Du reste des humains mériterait l'estime ;
@@ -1518,8 +1519,8 @@ S'enfle au bord de la barque, et leur aide à monter ;
 La rame fend les eaux, et, dans notre poursuite,
 Nous laisse seulement spectateurs de leur fuite.
 
-
 **** *creator_decaux *book_decaux_marius *style_verse *genre_tragedy *dist1_decaux_verse_tragedy_marius *dist2_decaux_verse_tragedy *id_PHENICE *date_1715 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phenice
+
 
       Madame, oserez-vous
 Paraître en cet état devant ses yeux jaloux ?.
@@ -1542,4 +1543,3 @@ Dans cet autre son fils.
 Madame, songez-vous en quels périls....
 
 Madame, le roi vient : armez-vous de vertu.
-

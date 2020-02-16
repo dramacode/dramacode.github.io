@@ -2,6 +2,7 @@
 
 **** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *id_HERCULE *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hercule
 
+
 Puissant moteur des cieux, ferme appui de la terre,
 Seul être souverain, seul maître du tonnerre,
 Goûte enfin, roi des dieux, le doux fruit de mes faits,
@@ -543,8 +544,8 @@ Que tous les peuples de ce lieu
 Et qu'ils conservent la mémoire
 De la mort qui m'a fait un dieu.
 
-
 **** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *id_DEJANIRE *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dejanire
+
 
 Enfin Iole est votre, et ses caresses prêtes
 De gloire et de plaisir vont combler vos conquêtes ;
@@ -913,8 +914,8 @@ Pour ne rebrousser pas contre une malheureuse ;
 Allons de mille coups sur ce coupable corps,
 Réparer une mort pire que mille morts.
 
-
 **** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *id_IOLE *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iole
+
 
       Ô requête sévère !
 De quel œil puis-je voir le meurtrier de mon père ?
@@ -1119,8 +1120,8 @@ D'un esclave innocent et d'une malheureuse.
 Que ce fils glorieux vous comble de plaisirs
 Et rende votre gloire égale à vos désirs.
 
-
 **** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *id_LUCINDE *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucinde
+
 
 Dieux ! Que la jalousie en un jeune courage,
 Alors qu'on aime bien, est une extrême rage !
@@ -1239,8 +1240,16 @@ Mais on amène Arcas...
 
 Ô bonheur sans pareil !
 
+**** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *id_ARSIDES *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_arsides
+
+
+Si parmi ses ennuis on le peut reconnaître,
+Cet objet de vos voeux paraît à la fenêtre.
+Voilà ce beau captif de tant d'yeux adoré.
+Comme dans ces prisons son teint s'est alteré !
 
 **** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *id_ARCAS *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_arcas
+
 
 Est-ce vous, mon soleil ? Quelle heureuse nouvelle
 Recevrai-je aujourd'hui d'une bouche si belle ?
@@ -1298,8 +1307,8 @@ Ainsi la loi du sort marqua ma dernière heure.
 Que ce coeur et ce bras soient vôtres sans réserve,
 Et ne me conservez qu'afin que je vous serve.
 
-
 **** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *id_PHILOCTETE *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philoctete
+
 
 Priez que le repos couronne le mérite,
 Qu'enfin de vos travaux la borne soit prescrite,
@@ -1476,8 +1485,8 @@ Bénissons ce héros, publions sa louange,
 Rendons à sa vertu des honneurs immortels,
 Et d'un commun dessein dressons lui des autels.
 
-
 **** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *id_AGIS *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_agis
+
 
 Ô Ciel !
 
@@ -1564,8 +1573,8 @@ Et que nos lâchetés n'altèrent point sa gloire.
 
 Ô fille malheureuse !
 
-
 **** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *id_ALCMENE *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alcmene
+
 
 Voilà donc ce vainqueur de la terre et de l'onde.
 Ô cruel changement ! Ô douleur sans seconde !
@@ -1730,3 +1739,7 @@ Qu'Arcas prenne le prix des maux qu'il a soufferts,
 Et que par les douceurs d'un heureux hyménée
 De ce couple d'amants la peine soit bornée.
 
+**** *creator_rotrou *book_rotrou_herculemourant *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_herculemourant *dist2_rotrou_verse_tragedy *id_LICHAS *date_1634 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lichas
+
+
+      Je le tiens de la reine.

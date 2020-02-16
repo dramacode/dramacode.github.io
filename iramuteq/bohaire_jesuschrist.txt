@@ -2,6 +2,7 @@
 
 **** *creator_bohaire *book_bohaire_jesuschrist *style_verse *genre_tragedy *dist1_bohaire_verse_tragedy_jesuschrist *dist2_bohaire_verse_tragedy *id_JESUS *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jesus
 
+
       Relevez-vous !.... Allez , ô Madeleine !
 La foi, le repentir vont briser votre chaîne.
 En vain l'esprit impur, pour régner sur vos sens ,
@@ -334,8 +335,8 @@ Donnant l'exemple en tout, en public, en ce lieu
 Que l'homme ne doit plus esclave en sa patrie
 De la foi des docteurs, et de l'idolâtrie.
 
-
 **** *creator_bohaire *book_bohaire_jesuschrist *style_verse *genre_tragedy *dist1_bohaire_verse_tragedy_jesuschrist *dist2_bohaire_verse_tragedy *id_PILATE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pilate
+
 
 J'admire sa sagesse et prise son système ;
 Ce sont ses qualités que j'estime et que j'aime ;
@@ -754,8 +755,8 @@ Survivront dans nos coeurs au temple de mémoire :
 Entendez-vous ce peuple et des cris et ces chants ?
 Tout de leur allégresse annonce les accents.
 
-
 **** *creator_bohaire *book_bohaire_jesuschrist *style_verse *genre_tragedy *dist1_bohaire_verse_tragedy_jesuschrist *dist2_bohaire_verse_tragedy *id_CAIPHE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caiphe
+
 
 Quoi ! Seigneur ! Vous pourriez croire à telle imposture !
 Confondre l'Éternel avec sa Créature !
@@ -920,8 +921,8 @@ Du premier imposteur qui pour les étouffer
 Et les perdre à son gré par son hypocrisie,
 De paraître un prophète aura la frénésie.
 
-
 **** *creator_bohaire *book_bohaire_jesuschrist *style_verse *genre_tragedy *dist1_bohaire_verse_tragedy_jesuschrist *dist2_bohaire_verse_tragedy *id_MADELEINE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madeleine
+
 
 Ô grand Dieu ! Madeleine à tes pieds prosternée,
 Implore ta clémence ! Elle-même étonnée
@@ -1116,3 +1117,17 @@ Les moyens de jouir de toute sa bonté...
 Pilate avec Caïphe en ces lieux va paraître
 Leur demarche et leur voix je pense reconnaître.
 
+**** *creator_bohaire *book_bohaire_jesuschrist *style_verse *genre_tragedy *dist1_bohaire_verse_tragedy_jesuschrist *dist2_bohaire_verse_tragedy *id_ZELINE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_zeline
+
+
+Si Jésus est un Dieu, croyez-vous que l'amour
+Peut vous faire espérer le plus léger retour ?
+Aux bonnes actions Jésus toujours se livre,
+Et c'est le seul plaisir dont son âme s'enivre :
+Vous pouvez l'adorer ; mais l'aimer dans l'espoir
+Qu'une amante pourrait avec un autre avoir,
+C'est se tromper, Madame : en vain d'une alliance
+Vous pouvez pour un Dieu méditer l'espérance.
+
+Madame, vers ces lieux, il s'avance des Prêtres
+Parlant avec chaleur....

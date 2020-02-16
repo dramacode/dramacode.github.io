@@ -2,6 +2,7 @@
 
 **** *creator_coupignybarrepiisdesfontaines *book_coupignybarrepiisdesfontaines_hommageracine *style_verse *genre_vaudeville *dist1_coupignybarrepiisdesfontaines_verse_vaudeville_hommageracine *dist2_coupignybarrepiisdesfontaines_verse_vaudeville *id_PETITJEAN *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_petitjean
 
+
 Ma foi, plus j'y réfléchis, plus je me trouve heureux, moi Petit-Jean, d'être devenu concierge des Champs-Élysées. Voilà ce que c'est qu'une bonne protection !
 Racine, qui fit mon destin,
 Avant de descendre aux lieux sombres,
@@ -187,8 +188,8 @@ Avant de les lui prêter !
 Il a, d'après son langage,
 Trop besoin de les garder.
 
-
 **** *creator_coupignybarrepiisdesfontaines *book_coupignybarrepiisdesfontaines_hommageracine *style_verse *genre_vaudeville *dist1_coupignybarrepiisdesfontaines_verse_vaudeville_hommageracine *dist2_coupignybarrepiisdesfontaines_verse_vaudeville *id_ANTOINE *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antoine
+
 
 Mon ami, je vous apporte
 Des fruits de plus d'une sorte.
@@ -275,8 +276,8 @@ Et qu'avec sa voix rustique
 Qu'accompagne un flageolet,
 Aux dieux de l'art dramatique
 
-
 **** *creator_coupignybarrepiisdesfontaines *book_coupignybarrepiisdesfontaines_hommageracine *style_verse *genre_vaudeville *dist1_coupignybarrepiisdesfontaines_verse_vaudeville_hommageracine *dist2_coupignybarrepiisdesfontaines_verse_vaudeville *id_MOLIERE *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moliere
+
 
 Non ; mais pourquoi serais-je toujours sombre ? Thalie est encore la moins maltraitée des Muses, et je lui sais par-ci par-là quelques bonnes fortunes.
 Elle a noué passablement
@@ -335,8 +336,8 @@ Qu'il jette, en riant, des fleurs.
 
 Elle s'y entend, Laforest.
 
-
 **** *creator_coupignybarrepiisdesfontaines *book_coupignybarrepiisdesfontaines_hommageracine *style_verse *genre_vaudeville *dist1_coupignybarrepiisdesfontaines_verse_vaudeville_hommageracine *dist2_coupignybarrepiisdesfontaines_verse_vaudeville *id_BOILEAU *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_boileau
+
 
 J'avais proscrit les Chapelains,
 Les Linières, les Bonne-Corse,
@@ -403,8 +404,8 @@ Hâtez-vous de profiter ;
 Chaque soir songez à rendre
 Ceux qu'on pourra vous prêter.
 
-
 **** *creator_coupignybarrepiisdesfontaines *book_coupignybarrepiisdesfontaines_hommageracine *style_verse *genre_vaudeville *dist1_coupignybarrepiisdesfontaines_verse_vaudeville_hommageracine *dist2_coupignybarrepiisdesfontaines_verse_vaudeville *id_LAFOREST *date_1798 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laforest
+
 
 Voici du nectar frais.
 
@@ -495,4 +496,3 @@ Prenez pour votre devise
 Malice et gaîté sans fiel,
 Raison, décence et franchise,
 Surtout soyez naturel.
-

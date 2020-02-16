@@ -2,6 +2,7 @@
 
 **** *creator_campistron *book_campistron_adrien *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_adrien *dist2_campistron_verse_tragedy *id_DIOCLETIEN *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_diocletien
 
+
 Ma fille, Marcellin arrivé dans ces lieux,
 Vient de me confirmer les succès glorieux
 Qu'avait jusqu'en ces murs porte la Renommée :
@@ -338,8 +339,8 @@ Des peuples curieux éviter les regards ;
 Et du moins pour un Dieu dont la gloire me gêne,
 Nourrir dans la retraite une immortelle haine.
 
+**** *creator_campistron *book_campistron_adrien *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_adrien *dist2_campistron_verse_tragedy *id_VALERIE *date_1690 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_valerie
 
-**** *creator_campistron *book_campistron_adrien *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_adrien *dist2_campistron_verse_tragedy *id_VALERIE *date_1690 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_valerie
 
 Hélas !
 
@@ -1053,8 +1054,8 @@ Mais allons, des Chrétiens, suspendre les alarmes,
 Et joignant mes devoirs à leurs actes pieux,
 Honorer d'un Époux les restes précieux.
 
-
 **** *creator_campistron *book_campistron_adrien *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_adrien *dist2_campistron_verse_tragedy *id_ADRIEN *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adrien
+
 
 Que les moments sont longs loin de votre présence !
 Madame, que mon cœur sentait d'impatience !
@@ -1381,8 +1382,8 @@ Contre le nom Chrétien leur rage en vain conspire ;
 Ce nom saint durera plus que leur vaste Empire.
 Allons.
 
-
 **** *creator_campistron *book_campistron_adrien *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_adrien *dist2_campistron_verse_tragedy *id_JULIE *date_1690 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+
 
 Vous vous cachez, Madame, et vous fuyez mes soins ;
 Mes yeux sont-ils ici de profanes témoins ?
@@ -1575,8 +1576,8 @@ Des tigres dévorants, des lions redoutables,
 Sont gardés avec soin pour punir les coupables,
 C'est vous en dire assez.
 
-
 **** *creator_campistron *book_campistron_adrien *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_adrien *dist2_campistron_verse_tragedy *id_MARCELLIN *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marcellin
+
 
 Je cherchais l'Empereur, Madame, pour lui dire
 Que nos dieux font vengés, et que le traître expire.
@@ -1688,8 +1689,8 @@ Ma surprise égale à votre étonnement.
 Mais puissai-je éprouver le plus cruel tourment,
 Si j'ai manqué pour vous ni de soin, ni de zèle.
 
-
 **** *creator_campistron *book_campistron_adrien *style_verse *genre_tragedy *dist1_campistron_verse_tragedy_adrien *dist2_campistron_verse_tragedy *id_SERGESTE *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sergeste
+
 
 Est-ce vous, Marcellin ? Sébaste est arrêté.
 De César, par mes soins, l'ordre est exécuté.
@@ -1757,4 +1758,3 @@ Les vieillards languissants s'efforcent d'y marcher.
 La jeunesse à l'envi vole pour la chercher.
 Le père offre son fils, espoir de sa famille ;
 Et la mère avec joie y présente sa fille.
-

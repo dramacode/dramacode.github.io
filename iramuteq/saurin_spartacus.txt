@@ -2,6 +2,7 @@
 
 **** *creator_saurin *book_saurin_spartacus *style_verse *genre_tragedy *dist1_saurin_verse_tragedy_spartacus *dist2_saurin_verse_tragedy *id_SPARTACUS *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_spartacus
 
+
 Albin ne revient point... Affreuse incertitude !
 Je succombe au tourment de mon inquiétude ;
 Je n'y puis résister, et tremble d'en sortir.
@@ -694,8 +695,8 @@ Je lui dois le bonheur d'échapper à ton char.
 Spartacus expirant brave l'orgueil du Tibre :
 Il vécut non sans gloire, et meurt en homme libre.
 
-
 **** *creator_saurin *book_saurin_spartacus *style_verse *genre_tragedy *dist1_saurin_verse_tragedy_spartacus *dist2_saurin_verse_tragedy *id_CRASSUS *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crassus
+
 
 Les dieux vous ont sur nous accordé l'avantage,
 Mais à votre valeur je dois ce noble hommage
@@ -803,8 +804,8 @@ Il faut la voir... Qu'ici Spartacus soit gardé.
       Tout a fui, nos drapeaux sont vainqueurs...
 Que vois-je ? Juste ciel !... Quoi ! Ma fille... Ah ! Barbare...
 
-
 **** *creator_saurin *book_saurin_spartacus *style_verse *genre_tragedy *dist1_saurin_verse_tragedy_spartacus *dist2_saurin_verse_tragedy *id_EMILIE *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_emilie
+
 
 Ah ! Que dis-tu, Sabine ? Et quelle est ton erreur !
 Spartacus un barbare !... Aveugles que nous sommes !
@@ -1214,8 +1215,8 @@ Tiens...
 
 Tu vois si je t'aimais, Spartacus ?... Je me meurs.
 
-
 **** *creator_saurin *book_saurin_spartacus *style_verse *genre_tragedy *dist1_saurin_verse_tragedy_spartacus *dist2_saurin_verse_tragedy *id_MESSALA *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_messala
+
 
       Mon coeur est sans effroi :
 Je connais Spartacus ; sa parole est mon gage,
@@ -1293,8 +1294,8 @@ Le bras de Spartacus se trouve sans défense,
 Et ce grand homme alors, cédant avec constance...
 Mais le voici, Seigneur.
 
-
 **** *creator_saurin *book_saurin_spartacus *style_verse *genre_tragedy *dist1_saurin_verse_tragedy_spartacus *dist2_saurin_verse_tragedy *id_NORICUS *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_noricus
+
 
 Oui, Sunnon, en secret, démentant sa fierté,
 Rome aux Insubriens offre la liberté :
@@ -1520,8 +1521,8 @@ Oui, mon âme, en secret, combattue, incertaine,
 Je sens qu'au fond du coeur le trait est demeuré...
 Crassus me promet tout, Crassus désespérée...
 
-
 **** *creator_saurin *book_saurin_spartacus *style_verse *genre_tragedy *dist1_saurin_verse_tragedy_spartacus *dist2_saurin_verse_tragedy *id_ALBIN *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_albin
+
 
       Je tremble de parler...
 Ah ! De quel coup, seigneur, je vais vous accabler !
@@ -1570,8 +1571,8 @@ Tandis que les Romains attaquent de deux autres.
 
       Déjà dans les rangs le désordre s'est mis.
 
-
 **** *creator_saurin *book_saurin_spartacus *style_verse *genre_tragedy *dist1_saurin_verse_tragedy_spartacus *dist2_saurin_verse_tragedy *id_SUNNON *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sunnon
+
 
 Je plains ce fils si cher que vous avez perdu ;
 Mais, pour être vengé, vous sera-t-il rendu ?
@@ -1634,8 +1635,8 @@ Hâtez-vous de saisir l'occasion présente,
 Tandis que des Gaulois la cohorte puissante
 Tient le poste important par eux-même forcé.
 
-
 **** *creator_saurin *book_saurin_spartacus *style_verse *genre_tragedy *dist1_saurin_verse_tragedy_spartacus *dist2_saurin_verse_tragedy *id_SABINE *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sabine
+
 
 Eh ! Qui ne frémirait du sort qu'on nous prépare,
 Madame ? Spartacus fut toujours un barbare,
@@ -1680,4 +1681,3 @@ Eh ! Vous louez le bras armé pour nous détruire ?
 Un ennemi de Rome ?
 
 Quelqu'un vient...
-

@@ -2,6 +2,7 @@
 
 **** *creator_regnard *book_regnard_distrait *style_verse *genre_comedy *dist1_regnard_verse_comedy_distrait *dist2_regnard_verse_comedy *id_LEANDRE *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
 
+
 Je ne sais si l'absence, aux amants peu propice,
 Ne m'a point effacé de l'esprit de Clarice.
 On en trouve bien peu de ces coeurs généreux
@@ -456,8 +457,8 @@ Pour aller voir mon oncle, et partir au plus tôt.
 
 Tu m'en fais souvenir, je l'avais oublié.
 
-
 **** *creator_regnard *book_regnard_distrait *style_verse *genre_comedy *dist1_regnard_verse_comedy_distrait *dist2_regnard_verse_comedy *id_CLARICE *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clarice
+
 
 Chaque amant parle ainsi : mais souvent, de retour,
 Il oublie avec lui de ramener l'amour.
@@ -647,8 +648,8 @@ Dis-nous donc, si tu veux, cette action si noire.
 
 Une autre fois aussi je serai plus discrète.
 
-
 **** *creator_regnard *book_regnard_distrait *style_verse *genre_comedy *dist1_regnard_verse_comedy_distrait *dist2_regnard_verse_comedy *id_ISABELLE *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
 
 J'ignorais qu'une fille, au mot de mariage,
 D'une prompte rougeur dût couvrir son visage.
@@ -808,8 +809,8 @@ Adieu.
 
 Lorsque j'en donnerai, je serai plus secrète.
 
-
 **** *creator_regnard *book_regnard_distrait *style_verse *genre_comedy *dist1_regnard_verse_comedy_distrait *dist2_regnard_verse_comedy *id_LECHEVALIER *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
 
 Bonjour, mon oncle. Ah ! Ah ! Lisette, te voilà !
 Je ne veux de ma vie oublier celui-là.
@@ -1260,8 +1261,8 @@ Allons, embrassez-vous, vous ne sauriez mieux faire ;
 Vous serez belles-soeurs. Mais, surtout, gardez-vous
 De prendre à l'avenir le même rendez-vous.
 
-
 **** *creator_regnard *book_regnard_distrait *style_verse *genre_comedy *dist1_regnard_verse_comedy_distrait *dist2_regnard_verse_comedy *id_VALERE *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+
 
 Quoi ! Toujours opposée à toute une famille ?
 
@@ -1504,8 +1505,8 @@ Et je donne de plus cette somme à ma nièce.
 
 Rentrons, et sur-le-champ terminons cette affaire.
 
-
 **** *creator_regnard *book_regnard_distrait *style_verse *genre_comedy *dist1_regnard_verse_comedy_distrait *dist2_regnard_verse_comedy *id_LISETTE *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
       Eh bien, Lisette ! Est-ce fait ? Me voilà.
 
@@ -1845,8 +1846,8 @@ Quand votre époux, jadis grand-gruyer de Berri,
 Voulut vous enlever, vous le laissâtes faire :
 Votre fille est encor plus sage que sa mère.
 
-
 **** *creator_regnard *book_regnard_distrait *style_verse *genre_comedy *dist1_regnard_verse_comedy_distrait *dist2_regnard_verse_comedy *id_CARLIN *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_carlin
+
 
 Fraîchement débarqué, je parAis à tes yeux,
 Et mes cheveux encor sont sous la papillote.
@@ -2397,4 +2398,3 @@ Ah ciel ! Un jour de noce oublier une femme !
 Cette erreur me paraît un peu digne de blâme ;
 Pour le lendemain, passe ; et j'en vois aujourd'hui
 Qui voudraient bien pouvoir l'oublier comme lui.
-

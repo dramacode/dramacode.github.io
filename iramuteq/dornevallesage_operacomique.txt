@@ -2,6 +2,7 @@
 
 **** *creator_dornevallesage *book_dornevallesage_operacomique *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_operacomique *dist2_dornevallesage_verse_opera comique *id_LACOMEDIEFRANCAISE *date_1730 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomediefrancaise
 
+
 Eh quoi ? La Troupe Romaine
 Ne détruira jamais le Comique-Qpéra !
 
@@ -128,8 +129,8 @@ Il y a de 1a franchise dans cet aveu.
 
 La Traîtresse !
 
-
 **** *creator_dornevallesage *book_dornevallesage_operacomique *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_operacomique *dist2_dornevallesage_verse_opera comique *id_LACOMEDIEITALIENNE *date_1730 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomedieitalienne
+
 
 Quoi donc ? L'Italienne,
 Faridondaine,
@@ -235,8 +236,70 @@ Et de la vérité. Je voudrais qu'il n'y eût à Paris que notre troupe.
 
 Ne perdons point de temps, expédiez les l'un et l'autre.
 
+**** *creator_dornevallesage *book_dornevallesage_operacomique *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_operacomique *dist2_dornevallesage_verse_opera comique *id_LOPERA *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lopera
+
+
+Qu'est-ce donc que cela ?
+
+Oui, mes Enfants, l'Opéra
+Toujours vous protégera.
+Quoi ? Vous ne voudrez donc jamais
+Laisser mes Amis en paix !
+Je vous écraserai tous.
+Redoutez mes coups,
+Ô Coeurs jaloux !
+Fuyez, fuyez, éloignez- vous,
+Pour éviter mon courroux.>
+	
+Et toi, Monstre fatal,
+Affreux Animal,
+Échappé du séjour infernal !
+À nous tu t'adresses bien mal.
+Reçois, Méchant,
+Dans ce moment,
+Ton châtiment.
+Pour ton tourment,
+Je vais promptement
+Te lier fortement,
+T'envoyer aux Enfers,
+Expier dans les fers.
+Tous les maux que par toi les Forains ont soufferts.
+
+Enfants, j'ai fini mon ouvrage.
+Je ne puis plus rien pour vos jours :
+N'attendez plus d'autre secours
+Que de votre courage.
+
+**** *creator_dornevallesage *book_dornevallesage_operacomique *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_operacomique *dist2_dornevallesage_verse_opera comique *id_SCARAMOUCHE *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scaramouche
+
+
+Grande nouvelle, Mesdames, grande nouvelle !
+
+Le Malade par complaisance
+À petit pas ici s'avance,
+Escorté d'un joli garçon,
+Appelé Le Bal du Parnasse.
+Tous deux conduisent un Caisson,
+Ils vont ravitailler la Place.
+
+La Reine du Barostan,
+Vient ici, tambour battant.
+Les Couplets sont avec elle...
+Et leur dessein est, dit-on,
+D'aller de la Citadelle
+Renforcer la Garnison.
+
+**** *creator_dornevallesage *book_dornevallesage_operacomique *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_operacomique *dist2_dornevallesage_verse_opera comique *id_PIERRETTE *date_1730 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pierrette
+
+
+Quelle horreur ! Quel triste ravage !
+Le Monstre redouble sa rage !
+L'Opéra s'expose pour nous !
+Grands Dieux, donnez-lui l'avantage,
+Conduisez son bras et ses coups !
 
 **** *creator_dornevallesage *book_dornevallesage_operacomique *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_operacomique *dist2_dornevallesage_verse_opera comique *id_MEZZETIN *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mezzetin
+
 
 Vole à nous, Cousin l'Opéra ?
 Contre ces vilains : monstres-là
@@ -253,8 +316,40 @@ Victoire ! Victoire ! Victoire !
 Nous avons pour notre Chef
 Le courageux Fils d'Ulysse.
 
+**** *creator_dornevallesage *book_dornevallesage_operacomique *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_operacomique *dist2_dornevallesage_verse_opera comique *id_LACHICANE *date_1730 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lachicane
+
+
+En bâche Normandie
+Ton ordre a pénétré,
+O chuch' ma fey !
+Je viens t'offrir, ma Mie,,
+Tout le pouvoir que j'ay.;
+O chuch' ma fey.
+Vér' guieu m'damne !
+Donn' z'au guiéble !
+Qui se prend à tey,
+Se prend à mey,
+O chuch' ma fey !
+
+Venez, l'Envie et la Fraude,
+Allons leur donner l'assaut :
+Cà, çà , çà, qu'on les galvaude
+Vaude, vaude,
+Çà, çà , çà, qu'on les galvaude
+Comme il faut.
+
+**** *creator_dornevallesage *book_dornevallesage_operacomique *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_operacomique *dist2_dornevallesage_verse_opera comique *id_LEMALADE *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemalade
+
+
+Vive le Comique-Opéra.
+
+Madame de l'Italie,
+Épargnez-moi, je vous prie !
+Je n'ai qu'un souffle de vie...
+Je suis votre prisonnier.
 
 **** *creator_dornevallesage *book_dornevallesage_operacomique *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_operacomique *dist2_dornevallesage_verse_opera comique *id_CALLISTHENE *date_1730 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_callisthene
+
 
 Madame, vous voyez le bouillant Callisthéne.
 En Chevalier Errant ,touché de votre peine,
@@ -291,8 +386,8 @@ J'enrage !
 C'en est fait, je me meurs. Âme double et sans foi !
 Bientôt ton imprimeur me vengera de toi.
 
-
 **** *creator_dornevallesage *book_dornevallesage_operacomique *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_operacomique *dist2_dornevallesage_verse_opera comique *id_SAMSON *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_samson
+
 
 Où sont-ils,
 Ces Forains maudits ?
@@ -348,3 +443,7 @@ Comme un soleil suffît au Céleste lambris,
 Un Théâtre suffit pour divertir Paris.
 N'est-ce pas, Seigneur Callisthène ?
 
+**** *creator_dornevallesage *book_dornevallesage_operacomique *style_verse *genre_opera comique *dist1_dornevallesage_verse_opera comique_operacomique *dist2_dornevallesage_verse_opera comique *id_TELEMAQUE *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_telemaque
+
+
+Je suis plus fort que Samson, moi.

@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *id_THALIE *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
 
+
 Quelle favorable puissance
 A rétabli les agréments,
 La pompe et la magnificence
@@ -130,8 +131,8 @@ Je vous seconderai de toute ma puissance.
 
 Non, le simple.
 
-
 **** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *id_CRISPIN *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
+
 
 Dieu vous garde, Madame Thalie.
 Hé ! Depuis quand à Paris de retour ?
@@ -311,8 +312,8 @@ En sa faveur aussi… Voici ce qu'il faut faire.
 Agréez nos efforts, louez, applaudissez,
 Venez en foule, et souvent, c'est assez.
 
-
 **** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *id_MADEMOISELLEDESMARRES *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoiselledesmarres
+
 
 Pourquoi donc ? Nous venons de remettre Psyché,
 Avec tout le succès qu'on s'en pouvait promettre.
@@ -374,8 +375,57 @@ D'heureux destins
 Sont en vos mains,
 C'est à vous de les faire, à nous de les attendre.
 
+**** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *id_MONSIEURPONTEUIL *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurponteuil
+
+
+S'il faut tôt ou tard que l'on aime,
+Si les traits des amours ne peuvent se parer,
+N'est-ce pas une erreur extrême
+De s'obstiner à différer,
+S'il faut tôt ou tard que l'on aime,
+
+**** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *id_MONSIEURSALLE *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieursalle
+
+
+Tous les moments que l'on diffère
+Sans éteindre nos feux contraignent nos désirs,
+L'amour est un mal nécessaire,
+Et l'on dérobe à ses plaisirs
+Tous les moments que l'on diffère
+
+On ne saurait être heureux,
+Si l'on n'a pas l'art de plaire,
+Si l'on n'est pas amoureux,
+On ne saurait être heureux,
+Sans amour on ne plaît guère.
+On ne saurait être heureux,
+Si l'on n'a pas l'art de plaire,
+L'on ne saurait être heureux,
+Si l'on n'est pas amoureux,
+
+À la santé de Colin,
+L'heureux mari de Colette ;
+Outre qu'il est mon voisin,
+C'est qu'il aime le vin,
+C'est qu'il aime le vin.
+Sa femme aime peu la diète.
+Fessons notre vin,
+Buvons à Colette,
+Fessons notre vin,
+Buvons à Colin.
+Vive Colette et Colin,
+Et les enfants qu'ils vont faire.
+Comme je suis bon voisin,
+J'en serai le Parrain,
+J'en serai le Parrain.
+Colin prendra bien l'affaire.
+S'il n'est pas certain
+D'en être le père,
+Il sera certain
+D'avoir bon voisin.
 
 **** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *id_LACOMTESSE *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+
 
 Et qui les a conduits ?
 
@@ -561,8 +611,8 @@ Il est juste, et j'en fais le prix de votre flamme.
 
 Allons.
 
-
 **** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *id_OLIMPE *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_olimpe
+
 
 C'est encor l'Inconnu.
 
@@ -675,8 +725,8 @@ Si ma mère y consent, je vous réponds de moi.
 
 C'est un extravagant dont nous sommes défaits.
 
-
 **** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *id_LEMARQUIS *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+
 
       Vous devez les attendre,
 Madame, et l'Inconnu ne saurait moins prétendre :
@@ -741,8 +791,8 @@ Que ne ferais-je point ?
 
       Puisse l'Amour ne nous quitter jamais.
 
-
 **** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *id_LECHEVALIER *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
 
 Quoique j'ignore encor quel spectacle on apprête,
 Je puis vous préparer à quelque grande fête,
@@ -776,8 +826,8 @@ Madame, je puis donc prétendre à votre foi ?
 
       La retraite est gaillarde.
 
-
 **** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *id_LEVICOMTE *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levicomte
+
 
       Ah, serviteur. Ne vous manque-t-il rien,
 Pour nous pouvoir ici donner la Comédie ?
@@ -933,8 +983,8 @@ Oui, de mes pas pour vous c'est donc là le succès,
 Se charge qui voudra du soin de vos procès.
 Adieu.
 
-
 **** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *id_LAMONTAGNE *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamontagne
+
 
 Nous ne faisons qu'arriver de Paris,
 Où pour avoir dit des nouvelles
@@ -988,3 +1038,14 @@ Mais quoi…
 Regardez ce portrait, vous saurez mon pouvoir,
 Et quel est l'Inconnu.
 
+**** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *id_VIRGINIE *date_1703 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_virginie
+
+
+Ah, que la mariée est drôle !
+
+**** *creator_dancourt *book_dancourt_inconnu *style_verse *genre_comedy *dist1_dancourt_verse_comedy_inconnu *dist2_dancourt_verse_comedy *id_CASCARET *date_1703 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cascaret
+
+
+Madame…
+
+      Un Monsieur vous demande.

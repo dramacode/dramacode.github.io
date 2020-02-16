@@ -2,6 +2,7 @@
 
 **** *creator_fuzelier *book_fuzelier_orphee *style_verse *genre_divertissement *dist1_fuzelier_verse_divertissement_orphee *dist2_fuzelier_verse_divertissement *id_ARLEQUIN *date_1716 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
+
 Si je reprends ma femme hélas !
 Quels caquets ne fera-t-on pas ?
 Ôtons cela de notre tête :
@@ -26,3 +27,12 @@ Qui paraissez dans le ravissement,
 Si ce n'était ma femme, je proteste,
 Je ne jouerais plus de cet instrument.
 
+**** *creator_fuzelier *book_fuzelier_orphee *style_verse *genre_divertissement *dist1_fuzelier_verse_divertissement_orphee *dist2_fuzelier_verse_divertissement *id_SCARAMOUCHE *date_1716 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scaramouche
+
+
+Dites-moi Monsieur l'intendant,
+Auriez-vous fait tant le fendant,
+Si vous n'aviez pas comme un traître
+Prêté l'argent de votre Maître
+À grosse usure à vos amis
+Comme font d'autres dans Paris?

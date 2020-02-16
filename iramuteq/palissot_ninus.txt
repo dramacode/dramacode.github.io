@@ -2,6 +2,7 @@
 
 **** *creator_palissot *book_palissot_ninus *style_verse *genre_tragedy *dist1_palissot_verse_tragedy_ninus *dist2_palissot_verse_tragedy *id_SARDANAPALE *date_1761 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sardanapale
 
+
       Il est temps de rompre le silence...
 Madame. Un autre objet me retient dans ses fers..
 Je vais , avec ma main, lui donner l'univers.
@@ -158,8 +159,8 @@ Du moins à mes fureurs tu connaîtras ton Roi.
 Tu frémiras d'horreur au choix de la victime,
 Traître, je t'apprendrai comme on punit le crime.
 
-
 **** *creator_palissot *book_palissot_ninus *style_verse *genre_tragedy *dist1_palissot_verse_tragedy_ninus *dist2_palissot_verse_tragedy *id_CALCIOPE *date_1761 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_calciope
+
 
 Dieux, veillez sur ses jours, par mes soins conservés !
 Dieux, que Sardanapale a trop long-temps bravés,
@@ -459,8 +460,8 @@ Vous, veillez sur sa vie ;
 Et rendez grâce au Ciel qui, par de justes lois,
 Affermit sur le trône, ou renverse les Rois.
 
-
 **** *creator_palissot *book_palissot_ninus *style_verse *genre_tragedy *dist1_palissot_verse_tragedy_ninus *dist2_palissot_verse_tragedy *id_ARBACES *date_1761 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arbaces
+
 
 S'il partage en effet l'affront de ma famille,
 Pourquoi m'a-t-il caché le malheur de ma fille ?
@@ -630,8 +631,8 @@ Reconnaissez en moi votre premier sujet.
 Des Peuples révoltés qu'excita mon outrage,
 Arbacès désarmé vous offre ici l'hommage.
 
-
 **** *creator_palissot *book_palissot_ninus *style_verse *genre_tragedy *dist1_palissot_verse_tragedy_ninus *dist2_palissot_verse_tragedy *id_ARTAZIRE *date_1761 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_artazire
+
 
 Que tu dois être heureux ! Que sa vertu m'est chère !
 On eût dit qu'en secret un doux pressentiment
@@ -794,8 +795,8 @@ Je n'attends plus de toi que des fers et la mort.
 Je ne m'abaisse point à fléchir ta colère :
 Prononce mon arrêt ; mais crains encor mon père.
 
-
 **** *creator_palissot *book_palissot_ninus *style_verse *genre_tragedy *dist1_palissot_verse_tragedy_ninus *dist2_palissot_verse_tragedy *id_PARAMIS *date_1761 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_paramis
+
 
       Où va-t-il s'engager ?
 Les noeuds secrets du sang n'ont-ils rien qui l'arrête ?
@@ -932,3 +933,8 @@ C'est Ninus par son père à périr condamné :
 C'est moi qui le sauvai, moi dont la vigilance
 Aux fureurs du tyran déroba son enfance.
 
+**** *creator_palissot *book_palissot_ninus *style_verse *genre_tragedy *dist1_palissot_verse_tragedy_ninus *dist2_palissot_verse_tragedy *id_ARSAME *date_1761 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arsame
+
+
+Et pensez-vous, Seigneur, qu'avec un front tranquille,
+Calciope...

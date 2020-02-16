@@ -2,6 +2,7 @@
 
 **** *creator_dufresny *book_dufresny_joueuse *style_prose *genre_comedy *dist1_dufresny_prose_comedy_joueuse *dist2_dufresny_prose_comedy *id_JACINTE *date_1709 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jacinte
 
+
 Ah ! Frosine, je viens d'avoir bien peur.
 
 Je cherchais ma mère ; on m'a dit, elle est là-dedans qui joue : bon, bon, ai-je dit, elle en sera de meilleure humeur ; car quand on joue, je croyais moi que c'était comme au Couvent à la récréation, on joue pour se divertir, mais j'ai vu que le jeu de ma mère, c'était une querelle : on faisait un tintamarre, et tout d'un coup on a fait silence ; ma mère tenait des cartes, et elle en tirait une tout doucement, tout doucement : dès qu'elle a été retournée, il y a eu une femme qui a fait un cri, et la querelle a recommencée : on a refait silence, et ma mère a retourné une autre carte ; c'est à celle-là que j'ai eu bien peur : c'était des hommes comme des ivrognes ; et un autre (qui faisait le possédé avec des grimaces de rage) est venu de toute sa force enfoncer un carreau de vitre avec sa tête qui a passé à travers : ah ! Frosine, comment ma mère peut-elle vivre dans un enfer comme cela ?
@@ -186,8 +187,8 @@ Ne me parlez plus, ne pensez plus à moi, remenez-moi à mon Couvent.
 
 Je ne saurais parler moi.
 
-
 **** *creator_dufresny *book_dufresny_joueuse *style_prose *genre_comedy *dist1_dufresny_prose_comedy_joueuse *dist2_dufresny_prose_comedy *id_DORANTE *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+
 
 Je ne m'ennuie jamais où vous êtes, ma mère.
 
@@ -335,8 +336,8 @@ Non, charmante Jacinte.
 
 Il y a quelques jours, Monsieur, que sous prétexte de jouer, je m'introduisis chez Madame Orgon ; je la trouvai jouant un jeu terrible ; cela m'affligea par rapport à Jacinte ; je risquai cent louis, m'imaginant jouer pour Jacinte, contre une mère qui la ruinait, Jacinte joua de bonheur sous ma main, j'avais déjà gagné deux mille louis quand sa mère m'a manqué de parole : le désespoir m'a fait jouer contre elle à quitte ou à double ; en un mot Jacinte a dans cette bourse en billet et en argent, la dot que sa mère a perdue.
 
-
 **** *creator_dufresny *book_dufresny_joueuse *style_prose *genre_comedy *dist1_dufresny_prose_comedy_joueuse *dist2_dufresny_prose_comedy *id_LECHEVALIER *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
 
 Oui, Lisette, oui, heu, je vais un peu tailler ces femmes : il y a longtemps que je n'ai taillé, que j'en suis malade : pour me guérir, je vais voir si Madame Orgon veut ponter.
 
@@ -506,8 +507,8 @@ La dot perdue ! Que dit votre mari ?
 
 Il n'y a plus de dot ; je ne veux point me marier à cause de ma poitrine.
 
-
 **** *creator_dufresny *book_dufresny_joueuse *style_prose *genre_comedy *dist1_dufresny_prose_comedy_joueuse *dist2_dufresny_prose_comedy *id_LAMARQUISE *date_1709 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
+
 
 Bonjour, monsieur Orgon, bonjour ; permettez-moi que j'achève de demander à mon Laquais, à combien de personnes j'ai promis d'aller passer l'après-midi avec elles. Tu me disais donc, Champagne ?
 
@@ -671,8 +672,8 @@ Vous diriez bien oui pour être mariée peut-être ?
 
 En attendant le Notaire, réjouissez-nous un peu Monsieur Triboulet.
 
-
 **** *creator_dufresny *book_dufresny_joueuse *style_prose *genre_comedy *dist1_dufresny_prose_comedy_joueuse *dist2_dufresny_prose_comedy *id_TRIOLET *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_triolet
+
 
 Paix-là, Messieurs, paix-là ! Hé de grâce qu'on se taise dans l'antichambre. Messieurs les Laquais, taisez-vous, je vous prie : laissez-là vos violons, il me faut un moment de silence. Voyons un peu si ce salon-ci me sera avantageux pour ma voix, là, là, là, là : il résonne beaucoup : là, là, lire... Pas trop pourtant. Voyons si mes cadences y paraîtront perlées là, là, là, ta, à, à, à, là, là... Et s'il rend bien les ports de voix. Là, là ; ha oui, je crois que ce lieu-ci fera paraître ma voix. Un Maître à chanter doit prendre tous ses avantages. Ho la ho, Laquais de Monsieur Orgon, qu'on apporte ici le Clavecin.
 
@@ -935,8 +936,8 @@ Avec cet équipage ?
 
 Je vous ferai donc seulement le récit d'un petit divertissement, qu'on pourrait faire ; mais qui n'est pas encore fait. Opéra du jeu. Ce serait un poème Tragicomique ; le Théâtre représenterait le temple du malheur ; on y verrait le désespoir ; force joueurs poignardés, se poignardant ; voilà le tragique cela. Un choeur infernal de jurements, et d'imprécations ; ce Choeur-là ferait frémir, et c'est le but du Poème qu'Aristote demande. À l'égard du Comique les femmes joueuses en fourniraient de reste. Imaginez-vous des décorations tantôt riches, tantôt délabrées, et à la fin le temple du jeu resterait avec les quatre murailles. J'oublie un sacrifice au Dieu des Brelans, où les hommes sacrifient leur temps, leur santé, leur probité, leur gloire ; et les femmes sacrifient... Que sais-je moi, ces sacrifices-là sont si communs. Mais quel spectacle horrible ! Je vois sortir des enfers l'affreuse Bassette, suivie du Pharaon : Bassette fatale, quatrième Parque filant avec le pouce la vie, ou la mort des aventuriers. C'est leur sacrificateur qui égorge en taillant, et l'on voit les victimes expirer en pontant. Comme il nous manque ici des danses, je fais une entrée de douze dupes enfants de famille vêtus comme des Colonels, et de douze Gascons délabrés. Les deux entrées se réunissent et les Gascons dépouillent les enfants de Paris ; mais nus comme la main : cela serait du spectacle. Que ne puis-je ici vous faire voir l'Opéra que j'ai dans la tête ! Vous y verriez du grand, du merveilleux, du sublime ; car il y aurait un air Italien avec un Vaudeville. Écoutez bien mon Vaudeville, car c'est tout ce que vous aurez de mon Opéra du jeu.
 
-
 **** *creator_dufresny *book_dufresny_joueuse *style_prose *genre_comedy *dist1_dufresny_prose_comedy_joueuse *dist2_dufresny_prose_comedy *id_LISETTE *date_1709 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
 Holà ho, Laquais de Madame Orgon, qu'on apporte ici la table à jouer.
 
@@ -1157,8 +1158,8 @@ Il n'y a ici que de vos amis.
 
 Il a raison : ôtons lui ses pleureuses.
 
-
 **** *creator_dufresny *book_dufresny_joueuse *style_prose *genre_comedy *dist1_dufresny_prose_comedy_joueuse *dist2_dufresny_prose_comedy *id_FROSINE *date_1709 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_frosine
+
 
 Bonjour, Monsieur Triolet, bonjour.
 
@@ -1303,3 +1304,11 @@ Ne dites donc pas que c'est moi.
 
 Hé ! Madame, faut-il que je sois cause...
 
+**** *creator_dufresny *book_dufresny_joueuse *style_prose *genre_comedy *dist1_dufresny_prose_comedy_joueuse *dist2_dufresny_prose_comedy *id_CHAMPAGNE *date_1709 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_champagne
+
+
+Que Monsieur votre oncle, ce vieux Chevalier vous viendra prendre à quinze heures pour l'Opéra.
+
+Il y a Madame la Présidente, qui vous attend à cinq heures pour aller à la Comédie.
+
+Il y a une partie d'ombre à cinq heures aussi.

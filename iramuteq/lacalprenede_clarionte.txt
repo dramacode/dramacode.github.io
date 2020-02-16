@@ -2,6 +2,7 @@
 
 **** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *id_CLARIONTE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clarionte
 
+
 Que j'attire des Dieux la colère équitable,
 Et que leur main punisse une tête coupable,
 Si je saurais répondre à votre passion
@@ -562,8 +563,8 @@ Et redonner la paix au reste de cette Île,
 Puis nous nous remettrons à la merci des eaux,
 Et vous et votre soeur viendrez dans nos vaisseaux.
 
-
 **** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *id_FIDAMANT *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fidamant
+
 
 Le Cerf trouve en ce fort son asile assuré :
 Mais en le poursuivant, je me suis égaré.
@@ -998,8 +999,8 @@ Pour être trop heureux je n'espère plus rien.
 J'en suis si glorieux que je me méconnais,
 Déjà puisqu'il vous plaît je lui donne ma foi.
 
-
 **** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *id_LEROI *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
+
 
 Ces pleurs sur mon esprit n'ont plus assez de charmes.
 Enfin un tel discours ne se peut pardonner,
@@ -1254,8 +1255,8 @@ J'accepte pour mon fils une belle Princesse.
 Que la cruelle loi pour jamais s'abolisse,
 Et que l'on fasse aux Dieux un autre Sacrifice.
 
-
 **** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *id_ROSIMENE *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosimene
+
 
 Ne me reproche point chère âme de mon âme,
 Qu'un déluge de pleurs a démenti ma flamme,
@@ -1834,8 +1835,8 @@ Et de votre rapport.
 
 Je vous retirerai l'un et l'autre de doute.
 
-
 **** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *id_MELIE *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melie
+
 
       Que faut-il que j'excuse,
 Ou que dois-je espérer d'un ingrat qui m'abuse,
@@ -2106,8 +2107,8 @@ Ma volonté dépend de celle de mon père,
 Et pour moi je l'accepte avec autant d'honneur
 Que son affection me comble de bonheur.
 
-
 **** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *id_CALLIANTE *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_calliante
+
 
 Où courez-vous ainsi d'un pas précipité,
 Toujours à mon abord quelque affaire vous presse,
@@ -2219,8 +2220,8 @@ Moi-même je rougis d'être de même sang.
 
 Ô Ciel vit-on jamais un rencontre pareil.
 
-
 **** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *id_FLAMIDORE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_flamidore
+
 
 Vois que ce peuple vil ne s'est pas défendu,
 Ses crimes font horreur, il faut que tout périsse,
@@ -2284,8 +2285,66 @@ Et moi le recevant je dois mourir de joie.
 N'en parlons plus de grâce et recevez un frère,
 Qui vient jusqu'à la mort vous servit et vous plaire.
 
+**** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *id_ARISTON *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ariston
+
+
+Puisque vous désirez en apprendre l'histoire,
+Je vais des maux passés affliger ma mémoire,
+Et vous faire savoir pourquoi les immortels
+Rendent de sang humain horribles nos autels
+Avant que ce malheur affligeât la province
+Dans cette Île jadis régnait un très bon Prince,
+Dont les rares vertus le faisaient en ce lieu
+Honorer et servir comme on eut fait un Dieu,
+Le Ciel en fut jaloux, et borna sa famille.
+En l'avril de ses ans d'un fils et d'une fille :
+Mais il fit voir aussi sa libéralité
+À douer des enfants d'une rare beauté
+Leurs charmes plus qu'humains s'accrurent avec l'âge
+Et l'on était contraint d'adorer leur visage,
+Qui comme deux Soleils brillants dans cette Cour
+Firent voir mille coeurs tous embrasés d'amour :
+Mais las ! Cette beauté qui n'avait point d'égale
+Dans leur âge plus beau leur fut bientôt fatale :
+Car enfin leur orgueil parvint à tel excès,
+Que sans appréhender un funeste succès
+On leur vit mépriser par un discours profane
+La beauté d'Apollon et celle de Diane,
+Ils disent que ces Dieux ont de communs attraits :
+Mais que leurs yeux plus beaux lancent bien d'autres traits,
+Ils vont bien plus avant, et dans leur insolence :
+Ils contraignent le peuple avec violence
+De rendre à leur beauté des honneurs immortels
+Et leur père aveuglé consent à leurs autels
+L'amour de ses enfants sur la fin de son âge
+Trouble l'esprit d'un père auparavant si sage
+Et les sujets enfin courent avec plaisir
+À l'exécution d'un injuste désir :
+Mais bientôt le mépris de la grandeur divine
+Des Princes et du peuple attira la ruine
+Et le frère et la soeur jaloux de leur honneur
+Dépouillèrent ce lieu de son premier bonheur
+Ils mirent dans cette Île un monstre épouvantable
+Dont l'abord dangereux et la rage indomptable,
+Comblèrent ce pays de misère et d'horreur.
+On tâchait vainement d'éviter sa fureur
+Et courant tous les jours jusques dedans les villes
+Il rendit en deux mois ces campagnes stériles.
+On se voulut armer contre cet animal :
+Mais par leurs vains efforts ils accrurent leur mal
+Et pas un n'aborda cette bête inhumaine
+Qu'on ne le vit courir à sa perte certaine
+Ce mal ne fut pas seul, car qui s'évertuait
+D'échapper de ses dents la peste le tuait,
+L'air fut empoisonné, mais d'une telle sorte
+Que l'Île en peu de temps fut presque toute morte
+Enfin désespérés, et les larmes aux yeux
+Tous courent implorer la clémence des Dieux
+Et le peuple à genoux confessant ce miracle
+Le Prêtre du Soleil lui rendit cet Oracle.
 
 **** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *id_LESACRIFICATEUR *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesacrificateur
+
 
 Vous y serez, servi comme vous souhaitez,
 Et le Ciel qui connaît vos bonnes volontés,
@@ -2370,8 +2429,8 @@ Et l'accomplissement de ce dernier oracle
 Promet à ce pays un éternel repos :
 Voyez-en le succès, ce sont ses propres mots.
 
-
 **** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *id_SOLDAT *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_soldat
+
 
 Si le Ciel n'y pourvoit notre perte est prochaine,
 Seigneur à la faveur d'une si sombre nuit,
@@ -2407,3 +2466,57 @@ Le Prince est prisonnier et si votre personne
 Au pied de ces Autels attend qu'on lui pardonne
 Elle l'espère en vain de leur brutalité.
 
+**** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *id_GEOLIER *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_geolier
+
+
+      Madame il y va de ma vie,
+Voudriez-vous à ce prix contenter votre envie,
+Seriez-vous satisfaite après m'avoir perdu,
+Vous savez à quel point cela m'est défendu,
+Puisque c'est votre père et mon Roi qui l'ordonne
+Qu'en ce commandement il n'excepte personne,
+Ne me contraignez pas de vous désobéir,
+Puisque c'est en un mot me perdre et le trahir.
+
+Je ne vous dirai point tous les regrets qu'ils font
+Outre que mon esprit n'en fut jamais capable,
+(Madame) le récit en est trop lamentable :
+Mais pour vous contenter je dirai seulement,
+Qu'ils pourraient amollir un coeur de diamant,
+Et ce que mon esprit trouve de plus étrange,
+C'est que dans leurs regrets ils se rendent le change,
+Quoiqu'ils pleurent tous deux nul ne pleure pour soi,
+Je crois qu'en cet état ils fléchiraient le Roi.
+Doriman que déjà l'on nomme d'autre sorte
+Est dans un désespoir dont l'excès le transporte,
+Il plaint sa Rosimène, elle le plaint aussi,
+Il se jette à ses pieds, implore sa merci
+S'accuse de sa perte, et se dit seul coupable,
+Et dans tous ces transports paraît inconsolable,
+Elle quoiqu'en son front on juge clairement,
+Que tout son déplaisir n'est que pour son amant
+Paraît plus résolue et vainement essaie
+D'apaiser la douleur d'une mortelle plaie,
+Si vous les aviez vus, mais qui me vient troubler,
+Que veut-on.
+
+      Il faut que j'obéisse.
+
+**** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *id_UNPAGE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_unpage
+
+
+      C'est le Roi qui vous fait appeler,
+On va tout de ce pas faire le sacrifice,
+Menez les prisonniers.
+
+Je viens d'exécuter votre commandement,
+La garde en est fort belle et la lame en est bonne,
+C'est un digne présent de celle qui le donne.
+
+(Madame) ce secret n'est connu que de vous.
+
+**** *creator_lacalprenede *book_lacalprenede_clarionte *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_clarionte *dist2_lacalprenede_verse_tragedy *id_GERONTE *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_geronte
+
+
+Mon Prince et mon Seigneur me peut-il méconnaître,
+Ou s'il s'est dépouillé de sa rare bonté.

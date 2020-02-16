@@ -2,6 +2,7 @@
 
 **** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_MOLIERE *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moliere
 
+
 Je ne sais que penser de mon ami Chapelle ;
 Veut-il me rendre fou ? Dans l'excès de son zèle,
 L'autre jour, il m'emporte un de mes manuscrits,
@@ -552,8 +553,8 @@ Imitons le soleil au bout de sa carrière ;
 Lançons des traits plus vifs : aux pâles envieux
 Que mon dernier regard fasse baisser les yeux.
 
-
 **** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_LAMOLIERE *date_1802 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamoliere
+
 
 Du bon vin ! Du bon vin ! Voilà comme vous êtes !
 Boire et passer vos nuits dans les jeux, dans les fêtes,
@@ -712,8 +713,8 @@ Sortons ; chez le docteur allons en diligence.
 Pleure, pleure, ma fille, à ta douleur sincère
 Je viens mêler la mienne. Il est trop vrai, ton père.
 
-
 **** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_ISABELLE *date_1802 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
 
 Ah ! Je crains qu'il ne touche à son terme fatal.
 Plus que jamais il souffre, et j'en suis désolée.
@@ -861,8 +862,8 @@ Tel qu'il est dans mon cour, le pinceau l'a rendu.
 
 Ah !!! Ce mot a suffi pour me donner la mort.
 
-
 **** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_CHAPELLE *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chapelle
+
 
 Le voilà, mon ami, votre ouvrage est divin.
 
@@ -1153,8 +1154,8 @@ Son nom est partout répandu ;
 Il faut des lauriers au génie,
 Et plus encore à la vertu.
 
-
 **** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_BARON *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_baron
+
 
 Ah ! J'ai sujet de l'être.
 
@@ -1295,8 +1296,8 @@ Quelque gloire, dans l'avenir,
 Quand on a Molière pour maître,
 Pourrait-on ne pas réussir ?
 
-
 **** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_MONTAUSIER *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_montausier
+
 
 De Molière, toujours, j'estimai les talents,
 Et la plus juste crainte a passé dans mes sens,
@@ -1423,8 +1424,8 @@ On lui prodigue ces honneurs,
 Si la couronne est sur sa tête,
 Il a des autels dans nos cours.
 
-
 **** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_PIRLON *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pirlon
+
 
 Comment se porte-t-il ?
 
@@ -1476,8 +1477,8 @@ Et dans le Misanthrope on est fâché de voir
 Alceste bafoué. Fidèle à son devoir,
 Alceste le remplit avec exactitude.
 
-
 **** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_LAFORET *date_1802 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laforet
+
 
       Qu'est-ce ?
 
@@ -1527,8 +1528,8 @@ Et d'où vient son désastre ?
 
 Laisserez vous entrer le Docteur Mauvillain ?
 
-
 **** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_LESBIN *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesbin
+
 
       Non, Monsieur.
 
@@ -1538,8 +1539,8 @@ Mignard envoie ici le portrait de Molière.
 
 Et Mignard va bientôt venir ici lui-même.
 
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_CHAPELLE *date_1802 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_chapelle
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_CHAPELLE *date_1802 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_chapelle
 
 Le voilà, mon ami, votre ouvrage est divin.
 
@@ -1830,8 +1831,8 @@ Son nom est partout répandu ;
 Il faut des lauriers au génie,
 Et plus encore à la vertu.
 
-
 **** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_BARON *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_baron
+
 
 Ah ! J'ai sujet de l'être.
 
@@ -1972,8 +1973,8 @@ Quelque gloire, dans l'avenir,
 Quand on a Molière pour maître,
 Pourrait-on ne pas réussir ?
 
-
 **** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_MIGNARD *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mignard
+
 
 Moi, je viens, mes amis, le pleurer avec vous.
 Molière ne vit plus !...
@@ -2010,3 +2011,62 @@ Succède un sentiment plus doux,
 C'est vous qui le faites revivre,
 Notre maître aujourd'hui, c'est vous.
 
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_APOLLON *date_1802 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
+
+
+      Qui ? Les Muses, Apollon.
+Quel autre s'illustra par de plus grands services ?
+À l'exemple des dieux, il fit la guerre aux vices ;
+Il amuse, il instruit : gracieux et savants,
+Ses ouvrages, des mours, sont les tableaux vivants.
+Comme il peint à grands traits les enfants d'Esculape !
+Aucun de leurs défauts à sa gaieté n'échappe ;
+Ni leur petit savoir, caché sous de grands mots,
+Ni leur talent surtout pour attraper les sots ;
+Et quoi qu'on m'ait nommé dieu de la médecine,
+J'admire les portraits où sa main les dessine,
+Et je ris le premier des travers de Purgon.
+Je ris, lorsque empruntant le mystique jargon,
+Il offre le miroir au perfide hypocrite,
+Qui, de s'y voir honteux, et s'indigne et s'irrite,
+Et qui, toujours à craindre et toujours rugissant,
+Se débat sous les coups d'un vainqueur tout-puissant :
+Telle autrefois ma main, conduite par la gloire,
+En terrassant Python, dédaigna sa victoire.
+Ma voix a rassemblé les Muses en ces lieux
+Pour élever Molière au rang des demi-Dieux.
+Celle que vous voyez avec une couronne,
+Et que toujours, des ris, le cortège environne,
+C'est Thalie : elle vient par un hymne flatteur,
+La première, fêter notre immortel auteur.
+
+Molière a peu souvent fréquenté Melpomène ;
+Mais de Racine, amis, sur la tragique scène,
+C'est lui qui, le premier, guida les pas tremblants,
+Et Paris, de Baron, lui devra les talents.
+Un Racine ! Un Baron ! Quels trésors pour la France !
+Pour le chanter aussi, Melpomène s'avance.
+
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_MELPOMENE *date_1802 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
+
+
+Molière n'eut point l'avantage
+D'agiter mon noble poignard,
+Il fit peut-être davantage,
+Il forma les maîtres de l'art.
+C'est en vain, ma chère Thalie,
+Que tu prônes tes nourrissons,
+Baron, et l'auteur d'Athalie,
+Devront leur gloire à ses leçons.
+
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_mortdemoliere4a *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_mortdemoliere4a *dist2_cubieres-palmezeaux_verse_comedy *id_THALIE *date_1802 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
+
+
+Oui, je dois tout au grand Molière ;
+Déjà, de l'emporter sur moi,
+Ma sour, Melpomène, était fière :
+Je ne redoute plus sa loi.
+Il a créé mon art en France,
+Art ignoré jusqu'aujourd'hui,
+Plaute, Aristophane, Térence,
+Tous les trois revivent en lui.

@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_MERCURE *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
 
+
 Je cherche en vain de toutes parts.
 La Paix, dans ces climats avant moi descendue,
 Ne s'offre point à mes regards ;
@@ -313,8 +314,8 @@ La troupe de nos Dieux préfère
 L'avantage seul de vous plaire,
 Et d'attirer vos applaudissements.
 
-
 **** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_LAPAIX *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lapaix
+
 
       En croirai-je mes yeux ?
 Mercure déjà dans ces lieux !
@@ -382,8 +383,8 @@ Et les Acteurs parlant, qui les fera ?
 
 Et nous puisse attirer la faveur du Parterre.
 
-
 **** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_LAMOUR *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
+
 
 Salut à celui des voleurs.
 
@@ -500,19 +501,6 @@ Formez ici d'aimables jeux,
 N'entendez-vous pas qu'en ces lieux
 L'Amour lui-même vous appelle.
 
-Et les miens ?
-
-      Que le vin l'y maintienne,
-Jusqu'à ce que Jupiter vienne.
-
-J'ai donné ma parole à Junon.
-
-Ne buvons donc point tant, et qu'il vous en souvienne.
-
-Dans ces jardins tantôt j'ai fait entrer Philène.
-
-Tant mieux, servons-nous-en pour les tirer d'ici.
-
 Quel violent transport, Déesse, vous anime ?
 
 Il faut qu'il le supprime,
@@ -542,8 +530,8 @@ Saisissons cet heureux moment ;
 De Corine et de son Amant,
 Célébrons ici l'hyménée.
 
-
 **** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_BACCHUS *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bacchus
+
 
 Salut au Dieu de l'Éloquence.
 
@@ -675,47 +663,8 @@ On a quelque présent de sa part à vous rendre :
 Recevez-le, de grâce, un peu plus poliment
 Que vous n'avez reçu mon compliment.
 
-Je vous amène ici l'élite
-Des bons Ivrognes de ma suite,
-Gens éprouvés dans les repas,
-Toujours prêts à faire merveille,
-Que le péril n'étonne pas,
-Et dont un seul mettrait à bas
-Un escadron de cent bouteilles.
-
-Ils combattent toujours auprès de ma personne ;
-Hé bien, père Faunus, la cave est-elle bonne ?
-
-      Quoi ! Pour un grand Seigneur
-Jupiter prétend qu'on le prenne ;
-Et dans sa cave il n'a pas du meilleur ?
-Pour paraître tel, qu'il apprenne
-Que de son vin, surtout, il faut se faire honneur.
-
-Tant pis.
-
-Volontiers.
-
-Oui, très forte.
-
-Toujours une cave ambulante
-Me suit partout.
-
-Assurément.
-
-Il est en bon état.
-
-Agissons de concert toujours dans tout ceci.
-
-      Moi la mienne.
-
-N'ayez, de grâce, aucun souci.
-
-Avec Corine, il s'y promène.
-Sans être vu, l'anneau magique a réussi.
-
-
 **** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_THALIE *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
+
 
       Il me semble
 Que tant de Dieux unis ensemble
@@ -742,8 +691,8 @@ Le sincère hommage
 Que tous les mortels
 Doivent à leurs autels.
 
-
 **** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_JUPITER *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
+
 
 Votre sincérité m'offense,
 Mercure, je ne puis vous le dissimuler.
@@ -1065,8 +1014,8 @@ Non, Je suis trop piqué,
 Il ne sera point révoqué,
 Et c'est par le Styx que j'en jure.
 
-
 **** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_MERCURE *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+
 
 Je cherche en vain de toutes parts.
 La Paix, dans ces climats avant moi descendue,
@@ -1379,8 +1328,8 @@ La troupe de nos Dieux préfère
 L'avantage seul de vous plaire,
 Et d'attirer vos applaudissements.
 
-
 **** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_FAUNUS *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_faunus
+
 
 Dans la forêt prochaine,
 Seigneur, Junon sans suite et toute hors d'haleine,
@@ -1713,54 +1662,6 @@ S'en étonner, c'est être ridicule.
 Nous plaire c'est leur unique soin,
 Et nos faveurs font leur mérite
 
-Vous avez là de bons Soldats.
-
-Pas trop, Seigneur Bacchus.
-
-Uniquement sensible aux charmes des mortelles,
-Il néglige ces soins pour elles.
-
-      Oui ; mais enfin, c'est un dérangement
-Que Bacchus peut réparer aisément.
-
-      Vous avez de vendange excellente
-Copieuse provision.
-
-      Le vin n'est pas ma passion ;
-Mais cependant je suis d'humeur fort complaisante,
-Et j'en bois quantité par conversation.
-
-      Bonne précaution !
-Voilà ce qui s'appelle une Fête charmante,
-Des vins les plus délicieux.
-Ordonnez, s'il vous plaît, que la troupe Bacchique,
-En partageant nos plaisirs en ces lieux,
-De concert à l'envi s'applique,
-Par d'agréables jeux, par de tendre musique,
-À nous occuper de son mieux,
-Et les oreilles et les yeux.
-
-Sans trop examiner, ni leurs droits, ni les vôtres,
-En toute occasion, je crois
-Avait toujours de bonne foi,
-Bien payé les uns et les autres.
-
-      Pour ceux de Bacchus aujourd'hui,
-Je m'en suis acquitté dignement avec lui.
-
-      Partie à remettre,
-Parce que l'un ne peut permettre…
-Que tous les deux… conjointement…
-Prennent certain arrangement…
-Après cela pourtant, je puis bien vous promettre…
-Quant à présent, que je me porte bien…
-Mais pour une autre fois que vous n'y perdrez rien…
-Et que sans vouloir vous commettre…
-Il ne faut là-dessus avoir aucun souci…
-D'autant que souvent on hasarde…
-Que qui devrait garder, a besoin qu'on le garde…
-Au bout du comte enfin… Bonsoir et grand merci.
-
 Pour rattraper un peu l'usage de mes sens,
 Il est bon que je me promène.
 
@@ -1827,8 +1728,8 @@ Je crains fort entre nous la fin de l'aventure.
 
 Hé, comment avez-vous pu faire ?
 
-
 **** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_VENUS *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
+
 
 Un soin pressant qui pour vous m'intéresse,
 Me fait vous chercher jusqu'ici.
@@ -1922,8 +1823,8 @@ Peut-on mieux des Amours réparer le malheur ?
 
 Que tout conspire à leur contentement.
 
-
 **** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_CORINE *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_corine
+
 
 Aujourd'hui de ces lieux on dit que vous partez,
 Quelle raison vous en écarte ?
@@ -2317,8 +2218,8 @@ C'est un honneur dont je vous félicite ;
 Mais trouvez bon que je vous quitte,
 Et que je puisse voir leur Fête d'un peu loin.
 
-
 **** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_JUNON *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junon
+
 
 Qu'avez-vous, ma chère Corine ?
 Je vous trouve rêveuse, inquiète, chagrine.
@@ -2469,8 +2370,8 @@ Invisible et présente à tout,
 Attendons en repos le succès qu'il m'apprête :
 Est-il quelque projet dont il ne vienne à bout.
 
-
 **** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_BACCHUS *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bacchus
+
 
 Salut au Dieu de l'Éloquence.
 
@@ -2602,47 +2503,8 @@ On a quelque présent de sa part à vous rendre :
 Recevez-le, de grâce, un peu plus poliment
 Que vous n'avez reçu mon compliment.
 
-Je vous amène ici l'élite
-Des bons Ivrognes de ma suite,
-Gens éprouvés dans les repas,
-Toujours prêts à faire merveille,
-Que le péril n'étonne pas,
-Et dont un seul mettrait à bas
-Un escadron de cent bouteilles.
-
-Ils combattent toujours auprès de ma personne ;
-Hé bien, père Faunus, la cave est-elle bonne ?
-
-      Quoi ! Pour un grand Seigneur
-Jupiter prétend qu'on le prenne ;
-Et dans sa cave il n'a pas du meilleur ?
-Pour paraître tel, qu'il apprenne
-Que de son vin, surtout, il faut se faire honneur.
-
-Tant pis.
-
-Volontiers.
-
-Oui, très forte.
-
-Toujours une cave ambulante
-Me suit partout.
-
-Assurément.
-
-Il est en bon état.
-
-Agissons de concert toujours dans tout ceci.
-
-      Moi la mienne.
-
-N'ayez, de grâce, aucun souci.
-
-Avec Corine, il s'y promène.
-Sans être vu, l'anneau magique a réussi.
-
-
 **** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_LAMOUR *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
+
 
 Salut à celui des voleurs.
 
@@ -2759,19 +2621,6 @@ Formez ici d'aimables jeux,
 N'entendez-vous pas qu'en ces lieux
 L'Amour lui-même vous appelle.
 
-Et les miens ?
-
-      Que le vin l'y maintienne,
-Jusqu'à ce que Jupiter vienne.
-
-J'ai donné ma parole à Junon.
-
-Ne buvons donc point tant, et qu'il vous en souvienne.
-
-Dans ces jardins tantôt j'ai fait entrer Philène.
-
-Tant mieux, servons-nous-en pour les tirer d'ici.
-
 Quel violent transport, Déesse, vous anime ?
 
 Il faut qu'il le supprime,
@@ -2801,8 +2650,8 @@ Saisissons cet heureux moment ;
 De Corine et de son Amant,
 Célébrons ici l'hyménée.
 
-
 **** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_LINCONSTANCE *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_linconstance
+
 
 Doucement, s'il vous plaît, Déesse ;
 Gardez de la mettre en courroux.
@@ -2875,8 +2724,8 @@ Et qu'on se souvienne toujours
 Que malgré les destins, aujourd'hui l'Inconstance
 Immortalise les Amours.
 
-
 **** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_MEROPE *date_1717 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_merope
+
 
 Philène ici ? Quelle surprise ! Ah Dieux !
 
@@ -3136,8 +2985,8 @@ Avaient ici, ri, bu, chanté, dansé ;
 De trouble et de frayeur j'avais le cœur glacé
 Et de rien je ne suis instruite.
 
-
 **** *creator_dancourt *book_dancourt_metempsychose *style_verse *genre_comedy *dist1_dancourt_verse_comedy_metempsychose *dist2_dancourt_verse_comedy *id_PHILENE *date_1717 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philene
+
 
 Je retrouve Corine, ô Berger trop heureux !
 
@@ -3209,4 +3058,3 @@ De pouvoir éviter des regards curieux !
 Il nous en vient un autre.
 
 Ne nous suffit-il pas qu'il ne puisse me voir ?
-

@@ -2,6 +2,7 @@
 
 **** *creator_desmares *book_desmares_roxelane *style_verse *genre_tragedy *dist1_desmares_verse_tragedy_roxelane *dist2_desmares_verse_tragedy *id_soliman *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_soliman
 
+
 Non non, ceste grandeur dont l'éclat m'environne,
 Les superbes⁎ Palais, le Sceptre, la Couronne,
 Tant de peuple soûmis, tant d'Estats surmontés,
@@ -529,8 +530,8 @@ Prestés-luy le serment de vos fidelitez.
 
 Que voulez-vous encor.
 
-
 **** *creator_desmares *book_desmares_roxelane *style_verse *genre_tragedy *dist1_desmares_verse_tragedy_roxelane *dist2_desmares_verse_tragedy *id_roxelane *date_1643 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_roxelane
+
 
 Non, non, ne pensés pas que la présomption
 Suggere ce dessein à mon ambition.
@@ -1056,8 +1057,8 @@ De vivre comme esclave et non pas comme Reine
 En tres-humble sujette et non en souveraine.
 FIN
 
-
 **** *creator_desmares *book_desmares_roxelane *style_verse *genre_tragedy *dist1_desmares_verse_tragedy_roxelane *dist2_desmares_verse_tragedy *id_circasse *date_1643 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_circasse
+
 
 Vous, de qui l'amitié⁎ ne suit point l'esperance,
 Vous à qui la vertu tient lieu de recompense,
@@ -1360,8 +1361,8 @@ Que tardes-tu, Circasse, à la mort, à la mort.
 Vous qui vostre amitié dans nos mal-heurs assemble,
 Acmat ne pouvant vivre allons mourir ensemble.
 
-
 **** *creator_desmares *book_desmares_roxelane *style_verse *genre_tragedy *dist1_desmares_verse_tragedy_roxelane *dist2_desmares_verse_tragedy *id_le-mufti *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_lemufti
+
 
 Le precipice est vostre et vous le merités
 Comme le chastiment de vos temerités.
@@ -1550,8 +1551,8 @@ De la Loy de la terre ou de celle des Cieux.
 Seigneur, je vous promets pour toute l'assistance
 De vivre et de mourir sous son obeyssance.
 
-
 **** *creator_desmares *book_desmares_roxelane *style_verse *genre_tragedy *dist1_desmares_verse_tragedy_roxelane *dist2_desmares_verse_tragedy *id_acmat *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_acmat
+
 
 Vostre crainte il est vray n'est pas sans fondement
 Comme vous je redoute un triste evenement⁎ :
@@ -1833,8 +1834,8 @@ Dit tout ce qui luy sert, taist tout ce qui luy nuit.
 Allons et faisons voir par un coup genereux
 Que qui sçait bien mourir n'est jamais mal-heureux.
 
-
 **** *creator_desmares *book_desmares_roxelane *style_verse *genre_tragedy *dist1_desmares_verse_tragedy_roxelane *dist2_desmares_verse_tragedy *id_rustan *date_1643 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_rustan
+
 
                   Seigneur, qu'il vous souvienne
 Que vous m'avez donné vostre fille et la sienne,
@@ -1922,8 +1923,8 @@ Puis qu'on peut s'opposer à vôtre volonté,
 Quoy, donc en cet état cesse ceste maxime
 Qu'on ne peut contester le souverain sans crime.
 
-
 **** *creator_desmares *book_desmares_roxelane *style_verse *genre_tragedy *dist1_desmares_verse_tragedy_roxelane *dist2_desmares_verse_tragedy *id_chamerie *date_1643 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_chamerie
+
 
 O Dieu tout est perdu ! vous courez au trespas.
 
@@ -1955,8 +1956,8 @@ Que pour executer les decrets de la rage.
 
       Que ce départ me va couster de larmes.
 
-
 **** *creator_desmares *book_desmares_roxelane *style_verse *genre_tragedy *dist1_desmares_verse_tragedy_roxelane *dist2_desmares_verse_tragedy *id_ormin *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ormin
+
 
 Incontinent⁎ Seigneur.
 
@@ -1987,8 +1988,8 @@ Dans un moment Seigneur, je la vous rends presente.
 
                   Seigneur.
 
-
 **** *creator_desmares *book_desmares_roxelane *style_verse *genre_tragedy *dist1_desmares_verse_tragedy_roxelane *dist2_desmares_verse_tragedy *id_osman *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_osman
+
 
 Tout succede à vos veux, la fortune⁎ se change
 Et de vostre parti favorable se range.
@@ -2005,3 +2006,19 @@ Si son gendre Rustan ne l'en eust diverty,
 Diverty pour un temps, car la colere dure
 Où plustost elle augmente !
 
+**** *creator_desmares *book_desmares_roxelane *style_verse *genre_tragedy *dist1_desmares_verse_tragedy_roxelane *dist2_desmares_verse_tragedy *id_page *date_1643 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_page
+
+
+La Sultane Circasse est ici prés, Madame,
+Qui demande à vous voir.
+
+Je ne m'en dedis point, Seigneur, elle l'a dit.
+
+              Seigneur, j'ai dit à ceste belle
+Que vous veniez passez ceste nuit avec elle,
+Qu'elle se preparast à vous bien recevoir,
+Et selon sa coutume, et selon son devoir.
+Elle m'a répondu, mon enfant je m'étonne
+De la commission que l'Empereur vous donne.
+Dites-luy que luy mesme il m'a donné la loy,
+Que l'amour desormais est un crime pour moy.

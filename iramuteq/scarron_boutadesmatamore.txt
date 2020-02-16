@@ -2,6 +2,7 @@
 
 **** *creator_scarron *book_scarron_boutadesmatamore *style_verse *genre_comedy *dist1_scarron_verse_comedy_boutadesmatamore *dist2_scarron_verse_comedy *id_MATAMORE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_matamore
 
+
 Un jour je m'en souviens, les Dieux à leur malheur
 Choquèrent ma valeur,
 Ce céleste troupeau, cette engeance suprême,
@@ -1728,8 +1729,8 @@ Toutes leurs facultés ont perdu leur science :
 Et mes regards leur sont si sots et si badins,
 Que toutes fuient ma présence.
 
+**** *creator_scarron *book_scarron_boutadesmatamore *style_verse *genre_comedy *dist1_scarron_verse_comedy_boutadesmatamore *dist2_scarron_verse_comedy *id_LECAPITAINE *date_1646 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lecapitaine
 
-**** *creator_scarron *book_scarron_boutadesmatamore *style_verse *genre_comedy *dist1_scarron_verse_comedy_boutadesmatamore *dist2_scarron_verse_comedy *id_LECAPITAINE *date_1646 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lecapitaine
 
 Oui, c'est trop frénétiquement,
 Fuir abominablement :
@@ -1927,8 +1928,8 @@ Pour faire ridiculement
 Par un divin chatouillement
 Un amoureux culbutement.
 
-
 **** *creator_scarron *book_scarron_boutadesmatamore *style_verse *genre_comedy *dist1_scarron_verse_comedy_boutadesmatamore *dist2_scarron_verse_comedy *id_ALISON *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alison
+
 
       Quoi ?
 
@@ -2009,8 +2010,8 @@ Nous unir conjugalement,
 Et sans tarder plus longuement
 Baisons-nous amiablement.
 
-
 **** *creator_scarron *book_scarron_boutadesmatamore *style_verse *genre_comedy *dist1_scarron_verse_comedy_boutadesmatamore *dist2_scarron_verse_comedy *id_PHILIPIN *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philipin
+
 
 Finissez donc résolument
 Ce frénétique brouillement,
@@ -2093,8 +2094,8 @@ Et pour mettre un achèvement
 Allons-nous en semblablement
 Nous marier pareillement.
 
-
 **** *creator_scarron *book_scarron_boutadesmatamore *style_verse *genre_comedy *dist1_scarron_verse_comedy_boutadesmatamore *dist2_scarron_verse_comedy *id_BEAU-CHATEAU *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_beauchateau
+
 
 Je le veux, l'accommodement
 N'est pas trop mal adroitement
@@ -2156,8 +2157,8 @@ Ah, monsieur, un amendement
 
 Je me meurs.
 
-
 **** *creator_scarron *book_scarron_boutadesmatamore *style_verse *genre_comedy *dist1_scarron_verse_comedy_boutadesmatamore *dist2_scarron_verse_comedy *id_BEAU-LIEU *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_beaulieu
+
 
 Je ne l'entends pas clairement,
 Et je ne l'ai qu'obscurément
@@ -2198,8 +2199,8 @@ Pardonnez-nous courtoisement,
 
       Ah quel tremblement !
 
-
 **** *creator_scarron *book_scarron_boutadesmatamore *style_verse *genre_comedy *dist1_scarron_verse_comedy_boutadesmatamore *dist2_scarron_verse_comedy *id_BONNIFACE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bonniface
+
 
       Qui frappe-là ?
 
@@ -2380,8 +2381,8 @@ Allez, jouissez pleinement
 Du bien, que légitimement
 Vous aimez passionnément.
 
+**** *creator_scarron *book_scarron_boutadesmatamore *style_verse *genre_comedy *dist1_scarron_verse_comedy_boutadesmatamore *dist2_scarron_verse_comedy *id_ANGELIQUE *date_1646 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_angelique
 
-**** *creator_scarron *book_scarron_boutadesmatamore *style_verse *genre_comedy *dist1_scarron_verse_comedy_boutadesmatamore *dist2_scarron_verse_comedy *id_ANGELIQUE *date_1646 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_angelique
 
 Hé, qui frappe si rudement ?
 
@@ -2487,4 +2488,3 @@ Non, mon coeur.
 
 Allons donc honorablement
 Nous baiser vigoureusement.
-

@@ -2,6 +2,7 @@
 
 **** *creator_racine *book_racine_plaideurs *style_verse *genre_comedy *dist1_racine_verse_comedy_plaideurs *dist2_racine_verse_comedy *id_DANDIN *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dandin
 
+
 Petit-Jean. L'Intimé.
 
       Je suis seul ici.
@@ -271,8 +272,8 @@ Et notre criminel ?
 C'est en votre faveur, ma bru, ce que j'en fais.
 Allons nous délasser à voir d'autres procès.
 
-
 **** *creator_racine *book_racine_plaideurs *style_verse *genre_comedy *dist1_racine_verse_comedy_plaideurs *dist2_racine_verse_comedy *id_LEANDRE *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+
 
 Vite, un flambeau. J'entends mon père dans la rue.
 Mon père, si matin qui vous fait déloger ?
@@ -585,8 +586,8 @@ Laissez-nous votre fille, et gardez votre bien.
       Ne parlons que de joie ;
 Grâce, grâce, mon père.
 
-
 **** *creator_racine *book_racine_plaideurs *style_verse *genre_comedy *dist1_racine_verse_comedy_plaideurs *dist2_racine_verse_comedy *id_CHICANNEAU *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chicanneau
+
 
       La Brie !
 Qu'on garde la maison, je reviendrai bientôt.
@@ -962,8 +963,8 @@ On a la fille, soit. On n'aura pas la bourse.
 
 Ah !
 
-
 **** *creator_racine *book_racine_plaideurs *style_verse *genre_comedy *dist1_racine_verse_comedy_plaideurs *dist2_racine_verse_comedy *id_ISABELLE *date_1668 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
 
       Qui frappe ?
 
@@ -1053,8 +1054,8 @@ Hé Monsieur, peut-on voir souffrir des malheureux ?
 
       Je n'ose pas, mon père, en appeler.
 
-
 **** *creator_racine *book_racine_plaideurs *style_verse *genre_comedy *dist1_racine_verse_comedy_plaideurs *dist2_racine_verse_comedy *id_LACOMTESSE *date_1668 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+
 
       Hé bien, l'ai-je pas dit.
 Sans mentir, mes valets me font perdre l'esprit.
@@ -1201,8 +1202,8 @@ Aussi bien sur le fils que sur l'esprit du père.
 Patience. Je vais protester comme il faut,
 Contre Monsieur le juge, et contre le quartaut.
 
-
 **** *creator_racine *book_racine_plaideurs *style_verse *genre_comedy *dist1_racine_verse_comedy_plaideurs *dist2_racine_verse_comedy *id_PETIT-JEAN *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_petitjean
+
 
 Ma foi, sur l'avenir, bien fou qui se fiera.
 Tel qui rit vendredi, dimanche pleurera.
@@ -1424,8 +1425,8 @@ S'enroue.
 
       Monsieur, êtes-vous mort ?
 
-
 **** *creator_racine *book_racine_plaideurs *style_verse *genre_comedy *dist1_racine_verse_comedy_plaideurs *dist2_racine_verse_comedy *id_LINTIME *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lintime
+
 
       Ay, Petit-Jean, Petit-Jean.
 
@@ -1778,8 +1779,8 @@ Notre père, Messieurs...
 
       Monsieur, voyez nos larmes.
 
-
 **** *creator_racine *book_racine_plaideurs *style_verse *genre_comedy *dist1_racine_verse_comedy_plaideurs *dist2_racine_verse_comedy *id_LESOUFFLEUR *date_1668 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesouffleur
+
 
 Quel homme !
 
@@ -1806,4 +1807,3 @@ Encor !
       Le butor !
 
       Peste de l'avocat !
-

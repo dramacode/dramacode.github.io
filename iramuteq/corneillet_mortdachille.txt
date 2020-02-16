@@ -2,6 +2,7 @@
 
 **** *creator_corneillet *book_corneillet_mortdachille *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortdachille *dist2_corneillet_verse_tragedy *id_achille *date_1673 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_achille
 
+
 C'est trop peu pour ma gloire, il faut plus faire, Alcime.
 Privez du grand Hector les Troyens sont défaits.
 Prest à vaincre, je veux leur demander la paix,
@@ -438,8 +439,8 @@ Vous plaindrez mes malheurs quand il en sera temps.
 
 Madame...
 
-
 **** *creator_corneillet *book_corneillet_mortdachille *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortdachille *dist2_corneillet_verse_tragedy *id_pyrrhus *date_1673 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_pyrrhus
+
 
 Aprés avoir forcé sa colére à se rendre,
 L'illustre Briseis a droit de tout prétendre⁎.
@@ -887,8 +888,8 @@ On la rend, & pourtant je ne suis pas heureux.
  
 Adieu, Madame.
 
-
 **** *creator_corneillet *book_corneillet_mortdachille *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortdachille *dist2_corneillet_verse_tragedy *id_polixene *date_1673 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_polixene
+
 
 NE vous étonnez point si dans nostre infortune
 J'ose encor me resoudre à vous estre importune.
@@ -1322,8 +1323,8 @@ Pyrrhus... J'en dis trop, Prince, & vous en estes cause.
 Vous pour qui malgré moy je m'arreste en ce lieu,
 Oubliez-le, de grace, & pour jamais, adieu.
 
-
 **** *creator_corneillet *book_corneillet_mortdachille *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortdachille *dist2_corneillet_verse_tragedy *id_briseis *date_1673 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_briseis
+
 
 PRINCE, n'en doutez point, je l'obtiendray d'Achille.
 Pour vous auprés de luy tout me sera facile,
@@ -1806,8 +1807,8 @@ S'il le faut ébloüir, consentons qu'il espére,
 Ma mort aura vers luy dequoy me dégager,
 Quand s'armant pour Achille, il m'aura sceu vanger.
 
-
 **** *creator_corneillet *book_corneillet_mortdachille *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortdachille *dist2_corneillet_verse_tragedy *id_phenice *date_1673 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_phenice
+
 
 Eh, Madame, tâchez de vous rendre à vous mesme.
 Achille traistre, ingrat, ne vaut pas aujourd'huy
@@ -1835,8 +1836,24 @@ Mais songez-vous qu'Achille estoit parjure, ingrat ?
 Que tout à Polixene, il n'aspiroit qu'à suivre
 Ce que l'amour pour elle...
 
+**** *creator_corneillet *book_corneillet_mortdachille *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortdachille *dist2_corneillet_verse_tragedy *id_ilione *date_1673 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_ilione
+
+
+      J'y voy peu d'espérance.
+Priam plaint de ces maux la dure violence,
+Il plaint le triste⁎ sort de Pyrrhus & de vous,
+Il soûpire, & voudroit vous faire grace à tous,
+Mais dans cet instant mesme Alcime vient luy dire
+Qu'Achille à vostre Hymen⁎ avec ardeur aspire,
+Qu'il marche vers le Temple, où quittant nos ramparts,
+Le Peuple impatient accourt de toutes parts.
+
+Briseis presse encor Priam d'y mettre obstacle,
+Mais, Madame, il s'agit de tout le sang Troyen,
+Nous n'avons plus d'Hector, elle n'obtiendra rien.
 
 **** *creator_corneillet *book_corneillet_mortdachille *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortdachille *dist2_corneillet_verse_tragedy *id_alcime *date_1673 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_alcime
+
 
 CE triomphe à tout autre eust esté difficile.
 Le grand Achille seul pouvoit dompter Achille,
@@ -1964,8 +1981,8 @@ Un fatal Ascendantm'a forcé d'obeïr.
 Dy luy qu'en la quittant, plein pour elle d'estime,
 Mon coeur de ses ennuis⁎...
 
-
 **** *creator_corneillet *book_corneillet_mortdachille *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortdachille *dist2_corneillet_verse_tragedy *id_antilochus *date_1673 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_antilochus
+
 
 OUY, Seigneur, le succez⁎ a suivy vostre attente,
 Achille avec Priam est encor dans sa Tente,
@@ -1998,4 +2015,3 @@ Si ce qu'on dit est vray, l'ardeur qui les engage
 S'augmentant par le sang les pousse à tant de rage,
 Que pour peu que le Ciel tarde à le secourir,
 Achille est en danger luy mesme de périr.
-

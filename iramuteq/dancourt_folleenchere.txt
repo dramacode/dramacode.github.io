@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_folleenchere *style_prose *genre_comedy *dist1_dancourt_prose_comedy_folleenchere *dist2_dancourt_prose_comedy *id_MADAMEARGANTE *date_1690 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameargante
 
+
 Ah, ma pauvre Lisette, je me meurs de chagrin !
 
 Je n'en puis plus, je suis au désespoir. Qui est cet homme-là ?
@@ -238,8 +239,8 @@ Ah ! Juste Ciel, que dites-vous !
 
 Je meurs de chagrin. Ne m'abandonnez pas, Lisette. Je vais faire informer de tout ceci.
 
+**** *creator_dancourt *book_dancourt_folleenchere *style_prose *genre_comedy *dist1_dancourt_prose_comedy_folleenchere *dist2_dancourt_prose_comedy *id_ERASTE *date_1690 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_eraste
 
-**** *creator_dancourt *book_dancourt_folleenchere *style_prose *genre_comedy *dist1_dancourt_prose_comedy_folleenchere *dist2_dancourt_prose_comedy *id_ERASTE *date_1690 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_eraste
 
 Hé bien, verrai-je la fin de tout ceci ? Angélique demeurera-t-elle encore longtemps déguisée sous les apparences trompeuses d'un autre sexe que le sien ? Je suis dans une impatience…
 
@@ -309,8 +310,8 @@ C'est la plus adorable personne du monde, et je ne sais, Monsieur, comment vous 
 
 Que je crains son ressentiment quand elle sera détrompée !
 
+**** *creator_dancourt *book_dancourt_folleenchere *style_prose *genre_comedy *dist1_dancourt_prose_comedy_folleenchere *dist2_dancourt_prose_comedy *id_ANGELIQUE *date_1690 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_angelique
 
-**** *creator_dancourt *book_dancourt_folleenchere *style_prose *genre_comedy *dist1_dancourt_prose_comedy_folleenchere *dist2_dancourt_prose_comedy *id_ANGELIQUE *date_1690 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_angelique
 
 Hé ! Non, non, mon enfant, dis à ta maîtresse que cela ne se peut. J'ai d'autres affaires, j'ai d'autres affaires, te dis-je : voilà trente fois que je te le répète ; fais-moi le plaisir de ne me plus importuner.
 
@@ -500,8 +501,8 @@ J'y prends autant de part qu'Éraste, je vous assure.
 
 Je serai de retour dans un moment.
 
-
 **** *creator_dancourt *book_dancourt_folleenchere *style_prose *genre_comedy *dist1_dancourt_prose_comedy_folleenchere *dist2_dancourt_prose_comedy *id_LISETTE *date_1690 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
 Cela passe l'imagination, et je ne sais pas si vous ne devriez point vous faire conscience d'avoir aidé à la mettre dans l'état où elle est.
 
@@ -726,8 +727,8 @@ Cela serait ridicule.
 
 L'effrontée, enlever un homme ?
 
-
 **** *creator_dancourt *book_dancourt_folleenchere *style_prose *genre_comedy *dist1_dancourt_prose_comedy_folleenchere *dist2_dancourt_prose_comedy *id_JASMIN *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jasmin
+
 
 Voilà cette grosse Madame qui fut hier longtemps avec vous.
 
@@ -737,8 +738,8 @@ Oh dame, Madame, je ne savais point que vous ne vouliez pas qu'il y fût.
 
 Elle dit que vous vous dépêchiez de descendre, et que vous ne lui donniez pas la peine de vous venir quérir ?
 
-
 **** *creator_dancourt *book_dancourt_folleenchere *style_prose *genre_comedy *dist1_dancourt_prose_comedy_folleenchere *dist2_dancourt_prose_comedy *id_MERLIN *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merlin
+
 
 Hé bien, Monsieur Champagne, où diantre venez-vous ? Vous n'avez que faire ici.
 
@@ -974,8 +975,8 @@ Elle aura peine à trouver des témoins.
 
 Il faudra bien qu'elle prenne patience : ne songez qu'à votre bonheur. Vous allez posséder Angélique, vous devez être content. Je voudrais de tout mon coeur que la compagnie le fût aussi.
 
-
 **** *creator_dancourt *book_dancourt_folleenchere *style_prose *genre_comedy *dist1_dancourt_prose_comedy_folleenchere *dist2_dancourt_prose_comedy *id_CHAMPAGNE *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_champagne
+
 
 Tu ne me dis pas la moitié des choses.
 
@@ -1047,8 +1048,8 @@ Oui, Monsieur ! C'est ainsi que vous me tenez ce que vous m'avez promis ?
 
 Vous n'êtes pas encore où vous pensez ; je l'aurai mort ou vif, et le Chevalier Jumeau mon neveu n'est pas homme à souffrir qu'on fasse un affront de la sorte à sa tante de la Tribaudière.
 
-
 **** *creator_dancourt *book_dancourt_folleenchere *style_prose *genre_comedy *dist1_dancourt_prose_comedy_folleenchere *dist2_dancourt_prose_comedy *id_LAFLEUR *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafleur
+
 
 Ah, Monsieur !
 
@@ -1059,4 +1060,3 @@ Madame de la Tribaudière.
 Elle enlève Monsieur le Comte.
 
 Elle a le diable au corps ; elle enlève aussi le Notaire. Elle les guettait au sortir d'ici.
-

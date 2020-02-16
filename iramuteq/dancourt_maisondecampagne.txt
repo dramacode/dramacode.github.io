@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_maisondecampagne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_maisondecampagne *dist2_dancourt_prose_comedy *id_MONSIEURBERNARD *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurbernard
 
+
 Ah, bourreau ! Qu'as-tu fait ? Et tu as l'effronterie de me le venir dire toi-même ? Coquin, ne t'avais-je pas donné ordre.....
 
 Que tu m'obéisses, traître.
@@ -280,8 +281,8 @@ Non, s'il vous plaît, et vous commencerez, dès aujourd'hui même, à en faire 
 
 Eh bien ! Je vous donne donc ma fille pour être défait de ma maison.
 
-
 **** *creator_dancourt *book_dancourt_maisondecampagne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_maisondecampagne *dist2_dancourt_prose_comedy *id_MADAMEBERNARD *date_1688 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamebernard
+
 
 Monsieur, je suis votre très humble servante.
 
@@ -325,8 +326,8 @@ Oh bien, monsieur, vous êtes plus près de l'être que vous ne vous l'imaginez 
 
 Mais le pauvre Dorante a sur les bras une fort mauvaise affaire.
 
-
 **** *creator_dancourt *book_dancourt_maisondecampagne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_maisondecampagne *dist2_dancourt_prose_comedy *id_MARIANE *date_1688 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mariane
+
 
 Il y a une heure que je te cherche, Lisette. Ne sais-tu qui sont ces personnes qui se promènent dans le jardin, et que ma belle-mère est allée joindre ?
 
@@ -378,8 +379,8 @@ Moi ! Que j'aille parler à un homme ?
 
 Allons-y donc, Lisette : au moins, ce n'est que pour vous faire gagner la revanche de la gageure.
 
-
 **** *creator_dancourt *book_dancourt_maisondecampagne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_maisondecampagne *dist2_dancourt_prose_comedy *id_ERASTE *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+
 
 Ma pauvre Lisette, que je lui parle un moment, que je la voie seulement, je t'en conjure.
 
@@ -427,8 +428,8 @@ Allons rejoindre la compagnie ; je voudrais bien qu'elle fût plus nombreuse.
 
 Nous accommoderons tout, madame, et ces messieurs qu'il avait amenés ne refuseront pas d'être des noces.
 
-
 **** *creator_dancourt *book_dancourt_maisondecampagne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_maisondecampagne *dist2_dancourt_prose_comedy *id_LAFLECHE *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafleche
+
 
 Eh bien ! Quand on nous surprendra, nous jettera-t-on par les fenêtres ?
 
@@ -460,8 +461,8 @@ Faites-moi toujours tirer chopine, je vous prie.
 
 Mon maître n'est pas mal dans ses affaires : avec une jolie femme et une maison de bouteille, il aura plus d'amis qu'il ne voudra.
 
-
 **** *creator_dancourt *book_dancourt_maisondecampagne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_maisondecampagne *dist2_dancourt_prose_comedy *id_DORANTE *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+
 
 J'ai pris un peu les devants, mon père, pour vous prier instamment de faire un accueil favorable à celle que je vous amène aujourd'hui.
 
@@ -531,8 +532,8 @@ Ah ! Je n'ai plus de mesures à garder ; me voilà déshonoré pour toute ma vie
 
 Moi, votre fils ! À vos manières, je ne reconnais point mon père, et je vais publier moi-même l'indignité d'un tel procédé.
 
-
 **** *creator_dancourt *book_dancourt_maisondecampagne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_maisondecampagne *dist2_dancourt_prose_comedy *id_LISETTE *date_1688 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
 Encore une fois, monsieur, si vous avez quelque considération pour elle, retournez à Paris, et qu'on ne vous voie point ici.
 
@@ -650,8 +651,8 @@ Quoi ! Ce grand monsieur qui nous a trouvées dans le jardin ?
 
 Oui, monsieur : Éraste est là-haut avec madame et mademoiselle votre fille.
 
-
 **** *creator_dancourt *book_dancourt_maisondecampagne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_maisondecampagne *dist2_dancourt_prose_comedy *id_LEMARQUIS *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+
 
 Mon cher monsieur, votre très humble serviteur.
 
@@ -699,8 +700,8 @@ Vous avez quelques affaires ensemble madame. Au moins, point de dépense superfl
 
 Non, sans façon. La pièce de boucherie, cela suffit. Vous avez la basse-cour, le gibier ne vous manque pas ; il ne vous faut point d'autre extraordinaire. Adieu.
 
-
 **** *creator_dancourt *book_dancourt_maisondecampagne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_maisondecampagne *dist2_dancourt_prose_comedy *id_LEBARON *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebaron
+
 
 Je vous demande pardon, monsieur, et j'ai à me reprocher que ce soit une occasion comme celle-ci qui me fait vous rendre âmes premiers devoirs.
 
@@ -722,8 +723,8 @@ Vous le voulez absolument, au moins.
 
 Je ne vous dis point adieu, et nous ne vous ferons point attendre.
 
-
 **** *creator_dancourt *book_dancourt_maisondecampagne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_maisondecampagne *dist2_dancourt_prose_comedy *id_THIBAUT *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thibaut
+
 
 Eh bien ! D'accord; vous m'avez, baillé ordre que je ne laississe entrer personne dans la maison, et votre femme m'a baillé ordre que je laisse entrer tout le monde : comment diable voulez-vous que je fasse?
 
@@ -801,8 +802,8 @@ Monsieur, c'est que... morgue, c'est un drôle de corps que votre père !
 
 Ne vous fâchez donc point, vlà vos Houberiaux qui arrivent.
 
-
 **** *creator_dancourt *book_dancourt_maisondecampagne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_maisondecampagne *dist2_dancourt_prose_comedy *id_MONSIEURGRIFFARD *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgriffard
+
 
 Monsieur, je ne sais pas ce que cela veut dire ; mais, si vous n'y mettez ordre, on viendra au premier jour tuer vos poules jusque dans votre basse-cour.
 
@@ -866,8 +867,8 @@ Oh ! Vous le saurez, elle vous le dira à vous-même ; elle ne se contraint pas 
 
 Cela n'est pas bien difficile. Mais voici quelqu'un.
 
-
 **** *creator_dancourt *book_dancourt_maisondecampagne *style_prose *genre_comedy *dist1_dancourt_prose_comedy_maisondecampagne *dist2_dancourt_prose_comedy *id_NICOLE *date_1688 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nicole
+
 
 Et qu'est-ce donc, monsieur ? Que voulez-vous faire de tous ces chiens-là ? Est-ce vous qui avez dit qu'on les amenât dans votre jardin ?
 
@@ -876,4 +877,3 @@ Ils sont, je crois, plus de quarante, qui accommodont bian votre parterre et vos
 Il en est entré trois ou quatre dans ma cuisine, qui ont emporté la moitié de votre soupe, que j'allais mettre à la broche.
 
 Voirement, ce ne sont pas les chiens qui font le plus de désordre ; ils sont trois ou quatre grands escogriffes, et autant de valets, qui ne demandons qu'où est-ce ? Ce ne sont pas des hommes, ce sont des diables.
-

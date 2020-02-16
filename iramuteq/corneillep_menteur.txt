@@ -2,6 +2,7 @@
 
 **** *creator_corneillep *book_corneillep_menteur *style_verse *genre_comedy *dist1_corneillep_verse_comedy_menteur *dist2_corneillep_verse_comedy *id_GERONTE *date_1644 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_geronte
 
+
 Oui, vous avez raison, belle et sage Clarice :
 Ce que vous m'ordonnez est la même justice ;
 Et comme c'est à nous à subir votre loi,
@@ -279,8 +280,8 @@ Un mot de votre bouche achève l'hyménée.
 
 Venez donc recevoir ce doux commandement.
 
-
 **** *creator_corneillep *book_corneillep_menteur *style_verse *genre_comedy *dist1_corneillep_verse_comedy_menteur *dist2_corneillep_verse_comedy *id_DORANTE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+
 
 À la fin j'ai quitté la robe pour l'épée :
 L'attente où j'ai vécu n'a point été trompée ;
@@ -1227,8 +1228,8 @@ Ne soyez pas rebelle à seconder mes voeux.
 
 Je changerai pour toi cette pluie en rivières.
 
-
 **** *creator_corneillep *book_corneillep_menteur *style_verse *genre_comedy *dist1_corneillep_verse_comedy_menteur *dist2_corneillep_verse_comedy *id_ALCIPPE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcippe
+
 
 Oui, la collation avecque la musique.
 
@@ -1439,8 +1440,8 @@ Un mot de votre main, l'affaire est terminée.
 
 Venez donc ajouter ce doux consentement.
 
-
 **** *creator_corneillep *book_corneillep_menteur *style_verse *genre_comedy *dist1_corneillep_verse_comedy_menteur *dist2_corneillep_verse_comedy *id_PHILISTE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philiste
+
 
 Quoi ? Sur l'eau la musique et la collation ?
 
@@ -1562,8 +1563,8 @@ Si vous n'avez jamais pour bru que cette Orphise,
 Vos chers collatéraux s'en trouveront fort bien.
 Vous m'entendez ? Adieu : je ne vous dis plus rien.
 
-
 **** *creator_corneillep *book_corneillep_menteur *style_verse *genre_comedy *dist1_corneillep_verse_comedy_menteur *dist2_corneillep_verse_comedy *id_CLARICE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clarice
+
 
 Ay !
 
@@ -1934,8 +1935,8 @@ Et ne fait que jouer des tours de passe-passe.
 
 Mon père a sur mes voeux une entière puissance.
 
-
 **** *creator_corneillep *book_corneillep_menteur *style_verse *genre_comedy *dist1_corneillep_verse_comedy_menteur *dist2_corneillep_verse_comedy *id_LUCRECE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucrece
+
 
 Il conte assez au long ton histoire à mon père.
 Mais parle sous mon nom, c'est à moi de me taire.
@@ -2034,8 +2035,8 @@ Si nous aurons encor quelque lieu d'en douter.
 
 Le devoir d'une fille est dans l'obéissance.
 
-
 **** *creator_corneillep *book_corneillep_menteur *style_verse *genre_comedy *dist1_corneillep_verse_comedy_menteur *dist2_corneillep_verse_comedy *id_ISABELLE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
 
 Madame, Alcippe vient ; il aura de l'ombrage.
 
@@ -2119,8 +2120,8 @@ J'en prendrais davantage à le laisser morfondre.
 Lorsque votre vieillard sera prêt à sortir,
 Je ne manquerai pas de vous en avertir.
 
-
 **** *creator_corneillep *book_corneillep_menteur *style_verse *genre_comedy *dist1_corneillep_verse_comedy_menteur *dist2_corneillep_verse_comedy *id_SABINE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sabine
+
 
 Lisez ceci, monsieur.
 
@@ -2264,8 +2265,8 @@ Si vous vous mariez, il ne pleuvra plus guères.
 Vous n'aurez pas loisir seulement d'y penser.
 Mon métier ne vaut rien quand on s'en peut passer.
 
-
 **** *creator_corneillep *book_corneillep_menteur *style_verse *genre_comedy *dist1_corneillep_verse_comedy_menteur *dist2_corneillep_verse_comedy *id_CLITON *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cliton
+
 
       Ne craignez rien pour vous :
 Vous ferez en une heure ici mille jaloux.
@@ -2638,3 +2639,7 @@ Peu sauraient comme lui s'en tirer avec grâce.
 Vous autres qui doutiez s'il en pourrait sortir,
 Par un si rare exemple apprenez à mentir.
 
+**** *creator_corneillep *book_corneillep_menteur *style_verse *genre_comedy *dist1_corneillep_verse_comedy_menteur *dist2_corneillep_verse_comedy *id_LYCAS *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lycas
+
+
+Monsieur.

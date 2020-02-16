@@ -2,6 +2,7 @@
 
 **** *creator_crebillon *book_crebillon_atreethyeste *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_atreethyeste *dist2_crebillon_verse_tragedy *id_ATREE *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_atree
 
+
 Avec l'éclat du jour je vois enfin renaître
 L'espoir et la douceur de me venger d'un traître.
 Les vents, qu'un dieu contraire enchaînait loin de nous,
@@ -753,8 +754,8 @@ Je te laisse le jour pour me venger de toi.
 Ta main, en t'immolant, a comblé mes souhaits,
 Et je jouis enfin du fruit de mes forfaits.
 
-
 **** *creator_crebillon *book_crebillon_atreethyeste *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_atreethyeste *dist2_crebillon_verse_tragedy *id_THYESTE *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thyeste
+
 
 Ce n'est plus pour tenter une grâce incertaine ;
 Mais, avant son départ, je voudrais voir Plisthène :
@@ -1084,8 +1085,8 @@ Le rendront quelque jour plus malheureux que moi ;
 Le ciel me le promet, la coupe en est le gage ;
 Et je meurs.
 
-
 **** *creator_crebillon *book_crebillon_atreethyeste *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_atreethyeste *dist2_crebillon_verse_tragedy *id_PLISTHENE *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_plisthene
+
 
       En doutez-vous, seigneur ?
 Eh ! Depuis quand ma foi vous est-elle suspecte ?
@@ -1520,8 +1521,8 @@ Et mon malheureux père est encor dans l'erreur.
 Je ne vous parle point d'une jeune princesse ;
 À la faire périr rien ne vous intéresse.
 
-
 **** *creator_crebillon *book_crebillon_atreethyeste *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_atreethyeste *dist2_crebillon_verse_tragedy *id_THEODAMIE *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_theodamie
+
 
 C'est vous-même, seigneur, que je cherchais ici.
 D'Athènes dès longtemps embrassant la conquête,
@@ -1688,8 +1689,18 @@ Vient d'être pour jamais privé de la lumière.
 
 Ah ciel !
 
+**** *creator_crebillon *book_crebillon_atreethyeste *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_atreethyeste *dist2_crebillon_verse_tragedy *id_ALCIMEDON *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcimedon
+
+
+Vous tenteriez, seigneur, un inutile effort ;
+Je le sais d'un vaisseau qui vient d'entrer au port.
+On ne sait s'il a pris la route de Mycènes :
+Mais, depuis près d'un mois, il n'est plus dans Athènes.
+Vous en pourrez vous-même être mieux éclairci ;
+Le chef de ce vaisseau sera bientôt ici.
 
 **** *creator_crebillon *book_crebillon_atreethyeste *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_atreethyeste *dist2_crebillon_verse_tragedy *id_THESSANDRE *date_1707 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thessandre
+
 
 Que dites-vous, seigneur ? Quoi ! Pour une inconnue...
 
@@ -1725,3 +1736,12 @@ Il appelle les dieux à cette auguste fête.
 Mon cour, à cet aspect qui s'est laissé charmer,
 Ne voit rien dont le vôtre ait lieu de s'alarmer.
 
+**** *creator_crebillon *book_crebillon_atreethyeste *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_atreethyeste *dist2_crebillon_verse_tragedy *id_LEONIDE *date_1707 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonide
+
+
+Espérez du destin un traitement plus doux ;
+Que craindre d'un tyran, quand son fils est pour vous ?
+Attendez tout d'un cour et généreux et tendre :
+La main qui nous sauva peut encor vous défendre.
+Tout n'est pas contre vous dans ce fatal séjour,
+Puisque déjà vos yeux y donnent de l'amour.

@@ -2,6 +2,7 @@
 
 **** *creator_scarron *book_scarron_princecorsaire *style_verse *genre_comedy *dist1_scarron_verse_comedy_princecorsaire *dist2_scarron_verse_comedy *id_OROSMANE *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orosmane
 
+
 Maître absolu de l'Empire de l'onde,
 Par mille beaux exploits,
 De mon Trône flottant j'ai fait trembler des Rois,
@@ -283,8 +284,8 @@ J'obtienne le pardon d'une aveugle ignorance...
 Si je perdais ainsi ce frère incomparable,
 Mon âme de sa mort serait inconsolable.
 
-
 **** *creator_scarron *book_scarron_princecorsaire *style_verse *genre_comedy *dist1_scarron_verse_comedy_princecorsaire *dist2_scarron_verse_comedy *id_ELISE *date_1658 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elise
+
 
 Quel est cet étranger ?
 
@@ -894,8 +895,8 @@ Les Dieux nous traiteront plus favorablement ;
 Mais il faut l'informer de l'heureux changement,
 Qui donne à cet État une face nouvelle.
 
-
 **** *creator_scarron *book_scarron_princecorsaire *style_verse *genre_comedy *dist1_scarron_verse_comedy_princecorsaire *dist2_scarron_verse_comedy *id_ALCIONNE *date_1658 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alcionne
+
 
 Le sujet de vos pleurs ne se peut-il apprendre ;
 Et le temps, et la part qu'une soeur y peut prendre,
@@ -1064,8 +1065,8 @@ Ce que peut sur mon coeur un juste désespoir.
 Allons, allons, ma soeur, par nos morts généreuses,
 Rendre illustres les feux de deux soeurs malheureuses
 
-
 **** *creator_scarron *book_scarron_princecorsaire *style_verse *genre_comedy *dist1_scarron_verse_comedy_princecorsaire *dist2_scarron_verse_comedy *id_AMINTAS *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amintas
+
 
 Puis-je parler Seigneur ?
 
@@ -1338,8 +1339,8 @@ C'est pour cette raison, vaillant Prince, ou corsaire,
 Puisqu'on doit tout oser pour un bien d'un tel prix,
 Que je veux achever le dessein que j'ai pris.
 
-
 **** *creator_scarron *book_scarron_princecorsaire *style_verse *genre_comedy *dist1_scarron_verse_comedy_princecorsaire *dist2_scarron_verse_comedy *id_NICANOR *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicanor
+
 
 Madame, je veux bien ici vous répéter,
 Ce que dans le Conseil je viens de protester,
@@ -1571,8 +1572,8 @@ Et que Chypre à jamais célèbre l'heureux jour
 Qui donne un père au fils, rend le fils à son père,
 Et finit les malheurs d'un grand Prince corsaire.
 
-
 **** *creator_scarron *book_scarron_princecorsaire *style_verse *genre_comedy *dist1_scarron_verse_comedy_princecorsaire *dist2_scarron_verse_comedy *id_SEBASTE *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sebaste
+
 
 Vous pleurez un Grand Roi dont les heureuses armes,
 Tenaient la Chypre en paix, et l'Asie en alarmes.
@@ -1744,8 +1745,25 @@ De quoi servirait-elle, au vaillant fils d'Aminte ?
 En l'avouant pour fils qui gagne plus que toi.
 Et n'as que trop douté, crois-moi Prince, crois-moi.
 
+**** *creator_scarron *book_scarron_princecorsaire *style_verse *genre_comedy *dist1_scarron_verse_comedy_princecorsaire *dist2_scarron_verse_comedy *id_ARGANTE *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_argante
+
+
+      Que la licence
+Ne vous emporte pas à la moindre insolence.
+Soldats, cherchons partout notre invincible Roi ;
+Mais nos voeux sont ouïs, et c'est lui que je vois.
+Cher Seigneur, que le Ciel à la fin nous renvoie.
+
+Grand Prince !
+
+      Il faut donc vous montrer
+Sébaste en vain l'essaye, et tel excès de rage,
+Des plus sages Soldats maîtrise le courage,
+Qu'il est à redouter, que l'incendie enfin,
+N'achève de Paphos le malheureux Destin.
 
 **** *creator_scarron *book_scarron_princecorsaire *style_verse *genre_comedy *dist1_scarron_verse_comedy_princecorsaire *dist2_scarron_verse_comedy *id_CLARICE *date_1658 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clarice
+
 
 La Chypre a conservé constante dans la Foi,
 Le respect qu'elle doit aux Filles de son Roi,
@@ -1855,8 +1873,8 @@ Déjà pour le forcer ses machines prépare.
 Le plus grand, le plus fier de tous vos ennemis,
 Est donc ainsi Madame, à vos ordres soumis ?
 
-
 **** *creator_scarron *book_scarron_princecorsaire *style_verse *genre_comedy *dist1_scarron_verse_comedy_princecorsaire *dist2_scarron_verse_comedy *id_CRITON *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_criton
+
 
 Et renvoyé sa barque et ses soldats aussi.
 
@@ -1877,8 +1895,8 @@ Mon zèle ? ...
 
 Seigneur...
 
-
 **** *creator_scarron *book_scarron_princecorsaire *style_verse *genre_comedy *dist1_scarron_verse_comedy_princecorsaire *dist2_scarron_verse_comedy *id_LICAS *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_licas
+
 
       Le Prince est revenu
 Seigneur !
@@ -1915,4 +1933,3 @@ Cachez-vous.
 Madame, vous voyez où pour vous je m'expose,
 Le fier corsaire est seul, et je crois qu'il repose,
 Vous avez souhaité de le trouver ainsi.
-

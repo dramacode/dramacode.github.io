@@ -2,6 +2,7 @@
 
 **** *creator_crebillonf *book_crebillonf_nuitetlemoment *style_prose *genre_dialogue *dist1_crebillonf_prose_dialogue_nuitetlemoment *dist2_crebillonf_prose_dialogue *id_CIDALISE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cidalise
 
+
 Ah, bon dieu ! Clitandre, quoi ! C'est vous ?
 
 C'est que je croyais avoir quelque raison de penser que si vous vouliez bien veiller aujourd'hui avec quelqu'un, ce ne serait pas avec moi, et que, dans les idées que j'avais, votre présence m'a étonnée.
@@ -609,8 +610,8 @@ Ah ! Clitandre, bien doucement, je vous prie.
 
 Hélas ! Vous n'avez que trop de talents, et si cela dépendait de moi, je donnerais volontiers ceux des vôtres, dont vous faites peut-être le plus de cas, pour la certitude que vous me serez fidèle.
 
-
 **** *creator_crebillonf *book_crebillonf_nuitetlemoment *style_prose *genre_dialogue *dist1_crebillonf_prose_dialogue_nuitetlemoment *dist2_crebillonf_prose_dialogue *id_CLITANDRE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+
 
 Votre surprise, Madame, a de quoi m'étonner ; je vous croyais accoutumée à me voir vous faire ma cour, et je ne comprends pas ce que vous trouvez de si extraordinaire dans la visite que je vous fais.
 
@@ -1216,3 +1217,9 @@ Un autre talent que j'ai, c'est d'ouvrir une porte plus doucement que personne, 
 Oh ! Sans doute, vous feriez-là un beau marché ! Allez, mon ange, je vous la donnerai à moins de frais.
 Adieu, puissiez-vous, s'il se peut, m'aimer autant que vous êtes aimée vous-même !
 
+**** *creator_crebillonf *book_crebillonf_nuitetlemoment *style_prose *genre_dialogue *dist1_crebillonf_prose_dialogue_nuitetlemoment *dist2_crebillonf_prose_dialogue *id_JUSTINE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_justine
+
+
+À quelle heure, madame veut-elle qu'on entre demain ?
+
+On attendra que madame sonne.

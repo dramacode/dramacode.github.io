@@ -2,6 +2,7 @@
 
 **** *creator_lafontlesage *book_lafontlesage_querelledestheatres *style_verse *genre_prologue *dist1_lafontlesage_verse_prologue_querelledestheatres *dist2_lafontlesage_verse_prologue *id_LACOMEDIEFRANCAISE *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomediefrancaise
 
+
 N'allons pas plus avant, demeurons ma mignonne.
 Je ne me soutiens plus, la force m'abandonne,
 Mes yeux sont étonnés du monde que je vois :
@@ -55,8 +56,8 @@ Ce Jeu qui nous outrage.
 
 Quel bruit se fait entendre ? Nos ennemis auraient-ils repris courage ?
 
-
 **** *creator_lafontlesage *book_lafontlesage_querelledestheatres *style_verse *genre_prologue *dist1_lafontlesage_verse_prologue_querelledestheatres *dist2_lafontlesage_verse_prologue *id_LACOMEDIEITALIENNE *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomedieitalienne
+
 
 Oh ! Tâchez de vous soutenir toute seule... J'aI assez de peine à me soutenir moi-même.
 
@@ -82,8 +83,8 @@ Oui, rira bien qui rira le dernier. Vederète, vederète, Razza maledetta.
 
 Ils reviennent à la charge, qans doute.
 
-
 **** *creator_lafontlesage *book_lafontlesage_querelledestheatres *style_verse *genre_prologue *dist1_lafontlesage_verse_prologue_querelledestheatres *dist2_lafontlesage_verse_prologue *id_LOPERA *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lopera
+
 
 Dans ce temps,
 Filles de quinze ans.,
@@ -124,8 +125,8 @@ Dès qu'on a quitté la lisière,
 On voudrait déjà...
 Tati, tati, tati, tata.
 
-
 **** *creator_lafontlesage *book_lafontlesage_querelledestheatres *style_verse *genre_prologue *dist1_lafontlesage_verse_prologue_querelledestheatres *dist2_lafontlesage_verse_prologue *id_LAFOIRE *date_1710 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lafoire
+
 
 Holà, Danseurs, Chanteurs de Vaudevilles.
 Peuples à mes ordres soumis,
@@ -224,8 +225,8 @@ Amis, chantons : Vive la Foire.
 
 Vive la Foire et l'Opéra.
 
-
 **** *creator_lafontlesage *book_lafontlesage_querelledestheatres *style_verse *genre_prologue *dist1_lafontlesage_verse_prologue_querelledestheatres *dist2_lafontlesage_verse_prologue *id_MEZZETIN *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mezzetin
+
 
 Ha, ha, ha, ha, ha !
 
@@ -253,3 +254,20 @@ Bon, l'on sait ces pièces par coeur.
 
 Défendons-nous. Les voici.
 
+**** *creator_lafontlesage *book_lafontlesage_querelledestheatres *style_verse *genre_prologue *dist1_lafontlesage_verse_prologue_querelledestheatres *dist2_lafontlesage_verse_prologue *id_POLICHINELLE *date_1710 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polichinelle
+
+
+Au feu ! Au feu !
+Aux armes, Camarades,
+L'Ennemi vient à nous ;
+Préparons-nous tous,
+Aux armes, Camarades ;
+N'allons point ici filer doux.
+
+Nos deux fières Ennemies,
+De tous leurs Acteurs suivies,
+Viennent comme des Furies,
+Mes chers amis, fondre ici.
+Animons notre courage ;
+Ne cédons point l'avantage
+À leur envieuse rage.

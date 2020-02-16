@@ -2,6 +2,7 @@
 
 **** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *id_helene *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_helene
 
+
 Philoxene il suffit, ce discours m'importune,
 Lassés-vous à la fin de me persecuter,
 Comme ma patience est lasse d'escouter.
@@ -585,8 +586,8 @@ Gagne desja mon cœur et l'ame qu'elle chasse,
 Va rejoindre Phalante au partir de ce lieu,
 Adieu mes chers amis ne pleurez plus, Adieu.
 
-
 **** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *id_phalante *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phalante
+
 
 Madame, vos bontez sont pour moy sans limites
 Et m'ayant honoré⁎ par dessus mes merites,
@@ -1337,8 +1338,8 @@ Et qu'ayant fait mourir ma Reyne et mon amy,
 Je ne puis en mourant les payer qu'à demy.
 Je perds la voix, adieu recevez
 
-
 **** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *id_philoxene *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philoxene
+
 
 Ces regards enflammés que lancent vos beaus yeus,
 Ne sont que des esclairs pour cet audacieus,
@@ -1681,8 +1682,8 @@ C'est un amy sans tache.
 
       Ce desespoir m'offence.
 
-
 **** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *id_timandre *date_1642 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_timandre
+
 
 Nous serions trop ingrats à tant de bons offices⁎,
 Dont vous avez desja prévenu⁎ nos services,
@@ -1813,8 +1814,8 @@ Ce monstre, ce cruel.
 Ah ! mon fils, seul appuy d'une foible vieillesse,
 Seul espoir de mes jours, crois-tu que je te laisse ?
 
-
 **** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *id_cleomede *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleomede
+
 
 Madame pardonnez nostre importunité⁎,
 On n'attend au conseil que vostre Majesté,
@@ -1871,8 +1872,51 @@ Qu'on n'y puisse apporter
 Vous pouvés-vous resoudre à nous quitter ainsi ?
 Eh bien, nous vous suivrons.
 
+**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *id_arate *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arate
+
+
+De vos predecesseurs la recente memoire
+Vit encor dans nos cœurs avecque tant de gloire⁎,
+Et laisse dans Corinthe un si beau souvenir,
+Que la suite des ans ne le sçaurait bannir :
+Le feu Roy vostre pere, et tous vos bons Ancestres,
+Que ce Royaume illustre a cogneu pour ses Maistres,
+Bien qu'ils soient morts pour nous ont laissé desormais
+Un amour parmy nous qui ne mourra jamais.
+Ce sacré souvenir, Madame, vous oblige
+A conserver en vous le reste d'une tige,
+De qui le sang illustre à la posterité
+A regné parmy nous avec tant de bonté.
+Considerez les vœux d'un peuple qui desire,
+Qu'à jamais vostre sang gouverne cet Empire,
+Et qui ne verra point sans mourir mille fois,
+Au trône hereditaire eslever d'autres Roys.
+
+Ah ! Madame, voyez nos sensibles regrets,
+Helas ! que vous ont fait vos fideles sujects,
+Qui vous puisse obliger par un excez de haine
+A les faire mourir dans⁎ la mort de leur Reyne ?
+Ouy Madame mourir, vostre Empire est si doux,
+Que ce Royaume entier doit perir avec vous :
+Et quand par ceste mort vous leur serez ravie,
+Ce coup enlevera leur repos et leur vie.
+C'est ce qu'à leurs souhaits vous aviez donc promis,
+C'est le sanglant arrest que vous aviez remis,
+Et vos rigueurs, Madame, à leur douce semonce
+Destinoient⁎ ceste ingrate et cruelle responce.
+Helas ! considerez à quelle extremité
+Vous nous reduisez tous par ceste cruauté,
+Et si vous dédaignez un peuple qui vous ayme,
+Considerez quel tort vous faites à vous mesme,
+Combien on blâmera ce dessein furieux⁎,
+Combien ce desespoir irritera les Dieux.
+Et de quelle importance est une telle injure,
+Et contre les grands Dieux et contre la Nature.
+
+Ah ! discours qui me blesse au plus vif de mon ame.
 
 **** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *id_arbante *date_1642 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_arbante
+
 
 Seigneur de quelque soing⁎ que vostre ame agitée,
 Déguise la douleur dont elle est tourmentée,
@@ -1907,8 +1951,8 @@ Helas ! assistés-moy.
 
 Ah ! Seigneur.
 
-
 **** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *id_cleone *date_1642 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cleone
+
 
 Madame, quelqu'un vient.
 
@@ -1956,8 +2000,8 @@ Vous me perdriez, Seigneur.
 
       Ah ! je meurs.
 
-
 **** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *id_aminte *date_1642 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_aminte
+
 
       Esperez-le Madame,
 Bannissez cette crainte, et recognoissez mieux,
@@ -1974,3 +2018,7 @@ Par le commandement d'une Reyne affligée.
 
 Seigneur dans ce papier vous verrés son desir.
 
+**** *creator_calprenede *book_calprenede_phalante *style_verse *genre_tragedy *dist1_calprenede_verse_tragedy_phalante *dist2_calprenede_verse_tragedy *id_huissier *date_1642 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_huissier
+
+
+      C'est le Prince Phalante.

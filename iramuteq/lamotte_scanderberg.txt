@@ -2,6 +2,7 @@
 
 **** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *id_MELPOMENE *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
 
+
 De l'Antiquité mémorable
 J'ai chanté les héros fameux :
 Un temps moins reculé m'offre un sujet heureux,
@@ -32,8 +33,81 @@ Qu'un esclavage obscur dérobait à la gloire :
 Qu'importe que le sort ait trahi ses désirs ?
 Tu règnes par les pleurs, comme par les plaisirs.
 
+**** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *id_POLIMNIE *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_polimnie
+
+
+Vous réglez tous mes mouvements,
+Vous m'inspirez le tendre et le terrible.
+Je ne saurais être sensible,
+Qu'en imitant vos sentiments.
+
+      Attendris nos accents.
+
+**** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *id_LAMAGIE *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamagie
+
+
+Muses, je viens encor prête à remplis vos voeux,
+Faire servir mon Art à l'éclat de vos jeux.
+
+Eh ! Sans moi, pouvez vous enfanter ces miracles,
+Qui dans vos lyriques spectacles,
+Enchantent le coeur et les sens ?
+J'obscurcis le soleil, je fais trembler le terre ;
+Je déchaîne les vents, je soulève les mers :
+J'emprunte du ciel le tonnerre
+Pour effrayer, pour punir l'Univers :
+J'évoque du fonds des Enfers
+Les ombres pâles et plaintives ;
+Pour leur faire quitter les ténébreuses rives,
+Je force les prisons, et je brise les fers.
+J'imite de l'Amour le séduisant langage ;
+De ce tyran des coeurs j'égale le pouvoir,
+Et je fais comme lui, succéder à l'espoir
+Les regrets, les pleurs, et la rage.
+
+**** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *id_LAMOUR *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamour
+
+
+Muses, je m'intéresse aux succès de vos jeux.
+Chanter les douceurs que j'inspire,
+C'est préparer les coeurs à ressentir mes feux ;
+C'est leur apprendre à devenir heureux,
+C'est se soumettre à mon empire.
+Troupe légère à mes ordres soumise,
+Vous qui suivez toujours mes pas ;
+Pour seconder notre entreprise,
+Faites briller tous vos appas.
+
+Heureux qui toujours amant
+Chérit un tendre esclavage ;
+S'il languit quelque moment,
+Quel plaisir l'en dédommage !
+Jeunes coeurs, d'un feu constant
+Connaissez tout l'avantage ;
+Votre hommage
+Est le gage
+De bonheur qui vous attend ;
+Hâtez-en l'heureux instant :
+Que le prix vous encourage :
+L'Amour même vous en est garant.
+Heureux un coeur qui s'engage.
+
+Loin de vos coeurs
+Les tristes plaintes,
+Les vives craintes
+Et les langueurs :
+Que dans ces lieux
+Tout s'empresse,
+Chantez sans cesse
+Mes traits et mes feux :
+Suivez le Dieu qui vous inspire,
+Ne craignez point un doux martyre,
+Non, non, point de soupirs ;
+Sous mon empire,
+Les maux font plaisirs.
 
 **** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *id_AMURAT *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amurat
+
 
 Voyez, charmante Servilie,
 Quels sont mes premiers soins en entrant dans ces lieux ;
@@ -236,8 +310,8 @@ Je ne puis soutenir ce spectacle d'horreur.
 Loin de moi, va pleurer notre commun malheur,
 Que s'il se peut la gloire le répare.
 
-
 **** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *id_ROXANE *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roxane
+
 
 Toi qui pour ce héros fit naître mon ardeur,
 Amour ! Daigne en ce jour daigne fléchir son coeur.
@@ -415,8 +489,8 @@ Quelle rage ! Quel désespoir !
 Sultan, connais l'objet dont ton coeur est charmé,
 Ce Prince est ton rival ; ce rival est aimé.
 
-
 **** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *id_SCANDERBERG *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_scanderberg
+
 
 Enfin, Osman, le jour qui commence à nous luire,
 Sera-t-il le dernier de ma captivité ?
@@ -611,8 +685,8 @@ Vos mépris, ses remords, vengeront mon trépas.
 Non, je ne puis survivre à son destin fatal.
 Assouvis-toi, cruel ! Du sang de ton rival.
 
-
 **** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *id_SERVILIE *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_servilie
+
 
       Où suis-je ! justes Cieux !
 Ah ! Cher Prince, est-ce vous ?
@@ -728,8 +802,8 @@ Contre votre repos j'armai la jalousie.
 Oubliez tous deux vos fureurs :
 Que ma mort vous réconcilie.
 
-
 **** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *id_OSMAN *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_osman
+
 
 Princes, à vos desseins tout conspire ;
 J'ai su hâter l'instant de votre liberté.
@@ -763,8 +837,8 @@ Déjà, pour lui marquer son zèle,
 Le peuple loin des murs l'est allé recevoir.
 Je vous laisse, et je vole où mon devoir m'appelle.
 
-
 **** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *id_LEMUPHTI *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemuphti
+
 
 
 
@@ -792,3 +866,43 @@ Préviens la foudre qui menace.
 
 L'Univers t'est soumis, mais tu es à la loi.
 
+**** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *id_UNEGRECQUE *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_unegrecque
+
+
+Après tant d'alarmes
+Succède un beau jour,
+Tout vous rend les armes,
+Cédez à l'Amour.
+
+Recevez l'Empire
+Des mains du vainqueur ;
+Le vainqueur soupire,
+Recevez son coeur ;
+Tout conspire
+À combler votre bonheur.
+
+**** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *id_UNEASIATIQUE *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_uneasiatique
+
+
+
+
+Ici la beauté,
+Esclave et sans armes,
+Dompte la fierté.
+
+Ici la beauté
+Venge par ses charmes,
+Sa captivité.
+
+Ici quelquefois
+Le pouvoir suprême
+Cède à d'autres lois.
+
+Ici quelquefois
+De nos maîtres même
+Nos yeux sont les Rois.
+
+**** *creator_lamotte *book_lamotte_scanderberg *style_verse *genre_tragedie lyrique *dist1_lamotte_verse_tragedie lyrique_scanderberg *dist2_lamotte_verse_tragedie lyrique *id_LEVIZIR *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levizir
+
+
+Immolons Amurat, immolons Servilie.

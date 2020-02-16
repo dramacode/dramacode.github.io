@@ -2,6 +2,7 @@
 
 **** *creator_quinault *book_quinault_armide *style_verse *genre_show *dist1_quinault_verse_show_armide *dist2_quinault_verse_show *id_LAGLOIRE *date_1686 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lagloire
 
+
 Tout doit céder dans l'Univers
 À l'Auguste Héros que j'aime,
 L'effort des ennemis, les glaces des hivers,
@@ -19,8 +20,8 @@ Que l'éclat de son nom s'étende au bout du Monde.
 Réunissons nos voix ;
 Que chacun nous réponde.
 
-
 **** *creator_quinault *book_quinault_armide *style_verse *genre_show *dist1_quinault_verse_show_armide *dist2_quinault_verse_show *id_LASAGESSE *date_1686 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lasagesse
+
 
 Tout doit céder dans l'Univers
 À l'Auguste Héros que j'aime,
@@ -57,8 +58,8 @@ Et voler où la gloire appelle son courage,
 Le grand Roi qui partage entre nous ses désirs,
 Aime à nous voir même dans ses plaisirs.
 
-
 **** *creator_quinault *book_quinault_armide *style_verse *genre_show *dist1_quinault_verse_show_armide *dist2_quinault_verse_show *id_ARMIDE *date_1686 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_armide
+
 
 Dans un jour de Triomphe au milieu des plaisirs,
 Qui peut vous inspirer une sombre tristesse ?
@@ -343,8 +344,8 @@ Démons, détruisez ce Palais,
 Partons, et s'il se peut, que mon Amour funeste.
 Demeure enseveli dans ces lieux pour jamais.
 
-
 **** *creator_quinault *book_quinault_armide *style_verse *genre_show *dist1_quinault_verse_show_armide *dist2_quinault_verse_show *id_PHENICE *date_1686 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phenice
+
 
 Si la guerre aujourd'hui fait craindre ses ravages,
 C'est aux bords du Jourdain qu'ils doivent s'arrêter,
@@ -387,8 +388,8 @@ Il vous aime, l'Amour l'enchaîne
 Garderiez-vous mieux votre haine
 Contre un amant si tendre et si soumis ?
 
-
 **** *creator_quinault *book_quinault_armide *style_verse *genre_show *dist1_quinault_verse_show_armide *dist2_quinault_verse_show *id_SIDONIE *date_1686 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sidonie
+
 
 Vous allumer une fatale flamme
 Que vous ne ressentez jamais ;
@@ -431,8 +432,8 @@ Si votre sort est en votre puissance,
 Faites choix de l'indifférence,
 Elle assure un repos heureux.
 
-
 **** *creator_quinault *book_quinault_armide *style_verse *genre_show *dist1_quinault_verse_show_armide *dist2_quinault_verse_show *id_HIDRAOT *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hidraot
+
 
 Armide, que le sang qui m'unit avec vous
 Me rend sensible aux soins que l'on prend pour vous plaire 1
@@ -482,8 +483,8 @@ Pour achever le charme il faut unit nos voix.
 Nos Soldats font cachés dans le prochain bocage,
 Il faut que sur Renaud ils viennent fondre tous.
 
-
 **** *creator_quinault *book_quinault_armide *style_verse *genre_show *dist1_quinault_verse_show_armide *dist2_quinault_verse_show *id_ARONTE *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aronte
+
 
 Ô Ciel ! Ô disgrâce cruelle !
 Je conduisais vos Captifs avec soin ;
@@ -499,8 +500,8 @@ Rien ne peut résister à sa valeur extrême...
 
 C'est lui-même.
 
-
 **** *creator_quinault *book_quinault_armide *style_verse *genre_show *dist1_quinault_verse_show_armide *dist2_quinault_verse_show *id_RENAUD *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_renaud
+
 
 Allez, allez remplir ma place.
 Aux lieux d'où mon malheur me chasse,
@@ -606,8 +607,69 @@ Qu'un grand coeur soit impitoyable.
 Trop malheureuse Armide, hélas !
 Que ton destin est déplorable !
 
+**** *creator_quinault *book_quinault_armide *style_verse *genre_show *dist1_quinault_verse_show_armide *dist2_quinault_verse_show *id_ARTEMIDORE *date_1686 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artemidore
 
-**** *creator_quinault *book_quinault_armide *style_verse *genre_show *dist1_quinault_verse_show_armide *dist2_quinault_verse_show *id_UBALDE *date_1686 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_ubalde
+
+Invincible Héros, c'est par votre courage
+Que j'échappe aux rigueurs d'un funeste esclavage ?
+Après ce généreux recours,
+Puis-je me dispenser de vous suivre toujours ?
+
+Sans vous que peut-on entreprendre ;
+Celui qui vous bannit ne pourra s'en défendre
+De souhaiter votre retour.
+S'il faut que je vous quitte ; au moins ne puis-je apprendre
+En quels lieux vous allez choisir votre séjour.
+
+Fuyez les lieux où règne Armide,
+Si vous cherchez à vivre heureux ;
+Pour le Coeur le plus intrépide
+Elle a des charmes dangereux,
+C'est une ennemie implacable,
+Évitez ses ressentiments ;
+Puisse le Ciel à mes voeux favorable
+Vous garantit de ses enchantements.
+Pat une heureuse indifférence
+Mon coeur s'est dérobé fans peine à sa puissance,
+Je la vis seulement d'un regard curieux.
+Est-il plus mal aisé d'éviter sa vengeance.
+Que d'échapper au pouvoir de ses yeux ?
+J'aime la liberté, rien ne m'a pu contraindre
+À m'engager jusqu'à ce jour.
+Quand on peut mépriser le charme de l'Amour.
+Quels enchantements peut-on craindre ?
+
+**** *creator_quinault *book_quinault_armide *style_verse *genre_show *dist1_quinault_verse_show_armide *dist2_quinault_verse_show *id_LAHAINE *date_1686 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lahaine
+
+
+Je réponds à tes voeux, ta voix s'est fait entendre
+Jusques dans le fond des Enfers.
+Pour toi, contre l'Amour, je vais tout entreprendre,
+Et quand on veut bien s'en défendre
+On peut se garantir de ses indignes fers.
+
+Sors, sors du sein d'Armide, Amour brise ta chaîne.
+
+N'implores-tu mon assistance
+Que pour mépriser ma puissance ?
+Suis l'amour, puisque tu le veux,
+Infortunée Armide,
+Suis l'Amour qui te guide
+Dans un abîme affreux.
+Sur ces bords écartés c'est en vain que tu caches
+Le Héros dont ton coeur s'est trop laissé toucher
+La Gloire à qui tu l'arraches,
+Doit bientôt te l'arracher,
+Malgré tes soins, au mépris de tes larmes
+Tu le verras échapper à tes charmes.
+Tu me rappelleras, peut-être , dés ce jour :
+Et ton attente sera vaine :
+Je vais te quitter sans retour,
+Je ne puis te punir d'une plus rude peine,
+Que de t'abandonner pour jamais à l'Amour.
+
+**** *creator_quinault *book_quinault_armide *style_verse *genre_show *dist1_quinault_verse_show_armide *dist2_quinault_verse_show *id_UBALDE *date_1686 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_ubalde
+
 
 Celui qui nous envoie a prévu ce danger.
 Et nous a montré l'art de nous en dégager.
@@ -684,8 +746,8 @@ Renaud seul au bout de la Terre,
 Caché dans un charmant séjour,
 Veut-il suivre un honteux amour.
 
+**** *creator_quinault *book_quinault_armide *style_verse *genre_show *dist1_quinault_verse_show_armide *dist2_quinault_verse_show *id_LECHEVALIERDANOIS *date_1686 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lechevalierdanois
 
-**** *creator_quinault *book_quinault_armide *style_verse *genre_show *dist1_quinault_verse_show_armide *dist2_quinault_verse_show *id_LECHEVALIERDANOIS *date_1686 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lechevalierdanois
 
 Allons chercher Renaud ; le ciel nous favorise
 Dans notre pénible entreprise.
@@ -748,4 +810,3 @@ C'est l'unique danger dont votre âme intrépide
 A besoin de se garantir.
 Dans ces lieux enchantés la Volupté préside,
 Vous n'en sauriez trop tôt sortir.
-

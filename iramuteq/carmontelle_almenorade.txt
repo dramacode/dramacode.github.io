@@ -2,6 +2,7 @@
 
 **** *creator_carmontelle *book_carmontelle_almenorade *style_verse *genre_proverbe *dist1_carmontelle_verse_proverbe_almenorade *dist2_carmontelle_verse_proverbe *id_LESULTAN *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesultan
 
+
 Écoute, cher Hassan, et sois comme une souche.
 Sur ce que tu sauras, n'ouvre jamais la bouche.
 
@@ -78,8 +79,8 @@ Mais à la fin.
 Hé bien, pour mieux t'apprendre à lire l'errata,
 Imbécile Souffleur, c'est toi qui périra.
 
-
 **** *creator_carmontelle *book_carmontelle_almenorade *style_verse *genre_proverbe *dist1_carmontelle_verse_proverbe_almenorade *dist2_carmontelle_verse_proverbe *id_ALMENORADE *date_1768 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_almenorade
+
 
 Je vous cherchais, Seigneur, en ce jour plein de charmes,
 Pour vous féliciter sur le fort de vos armes.
@@ -139,8 +140,8 @@ Pardonnez-moi, Seigneur, cette juste colère ;
 En m'occupant de vous, je vais voir effacer
 Le trait que son amour avoir su me lancer...
 
-
 **** *creator_carmontelle *book_carmontelle_almenorade *style_verse *genre_proverbe *dist1_carmontelle_verse_proverbe_almenorade *dist2_carmontelle_verse_proverbe *id_ORCANOR *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orcanor
+
 
 Oui, Madame, c'est moi, que la gloire ramène
 Dans les fers de l'amour dont il chérit la chaîne ;
@@ -172,8 +173,28 @@ N'attends a pas longtemps pour recevoir ma foi.
 Je vous l'ose assurer, même devant Madame,
 Rien n'éteindra jamais cette divine flamme.
 
+**** *creator_carmontelle *book_carmontelle_almenorade *style_verse *genre_proverbe *dist1_carmontelle_verse_proverbe_almenorade *dist2_carmontelle_verse_proverbe *id_ELMIRE *date_1768 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elmire
+
+
+Dissimulez, Madame, et devant le Sultan,
+Ayez ce doux regard qui flatte un tendre amant ;
+Il est doux de tromper le tyran qu'on abhorre,
+Quand c'est pour conserver l'amant que l'on adore.
+
+**** *creator_carmontelle *book_carmontelle_almenorade *style_verse *genre_proverbe *dist1_carmontelle_verse_proverbe_almenorade *dist2_carmontelle_verse_proverbe *id_HASSAN *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hassan
+
+
+Seigneur, des confidents je fuis le plus discret,
+J'entends et ne dis mot, parlez, me voilà prêt.
+
+Vous le croyez, Seigneur ?
+
+Quel est votre projet ? Comment ! Couvert de gloire,
+Voulez-vous lui montrer, après cette victoires,
+Que sur les Maroquins, il vient de remporter ?...
 
 **** *creator_carmontelle *book_carmontelle_almenorade *style_verse *genre_proverbe *dist1_carmontelle_verse_proverbe_almenorade *dist2_carmontelle_verse_proverbe *id_LESOUFFLEUR *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesouffleur
+
 
 Mais Monsieur, ce n'est pas encore là le moment de tuer.
 
@@ -191,4 +212,3 @@ Ah ! Cela est vrai.
 
 Que je suis malheureux ! Je meurs, que l'on m'emporte ;
 Mais qu'on rende à chacun son argent à la porte.
-

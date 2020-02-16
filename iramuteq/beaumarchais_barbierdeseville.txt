@@ -2,6 +2,7 @@
 
 **** *creator_beaumarchais *book_beaumarchais_barbierdeseville *style_prose *genre_comedy *dist1_beaumarchais_prose_comedy_barbierdeseville *dist2_beaumarchais_prose_comedy *id_BARTHOLO *date_1775 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bartholo
 
+
 Quel papier tenez-vous là ?
 
 Qu'est-ce que "La Précaution inutile" ?
@@ -553,8 +554,8 @@ Eh ! Laissez-moi donc en repos, Bazile ! Vous ne songez qu'à l'argent. Je me so
 
 Et moi qui leur ai enlevé l'échelle pour que le mariage fût plus sûr ! Ah ! Je me suis perdu faute de soins.
 
+**** *creator_beaumarchais *book_beaumarchais_barbierdeseville *style_prose *genre_comedy *dist1_beaumarchais_prose_comedy_barbierdeseville *dist2_beaumarchais_prose_comedy *id_ROSINE *date_1775 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_rosine
 
-**** *creator_beaumarchais *book_beaumarchais_barbierdeseville *style_prose *genre_comedy *dist1_beaumarchais_prose_comedy_barbierdeseville *dist2_beaumarchais_prose_comedy *id_ROSINE *date_1775 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_rosine
 
 Comme le grand air fait plaisir à respirer !... Cette jalousie s'ouvre si rarement...
 
@@ -981,8 +982,8 @@ Non, non ; grâce pour lui, cher Lindor ! Mon coeur est si plein, que la vengean
 
 Il dit vrai. D'où naît votre étonnement ? Ne devais-je pas, cette nuit même, être vengée d'un trompeur ? Je le suis.
 
-
 **** *creator_beaumarchais *book_beaumarchais_barbierdeseville *style_prose *genre_comedy *dist1_beaumarchais_prose_comedy_barbierdeseville *dist2_beaumarchais_prose_comedy *id_FIGARO *date_1775 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_figaro
+
 
 Bannissons le chagrin,
 Il nous consume :
@@ -1370,8 +1371,8 @@ Non, monsieur, elles ne sont qu'une.
 
 Faute de sens. Mais soyons vrais, docteur quand la jeunesse et l'amour sont d'accord pour tromper un vieillard, tout ce qu'il fait pour l'empêcher peut bien s'appeler à bon droit la Précaution inutile.
 
+**** *creator_beaumarchais *book_beaumarchais_barbierdeseville *style_prose *genre_comedy *dist1_beaumarchais_prose_comedy_barbierdeseville *dist2_beaumarchais_prose_comedy *id_LAJEUNESSE *date_1775 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_lajeunesse
 
-**** *creator_beaumarchais *book_beaumarchais_barbierdeseville *style_prose *genre_comedy *dist1_beaumarchais_prose_comedy_barbierdeseville *dist2_beaumarchais_prose_comedy *id_LAJEUNESSE *date_1775 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_lajeunesse
 
 Voilà plus de cinquante... Cinquante fois... dans un moment !
 Je suis brisé.
@@ -1384,8 +1385,8 @@ J'aime autant recevoir mon congé. Un service terrible, et toujours un train d'e
 
 Ah ! Monsieur, je vous jure que, sans mademoiselle, il n'y aurait... Il n'y aurait pas moyen de rester dans la maison.
 
-
 **** *creator_beaumarchais *book_beaumarchais_barbierdeseville *style_prose *genre_comedy *dist1_beaumarchais_prose_comedy_barbierdeseville *dist2_beaumarchais_prose_comedy *id_LEVEILLE *date_1775 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leveille
+
 
 Aah, aah, ah, ah...
 
@@ -1400,4 +1401,3 @@ Est-ce que c'est quelqu'un donc, monsieur Figaro ? Aah ! ah...
 Moi... je m'entends !...
 
 Un pauvre homme de bien est traité comme un misérable.
-

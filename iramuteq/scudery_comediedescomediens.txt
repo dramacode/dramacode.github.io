@@ -2,6 +2,7 @@
 
 **** *creator_scudery *book_scudery_comediedescomediens *style_prose *genre_comedy *dist1_scudery_prose_comedy_comediedescomediens *dist2_scudery_prose_comedy *id_BELLEOMBRE *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_belleombre
 
+
 Je meure s'il n'est vrai que tout ce qui reluit n'est pas or : et que les belles apparences sont le plus souvent trompeuses, avant qu'avoir goûté la forme de vie que je mène, je me l'imaginais la plus agréable de toutes : et je croyais indubitablement la comédie aussi plaisante à faire, qu'à voir : mais l'expérience m'a contraint de changer d'opinion : et certes il faudrait que j'eusse le goût bien malade, pour ne savoir pas faire la différence de ces deux choses, puisque l'une commence, continue, et finit avec plaisir, et que l'autre au contraire, est suivie de mille incommodités. Ce n'est pas que la qualité que nous avons de bourgeois de l'univers, ou de Citoyens du Monde, ne soit capable de contenter l'esprit d'un jeune homme, par les diversités qu'elle présente à la curiosité, comme à sa vue, mais ce peu de douceur est mêlé de tant d'amertume, et ces roses accompagnées de tant d'épines, qu'il est impossible de prendre l'une sans dégoût, ni de toucher aux autres sans piqûre. Quoi que le personnage que je joue à cette porte, ne soit pas le plus honorable, il est pourtant le plus utile, et comme il fait la part à mes compagnons, je n'ai pas la mémoire si mauvaise, que j'oublie à faire la mienne bonne ; mais le malheur est, que mon industrie ne trouve point où agir pleinement, à cause de l'humeur de ces habitants, plus froide que la saison où nous sommes, de sorte que si ce désordre continue, BELLE OMBRE, je pense que le meilleur sera de nous y tenir, c'est à dire, d'aller revoir les clochers de notre ville, et demeurer à la maison clos et couvert de peur du hâle. Mais voici notre tambour et notre Arlequin revenus, et je pense puisque je ne vois venir personne, que le bruit qu'ils ont fait par les rues, n'aura pas été plus persuasif, que les menteries de l'affiche.
 
 La repartie n'est pas mauvaise, mais elle me semble un peu bien libre pour une femme.
@@ -22,8 +23,40 @@ Mais mon oncle, est-on blâmable pour être comédien ?
 
 Très humble serviteur mon oncle. Jamais je ne me trouvai si empêché de ma contenance ; mais puisque je ne fais plus rien ici, allons rejoindre nos messieurs, et leur rendre compte de mon aventure.
 
+**** *creator_scudery *book_scudery_comediedescomediens *style_prose *genre_comedy *dist1_scudery_prose_comedy_comediedescomediens *dist2_scudery_prose_comedy *id_ARLEQUIN *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+
+
+Nous pouvons bien bander notre caisse, et notre tambour débander la sienne : car désormais je ne vois point d'apparence que nous fassions rien ici, il n'est grande ni petite rue, que nous n'ayons visitée quatre fois, avec plus de soin, que si nous eussions eu ordre du Magistrat de faire la patrouille : mais le tout inutilement, et puissai-je ne souper d'aujourd'hui, à voir le peu d'émotion que ma présence leur apporte, si l'on ne dirait que je suis bourgeois comme eux, ou qu'ils font tous arlequins comme moi. Il n'est pas jusqu'aux petits enfants, qui ne soient fols à force d'être sages, et je puis dire sans vanité, que jamais homme de ma condition ne se vit si mal accompagné, j'ai même plus fait que ne porte ma commission, car ce que les affiches leur montrent par les yeux, j'ai tâché de le leur apprendre par les oreilles, et cette ville n'a point de carrefour, où je n'ai fait le crieur public ; mais je pense qu'ils ont tous voyagé en Egypte, et que le bruit des cataractes du Nil, leur a dérobé l'ouïe.
+
+Oui ; et plus véritable à mon grand regret, que celle de Pline, qui rapporte ce que je viens de dire : car il est indubitable, que nous ne gagnerons rien ici.
+
+**** *creator_scudery *book_scudery_comediedescomediens *style_prose *genre_comedy *dist1_scudery_prose_comedy_comediedescomediens *dist2_scudery_prose_comedy *id_BELLEFLEUR *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bellefleur
+
+
+Ha, ha, te voilà sur l'histoire, à ce que j'entends.
+
+Je meure si elle n'habille ses raisons de bonne grâce ; et bien que cinq heures aient sonné, depuis qu'elle parle, je m'étais résolu de ne l'interrompre point ; mais puisqu'une femme a pu s'imposer silence elle-même, faisons en autant, et, rentrons ; et bien que nous ayons accoutumé ailleurs d'avoir achevé à cette heure, ne laisse pas Belle-Ombre, de te tenir encore quelque temps à la porte ; car peut-être, ce que nous jugeons stupidité, ne se trouvera que paresse, et le bien ne vient jamais tard, quand il arrive.
+
+Toutes celles de feu Hardy.
+
+**** *creator_scudery *book_scudery_comediedescomediens *style_prose *genre_comedy *dist1_scudery_prose_comedy_comediedescomediens *dist2_scudery_prose_comedy *id_BELLEEPINE *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_belleepine
+
+
+Voilà les plus mauvaises nouvelles que tu nous pouvais apprendre : il est vrai qu'elles ne me surprennent point, car je les avais bien prévues.
+
+Vous pouvez tout sur notre obéissance.
+
+C'est à vous d'ordonner tout ce qui vous plaira dans la Troupe : mais craignant de vous apporter de l'importunité, nous allons vous donner le bonsoir.
+
+**** *creator_scudery *book_scudery_comediedescomediens *style_prose *genre_comedy *dist1_scudery_prose_comedy_comediedescomediens *dist2_scudery_prose_comedy *id_BEAUSEJOUR *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_beausejour
+
+
+Voici un de ces prophètes, qui prédisent les choses arrivées : et Tiercelet de Nostradamus, si vous prévoyez le malheur de la troupe que ne l'en avertissiez vous ?
+
+Ce que vous nous venez de dire, est l'idée de la perfection, qui ne se trouve point aux hommes : mais si j'ose bien assurer que notre troupe n'en est pas tant éloignée ; et comme vous savez parfaitement faire le discernement des bonnes et des mauvaises choses, si vous nous aviez vu représenter, peut-être seriez vous de mon avis.
 
 **** *creator_scudery *book_scudery_comediedescomediens *style_prose *genre_comedy *dist1_scudery_prose_comedy_comediedescomediens *dist2_scudery_prose_comedy *id_BEAUSOLEIL *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_beausoleil
+
 
 Voilà à mon avis, le plus grand nombre de tes humanités, et de tes fleurs de rhétorique étalé, et pour peu qu'on te pressât encore, tu serais contraint de recourir, à l'éloquence de ton pays, c'est à dire aux phrases périgourdines.
 
@@ -35,8 +68,8 @@ Oui, Monsieur, il nous reste une TRAGI-COMÉDIE PASTORALE, intitulée, L'AMOUR C
 
 Monsieur nous sommes vos très-humbles serviteurs.
 
-
 **** *creator_scudery *book_scudery_comediedescomediens *style_prose *genre_comedy *dist1_scudery_prose_comedy_comediedescomediens *dist2_scudery_prose_comedy *id_MONSIEURDEBLANDIMARE *date_1634 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdeblandimare
+
 
 Non, je ne ferai rien ; tenez, reprenez vos habits : je ne veux point être fou par compagnie : et je ne saurais me résoudre à tromper tant d'honnêtes gens, comme je vois qu'il y en a ici.Je ne sais ( Messieurs ) quelle extravagance est aujourd'hui celle de mes Compagnons, mais elle est bien si grande, que je suis forcé de croire, que quelque charme leur dérobe la raison, et le pire que j'y vois, c'est, qu'ils tâchent de me la faire perdre, et à vous autres aussi.Ils veulent me persuader que je ne suis point sur un théâtre ; ils disent que c'est ici la ville de Lyon, que voilà une hôtellerie ; et que voici un jeu de paume, où des Comédiens qui ne sont point nous, et lesquels nous sommes pourtant, représentent une Pastorale, ces insensés ont tous pris des noms de guerre, et pensent vous être inconnus, en s'appelant, Belle-Ombre, Beau-Soleil, Beau-Séjour, et d'autres encore tous semblables ; ils veulent que vous croyez être au bord du Rhône, et non pas à celui de la Seine ; et sans partir de Paris, ils prétendent vous faire passer pour des habitants de Lyon : à moi-même ces Messieurs des petites Maisons, me veulent persuader que la métempsychose est vraie, et que par conséquent Pythagore était un évangéliste car ils disent que je suis un certain monsieur de Blandimare, bien que je m'appelle véritablement Mondory, et voyez s'ils ont le sens bien égaré, ils doivent faire passer ici un tambour et un arlequin, comme le pratiquent les petites troupes dedans, les petites villes ; n'est-ce pas se faire tort, et vous offenser aussi ?Mais ce n'est point encore tout, leur folie va bien plus avant, car la pièce qu'ils représentent, ne saurait durer qu'une heure et demie, mais ces insensés assurent, qu'elle en dure vingt et quatre et ces esprits déréglés, appellent cela suivre les règles, mais s'ils étaient véritables, vous devriez envoyer quérir à dîner, à souper, et des lits ; jugez si vous ne seriez pas couchés bien chaudement, de dormir dans un jeu de Paume : enfin leur manie m'oblige à faire un voyage a Saint-Mathurin pour eux, où je m'en vais et cependant (Messieurs) ne les croyez pas, quoiqu'ils puissent dire ; car je meure s'il y aura rien de véritable : mais il est bien tard pour partir et le Soleil s'abaisse fort, de sorte que puisque je suis contraint de remettre mon voyage à demain, il faut nécessairement que je m'accommode pour aujourd'hui, à l'humeur de ces Passerellis ; car elle se peut vaincre par la douceur, et s'irrite par la résistance : et de peur de les mettre en mauvaise, ne dites mot je vous supplie : parce qu'étant mélancoliques, ils sont amateurs du silence.
 
@@ -79,4 +112,3 @@ Elle est de ma connaissance, et de la composition de celui dont nous avons parl�
 Je ne vous prie point de coucher ici, parce que vous serez plus commodément chez vous : mais pour ces Demoiselles, à qui le serein pourrait faire mal en s'en allant, je leur offre, et ma chambre, et mon lit s'il leur agrée.
 
 Adieu Mesdames, bonsoir Messieurs.
-

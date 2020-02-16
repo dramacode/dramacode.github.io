@@ -2,6 +2,7 @@
 
 **** *creator_carmontelle *book_carmontelle_boudoir *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_boudoir *dist2_carmontelle_prose_proverbe *id_MONSIEURDEBOURVAL *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdebourval
 
+
 Entrez et fermez la porte à regardez un peu ceci. Que dites-vous de ce boudoir ?
 
 Je n'ai pas voulu qu'il y manquât la moindre chose.
@@ -77,8 +78,8 @@ Allons, soyez heureux, et j'en serai charmé.
 
 Oui , oui ; mais mon ami est un grand fripon.
 
+**** *creator_carmontelle *book_carmontelle_boudoir *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_boudoir *dist2_carmontelle_prose_proverbe *id_MADEMOISELLEDESAINTEDME *date_1768 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_mademoiselledesaintedme
 
-**** *creator_carmontelle *book_carmontelle_boudoir *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_boudoir *dist2_carmontelle_prose_proverbe *id_MADEMOISELLEDESAINTEDME *date_1768 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_mademoiselledesaintedme
 
 Sophie ?
 
@@ -143,8 +144,8 @@ J'essaye votre boudoir, Monsieur, il est délicieux, et je vous ai la plus grand
 
 Oui, sans lui, je n'aurais peut-être jamais su que Monsieur le Chevalier m'aimait ; peut-être même n'y aurais-je pas été aussi sensible ; c'est à vous que je devrai tout mon bonheur.
 
-
 **** *creator_carmontelle *book_carmontelle_boudoir *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_boudoir *dist2_carmontelle_prose_proverbe *id_SOPHIE *date_1768 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sophie
+
 
 Oui, Monsieur.
 
@@ -222,8 +223,8 @@ Ce n'est pas pour vous qu'il l'est le plus.
 
 Monsieur, elle est sensible, elle en convient ; n'est-ce pas ce que vous en vouliez savoir ?
 
-
 **** *creator_carmontelle *book_carmontelle_boudoir *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_boudoir *dist2_carmontelle_prose_proverbe *id_MONSIEURDORSANT *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdorsant
+
 
 Je le trouve délicieux , je n'ai rien vu comme cela.
 
@@ -281,4 +282,3 @@ Cette épreuve était folle, je vous l'avais prédit.
 Consentez de bonne grâce.
 
 Nous faisons des heureux , mon ami, nous le devenons nous-mêmes, n'est-ce pas ?
-

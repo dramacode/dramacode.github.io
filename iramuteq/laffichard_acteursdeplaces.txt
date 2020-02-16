@@ -2,6 +2,7 @@
 
 **** *creator_laffichard *book_laffichard_acteursdeplaces *style_prose *genre_comedy *dist1_laffichard_prose_comedy_acteursdeplaces *dist2_laffichard_prose_comedy *id_LAFOLIE *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lafolie
 
+
 Le voici.
 Ah ! Ah ! Madame, vous dans ces lieux ! Je suis charmée de de vous y rencontrer ; je vois que nous sommes inséparables.
 
@@ -74,8 +75,8 @@ C'est à quoi je vais pourvoir ; les Dieux, qui m'ont privée du jugement, pour 
 
 Messieurs, le désir de vous plaire a souvent fait imaginer aux auteurs quelque chose de singulier, mais toutes les folies ne sont pas heureuses ; nous souhaitons que celle-ci vous amuse, et que l'ardeur de notre zèle fasse excuser notre témérité.
 
-
 **** *creator_laffichard *book_laffichard_acteursdeplaces *style_prose *genre_comedy *dist1_laffichard_prose_comedy_acteursdeplaces *dist2_laffichard_prose_comedy *id_MADAMEDANGEVILLE *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedangeville
+
 
 Avancez ce fauteuil.
 
@@ -93,8 +94,8 @@ Lucile, à moi l'amoureuse ! Me voilà bien lotie ?
 
 Nous serions les dupes de notre complaisance.
 
-
 **** *creator_laffichard *book_laffichard_acteursdeplaces *style_prose *genre_comedy *dist1_laffichard_prose_comedy_acteursdeplaces *dist2_laffichard_prose_comedy *id_MONSIEURPOISSON *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurpoisson
+
 
 Un siège à Monsieur.
 
@@ -111,27 +112,8 @@ Touchez-là ; je suis aussi bien partagé que vous.
 
 Honneur à la souveraine du genre humain.
 
-En tous lieux c'est la mode aujourd'hui
-De jouer le rôle d'autrui.
-La soubrette fait la maîtresse,
-La bourgeoise fait la Duchesse ;
-Le Commis
-Tranche du Marquis :
-On voit prendre à la vieillesse
-Le ton badin de la jeunesse.
-En tous lieux c'est la mode aujourd'hui
-De jouer le rôle d'autrui.
-
-Sous la figure d'amant ;
-Si quelque beauté me contrôle ;
-Elle a tort assurément,
-Car, ma foi, je suis un bon drôle :
-Peu d'Acteurs, je crois
-Font mieux que moi
-Ce rôle.
-
-
 **** *creator_laffichard *book_laffichard_acteursdeplaces *style_prose *genre_comedy *dist1_laffichard_prose_comedy_acteursdeplaces *dist2_laffichard_prose_comedy *id_MONSIEURDEMONTMENY *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdemontmeny
+
 
 Quoi ! La Ville de Paris dans notre hôtel ! Cela m'étonne ; puis-je vous demander, Madame, la cause de votre visite.
 
@@ -162,8 +144,8 @@ Ho ça, Monsieur l'Auteur, vous imaginez-vous qu'on puisse représenter votre co
 
 Vous ne pouvez être inspiré que par la folie.
 
-
 **** *creator_laffichard *book_laffichard_acteursdeplaces *style_prose *genre_comedy *dist1_laffichard_prose_comedy_acteursdeplaces *dist2_laffichard_prose_comedy *id_MONSIEURDELATHORILLIERE *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdelathorilliere
+
 
 Commencez, Monsieur, nous sommes prêts à vous entendre.
 
@@ -177,8 +159,8 @@ Voyons ce que cela produira.
 
 Le Marquis. Moi, Marquis ! Suis-je d'une tournure à faire des extravagances.
 
-
 **** *creator_laffichard *book_laffichard_acteursdeplaces *style_prose *genre_comedy *dist1_laffichard_prose_comedy_acteursdeplaces *dist2_laffichard_prose_comedy *id_MONSIEURFLEURY *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurfleury
+
 
 Je l'en défie, si nous parlons toujours.
 
@@ -191,8 +173,8 @@ J'en conviens ; mais il faut quelquefois se prêter aux idées de ces Messieurs.
 Doris, confidente de Léda.
 Nous sommes bien assortis.
 
-
 **** *creator_laffichard *book_laffichard_acteursdeplaces *style_prose *genre_comedy *dist1_laffichard_prose_comedy_acteursdeplaces *dist2_laffichard_prose_comedy *id_MADEMOISELLEGRANDVAL *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellegrandval
+
 
 Je suis vive, prompte, ne me faites point attendre.
 
@@ -218,8 +200,8 @@ Voilà deux acteurs placés à merveilles.
 
 Donnez-nous donc les moyens de vous servir aussi promptement que vous le désirez.
 
-
 **** *creator_laffichard *book_laffichard_acteursdeplaces *style_prose *genre_comedy *dist1_laffichard_prose_comedy_acteursdeplaces *dist2_laffichard_prose_comedy *id_MONSIEURMONDOR *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurmondor
+
 
 Oui, Madame, Lucile est en âge d'être pourvue.
 
@@ -282,8 +264,8 @@ Qu'entends-je ?
 
 Je consens à tout.
 
-
 **** *creator_laffichard *book_laffichard_acteursdeplaces *style_prose *genre_comedy *dist1_laffichard_prose_comedy_acteursdeplaces *dist2_laffichard_prose_comedy *id_MADAMEMONDOR *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamemondor
+
 
 C'est à ce dessein-là, Monsieur, que je l'ai fait sortir du Couvent.
 
@@ -335,8 +317,8 @@ Comment, petite sotte, vous raisonnez ?
 
 Et moi de même.
 
+**** *creator_laffichard *book_laffichard_acteursdeplaces *style_prose *genre_comedy *dist1_laffichard_prose_comedy_acteursdeplaces *dist2_laffichard_prose_comedy *id_DORANTE *date_1735 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_dorante
 
-**** *creator_laffichard *book_laffichard_acteursdeplaces *style_prose *genre_comedy *dist1_laffichard_prose_comedy_acteursdeplaces *dist2_laffichard_prose_comedy *id_DORANTE *date_1735 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_dorante
 
 Je venais apprendre...
 
@@ -379,8 +361,8 @@ Belle Lucile, rien n'égale ma félicité.
 
 Allons, que la fête s'exécute.
 
+**** *creator_laffichard *book_laffichard_acteursdeplaces *style_prose *genre_comedy *dist1_laffichard_prose_comedy_acteursdeplaces *dist2_laffichard_prose_comedy *id_LUCILE *date_1735 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_lucile
 
-**** *creator_laffichard *book_laffichard_acteursdeplaces *style_prose *genre_comedy *dist1_laffichard_prose_comedy_acteursdeplaces *dist2_laffichard_prose_comedy *id_LUCILE *date_1735 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lucile
 
 Hé bien ? Qu'est-ce, Lucas ? Parle donc.
 
@@ -442,8 +424,8 @@ Ah ! Que m'apprends-tu ?
 
 Croyez qu'elle fait la mienne.
 
-
 **** *creator_laffichard *book_laffichard_acteursdeplaces *style_prose *genre_comedy *dist1_laffichard_prose_comedy_acteursdeplaces *dist2_laffichard_prose_comedy *id_MENELAS *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_menelas
+
 
 Hélas !
 
@@ -560,8 +542,8 @@ Ma trame tout de bon pourrait être coupée.
 Rengaine, Ménélas ; laisse Hélène à Paris,
 Et change prudemment ta colère en mépris.
 
-
 **** *creator_laffichard *book_laffichard_acteursdeplaces *style_prose *genre_comedy *dist1_laffichard_prose_comedy_acteursdeplaces *dist2_laffichard_prose_comedy *id_LEDA *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leda
+
 
 Jugez à ce mouchoir tout trempé de mes larmes
 Du triste événement qui cause mes alarmes
@@ -638,8 +620,8 @@ Qu'on soit ange avec vous, quand vous êtes des diables.
 Perfide ! Sur vous-même ouvrez enfin les yeux ;
 Connaissez...
 
-
 **** *creator_laffichard *book_laffichard_acteursdeplaces *style_prose *genre_comedy *dist1_laffichard_prose_comedy_acteursdeplaces *dist2_laffichard_prose_comedy *id_DORIS *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_doris
+
 
 Quoi ! Tandis que chacun s'abandonne aux plaisirs,
 Que tout semble en ces lieux prévenir vos désirs,
@@ -682,8 +664,8 @@ Oui, Seigneur, et Pâris vous a fait...
 Je ne puis achever ce récit trop funeste...
 Mais j'aperçois Léda qui vous dira le reste.
 
-
 **** *creator_laffichard *book_laffichard_acteursdeplaces *style_prose *genre_comedy *dist1_laffichard_prose_comedy_acteursdeplaces *dist2_laffichard_prose_comedy *id_LISETTE *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
 Que me veux-tu, Lucas ?
 
@@ -855,8 +837,8 @@ Répondez-donc.
 
 Tu te moques. Il me faut vraiment bien un autre mari que toi.
 
-
 **** *creator_laffichard *book_laffichard_acteursdeplaces *style_prose *genre_comedy *dist1_laffichard_prose_comedy_acteursdeplaces *dist2_laffichard_prose_comedy *id_LUCAS *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucas
+
 
 Vous vla fort à propos. Mameselle Lisette.
 
@@ -987,4 +969,3 @@ Que ces habits de masque ieux vont bian.
 La drôle d'aventure !
 
 Marions-nous itou, Mameselle Lisette.
-

@@ -1,6 +1,7 @@
 
 
-**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_lacrymanie *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_lacrymanie *dist2_cubieres-palmezeaux_verse_comedy *id_LISIMON *date_(inc *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_lisimon
+**** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_lacrymanie *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_lacrymanie *dist2_cubieres-palmezeaux_verse_comedy *id_LISIMON *date_(inc *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_lisimon
+
 
 En croirai-je, mon frère, un avis peu certain...
 Qui peut vous inspirer un semblable dessein ?
@@ -307,8 +308,8 @@ Vous ne concevez pas d'où vient ce changement.
 En deux mots le voici : je suis sexagénaire,
 Et cours me délasser et rire avec Molière.
 
-
 **** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_lacrymanie *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_lacrymanie *dist2_cubieres-palmezeaux_verse_comedy *id_EMILIE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_emilie
+
 
 Venant de votre main, ayant votre promesse,
 Pourrais-je mépriser ses vœux et sa tendresse ?
@@ -326,8 +327,8 @@ Quel instant !
 
 À quelle extrémité me réduis-tu, Lisette ?...
 
-
 **** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_lacrymanie *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_lacrymanie *dist2_cubieres-palmezeaux_verse_comedy *id_CLITANDRE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+
 
 Rendez moins de Justice à cette folle ivresse,
 Dont j'ai su, dites-vous, garantir ma jeunesse :
@@ -360,8 +361,8 @@ Sans doute c'est Pasquin.
       Un bienfait si marqué,
 Nous forcera, Pasquin, à la reconnaissance.
 
-
 **** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_lacrymanie *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_lacrymanie *dist2_cubieres-palmezeaux_verse_comedy *id_ALCIPE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcipe
+
 
 M'y voilà résolu, je quitte enfin Paris,
 Et fasse qui voudra la guerre aux beaux esprits :
@@ -692,8 +693,8 @@ Paris ait applaudi des préjugés si sots :
 Et que même aujourd'hui des sottises pareilles
 Portent pour leur devise : à l'aîné des Corneilles.
 
-
 **** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_lacrymanie *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_lacrymanie *dist2_cubieres-palmezeaux_verse_comedy *id_LETHEREE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_letheree
+
 
 Enfin, grâce à moi seul, en devenant auteur,
 J'ai trouvé le moyen de faire mon bonheur,
@@ -1003,8 +1004,8 @@ Outragent nos écrits et brisent nos autels,
 Je leur prépare un drame et si triste et si sombre,
 Qu'ils en auront longtemps même peur de mon ombre.
 
-
 **** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_lacrymanie *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_lacrymanie *dist2_cubieres-palmezeaux_verse_comedy *id_PASQUIN *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pasquin
+
 
 Serviteur à l'objet de mes tendres amours.
 Mon Maître est-il ici ?
@@ -1277,8 +1278,8 @@ Cesser de nous donner des drames larmoyants.
 Mais quant à ce Roman, Messieurs, je conjecture
 Qu'on en fait un précis dans le prochain Mercure.
 
-
 **** *creator_cubieres-palmezeaux *book_cubieres-palmezeaux_lacrymanie *style_verse *genre_comedy *dist1_cubieres-palmezeaux_verse_comedy_lacrymanie *dist2_cubieres-palmezeaux_verse_comedy *id_LISETTE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
       Cet espoir est flatteur,
 Et répond aux projets que vous avez sur elle...
@@ -1411,4 +1412,3 @@ Mais, Pasquin, c'est ici qu'il faut bien te servir
 Du bel art que le Ciel t'a donné pour mentir ;
 Apprends-lui ce larcin, sers bien notre vengeance,
 Et tu pourras compter sur ma reconnaissance.
-

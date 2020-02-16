@@ -2,6 +2,7 @@
 
 **** *creator_anonyme *book_anonyme_bonnesgens *style_verse *genre_comedy *dist1_anonyme_verse_comedy_bonnesgens *dist2_anonyme_verse_comedy *id_GUILLAUME *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillaume
 
+
 C'est ici, l'an passé, que nous vîmes le Roi...
 Te rappelles-tu bien sa physionomie ?
 
@@ -116,8 +117,8 @@ Et l'on pourrait trembler à moins.
 Éloignons-nous, Seigneur ; différer davantage,
 C'est à d'autres périls nous voir encor livrés.
 
-
 **** *creator_anonyme *book_anonyme_bonnesgens *style_verse *genre_comedy *dist1_anonyme_verse_comedy_bonnesgens *dist2_anonyme_verse_comedy *id_ARLEQUIN *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+
 
 C'est un vilain Monsieur, à mon gré, qu'un Héros :
 Dans le sang il se baigne, et puis s'en désaltère ;
@@ -217,4 +218,3 @@ Vous n'y perdrez rien pour attendre...
 Chez notre banquier nous allons, tout courant;
 Nous aurons de l'argent comptant :
 Vous n'aurez qu'à, mon coeur, vous baisser pour en prendre.
-

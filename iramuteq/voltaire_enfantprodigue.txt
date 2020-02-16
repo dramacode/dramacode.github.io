@@ -2,6 +2,7 @@
 
 **** *creator_voltaire *book_voltaire_enfantprodigue *style_verse *genre_comedy *dist1_voltaire_verse_comedy_enfantprodigue *dist2_voltaire_verse_comedy *id_FIERENFAT *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fierenfat
 
+
 Je l'avouerai, cette donation
 Doit augmenter la satisfaction
 Que vous avez d'un si beau mariage.
@@ -227,8 +228,8 @@ Beaucoup, sans doute, en trouvant un mien frère :
 Mais cependant je perds en moins de rien
 Mes frais de noce, une femme, et du bien.
 
-
 **** *creator_voltaire *book_voltaire_enfantprodigue *style_verse *genre_comedy *dist1_voltaire_verse_comedy_enfantprodigue *dist2_voltaire_verse_comedy *id_RONDON *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rondon
+
 
 Mon triste ami, mon cher et vieux voisin,
 Que de bon coeur j'oublierai ton chagrin !
@@ -634,8 +635,8 @@ J'en suis d'accord.
 Ma foi, l'ami, crains sa juste colère ;
 Épouse-la, crois-moi, pour t'en défaire.
 
-
 **** *creator_voltaire *book_voltaire_enfantprodigue *style_verse *genre_comedy *dist1_voltaire_verse_comedy_enfantprodigue *dist2_voltaire_verse_comedy *id_LISE *date_1736 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lise
+
 
 Non, mon père.
 
@@ -1189,8 +1190,8 @@ Oh ! J'en réponds.
 
 N'en doutez pas.
 
-
 **** *creator_voltaire *book_voltaire_enfantprodigue *style_verse *genre_comedy *dist1_voltaire_verse_comedy_enfantprodigue *dist2_voltaire_verse_comedy *id_MARTHE *date_1736 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marthe
+
 
 Mon Dieu, qu'il joint à tous ses airs grotesques
 Des sentiments et des travers burlesques !
@@ -1377,8 +1378,8 @@ Fuyons, madame.
 
       Vous serez obéie.
 
-
 **** *creator_voltaire *book_voltaire_enfantprodigue *style_verse *genre_comedy *dist1_voltaire_verse_comedy_enfantprodigue *dist2_voltaire_verse_comedy *id_JASMIN *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jasmin
+
 
 Oui, mon ami, tu fus jadis mon maître ;
 Je t'ai servi deux ans sans te connaître ;
@@ -1632,4 +1633,3 @@ Le peuple accourt, le laquais boit et rit,
 Et Rondon jure, et Fierenfat écrit.
 
 Moi, je crains donc.
-

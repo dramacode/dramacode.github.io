@@ -2,6 +2,7 @@
 
 **** *creator_corneillet *book_corneillet_geolierdesoismeme *style_verse *genre_comedy *dist1_corneillet_verse_comedy_geolierdesoismeme *dist2_corneillet_verse_comedy *id_LEROI *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
 
+
       Apprends une heureuse nouvelle,
 Ma Fille ; enfin le Ciel propice à mes désirs
 D'un espoir assez doux flatte nos déplaisirs,
@@ -281,8 +282,8 @@ Je sais qu'il faut savoir les volontés du Roi.
 Allons y donner ordre, et que chacun s'applique
 À rendre dans ces lieux l'allégresse publique.
 
-
 **** *creator_corneillet *book_corneillet_geolierdesoismeme *style_verse *genre_comedy *dist1_corneillet_verse_comedy_geolierdesoismeme *dist2_corneillet_verse_comedy *id_FEDERIC *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_federic
+
 
 Ne me propose point de nouvelles faiblesses ;
 Vois l'état malheureux, Octave, où tu me laisses,
@@ -780,8 +781,8 @@ De revoir Isabelle, et de la satisfaire.
 Cet hymen de la paix affermirait les noeuds.
 Prince, consentez-vous à m'acquitter vers elle ?
 
-
 **** *creator_corneillet *book_corneillet_geolierdesoismeme *style_verse *genre_comedy *dist1_corneillet_verse_comedy_geolierdesoismeme *dist2_corneillet_verse_comedy *id_EDOUARD *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_edouard
+
 
 Sire, mon ordre est su de votre Majesté.
 Le prince Fédéric dont je soutiens la cause
@@ -869,8 +870,8 @@ Ah ! Sire.
 Vous me connaissez trop pour douter de mon zèle,
 Mais c'est à la Sicile à disposer de moi.
 
-
 **** *creator_corneillet *book_corneillet_geolierdesoismeme *style_verse *genre_comedy *dist1_corneillet_verse_comedy_geolierdesoismeme *dist2_corneillet_verse_comedy *id_LAURE *date_1655 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laure
+
 
 Ah, que tu juges mal de mon cruel ennui,
 Si tu l'oses régler sur les larmes d'autrui,
@@ -1177,8 +1178,8 @@ Je vais trouver le Roi.
 
 Seigneur...
 
-
 **** *creator_corneillet *book_corneillet_geolierdesoismeme *style_verse *genre_comedy *dist1_corneillet_verse_comedy_geolierdesoismeme *dist2_corneillet_verse_comedy *id_ISABELLE *date_1655 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
 
 La curiosité bornant ta trahison,
 J'en prends sur moi le crime, et je m'en fais raison :
@@ -1559,8 +1560,8 @@ Pour servir Fédéric il cache sa grandeur,
 Et vous le trouverez dans son Ambassadeur.
 J'en ai trop dit peut-être, et ma rougeur me chasse.
 
-
 **** *creator_corneillet *book_corneillet_geolierdesoismeme *style_verse *genre_comedy *dist1_corneillet_verse_comedy_geolierdesoismeme *dist2_corneillet_verse_comedy *id_JULIE *date_1655 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+
 
 Madame, épargnez-vous ces nouveaux déplaisirs,
 Donnez quelque relâche à ces profonds soupirs.
@@ -1604,8 +1605,8 @@ Quoi, Seigneur...
 
 Mais, Seigneur...
 
-
 **** *creator_corneillet *book_corneillet_geolierdesoismeme *style_verse *genre_comedy *dist1_corneillet_verse_comedy_geolierdesoismeme *dist2_corneillet_verse_comedy *id_FLORE *date_1655 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_flore
+
 
 Oui, Madame, il est vrai que votre solitude
 En cette occasion me paraît un peu rude,
@@ -1673,8 +1674,8 @@ Mais la Princesse vient.
 
 Ils vous ont aperçue ; avancez promptement.
 
-
 **** *creator_corneillet *book_corneillet_geolierdesoismeme *style_verse *genre_comedy *dist1_corneillet_verse_comedy_geolierdesoismeme *dist2_corneillet_verse_comedy *id_OCTAVE *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octave
+
 
 Seigneur, ce faux habit éloigne la tempête
 Dont le coup imprévu menaçait votre tête ;
@@ -1823,8 +1824,8 @@ La Fortune vous rit.
 C'est ce que vous devez au Prince votre Frère.
 La Sicile jamais ne peut trop dignement...
 
-
 **** *creator_corneillet *book_corneillet_geolierdesoismeme *style_verse *genre_comedy *dist1_corneillet_verse_comedy_geolierdesoismeme *dist2_corneillet_verse_comedy *id_ENRIQUE *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_enrique
+
 
 Cette heureuse rencontre en est un sûr témoin
 Amis, prenons courage, il ne peut être loin.
@@ -2027,8 +2028,18 @@ Qu'à vous rendre aujourd'hui l'arbitre de la paix ?
 Le péril l'étonnait, mais la paix que l'on traite
 Remettra son esprit dans sa première assiette.
 
+**** *creator_corneillet *book_corneillet_geolierdesoismeme *style_verse *genre_comedy *dist1_corneillet_verse_comedy_geolierdesoismeme *dist2_corneillet_verse_comedy *id_SANCHE *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sanche
+
+
+Sire, de ce devoir puisqu'il fait tant de cas,
+Voyez si ce billet ne le trahira pas.
+
+      Par dépêche secrète
+Il a cru sûrement l'envoyer à Gaïette ;
+Mais quelques Espions en chemin l'ont surpris.
 
 **** *creator_corneillet *book_corneillet_geolierdesoismeme *style_verse *genre_comedy *dist1_corneillet_verse_comedy_geolierdesoismeme *dist2_corneillet_verse_comedy *id_ALFONSE *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alfonse
+
 
 Madame, c'en est fait.
 
@@ -2061,8 +2072,8 @@ Pendant un si grand trouble il a su disparaître :
 Mais son cheval blessé, quoiqu'il l'ait bien servi,
 Le livrera bientôt à ceux qui l'ont suivi.
 
-
 **** *creator_corneillet *book_corneillet_geolierdesoismeme *style_verse *genre_comedy *dist1_corneillet_verse_comedy_geolierdesoismeme *dist2_corneillet_verse_comedy *id_JODELET *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jodelet
+
 
 Holà, Nymphes, holà ! Mes cris ne servent guères,
 Et j'apostrophe en vain ces Nymphes bocagères,
@@ -2656,8 +2667,8 @@ Et puisqu'on m'y forçait, je m'étais résolu
 À vouloir être Prince autant qu'on l'eût voulu.
 J'entrais en goût, ma table était fort bien garnie...
 
-
 **** *creator_corneillet *book_corneillet_geolierdesoismeme *style_verse *genre_comedy *dist1_corneillet_verse_comedy_geolierdesoismeme *dist2_corneillet_verse_comedy *id_PASCAL *date_1655 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pascal
+
 
 Pourquoi les appeler ? Tu ne les connais pas.
 
@@ -2699,3 +2710,15 @@ Tu prétends les garder ?
 Adieu donc ; j'aime mieux aller seul au Tournoi.
 Que me mettre au hasard qu'on m'étrille avec toi.
 
+**** *creator_corneillet *book_corneillet_geolierdesoismeme *style_verse *genre_comedy *dist1_corneillet_verse_comedy_geolierdesoismeme *dist2_corneillet_verse_comedy *id_SOLDATS *date_1655 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_soldats
+
+
+Je sais que l'arrêter quand il faut qu'il périsse,
+C'est rendre à tout l'État un signalé service ;
+Mais prenons garde aussi de nous en voir sur pris.
+Je prévois qu'il mettra sa défaite à haut prix,
+Et que ce fier Lion que nous voulons surprendre,
+Répandra bien du sang avant que de se rendre.
+Le vainqueur de Rodolphe est à craindre pour nous.
+
+Seigneur.

@@ -2984,7 +2984,7 @@ Et pensent tous avoir un Lélie à leur suite.
 
 Adieu, certaine affaire à te quitter m'oblige.
 
-**** *creator_moliere *book_moliere_etourdi *style_verse *genre_comedy *dist1_moliere_verse_comedy_etourdi *dist2_moliere_verse_comedy *id_courrier *date_1655 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_courrier
+**** *creator_moliere *book_moliere_etourdi *style_verse *genre_comedy *dist1_moliere_verse_comedy_etourdi *dist2_moliere_verse_comedy *id_courrier *date_1655 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_courrier
 
 
 Seigneur, obligez‑moi de m'enseigner un homme…

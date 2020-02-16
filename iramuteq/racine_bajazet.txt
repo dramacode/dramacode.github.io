@@ -2,6 +2,7 @@
 
 **** *creator_racine *book_racine_bajazet *style_verse *genre_tragedy *dist1_racine_verse_tragedy_bajazet *dist2_racine_verse_tragedy *id_BAJAZET *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bajazet
 
+
 Ah ! Que proposez-vous, Madame ?
 
 Madame, ignorez-vous que l'orgueil de l'empire...
@@ -304,8 +305,8 @@ Amurat avec moi ne l'a point condamnée.
 Ajoutez cette grâce à tant d'autres bontés,
 Madame. Et si jamais je vous fus cher...
 
-
 **** *creator_racine *book_racine_bajazet *style_verse *genre_tragedy *dist1_racine_verse_tragedy_bajazet *dist2_racine_verse_tragedy *id_ROXANE *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_roxane
+
 
 Il suffit. Je tiendrai tout ce que j'ai promis.
 Allez brave Acomat, assembler vos amis.
@@ -857,8 +858,8 @@ Levez-vous. Mais que veut Zatime tout émue ?
 Ah les traîtres ! Allons, et courons le confondre.
 Toi, garde ma captive, et songe à m'en répondre.
 
-
 **** *creator_racine *book_racine_bajazet *style_verse *genre_tragedy *dist1_racine_verse_tragedy_bajazet *dist2_racine_verse_tragedy *id_ATALIDE *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_atalide
+
 
       Est-il temps d'en douter,
 Madame ? Hâtez-vous d'achever votre ouvrage.
@@ -1391,8 +1392,8 @@ Roxane, venez tous contre moi conjurés,
 Tourmenter à la fois une amante éperdue,
 Et prenez la vengeance enfin qui vous est due.
 
-
 **** *creator_racine *book_racine_bajazet *style_verse *genre_tragedy *dist1_racine_verse_tragedy_bajazet *dist2_racine_verse_tragedy *id_ACOMAT *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_acomat
+
 
 Viens, suis-moi. La sultane en ce lieu se doit rendre.
 Je pourrai cependant te parler, et t'entendre.
@@ -1828,8 +1829,8 @@ Je cours ou ma présence est encor nécessaire,
 Et jusqu'au pied des murs que la mer vient laver,
 Sur mes vaisseaux tout prêts je viens vous retrouver.
 
-
 **** *creator_racine *book_racine_bajazet *style_verse *genre_tragedy *dist1_racine_verse_tragedy_bajazet *dist2_racine_verse_tragedy *id_OSMIN *date_1672 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_osmin
+
 
 Et depuis quand Seigneur, entre-t-on dans ces lieux,
 Dont l'accès était même interdit à nos yeux ?
@@ -1965,8 +1966,8 @@ Que vengeant sa défaite, et cédant sous le nombre,
 Ce héros a forcés d'accompagner son ombre.
 Mais puisque c'en est fait, Seigneur, songeons à nous.
 
-
 **** *creator_racine *book_racine_bajazet *style_verse *genre_tragedy *dist1_racine_verse_tragedy_bajazet *dist2_racine_verse_tragedy *id_ZATIME *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_zatime
+
 
       Pardonnez si j'ose vous troubler.
 Mais, Madame, un esclave arrive de l'armée ;
@@ -2035,8 +2036,8 @@ Madame, le secret m'est sur tout ordonné.
 
 Il y va de ma vie, et je ne puis rien dire.
 
-
 **** *creator_racine *book_racine_bajazet *style_verse *genre_tragedy *dist1_racine_verse_tragedy_bajazet *dist2_racine_verse_tragedy *id_ZAIRE *date_1672 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_zaire
+
 
 Vous !
 
@@ -2112,4 +2113,3 @@ Il a tout vu.
 
 Ah ! Madame... Elle expire. Ô ciel ! En ce malheur
 Que ne puis-je avec elle expirer de douleur !
-

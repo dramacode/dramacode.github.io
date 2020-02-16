@@ -2,6 +2,7 @@
 
 **** *creator_mareschal *book_mareschal_dictateurromain *style_verse *genre_tragedy *dist1_mareschal_verse_tragedy_dictateurromain *dist2_mareschal_verse_tragedy *id_papyre *date_1646 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_papyre
 
+
 Qu'on ne m'en parle plus ; il mourra, l'insolent⁎.
 
 Comme estant Dictateur, je veux passer pour homme
@@ -447,8 +448,8 @@ Un méme jour verra triompher deux Guerriers,
 L'un couronné de myrthe, & l'autre de lauriers.
 FIN.
 
-
 **** *creator_mareschal *book_mareschal_dictateurromain *style_verse *genre_tragedy *dist1_mareschal_verse_tragedy_dictateurromain *dist2_mareschal_verse_tragedy *id_camille *date_1646 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_camille
+
 
 Quoy ? ma Sœur, plaindre⁎ ainsi quelque peu de foiblesse ?
 Ce reste de langueur⁎ qu'un mal passé me laisse ?
@@ -692,8 +693,8 @@ Que voy-je ?
 
 Arrétez, inhumain ; quel coup voulez vous faire ?
 
-
 **** *creator_mareschal *book_mareschal_dictateurromain *style_verse *genre_tragedy *dist1_mareschal_verse_tragedy_dictateurromain *dist2_mareschal_verse_tragedy *id_fabie-pere *date_1646 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_fabiepere
+
 
       Dieux ! que voy-je ? est-ce luy ?
 Quel spectacle ? ô mes yeux ! ô mon cœur ! quel ennuy⁎ ?
@@ -910,8 +911,8 @@ Vous me l'avez donné.
 
 Allons par leur hymen achever cette joye.
 
-
 **** *creator_mareschal *book_mareschal_dictateurromain *style_verse *genre_tragedy *dist1_mareschal_verse_tragedy_dictateurromain *dist2_mareschal_verse_tragedy *id_fabie-fils *date_1646 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_fabiefils
+
 
 Cette Maison fera mon naufrage ou mon port :
 J'ay quitté le Senat qui m'a pris en sa garde ;
@@ -1205,8 +1206,8 @@ O le naufrage⁎ heureux⁎, qui treuve un si beau port !
 
 Moy plustôt….
 
-
 **** *creator_mareschal *book_mareschal_dictateurromain *style_verse *genre_tragedy *dist1_mareschal_verse_tragedy_dictateurromain *dist2_mareschal_verse_tragedy *id_comine *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_comine
+
 
 Envoyé par Fabie arrivé de l'Armée….
 
@@ -1356,8 +1357,8 @@ On doit porter ensemble & ma téte, & mon cœur ;
 C'est ainsi qu'un Amy doit accompagner l'autre :
 Je feray mon devoir ; j'y vay : faites le vôtre.
 
-
 **** *creator_mareschal *book_mareschal_dictateurromain *style_verse *genre_tragedy *dist1_mareschal_verse_tragedy_dictateurromain *dist2_mareschal_verse_tragedy *id_martian *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_martian
+
 
 L'assemblee est fort grande, on est à l'Audience ;
 Le Peuple prest de rendre un Arrest solennel
@@ -1389,8 +1390,8 @@ Et retombe à vos pieds, cette grande Affligée⁎ :
 Pouvez-vous refuser à Rome un seul Romain ?
 Elle prie, & jamais ne doit prier en vain.
 
-
 **** *creator_mareschal *book_mareschal_dictateurromain *style_verse *genre_tragedy *dist1_mareschal_verse_tragedy_dictateurromain *dist2_mareschal_verse_tragedy *id_lucille *date_1646 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_lucille
+
 
 La douleur qu'on croit morte est souvent endormie,
 Et ce plaisir malin réveille une Ennemie :
@@ -1617,8 +1618,8 @@ Pere & Mary cruel !
 
 Vous deviez l'acquerir un peu plus seureument.
 
-
 **** *creator_mareschal *book_mareschal_dictateurromain *style_verse *genre_tragedy *dist1_mareschal_verse_tragedy_dictateurromain *dist2_mareschal_verse_tragedy *id_papyrie *date_1646 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_papyrie
+
 
 Le mal revient souvent alors qu'il prend congé,
 L'intervale en est doux estant bien ménagé :
@@ -1941,8 +1942,8 @@ Faire mon sort du vostre en un peril si grand :
 Un plus heureux succez a mon amour suivie ;
 J'estois vostre en la mort, je suis vostre en la vie.
 
-
 **** *creator_mareschal *book_mareschal_dictateurromain *style_verse *genre_tragedy *dist1_mareschal_verse_tragedy_dictateurromain *dist2_mareschal_verse_tragedy *id_flavie *date_1646 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_flavie
+
 
 Presque tout le Senat, Seigneur, vient de se rendre…
 
@@ -2004,3 +2005,9 @@ Elle ne seroit plus, sans mon adresse heureuse⁎,
 Qui d'un Epoux sauvé luy faisant le rapport
 De toutes deux au Temple a détourné la mort.
 
+**** *creator_mareschal *book_mareschal_dictateurromain *style_verse *genre_tragedy *dist1_mareschal_verse_tragedy_dictateurromain *dist2_mareschal_verse_tragedy *id_garde *date_1646 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_garde
+
+
+Comine attend, Seigneur.
+
+Pour vous voir & vous dire un secret important.

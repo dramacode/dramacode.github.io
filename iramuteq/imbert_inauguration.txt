@@ -2,6 +2,7 @@
 
 **** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *id_APOLLON *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
 
+
       Qui ? Les Auteurs sublimes.
 
 Pourquoi donc cet effroi triste et décourageant ?
@@ -144,8 +145,8 @@ Couronnent par vos mains ces augustes Images!
 Allez ? Ces marbres vivants,
 Allez tous rallumer le flambeau des talents.
 
-
 **** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *id_THALIE *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
+
 
 C'est trop d'honneur que l'on nous fait.
 Dès qu'un nouvel auteur sur la scène s'élance,
@@ -172,8 +173,8 @@ Il louche.
 
 Vous, le don de les essuyer.
 
-
 **** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *id_MELPOMENE *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
+
 
 Je vous en sais bon gré, mon frère.
 Vous n'êtes pas en ces lieux étrangers.
@@ -205,8 +206,8 @@ Portez dans tous les coeurs les plus tendres alarmes ;
 Et recevez avec ce noble acier
 Le pouvoir d'arracher des larmes.
 
-
 **** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *id_MERCURE *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+
 
 Thalie et Melpomène arrivent en ces lieux ;
 Dans ce Temple nouveau qu'on destine à leurs jeux.
@@ -324,8 +325,67 @@ De votre fatigue première.
 Mais comme de sa cendre il se plaît à renaître,
 À la porte il faudrait, je crois, le consigner.
 
+**** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *id_LEGENIEDECORNEILLE *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_legeniedecorneille
+
+
+Après avoir conduit à l'immortalité
+Corneille, dont le nom doit fleurir d'âge en âge,
+Mon repos a-t-il donc été
+Inutile ? Racine ? Il eut pour apanage
+Le sentiment, l'urbanité ;
+En sa faveur j'adoucis ma fierté.
+Peut-être moins nerveux, plus élégant, plus sage,
+Il fit parler au coeur un plus tendre langage.
+Crébillon méconnut la parure et le fard ;
+Trop fier pour obéir même aux règles de l'art,
+Il adopta pour loi l'instinct et la nature ;
+Il traça des forfaits l'énergique peinture,
+Et fit par la terreur aiguiser mon poignard.
+Après ces trois héros, qu'adore le Permesse,
+On m'eût permis peut-être, au sein de la mollesse,
+De sommeiller jusqu'aujourd'hui.
+Mais j'adoptai Voltaire ; il sut, dès sa jeunesse,
+Des trois genres connus en créer un pour lui,
+Et de jeunes lauriers j'honorai sa vieillesse :
+Sans ressembler, il sut, par des efforts nouveaux,
+Manier tour-à-tour, avec la même adresse,
+Les trois poignards de ses rivaux.
+
+**** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *id_LEGENIEDEMOLIERE *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_legeniedemoliere
+
+
+Pour moi, je l'avouerai, quand on eut vu Molière
+Tomber sous le ciseau fatal,
+Je voulus, pour garder sa gloire toute entière,
+Qu'il eût des successeurs, et n'eût pas un rival.
+C'était de ses travaux la digne récompense.
+Mais, ne m'a-t-on pas vu depuis
+Régénérer souvent la gloire de la France,
+Et par d'autres essais consoler ses ennuis ?
+Regnard vif et brillant, armé de la saillie,
+A fait rire, en peignant le Joueur furieux ;
+Destouches, sur la scène un peu trop ennoblie,
+A corrigé le Glorieux.
+Dufrény, dont j'aimai la verve originale ;
+Dancourt gai, naturel, quelquefois emporté
+Par son humeur... trop joviale ;
+Le tendre La Chaussée, un peu sobre en gaîté ;
+Et Lesage, qui plus caustique
+Du sel de l'épigramme anima ses tableaux ;
+Et d'autres, dont ma main dirigea les pinceaux,
+Ont encore agrandi le domaine comique.
+Et n'ai-je pas naguère enrichi l'Hélicon
+De la Métromanie, ouvrage que Molière
+Avouerait, j'en suis caution,
+Enfant cher à Thalie, et si beau que Piron
+Fut surpris d'en être le père ?
+Voilà tous nos forfaits que nous vous dévoilons.
+Quant à Mercure, il peut railler sans nous déplaire ;
+On doit, lorsqu'on a des ailes aux talons,
+Avoir la tête un peu légère.
 
 **** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *id_LACABALE *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacabale
+
 
 Seigneur Mercure, agréez mon hommage.
 J'ai l'air étranger à vos yeux?
@@ -375,8 +435,8 @@ On a détruit mon poste, on m'insulte, on m'offense,
 Et pour comble de maux Apollon me poursuit !
 Est-ce ainsi que les Arts sont protégés en France ?
 
-
 **** *creator_imbert *book_imbert_inauguration *style_verse *genre_comedy *dist1_imbert_verse_comedy_inauguration *dist2_imbert_verse_comedy *id_LACRITIQUE *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacritique
+
 
 Oui : j'ai souvent le don de leur déplaire ;
 Mais c'est surtout aux sots que je fais peur.
@@ -430,4 +490,3 @@ Il est facile à reconnaître.
 Chaque couleur y trouve une couleur qui jure.
 
       Il met du blanc.
-

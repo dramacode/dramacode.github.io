@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *id_BERTRAND *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bertrand
 
+
 Palsanguoi, Jeanne, t'es toujours à l'entour de ces garçons ; j'ai biau les prendre tortus, bossus, borgnes et boiteux, ça n'y fait rian. Dame, acoute donc, je ne sis pas jaloux : mais si je m'y boute, je sais bian comme je les prendrai pour empêcher ça.
 
 Oh, ne te fâche donc pas, Jeanne, je sais bian d'où ça viant, et c'est ce qui fait que je te le pardonne. Parce que tu vois ici des Madames qui couront après des Monsieux, tu t'imagines qu'il faut faire de même ; raye ça de tes papiers. Alles sont de Paris, ces Madames-là, c'est à elles à faire ; et quoique je soyons de la banlieue, je prétends qu'il y ait de la différence.
@@ -134,8 +135,8 @@ Morgué, les gens de qualité ne faisont pas comme ça : c'est un badaud, je ne
 
 C'est le bian prendre. L'air de cheux nous baille de l'esprit, tout chacun y est toujours d'accord. Allons, allons, morgué, que les Ménétriers s'accordiant, pour bailler l'exemple.
 
-
 **** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *id_MADAMEBERTRAND *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamebertrand
+
 
 Mesdames, votre très humble servante. Hé, c'est un petit miracle de vous voir. Vous nous avez bien abandonnés, d'où vient donc cela ?
 
@@ -296,8 +297,8 @@ Hé palsanguié, qu'est-ce que j'entends là ? Vela vos Ménétriers qui s'eniv
 
 Place, place, Messieurs, et de la joie, voici tout le lendemain de noces qui nous arrive.
 
-
 **** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *id_MAROTTE *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marotte
+
 
 Est-ce que vous me voulez quelque chose, ma tante ?
 
@@ -354,8 +355,8 @@ Je m'y en vais, ma tante.
 
 Ah ! Ma tante, que la mariée est gentille, et qu'elle est aise ! La voilà qui vient, vous allez voir.
 
-
 **** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *id_LECHEVALIER *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
 
 Hé bien, Lolive ?
 
@@ -471,8 +472,8 @@ Et d'un grand crédit ; cet homme-là peut tout à la Cour, je t'en avertis.
 
 Tu es le plus heureux mortel que je connaisse.
 
-
 **** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *id_LACOMTESSE *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+
 
 Hé Jasmin, laquais, petit laquais ?
 
@@ -564,8 +565,8 @@ Tout à l'heure, mon oncle ! Le moyen ?
 
 Ôte-toi de là, ivrogne.
 
-
 **** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *id_FINETTE *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_finette
+
 
 Hé, si on lui donne de l'argent, il s'en ira, Madame.
 
@@ -653,8 +654,8 @@ Comment ? Comment l'entendez-vous donc ? Ce n'est pas lui qui vient à votre n
 
 Et vivent les parties du Moulin de Javelle ; les mariages s'y font sans cérémonie.
 
-
 **** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *id_LOLIVE *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lolive
+
 
 Serviteur, Monsieur Bertrand.
 
@@ -813,8 +814,8 @@ Margot ne fut que trois mois grosse.
 Pour faire honneur à la Noce,
 Rions, chantons, et dansons tous.
 
-
 **** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *id_MONSIEURSIMONNEAU *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieursimonneau
+
 
 Holà, quelqu'un ? Qu'on monte donc, hé ?
 
@@ -866,8 +867,8 @@ Oui, mais…
 
 Voilà mon demi louis d'or ; donnez le vôtre.
 
-
 **** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *id_MADAMESIMONNEAU *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamesimonneau
+
 
 Je ne bouge de chez toi, Madame Bertrand, j'y soupais encore hier au soir, j'y reviens aujourd'hui, je prendrai quelque jour le parti d'y faire apporter des meubles.
 
@@ -909,8 +910,8 @@ Les affaires criminelles s'abonnissent en vieillissant. Nous n'avons qu'à nous 
 
 Mon pauvre Monsieur Bertrand, force bougies, grande chère, et de la glace, nous ne demandons pas autre chose.
 
-
 **** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *id_MONSIEURDUROLLET *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdurollet
+
 
 Hé, à quoi vous amusez-vous donc ? Vous me laissez là-haut tout seul à croquer le marmot.
 
@@ -938,8 +939,8 @@ Le voilà, vous n'en aurez pas davantage.
 
 Hom ! Si l'on me retient ici…
 
-
 **** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *id_MADAMEDUROLLET *date_1696 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedurollet
+
 
 Le fâcheux contretemps ! Nous nous étions tant proposé de nous bien réjouir !
 
@@ -965,8 +966,8 @@ Que demain ? Tu n'y songes pas.
 
 Je ferai tout ce que tu voudras, je le veux bien. Au hasard d'un fâcheux avenir, profitons du temps présent, puisque nous y sommes. La Fleur, va dire à ces Messieurs qu'ils viennent, les ennemis sont décampés, nous sommes maîtresses du champ de bataille.
 
-
 **** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *id_MONSIEURGRIMAUDIN *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgrimaudin
+
 
 Que nous dis-tu là ?
 
@@ -976,8 +977,17 @@ Oui. N'avez-vous pas les voies de la Justice pour empêcher…
 
 Vous avez tort, Monsieur, je dirai ce que j'ai vu, je ne puis m'en défendre. Mettre la main sur une femme !
 
+**** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *id_DORANTE *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+
+
+Allons, Mesdames, évitons l'éclat, remontons en carrosse.
+
+Il faut mettre ordre à vos affaires, Madame, une bonne séparation…
+
+Oh, pour moi, je suis votre serviteur : mais je déposerai aussi contre vous, Monsieur Simonneau, je vous en avertis.
 
 **** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *id_NICOLAS *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicolas
+
 
 Qu'est-ce qu'il y a, Maîtresse ?
 
@@ -1011,3 +1021,12 @@ Voirement oui, qu'ils attendent ? Ils disont comme ça que par faute de boire l
 
 Alle dit qu'alle est toute moulue, Monsieu, et qu'alle ne saurait remuer.
 
+**** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *id_JASMIN *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jasmin
+
+
+Plaît-il, Madame ?
+
+**** *creator_dancourt *book_dancourt_moulindejavelle *style_prose *genre_comedy *dist1_dancourt_prose_comedy_moulindejavelle *dist2_dancourt_prose_comedy *id_LAFLEUR *date_1696 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafleur
+
+
+C'est Monsieur Grimaudin, Madame, qui envoie savoir s'il n'y a ici personne de sa connaissance, et s'il y peut venir souper avec deux Dames de ses parentes ?

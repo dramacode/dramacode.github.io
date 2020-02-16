@@ -2,6 +2,7 @@
 
 **** *creator_voltaire *book_voltaire_agathocle *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_agathocle *dist2_voltaire_verse_tragedy *id_AGATHOCLE *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agathocle
 
+
       Qu'on ôte de ma vue
 Ce malheureux objet qui m'indigne et me tue :
 Sur elle et sur son père ayez les yeux ouverts ;
@@ -177,8 +178,8 @@ Pardonne au souverain qui t'avait oublié ;
 Pardonne à ces grandeurs dont le ciel me délivre :
 Le prince a disparu ; l'homme commence à vivre.
 
-
 **** *creator_voltaire *book_voltaire_agathocle *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_agathocle *dist2_voltaire_verse_tragedy *id_POLYCRATE *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polycrate
+
 
 Quel est cet étranger ? quel est ce téméraire ?
 
@@ -240,8 +241,8 @@ Ils m'ont laissé ce bras pour punir un perfide.
       Oui, j'obéis... Argide,
 Voilà ton dernier trait ; mais tremble à mon retour.
 
-
 **** *creator_voltaire *book_voltaire_agathocle *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_agathocle *dist2_voltaire_verse_tragedy *id_ARGIDE *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_argide
+
 
 Mon frère, il ne vous fait qu'une juste demande.
 
@@ -427,8 +428,8 @@ Un siècle de vertu, plutôt que de grandeur !
 Ô mon auguste épouse ! Ô noble citoyenne !
 Ce peuple vous chérit ; vous êtes plus que reine.
 
-
 **** *creator_voltaire *book_voltaire_agathocle *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_agathocle *dist2_voltaire_verse_tragedy *id_YDASAN *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ydasan
+
 
 Elle ne m'est plus chère, et sa gloire est flétrie :
 Sa lâche servitude, et trente ans de malheurs,
@@ -650,8 +651,8 @@ Quel démon, quel dessein devant nous le conduit ?
 
       Quel prodige !
 
-
 **** *creator_voltaire *book_voltaire_agathocle *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_agathocle *dist2_voltaire_verse_tragedy *id_EGESTE *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_egeste
+
 
 De nos malheurs enfin le ciel a pris pitié ;
 Il resserre aujourd'hui notre antique amitié.
@@ -761,8 +762,8 @@ La vengeance les suit.
 
       Quel changement !
 
-
 **** *creator_voltaire *book_voltaire_agathocle *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_agathocle *dist2_voltaire_verse_tragedy *id_YDACE *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ydace
+
 
 Je baigne de mes pleurs vos genoux que j'embrasse :
 Je vous ai vu, mon père, et vers vous j'ai volé.
@@ -944,8 +945,8 @@ La vie est passagère, et la gloire immortelle.
 
       Heureux jour !
 
-
 **** *creator_voltaire *book_voltaire_agathocle *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_agathocle *dist2_voltaire_verse_tragedy *id_ELPENOR *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_elpenor
+
 
 Seigneur, le roi vous mande.
 
@@ -998,8 +999,8 @@ Jusqu'à quand votre éclat séduira-t-il ma vue ?
 Du trouble où je vous vois que faut-il augurer ?
 Qu'ordonnez-vous d'un fils ?
 
-
 **** *creator_voltaire *book_voltaire_agathocle *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_agathocle *dist2_voltaire_verse_tragedy *id_PRETRESSE *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pretresse
+
 
 J'ai rempli faiblement le devoir qui m'engage.
 
@@ -1195,3 +1196,7 @@ La vertu qui combat contre la tyrannie.
 Notre heure est arrivée : Agathocle s'avance,
 Il ajoute à la mort l'horreur de sa présence.
 
+**** *creator_voltaire *book_voltaire_agathocle *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_agathocle *dist2_voltaire_verse_tragedy *id_SOLDATS *date_1779 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_soldats
+
+
+Votre fils ?

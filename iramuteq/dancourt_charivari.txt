@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_charivari *style_prose *genre_comedy *dist1_dancourt_prose_comedy_charivari *dist2_dancourt_prose_comedy *id_MADAMELORICART *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madameloricart
 
+
 Hé bien, Mathurine, où est donc le Jardinier ? Ne t'avais-je pas dit
 
 Ah, ah ! Voilà mon beau-frère. Qui vous a mandé ? Que venez-vous faire ici.
@@ -108,8 +109,8 @@ Comment, un gendre ?
 
 Mais, mon fils ?
 
-
 **** *creator_dancourt *book_dancourt_charivari *style_prose *genre_comedy *dist1_dancourt_prose_comedy_charivari *dist2_dancourt_prose_comedy *id_MARIANE *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mariane
+
 
 Hé bien, ma chère Mathurine, n'as-tu point de nouvelles d'Éraste et de Clitandre ? Ma cousine est, comme moi, dans une impatience
 
@@ -145,8 +146,8 @@ Mon cher petit oncle ?
 
 Non, demeure ici, Mathurine, afin d'amuser ma tante, en cas qu'elle s'avisât de demander où nous sommes.
 
-
 **** *creator_dancourt *book_dancourt_charivari *style_prose *genre_comedy *dist1_dancourt_prose_comedy_charivari *dist2_dancourt_prose_comedy *id_ANGELIQUE *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+
 
 Tu extravagues toi-même de te figurer cela, et de le regarder comme un bonheur.
 
@@ -160,8 +161,8 @@ Vous êtes venu le dernier, je gage ?
 
 Mon bon oncle ?
 
-
 **** *creator_dancourt *book_dancourt_charivari *style_prose *genre_comedy *dist1_dancourt_prose_comedy_charivari *dist2_dancourt_prose_comedy *id_ERASTE *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+
 
 Tenez, la Fleur, ôtez mon manteau, et allez m'attendre au Dauphin avec vos camarades.
 
@@ -213,8 +214,8 @@ Vous perdriez, je vous assure.
 
 Soyez-nous favorable, de grâce.
 
-
 **** *creator_dancourt *book_dancourt_charivari *style_prose *genre_comedy *dist1_dancourt_prose_comedy_charivari *dist2_dancourt_prose_comedy *id_CLITANDRE *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+
 
 La Fontaine, payez ce Fiacre, et le renvoyez, entendez-vous ?
 
@@ -256,8 +257,8 @@ L'amour m'a fait y voler, belle Mariane.
 
 Entrez un peu dans nos intérêts, Monsieur.
 
-
 **** *creator_dancourt *book_dancourt_charivari *style_prose *genre_comedy *dist1_dancourt_prose_comedy_charivari *dist2_dancourt_prose_comedy *id_MATHURINE *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mathurine
+
 
 Parlez donc ho, Monsieur Thibaut, Madame est dans le jardin qui vous demande.
 
@@ -441,8 +442,8 @@ Oui, Madame, vous avez la meilleure famille
 
 Et le nôtre, Madame, s'il vous plaît ? Votre domestique se multiplie itou à l'exemple de la famille.
 
-
 **** *creator_dancourt *book_dancourt_charivari *style_prose *genre_comedy *dist1_dancourt_prose_comedy_charivari *dist2_dancourt_prose_comedy *id_THIBAUT *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thibaut
+
 
 Morgué, je ne sais ce que ça veut dire, vela quasiment ma forteune faite, et je ne saurais avoir le cœur joyeux.
 
@@ -568,8 +569,8 @@ Morgué, seignez, vous dis-je, et ne me le faites pas dire deux fois, vous savez
 
 Sans compliment tretous, n'an vous en quitte. Aimez-moi bian, respectez-moi bian, et je serons bons amis : allons, morgué, ablativo tout en un tas, mettons toutes les noces en une, point de gausserie, et vive la joie ; vela ma forteune faite.
 
-
 **** *creator_dancourt *book_dancourt_charivari *style_prose *genre_comedy *dist1_dancourt_prose_comedy_charivari *dist2_dancourt_prose_comedy *id_LOLIVE *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lolive
+
 
 Je ne connais ni le marié, ni la mariée, et je serai pourtant un des garçons de la noce.
 
@@ -692,3 +693,76 @@ Si je le sais ? C'est un de mes anciens amis, un bon vivant, nous avons été en
 
 Ne te mets pas en peine, ce sont mes affaires.
 
+**** *creator_dancourt *book_dancourt_charivari *style_prose *genre_comedy *dist1_dancourt_prose_comedy_charivari *dist2_dancourt_prose_comedy *id_LAFONTAINE *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafontaine
+
+
+Oui, Monsieur. Où mettra-t-on tous ces ustensiles de Musique que vous avez fait apporter ?
+
+Nous allons vous y attendre.
+
+**** *creator_dancourt *book_dancourt_charivari *style_prose *genre_comedy *dist1_dancourt_prose_comedy_charivari *dist2_dancourt_prose_comedy *id_LAFLEUR *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafleur
+
+
+Oui, Monsieur.
+
+Nous ne nous éloignerons pas, Monsieur, cela suffit.
+
+**** *creator_dancourt *book_dancourt_charivari *style_prose *genre_comedy *dist1_dancourt_prose_comedy_charivari *dist2_dancourt_prose_comedy *id_LETABELLION *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_letabellion
+
+
+Mais, Madame, il serait bon de savoir
+
+Vous autres qui cherchez maris,
+La trompeuse marchandise :
+Fillettes, prenez garde à qui
+Vous donnez votre chalandise :
+Retenez, pour faire un bon choix,
+Qu'un jeune garçon de village,
+En ménage,
+Vaut toujours mieux qu'un vieux bourgeois.
+
+Que le joug du mariage,
+Est un joug doux et léger ;
+Telle en a fait un long usage,
+Qui s'y laisse encore engager.
+Contre le poids du ménage,
+On a beau jurer, pester,
+Le veuvage
+À tout âge
+Est plus rude à supporter.
+
+
+Madame Loricart fine,
+Prend pour époux,
+Son Jardinier sur sa mine,
+Qu'en dirons-nous ?
+Il n'est rien tel qu'un bon mari,
+Charivari.
+
+La fortune et la naissance
+Brillent aux yeux ;
+Mais elle, par préférence,
+Croit faire mieux,
+De prendre un manant bien nourri.
+Charivari.
+
+Filles qui sont toutes neuves,
+S'elles avaient
+L'expérience des veuves,
+Maris prendraient,
+Aux champs bien plutôt qu'à Paris,
+Charivari.
+
+À leur retour de l'armée,
+Les Officiers
+Vaudront, dit-on, cette année
+Des jardiniers ;
+Que l'on va prendre de ceux-ci !
+Charivari.
+
+Plaisir vaut mieux que richesse,
+À ce qu'on dit ;
+Si notre petite pièce
+Vous divertit,
+Demain, Messieurs, revenez-y,
+Charivari.

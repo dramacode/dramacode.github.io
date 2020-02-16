@@ -2,6 +2,7 @@
 
 **** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *id_SERISAY *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_serisay
 
+
 Qu'avez-vous, Monseigneur ? Je vous vois tout ému.
 
 Mais, quelle est cette injure, et d'où vient tant de mal ?
@@ -124,8 +125,8 @@ Ils demeurent bourgeois éloignés de la Cour.
 Auteurs, mes Compagnons, qui réglez le langage,
 Avons-nous assez fait ? En faut-il davantage ?
 
-
 **** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *id_DESMARETS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_desmarets
+
 
 Je ne vois point ici Saint-Amant ni Faret :
 Que sont-ils devenus ?
@@ -162,8 +163,8 @@ Monsieur de Serisay, c'est à vous : prononcez.
 À ce divin arrêt, des arrêts le plus beau,
 Je m'en vais tout à l'heure apposer le grand sceau.
 
-
 **** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *id_GODEAU *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_godeau
+
 
 Et quoi ! Chers nourrissons des filles de Mémoire,
 Qui sur les temps futurs obtiendrez la victoire ;
@@ -273,8 +274,8 @@ Et d'ailleurs il s'y trouve une grande rudesse.
 Le premier sent l'école et tient trop du pédant ;
 Et tous ont trop vécu.
 
-
 **** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *id_GOMBAUD *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gombaud
+
 
 Qu'à dire des chansons qui vantent la liqueur
 Dont le poète Bacchus réjouit votre cour.
@@ -295,8 +296,8 @@ Prêt de mourir pour CAR, après un tel discours.
 Je demande pardon, si trop mal à propos,
 J'ai parlé contre un mot qui maintient le repos.
 
-
 **** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *id_GOMBERVILLE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gomberville
+
 
 Que ferons-nous, Messieurs, de CAR et de POURQUOI ?
 
@@ -310,8 +311,8 @@ Feront de leur auteur un aussi grand fou qu'eux.
 
 Et le POURQUOI, Messieurs ?
 
-
 **** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *id_CHAPELAIN *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chapelain
+
 
 Tandis que je suis seul, il faut que je compose
 Quelqu'ouvrage excellent, soit en vers, soit en prose.
@@ -468,8 +469,8 @@ Que leur antiquité doit porter au tombeau.
 Horace les fait naître, et puis les fait mourir ;
 Sans quelque métaphore, on ne peut discourir.
 
-
 **** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *id_SAINTAMANT *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_saintamant
+
 
 Faret, qui ne rirait de notre Académie ?
 A-t-on vu de nos jours une telle infamie ?
@@ -508,8 +509,18 @@ Vieillisse à réformer les mots ;
 Celle de Bacchus, dans la coupe,
 Ira cherche sa joie et trouver le repos.
 
+**** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *id_HABERT *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_habert
+
+
+Condamner NÉANMOINS ! D'où vient cette pensée ?
+Colletet, avez-vous la cervelle blessée ?
+NÉANMOINS ! Qui remplit et coule doucement ;
+Qui met dans le discours un certain ornement...
+Pour casser NONOBSTANT, c'est un méchant office,
+Que nous nous rendrions dans les cours de Justice.
 
 **** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *id_COLOMBY *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colomby
+
 
 Malherbe ne vit plus, Bertaut n'est plus au monde ;
 D'ignorance et d'erreur toute le terre abonde.
@@ -528,8 +539,8 @@ Que, las de mes emplois, enfin je me retire.
 Vous direz de ma part, sans aucune autre forme,
 Qu'au lieu de réformer les mots, je me reforme.
 
-
 **** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *id_FARET *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_faret
+
 
 Tant sots qu'il vous plaira : mais les premiers de France
 Sont les admirateurs de notre suffisance.
@@ -577,8 +588,16 @@ Nous nous tairons.
 Si nous vous offensons, Monsieur le Chancelier,
 Vous aurez la bonté de vouloir l'oublier.
 
+**** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *id_BAUDOIN *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_baudoin
+
+
+Pour mes traductions c'est un mot nécessaire ;
+Et si l'on s'en sert mal, je n'y saurais que faire.
+
+Sans lui, comment rimer si bien à PARADIS ?
 
 **** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *id_BOISROBERT *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_boisrobert
+
 
 Nous allons bientôt voir un de nos mécontents
 Résolu de se plaindre et de nous et du temps.
@@ -622,8 +641,8 @@ Je n'ai pas le talent qu'il faut pour faire une ode.
 Messieurs, je veux ôter un terme de coquette :
 C'est le mot d' "à ravir".
 
-
 **** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *id_LESTOILE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lestoile
+
 
       Il est bon en fleurette.
 Cet et cent faux galants en leur fade entretien,
@@ -639,8 +658,8 @@ Peut-être voudrez-vous garder encore JADIS ?
 PARADIS est un mot ignoré du Parnasse,
 Et les "Cieux", dans nos vers, auront meilleure grâce.
 
-
 **** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *id_SILHON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_silhon
+
 
 À dire vrai, Messieurs, c'est une chose étrange ;
 On a beau mériter honneur, gloire, louange,
@@ -682,8 +701,8 @@ Qui veut donner aux mots même la sépulture.
 Les mots peuvent mourir, mais jamais métaphore
 N'avait dressé TOMBEAU pour de tels mots encore.
 
-
 **** *creator_saintevremond *book_saintevremond_comediedesacademiciens *style_verse *genre_comedy *dist1_saintevremond_verse_comedy_comediedesacademiciens *dist2_saintevremond_verse_comedy *id_COLLETET *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colletet
+
 
       Grand Évêque de Grasse,
 Dites-moi, s'il vous plaît, comme il faut que je fasse.
@@ -768,4 +787,3 @@ Monsieur le Chancelier ne doit venir que tard.
 
       Le plus grand de mes soins
 Est d'ôter NONOBSTANT, et casser NÉANMOINS.
-

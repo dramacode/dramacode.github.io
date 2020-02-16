@@ -2,6 +2,7 @@
 
 **** *creator_regnard *book_regnard_arlequinauxenfers *style_prose *genre_comedy *dist1_regnard_prose_comedy_arlequinauxenfers *dist2_regnard_prose_comedy *id_ARLEQUIN *date_1689 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
 
+
 Hoé, hoé, madame la Baleine ; ouvrez, s'il vous plaît, votre petite gueule. La, la, voilà qui est bien. Les jolies petites quenottes ! Je suis votre serviteur ; vous pouvez aller à tous les diables.
 Ouf ! Les chemins sont diaboliques ; je croyais que je ne me tirerais jamais des ornières. Mais je crois que voilà ma femme qui arrive ! Je suis bien malheureux ! J'espérais que Neptune lui ferait boire rasade.
 
@@ -205,8 +206,8 @@ Nego consequentiam. Vous ne savez pas tout le manège de là-haut, monsieur Plut
 
 Pour moi, je n'en ai que trop de celle-ci ; mais il y a bien des gens qui ne demanderont pas mieux que de troquer avec vous.
 
-
 **** *creator_regnard *book_regnard_arlequinauxenfers *style_prose *genre_comedy *dist1_regnard_prose_comedy_arlequinauxenfers *dist2_regnard_prose_comedy *id_COLOMBINE *date_1689 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colombine
+
 
 Ah ! Je n'en puis plus ; je suis toute rompue. Quelle maudite voiture !
 
@@ -294,8 +295,8 @@ Oh ! Pour cet article-là, néant. Je ne veux point engager ma conscience. Dans
 
 Cela s'en va sans dire.
 
-
 **** *creator_regnard *book_regnard_arlequinauxenfers *style_prose *genre_comedy *dist1_regnard_prose_comedy_arlequinauxenfers *dist2_regnard_prose_comedy *id_PIERROT *date_1689 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+
 
 Serre la botte, serre la botte.
 Madame, tenez-vous bien aux crins.
@@ -309,8 +310,8 @@ Tenez, monsieur, voyez, il est sur les dents ; il sera fourbu de ce voyage. Il 
 
 C'est un maquereau, monsieur.
 
-
 **** *creator_regnard *book_regnard_arlequinauxenfers *style_prose *genre_comedy *dist1_regnard_prose_comedy_arlequinauxenfers *dist2_regnard_prose_comedy *id_ISABELLE *date_1689 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
 
 Il est assez difficile, monsieur, de vous répondre juste sur ce que vous me demandez. Tout ce que je puis vous dire, c'est que je ne me souviens pas d'avoir été plus grande.
 
@@ -358,8 +359,8 @@ Pour moi, je ne suis point de celles qui regardent la séparation d'avec un mari
 
 Je sais que je ne suis pas du goût d'aujourd'hui, et que pour être présentement femme du bel air, il ne faut prendre un mari que comme un surtout de bienséance, et un paravent de réputation ; mais j'aime mieux n'être pas tout à fait à la mode, et être un peu plus dans la route de mon devoir. C'est ce qui fait que je viens implorer votre clémence, et vous prier, par tout ce que vous avez de plus cher, au nom de l'amour que vous vous êtes porté l'un et l'autre, de m'accorder la grâce que je vous demande, de me rendre à un mari que je chéris plus que toute chose au monde, et je serai obligée de faire le reste de ma vie des voeux pour la santé et la prospérité de vos majestés diaboliques.
 
-
 **** *creator_regnard *book_regnard_arlequinauxenfers *style_prose *genre_comedy *dist1_regnard_prose_comedy_arlequinauxenfers *dist2_regnard_prose_comedy *id_PLUTON *date_1689 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pluton
+
 
 C'est une chose étonnante, phlégétontique assemblée, que de voir l'affluence d'âmes qui tombent journellement par vos soins dans mon royaume : il faut désormais refuser l'entrée aux survenants, ou faire bâtir des appartements nouveaux ; et, pour cela, je crois qu'il sera bon de lever un droit sur le bois et le charbon qui se brûlent ici-bas : voilà le sujet pour lequel je vous assemble.
 
@@ -405,8 +406,8 @@ Hé ! De quoi vous embarrassez-vous ? Puisqu'elle est votre femme, tous les en
 
 Après avoir entendu les raisons des uns et des autres, pour vous défrayer des frais de votre voyage, moi Pluton, prince des ténèbres, souverain du Styx et du Phlégéton, gouverneur des pays-bas, président du sabbat, et correcteur né des arts, métiers et professions, je vous permets non seulement d'emmener chacun votre femme, mais toutes celles qui sont en enfer, sans même en excepter Proserpine.
 
-
 **** *creator_regnard *book_regnard_arlequinauxenfers *style_prose *genre_comedy *dist1_regnard_prose_comedy_arlequinauxenfers *dist2_regnard_prose_comedy *id_PROSERPINE *date_1689 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_proserpine
+
 
 Ali ! Fi, m'amour ! Ne parlons point d'impôt : c'est quelque nouveau venu de maltôtier qui vous a soufflé cet avis-là.
 
@@ -418,8 +419,8 @@ Il y a longtemps que je suis en ce pays-ci, mais je n'ai point encore vu une par
 
 Oh, oh ! Je le crois bien ; je m'en contenterais bien, moi qui suis Proserpine.
 
-
 **** *creator_regnard *book_regnard_arlequinauxenfers *style_prose *genre_comedy *dist1_regnard_prose_comedy_arlequinauxenfers *dist2_regnard_prose_comedy *id_CARON *date_1689 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caron
+
 
 Du dix-sept, passé deux mille sept cent treize médecins avec leurs mules.
 
@@ -438,4 +439,3 @@ Item. Passé, en corps et en âme, deux carabins de symphonie, soi-disant musici
 Ce sont des anciens marguilliers qui veulent passer devant des avocats.
 
 Oui ; mais ils en appellent devant vous.
-

@@ -1,6 +1,7 @@
 
 
-**** *creator_anseaume *book_anseaume_cendrillon *style_verse *genre_comedy *dist1_anseaume_verse_comedy_cendrillon *dist2_anseaume_verse_comedy *id_CENDRILLON *date_1759 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_cendrillon
+**** *creator_anseaume *book_anseaume_cendrillon *style_verse *genre_comedy *dist1_anseaume_verse_comedy_cendrillon *dist2_anseaume_verse_comedy *id_CENDRILLON *date_1759 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_cendrillon
+
 
 Des rigueurs d'un cruel destin,
 Aurai-je toujours à me plaindre ?
@@ -331,8 +332,8 @@ Fais briller à mes yeux un rayon d'espérance,
 Ou rends moi mon indifférence,
 Mon sort me paraître plus doux.
 
-
 **** *creator_anseaume *book_anseaume_cendrillon *style_verse *genre_comedy *dist1_anseaume_verse_comedy_cendrillon *dist2_anseaume_verse_comedy *id_LAMARAINE *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamaraine
+
 
 Ah ! Dans quel état je vous vois !
 Ne cherchez point d'excuse ;
@@ -564,8 +565,8 @@ Il fallait mieux suivre ma loi.
 Un moment fait effet ; on s'y plaît,
 On s'en fait un amusement.
 
-
 **** *creator_anseaume *book_anseaume_cendrillon *style_verse *genre_comedy *dist1_anseaume_verse_comedy_cendrillon *dist2_anseaume_verse_comedy *id_AZOR *date_1759 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_azor
+
 
 Ô toi qui me punis de mon indifférence,
 Amour, Amour, j'implore ta clémence ;
@@ -641,8 +642,8 @@ Quoi ! C'est vous
 Qui m'inspiriez les transports les plus doux ?
 Quoi ! C'est vous ?...
 
-
 **** *creator_anseaume *book_anseaume_cendrillon *style_verse *genre_comedy *dist1_anseaume_verse_comedy_cendrillon *dist2_anseaume_verse_comedy *id_PIERROT *date_1759 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+
 
 Vous qui faisiez l'esprit fort ;
 Vous sentez donc votre tort ;
@@ -769,4 +770,3 @@ Vraiment, ma Commère, oui :
 Tenez, voilà la pareille.
 Quelle est donc cette merveille !
 Je me perds dans tout ceci.
-

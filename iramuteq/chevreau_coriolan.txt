@@ -2,6 +2,7 @@
 
 **** *creator_chevreau *book_chevreau_coriolan *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_coriolan *dist2_chevreau_verse_tragedy *id_coriolan *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_coriolan
 
+
 Vous voyez aujourd'huy que son inquietude
 Est un tragique effect de son ingratitude :
 Cette lasche Patrie eut peur de mon credit,
@@ -513,8 +514,8 @@ D'avoir servy des gens qui m'avoient irrité⁎.
 
 O Dieux ! je suis blessé, je tombe, je suis mort !
 
-
 **** *creator_chevreau *book_chevreau_coriolan *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_coriolan *dist2_chevreau_verse_tragedy *id_senateur *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_senateur
+
 
 Nous nous sommes punis en le voulant punir,
 Nous fismes nostre perte en le pensant bannir ;
@@ -665,8 +666,8 @@ Que le triomphe au moins suivra cette victoire,
 Et que tous les Romains vous restent obligez⁎
 Apres tant de tourmens dont vous les soulagez.
 
-
 **** *creator_chevreau *book_chevreau_coriolan *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_coriolan *dist2_chevreau_verse_tragedy *id_sicinie *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sicinie
+
  
 Dans ma commission je feray mon possible
 Pour le rendre bien tost plus doux & plus sensible⁎ ;
@@ -786,8 +787,8 @@ J'ay vangé par l'exil une commune injure⁎,
 Et contre un qui vouloit la qualité de Roy
 J'ay tenté ce que Brute a tenté devant moy.
 
-
 **** *creator_chevreau *book_chevreau_coriolan *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_coriolan *dist2_chevreau_verse_tragedy *id_sancine *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sancine
+
  
 Vous n'estes pas l'autheur de tout ce qui leur nuit,
 Eux mesmes ont causé le mal-heur qui les suit ;
@@ -929,8 +930,8 @@ Vous feriez pour le moins ce qui leur fut promis,
 J'ay suivy vos desseins sans regret & sans crainte,
 Et je vous obeïs encore sans contrainte.
 
-
 **** *creator_chevreau *book_chevreau_coriolan *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_coriolan *dist2_chevreau_verse_tragedy *id_aufidie *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aufidie
+
 
 Que vouloit ce Romain ?
 
@@ -1219,8 +1220,8 @@ Il ne peut desormais eviter le trépas ;
 Et je m'en vais le voir avec fort peu de conte
 Aussi couvert de sang qu'il nous couvre de honte.
 
-
 **** *creator_chevreau *book_chevreau_coriolan *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_coriolan *dist2_chevreau_verse_tragedy *id_verginie *date_1638 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_verginie
+
 
 Allons, Madame, allons, & que ce nom de mere
 Nous fasse rencontrer un destin moins contraire.
@@ -1494,8 +1495,8 @@ Qui tire de ton corps ce qui reste de sang,
 Ou si tu peux treuver une mort plus cruelle
 Soufre⁎-la sans horreur, tu la dois treuver belle.
 
-
 **** *creator_chevreau *book_chevreau_coriolan *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_coriolan *dist2_chevreau_verse_tragedy *id_velumnie *date_1638 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_velumnie
+
  
 J'advois eu cy-devant une esperance haute,
 Mais j'ay donné la vie à celuy qui me l'oste,
@@ -1604,8 +1605,8 @@ Et de finir mes maux si vous estes sensible⁎.
 Non, non, je veux mourir embrassant vos genoux,
 Je mourray doucement si je meurs prés de vous.
 
-
 **** *creator_chevreau *book_chevreau_coriolan *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_coriolan *dist2_chevreau_verse_tragedy *id_camille *date_1638 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_camille
+
 
 Les guerres desormais seront donc vos ébats⁎ ?
 Vous irez avec luy dans les plus grands combats ?
@@ -1638,3 +1639,43 @@ Mais pourtant ce dessein me fait trembler de crainte.
 Je vous attens, Madame, il faut vous obeïr :
 Mais songez apres tout à ne vous pas trahir.
 
+**** *creator_chevreau *book_chevreau_coriolan *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_coriolan *dist2_chevreau_verse_tragedy *id_lieutenant-volsque *date_1638 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lieutenantvolsque
+
+
+De tant de lâchetez ce sera la derniere.
+Pour nous avoir trahis, il perdra la lumiere.
+Nous suivrons vos conseils⁎, car nous les apreuvons ;
+Nous ne soupçonnions pas ce que nous épreuvons,
+Le traistre perira, sa perte est conjurée,
+Et malgré son pouvoir sa mort est assurée.
+
+Apres sa trahison il peut bien s'excuser :
+Mais il est mal-aisé⁎ qu'il nous puisse abuser :
+Outre que pour vanger nos douleurs sans pareilles,
+Nous preparons nos mains, & non pas nos oreilles.
+
+Il est tout à propos, nostre entreprise⁎ est belle
+Suivez moy seulement je vous seray fidelle⁎,
+Allons executer nostre dernier dessein,
+Enfonçons luy d'abord nos poignards dans le sein.
+Prenons-le prontement ; mais d'une telle sorte
+Qu'il ne puisse aporter de resistance forte :
+Autrement sa valeur se déferoit de nous,
+Et luy seul suffiroit contre les bras de tous.
+Cependant qu'il médite usons de l'avantage,
+Ne luy donnons pas lieu d'épreuver son courage.
+Ah traistre ! tu mourras, c'est un arrest⁎ du sort⁎.
+
+**** *creator_chevreau *book_chevreau_coriolan *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_coriolan *dist2_chevreau_verse_tragedy *id_soldat-volsque *date_1638 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_soldatvolsque
+
+
+Vostre ame en un moment se treuvera contente.
+Nous nous pouvons vanger avec juste raison
+Puis qu'on ne le punit que de sa trahison
+ 
+Encore un coup, perfide ; il est mort l'infidelle⁎,
+L'Enfer va recevoir son ame criminelle.
+Mais ne demeurons pas davantage en ces lieux
+De peur de voir tousjours cét objet odieux ;
+Aufidie en doit estre adverty de bonne heure,
+Et la fuitte pour nous est icy la meilleure.

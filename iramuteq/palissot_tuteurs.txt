@@ -2,6 +2,7 @@
 
 **** *creator_palissot *book_palissot_tuteurs *style_verse *genre_comedy *dist1_palissot_verse_comedy_tuteurs *dist2_palissot_verse_comedy *id_ORGON *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orgon
 
+
       Elle a raison ; j'approuve son refus.
 Le bel époux vraiment à donner à Julie,
 Qu'un ridicule, assez dépourvu de génie,
@@ -171,8 +172,8 @@ Non, ce sera le mien.
 
 Ah, Ciel !
 
-
 **** *creator_palissot *book_palissot_tuteurs *style_verse *genre_comedy *dist1_palissot_verse_comedy_tuteurs *dist2_palissot_verse_comedy *id_BAVARDIN *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bavardin
+
 
       Julie ?
 
@@ -236,8 +237,8 @@ Mais, c'est un nouvelliste.
 
 M'avoir ainsi joué ! Le trait est singulier.
 
+**** *creator_palissot *book_palissot_tuteurs *style_verse *genre_comedy *dist1_palissot_verse_comedy_tuteurs *dist2_palissot_verse_comedy *id_GERONTE *date_1760 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_geronte
 
-**** *creator_palissot *book_palissot_tuteurs *style_verse *genre_comedy *dist1_palissot_verse_comedy_tuteurs *dist2_palissot_verse_comedy *id_GERONTE *date_1760 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_geronte
 
 Elle a ma foi raison, non pas que je n'estime
 Autant, ou plus que vous, l'antiquité sublime ;
@@ -412,8 +413,8 @@ Non, c'est mon voyageur, messieurs, sans vous déplaire.
 
       Après ce tour à qui donc se fier ?
 
-
 **** *creator_palissot *book_palissot_tuteurs *style_verse *genre_comedy *dist1_palissot_verse_comedy_tuteurs *dist2_palissot_verse_comedy *id_JULIE *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+
 
       Ah Marton !
 
@@ -490,8 +491,8 @@ Un époux ?
 
 Ah ! Vous êtes bien sûr de ma reconnaissance.
 
-
 **** *creator_palissot *book_palissot_tuteurs *style_verse *genre_comedy *dist1_palissot_verse_comedy_tuteurs *dist2_palissot_verse_comedy *id_DAMIS *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
+
 
       Madame,
 Dissipez d'un regard le trouble de mon âme ;
@@ -747,8 +748,8 @@ Mais j'étais amoureux, et voilà mon excuse.
 
 Venez, que votre main comble mon espérance.
 
-
 **** *creator_palissot *book_palissot_tuteurs *style_verse *genre_comedy *dist1_palissot_verse_comedy_tuteurs *dist2_palissot_verse_comedy *id_MARTON *date_1760 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marton
+
 
 Vous soupirez, Madame ?
 
@@ -1021,8 +1022,8 @@ Comment le nomme-t-on, s'il vous plaît ?
 Je l'avais bien prédit, l'amour est le plus fort ;
 Quand il conduit la barque, elle arrive à bon port.
 
-
 **** *creator_palissot *book_palissot_tuteurs *style_verse *genre_comedy *dist1_palissot_verse_comedy_tuteurs *dist2_palissot_verse_comedy *id_CRISPIN *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
+
 
 Un affreux désespoir est tout ce qui nous reste.
 Son chagrin... me chagrine, et j'ai le cour si bon
@@ -1186,4 +1187,3 @@ C'est mon genre.
 Damis.
 
       Mais vraiment, cela se pourra faire.
-

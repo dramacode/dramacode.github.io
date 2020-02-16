@@ -2,6 +2,7 @@
 
 **** *creator_gillet *book_gillet_campagnard *style_verse *genre_comedy *dist1_gillet_verse_comedy_campagnard *dist2_gillet_verse_comedy *id_BAZILE *date_1656 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_bazile
 
+
       Avec assez d'adresse.
 
 Voyez-vous, elle a lu.
@@ -197,8 +198,8 @@ Un assez grand trésor dans la nécessité.
       Ne craignez rien de mal.
 Je vais tout le premier en campagne.
 
-
 **** *creator_gillet *book_gillet_campagnard *style_verse *genre_comedy *dist1_gillet_verse_comedy_campagnard *dist2_gillet_verse_comedy *id_LECAMPAGNARD *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecampagnard
+
 
 Tu ne la trouves pas plus belle que cela ?
 
@@ -970,8 +971,8 @@ Et crois que nous aurons beau temps après l'orage
 Et que, le traître ayant moins d'effet que de bruit,
 Nous lui ferons passer quelque mauvaise nuit.
 
-
 **** *creator_gillet *book_gillet_campagnard *style_verse *genre_comedy *dist1_gillet_verse_comedy_campagnard *dist2_gillet_verse_comedy *id_LEANDRE *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+
 
       Hé bien, le jour est beau
 Pourrons-nous aujourd'hui retoucher au tableau ?
@@ -1324,8 +1325,8 @@ Et mon amour à part...
 
 Monsieur, c'est m'obliger d'une amitié trop forte.
 
-
 **** *creator_gillet *book_gillet_campagnard *style_verse *genre_comedy *dist1_gillet_verse_comedy_campagnard *dist2_gillet_verse_comedy *id_CLITON *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cliton
+
 
 L'impertinent galant !
 
@@ -1373,8 +1374,8 @@ Sa soeur mérite mieux mon coeur et mes soupirs.
 Le démêlé finit, puisque je hais la cause,
 Et pour le témoigner, je suis son serviteur.
 
-
 **** *creator_gillet *book_gillet_campagnard *style_verse *genre_comedy *dist1_gillet_verse_comedy_campagnard *dist2_gillet_verse_comedy *id_ANSELME *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anselme
+
 
 Le dessein va-t-il bien ?
 
@@ -1757,8 +1758,18 @@ Mais, Monsieur...
 
 Qui ne rirait devoir qu'il s'accuse pour vous ?
 
+**** *creator_gillet *book_gillet_campagnard *style_verse *genre_comedy *dist1_gillet_verse_comedy_campagnard *dist2_gillet_verse_comedy *id_LEPAGE *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepage
+
+
+Monsieur, un cavalier voudrait vous dire un mot.
+
+      Ah ! Monsieur...
+
+Monsieur, on dit partout que Cliton s'est battu,
+Ou qu'il s'en va se battre, et que partie est faite.
 
 **** *creator_gillet *book_gillet_campagnard *style_verse *genre_comedy *dist1_gillet_verse_comedy_campagnard *dist2_gillet_verse_comedy *id_PHENICE *date_1656 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phenice
+
 
 Nous vous allions chercher pour vous prendre avec nous.
 
@@ -1874,8 +1885,8 @@ Sans dessein de venger les affronts qu'il m'a faits,
 Je vais de vos desseins prévenir les effets.
 Je ne vous croirai pas ; vous êtes en colère.
 
-
 **** *creator_gillet *book_gillet_campagnard *style_verse *genre_comedy *dist1_gillet_verse_comedy_campagnard *dist2_gillet_verse_comedy *id_PHILIS *date_1656 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philis
+
 
       Ah ! J'en pâme de rire !
 
@@ -2040,8 +2051,20 @@ Ils se battront, et lors...
 
 Je vais vous voir partir.
 
+**** *creator_gillet *book_gillet_campagnard *style_verse *genre_comedy *dist1_gillet_verse_comedy_campagnard *dist2_gillet_verse_comedy *id_LISE *date_1656 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lise
+
+
+      Ô fille infortunée !
+Monsieur, ne cherchez plus de nièce dans ces lieux
+Cliton vient d'enlever Phénice.
+
+Mais lisez ce papier.
+
+Je voulais faire effort pour suivre ma maîtresse,
+Mais le cocher fouetta.
 
 **** *creator_gillet *book_gillet_campagnard *style_verse *genre_comedy *dist1_gillet_verse_comedy_campagnard *dist2_gillet_verse_comedy *id_JODELET *date_1656 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jodelet
+
 
 Elle n'est pas tant sotte.
 
@@ -2459,8 +2482,8 @@ Faites-leur voir Paris au fond de vos villages,
 Parmi vos partisans faites les cupidons,
 Et demeurez toujours les rois de vos dindons.
 
+**** *creator_gillet *book_gillet_campagnard *style_verse *genre_comedy *dist1_gillet_verse_comedy_campagnard *dist2_gillet_verse_comedy *id_ALCIPE *date_1656 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_alcipe
 
-**** *creator_gillet *book_gillet_campagnard *style_verse *genre_comedy *dist1_gillet_verse_comedy_campagnard *dist2_gillet_verse_comedy *id_ALCIPE *date_1656 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_alcipe
 
 Quoi que je n'aie pas le bien de vous connaître,
 Vous puis-je dire ici quatre mots seulement ?
@@ -2476,4 +2499,3 @@ Je crois que ce valet n'est pas fort généreux,
 Lisez donc ce billet, et gardez qu'il n'entende.
 
       La peine n'est pas grande.
-

@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_vendangesdesuresnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vendangesdesuresnes *dist2_dancourt_prose_comedy *id_MONSIEURTHOMASSEAU *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurthomasseau
 
+
 Oh çà, mon pauvre Thibaut, aie un peu à l'œil à tout, mon enfant, et prend garde qu'il ne se fasse aucun dégât dans la maison.
 
 Paix, tais-toi, j'ai mes raisons pour faire ces préparatifs, et je suis à la veille de conclure une bonne affaire.
@@ -158,8 +159,8 @@ Comment donc ?
 
 Mademoiselle Duhazard est un cabaretier.
 
+**** *creator_dancourt *book_dancourt_vendangesdesuresnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vendangesdesuresnes *dist2_dancourt_prose_comedy *id_MARIANE *date_1695 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_mariane
 
-**** *creator_dancourt *book_dancourt_vendangesdesuresnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vendangesdesuresnes *dist2_dancourt_prose_comedy *id_MARIANE *date_1695 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_mariane
 
 Je te cherchais, mon pauvre Thibaut, pour te faire une confidence, d'où dépend absolument…
 
@@ -211,8 +212,8 @@ Souffrez, mon père, que je me jette à vos genoux, pour vous conjurer instammen
 
 Ah, mon père !
 
-
 **** *creator_dancourt *book_dancourt_vendangesdesuresnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vendangesdesuresnes *dist2_dancourt_prose_comedy *id_THIBAUT *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thibaut
+
 
 Mais palsangué, Monsieu, comment l'entendez-vous, donc ? Vous n'avez qu'un arpent de veigne à Surêne, pour tout potage, et je crois, Dieu me pardonne, que la moitié de Paris viendra cheux vous en vendange. Sur ce pied-là, je n'avons que faire d'aller au pressoir, et j'aurons nos futailles de reste.
 
@@ -390,8 +391,8 @@ Pargué, je revians sur mes pas, et je m'en retorne de même ; vela cette Madam
 
 Tenez, Monsieur, vela le mari que votre fille a fait venir de Paris, et vela sti que vous avez fait venir de campagne. Alle veut sti-ci, et ne veut point sti-là, est-ce qu'alle a tort ? Regardez-les bian, qu'eux comparaison !
 
-
 **** *creator_dancourt *book_dancourt_vendangesdesuresnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vendangesdesuresnes *dist2_dancourt_prose_comedy *id_CLITANDRE *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+
 
 Vivrai-je encore longtemps dans la contrainte où je suis depuis quelques jours ?
 
@@ -531,8 +532,8 @@ Oserai-je me flatter, Monsieur…
 
 Il ne sera pas malaisé de vous en instruire, voilà ma tante et ma sœur…
 
-
 **** *creator_dancourt *book_dancourt_vendangesdesuresnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vendangesdesuresnes *dist2_dancourt_prose_comedy *id_MADAMEDESMARTINS *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedesmartins
+
 
 Hé ! Te voilà, Madame Dubuisson : j'ai fait mettre mon carrosse chez toi.
 
@@ -565,8 +566,15 @@ Qui n'en veulent qu'à vos écus ;
 Sitôt que vous n'en aurez plus,
 Adieu paniers, vendanges sont faites.
 
+**** *creator_dancourt *book_dancourt_vendangesdesuresnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vendangesdesuresnes *dist2_dancourt_prose_comedy *id_ANGELIQUE *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+
+
+Il suffit qu'elle soit de vos amies, pour me donner bonne opinion de son mérite.
+
+Je meurs d'impatience d'embrasser Mademoiselle votre fille.
 
 **** *creator_dancourt *book_dancourt_vendangesdesuresnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vendangesdesuresnes *dist2_dancourt_prose_comedy *id_BASTIEN *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bastien
+
 
 Aga, votre laquais, Monsieur Vivien, je sis votre cousin, ne vous en déplaise, et quoique je sois rouge vêtu…
 
@@ -576,8 +584,8 @@ Hé bien, oui, Monsieur, je le dirai, mon cousin Vivien.
 
 Non, non, je m'en vais tant seulement panser nos cavales, et je les mènerai boire, mon cousin Vivien.
 
-
 **** *creator_dancourt *book_dancourt_vendangesdesuresnes *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vendangesdesuresnes *dist2_dancourt_prose_comedy *id_LORANGE *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lorange
+
 
 Hé, serviteur, Monsieur Clitandre : hé, comment vous en va ?
 
@@ -666,4 +674,3 @@ Et comme maître de l'Épée de bois, si vous voulez, je ferai le festin des deu
 Fort à votre service.
 
 Sans rancune, Monsieur Vivien, nous vous avons empêché de vous marier, ce n'est pas vous rendre un mauvais service. Allons, gai, Messieurs de la symphonie : honneur à Monsieur Vivien, et à nos vendanges.
-

@@ -1,6 +1,7 @@
 
 
-**** *creator_crebillon *book_crebillon_idomenee *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_idomenee *dist2_crebillon_verse_tragedy *id_IDOMENEE *date_1705 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_idomenee
+**** *creator_crebillon *book_crebillon_idomenee *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_idomenee *dist2_crebillon_verse_tragedy *id_IDOMENEE *date_1705 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_idomenee
+
 
 Où suis-je ? Quelle horreur m'épouvante et me suit !
 Quel tremblement, ô ciel ! Et quelle affreuse nuit !
@@ -736,8 +737,8 @@ N'attends point d'autre fruit que celui de ma mort.
 Dieux cruels ! Fallait-il qu'une injuste vengeance,
 Pour me punir d'un crime, opprimât l'innocence ?
 
+**** *creator_crebillon *book_crebillon_idomenee *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_idomenee *dist2_crebillon_verse_tragedy *id_IDAMANTE *date_1705 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_idamante
 
-**** *creator_crebillon *book_crebillon_idomenee *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_idomenee *dist2_crebillon_verse_tragedy *id_IDAMANTE *date_1705 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_idamante
 
 Longtemps épouvanté par un horrible bruit,
 Tremblant pour des malheurs qui redoublent sans cesse,
@@ -1286,8 +1287,8 @@ Le ciel est apaisé, l'astre du jour vous luit :
 Trop heureux de pouvoir, dans mon malheur extrême,
 Goûter, avant ma mort, les fruits de ma mort même !
 
+**** *creator_crebillon *book_crebillon_idomenee *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_idomenee *dist2_crebillon_verse_tragedy *id_ERIXENE *date_1705 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_erixene
 
-**** *creator_crebillon *book_crebillon_idomenee *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_idomenee *dist2_crebillon_verse_tragedy *id_ERIXENE *date_1705 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_erixene
 
 J'espérais, mais en vain, jouir de leur colère ;
 J'ai cru que cette nuit allait venger mon père,
@@ -1593,8 +1594,8 @@ Par ce cruel discours n'accablez pas mon coeur.
 Mon devoir, malgré moi, vous défend de me suivre ;
 Mais l'amour, malgré lui, vous ordonne de vivre.
 
+**** *creator_crebillon *book_crebillon_idomenee *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_idomenee *dist2_crebillon_verse_tragedy *id_SOPHRONYME *date_1705 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_sophronyme
 
-**** *creator_crebillon *book_crebillon_idomenee *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_idomenee *dist2_crebillon_verse_tragedy *id_SOPHRONYME *date_1705 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_sophronyme
 
       Que vois-je ? Idoménée !
 Ah seigneur ! De quel bruit ont retenti ces lieux !
@@ -1790,8 +1791,8 @@ Eh ! Ce n'est pas son sang que demande l'oracle.
 
       Hélas ! J'en ai trop dit, seigneur.
 
+**** *creator_crebillon *book_crebillon_idomenee *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_idomenee *dist2_crebillon_verse_tragedy *id_EGESIPPE *date_1705 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_egesippe
 
-**** *creator_crebillon *book_crebillon_idomenee *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_idomenee *dist2_crebillon_verse_tragedy *id_EGESIPPE *date_1705 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_egesippe
 
 Quelle victime encor ! Que de pleurs, de regrets,
 Nous vont goûter des dieux les barbares décrets !
@@ -1843,8 +1844,14 @@ L'air s'enflamme, et ses feux n'annoncent que l'orage.
 De qui doit s'embarquer je déplore le sort.
 Serait-ce vous, seigneur ?
 
+**** *creator_crebillon *book_crebillon_idomenee *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_idomenee *dist2_crebillon_verse_tragedy *id_POLYCLETE *date_1705 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_polyclete
 
-**** *creator_crebillon *book_crebillon_idomenee *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_idomenee *dist2_crebillon_verse_tragedy *id_ISMENE *date_1705 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_ismene
+
+Ah seigneur ! Fallait-il découvrir ce mystère ?
+Avez-vous dû parler ?
+
+**** *creator_crebillon *book_crebillon_idomenee *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_idomenee *dist2_crebillon_verse_tragedy *id_ISMENE *date_1705 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_ismene
+
 
 Madame, en ce palais pourquoi toujours errante ?
 
@@ -1899,4 +1906,3 @@ Puisque vous balancez...
 
       Je le vois qui s'avance.
 De vos transports, du moins, cachez la violence.
-

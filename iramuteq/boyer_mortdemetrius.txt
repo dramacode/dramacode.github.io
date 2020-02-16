@@ -2,6 +2,7 @@
 
 **** *creator_boyer *book_boyer_mortdemetrius *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortdemetrius *dist2_boyer_verse_tragedy *id_demetrius *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_demetrius
 
+
 Pourray-je voir enfin mon ingrate Princesse ?
 
       Qu'on sorte,  ; qu'on me laisse ;
@@ -504,8 +505,8 @@ Je mets entre tes mains ma cruelle ennemie.
 
 Vous, cruelle, tremblez,  ; craignez mon pouvoir.
 
-
 **** *creator_boyer *book_boyer_mortdemetrius *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortdemetrius *dist2_boyer_verse_tragedy *id_arsinoe *date_1661 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_arsinoe
+
 
 Reduite à tout souffrir,  ; reduite à tout craindre,
 Ne puis-je devant vous que pleurer,  ; me plaindre,
@@ -757,8 +758,8 @@ Voy que je songe au moins à faire mon devoir.
 Toy qui veux m'épargner, pour t'en oster l'envie,
 Je sçauray te forcer à m'arracher la vie.
 
-
 **** *creator_boyer *book_boyer_mortdemetrius *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortdemetrius *dist2_boyer_verse_tragedy *id_alexandre *date_1661 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_alexandre
+
 
 Ces respects de Sujet sont deus à vostre Maistre,
 Je vous pardonne en Prince,  ; ce n'est pas à moy
@@ -1148,8 +1149,8 @@ Et d'un si grand succez rendre graces aux Dieux ;
 Et demain nous pourrons avec plus d'allegresse
 Par un illustre Hymen couronner ma Princesse.
 
-
 **** *creator_boyer *book_boyer_mortdemetrius *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortdemetrius *dist2_boyer_verse_tragedy *id_ismenie *date_1661 *sexe_feminin *age_jeune *statut_maitre *fonction_autres *role_ismenie
+
 
       Que pourray-je vous dire ?
 Le Prince d'un malheur va tomber dans un pire ;
@@ -1439,8 +1440,8 @@ La mort que loin de vous j'ay veu si prés de moy.
 
       Qu'as-tu ?
 
-
 **** *creator_boyer *book_boyer_mortdemetrius *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortdemetrius *dist2_boyer_verse_tragedy *id_milon *date_1661 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_milon
+
 
 La Reyne...
 
@@ -2097,8 +2098,8 @@ Me font perdre aujourd'huy, Maistresse, Trône  ; vie ;
 Mais pour comble de maux, de honte  ; de malheur,
 Rival, je te les laisse, et j'en meurs de douleur.
 
-
 **** *creator_boyer *book_boyer_mortdemetrius *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortdemetrius *dist2_boyer_verse_tragedy *id_seleucus *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_seleucus
+
 
 Alexandre s'aproche,  ; chacun va sortir,
 Pour l'aller recevoir il est temps de partir.
@@ -2212,8 +2213,8 @@ Je l'entens s'écrier, je mets les armes bas ;
 Je vay sans differer desarmer nos soldats,
 Et je consens à tout pour sauver ma Princesse.
 
-
 **** *creator_boyer *book_boyer_mortdemetrius *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortdemetrius *dist2_boyer_verse_tragedy *id_telamon *date_1661 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_telamon
+
 
 Vous la verrez bien-tost.
 
@@ -2257,8 +2258,8 @@ S'est à peine en fuyant retiré dans ces lieux.
       Ah ! Seigneur, sauvez-vous,
 Fuyez, vostre fortune à ce point est reduite.
 
-
 **** *creator_boyer *book_boyer_mortdemetrius *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortdemetrius *dist2_boyer_verse_tragedy *id_laodice *date_1661 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_laodice
+
 
 Mais pourrez-vous quitter l'objet de vostre flâme ?
 
@@ -2301,3 +2302,16 @@ On attaque, on combat, on deffend le passage,
 Mais enfin Alexandre a tousjours l'avantage.
 Il vient.
 
+**** *creator_boyer *book_boyer_mortdemetrius *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_mortdemetrius *dist2_boyer_verse_tragedy *id_diocles *date_1661 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_diocles
+
+
+Ah ! Madame.
+
+      Milon percé de coups,
+Furieux vous demande,  ; ne cherche que vous.
+Avec tant de succez sa fureur le seconde,
+Qu'échapant comme aux mains, aux yeux de tout le monde,
+Par un secret détour il vient se rendre icy.
+Ah ! Seigneur, prévenez...
+
+      Le voicy.

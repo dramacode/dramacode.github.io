@@ -2,6 +2,7 @@
 
 **** *creator_marivaux *book_marivaux_annibal *style_verse *genre_tragedy *dist1_marivaux_verse_tragedy_annibal *dist2_marivaux_verse_tragedy *id_ANNIBAL *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_annibal
 
+
       Puis-je, sans me flatter,
 Espérer qu'un moment vous voudrez m'écouter !
 Je ne viens point, trop fier de l'espoir qui m'engage,
@@ -540,8 +541,8 @@ Du plus grand des malheurs vous l'avez garantie,
 Et j'expire honoré des soins de la vertu.
 Adieu, chère Princesse.
 
-
 **** *creator_marivaux *book_marivaux_annibal *style_verse *genre_tragedy *dist1_marivaux_verse_tragedy_annibal *dist2_marivaux_verse_tragedy *id_PRUSIAS *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_prusias
+
 
 Enfin, Flaminius va bientôt nous instruire
 Des motifs importants qui peuvent le conduire.
@@ -784,8 +785,8 @@ Oui, Seigneur ; mais un jour vous connaîtrez mon zèle.
 
 Seigneur, serait-il vrai ce qu'Amilcar nous dit !
 
-
 **** *creator_marivaux *book_marivaux_annibal *style_verse *genre_tragedy *dist1_marivaux_verse_tragedy_annibal *dist2_marivaux_verse_tragedy *id_LAODICE *date_1720 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laodice
+
 
 Sais-tu quel est celui que Rome nous envoie !
 
@@ -1150,8 +1151,8 @@ Le pardon d'un penchant qui doit leur faire horreur.
 Il meurt, et vous avez consommé l'injustice,
 Barbare ! Et vous osiez demander Laodice !
 
-
 **** *creator_marivaux *book_marivaux_annibal *style_verse *genre_tragedy *dist1_marivaux_verse_tragedy_annibal *dist2_marivaux_verse_tragedy *id_FLAMINIUS *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_flaminius
+
 
 N'accuse point le roi de ce superbe accueil ;
 Un roi n'en peut avoir imaginé l'orgueil.
@@ -1721,8 +1722,8 @@ Ils ont droit de paraître, et je dois y souscrire.
 Hélas ! un doux espoir m'amena dans ces lieux ;
 Je ne suis point coupable, et j'en sors odieux.
 
-
 **** *creator_marivaux *book_marivaux_annibal *style_verse *genre_tragedy *dist1_marivaux_verse_tragedy_annibal *dist2_marivaux_verse_tragedy *id_HIERON *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hieron
+
 
 Rome de vos desseins est sans doute informée !
 
@@ -1760,8 +1761,34 @@ Mais le voici.
 
 C'est la faute du sort, et non de votre coeur.
 
+**** *creator_marivaux *book_marivaux_annibal *style_verse *genre_tragedy *dist1_marivaux_verse_tragedy_annibal *dist2_marivaux_verse_tragedy *id_AMILCAR *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amilcar
+
+
+Seigneur, nous sommes seuls : oserais-je vous dire
+Ce que le ciel peut-être en ce moment m'inspire !
+Je connais peu le roi ; mais sa timidité
+Semble vous présager quelque infidélité.
+Non qu'à présent son coeur manque pour vous de zèle ;
+Sans doute il a dessein de vous être fidèle :
+Mais un prince à qui Rome imprime du respect,
+De peu de fermeté doit vous être suspect.
+Ces timides égards vous annoncent un homme
+Assez faible, Seigneur, pour vous livrer à Rome.
+Qui sait si l'envoyé qu'on attend aujourd'hui
+Ne vient pas, de sa part, vous demander à lui !
+Pendant que de ces lieux la retraite est facile,
+M'en croirez-vous ! Fuyez un dangereux asile ;
+Et sans attendre ici...
+
+Il en serait peut-être encor de généreux :
+Mais une autre raison fait vos dégoûts pour eux :
+Et si vous n'espériez d'épouser Laodice,
+Peut-être à quelqu'un d'eux rendriez-vous justice.
+Vous voudrez bien, Seigneur, excuser un discours
+Que me dicte mon zèle et le soin de vos jours.
 
 **** *creator_marivaux *book_marivaux_annibal *style_verse *genre_tragedy *dist1_marivaux_verse_tragedy_annibal *dist2_marivaux_verse_tragedy *id_FLAVIUS *date_1720 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_flavius
+
 
 Le roi ne paraît point, et j'ai peine à comprendre,
 Seigneur, comment ce prince ose se faire attendre.
@@ -1784,8 +1811,8 @@ Brûlez-vous en secret d'une si tendre ardeur !
 L'aimable Laodice a-t-elle fait connaître
 Qu'elle-même à son tour...
 
-
 **** *creator_marivaux *book_marivaux_annibal *style_verse *genre_tragedy *dist1_marivaux_verse_tragedy_annibal *dist2_marivaux_verse_tragedy *id_EGINE *date_1720 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_egine
+
 
 Je ne puis plus longtemps vous taire mes alarmes,
 Madame ; de vos yeux j'ai vu couler des larmes.
@@ -1804,4 +1831,3 @@ Oserait en ce jour se permettre votre âme !
 Il faudrait l'oublier.
 
 Contraignez-vous : il vient.
-

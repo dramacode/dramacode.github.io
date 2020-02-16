@@ -2,6 +2,7 @@
 
 **** *creator_voltaire *book_voltaire_nanine *style_verse *genre_comedy *dist1_voltaire_verse_comedy_nanine *dist2_voltaire_verse_comedy *id_LECOMTE *date_1749 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomte
 
+
 Oui, tout procès m'est fort insupportable.
 
 Qui ? Vous, madame ?
@@ -683,8 +684,8 @@ Ce qu'on a fait cent fois par avarice.
 Ma mère, enfin, terminez ces combats,
 Et consentez.
 
-
 **** *creator_voltaire *book_voltaire_nanine *style_verse *genre_comedy *dist1_voltaire_verse_comedy_nanine *dist2_voltaire_verse_comedy *id_LABARONNE *date_1749 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_labaronne
+
 
 Il faut parler, il faut, Monsieur le Comte,
 Vous expliquer nettement sur mon compte.
@@ -1105,8 +1106,8 @@ Traître ! Je vois avec qui tu vas vivre,
 Sers noblement sous les plus viles lois ;
 Je t'abandonne à ton indigne choix.
 
-
 **** *creator_voltaire *book_voltaire_nanine *style_verse *genre_comedy *dist1_voltaire_verse_comedy_nanine *dist2_voltaire_verse_comedy *id_NANINE *date_1749 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nanine
+
 
 Madame.
 
@@ -1449,8 +1450,8 @@ Puis-je jamais vous appeler ma mère ?
 J'obéis donc à votre ordre, à l'amour ;
 Mon coeur ne peut résister.
 
-
 **** *creator_voltaire *book_voltaire_nanine *style_verse *genre_comedy *dist1_voltaire_verse_comedy_nanine *dist2_voltaire_verse_comedy *id_BLAISE *date_1749 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blaise
+
 
       C'est votre jardinier,
 Qui vient, monsieur, humblement supplier
@@ -1574,8 +1575,8 @@ Moi, j'ai l'argent, et je m'en vais payer
 Philippe Hombert : faut servir sa maîtresse.
 Courons.
 
-
 **** *creator_voltaire *book_voltaire_nanine *style_verse *genre_comedy *dist1_voltaire_verse_comedy_nanine *dist2_voltaire_verse_comedy *id_GERMON *date_1749 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_germon
+
 
       Madame vous demande,
 Madame attend.
@@ -1732,8 +1733,8 @@ Je me doutais qu'elle avait quelque amant ;
 Et Blaise aussi lui tient au coeur peut-être.
 On aime mieux son égal que son maître.
 
-
 **** *creator_voltaire *book_voltaire_nanine *style_verse *genre_comedy *dist1_voltaire_verse_comedy_nanine *dist2_voltaire_verse_comedy *id_MARIN *date_1749 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marin
+
 
       J'accours.
 
@@ -1780,4 +1781,3 @@ Un bon vieillard, qui gémit et qui pleure ;
 Depuis longtemps il voudrait vous parler.
 
       J'y vais.
-

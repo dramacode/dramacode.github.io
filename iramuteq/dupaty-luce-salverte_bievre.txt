@@ -2,6 +2,7 @@
 
 **** *creator_dupaty-luce-salverte *book_dupaty-luce-salverte_bievre *style_verse *genre_comedy *dist1_dupaty-luce-salverte_verse_comedy_bievre *dist2_dupaty-luce-salverte_verse_comedy *id_LAROCHE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laroche
 
+
 Mademoiselle, voici l'instant décisif ; deux rivaux se disputent votre main, et c'est aujourd'hui qu'il faut choisir.
 
 Et moi, je voudrais bien connaître les vôtres.
@@ -165,8 +166,8 @@ Réduits à faire
 Tout en petit,
 Nous fuirons l'abus de l'esprit.
 
-
 **** *creator_dupaty-luce-salverte *book_dupaty-luce-salverte_bievre *style_verse *genre_comedy *dist1_dupaty-luce-salverte_verse_comedy_bievre *dist2_dupaty-luce-salverte_verse_comedy *id_DUBOIS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dubois
+
 
 Quelle est la jolie bouche qui décline aussi bien mon nom ? Oh ! La charmante rencontre ! Quoi ! C'est toi, mon adorable ?
 
@@ -379,4 +380,3 @@ Combien de pièces très connues
 Ont la vogue en ce pays-ci ;
 Les scènes y tombent des nues,
 Le dénouement en tombe aussi.
-

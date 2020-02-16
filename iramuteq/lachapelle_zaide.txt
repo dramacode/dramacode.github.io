@@ -2,6 +2,7 @@
 
 **** *creator_lachapelle *book_lachapelle_zaide *style_verse *genre_tragedy *dist1_lachapelle_verse_tragedy_zaide *dist2_lachapelle_verse_tragedy *id_ABDERAMEN *date_1681 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_abderamen
 
+
 Savez-vous qu'Alamir a quitté mon armée,
 Qu'il revient en ces lieux sans mon ordre ?
 
@@ -277,8 +278,8 @@ Donnez à votre sexe un plus digne ornement :
 Étouffez désormais une honte timide,
 Et vivez dans ma Cour sous le nom de Zaïde.
 
-
 **** *creator_lachapelle *book_lachapelle_zaide *style_verse *genre_tragedy *dist1_lachapelle_verse_tragedy_zaide *dist2_lachapelle_verse_tragedy *id_FATIME *date_1681 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fatime
+
 
 Dois-je croire, Seigneur, ce que m'apprend le Roi :
 Alamir s'est trouvé digne de votre estime,
@@ -517,8 +518,8 @@ Et vos yeux sont témoins de ma confusion ;
 Mais enfin pour sauver une teste si chère
 Je ne ménage rien. J'y cours.
 
-
 **** *creator_lachapelle *book_lachapelle_zaide *style_verse *genre_tragedy *dist1_lachapelle_verse_tragedy_zaide *dist2_lachapelle_verse_tragedy *id_ALAMIR *date_1681 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alamir
+
 
 Non, ne nous flattons point d'une vaine espérance,
 Plus mes exploits sont grands, plus mon retour l'offense ;
@@ -903,8 +904,8 @@ Mon coeur n'oppose plus une fierté cruelle :
 Et si l'amour déjà ne s'y fait pas sentir,
 L'injuste haine au moins commence d'en sortir.
 
-
 **** *creator_lachapelle *book_lachapelle_zaide *style_verse *genre_tragedy *dist1_lachapelle_verse_tragedy_zaide *dist2_lachapelle_verse_tragedy *id_OSMAR *date_1681 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_osmar
+
 
 Oui, Seigneur
 
@@ -964,8 +965,8 @@ Le Roi sait rassurer sa craintive pudeur,
 Qu'à sa gloire, à l'éclat de la grandeur suprême,
 Ouvrant enfin les yeux... mais le Roi vient lui-même.
 
-
 **** *creator_lachapelle *book_lachapelle_zaide *style_verse *genre_tragedy *dist1_lachapelle_verse_tragedy_zaide *dist2_lachapelle_verse_tragedy *id_ABENDAX *date_1681 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_abendax
+
 
 N'en doutez point, Seigneur, il est toujours le même
 Il craint son inconstance, et cependant il l'aime,
@@ -1064,8 +1065,8 @@ Il n'est plus d'intérêt, ni de raisons secrètes,
 Il est temps de parler, d'avouer qui vous êtes.
 Et je vais....
 
-
 **** *creator_lachapelle *book_lachapelle_zaide *style_verse *genre_tragedy *dist1_lachapelle_verse_tragedy_zaide *dist2_lachapelle_verse_tragedy *id_GAZUL *date_1681 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gazul
+
 
 Pourquoi de ce retour après votre victoire,
 Vous faites vous, Seigneur, une image si noire ;
@@ -1091,4 +1092,3 @@ Seigneur, je vois Fatime, elle vient en ces lieux.
 
       En serait-t-il aimé ?
 Lui, Seigneur.
-

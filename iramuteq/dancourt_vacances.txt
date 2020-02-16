@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_vacances *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vacances *dist2_dancourt_prose_comedy *id_MONSIEURGRIMAUDIN *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgrimaudin
 
+
 Hé bien, mon pauvre Lépine, je suis sur mes terres ; et me voilà pourtant, en dépit de l'envie, propriétaire du Château et de la Seigneurie de Gaillardin.
 
 Oh : pour cela non, je t'en réponds ; je me la suis fait adjuger pour les frais d'une instances que j'ai eu l'esprit de faire durer dix-sept ans, et le fond du procès n'est pas jugé encore.
@@ -124,8 +125,8 @@ Je souscris à tout, Monsieur, pourvu que je demeure Seigneur de Paroisse, et qu
 
 Écoutez, mon gendre, puisque vous voulez l'être, je prétends...
 
-
 **** *creator_dancourt *book_dancourt_vacances *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vacances *dist2_dancourt_prose_comedy *id_LEPINE *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepine
+
 
 Mais qu'est-ce que cela vous fait, Monsieur le Magister ? Puisqu'il faut que nous ayons un Seigneur une fois, que nous importe qui le soit ?
 
@@ -309,8 +310,8 @@ Cela est plus avancé que vous ne croyez, au moins : et tenez les voilà, ils vo
 
 Et Monsieur le Greffier qu'en ferons-nous ?
 
-
 **** *creator_dancourt *book_dancourt_vacances *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vacances *dist2_dancourt_prose_comedy *id_LEMAGISTER *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemagister
+
 
 Non, palsanguenne, vous avez beau dire, Monsieur de Lépine, je ne saurais m'accoutumer à stilà.
 
@@ -349,8 +350,8 @@ Chez le Troyen,
 Que Monseigneur de Grimaudin
 Dans son Château du Gaillardin.
 
-
 **** *creator_dancourt *book_dancourt_vacances *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vacances *dist2_dancourt_prose_comedy *id_ANGELIQUE *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+
 
 Hé bien, ma chère Madame la Roche, je ne me trompais point dans mes conjectures : ce vilain Greffier, que je t'ai dit qui me venait voir au Couvent, et qui faisait tant le radouci.
 
@@ -408,8 +409,8 @@ C'est lui qui est depuis peu Seigneur du Château que vous voyez.
 
 On vous l'a dit, mon père ? Je croyais vous en apporter la première nouvelle. Monsieur veut m'épouser, il a déjà le consentement de mon frère et le mien, nous venons vous prier d'y joindre le vôtre, et de...
 
-
 **** *creator_dancourt *book_dancourt_vacances *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vacances *dist2_dancourt_prose_comedy *id_MADAMELAROCHE *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamelaroche
+
 
 Qu'est-ce que c'est donc, Monsieur, est-ce vous qui faites venir ici une Compagnie de Gens-d'armes, pour prendre possession de votre terre avec plus d'éclat ?
 
@@ -497,8 +498,8 @@ Que veut-il donc dire ?
 
 La grande affaire est à présent de faire consentir votre père.
 
-
 **** *creator_dancourt *book_dancourt_vacances *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vacances *dist2_dancourt_prose_comedy *id_CLITANDRE *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+
 
 Les affaires prennent assez bon train, et la plupart des paysans sont disposés comme je le souhaite.
 
@@ -602,3 +603,36 @@ Si vous voulez jouir paisiblement de la Terre de Gaillardin, Monsieur, il faut, 
 
 Vous serez content, et vous allez voir un échantillon de la complaisance qu'auront pour vous et les habitants du village, et les Cavaliers de ma compagnie. Qu'on fasse venir ces gens qui sont au Château.
 
+**** *creator_dancourt *book_dancourt_vacances *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vacances *dist2_dancourt_prose_comedy *id_MARTINE *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_martine
+
+
+Hé vite, hé tôt, Monsieur dépêchez-vous.
+
+Deux carrosses tout pleins de Madames, et une charretée de procureurs qui venont d'arriver dans la cour de la ferme. Ils sont pêle-mêle avec de grands soudards qui carressont les femmes, et qui battont les hommes. Ils disent tretous que vous leur faites pièce.
+
+**** *creator_dancourt *book_dancourt_vacances *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vacances *dist2_dancourt_prose_comedy *id_COLIN *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colin
+
+
+Hé, venez vite, Monsieur, tout le village est dans la cour du Châtiau, qui vient vous faire la révérence.
+
+C'est Mademoiselle votre fille, et le Capitaine de ces gens-d'armes, qu'ils disont qui est votre gendre, qui les avont envoyés pour vous divartir, et pour commencer le prélude de leurs noces.
+
+**** *creator_dancourt *book_dancourt_vacances *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vacances *dist2_dancourt_prose_comedy *id_LEBARBIER *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebarbier
+
+
+Je suis le Barbier du Village,
+Nommé Mambrin,
+Je raserai le gros visage
+Et le groin,
+De Monseigneur de Grimaudin
+Dans son Château du Gaillardin.
+
+**** *creator_dancourt *book_dancourt_vacances *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vacances *dist2_dancourt_prose_comedy *id_LAMEUNIERE *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lameuniere
+
+
+Sur un bras de votre Rivière
+J'avons du bien,
+Et je viens offrir la Meunière
+Et son Moulin
+À Monseigneur de Grimaudin
+Dans son Château du Gaillardin.

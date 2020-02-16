@@ -2,6 +2,7 @@
 
 **** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *id_PYRRHUS *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pyrrhus
 
+
 Ô Troie, ô murs tombés sous mes mains triomphantes,
 D'une ville fameuse ô ruines sanglantes,
 Voyez sur vos débris gémir votre vainqueur.
@@ -422,8 +423,8 @@ Demeurez dans ces lieux, où vous m'allez revoir.
 Trop heureux, si je puis, légitimant ma gloire,
 Forcer sa haine enfin d'absoudre ma victoire !
 
-
 **** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *id_ULYSSE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulysse
+
 
       La Grèce
 Demande encor, Seigneur, votre vaillante main ;
@@ -681,8 +682,8 @@ Allons donc, près des Grecs que je dois secourir,
 Et combattre Pyrrhus, et le vaincre, ou mourir.
 Que vois-je ? Vous, Calchas !
 
-
 **** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *id_PHENIX *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phenix
+
 
 Enfin Pâris, sous vous tombant avec vingt rois,
 Ménélas et l'hymen vengés par vos exploits,
@@ -772,8 +773,8 @@ Seigneur, les Grecs armés ici se précipitent ;
 Agamemnon, Calchas, les guident, les excitent ;
 Votre nom remplit l'air, je vole, et mon secours...
 
-
 **** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *id_HECUBE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hecube
+
 
 Ô fille de Priam, ô soeur du grand Hector,
 Ma fille, je puis donc t'entretenir encor.
@@ -1130,8 +1131,8 @@ Je meurs, dans cet espoir, et tranquille, et contente.
 C'en est fait, et j'attends au séjour du trépas
 Tous les Grecs, qui bientôt y viendront sur mes pas.
 
-
 **** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *id_POLIXENE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_polixene
+
 
 Abjurez ce souhait à mes désirs contraire.
 Ah ! Puisque je survis à ma famille entière,
@@ -1420,8 +1421,8 @@ Donne le fer, je meurs.
       Ne me plaignez pas,
 Ma mère, je meurs libre, et je meurs dans vos bras.
 
-
 **** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *id_CALCHAS *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_calchas
+
 
 Rois, vainqueurs d'Ilion aux feux abandonné,
 Fiers vengeurs de l'hymen par Pâris profané,
@@ -1510,3 +1511,8 @@ J'entends souffler les vents sur la mer ranimée ;
 Allons donc à Pyrrhus épargner des forfaits,
 Et d'un départ trop lent achever les apprêts.
 
+**** *creator_legouve *book_legouve_polixene *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_polixene *dist2_legouve_verse_tragedy *id_IDAS *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_idas
+
+
+Oui, veillant sur leurs pas, je l'ai vu l'y conduire,
+Seigneur, et j'ai volé soudain vous en instruire.

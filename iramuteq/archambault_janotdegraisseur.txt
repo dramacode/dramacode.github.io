@@ -2,6 +2,7 @@
 
 **** *creator_archambault *book_archambault_janotdegraisseur *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_janotdegraisseur *dist2_archambault_prose_proverbe *id_JANOT *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_janot
 
+
 Comment que c'est que vous dites donc ça, Mam'selle ? Est-ce que vous n'voyez-t-i' pas ben que c'est moi.
 
 C'est pourtant ben la même avec quoi que je suis venu pour une veste, l'autre jour qui f'sait nuit, que vous étiez toute seule, où ce qu'i' n'y avait tout plein de... de cambouis dessus.
@@ -116,8 +117,8 @@ Ah ! Jarni ! Pas si bête que de manquer ça, moi. Madame, je vous prends au mot
 
 Ah ! Mordine ! M'est avis que je rêve. Ce que c'est que de nous, pourtant. Au moment qu'on s'y attend le moins... et comme ça m'est venu encore !... Des coups, l'histoire de la fenêtre... mis à la porte... et pis v'là des présents... des conditions... des comtesses !... Ça prouve bien qu'on a raison de dire : À QUELQUE CHOSE MALHEUR EST BON.
 
-
 **** *creator_archambault *book_archambault_janotdegraisseur *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_janotdegraisseur *dist2_archambault_prose_proverbe *id_SIMON *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_simon
+
 
 Mais ce n'est-i' pas un sort donc ça !
 
@@ -246,8 +247,8 @@ Ah ! Madame, queue générosité ! Ah ! Monsieur l'abbé !
 
 Eh ben ! Suis-la donc, imbécile.
 
-
 **** *creator_archambault *book_archambault_janotdegraisseur *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_janotdegraisseur *dist2_archambault_prose_proverbe *id_MADAMESIMON *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamesimon
+
 
 Eh ben donc, lambine ! Arrives-tu avec ce savon ?
 
@@ -362,8 +363,8 @@ Ah ! Not' homme, viens-t'en m'aider à fléchir c'te bonne dame : quiens, c'est 
 
 Ah ! Monsieur l'abbé, je vous en prions... Ma chère dame, c'est lui...
 
-
 **** *creator_archambault *book_archambault_janotdegraisseur *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_janotdegraisseur *dist2_archambault_prose_proverbe *id_LACOMTESSE *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+
 
 Est-ce vous qui êtes Madame Simon ?
 
@@ -387,8 +388,8 @@ Tu viens de faire ma conquête avec cet habit-là. J'ai cédé mon jockey à une
 
 Venez avec moi, l'abbé ; je vais vous reconduire.
 
-
 **** *creator_archambault *book_archambault_janotdegraisseur *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_janotdegraisseur *dist2_archambault_prose_proverbe *id_MADEMOISELLECOURTOIS *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellecourtois
+
 
 Votre servante, Madame Simon, je viens chercher la robe de Madame.
 
@@ -411,8 +412,8 @@ Ah ! Bon Dieu ! Voilà une robe abîmée ! Je ne la reprendrai pas comme cela, M
 
 Tout ce que vous voudrez, mais je ne l'emporterai pas : je vais avertir ma maîtresse, elle la prendra si cela lui convient.
 
-
 **** *creator_archambault *book_archambault_janotdegraisseur *style_prose *genre_proverbe *dist1_archambault_prose_proverbe_janotdegraisseur *dist2_archambault_prose_proverbe *id_PERRETTE *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_perrette
+
 
 Oh ! Ma fine, ça s'peut bien que ça soit vous, mais je n'avons pas un brin de souvenance de vot' figure.
 
@@ -452,4 +453,3 @@ Dame, Monsieur, j'avais cru ben faire.
 Pardon, excuse, Madame : je sentons assez d'habitude, mais j'équions enchifernée ce soir-là.
 
 Dame ! Monsieur, le soir comme ça...
-

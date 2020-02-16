@@ -2,6 +2,7 @@
 
 **** *creator_voltaire *book_voltaire_ducdalencon *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_ducdalencon *dist2_voltaire_verse_tragedy *id_NEMOURS *date_1751 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nemours
 
+
 Enfin, après trois ans, tu me revois, Dangeste !
 Mais en quels lieux, ô ciel ! En quel état funeste !
 
@@ -180,8 +181,8 @@ Quel est donc ton dessein ?... Parle.
 Ah ! Ton frère à tes pieds, digne de ta clémence,
 Égale tes bienfaits par sa reconnaissance.
 
-
 **** *creator_voltaire *book_voltaire_ducdalencon *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_ducdalencon *dist2_voltaire_verse_tragedy *id_DANGESTE *date_1751 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dangeste
+
 
 Seigneur, vous pouvez tout.
 
@@ -246,4 +247,3 @@ Coucy, digne héros, qui lui donnes la vie...
 Oui, seigneur, avec lui j'embrasse vos genoux ;
 La plus tendre amitié va me rejoindre à vous :
 Vous nous payez trop bien de nos douleurs souffertes.
-

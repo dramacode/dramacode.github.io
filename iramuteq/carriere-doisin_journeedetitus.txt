@@ -2,6 +2,7 @@
 
 **** *creator_carriere-doisin *book_carriere-doisin_journeedetitus *style_prose *genre_drame *dist1_carriere-doisin_prose_drame_journeedetitus *dist2_carriere-doisin_prose_drame *id_LEPRINCE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leprince
 
+
 Laissez, laissez entrer.
 
 Fort bien, mes amis ; je les reçois avec plaisir.
@@ -57,8 +58,8 @@ Quel instant délicieux ! Eh ! Bien, allons, mes enfants, nous nous aimerons tou
 
 Ah ! D'Alfons, vous troublez mes plaisirs.
 
-
 **** *creator_carriere-doisin *book_carriere-doisin_journeedetitus *style_prose *genre_drame *dist1_carriere-doisin_prose_drame_journeedetitus *dist2_carriere-doisin_prose_drame *id_ELEONORE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eleonore
+
 
 Quoi ! D'Hermans est ici ?
 
@@ -72,8 +73,8 @@ Ah ! Monsieur, vous ne connaissez pas mon père : il respecte infiniment Monseig
 
 Que dites-vous donc, d'Hermans ? Une démarche aussi imprudente serait une désobéissance de ma part. Monseigneur lui-même pourrait m'en blâmer ; cherchons, au contraire, à fléchir mon père avec le plus grand ménagement.
 
-
 **** *creator_carriere-doisin *book_carriere-doisin_journeedetitus *style_prose *genre_drame *dist1_carriere-doisin_prose_drame_journeedetitus *dist2_carriere-doisin_prose_drame *id_DHERMANS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dhermans
+
 
 Je vous cherchais, Monsieur. Vous êtes honoré de l'intimité particulière du Prince ; oserais-je vous confier l'entretien que j'ai eu hier au soir avec lui ?
 
@@ -103,8 +104,8 @@ De grâce Monsieur, croyez que je me rendrai digne du bonheur que j'attends.
 Ah ! Mon père ! Ce tendre épanchement de votre part le rend plus accompli.
 Oui, ce jour digne de Titus en est un sûr garant.
 
-
 **** *creator_carriere-doisin *book_carriere-doisin_journeedetitus *style_prose *genre_drame *dist1_carriere-doisin_prose_drame_journeedetitus *dist2_carriere-doisin_prose_drame *id_RICHARDPERE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_richardpere
+
 
 Oui ; Monsieur. Je suis un vieux soldat qui a fait ses dernières campagnes sous les ordres de notre bon Seigneur, et je n'oublierai jamais l'humanité avec laquelle il nous traitait.
 
@@ -134,8 +135,8 @@ Et son congé aussi ?
 
 Mais, Monsieur, parlons franchement : est-ce que je ne pourrais pas aller baiser les pas de Monseigneur ? Ce ne serait pas la première fois au moins.
 
-
 **** *creator_carriere-doisin *book_carriere-doisin_journeedetitus *style_prose *genre_drame *dist1_carriere-doisin_prose_drame_journeedetitus *dist2_carriere-doisin_prose_drame *id_RICHARDFILS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_richardfils
+
 
 Hélas ! Oui, Monsieur, j'ai eu ce malheur ; mais si je demande ma grâce, c'est pour resservir avec plus de fidélité.
 
@@ -149,8 +150,8 @@ Mon père, je vous cause bien du chagrin ; mais je vous le ferai oublier, et à 
 
 Très volontiers, je rejoins dans l'instant.
 
-
 **** *creator_carriere-doisin *book_carriere-doisin_journeedetitus *style_prose *genre_drame *dist1_carriere-doisin_prose_drame_journeedetitus *dist2_carriere-doisin_prose_drame *id_BABET *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_babet
+
 
 De grâce, Monsieur, ayez pitié de nous.
 
@@ -173,3 +174,24 @@ Oh ! Moi, je ne serai pas la dernière à bien m'amuser.
 
 C'est comme si je la tenais , j'en suis bien sûre.
 
+**** *creator_carriere-doisin *book_carriere-doisin_journeedetitus *style_prose *genre_drame *dist1_carriere-doisin_prose_drame_journeedetitus *dist2_carriere-doisin_prose_drame *id_LEPEUPLE *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lepeuple
+
+
+Vive la Reine,
+Vive notre bon Roi
+Qu'à perdre haleine ,
+Chacun chante avec moi :
+Vive la Reine
+Vive notre bon Roi.
+Vive la Reine ,
+Vive notre Dauphin ;
+À perdre haleine
+Chantons tous ce refrain ;
+Vive la Reine,
+Vive notre Dauphin.
+Vive la Reine,
+Et nos Princes du Sang ;
+À perdre haleine
+Chantons tous , en dansant :
+Vive la Reine,
+Et nos Princes du Sang.

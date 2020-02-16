@@ -2,6 +2,7 @@
 
 **** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *id_CLYTEMNESTRE *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clytemnestre
 
+
 Dieux puissants, dissipez mon trouble et mon effroi ;
 Et chassez ces horreurs loin d'Égisthe et de moi.
 
@@ -107,8 +108,8 @@ Ton fils ne dément pas ton nom, ni sa naissance.
 Pour l'en voir digne au gré de mes voeux et des tiens,
 Je lui laisse un forfait qui passe tous les miens.
 
-
 **** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *id_ORESTE *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oreste
+
 
 Oreste, moi, Seigneur ! Dieux ! Qu'entends je ?
 
@@ -262,8 +263,8 @@ Du crime de ma main mon coeur n'est point complice ;
 J'éprouve cependant des tourments infinis.
 Dieux ! Les plus criminels seraient-ils plus punis ?
 
-
 **** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *id_ELECTRE *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_electre
+
 
 Témoin du crime affreux que poursuit ma vengeance,
 Ô nuit, dont tant de fois j'ai troublé le silence,
@@ -731,8 +732,8 @@ Ah ! Mon frère, calmez cette aveugle fureur :
 N'ai-je donc pas assez de ma propre douleur ?
 Voulez-vous me donner la mort, mon cher Oreste ?
 
-
 **** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *id_EGISTHE *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_egisthe
+
 
 Madame, quel malheur, troublant votre sommeil,
 Vous a fait de si loin devancer le soleil ?
@@ -866,8 +867,8 @@ Qu'Égisthe en vous, Seigneur, trouve un gendre, un ami :
 Si sur ce choix votre âme est encore incertaine,
 Je vous laisse y penser, et je cours chez la reine.
 
-
 **** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *id_ITYS *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_itys
+
 
 Madame, pardonnez à l'innocente erreur
 Qui vous offre un amant guidé par sa douleur.
@@ -982,8 +983,8 @@ Quoi ! Vous m'abandonnez à mes cruels transports !
 
 On assassine Ëgisthe ! Ah cruelle princesse !
 
-
 **** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *id_IPHIANASSE *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iphianasse
+
 
 On dit qu'un noir présage, un songe plein d'horreur,
 Madame, cette nuit a troublé votre coeur.
@@ -1111,8 +1112,8 @@ Celui que j'implorais est Oreste.
 
 Oui ; mais je n'eus point part à la perte du tien.
 
-
 **** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *id_PALAMEDE *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_palamede
+
 
 Embrassez-moi, mon fils : après tant de malheurs,
 Qu'il m'est doux de revoir l'objet de tant de pleurs !
@@ -1399,8 +1400,75 @@ Fait couler tout le sang dont ils vous firent naître.
 
       Ah seigneur !
 
+**** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *id_ARCAS *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
+
+
+      Malheureuse princesse,
+Hélas ! Que votre sort est digne de pitié !
+Plus d'amis, plus d'espoir.
+
+      Non, n'attendez rien d'elle.
+Madame, en vain pour vous j'ai fait parler mon zèle ;
+Eux-mêmes, à regret, ces trop prudents amis
+S'en tiennent au secours qu'on leur avait promis.
+« Qu'Oreste, disent-ils, vienne par sa présence
+Rassurer des amis armés pour sa vengeance.
+Palamède, chargé d'élever ce héros,
+Promettait avec lui de traverser les flots ;
+Son fils, même avant eux, devait ici se rendre.
+C'est se perdre, sans eux qu'oser rien entreprendre ;
+Bientôt de nos projets la mort serait le prix. »
+D'ailleurs, pour achever de glacer leurs esprits,
+On dit que ce guerrier dont la valeur funeste
+Ne se peut comparer qu'à la valeur d'Oreste,
+Qui de tant d'ennemis délivre ces États,
+Qui les a sauvés seul par l'effort de son bras,
+Qui, chassant les deux rois de Corinthe et d'Athènes,
+De morts et de mourants vient de couvrir nos plaines,
+Hier, avant la nuit, parut dans ce palais ;
+Cet étranger qu'Égisthe a comblé de bienfaits,
+À qui le tyran doit le salut de sa fille,
+De lui, d'Itys, enfin de toute sa famille,
+Est un rempart si sûr pour vos persécuteurs,
+Que de tous nos amis il a glacé les coeurs.
+Au seul nom du tyran que votre âme déteste
+On frémit ; cependant on veut revoir Oreste.
+Mais le jour qui paraît me chasse de ces lieux :
+Je crois voir même Itys. Madame, au nom de ces dieux,
+Loin de faire éclater le trouble de votre âme,
+Flattez plutôt d'Itys l'audacieuse flamme ;
+Faites que votre hymen se diffère d'un jour :
+Peut-être verrons-nous Oreste de retour.
+
+Madame, c'en est fait : tout cède à nos efforts ;
+Ce palais se remplit de mourants et de morts.
+Vous savez qu'aux autels notre chef intrépide
+Devait d'Agamemnon punir le parricide ;
+Mais les soupçons d'Égisthe, et des avis secrets,
+Ont hâté ce grand jour si cher a nos souhaits.
+Oreste règne enfin : ce héros invincible
+Semble armé de la foudre en ce moment terrible.
+Tout fuit à son aspect, ou tombe sous ses coups :
+De longs ruisseaux de sang signalent son courroux.
+J'ai vu prêt à périr le fier Itys lui-même
+Désarmé par Oreste en ce désordre extrême.
+Ce prince au désespoir, cherchant le seul trépas.
+Portant partout la mort et ne la trouvant pas,
+À son père peut-être eût ouvert un passage ;
+Mais sa main désarmée a trompé son courage.
+Ainsi, de ses exploits interrompant le cours,
+Le sort, malgré lui-même, a pris soin de ses jours.
+Oreste, qu'irritait une fureur si vaine,
+À sa valeur bientôt fait tout céder sans peine.
+J'ai cru de ce succès devoir vous avertir.
+De ces lieux cependant gardez-vous de sortir,
+Madame : la retraite est pour vous assurée ;
+Des amis affidés en défendent l'entrée.
+Votre ennemi d'ailleurs, au gré de vos désirs,
+Aux pieds de son vainqueur rend les derniers soupirs.
 
 **** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *id_ANTENOR *date_1708 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antenor
+
 
       Vous, Seigneur, en ces lieux,
 Parmi des ennemis défiants, furieux !
@@ -1439,3 +1507,16 @@ Ah ! seigneur, fallait-il, à l'amour trop sensible,
 Armer pour un tyran votre bras invincible?
 Et que prétendez-vous d'un succès si honteux ?
 
+**** *creator_crebillon *book_crebillon_electre *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_electre *dist2_crebillon_verse_tragedy *id_MELITE *date_1708 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melite
+
+
+      Madame, quel langage !
+Quel malheur de vos jours a troublé la douceur,
+Et la constante paix que goûtait votre coeur ?
+
+À finir nos malheurs, quoi ! Lorsque tout conspire,
+Qu'un roi jeune et puissant à votre hymen aspire,
+Votre coeur désolé se consume en regrets !
+Quels sont vos déplaisirs ? Ou quels sont vos souhaits ?
+Corinthe, avec la paix, vous demande pour reine :
+Ce grand jour doit former une si belle chaîne.

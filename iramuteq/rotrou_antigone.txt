@@ -2,6 +2,7 @@
 
 **** *creator_rotrou *book_rotrou_antigone *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_antigone *dist2_rotrou_verse_tragedy *id_JOCASTE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jocaste
 
+
 Qu'ils ont bien à propos usé de mon sommeil :
 Ils n'ont pas appelé ma voix à leur conseil ;
 Et lorsqu'ils ont voulu tenter cette sortie,
@@ -187,8 +188,8 @@ Et détestables fruits de meurtres et d'incestes :
 Vous ne mourrez pas seuls, et je suivrai vos pas
 Pour vous persécuter même jusqu'au trépas.
 
-
 **** *creator_rotrou *book_rotrou_antigone *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_antigone *dist2_rotrou_verse_tragedy *id_ETEOCLE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eteocle
+
 
 Madame, tout va mal, et dans cette retraite
 La victoire est commune, ou plutôt la défaite :
@@ -269,8 +270,8 @@ Choisissons ici près un champ plus spacieux
 D'où l'un et l'autre camp nous considère mieux,
 Et que le sort après conduise l'aventure.
 
-
 **** *creator_rotrou *book_rotrou_antigone *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_antigone *dist2_rotrou_verse_tragedy *id_POLYNICE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polynice
+
 
 Reste lâche et honteux de tant de compagnies
 Que cous vos étendards la Grèce m'a fournies,
@@ -473,8 +474,8 @@ Voir l'une trop payée et l'autre trop puni.
 
 Faisons tôt.
 
-
 **** *creator_rotrou *book_rotrou_antigone *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_antigone *dist2_rotrou_verse_tragedy *id_ANTIGONE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_antigone
+
 
 Madame, il n'est plus temps.
 
@@ -897,8 +898,8 @@ Eh bien, vivez heureuse avec votre sagesse.
 Viens ici, cher Hémon, et par cet entretien
 Apprends le jugement que l'on y fait du tien.
 
-
 **** *creator_rotrou *book_rotrou_antigone *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_antigone *dist2_rotrou_verse_tragedy *id_ISMENE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismene
+
 
       Étéocle lui-même.
 
@@ -1034,8 +1035,26 @@ Eh ! Que ferais-je, Hémon ? Ne m'abandonnez pas.
 Lâche, ne puis-je donc faire un dernier effort ?
 Mourrai-je mille fois pour la peur d'une mort ?
 
+**** *creator_rotrou *book_rotrou_antigone *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_antigone *dist2_rotrou_verse_tragedy *id_ADRASTE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adraste
+
+
+Dieux ! Que proposez-vous ! Quelle horrible aventure !
+
+Quelle rage, bon dieu, vous occupe le sein ?
+Ah ! Mon fils, étouffez ce damnable dessein :
+Si votre ambition ne va qu'à la couronne,
+Je dépouille pour vous l'éclat qui m'environne ;
+Venez prendre et donner un paisible repos
+Sur le trône de Lerne ou sur celui d'Argos :
+Là, monarque absolu, vous n'aurez point de frère
+Qui vous rompe de pacte et qui vous soit contraire ;
+Là, votre épouse et moi, devenus vois sujets,
+De nos fidèles soins appuierons vos projets ;
+Et votre autorité n'y sera divisée
+Par aucune puissance à la vôtre opposée.
 
 **** *creator_rotrou *book_rotrou_antigone *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_antigone *dist2_rotrou_verse_tragedy *id_ARGIE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_argie
+
 
 Eh ! Monsieur, écoutez la voix de la nature ;
 Songez quel est le sang que vous voulez verser ;
@@ -1159,8 +1178,8 @@ Si l'un vous assaillit, l'autre vous exposa.
 
 Mais pour le retenir vous chassiez Polynice.
 
-
 **** *creator_rotrou *book_rotrou_antigone *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_antigone *dist2_rotrou_verse_tragedy *id_MENETTE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_menette
+
 
 Madame, vous cherchez votre perte visible.
 
@@ -1191,8 +1210,8 @@ Et pour donner aux morts la pais près la guerre.
 
       Je n'y recule pas.
 
-
 **** *creator_rotrou *book_rotrou_antigone *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_antigone *dist2_rotrou_verse_tragedy *id_CREON *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_creon
+
 
       Ô rigoureuse loi !
 
@@ -1557,8 +1576,8 @@ Et tu ne meurs pas tout si le jour me demeure.
 Ô mort ! Joins mon trépas aux effets de ma rage !
 Sors, mon âme, et mets fin à ce tragique ouvrage.
 
-
 **** *creator_rotrou *book_rotrou_antigone *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_antigone *dist2_rotrou_verse_tragedy *id_HEMON *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hemon
+
 
 Ce malheur est commun avec notre misère,
 De rougir comme vous des fautes de mon père,
@@ -1958,8 +1977,8 @@ Vertueuse beauté, princesse infortunée,
 Allons, unis d'esprit sans commerce de corps,
 Achevez notre hymen en l'empire des morts.
 
-
 **** *creator_rotrou *book_rotrou_antigone *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_antigone *dist2_rotrou_verse_tragedy *id_EPHISE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ephise
+
 
 C'est trop, Cléodamas, exagérer son crime :
 Que sa prétention fût ou non légitime,
@@ -2058,8 +2077,8 @@ Mettez le frère en terre, et tirez-en la soeur.
 Il tombe évanoui, sans force et sans chaleur.
 Tu devais, vain regret, précéder ce malheur !
 
-
 **** *creator_rotrou *book_rotrou_antigone *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_antigone *dist2_rotrou_verse_tragedy *id_CLEODAMAS *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleodamas
+
 
 Un grand roi père tout d'un contrepoids égal,
 Rend le bien pour le bien, et le mal pour le mal.
@@ -2091,8 +2110,8 @@ Le ciel touche parfois aussitôt qu'il menace.
 Ô ciel ! Qu'aux châtiments ta justice est sévère,
 Et qu'il est dangereux d'exciter ta colère.
 
+**** *creator_rotrou *book_rotrou_antigone *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_antigone *dist2_rotrou_verse_tragedy *id_CAPITAINE *date_1637 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_capitaine
 
-**** *creator_rotrou *book_rotrou_antigone *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_antigone *dist2_rotrou_verse_tragedy *id_CAPITAINE *date_1637 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_capitaine
 
 En ces effets bien moins de valeur que de rage.
 La nature, Seigneur, dispense le courage ;
@@ -2128,8 +2147,13 @@ La prince sur son corps déteste votre empire,
 Et je crains, oui je crains quelque chose de pire...
 J'en voulais approcher, mais s'élançant sur moi...
 
+**** *creator_rotrou *book_rotrou_antigone *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_antigone *dist2_rotrou_verse_tragedy *id_PAGE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_page
 
-**** *creator_rotrou *book_rotrou_antigone *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_antigone *dist2_rotrou_verse_tragedy *id_TYRESIE *date_1637 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_tyresie
+
+Monsieur, on tient conseil, et le roi vous demande.
+
+**** *creator_rotrou *book_rotrou_antigone *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_antigone *dist2_rotrou_verse_tragedy *id_TYRESIE *date_1637 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_tyresie
+
 
 La lumière d'un seul sert à eux que nous sommes :
 C'est aux hommes aussi à conduire les hommes.
@@ -2208,4 +2232,3 @@ Mais qu'en ce discours n'excite aucun souci,
 Et croyez que le gain me fait parler ainsi.
 Marche, enfant ; je lui lasse en ce triste présage
 Assez d'instruction pour en devenir sage.
-

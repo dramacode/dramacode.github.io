@@ -2,6 +2,7 @@
 
 **** *creator_dufresny *book_dufresny_maladesansmaladie *style_prose *genre_comedy *dist1_dufresny_prose_comedy_maladesansmaladie *dist2_dufresny_prose_comedy *id_LAMALADE *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamalade
 
+
 Ah ! Soutiens-moi un peu ma bonne, aide-moi à marcher toute seule.
 
 Tu sais que l'air du matin est un air cru, un air neuf, et que mes poumons sont usés.
@@ -238,8 +239,8 @@ Si ma nièce et mon bien... n'est-ce pas Monsieur.
 
 Ne me faites donc pas languir ; je suis lasse d'être debout, mariez-vous vite, que je m'aille mettre au lit.
 
-
 **** *creator_dufresny *book_dufresny_maladesansmaladie *style_prose *genre_comedy *dist1_dufresny_prose_comedy_maladesansmaladie *dist2_dufresny_prose_comedy *id_LUCINDE *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucinde
+
 
 J'allais à votre chambre, ma chère enfant ; j'allais vous donner avis de certaines choses qui se passent à votre préjudice ; car vos intérêts me sont chers... J'ai une attention continuelle à ce qui peut vous être utile. Plus vous avez d'aversion pour moi, plus j'ai envie de vous faire plaisir.
 
@@ -490,8 +491,8 @@ Ah Ciel !
 
 Je suis perdue, je suis perdue.
 
-
 **** *creator_dufresny *book_dufresny_maladesansmaladie *style_prose *genre_comedy *dist1_dufresny_prose_comedy_maladesansmaladie *dist2_dufresny_prose_comedy *id_ANGELIQUE *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_angelique
+
 
 Je conviens que je me suis fait haïr céans par ma sincérité ; mais que veux-tu ? Ma tante me doit tenir lieu de père et de mère. Je l'aime tendrement, et je ne puis souffrir, qu'une créature de rien, une scélérate lui affaiblisse l'esprit, pour s'en rendre maîtresse : tout ce que je puis faire à cela, c'est de parler ; je parle, Lisette, et je ne dis que des vérités.
 
@@ -607,8 +608,8 @@ Non, non Monsieur, je veux prouver à ma tante le mépris que j'ai pour vous, et
 
 Ma tante vous a tant d'obligation, que je serais ingrate de ne vous pas attacher à elle par des liens solides.
 
-
 **** *creator_dufresny *book_dufresny_maladesansmaladie *style_prose *genre_comedy *dist1_dufresny_prose_comedy_maladesansmaladie *dist2_dufresny_prose_comedy *id_VALERE *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+
 
 Je la vois debout.
 
@@ -774,8 +775,8 @@ Sa perfidie est claire, lisez à votre tour Madame.
 
 Si vous le souhaitiez, et qu'elle y consentît...
 
-
 **** *creator_dufresny *book_dufresny_maladesansmaladie *style_prose *genre_comedy *dist1_dufresny_prose_comedy_maladesansmaladie *dist2_dufresny_prose_comedy *id_LISETTE *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
 Ce que je viens de vous apprendre, est fâcheux assurément, vous avez raison de vous en plaindre ; mais vous auriez tort de vous en étonner. Votre Tante veut vous déshériter pour enrichir Lucinde. Elle hait une nièce aimable, elle aime une étrangère, cela est naturel : car cette étrangère flatte ses visions. Vous voulez les guérir, vous ; et les malades d'esprit haïssent naturellement le Médecin.
 
@@ -1018,8 +1019,8 @@ N'est-ce pas Mademoiselle ?
 
 Allons, soyez récompensés ; les scélérats sont punis et nous guérirons la Malade.
 
-
 **** *creator_dufresny *book_dufresny_maladesansmaladie *style_prose *genre_comedy *dist1_dufresny_prose_comedy_maladesansmaladie *dist2_dufresny_prose_comedy *id_LAVALEE *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lavalee
+
 
 Hon, hon.
 
@@ -1198,4 +1199,3 @@ Je calcule que vous n'avez de la vie, que ce qu'il vous en faut tout juste : no
 Quel mystère est ceci ?
 
 Il se va passer là quelque chose qui pourrait être contre les intérêts de mon Maître ; allons vite l'avertir.
-

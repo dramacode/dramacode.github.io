@@ -2,6 +2,7 @@
 
 **** *creator_fuzelierlegrand *book_fuzelierlegrand_animauxraisonnables *style_verse *genre_opera comique *dist1_fuzelierlegrand_verse_opera comique_animauxraisonnables *dist2_fuzelierlegrand_verse_opera comique *id_CIRCE *date_1718 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_circe
 
+
       Feinte inutile.
 Là. Séparons-nous sans tricher.
 Oh ! Je ne suis pas une dupe, au moins !
@@ -49,8 +50,8 @@ Va-t-en voir s'ils viennent,
 Jean,
 Va-t-en voir s'ils viennent.
 
-
 **** *creator_fuzelierlegrand *book_fuzelierlegrand_animauxraisonnables *style_verse *genre_opera comique *dist1_fuzelierlegrand_verse_opera comique_animauxraisonnables *dist2_fuzelierlegrand_verse_opera comique *id_ULYSSE *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulysse
+
 
 Charmante Circé, de votre île
 Il faut donc enfin m'arracher.
@@ -247,4 +248,3 @@ Elles profiteront de la grâce que Circé m'a accordée.
 Que ces musiciens et ces dames, par la vertu de ma baguette sortent de la mer sous leur première forme.
 
 Voici déjà les hommes.
-

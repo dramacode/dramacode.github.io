@@ -2,6 +2,7 @@
 
 **** *creator_colardeau *book_colardeau_astarbe *style_verse *genre_tragedy *dist1_colardeau_verse_tragedy_astarbe *dist2_colardeau_verse_tragedy *id_PIGMALION *date_1758 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pigmalion
 
+
       Mes pareils sont-ils jamais sans crainte ?
 Madame, ces remparts de mes crimes remplis,
 D'un Peuple gémissant me répètent les cris :
@@ -96,8 +97,8 @@ Vous demandez sa tête ! Ô fureur! Ô vengeance !
 Tremble , Peuple indocile et qui m'ose irriter !
 C'est elle, pour punir, que je vais consulter.
 
-
 **** *creator_colardeau *book_colardeau_astarbe *style_verse *genre_tragedy *dist1_colardeau_verse_tragedy_astarbe *dist2_colardeau_verse_tragedy *id_ASTARBE *date_1758 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_astarbe
+
 
       Vous, Narbal, dans ces lieux !
 Osez-vous, sans mon ordre , y paraître à mes yeux ?
@@ -578,8 +579,8 @@ Va, j'espère qu'un jour, ils t'en feront descendre.
 Mais, c'en est fait... Je meurs !... Qu'on m'ôte de ces lieux.
 « J'ai bravé les mortels ; est-il encor des Dieux ? »
 
-
 **** *creator_colardeau *book_colardeau_astarbe *style_verse *genre_tragedy *dist1_colardeau_verse_tragedy_astarbe *dist2_colardeau_verse_tragedy *id_BACAZAR *date_1758 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bacazar
+
 
 Cruel Narbal, cessez de retenir mes pas.
 Mon père règne ici ; je vole dans ses bras.
@@ -750,8 +751,8 @@ Des honneurs, des devoirs, qu'il est affreux de rendre.
 Allons, et puissions-nous, dans le sein de la paix,
 Oublier d'Astarbé le règne et les forfaits.
 
-
 **** *creator_colardeau *book_colardeau_astarbe *style_verse *genre_tragedy *dist1_colardeau_verse_tragedy_astarbe *dist2_colardeau_verse_tragedy *id_LEUXIS *date_1758 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leuxis
+
 
       Vous l'emportez, Madame ;
 J'abaisse, en frémissant, la fierté de mon âme ;
@@ -996,8 +997,8 @@ C'est lui, n'en doute point, trop barbare ennemie ;
 C'est l'héritier des Rois par le Ciel éprouvé ;
 Au peuple, à mon amour, par le Ciel conservé.
 
+**** *creator_colardeau *book_colardeau_astarbe *style_verse *genre_tragedy *dist1_colardeau_verse_tragedy_astarbe *dist2_colardeau_verse_tragedy *id_NARBAL *date_1758 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_narbal
 
-**** *creator_colardeau *book_colardeau_astarbe *style_verse *genre_tragedy *dist1_colardeau_verse_tragedy_astarbe *dist2_colardeau_verse_tragedy *id_NARBAL *date_1758 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_narbal
 
       L'amour de ma Patrie,
 Les cris attendrissants d'un peuple malheureux,
@@ -1284,8 +1285,8 @@ Es-tu juste ou coupable ? Enfin répond.
 
 Reconnais Bacazar, à tes coups échappé.
 
-
 **** *creator_colardeau *book_colardeau_astarbe *style_verse *genre_tragedy *dist1_colardeau_verse_tragedy_astarbe *dist2_colardeau_verse_tragedy *id_ZOPIRE *date_1758 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zopire
+
 
       Nador, il faut régner.
 Tu frémis ? Ce projet te trouble et t'intimide !
@@ -1497,8 +1498,31 @@ Puisqu'enfin, malgré toi, je mourrai vertueux.
 
 Ô mon Prince ?
 
+**** *creator_colardeau *book_colardeau_astarbe *style_verse *genre_tragedy *dist1_colardeau_verse_tragedy_astarbe *dist2_colardeau_verse_tragedy *id_NADOR *date_1758 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nador
+
+
+Zopire, tu connais les desseins de la Reine :
+Dans ce palais sanglant son ordre nous ramène.
+Quoi, lorsque ses fureurs devraient nous indigner,
+Nous allons les servir !
+
+Dans ce vaste projet, je te plains et t'admire.
+Astarbé tient ici les rênes de l'Empire ;
+Sur elle, sans péril, peux-tu les usurper ?
+
+Tu voudrais réunir, dans ton coeur combattu,
+La fureur, la pitié , le crime et la vertu ;
+Pour éviter les noms d'usurpateur, de traître,
+Tu défends dans Leuxis le sang qui l'a fait naître ;
+Cependant, poursuivant ce sang infortuné,
+Tu souffres que ton Roi périsse assassiné !
+Tu crois que son trépas sauvera cet empire ;
+Tu veux perdre Astarbé... Tu veux régner, Zopire.
+Ah ! Quels font tes desseins ! Par quel contraste affreux,
+Es-tu donc à la fois barbare et généreux ?
 
 **** *creator_colardeau *book_colardeau_astarbe *style_verse *genre_tragedy *dist1_colardeau_verse_tragedy_astarbe *dist2_colardeau_verse_tragedy *id_ORCAN *date_1758 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orcan
+
 
 Immoler le tyran ! Quels mortels intrépides
 Seconderont ici vos fureurs parricides ?
@@ -1524,8 +1548,8 @@ Dans de sombres détours vos Gardes apostés,
 Au moment du triomphe immoleront Zopire.
 Tous ont juré sa mort.
 
-
 **** *creator_colardeau *book_colardeau_astarbe *style_verse *genre_tragedy *dist1_colardeau_verse_tragedy_astarbe *dist2_colardeau_verse_tragedy *id_ARSACE *date_1758 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arsace
+
 
 Toi, dans Tyr, toi, Narbal ! Vieillard infortuné,
 Marches-tu sans effroi, d'écueils environné ?
@@ -1678,4 +1702,3 @@ Mais, Madame, il paraît.
 Peut-être que le Prince à la mort échappé...
 
       Ô mon Roi ?
-

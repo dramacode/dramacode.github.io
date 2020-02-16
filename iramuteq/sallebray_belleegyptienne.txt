@@ -2,6 +2,7 @@
 
 **** *creator_sallebray *book_sallebray_belleegyptienne *style_verse *genre_show *dist1_sallebray_verse_show_belleegyptienne *dist2_sallebray_verse_show *id_dom-jean-de-carcame *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_domjeandecarcame
 
+
 Hé bien, es-tu content puissant Maistre des Dieux,
 Conessant le sujet qui m'amene en ces lieux ?
 Ay-je enfin satisfait à ta juste colere ?
@@ -762,8 +763,8 @@ Que de joye à la fois ! que de felicités !
 Madame, Amour, Monsieur, mon pere, ma Maitresse,
 A qui premier de vous faut-il que je m'adresse ?
 
-
 **** *creator_sallebray *book_sallebray_belleegyptienne *style_verse *genre_show *dist1_sallebray_verse_show_belleegyptienne *dist2_sallebray_verse_show *id_precieuse *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_precieuse
+
 
 Enfin, personne icy ne sçauroit nous entendre,
 Quel est donc le bon-heur que vous voulez m'apprendre ?
@@ -1406,8 +1407,8 @@ Enfin je suis à vous sans attendre deux ans.
 
       Je vous en prie aussi.
 
-
 **** *creator_sallebray *book_sallebray_belleegyptienne *style_verse *genre_show *dist1_sallebray_verse_show_belleegyptienne *dist2_sallebray_verse_show *id_la-vieille *date_1642 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_lavieille
+
 
 Ha l'heureux accident⁎ ! l'admirable avanture⁎,
 Si j'en doy croire au moins certaine conjecture.
@@ -1666,8 +1667,8 @@ Je vous obeiray.
 
 Dés qu'il pourra marcher je vous l'amene icy.
 
-
 **** *creator_sallebray *book_sallebray_belleegyptienne *style_verse *genre_show *dist1_sallebray_verse_show_belleegyptienne *dist2_sallebray_verse_show *id_le-poete *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepoete
+
 
 C'est elle, je la voy.
 
@@ -1888,8 +1889,8 @@ Contre les trais⁎ du sort implorer assistance.
 
 Va, je reconnestray tant de soins obligeans⁎.
 
-
 **** *creator_sallebray *book_sallebray_belleegyptienne *style_verse *genre_show *dist1_sallebray_verse_show_belleegyptienne *dist2_sallebray_verse_show *id_le-capitaine *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecapitaine
+
 
 Il faut entretenir le feu qui le consome.
 
@@ -2067,8 +2068,16 @@ Payés d'une Cascade un si rare bien-fait,
 Faites le noble Andres témoin de vôtre adresse,
 Et dancés en faveur de sa belle Maitresse.
 
+**** *creator_sallebray *book_sallebray_belleegyptienne *style_verse *genre_show *dist1_sallebray_verse_show_belleegyptienne *dist2_sallebray_verse_show *id_egyptiens *date_1642 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_egyptiens
+
+
+Vive le noble Andrés, vive la Precieuse
+D'une vie à leur gré la plus delicieuse,
+Qu'Hymen⁎ joigne bien-tost ce beau couple d'Amans,
+Et que rien ne s'oppose à leurs embrassemens⁎.
 
 **** *creator_sallebray *book_sallebray_belleegyptienne *style_verse *genre_show *dist1_sallebray_verse_show_belleegyptienne *dist2_sallebray_verse_show *id_egyptien *date_1642 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_egyptien
+
 
 Sans doute nos mâtins font quelque bon repas,
 Ils cessent d'aboyer, suy moy, doublons le pas.
@@ -2103,8 +2112,8 @@ Voicy de la pratique.
 Si nous eussions préveu tant de contentement,
 Nous eussions augmenté ce divertissement⁎.
 
-
 **** *creator_sallebray *book_sallebray_belleegyptienne *style_verse *genre_show *dist1_sallebray_verse_show_belleegyptienne *dist2_sallebray_verse_show *id_ferdinand *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ferdinand
+
 
 Madame, il est certain qu'un foudre rougissant
 Devroit exterminer cet hydre renaissant,
@@ -2233,8 +2242,8 @@ Et que par vôtre choix voix l'Univers s'entretienne
 Du destin qu'épreuva la belle egiptienne.
 FIN.
 
-
 **** *creator_sallebray *book_sallebray_belleegyptienne *style_verse *genre_show *dist1_sallebray_verse_show_belleegyptienne *dist2_sallebray_verse_show *id_isabelle *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
 
 Vous voyés bien, Monsieur, par cet évenement,
 Qu'hier je combatois vos bontés justement,
@@ -2435,8 +2444,8 @@ Au nom de l'Hymenée⁎ embrassés-vous tous deux.
 
 Un Courier dés demain partira de Tolede.
 
-
 **** *creator_sallebray *book_sallebray_belleegyptienne *style_verse *genre_show *dist1_sallebray_verse_show_belleegyptienne *dist2_sallebray_verse_show *id_hipolite *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hipolite
+
 
       Le voyla, mais je tremble.
 
@@ -2607,8 +2616,8 @@ Encor sera-ce peu pour contenter son sang.
 
 Je sçauray reconnestre un si loüable office.
 
-
 **** *creator_sallebray *book_sallebray_belleegyptienne *style_verse *genre_show *dist1_sallebray_verse_show_belleegyptienne *dist2_sallebray_verse_show *id_le-prevost *date_1642 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_leprevost
+
 
 En quoy ? me voyla prest, et je me sens ravir
 Du glorieux bon-heur de vous pouvoir servir.
@@ -2655,3 +2664,7 @@ Fin du quatriéme Acte.
 C'est elle qui m'a dit que j'amenasse icy
 Ces gens que vous voyés.
 
+**** *creator_sallebray *book_sallebray_belleegyptienne *style_verse *genre_show *dist1_sallebray_verse_show_belleegyptienne *dist2_sallebray_verse_show *id_archer *date_1642 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_archer
+
+
+      Tu discoures encore.

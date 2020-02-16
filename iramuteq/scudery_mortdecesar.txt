@@ -2,6 +2,7 @@
 
 **** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *id_CESAR *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cesar
 
+
 La peine qu'elle sent,, me touche de pitié :
 Ce songe, est un effet d'une forte amitié
 Qui peignant mon visage, en l'imaginative,
@@ -198,8 +199,8 @@ Ha ! Perfide Casca, bons dieux que veux-tu faire ?
 
       Et toi mon fils aussi.
 
-
 **** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *id_CALPHURNIE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_calphurnie
+
 
 Au secours mes amis, des tigres sanguinaires,
 Exerçants sur César leurs fureurs ordinaires.
@@ -322,8 +323,8 @@ Souffrez-moi de mêler ce sang avec mes larmes :
 Et si quelque pitié règne en vos cœurs pour moi,
 Gardez bien d'en avoir, de ces hommes sans foi.
 
-
 **** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *id_BRUTE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brute
+
 
 Ne délibérons plus, le sort en est jeté :
 L'excès de prévoyance est une lâcheté :
@@ -735,8 +736,8 @@ De mourir noblement, si le sort l'a voulu.
 Puisse le Ciel touché, par un désir si beau,
 Nous rejoindre à la vie, ou du moins au tombeau.
 
-
 **** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *id_PORCIE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_porcie
+
 
 Ne me direz vos point quelle humeur solitaire,
 Vous éloigne de moi, vous oblige à vous taire ?
@@ -891,8 +892,8 @@ N'ébranlerons jamais, ton âme, ni mon cœur.
 Ma fin suivant la tienne (en étant éclaircie)
 Sera digne de Brute, et digne de Porcie.
 
-
 **** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *id_CASSIE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cassie
+
 
 Jeune et vaillant héros, de qui la République
 Espère sa franchise, et sa splendeur antique :
@@ -1033,8 +1034,8 @@ Fais donc quand tu voudras, notre destin tien.
 
 Je m'en vais les trouver.
 
-
 **** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *id_LEPIDE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepide
+
 
 À ceux de qui la main gouverne l'univers,
 Les plus grand ennemis sont les moins découverts :
@@ -1081,8 +1082,8 @@ Nous trois aurons en main la puissance Romaine ;
 Le travail et l'honneur seront pris en commun :
 Et ces traîtres auront trois maîtres, au lieu d'un.
 
-
 **** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *id_ANTOINE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antoine
+
 
 Je tiens que cette crainte a la raison pour guide ;
 Votre avis est le mien, sage et prudent Lépide ;
@@ -1358,8 +1359,35 @@ Qu'elle érige en son nom un temple magnifique,
 Allons le desseigner : et qu'on sache en tous lieux,
 QUE L'ILLUSTRE CÉSAR, EST UA NOMBRE DES DIEUX.
 
+**** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *id_LABEO *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_labeo
+
+
+Mon cœur est dans mes yeux ou je veux qu'on le voie,
+Sachant qu'il y paraît plein d'ardeur et de joie ;
+Déjà depuis longtemps ou l'oyait soupirer,
+Dans les pensers d'un bien qu'il n'osait espérer :
+Mais puisque Brute parle, et qu'une si grande âme,
+Brûle du même feu dont la mienne est en flamme,
+Est-il quelque plaisir qui se compare au mien ?
+Non, non, pour obtenir cette gloire immortelle,
+Il ne manquera pas d'un service fidèle ;
+Les hommes comme nous ne savent point trahir :
+C'est à lui d'ordonner, c'est à nous d'obéir.
+
+**** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *id_QUINTUS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_quintus
+
+
+Quand l'ennemi commun serait invulnérable,
+Mon bras entreprendrait sa défaite honorable ;
+L'oeil de Brute m'inspire, un désir violent,
+Qui trouve que le temps n'a son vol que trop lent :
+Une juste colère excite mon courage,
+Après ce haut exploit qui va finir l'orage ;
+Et je ne me veux plus estimer vrai Romain,
+Que le sang de César, n'ait fait rougir ma main.
 
 **** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *id_ALBIN *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_albin
+
 
 Brute ne sait-il pas que mon âme méprise,
 L'amitié du tyran, pour avoir la franchise ?
@@ -1385,3 +1413,52 @@ Puisque ce faux avis te conserve le jour.
 Entrons, pour avoir part à la prochaine gloire,
 Comme nous en aurons aux fruits de la victoire.
 
+**** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *id_ARTEMIDORE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artemidore
+
+
+Qu'ai-je entendu, bons Dieux ! Est-il bien véritable,
+Que je n'ai point songé ce conseil détestable ?
+Ô l'étrange dessein ! Ô l'horrible attentat !
+Ils parlent de sauver, et vont perdre l'État :
+Mais, sans perdre moi-même un temps nécessaire,
+Découvrons à César cette importante affaire,
+Afin que sa prudence ait loisir d'y pourvoir :
+Il semble que les Dieux m'enseignent mon devoir.
+
+Je viens pour t'avertir d'une affaire importante ;
+César, prends ce billet ; et le lis promptement.
+
+**** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *id_EMILIE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_emilie
+
+
+Le remède d'un mal qu'on ne peut empêcher,
+C'est de n'y songer pas, et de n'en plus chercher :
+Madame, au nom des Dieux, un peu de résistance
+À ce coup de malheur opposés la constance ;
+Et ne pouvant sauver cet excellent époux,
+En sauvant la raison, Madame, sauvez-vous.
+
+Oui, Madame, il en est.
+
+Vous en goûterez un, bien grand, et bien sensible,
+Lorsque ses assassins, ces tigres furieux,
+Sentirons à leur tour la colère des Cieux :
+Ô que votre âme alors se trouvera changée,
+En les voyant punis, et vous voyant vengée !
+Toutes les voluptés que cherchent nos désirs ;
+Les objets dont les sens font naître leurs plaisirs :
+Les bines, ni les grandeurs, n'ont rien qui se compare,
+Aux douceurs qu'on éprouve en la mort d'un barbare.
+Quand il nous a ravi (par la rage animé)
+Celui que nous aimons, comme il était aimé.
+Madame, vivez donc, puisque cette espérance,
+N'étant pas sans raison, n'est pas sans apparence,
+Suspendez la douleur puisqu'il vous est permis ;
+Et ne vous perdez point qu'après vos ennemis.
+
+**** *creator_scudery *book_scudery_mortdecesar *style_verse *genre_tragedy *dist1_scudery_verse_tragedy_mortdecesar *dist2_scudery_verse_tragedy *id_PHILIPPUS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philippus
+
+
+Le sacrifice est prêt.
+
+Le Sénat et le peuple.

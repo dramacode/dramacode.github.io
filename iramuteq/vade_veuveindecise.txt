@@ -2,6 +2,7 @@
 
 **** *creator_vade *book_vade_veuveindecise *style_verse *genre_opera comique *dist1_vade_verse_opera comique_veuveindecise *dist2_vade_verse_opera comique *id_ALISON *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alison
 
+
 D'un triste veuvage
 Je voudrais sortir :
 On peut, à mon âge,
@@ -198,8 +199,8 @@ Oui.
 
 J'en fais serment.
 
-
 **** *creator_vade *book_vade_veuveindecise *style_verse *genre_opera comique *dist1_vade_verse_opera comique_veuveindecise *dist2_vade_verse_opera comique *id_SUSON *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_suson
+
 
 Pourquoi donc tout ce bruit ?
 
@@ -330,8 +331,8 @@ Eh bien ! Le coeur t'en dit-il ?
 
 Moi, je prendrai Colin.
 
-
 **** *creator_vade *book_vade_veuveindecise *style_verse *genre_opera comique *dist1_vade_verse_opera comique_veuveindecise *dist2_vade_verse_opera comique *id_MATHURIN *date_1759 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mathurin
+
 
 Oui, te dis je ; son penchant pour moi la détermine.
 
@@ -473,8 +474,8 @@ Si tu lui donnes encore le temps de la réflexion, elle pourrait bine se dédire
 
 Ne faisons qu'une seule noce pour nous quatre, et vive le joie.
 
-
 **** *creator_vade *book_vade_veuveindecise *style_verse *genre_opera comique *dist1_vade_verse_opera comique_veuveindecise *dist2_vade_verse_opera comique *id_COLIN *date_1759 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colin
+
 
 Oh ! Je suis sûr que c'est moi qu'elle va couronner.
 
@@ -610,21 +611,3 @@ Puis-je compter sur toi ?
 
 Tu as raison.
 Eh bien ! C'est fait ; allons vite chez le notaire.
-
-Balancez à m'épouser,
-J'y consens, ma chère,
-Si moudre, bluter, sasser
-Vous pouvez tout faire ;
-Mais puisque votre moulin
-Ne peut aller sans Colin,
-C'est une sottise
-Que d'être indécise.
-Voici le moment, Messieurs,
-D'une épreuve rude.
-Pour l'auteur et les acteurs
-Quelle incertitude !
-Par un geste de la main
-Décidez notre destin.
-Frappez la reprise
-De la Veuve Indécise.
-

@@ -2,6 +2,7 @@
 
 **** *creator_bouilly *book_bouilly_descartes *style_prose *genre_trait historique *dist1_bouilly_prose_trait historique_descartes *dist2_bouilly_prose_trait historique *id_AMINTUS *date_1796 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amintus
 
+
 Ô mon cher maître ! Que le fanatisme a d'empire sur les âmes faibles, et qu'il sait bien les faire mouvoir à son gré !
 
 Le jugement n'est pas encore prononcé. Les magistrats balançant entre la justice qui vous est due, et la crainte de déplaire au parti puissant qui vous opprime, se sont retirés pour délibérer en secret : jamais cause ne fut plaidée avec plus de chaleur, et n'attira un plus nombreux auditoire. Falmar, votre défenseur, a déployé une force !... A fait briller une éloquence
@@ -73,8 +74,8 @@ Le voici !
 
 Ah ! Si son génie le met au rang des grands hommes ses actions le mettront également à cElui des bons coeurs.
 
-
 **** *creator_bouilly *book_bouilly_descartes *style_prose *genre_trait historique *dist1_bouilly_prose_trait historique_descartes *dist2_bouilly_prose_trait historique *id_MARCK *date_1796 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marck
+
 
 Eh enfin !... L'on peut prendre haleine... J'ai cru que nons n'achèverions jamais ce maudit chariot.
 Comment cela va-t-il ?
@@ -247,8 +248,8 @@ Si vous saviez ce qu'il a fait des mille florins !...
 
 De tout mon coeur.
 
-
 **** *creator_bouilly *book_bouilly_descartes *style_prose *genre_trait historique *dist1_bouilly_prose_trait historique_descartes *dist2_bouilly_prose_trait historique *id_FELICIO *date_1796 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_felicio
+
 
 Vous l'allez voir, vous dis-je ; mais sachez le respecter.
 
@@ -324,8 +325,8 @@ D'abord je commence paravouer, avec vous, que les deux tiers de cet argent ne pe
 
 Ah ! Monsieur, que ne vous dois-je pas !
 
-
 **** *creator_bouilly *book_bouilly_descartes *style_prose *genre_trait historique *dist1_bouilly_prose_trait historique_descartes *dist2_bouilly_prose_trait historique *id_FLORINA *date_1796 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_florina
+
 
 C'est moi, Monsieur Descartes... Je vous apporte votre thé.
 
@@ -449,4 +450,3 @@ Mon dieu, non.
 Nous n'avons cependant quitté cet atelier qu'un seul instant.
 
 Nous re l'oublierons jamais.
-

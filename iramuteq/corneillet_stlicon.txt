@@ -2,6 +2,7 @@
 
 **** *creator_corneillet *book_corneillet_stlicon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_stlicon *dist2_corneillet_verse_tragedy *id_HONORIUS *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_honorius
 
+
 Et bien, madame, enfin qu'avez-vous obtenu ?
 Vaincrons-nous cet orgueil dont l'indigne manie
 Aux voeux d'Eucherius refuse Placidie ?
@@ -675,8 +676,8 @@ Que de joindre pour lui mes soupirs à vos larmes,
 Et de voir qu'avec moi votre pitié d'accord,
 Me seconde à pleurer le malheur de sa mort.
 
-
 **** *creator_corneillet *book_corneillet_stlicon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_stlicon *dist2_corneillet_verse_tragedy *id_THERMANTIE *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thermantie
+
 
 Oui, j'ai parlé, mon frère, et pour toucher son âme
 Dans le plus vif excès j'ai porté votre flamme.
@@ -784,8 +785,8 @@ Lui peut faire au lieu d'une endurer mille morts.
 
 Ciel ! Quels malheurs plus grands pouvais-je redouter ?
 
-
 **** *creator_corneillet *book_corneillet_stlicon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_stlicon *dist2_corneillet_verse_tragedy *id_PLACIDIE *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_placidie
+
 
 Je sais ce qu'entre nous, quoi qu'égaux de naissance,
 L'avantage du trône a mis de différence,
@@ -1318,8 +1319,8 @@ Tu pus feindre !
 Attendant qu'à loisir on en puisse résoudre,
 suivez-le, Marcellin.
 
-
 **** *creator_corneillet *book_corneillet_stlicon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_stlicon *dist2_corneillet_verse_tragedy *id_STILICON *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_stilicon
+
 
       Qu'a l'empereur, madame ?
 Si j'en crois l'apparence il vous quitte en courroux.
@@ -1812,8 +1813,8 @@ Sachant ce qui m'est dû, seigneur, je vais l'attendre,
 Et connais trop encore un reste de devoir,
 Pour vous plus exposer à l'horreur de me voir.
 
-
 **** *creator_corneillet *book_corneillet_stlicon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_stlicon *dist2_corneillet_verse_tragedy *id_EUCHERIUS *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eucherius
+
 
 Jugez mieux d'un mépris dont le sort est complice,
 Il détruit mon espoir, mais il lui rend justice.
@@ -2174,8 +2175,8 @@ Leur zèle sera faux s'il peut noircir le mien.
 
 prononcez, je suis prêt.
 
-
 **** *creator_corneillet *book_corneillet_stlicon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_stlicon *dist2_corneillet_verse_tragedy *id_MARCELLIN *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marcellin
+
 
       Oui, seigneur, et la trêve
 Fait naître pleine joie alors qu'elle s'achève.
@@ -2278,8 +2279,8 @@ Mais de ce lâche coeur l'ingratitude extrême
 Ne souffre point pour moi de bourreau que moi-même.
 Lors un fer tout à coup dans son sein enfoncé...
 
-
 **** *creator_corneillet *book_corneillet_stlicon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_stlicon *dist2_corneillet_verse_tragedy *id_LUCILE *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucile
+
 
 Quelle bassesse d'âme éclate dans ce zèle
 Dont l'ardeur toute pure au trône vous appelle ?
@@ -2392,8 +2393,8 @@ Plaignant de l'empereur la triste destinée,
 J'ai long-temps au palais publié son trépas,
 Sans pouvoir bien connaître où je portais mes pas.
 
-
 **** *creator_corneillet *book_corneillet_stlicon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_stlicon *dist2_corneillet_verse_tragedy *id_MUTIAN *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mutian
+
 
 Seigneur, je vous dois tout, et quoi qu'on me propose,
 Pour venger votre outrage il n'est rien que je n'ose,
@@ -2474,3 +2475,9 @@ Que Felix par votre ordre ait pu le poignarder.
 J'ai tremblé toutefois quand j'ai su la disgrâce
 Je vous croyais perdu le voyant arrêté.
 
+**** *creator_corneillet *book_corneillet_stlicon *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_stlicon *dist2_corneillet_verse_tragedy *id_ZENON *date_1660 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_zenon
+
+
+Que contre vous, seigneur, une main parricide...
+Mais vous savez le nom du lâche, du perfide,
+Et vous aurez appris l'ordre de l'attentat ?

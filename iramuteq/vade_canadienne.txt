@@ -2,6 +2,7 @@
 
 **** *creator_vade *book_vade_canadienne *style_verse *genre_comedy *dist1_vade_verse_comedy_canadienne *dist2_vade_verse_comedy *id_LAMARQUISE *date_1758 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
 
+
 Hé bien, mon fils! Peut-on sur votre entêtement
 Vous dire encore un mot ? Quoi ! Raisonnablement
 Pouvez-vous renoncer à l'aimable Julie,
@@ -284,8 +285,8 @@ Partons. Combien de gens pourraient devenir sages,
 S'ils voulaient concevoir que souvent le bonheur
 Dépend de revenir d'une fatale erreur !
 
-
 **** *creator_vade *book_vade_canadienne *style_verse *genre_comedy *dist1_vade_verse_comedy_canadienne *dist2_vade_verse_comedy *id_LACOMTESSE *date_1758 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+
 
 Ah, j'espérais trouver la Marquise en ces lieux.
 Eh bien ! A-t-on gagné quelque chose sur elle ?
@@ -428,8 +429,8 @@ Vous saurez le détail...
 
 Mais ma nièce à présent est en Canadienne.
 
-
 **** *creator_vade *book_vade_canadienne *style_verse *genre_comedy *dist1_vade_verse_comedy_canadienne *dist2_vade_verse_comedy *id_DORIMONT *date_1758 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorimont
+
 
       Parbleu, j'en aurais fait autant.
 Elle a raison. Il faut chercher l'amusement
@@ -635,8 +636,8 @@ Je veux que tu sois toi... Quand je fus à Goa...
 Oui... J'en ajouterai cinquante, je vous jure.
 Moi, quand je n'en sais point, sur le champ je les fais.
 
-
 **** *creator_vade *book_vade_canadienne *style_verse *genre_comedy *dist1_vade_verse_comedy_canadienne *dist2_vade_verse_comedy *id_JULIE *date_1758 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+
 
       J'ai beau m'examiner,
 Je n'aurai jamais l'air d'une Canadienne.
@@ -738,8 +739,8 @@ Il faudraît pourtant l'être...
 
       Hélas ! Je meurs d'effroi,
 
-
 **** *creator_vade *book_vade_canadienne *style_verse *genre_comedy *dist1_vade_verse_comedy_canadienne *dist2_vade_verse_comedy *id_LECHEVALIER *date_1758 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
 
 De ces gens quelquefois la science est bornée :
 Mais celui qui fans fard m'apprit ma destinée,
@@ -1031,8 +1032,8 @@ Mon bonheur et la fin de ma bizarre de
 Sont l'ouvrage parfait de votre tendre amour.
 Le mien peut-il jamais vous...
 
-
 **** *creator_vade *book_vade_canadienne *style_verse *genre_comedy *dist1_vade_verse_comedy_canadienne *dist2_vade_verse_comedy *id_LISETTE *date_1758 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
       Madame, un nommé Brigantin,
 Arrivé, m'a-t-il dit, d'un pays fort lointain,
@@ -1124,8 +1125,8 @@ J'en douterais encor sans le son de sa voix.
 
       C'est trop l'humilier.
 
-
 **** *creator_vade *book_vade_canadienne *style_verse *genre_comedy *dist1_vade_verse_comedy_canadienne *dist2_vade_verse_comedy *id_FRONTIN *date_1758 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+
 
 De bonne foi, Monsieur , vous donnez là-dedans ?
 Moi qui n'ai pour esprit que fort peu de bon sens;
@@ -1295,8 +1296,8 @@ On peut leut souhaiter à tous un bon voyage.
 Mais, qui diable l'aurait connue à son silence ?
 Même je doute encor...
 
-
 **** *creator_vade *book_vade_canadienne *style_verse *genre_comedy *dist1_vade_verse_comedy_canadienne *dist2_vade_verse_comedy *id_BRIGANTIN *date_1758 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brigantin
+
 
       Madame
 Veut elle se charger...
@@ -1313,4 +1314,3 @@ De répondre.
 
       Soit chagrin, soit dégoût,
 Soit accident, Zinca ne parle point du tout.
-

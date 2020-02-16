@@ -2,6 +2,7 @@
 
 **** *creator_desfontaines *book_desfontaines_belisaire *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_belisaire *dist2_desfontaines_verse_tragedy *id_justinian *date_1641 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_justinian
 
+
 Levez-vous.
 
 Non, je n'écoute rien en l'estat où vous estes,
@@ -154,8 +155,8 @@ Et le mesme pouvoir que je craignois si fort,
 Loin de nous abismer nous a mis dans le port.
 FIN.
 
-
 **** *creator_desfontaines *book_desfontaines_belisaire *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_belisaire *dist2_desfontaines_verse_tragedy *id_vitigez *date_1641 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_vitigez
+
 
 Ce propos genereux⁎ divine Amalazonthe,
 Veut faire voir icy vôtre gloire & ma honte,
@@ -290,8 +291,8 @@ Illustres sentimens d'une ame genereuse⁎ !
 
 Douce punition ! agreable sentence !
 
-
 **** *creator_desfontaines *book_desfontaines_belisaire *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_belisaire *dist2_desfontaines_verse_tragedy *id_iskirion *date_1641 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_iskirion
+
 
       Vous voulez mon trépas,
 Bien, mais auparavant vous connoistrez mon bras,
@@ -537,8 +538,8 @@ Permettre que mon coeur soit tout à Belisaire,
 Et par un zele ardent que je monstre en ce jour,
 Qu'il est des amitiez plus fortes que l'amour.
 
-
 **** *creator_desfontaines *book_desfontaines_belisaire *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_belisaire *dist2_desfontaines_verse_tragedy *id_belisaire *date_1641 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_belisaire
+
  
 Je plaindrois vostre sort illustre Amalazonthe,
 Si vous ne voyez pas celuy qui vous surmonte,
@@ -1175,8 +1176,8 @@ Mille torrents de gloire, & de prosperité.
 
 Voyez, Amalazonthe, où le sort me destine.
 
-
 **** *creator_desfontaines *book_desfontaines_belisaire *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_belisaire *dist2_desfontaines_verse_tragedy *id_narses *date_1641 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_narses
+
 
       Mais amant adorable,
 Car c'est heureusement perdre sa liberté,
@@ -1281,8 +1282,17 @@ Que me privant du jour je ne le verray point.
 Adieu, cruel amy, le Ciel te soit prospere,
 Et rende ton destin plus doux que je n'espere.
 
+**** *creator_desfontaines *book_desfontaines_belisaire *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_belisaire *dist2_desfontaines_verse_tragedy *id_pyrandre *date_1641 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pyrandre
+
+
+      Arrestez-la, que voulez-vous ?
+ 
+Mais l'Empereur me fait une expresse defense...
+
+Ah, Madame, en ce cas j'obeis & me tais.
 
 **** *creator_desfontaines *book_desfontaines_belisaire *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_belisaire *dist2_desfontaines_verse_tragedy *id_doristel *date_1641 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_doristel
+
 
 Le voila.
 
@@ -1338,8 +1348,8 @@ Ne recognoissons pas des bien-faicts par un crime,
 Et de la mesme main qui desseignoit sa mort,
 Redonnons luy le jour & mesme quand il dort.
 
-
 **** *creator_desfontaines *book_desfontaines_belisaire *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_belisaire *dist2_desfontaines_verse_tragedy *id_diophante *date_1641 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_diophante
+
 
 Dieux, qu'est-ce que je vois ? ah, Seigneur !
 
@@ -1362,8 +1372,8 @@ Et bien, j'obeïray.
 
 J'obeis.
 
-
 **** *creator_desfontaines *book_desfontaines_belisaire *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_belisaire *dist2_desfontaines_verse_tragedy *id_theodore *date_1641 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_theodore
+
 
       Amour incomparable.
 
@@ -1787,8 +1797,8 @@ Meritoient...
 
       Que dit-il ?
 
-
 **** *creator_desfontaines *book_desfontaines_belisaire *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_belisaire *dist2_desfontaines_verse_tragedy *id_sophie *date_1641 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_sophie
+
 
 Amant infortuné⁎.
 
@@ -2075,8 +2085,8 @@ Aux deux bouts de la terre estendre vostre Empire,
 Et puisse estre aux humains vostre regne aussi doux,
 Que le servage⁎ heureux que je reçois de vous.
 
-
 **** *creator_desfontaines *book_desfontaines_belisaire *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_belisaire *dist2_desfontaines_verse_tragedy *id_amalazonthe *date_1641 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_amalazonthe
+
 
       Ah ! Seigneur vous estes trop Auguste⁎,
 Devant mon Empereur ce respect est bien juste,
@@ -2246,4 +2256,3 @@ Qui prenant sur vostre ame un plus juste pouvoir,
 Vous oste un vain amour, & me rend mon espoir.
 
 Que j'adore les loix d'une telle ordonnance !
-

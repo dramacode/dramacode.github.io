@@ -2,6 +2,7 @@
 
 **** *creator_mercier *book_mercier_habitantguadeloupe *style_prose *genre_drame *dist1_mercier_prose_drame_habitantguadeloupe *dist2_mercier_prose_drame *id_MADAMEDORTIGNI *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedortigni
 
+
 Que vous êtes maussade !... Vous ne tenez pas compte des jours où je gagne.
 
 Vous ne risquez rien de m'avancer pour aujourd'hui cent louis. Je jouerai avec Artémise : c'est la folle la plus étourdie.... Donnez-moi cent louis, vous dis-je, je vous réponds que j'en gagnerai mille, et nous serons de moitié.
@@ -238,8 +239,8 @@ Ah ! De tout mon coeur.
 Pourrai-je me vaincre ?... Essayons. Ah !
 Dieu ! Je n'en puis plus... Je me meurs...
 
-
 **** *creator_mercier *book_mercier_habitantguadeloupe *style_prose *genre_drame *dist1_mercier_prose_drame_habitantguadeloupe *dist2_mercier_prose_drame *id_MADAMEMILVILLE *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamemilville
+
 
 Il n'y a point de honte, ma chère Brigitte, à travailler pour jeter un peu plus d'aisance dans sa maison, surtout lorsqu'on est mère de famille... Mais tu me feras plaisir de te charger toujours du soin de la vente... C'est un égard que je dois à la mémoire d'un époux qui ne croyait pas, hélas ! Me laisser dans une pareille situation.
 
@@ -466,8 +467,8 @@ Est-il possible !... Il faut du secours.
 
 Elle ne revient point.
 
-
 **** *creator_mercier *book_mercier_habitantguadeloupe *style_prose *genre_drame *dist1_mercier_prose_drame_habitantguadeloupe *dist2_mercier_prose_drame *id_VANGLENNE *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_vanglenne
+
 
 Dieu soit loué, mon cher cousin ! Que j'ai de joie à vous revoir ! M'auriez-vous entièrement oublié ?
 
@@ -828,8 +829,8 @@ Allons, madame, voilà le sceau éternel de la réconciliation, elle sera entiè
 Qu'on la transporte.
 Femme cruelle et lâche ! Tu n'étais pas même digne de ma vengeance... Je la regrette... Oublions, dans le sein de l'amitié, qu'il existe des coeurs à ce point insensibles et envieux.
 
-
 **** *creator_mercier *book_mercier_habitantguadeloupe *style_prose *genre_drame *dist1_mercier_prose_drame_habitantguadeloupe *dist2_mercier_prose_drame *id_MULSON *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mulson
+
 
 En croirai-je mes yeux ? Dourville à Paris.
 
@@ -948,8 +949,8 @@ Ils y seront très sensibles, je vous assure.
 Bon, tout va bien.
 Quand je me mêle de quelque chose, cela réussit toujours.
 
-
 **** *creator_mercier *book_mercier_habitantguadeloupe *style_prose *genre_drame *dist1_mercier_prose_drame_habitantguadeloupe *dist2_mercier_prose_drame *id_BRIGITTE *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brigitte
+
 
 Ma chère maîtresse, voici le produit de nos petits travaux. J'ai rencontré un marchand qui a trouvé votre ouvrage d'une délicatesse exquise, surprenante, et qui m'a promis de le bien payer chaque fois que je lui en apporterais.... Tenez, serrez cela.
 
@@ -994,4 +995,3 @@ Madame, madame, un équipage... De grands valets... Ah, madame, madame, miracle,
 C'est madame votre belle-soeur qui monte en personne à votre quatrième étage.
 
 Eh bien, est-elle assez impudente, assez menteuse, assez basse ? Et de l'orgueil encore ! Je l'observais ; chaque mot de votre bouche était pour elle un coup de poignard. Elle a frémi du porte-feuille ; elle a éprouvé le plus violent dépit ; elle se déguise habilement, mais son regard la trahit malgré elle. Comme elle souffrait en affectant un sentiment qui n'est pas dans son coeur ! Elle n'a que le désespoir de l'avarice.
-

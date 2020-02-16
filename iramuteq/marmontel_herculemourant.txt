@@ -2,6 +2,7 @@
 
 **** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *id_HERCULE *date_1761 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hercule
 
+
 Trompeuse image de ma gloire,
 Cachez ma honte à l'univers.
 Destructeur des tyrans de la terre et des mers,
@@ -139,8 +140,8 @@ Mon fils, j'aurai sur vous les yeux.
 Princesse, embellissez la terre par vos charmes ;
 Mais tournez quelquefois vos regards vers les cieux.
 
-
 **** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *id_DEJANIRE *date_1761 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dejanire
+
 
 Dircé, voici le jour où mon sort se décide,
 Le jour qui doit me rendre Alcide,
@@ -296,8 +297,8 @@ Mais en fermant les yeux de ton malheureux père,
 Peins-lui le désespoir de ta coupable mère ;
 Et dis-lui que mon coeur l'a toujours adoré.
 
+**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *id_HILUS *date_1761 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_hilus
 
-**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *id_HILUS *date_1761 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_hilus
 
 Il revient ; Junon même à ce vainqueur rapide
 Se lasse d'opposer d'inutiles efforts.
@@ -438,8 +439,8 @@ Les dieux me puniraient si je n'étais parjure.
 
 Mon père !
 
-
 **** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *id_PHILOCTETE *date_1761 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philoctete
+
 
 Au pied du monte Olympe, une illustre jeunesse
 Vient célébrer les jeux que tu fais publier.
@@ -479,8 +480,8 @@ Alcide !... Quels gémissements !
 
       Alcide.
 
-
 **** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *id_IOLE *date_1761 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iole
+
 
 Quelle voix suspend mes alarmes ?
 Quel Dieu vient adoucir la rigueur de mes fers ?
@@ -551,8 +552,8 @@ De ces bords dangereux laissez-moi me bannir.
 Elle vient d'expirer, en demandant aux dieux
 D'épuiser leur rigueur sur elle.
 
-
 **** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *id_DIRCE *date_1761 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dirce
+
 
 Junon le tient sous sa puissance,
 Elle a prolongé ses travaux.
@@ -583,8 +584,39 @@ Nessus vous l'a prédit expirant à vos yeux.
 
 Reine, qui peut vous alarmer ?
 
+**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *id_JUPITER *date_1761 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
+
+
+Viens, mon fils, viens jouir de ta gloire nouvelle,
+La flamme a consumé ta dépouille mortelle ;
+Triomphe du trépas, affranchi toi des lois.
+Dieux, il est votre égal. Terre, il est mon image.
+Mondes qui m'adorez, rendez-lui votre hommage.
+Astres brillants des cieux, retracez ses exploits...
+
+**** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *id_JUNON *date_1761 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junon
+
+
+N'es-tu qu'à moi seule fatale,
+Jalousie infernale ?
+Dans les cieux, sur la terre, attachée à mes pas,
+Tu montes sur ton char, tu ne me quittes pas.
+N'es-tu qu'à moi seule fatale,
+Jalousie infernale ?
+Ne sais-tu tourmenter que le coeur de Junon ?
+Vois la gloire d'Alcide, et l'éclat de son nom ;
+Vois le triomphe heureux que ce rivage étale.
+Jalousie infernale,
+Ne sais-tu tourmenter que le coeur de Junon ?
+
+Va, répands dans son sein les feux qui me consument,
+Ces feux que la vengeance et que l'amour allument.
+Déjanire aime son époux ;
+Invisible à ses yeux, et sans cesse autour d'elle,
+Va signaler ta rage en servant mon courroux.
 
 **** *creator_marmontel *book_marmontel_herculemourant *style_verse *genre_opera *dist1_marmontel_verse_opera_herculemourant *dist2_marmontel_verse_opera *id_LAJALOUSIE *date_1761 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lajalousie
+
 
 Non, non, dans la nature entière
 Tous les heureux sont mes rivaux.
@@ -602,4 +634,3 @@ Oui, c'est la Jalousie, compagne et tyran de l'Amour.
 
       Je servais Junon, et Dircé m'a servie.
 Pleure Alcide expirant ; tu le perds sans retour.
-

@@ -2,6 +2,7 @@
 
 **** *creator_voltaire *book_voltaire_barondotrante *style_verse *genre_opera bouffe *dist1_voltaire_verse_opera bouffe_barondotrante *dist2_voltaire_verse_opera bouffe *id_IRENE *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_irene
 
+
 Il n'est point à propos, mon cousin, que je chante ;
 Je n'en ai nulle envie on pleure dans Otrante :
 Vos conseillers privés prennent tout notre argent ;
@@ -165,8 +166,8 @@ Verse, verse, mon bel amant :
 Ah ! Que tu verses tendrement
 Tous les feux d'amour dans mon verre !
 
-
 **** *creator_voltaire *book_voltaire_barondotrante *style_verse *genre_opera bouffe *dist1_voltaire_verse_opera bouffe_barondotrante *dist2_voltaire_verse_opera bouffe *id_ABDALLA *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_abdalla
+
 
 Non amazzar,
 No, no, non amazzar.
@@ -249,4 +250,3 @@ Si, si, brindisi a te,
 Che veggo ! Che veggo !
 
 Levanti, venite !
-

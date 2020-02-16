@@ -1,6 +1,7 @@
 
 
-**** *creator_euripide *book_euripide_herculefurieux *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_herculefurieux *dist2_euripide_prose_tragedy *id_AMPHITRYON *date_1880 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_amphitryon
+**** *creator_euripide *book_euripide_herculefurieux *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_herculefurieux *dist2_euripide_prose_tragedy *id_AMPHITRYON *date_1880 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_amphitryon
+
 
 Est-il un mortel qui ne connaisse celui dont Jupiter partagea la couche nuptiale, l'argien Amphitryon, qu'engendra jadis Alcée, fils de Persée, et qui fut père d'Hercule ? Le héros habita cette ville de Thèbes, où sortit du sein de la terre une moisson de guerriers dont Mars ne sauva qu'un petit nombre. C'est eux dont la postérité peupla la ville de Cadmus ; c'est d'eux que naquit Créon, fils de Ménecée et roi de ce pays. Or, Créon est le père de Mégare que Thèbes entière accueillit jadis par un joyeux hyménée, soutenu des sons de la flûte, le jour où l'illustre Hercule l'épousa et la conduisit dans ma demeure. Mais quittant Thèbes, où je m'étais transporté, et Mégare, et sa nouvelle famille, mon fils a désiré habiter Argos, la ville bâtie par les Cyclopes, d'où je suis exilé pour avoir tué Electryon. Voulant adoucir mes infortunes et me voir rentrer dans ma patrie, il entreprit de pacifier l'Univers (c'était payer chèrement à Eurysthée mon retour), soit que Junon l'eût percé de son aiguillon, soit que tel fût l'arrêt du destin. Il a heureusement accompli ses autres travaux ; mais descendu, comme dernière épreuve, par l'ouverture du Ténare jusque dans le royaume de Pluton, pour amener à la lumière le chien à triple corps, il n'en est point revenu. Or les Thébains publient, et c'est une antique tradition, qu'un certain Lycus, époux de Dircé, gouverna autrefois la ville aux sept tours, avant le règne des deux fils de Jupiter aux blancs coursiers, Amphion et Zéthus. Un descendant de ce Lycus, qui s'appelle comme son père et n'est point Thébain, mais originaire de l'Eubée, a tué Créon et règne sur ce pays, dont il a surpris la capitale en proie à la sédition. La parenté qui nous unit à Créon est pour nous, à ce qu'il paraît, la source des plus grands malheurs. Car, tandis que mon fils est dans les entrailles de la terre, ce Lycus, l'illustre roi de cette contrée, veut anéantir la postérité d'Hercule en tuant à la fois, pour effacer le meurtre par le meurtre, et son épouse et moi-même, inutile vieillard qui ne compte plus parmi les hommes : il craint qu'un jour ces enfants, devenus hommes, ne lui demandent compte du meurtre de leur oncle maternel. Et moi, qu'Hercule, mon fils, a laissé dans ce palais pour garder et élever ses enfants, lorsqu'il descendit dans les ténèbres souterraines, je viens avec leur mère, pour les dérober au trépas, m'asseoir à l'autel que mon noble fils a élevé à Jupiter libérateur en souvenir de sa glorieuse victoire sur les Myniens. Et moi, qu'Hercule, mon fils, a laissé dans ce palais pour garder et élever ses enfants, lorsqu'il descendit dans les ténèbres souterraines, je viens avec leur mère, pour les dérober au trépas, m'asseoir à l'autel que mon noble fils a élevé à Jupiter libérateur en souvenir de sa glorieuse victoire sur les Myniens. Nous restons dans cet asile, dénués de tout, d'aliments, de boisson, de vêtements, couchés sur la terre nue : car, chassés de nos foyers, c'est le désespoir qui nous a conduits en ce lieu. Parmi nos amis, je vois que les uns ne sont pas sûrs, et que les autres, restés fidèles, ne peuvent nous venir en aide. Tel est l'effet de l'adversité ; et puisse celui-là même qui ne me veut que peu de bien n'en faire jamais l'expérience ! Elle est l'épreuve la plus sûre de l'amitié.
 
@@ -148,8 +149,8 @@ Quand seras-tu de retour ?
 
 Comment ?
 
-
 **** *creator_euripide *book_euripide_herculefurieux *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_herculefurieux *dist2_euripide_prose_tragedy *id_MEGARE *date_1880 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_megare
+
 
 Ô vieillard, qui renversas jadis la ville des Taphiens et commandais glorieusement l'armée Thébaine : rien de ce qui vient des dieux n'est sûr pour les mortels. C'est ainsi que, du côté paternel, la fortune m'avait bien traitée : Créon était fier autrefois de son opulence et exerçait cette royauté que l'on jalouse et que l'assaut des lances ennemies dispute à leurs heureux possesseurs ; il avait des enfants et me donna en mariage à ton fils Hercule, qui trouvait en moi une illustre épouse. Aujourd'hui tous ces biens ne sont plus, ils se sont envolés. Je vais périr avec toi, vieillard, avec les enfants d'Hercule que j'abrite sous mes ailes, comme un oiseau fait sa tendre couvée. Ils se pressent à l'envi autour de moi pour m'interroger : « Mère, disent-ils, en quel lieu de la terre notre père est-il parti ? Que fait-il ? Quand viendra-t-il ? » Trompés par l'innocence de leur âge, ils demandent leur père. Et moi, je leur réponds par des paroles évasives, et, quand la porte résonne, je demeure saisie ; tous s'élancent, dans la pensée qu'ils vont embrasser les genoux de leur père. Maintenant donc, vieillard, quelle espérance, quelle voie de salut s'offre à tes yeux : car c'est vers toi que je tourne mes regards. Nous ne saurions franchir, sans être aperçus, les limites de cet État ; des gardes, plus forts que nous, ferment tous les passages : nous ne devons pas non plus compter pour nous sauver sur le secours de nos amis. Dis-moi donc, vieillard, quelle est ta pensée : gardons6nous, tandis que la mort s'apprête pour nous, et faibles comme nous sommes, de traîner le temps en longueur.
 
@@ -197,8 +198,8 @@ En est-il donc pour l'homme malheureux ?
 
 Le malheur, je te le répète, n'a pas d'amis.
 
+**** *creator_euripide *book_euripide_herculefurieux *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_herculefurieux *dist2_euripide_prose_tragedy *id_LECHOEUR *date_1880 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_lechoeur
 
-**** *creator_euripide *book_euripide_herculefurieux *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_herculefurieux *dist2_euripide_prose_tragedy *id_LECHOEUR *date_1880 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_lechoeur
 
 J'ai pris mon chemin, appuyé sur un bâton, vers le toit qui abrite Amphitryon et le lit où repose sa vieillesse, et j'entonne un chant plaintif, comme le cygne au blanc plumage ; je n'apporte,que des paroles, une ombre fugitive, semblable aux visions des songes, et une voix tremblante mais que le zèle anime. Ô enfants, qui n'avez plus de père ! Ô vieillard ! Ô malheureuse mère qui pleure un époux disparu dans le royaume de Pluton ! Ne vous fatiguez pas à mouvoir vos pieds et vos membres appesantis par l'âge, comme ce coursier qui gravit sous le joug la pente d'un rocher et qui succombe à l'effort. Prends ma main, attache-toi à mes vêtements, si le pied trop faible t'a manqué ; vieillard, conduis un vieillard, comme autrefois, jeunes gens, nous avons uni nos lances dans les travaux de la guerre, pour l'honneur de notre glorieuse patrie. Voyez les éclairs qui jaillissent de leurs yeux : comme ils ressemblent à leur père Sa beauté revit en eux, et son infortune ne les a point quittés depuis l'enfance. Ô Grèce, de quels défenseurs tu seras privée en les perdant ! — Mais je vois le souverain de ce pays, Lycus, qui s'approche de ce temple.
 
@@ -260,8 +261,8 @@ Je t'accompagnerai, je ne trahirai point l'infortune.
 
 Nous partons, vieillards misérables et gémissants, après avoir perdu les meilleurs des amis.
 
-
 **** *creator_euripide *book_euripide_herculefurieux *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_herculefurieux *dist2_euripide_prose_tragedy *id_LYCUS *date_1880 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lycus
+
 
 Je veux interroger, si j'en ai le droit, le père et l'épouse d'Hercule ; or, j'ai ce droit, puisque je suis votre maître, de vous questionner à mon gré. Jusqu'à quel terme prétendez-vous prolonger votre vie ? Quel espoir, quel secours s'offre à vos yeux, qui vous défende contre la mort ? Croyez-vous que le père de ces enfants reviendra des Enfers où il est enseveli ? Parce qu'il faut que vous mouriez, vous vous livrez à un désespoir peu digne de vous, toi qui te vantes sottement par toute la Grèce que Jupiter t'a rendue mère d'un nouveau dieu, toi, qui fus appelée l'épouse du plus vaillant héros. Et qu'a donc fait de si glorieux cet époux, en tuant l'Hydre de Lerne ou le lion de Némée ? Il l'a pris dans ses filets et a prétendu l'avoir étouffé dans ses bras. Voilà avec quelles armes vous luttez contre moi ? Voilà pourquoi les enfants d'Hercule doivent échapper au trépas ? Hercule a passé pour un héros, et c'était un homme de rien : bon pour combattre les animaux, incapable d'autres exploits, on ne le vit point armer son bras gauche du bouclier, affronter de près la lance ; mais tenant en main son arc, la plus lâche des armes, il était toujours prêt à fuir. Or, le courage du guerrier se montre, non pas à lancer des flèches, mais à mesurer de l'oeil, sans broncher à son rang, le sillon rapide que trace la lance. Ma conduite, vieillard, n'est pas inspirée par la cruauté, mais par la prudence : je le sais pour avoir tué Créon, le père de cette femme, et m'être emparé de son trône. Je ne veux point épargner ces enfants, pour que, devenus grands, ils s'érigent en vengeurs et me punissent de ce que j'ai fait.
 
@@ -288,8 +289,26 @@ Ah ! Ah !
 
 Ô terre de Cadmus ! Je péris victime de la trahison.
 
+**** *creator_euripide *book_euripide_herculefurieux *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_herculefurieux *dist2_euripide_prose_tragedy *id_IRIS *date_1880 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iris
+
+
+Rassurez-vous, vieillards, en voyant Lyssa, fille de la Nuit, et Iris, la messagère des dieux : car nous ne venons pas perdre cette cité ; nous ne poursuivons qu'une famille, celle du héros qu'on dit fils de Jupiter et d'Alcmène. Avant qu'il eût achevé ses pénibles travaux, le destin le protégeait, et Jupiter, son père, ne nous permettait, ni à Junon, ni à moi, de le persécuter. Maintenant qu'il est quitte des rudes épreuves que lui imposait Eurysthée, Junon veut qu'il verse le sang de victimes nouvelles et soit le meurtrier de ses enfants ; et ce qu'elle veut, je le veux aussi. Va donc, fille de la sombre Nuit, vierge étrangère à l'hymen ; et, armée d'un coeur inexorable, souffle, inspire à ce héros la démence, l'égarement homicide, les bonds furieux ; enveloppe-le dans des lacs de sang ; qu'il égorge de sa propre main et fasse passer l'Achéron à cette jeune et belle famille qui l'entoure, afin qu'il connaisse quel est le courroux de Junon et quel est le mien. Les dieux ne seront comptés pour rien, et les mortels seront grands, si Hercule n'est point puni.
+
+Abstiens-toi de combattre les résolutions de Junon et les miennes.
+
+L'épouse de Jupiter ne t'a point envoyée ici pour faire étalage de modération.
+
+**** *creator_euripide *book_euripide_herculefurieux *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_herculefurieux *dist2_euripide_prose_tragedy *id_LYSSA *date_1880 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lyssa
+
+
+Je suis née d'un noble père et d'une noble mère ; fille du Ciel et de la Nuit, la charge que je remplis ici, mes amis n'en seront point jaloux, et c'est à regret que je persécute ceux que j'aime. Je veux donc vous exhorter, Junon et toi, avant de vous voir faire fausse route, à prêter l'oreille à mes discours. L'homme, dans la maison duquel vous m'envoyez, n'est obscur ni sur la terre ni chez les dieux. Après avoir ramené la paix dans des contrées inaccessibles et sur le sauvage Océan, seul il a rétabli dans leurs honneurs les dieux outragés par des impies : aussi je ne te conseille pas de t'attirer de grands malheurs.
+
+Je veux te ramener de la mauvaise voie dans la bonne.
+
+Que le soleil me soit témoin que j'agis contre ma volonté. Mais, s'il faut absolument obéir à Junon et à toi, s'il faut courir et s'élancer à votre suite, comme le chien suit le chasseur, j'irai : ni la mer, aux flots mugissants, ni les secousses de la terre ébranlée, ni la chute rapide de la foudre, féconde en douleurs, n'égaleront l'impétuosité de Lyssa envahissant le coeur d'Hercule : je briserai les murs de son palais, et je renverserai l'édifice, après avoir tout d'abord fait périr ses enfants ; l'assassin ne saura pas qu'il tue ceux auxquels il a donné l'être, avant que je l'aie délivré de mes transports. Regarde : il secoue déjà la tête pour commencer, et roule en silence des yeux égarés, farouches ; il ne peut retenir son souffle, comme un taureau qui s'apprête à bondir, et il pousse des mugissements terribles en invoquant les Furies du Tartare. Bientôt j'exciterai en lui de plus violents transports, et je le frapperai de crainte. Va, noble Iris, et reporte tes pas vers l'Olympe ; moi, je pénétrerai, invisible, dans le palais d'Hercule.
 
 **** *creator_euripide *book_euripide_herculefurieux *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_herculefurieux *dist2_euripide_prose_tragedy *id_HERCULE *date_1880 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hercule
+
 
 Je te salue, palais, et toi, seuil de mes foyers ! Que je suis heureux de vous revoir en revenant à la lumière !... Hein ! Qu'est-ce à dire ? Je vois mes enfants, à l'entrée de ma demeure, la tête couronnée de voiles funèbres, et mon épouse entourée d'une foule de vieillards, et mon père déplorant quelque malheur. Allons, approchons-nous, pour savoir quel événement nouveau est survenu dans cette maison.
 
@@ -439,8 +458,8 @@ Quand tu auras enseveli mes enfants.
 
 Je te ferai venir de Thèbes à Athènes. Mais donne la sépulture à ces corps : douloureux office ! Et moi, qui par d'infâmes attentats ai ruiné ma maison, je suivrai Thésée comme un navire désemparé. Quiconque désire posséder la richesse ou la puissance plutôt qu'un ami fidèle est mal inspiré.
 
-
 **** *creator_euripide *book_euripide_herculefurieux *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_herculefurieux *dist2_euripide_prose_tragedy *id_THESEE *date_1880 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thesee
+
 
 Je viens, suivi d'une troupe de guerriers Athéniens qui m'attendent sur les bords de l'Asopus, prêter à ton fils, ô vieillard, le secours de ma lance. Car le bruit s'est répandu, dans la terre d'Erechthée, que Lycus s'est emparé du sceptre de ce pays et s'apprête à vous faire la guerre. Voulant témoigner ma reconnaissance à Hercule, qui m'a ramené sain et sauf des Enfers, je viens mettre à votre service, vieillard, mon bras et mes amis... Hein ! Pourquoi le sol est-il jonché de ces cadavres ? Suis-je en retard, et des malheurs récents ont-ils précédé mon arrivée ? Qui a tué ces enfants ? Quel est l'époux de cette femme que je vois ? Sans doute ces enfants ne prennent point part aux combats, et je suis sur la trace de quelque autre malheur extraordinaire.
 
@@ -513,4 +532,3 @@ Qu'est devenu le grand Hercule ?
 Si tu veux connaître l'état de mon coeur, j'étais le plus faible des hommes.
 
 Avance.
-

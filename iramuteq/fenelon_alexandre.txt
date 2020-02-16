@@ -2,6 +2,7 @@
 
 **** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *id_ALEXANDRE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alexandre
 
+
 Marchons à Darius, amis à force ouverte !
 Les Destins à ce jour ont attaché sa perte.
 Hâtons-nous de poursuivre un Ennemi qui fuit ;
@@ -417,8 +418,8 @@ Je pourrai vous venger du sort qui vous outrage.
 Oui, charmante Princesse ; et pour vous dire plus,
 Je vous réserve un prix digne de vos vertus.
 
-
 **** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *id_SYSIGAMBIS *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sysigambis
+
 
 LA bataille se donne, hélas ! presque à nos yeux,
 Et l'on n'en voit personne arriver dans ces lieux !
@@ -628,8 +629,8 @@ Qu'à prendre le parti qui court moins de danger.
 Il faut que dans l'instant, par ma bouche, Alexandre
 Sache ce que vous est le prisonnier Nicandre.
 
-
 **** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *id_STATIRA *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_statira
+
 
 Notre frayeur, Madame, outrage nos Persans ;
 Et peut-être vont-ils arriver triomphants.
@@ -697,8 +698,8 @@ Vous voilà bien troublé !
 JAMAIS impunément on ne peut l'outrager,
 Tout jusqu'à ses bienfaits a soin de le venger.
 
-
 **** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *id_SITALCE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sitalce
+
 
 Oui, je crois, Philotas, que du poids de ses fers
 Alexandre prétend charger tous l'univers.
@@ -980,8 +981,8 @@ Je ne puis soutenir votre auguste présence.
 Vous m'avez trop longtemps souffert devant vos yeux ;
 Je dois les délivrer d'un objet odieux.
 
-
 **** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *id_NICANDRE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicandre
+
 
 Vous voyez devant vous, mûri aimable Princesse,
 Un époux malheureux qui vous pleurait sans cesse.
@@ -1006,8 +1007,8 @@ Quel châtiment pourrait suffire à me punir ?
 O grand Roi, serait-il un supplice assez rude,
 Pour pouvoir l'égaler à mon ingratitude ?
 
-
 **** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *id_OPHIS *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ophis
+
 
 QU'est-il donc arrivé, Seigneur? de toutes parts
 Un appareil de guerre effraye nos regards :
@@ -1284,8 +1285,8 @@ Elle doit être un jour le prix de ses combats :
 Mais dans ses grands projets son âme généreuse.
 Ne veut la subjuguer que pour la rendre heureuse.
 
-
 **** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *id_EPHESTION *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ephestion
+
 
 Il est vrai, jusqu'ici la fortune confiante
 N'a de vos grand desseins osé tromper l'attente ;
@@ -1416,8 +1417,8 @@ Il pâlit, il soupire, il frissonne, et s'éteint.
 
 Je vais porter au Roi cette triste nouvelle.
 
-
 **** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *id_PHILOTAS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philotas
+
 
 Non, Sitalce, il n'est plus d'espérance de paix ;
 La guerre se rallume à ne finir jamais.
@@ -1579,8 +1580,22 @@ Que nous agissions tous d'un esprit unanime,
 Pour que l'on se prépare à porter au vainqueur
 Ce coup qui fait lui seul notre plus grand bonheur.
 
+**** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *id_ZAMINTE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_zaminte
+
+
+Tout est perdu, Madadame ! On voit de tous côtés
+Des Gardes, des Soldats, à pas précipités,
+Courir dans cette enceinte où l'on nous environne :
+Arrêtez, disent-ils, Ne respectez personne.
+Je tremble de frayeur dans ce bouleversement.
+Qu'est-il donc arrivé dans cet affreux moment ?
+On dit que Philotas, Enticles, Epimenes,
+Agaton, Entius, sont déjà dans les chaînes.
+
+Madame, en ce moment elle s'offre à vos yeux.
 
 **** *creator_fenelon *book_fenelon_alexandre *style_verse *genre_tragedy *dist1_fenelon_verse_tragedy_alexandre *dist2_fenelon_verse_tragedy *id_ZONIME *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_zonime
+
 
 Vous n'êtes point encore instruite de son sort :
 Qui peut vous assurer que Nicandre soit mort ?
@@ -1613,4 +1628,3 @@ De recourir, Madame, à l'amour d'Alexandre.
 Dans cette conjoncture il en faut profiter.
 
 Alexandre et les Dieux font pour les innocents.
-

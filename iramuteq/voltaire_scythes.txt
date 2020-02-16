@@ -1,6 +1,7 @@
 
 
-**** *creator_voltaire *book_voltaire_scythes *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_scythes *dist2_voltaire_verse_tragedy *id_HERMODAN *date_1767 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_hermodan
+**** *creator_voltaire *book_voltaire_scythes *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_scythes *dist2_voltaire_verse_tragedy *id_HERMODAN *date_1767 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_hermodan
+
 
 Indatire, mon fils, quelle est donc cette audace ?
 Qui sont ces étrangers ? Quelle insolente race
@@ -227,8 +228,8 @@ Soumettons-nous au ciel, arbitre de la mort. -
 Nous sommes trop vengés par un tel sacrifice,
 Scythes, que la pitié succède à la justice.
 
-
 **** *creator_voltaire *book_voltaire_scythes *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_scythes *dist2_voltaire_verse_tragedy *id_INDATIRE *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_indatire
+
 
 Mes braves compagnons, sortis de leurs asiles,
 Avec rapidité se sont rejoints à moi,
@@ -487,8 +488,8 @@ De souiller par ta mort un si saint hyménée !
       Bientôt je vous suivrai :
 Allez. - Ô cher objet ! Je te mériterai.
 
-
 **** *creator_voltaire *book_voltaire_scythes *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_scythes *dist2_voltaire_verse_tragedy *id_ATHAMARE *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_athamare
+
 
 Peuple juste, écoutez ; je m'en remets à vous.
 Le neveu de Cyrus vous fait juge entre nous.
@@ -871,8 +872,8 @@ Je meurs heureux.
 Mais il m'en reste assez pour me rejoindre à toi,
 Chère Obéide !
 
+**** *creator_voltaire *book_voltaire_scythes *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_scythes *dist2_voltaire_verse_tragedy *id_SOZAME *date_1767 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_sozame
 
-**** *creator_voltaire *book_voltaire_scythes *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_scythes *dist2_voltaire_verse_tragedy *id_SOZAME *date_1767 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_sozame
 
 J'en verse de tendresse ; et si dans mes malheurs
 Cette heureuse alliance, où mon bonheur se fonde,
@@ -1183,8 +1184,8 @@ Auteur infortuné des maux de ma famille,
 Ensevelis du moins le père avec la fille,
 Va, règne, malheureux !
 
-
 **** *creator_voltaire *book_voltaire_scythes *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_scythes *dist2_voltaire_verse_tragedy *id_OBEIDE *date_1767 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_obeide
+
 
       Oui, j'aurai le courage
 D'ensevelir mes jours en ce désert sauvage.
@@ -1638,8 +1639,8 @@ Vous jurez d'épargner tous mes concitoyens : -
 Il l'est ; - sauvez ses jours, - l'amour finit les miens.
 Vis, mon cher Athamare, en mourant je l'ordonne.
 
-
 **** *creator_voltaire *book_voltaire_scythes *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_scythes *dist2_voltaire_verse_tragedy *id_SULMA *date_1767 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sulma
+
 
 Vous y résolvez-vous ?
 
@@ -1758,8 +1759,8 @@ Le ciel ne verra point ce sanglant sacrifice.
 
       Ah ! Madame...
 
-
 **** *creator_voltaire *book_voltaire_scythes *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_scythes *dist2_voltaire_verse_tragedy *id_HIRCAN *date_1767 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hircan
+
 
       Dans les lieux où vous êtes
 Gardez-vous d'écouter ces fureurs indiscrètes.
@@ -1868,8 +1869,8 @@ Ils mourront à vos pieds, et vous n'en doutez pas.
 
 Seigneur, je le connais, c'est lui, c'est Indatire.
 
+**** *creator_voltaire *book_voltaire_scythes *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_scythes *dist2_voltaire_verse_tragedy *id_SCYTHES *date_1767 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_scythes
 
-**** *creator_voltaire *book_voltaire_scythes *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_scythes *dist2_voltaire_verse_tragedy *id_SCYTHES *date_1767 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_scythes
 
 Respectables vieillards, sachez que nos hameaux
 Seront bientôt remplis de nos hôtes nouveaux.
@@ -1928,4 +1929,3 @@ Aussi chère à nos coeurs que la vengeance même.
 
       Arrête, et respecte la loi.
 Ce fer serait souillé par des mains étrangères.
-

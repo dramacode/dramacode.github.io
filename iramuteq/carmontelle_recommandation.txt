@@ -2,6 +2,7 @@
 
 **** *creator_carmontelle *book_carmontelle_recommandation *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_recommandation *dist2_carmontelle_prose_proverbe *id_MONSIEURDELABRUYERE *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdelabruyere
 
+
 Dans quel état vous voilà ?
 
 Quoi toujours avec vos romans.
@@ -119,8 +120,8 @@ Un peu tard, et je vous remmènerai.
 
 Vous êtes bien contente.
 
-
 **** *creator_carmontelle *book_carmontelle_recommandation *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_recommandation *dist2_carmontelle_prose_proverbe *id_MADAMEDELABRUYERE *date_1768 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedelabruyere
+
 
 Qui est là ?... Ah, c'est vous, Monsieur.
 
@@ -251,8 +252,8 @@ En ce cas-là, je renverrai mes chevaux. À ce soir, je vais m'habiller. Adieu, 
 
 Oh pour cela oui.
 
-
 **** *creator_carmontelle *book_carmontelle_recommandation *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_recommandation *dist2_carmontelle_prose_proverbe *id_MONSIEURDUMONT *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdumont
+
 
 Oui, Monsieur.
 
@@ -300,3 +301,11 @@ Oui, Monsieur, j'aurai cet honneur là. Mais j'ai un scrupule, je crains d'ôter
 
 Je ne sais si je veille, tant je suis étonné de tout ce qui m'arrive ; mais je suis bien sûr du plaisir que je vais faire à ma mère et de tous les efforts que je ferai pour mériter toute ma vie au tant de bontés.
 
+**** *creator_carmontelle *book_carmontelle_recommandation *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_recommandation *dist2_carmontelle_prose_proverbe *id_LEGRAND *date_1768 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_legrand
+
+
+Madame la Comtesse de Saint-Léger.
+
+Oui, Monsieur.
+
+Monsieur, donnez-vous la peine d'entrer.

@@ -1,6 +1,7 @@
 
 
-**** *creator_carmontelle *book_carmontelle_pari *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_pari *dist2_carmontelle_prose_proverbe *id_MONSIEURDUVAL *date_1768 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_monsieurduval
+**** *creator_carmontelle *book_carmontelle_pari *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_pari *dist2_carmontelle_prose_proverbe *id_MONSIEURDUVAL *date_1768 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_monsieurduval
+
 
 Bonjour, Madame Moka ; vous n'avez pas grand monde.
 
@@ -95,8 +96,8 @@ Garçon, vois si mon carosse est là.
 
 Allons, passe.
 
+**** *creator_carmontelle *book_carmontelle_pari *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_pari *dist2_carmontelle_prose_proverbe *id_MONSIEURDELALANDE *date_1768 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_monsieurdelalande
 
-**** *creator_carmontelle *book_carmontelle_pari *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_pari *dist2_carmontelle_prose_proverbe *id_MONSIEURDELALANDE *date_1768 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_monsieurdelalande
 
 J'ai été te chercher chez Madame Delarue ; l'on m'a dit qu'on ne t'avait pas vu, et je suis venu voir ici.
 
@@ -190,4 +191,3 @@ Que diable, il fallait donc nous le dire.
 Aux Italiens.
 
 Allons-nous-en. Bonjour, Madame Moka.
-

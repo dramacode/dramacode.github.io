@@ -2,6 +2,7 @@
 
 **** *creator_regnard *book_regnard_democrite *style_verse *genre_comedy *dist1_regnard_verse_comedy_democrite *dist2_regnard_verse_comedy *id_DEMOCRITE *date_1700 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_democrite
 
+
 Suivant les anciens, et ce qu'ils ont écrit,
 L'homme est, de sa nature, un animal qui rit ;
 Cela se voit assez : mais pour moi, sans scrupule,
@@ -518,8 +519,8 @@ Ne soit plus exposée à cette épilepsie.
 Dans un antre plus creux, achevant mon emploi,
 Je vais rire de vous ; riez aussi de moi.
 
-
 **** *creator_regnard *book_regnard_democrite *style_verse *genre_comedy *dist1_regnard_verse_comedy_democrite *dist2_regnard_verse_comedy *id_AGELAS *date_1700 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agelas
+
 
 Demeurons dans ce bois ; laissons aller la chasse ;
 Attendons quelque temps que la chaleur se passe.
@@ -773,8 +774,8 @@ Demandez ; je ne puis trop vous récompenser.
 Tâchons de l'arrêter. Nous cependant, madame,
 Allons pour couronner une si belle flamme.
 
-
 **** *creator_regnard *book_regnard_democrite *style_verse *genre_comedy *dist1_regnard_verse_comedy_democrite *dist2_regnard_verse_comedy *id_AGENOR *date_1700 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agenor
+
 
 Ces occupations et ces nobles travaux
 Sont les amusements des plus fameux héros ;
@@ -820,8 +821,8 @@ On doit me l'apporter. Mais Criséis s'avance.
 
 Seigneur...
 
-
 **** *creator_regnard *book_regnard_democrite *style_verse *genre_comedy *dist1_regnard_verse_comedy_democrite *dist2_regnard_verse_comedy *id_ISMENE *date_1700 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismene
+
 
 Je veux bien avouer qu'un manque de couronne
 Est l'unique défaut qui soit en sa personne,
@@ -873,8 +874,8 @@ Vous voulez épouser Criséis en ce jour.
 
 Agénor à mes yeux vaut bien une couronne.
 
-
 **** *creator_regnard *book_regnard_democrite *style_verse *genre_comedy *dist1_regnard_verse_comedy_democrite *dist2_regnard_verse_comedy *id_STRABON *date_1700 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_strabon
+
 
 Que maudit soit le jour où j'eus la fantaisie
 D'être valet de pied de la philosophie !
@@ -1574,8 +1575,8 @@ Oublions le passé, renouvelons d'amour.
 Je ne serai pas seul qui, d'une âme enchantée,
 Aura repris sa femme après l'avoir quittée.
 
-
 **** *creator_regnard *book_regnard_democrite *style_verse *genre_comedy *dist1_regnard_verse_comedy_democrite *dist2_regnard_verse_comedy *id_CLEANTHIS *date_1700 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleanthis
+
 
 Si j'avais le secret de deviner la cause
 Du chagrin qu'à mes yeux votre visage expose,
@@ -1915,8 +1916,8 @@ Vous aimiez Criséis ?
 Je suis bien en courroux : si pourtant aujourd'hui
 Tu voulais un peu mieux m'aimer ?
 
-
 **** *creator_regnard *book_regnard_democrite *style_verse *genre_comedy *dist1_regnard_verse_comedy_democrite *dist2_regnard_verse_comedy *id_CRISEIS *date_1700 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_criseis
+
 
 Je cherche ici mon père, et ne le trouve pas ;
 Jusqu'assez près d'ici j'avais suivi ses pas.
@@ -2098,8 +2099,8 @@ Maintenant que le ciel, changeant ma destinée,
 Veut réparer les maux qu'il m'avait fait souffrir,
 Je me plains de n'avoir qu'un coeur à vous offrir.
 
-
 **** *creator_regnard *book_regnard_democrite *style_verse *genre_comedy *dist1_regnard_verse_comedy_democrite *dist2_regnard_verse_comedy *id_THALER *date_1700 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thaler
+
 
 Bonjour, Strabon.
 
@@ -2474,4 +2475,3 @@ Jusqu'à notre maison porter ce biau chef-d'oeuvre.
       Oui, vous.
 
 Faites-moi maltôtier toujours pour commencer.
-

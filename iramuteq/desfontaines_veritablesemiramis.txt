@@ -2,6 +2,7 @@
 
 **** *creator_desfontaines *book_desfontaines_veritablesemiramis *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_veritablesemiramis *dist2_desfontaines_verse_tragedy *id_ninus *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_ninus
 
+
 Ne sçaurais-je jamais le trouble où je vous vois ?
 Vous verray-je toûjours dans la melancolie,
 Où vostre ame paroist si fort ensevelie ?
@@ -181,8 +182,8 @@ Usez sur nous des droicts d'un pouvoir absolu.
 
 Il est de mon devoir d'obeïr, & me taire.
 
-
 **** *creator_desfontaines *book_desfontaines_veritablesemiramis *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_veritablesemiramis *dist2_desfontaines_verse_tragedy *id_semiramis *date_1647 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_semiramis
+
 
 Melistrate amoureux ? ah! je ne le puis croire ;
 S'il aime, Merzabane, il n'aime que la gloire ;
@@ -805,8 +806,8 @@ La mort est desormais tout le bien que j'espere ;
 C'est le seul que je veux ; & je le tiens si cher,
 Que ny vous, ny les Dieux, ne sçauriez l'empescher.
 
-
 **** *creator_desfontaines *book_desfontaines_veritablesemiramis *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_veritablesemiramis *dist2_desfontaines_verse_tragedy *id_prazimene *date_1647 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_prazimene
+
 
 … Elle l'aime ? ô fatale avanture !
 Je n'en sçaurois douter, voila son escriture.
@@ -1050,8 +1051,8 @@ Sans toy, ses actions le faisoient assez voir.
 
 Seigneurs...
 
-
 **** *creator_desfontaines *book_desfontaines_veritablesemiramis *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_veritablesemiramis *dist2_desfontaines_verse_tragedy *id_melistrate *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_melistrate
+
 
 Grand Prince, l'ornement & l'honneur de l'Asie,
 Je treuve de l'excés en vostre courtoisie ;
@@ -1291,8 +1292,8 @@ Helas !
 
       Nous vous suivons ; Oronclide...
 
-
 **** *creator_desfontaines *book_desfontaines_veritablesemiramis *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_veritablesemiramis *dist2_desfontaines_verse_tragedy *id_oronclide *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronclide
+
 
 Certes, ce changement est si prodigieux⁎,
 Que mon esprit encor le dispute à mes yeux ;
@@ -1511,8 +1512,8 @@ Et qu'aux biens qu'il nous donne & nous oste, le Sort
 Mesle confusément, & l'Amour & la Mort !
 FIN.
 
-
 **** *creator_desfontaines *book_desfontaines_veritablesemiramis *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_veritablesemiramis *dist2_desfontaines_verse_tragedy *id_merzabane *date_1647 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_merzabane
+
 
 Madame, il est bien-vray que c'est la vertu mesme,
 Pour qui ce cœur altier⁎ sent une amour extréme ;
@@ -1903,8 +1904,26 @@ Au dela de mes jours n'étende point sa haine ;
 Et si j'ose former encor quelques souhaits,
 Souffrez⁎ que hors d'icy j'aille mourir en paix.
 
+**** *creator_desfontaines *book_desfontaines_veritablesemiramis *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_veritablesemiramis *dist2_desfontaines_verse_tragedy *id_zenophire *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zenophire
+
+
+Un trouble, Merzabane, où jamais je ne fus,
+Un prodige⁎ incroyable, une étrange⁎ merveille,
+Qui fait qu'avec raison je doute si je veille.
+
+Hé bien, puis que si bien tu nous en dis les causes,
+Passe jusqu'aux effets de ce que tu proposes ;
+Et puis que de ce coup dépend nostre bon-heur,
+Nous t'en voulons ceder, & la gloire & l'honneur.
+
+**** *creator_desfontaines *book_desfontaines_veritablesemiramis *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_veritablesemiramis *dist2_desfontaines_verse_tragedy *id_cambises *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cambises
+
+
+Mais on peut mépriser une injuste demande,
+Et rétablir Ninus.
 
 **** *creator_desfontaines *book_desfontaines_veritablesemiramis *style_verse *genre_tragedy *dist1_desfontaines_verse_tragedy_veritablesemiramis *dist2_desfontaines_verse_tragedy *id_palmedon *date_1647 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_palmedon
+
 
 Confus, triste, pensif, je ne sçay que resoudre,
 Ayant oüy gronder l'épouventable foudre,
@@ -2086,4 +2105,3 @@ Ne la surpenez point, & donnez un moment
 Aux premieres chaleurs de son ressentiment :
 Vostre amy la va mettre en un assez grand trouble,
 Sans que hors de saison vostre abord le redouble.
-

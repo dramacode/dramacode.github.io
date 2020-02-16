@@ -2,6 +2,7 @@
 
 **** *creator_regnard *book_regnard_carnavaldevenise *style_verse *genre_ballet *dist1_regnard_verse_ballet_carnavaldevenise *dist2_regnard_verse_ballet *id_MINERVE *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_minerve
 
+
 Je quitte sans regret la demeure immortelle,
 Pour venir en ce jour,
 Dans une aimable cour,
@@ -37,8 +38,8 @@ Montrez, par les attraits d'un spectacle pompeux,
 Tout ce que Venise a de jeux
 Dans la saison la plus charmante.
 
-
 **** *creator_regnard *book_regnard_carnavaldevenise *style_verse *genre_ballet *dist1_regnard_verse_ballet_carnavaldevenise *dist2_regnard_verse_ballet *id_PLUTON *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pluton
+
 
 Dieux des enfers, aux armes !
 
@@ -80,8 +81,8 @@ Riez, chantez, dansez, montrez votre allégresse ;
 Qu'on ne parle plus de tristesse
 Où brille le flambeau d'Amour.
 
-
 **** *creator_regnard *book_regnard_carnavaldevenise *style_verse *genre_ballet *dist1_regnard_verse_ballet_carnavaldevenise *dist2_regnard_verse_ballet *id_ORPHEE *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orphee
+
 
 Puissant maître des Ombres,
 À ton trône enflammé l'Amour conduit mes pas :
@@ -103,3 +104,14 @@ Chère Eurydice, enfin, je vous revois encore !
 
 Quelle rigueur impitoyable !
 
+**** *creator_regnard *book_regnard_carnavaldevenise *style_verse *genre_ballet *dist1_regnard_verse_ballet_carnavaldevenise *dist2_regnard_verse_ballet *id_EURYDICE *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eurydice
+
+
+Pour plaire à l'objet qui m'enflamme,
+Amours, volez tous dans mon âme ;
+Fuyez, peines, soupirs, ne revenez jamais
+De mon coeur amoureux interrompre la paix.
+
+Jette, Orphée, un regard sur celle qui t'adore.
+
+Un crime de l'amour n'est-il point pardonnable ?

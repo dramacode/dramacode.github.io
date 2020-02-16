@@ -2,6 +2,7 @@
 
 **** *creator_villiers *book_villiers_critiquedutartuffe *style_verse *genre_comedy *dist1_villiers_verse_comedy_critiquedutartuffe *dist2_villiers_verse_comedy *id_CLEON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleon
 
+
       Je vous plains. Fille trop obstinée !
 Je l'ai pressée en vain touchant cet hyménée,
 Plus rebelle à mes voeux que la fille d'Orgon,
@@ -191,8 +192,8 @@ Devrait pour vos forfaits, resserrer en prison.
 Adieu, Monsieur Tartuffe, ayez moins d'imprudence ;
 D'autres gens pourraient bien punir votre insolence.
 
-
 **** *creator_villiers *book_villiers_critiquedutartuffe *style_verse *genre_comedy *dist1_villiers_verse_comedy_critiquedutartuffe *dist2_villiers_verse_comedy *id_LISANDRE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisandre
+
 
 Ah ! Madame, est-ce ainsi que vous vous engagez ?
 Sous les lois de l'hymen ainsi vous vous rangez ?
@@ -246,8 +247,8 @@ Mais, Monsieur, vous savez mon bien et ma famille
 Du moins si je n'ai pas tant de riches trésors,
 Je ne vous trompe point, paré de faux dehors.
 
-
 **** *creator_villiers *book_villiers_critiquedutartuffe *style_verse *genre_comedy *dist1_villiers_verse_comedy_critiquedutartuffe *dist2_villiers_verse_comedy *id_TARTUFFE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tartuffe
+
 
 Ils ont eu le succès que j'en devais attendre.
 
@@ -407,8 +408,8 @@ Que par un tel discours vous ravissez mon coeur !
 
       Ô malheur imprévu !
 
-
 **** *creator_villiers *book_villiers_critiquedutartuffe *style_verse *genre_comedy *dist1_villiers_verse_comedy_critiquedutartuffe *dist2_villiers_verse_comedy *id_LIDIANE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lidiane
+
 
 Mon père, si jamais votre coeur fut sensible,
 Si jamais à l'amour on le vit accessible ;
@@ -505,8 +506,8 @@ Vous ne méritez pas qu'on vous fasse un aveu...
 
 Ce silence profond suffit pour le confondre.
 
-
 **** *creator_villiers *book_villiers_critiquedutartuffe *style_verse *genre_comedy *dist1_villiers_verse_comedy_critiquedutartuffe *dist2_villiers_verse_comedy *id_LISE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lise
+
 
 Lidiane, Monsieur, là-haut se désespère,
 Elle vous reniera volontiers pour son père,
@@ -849,8 +850,8 @@ Monsieur, que votre jus ici ne fera rien.
 
 L'avez-vous vu jadis ?
 
-
 **** *creator_villiers *book_villiers_critiquedutartuffe *style_verse *genre_comedy *dist1_villiers_verse_comedy_critiquedutartuffe *dist2_villiers_verse_comedy *id_LAURENS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laurens
+
 
 Hé bien, qu'avez-vous fait ? Vos efforts sont-ils vains ?
 Ou les griffons doész de vos faux parchemins
@@ -1040,4 +1041,3 @@ Et m'otant vos couleurs, traitez-moi rudement.
 Je n'en murmurerai, mon maître, nullement.
 
 Fuyons comme Damis.
-

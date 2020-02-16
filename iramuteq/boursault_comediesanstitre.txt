@@ -2,6 +2,7 @@
 
 **** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *id_ORONTE *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
 
+
 Cécile est arrivée ?
 
 Et tu dis qu'elle loge ?...
@@ -699,8 +700,8 @@ C'est assez ; vos désirs seront tous satisfaits.
 Puisqu'il nous laisse en paix, nous ne pouvons mieux faire,
 Que d'envoyer Merlin nous chercher un Notaire.
 
-
 **** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *id_MONSIEURDEBOISLUISANT *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdeboisluisant
+
 
 Mon abord sans doute vous surprend.
 De vos admirateurs vous voyez le plus grand.
@@ -798,8 +799,8 @@ J'y rêverais gratis au moins un siècle entier.
 Et conduisons si bien cette heureuse aventure,
 Qu'elle fasse du bruit dans le premier Mercure.
 
-
 **** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *id_CECILE *date_1683 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cecile
+
 
 Votre joie à nous voir me paraît si sincère,
 Que je répondrais mal à cet accueil si doux,
@@ -866,8 +867,8 @@ Je n'ai pu de ma vie en deviner aucune.
 
 Non. Qu'est-ce ?
 
-
 **** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *id_MERLIN *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merlin
+
 
       Oui, la chose est certaine.
 
@@ -1058,8 +1059,8 @@ J'en crois voir un, qui vient de quelque enterrement.
       C'est ainsi qu'ils sont mis d'ordinaire,
 Quand ils vont d'un défunt mendier l'Inventaire.
 
-
 **** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *id_LISETTE *date_1683 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
 Est-ce ici le logis de Monsieur Licidas ?
 
@@ -1200,8 +1201,8 @@ Il faut avoir bon nez pour deviner cela.
 Montre-moi ton amour par ton empressement :
 Cours, vole.
 
-
 **** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *id_MONSIEURMICHAUT *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurmichaut
+
 
       Serviteur !
 N'êtes-vous pas l'auteur du Mercure ?
@@ -1288,8 +1289,8 @@ Adieu. Je vais trouver un Généalogiste,
 Qui pour quelques louis que je lui donnerai,
 Me fera sur le champ venir d'où je voudrai.
 
-
 **** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *id_MADAMEGUILLEMOT *date_1683 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameguillemot
+
 
       Est-ce vous qui faites le Mercure,
 Monsieur ?
@@ -1375,8 +1376,8 @@ Petit gueux.
 Sans vous on aurait cru que j'avais un carrosse.
 Je vous ferai sentir ce que pèsent mes coups.
 
-
 **** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *id_LONGUEMAIN *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_longuemain
+
 
 N'est-ce pas vous, Monsieur, qui faites ce beau Livre,
 Qui n'est pas plutôt vieux qu'il redevient nouveau ?
@@ -1487,8 +1488,8 @@ Je renonce au secours d'un tel médiateur.
 Et suis de vos conseils très humble serviteur.
 S'il faut être pendu, ce n'est pas une affaire.
 
-
 **** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *id_BONIFACE *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_boniface
+
 
 Qui de vous, s'il vous plaît, est l'Auteur du Mercure ?
 
@@ -1590,8 +1591,8 @@ Je m'oblige de plus, lorsque vous rendrez l'âme,
 De les fournir gratis pour Vous et pour Madame.
 Mourez quand vous voudrez, et comptez là-dessus.
 
-
 **** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *id_MONSIEURDELAMOTTE *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdelamotte
+
 
       Et moi le vôtre.
 
@@ -1738,8 +1739,8 @@ Tant ils sont assurés de trouver au logis,
 Ou leur femme qui gronde, ou quelquefois bien pis.
 Serviteur.
 
-
 **** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *id_CLAIRE *date_1683 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_claire
+
 
       À quand ? Tout est rompu.
 
@@ -1835,8 +1836,8 @@ Et ce serait bannir tout commerce entre nous.
 
 Vous m'obligez.
 
-
 **** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *id_DUMESNIL *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dumesnil
+
 
 Monsieur, je suis perdu si je n'ai votre appui.
 
@@ -1930,8 +1931,8 @@ Que de voir mon visage il prenne envie au Roi.
 C'est la grâce qu'espère et que vous recommande
 Du Mesnil, Professeur de la langue Normande.
 
-
 **** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *id_MONSIEURBRIGANDEAU *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurbrigandeau
+
 
 Dieu m'en garde. Je suis Procureur, Dieu merci :
 Et ma Communauté près de vous me députe.
@@ -1997,8 +1998,8 @@ Pour avoir obtenu deux arrêts de défenses.
 Ne me confondez pas avec un tel fripon.
 Tout Paris sait, Monsieur, de quel air je m'acquitte...
 
-
 **** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *id_MONSIEURSANGSUE *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieursangsue
+
 
 Monsieur, votre très humble et très obéissant.
 Ma personne, je crois, ne vous est pas connue ?
@@ -2065,8 +2066,8 @@ D'un méchant Procureur du Chatelet moderne.
 
       Bon.
 
-
 **** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *id_MADAMEDECALVILLE *date_1683 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedecalville
+
 
       Monsieur, je suis votre servante.
 Je vous suis inconnue et redevable.
@@ -2115,8 +2116,8 @@ Comme une tourterelle à tous moments je pleure...
 Si je me remarie, et que mon mari meure,
 Je viendrai vous l'apprendre, et n'y manquerai pas.
 
-
 **** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *id_LEMARQUIS *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+
 
 Serviteur. Vous voyez un Marquis distingué,
 Que les plus grands emplois n'ont jamais fatigué.
@@ -2186,8 +2187,8 @@ Substitut de la Renommée.
 Mon Air aura pour lui des appas éclatants.
 Adieu, mon cher.
 
-
 **** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *id_ORIANE *date_1683 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_oriane
+
 
 Monsieur, vous allez faire un mauvais jugement.
 Sans doute.
@@ -2280,8 +2281,8 @@ Pour juger qui de nous était digne du prix.
 
 Je ne sais que vous seul qui put s'être mépris.
 
-
 **** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *id_ELISE *date_1683 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elise
+
 
 Nous savons bien, Monsieur, que vous êtes galant.
 On ne voit point d'écrits comparables aux vôtres :
@@ -2364,8 +2365,8 @@ Vous ne deviez pas craindre en me donnant le prix.
 
 Que l'on vous soupçonnât de vous être mépris.
 
-
 **** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *id_BEAUGENIE *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_beaugenie
+
 
 Serviteur à l'illustre et belle Compagnie.
 Je vois au sombre accueil que je reçois de tous,
@@ -2454,8 +2455,8 @@ Que vous n'en direz rien qui soit au dessus d'elle.
 
 Adieu ; je me retire, et je vous laisse en paix.
 
-
 **** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *id_LARISSOLE *date_1683 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_larissole
+
 
       Bonjour, mon Camarade.
 J'entre sans dire gare, et cherche à m'informer
@@ -2535,8 +2536,8 @@ C'était argent comptant ; j'en avais leur parole.
 Adieu, Pays. C'est moi qu'on nomme la Rissole.
 Ces bras te deviendront ou fatals, ou fataux.
 
+**** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *id_JASMIN *date_1683 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_jasmin
 
-**** *creator_boursault *book_boursault_comediesanstitre *style_verse *genre_comedy *dist1_boursault_verse_comedy_comediesanstitre *dist2_boursault_verse_comedy *id_JASMIN *date_1683 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_jasmin
 
 Monsieur, Madame a nom Madame Guillemot.
 
@@ -2548,4 +2549,3 @@ Madame.
       Qu'ai-je fait ?
 
 Dame ! je ne sais pas si bien mentir que vous.
-

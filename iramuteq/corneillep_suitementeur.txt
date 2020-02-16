@@ -2,6 +2,7 @@
 
 **** *creator_corneillep *book_corneillep_suitementeur *style_verse *genre_comedy *dist1_corneillep_verse_comedy_suitementeur *dist2_corneillep_verse_comedy *id_DORANTE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
 
+
       Cliton, je te revois !
 
 Tu le sauras tantôt. Mais qui t'amène ici ?
@@ -774,8 +775,8 @@ Je méritais peut-être un plus doux procédé.
 
 Ami, c'est là le but qu'avait votre colère ?
 
-
 **** *creator_corneillep *book_corneillep_suitementeur *style_verse *genre_comedy *dist1_corneillep_verse_comedy_suitementeur *dist2_corneillep_verse_comedy *id_CLITON *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cliton
+
 
 Ah ! Monsieur, c'est donc vous ?
 
@@ -1442,8 +1443,8 @@ L'avantage est fort rare et me rend fort heureux.
 Ceux qui sont las debout se peuvent aller seoir,
 Je vous donne en passant cet avis, et bonsoir.
 
-
 **** *creator_corneillep *book_corneillep_suitementeur *style_verse *genre_comedy *dist1_corneillep_verse_comedy_suitementeur *dist2_corneillep_verse_comedy *id_CLEANDRE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleandre
+
 
 Ah ! Je suis innocent ; vous me faites injure.
 
@@ -1675,8 +1676,8 @@ N'eût voulu méconnaître un homme malheureux.
 
 Comme à lui je vous dois et la vie et l'honneur.
 
-
 **** *creator_corneillep *book_corneillep_suitementeur *style_verse *genre_comedy *dist1_corneillep_verse_comedy_suitementeur *dist2_corneillep_verse_comedy *id_MELISSE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melisse
+
 
 Certes, il écrit bien : sa lettre est excellente.
 
@@ -2129,8 +2130,8 @@ D'où viennent ses soupirs, et d'où naissent mes larmes.
 
 Vous m'avez fait trembler pour croître mon bonheur.
 
-
 **** *creator_corneillep *book_corneillep_suitementeur *style_verse *genre_comedy *dist1_corneillep_verse_comedy_suitementeur *dist2_corneillep_verse_comedy *id_PHILISTE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philiste
+
 
 L'aventure est étrange, et bien digne de vous ;
 Et si je n'en voyois la fin trop véritable,
@@ -2344,8 +2345,8 @@ Votre secret, monsieur, est sûr entre mes mains ;
 Recevez-moi pour tiers d'une amitié si belle,
 Et croyez qu'à l'envi je vous serai fidèle.
 
-
 **** *creator_corneillep *book_corneillep_suitementeur *style_verse *genre_comedy *dist1_corneillep_verse_comedy_suitementeur *dist2_corneillep_verse_comedy *id_LYSE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lyse
+
 
 J'en apporte pour lui.
 
@@ -2728,8 +2729,8 @@ Il semble toutefois fort triste à son retour.
 
 Cléandre entre.
 
-
 **** *creator_corneillep *book_corneillep_suitementeur *style_verse *genre_comedy *dist1_corneillep_verse_comedy_suitementeur *dist2_corneillep_verse_comedy *id_PREVOT *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_prevot
+
 
 Si vous l'êtes, monsieur, ne craignez aucun mal ;
 Mais comme enfin le mort était votre rival,
@@ -2748,4 +2749,3 @@ Assurée à présent par sa reconnaissance ;
 Sortez quand vous voudrez, vous avez tout pouvoir.
 Excusez la rigueur qu'a voulu mon devoir.
 Adieu.
-

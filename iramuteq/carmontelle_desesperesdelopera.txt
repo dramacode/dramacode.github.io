@@ -2,6 +2,7 @@
 
 **** *creator_carmontelle *book_carmontelle_desesperesdelopera *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_desesperesdelopera *dist2_carmontelle_prose_proverbe *id_MONSIEURSANGLIER *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieursanglier
 
+
 Ah, bonjour, Monsieur Pillier.
 
 Je n'en ai pas entends dire la moindre chose, que ce que l'on nous en a dit avant hier.
@@ -112,8 +113,8 @@ Je dis toujours qu'il n'y aura bientôt plus d'Opéra.
 
 Nous sommes perdus !
 
-
 **** *creator_carmontelle *book_carmontelle_desesperesdelopera *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_desesperesdelopera *dist2_carmontelle_prose_proverbe *id_MONSIEURPILLIER *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurpillier
+
 
 Garçon ?
 
@@ -259,8 +260,8 @@ Et moi aussi.
 
 Je n'en puis plus douter.
 
-
 **** *creator_carmontelle *book_carmontelle_desesperesdelopera *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_desesperesdelopera *dist2_carmontelle_prose_proverbe *id_MONSIEURPOINTDUTOUT *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurpointdutout
+
 
 Point du tout, Monsieur , je ne m'ennuie jamais ; quand on a.
 Cela, cela, et cela, on ne saurait s'ennuyer.
@@ -304,8 +305,8 @@ Point du tout, je ne m'aveugle point et vous avez tort de vous désespérer.
 Point du tout ; songez donc que vous avec cela cela et cela ; tranquillisez-vous ; je vous souhaite bien le bon soir.
 Écoutez, n'oubliez jamais que vous avez cela, cela et cela, et vous ne vous désespérerez pas.
 
-
 **** *creator_carmontelle *book_carmontelle_desesperesdelopera *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_desesperesdelopera *dist2_carmontelle_prose_proverbe *id_MONSIEURQUIMPORTE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurquimporte
+
 
 Qu'importe ? Moi, je vais à l'Opéra, aux Italiens, aux Français, cela m'est égal.
 
@@ -334,4 +335,3 @@ Qu'importe ? Je suis toujours sûr que l'on dansera quelque chose.
 Qu'importe ? Même quand on ne danserait pas ; pourvu que l'Opéra finisse et qu'on puisse aller sur le Théâtre après.
 
 Qu'importe ? J'irais ailleurs, où je vais à présent, par exemple. Adieu, Messieurs je vous souhaite bien le bonjour.
-

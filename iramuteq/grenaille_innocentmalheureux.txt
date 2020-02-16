@@ -2,6 +2,7 @@
 
 **** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *id_constantin *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_constantin
 
+
 Ce repos me plaist bien qui vient de mes travaux,
 Je n'ay plus d'ennemis, n'ayant plus de Rivaux ;
 J'ay dèstruit ces Tyrans⁎ qui pensoient tout destruire
@@ -517,8 +518,8 @@ Estant mort méprisé qu'il vive dans la gloire,
 Et que dans sa défaite il trouve sa victoire.
 FIN.
 
-
 **** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *id_fauste *date_1639 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_fauste
+
 
 Procle, ne te feins⁎ point ; c'est de la jeune Helene
 Que ton ame reçoit et sa joye, et sa peine :
@@ -1231,8 +1232,8 @@ Pour punir un tel crime on fait trop de mysteres.
       Il est vray qu'il est lent,
 Tout supplice m'est doux, bien qu'il soit violent.
 
-
 **** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *id_helene-mere *date_1639 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_helenemere
+
 
 C'est un objet bien rare à mes yeux de te voir.
 
@@ -1388,8 +1389,8 @@ Et perdant tout son sang Constantin va perir.
 Dedans la probité son mal ne me plaist pas,
 Mais j'ay bien de la peine à pleurer son trépas.
 
-
 **** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *id_crispe *date_1639 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_crispe
+
 
 Je choque⁎ mon desir autant que mon devoir,
 Je m'accuse, Madame, entendant vôtre plainte ;
@@ -1614,8 +1615,8 @@ Tu dois suivre la Cour quand je la quitteray.
 Et nous separera lors que vous le sçaurez,
 Car je pretens mourir.
 
-
 **** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *id_helene-fille *date_1639 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_helenefille
+
 
 Madame, l'Empereur éloigne de nos yeux,
 Ce Prince qui faisoit et sa gloire, et nos voeux.
@@ -1763,8 +1764,8 @@ Dy nous comment mourut ce vainqueur loin des armes.
 Oüy, Procle, je me rends à ce doux compliment,
 Et sans qu'il faut mourir nous vivrions doucement.
 
-
 **** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *id_procle *date_1639 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_procle
+
 
 Madame, dés qu'on sent l'ardeur d'un si grand feu⁎,
 Pour bien couvert⁎ qu'il soit, il paroist quelque peu,
@@ -2047,8 +2048,8 @@ Il passoit pour mon Prince, et vous serez ma Reine.
 
 On a porté le corps de Crispe.
 
-
 **** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *id_adelaide *date_1639 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_adelaide
+
 
 Je sçay que l'Empereur vous a dit son dessein⁎;
 Il ne s'esclorra pas s'il n'est que dans mon sein⁎.
@@ -2177,8 +2178,8 @@ Que ce doux souvenir me cause de tristesse.
 Allons nous informer si Fauste est étouffée,
 Mon amour de sa mort doit dresser son trophée.
 
-
 **** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *id_artaban *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artaban
+
 
 Nul ne peut desirer plus de prosperitez,
 Mais vous en avez moins que vous n'en meritez ;
@@ -2391,3 +2392,30 @@ Qui veüille à ses enfans choisir un autre Pere.
 
 On vient de l'étouffer.
 
+**** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *id_emile *date_1639 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_emile
+
+
+      Qu'une de vos Provinces
+D'un de vos Lieutenans a fait un de ses Princes,
+Sur le bord du Danube un peuple revolté,
+Veut opposer sa force à vôtre Majesté ?
+Il arme puissamment pour attaquer l'Empire.
+
+Il m'a dit que dé-ja l'affaire est avancée,
+Et qu'il peut l'achever comme elle est commencée ;
+Selon que vous voudrez, ou la vie, ou la mort.
+
+Vos enfans crient-là, nous n'aurons plus de mere.
+
+**** *creator_grenaille *book_grenaille_innocentmalheureux *style_verse *genre_tragedy *dist1_grenaille_verse_tragedy_innocentmalheureux *dist2_grenaille_verse_tragedy *id_hycarie *date_1639 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_hycarie
+
+
+Il s'en est fuy peut estre ?
+
+Ceux qui sont les plus grands⁎, ont les plus grands malheurs,
+Et s'ils ont des plaisirs, ils ont plus de douleurs.
+
+Vôtre decés n'est pas pour le resusciter,
+Et si c'est un Grand⁎ mort, il le faut regretter.
+Qu'il est vray que l'amour de deux n'en fait qu'un mesme ?
+Quoy que Crispe soit mort, je croy qu'il est moins blesme.

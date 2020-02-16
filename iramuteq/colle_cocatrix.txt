@@ -2,6 +2,7 @@
 
 **** *creator_colle *book_colle_cocatrix *style_verse *genre_comedy *dist1_colle_verse_comedy_cocatrix *dist2_colle_verse_comedy *id_COLORAX *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colorax
 
+
       Abben, que chaque citoyen
 S'apprête à célébrer son triomphe et le mien.
 Guerrier, dont le bras seul vient d'affermir mon trône,
@@ -74,8 +75,8 @@ Retiens ces derniers mots que ma fureur t'abrège;
 Je refuse la Reine et la mort à tes voeux.
 Je veux ce que je veux, parce que je le veux.
 
-
 **** *creator_colle *book_colle_cocatrix *style_verse *genre_comedy *dist1_colle_verse_comedy_cocatrix *dist2_colle_verse_comedy *id_COCATRIX *date_1731 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cocatrix
+
 
 Seigneur, la voix du Roi vous déclare rebelle;
 Il m'a dans sa fureur bégayé vos forfaits ;
@@ -166,8 +167,8 @@ Quel désespoir affreux !
 Il ne nous reste plus que l'inceste ou la mort.
 Mourons !
 
-
 **** *creator_colle *book_colle_cocatrix *style_verse *genre_comedy *dist1_colle_verse_comedy_cocatrix *dist2_colle_verse_comedy *id_AMATROX *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amatrox
+
 
 Près trois ans de guerre, alarmés par les Scythes,
 Mes Soldats ont flétri les neveux des Laphites.
@@ -499,8 +500,8 @@ Vous, Madame Angusta ?
       Si vous mourez, mourons du moins ensemble.
 L'amour nous avait joints, que la mort nous rassemble.
 
-
 **** *creator_colle *book_colle_cocatrix *style_verse *genre_comedy *dist1_colle_verse_comedy_cocatrix *dist2_colle_verse_comedy *id_VORTEX *date_1731 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_vortex
+
 
 Cessez, Seigneur, cessez de répandre des larmes,
 Car si...
@@ -556,4 +557,3 @@ Si ses jours avancés..
 
       Monseigneur,
 La faudra-t-il après mener chez le baigneur ?
-

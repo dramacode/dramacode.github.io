@@ -1,6 +1,7 @@
 
 
-**** *creator_cailhava *book_cailhava_egoisme *style_verse *genre_comedy *dist1_cailhava_verse_comedy_egoisme *dist2_cailhava_verse_comedy *id_PHILEMON *date_1777 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_philemon
+**** *creator_cailhava *book_cailhava_egoisme *style_verse *genre_comedy *dist1_cailhava_verse_comedy_egoisme *dist2_cailhava_verse_comedy *id_PHILEMON *date_1777 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_philemon
+
 
 S'il pouvait dans l'État se faire un changement,
 Qui brouillât un peu tout ; qui, par événement,
@@ -646,8 +647,8 @@ Peut-être reviendrai-je un jour dans ma patrie,
 Et, plus profond dans l'art d'attirer tout à soi,
 Je n'aurai plus alors les rieurs contre moi.
 
-
 **** *creator_cailhava *book_cailhava_egoisme *style_verse *genre_comedy *dist1_cailhava_verse_comedy_egoisme *dist2_cailhava_verse_comedy *id_LECHEVALIER *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
 
       Quel air décent, et qu'elle est belle !
 Osons lui déclarer !... Ah ! Suis-je digne d'elle !
@@ -752,8 +753,8 @@ Voilà de mes travaux et l'objet et le prix.
 
 Ah ! Je vous reconnais à de tels sentiments.
 
-
 **** *creator_cailhava *book_cailhava_egoisme *style_verse *genre_comedy *dist1_cailhava_verse_comedy_egoisme *dist2_cailhava_verse_comedy *id_POLIDOR *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polidor
+
 
       Laissez-moi respirer quelque temps.
 Je presse sur mon sein, j'embrasse mes parents,
@@ -1352,8 +1353,8 @@ Et trouve à ses projets tout le monde contraire.
 On l'aime, on l'encourage, et tout lui sert d'appui,
 S'il veut que son bonheur concourre au bien d'autrui.
 
+**** *creator_cailhava *book_cailhava_egoisme *style_verse *genre_comedy *dist1_cailhava_verse_comedy_egoisme *dist2_cailhava_verse_comedy *id_CONSTANCE *date_1777 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_constance
 
-**** *creator_cailhava *book_cailhava_egoisme *style_verse *genre_comedy *dist1_cailhava_verse_comedy_egoisme *dist2_cailhava_verse_comedy *id_CONSTANCE *date_1777 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_constance
 
       Tu soupires ?
 
@@ -1507,8 +1508,8 @@ Qui, par mille vertus, est digne de mon choix.
       Que la reconnaissance
 Nous jette maintenant...
 
-
 **** *creator_cailhava *book_cailhava_egoisme *style_verse *genre_comedy *dist1_cailhava_verse_comedy_egoisme *dist2_cailhava_verse_comedy *id_MARTON *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marton
+
 
       Eh, Clermon !
 
@@ -1718,8 +1719,8 @@ Le coeur en vain résiste, il faut en venir là.
 
 Il est furieux...
 
+**** *creator_cailhava *book_cailhava_egoisme *style_verse *genre_comedy *dist1_cailhava_verse_comedy_egoisme *dist2_cailhava_verse_comedy *id_LAPIERRE *date_1777 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_lapierre
 
-**** *creator_cailhava *book_cailhava_egoisme *style_verse *genre_comedy *dist1_cailhava_verse_comedy_egoisme *dist2_cailhava_verse_comedy *id_LAPIERRE *date_1777 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_lapierre
 
       Monsieur voit-il du monde ?
 
@@ -1782,8 +1783,8 @@ Et bien enveloppé.
 
 « L'Univers vient de perdre le célèbre Charitides, âgé de cent trois ans : il est mort de fatigue, en composant son Dictionnaire des Dictionnaires. »
 
-
 **** *creator_cailhava *book_cailhava_egoisme *style_verse *genre_comedy *dist1_cailhava_verse_comedy_egoisme *dist2_cailhava_verse_comedy *id_CLERMON *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clermon
+
 
 Laissez-là cette malle, et voilà de quoi boire.
 Hola, quelqu'un.
@@ -2068,8 +2069,8 @@ Tout était fait. Cent fois j'ai voulu vous l'apprendre,
 Mais mon zèle craignait... jusques à votre coeur.
 Voilà les bons : il n'a que ceux de l'imposteur.
 
-
 **** *creator_cailhava *book_cailhava_egoisme *style_verse *genre_comedy *dist1_cailhava_verse_comedy_egoisme *dist2_cailhava_verse_comedy *id_DURAND *date_1777 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_durand
+
 
 Des fils de la maison j'ai cultivé l'enfance.
 Ergo, mes doctes soins méritent récompense.
@@ -2383,4 +2384,3 @@ Je vous l'avais prédit ; et, dans votre jeune âge,
 Tout en lisant Sénèque...
 
 Per Jovem !
-

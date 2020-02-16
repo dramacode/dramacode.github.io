@@ -2,6 +2,7 @@
 
 **** *creator_bievre *book_bievre_vercingentorixe *style_verse *genre_tragedy *dist1_bievre_verse_tragedy_vercingentorixe *dist2_bievre_verse_tragedy *id_VERCINGENTORIXE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_vercingentorixe
 
+
 Dans ces lieux à l'anglaise, où ma voix vous amène,
 Il faut de nos malheurs rompre le cours la reine.
 Amis, vous dont l'esprit est plus mûr mitoyen,
@@ -73,8 +74,8 @@ Dieux ! Convictolitan !
 Ce qu'a fait Critognat, je m'acquitte envers toi !
 Dans tes bras séculiers reçois ton frère.
 
-
 **** *creator_bievre *book_bievre_vercingentorixe *style_verse *genre_tragedy *dist1_bievre_verse_tragedy_vercingentorixe *dist2_bievre_verse_tragedy *id_CATUAT *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_catuat
+
 
       Seigneur, ce point de vue
 Mérite un examen plus clair de procureur;
@@ -88,8 +89,8 @@ Ah ! De votre main d'oeuvre, ami, guidez la mienne.
 Ne me refusez point; car de conversion,
 Vous me rendrez enfin un service de table.
 
-
 **** *creator_bievre *book_bievre_vercingentorixe *style_verse *genre_tragedy *dist1_bievre_verse_tragedy_vercingentorixe *dist2_bievre_verse_tragedy *id_CONUTODUN *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_conutodun
+
 
 C'est à mon chef Saint-Jean que ma bouche de four
 Ose dévoiler tout de point en point du jour.
@@ -119,8 +120,8 @@ Et le courage, ami.
 
       Non.
 
-
 **** *creator_bievre *book_bievre_vercingentorixe *style_verse *genre_tragedy *dist1_bievre_verse_tragedy_vercingentorixe *dist2_bievre_verse_tragedy *id_CRITOGNAT *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_critognat
+
 
 Vous, Catuat, ô ciel ! seigneur, daignez m'entendre;
 Non, je ne puis souffrir ni ce plan de maison,
@@ -212,8 +213,8 @@ Et dans ces plats pays... Ô comble des horreurs !
 
       Oui, Seigneur.
 
-
 **** *creator_bievre *book_bievre_vercingentorixe *style_verse *genre_tragedy *dist1_bievre_verse_tragedy_vercingentorixe *dist2_bievre_verse_tragedy *id_CONVICTOLITAN *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_convictolitan
+
 
 Oui, nous sommes, Seigneur, si bas de Ségovie,
 Qu'un remède d'eau chaude utile à la patrie
@@ -261,8 +262,15 @@ Ton image en mon coeur sera peinte ou chopine.
 
       Sylvie !...
 
+**** *creator_bievre *book_bievre_vercingentorixe *style_verse *genre_tragedy *dist1_bievre_verse_tragedy_vercingentorixe *dist2_bievre_verse_tragedy *id_EPOREDORIXE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eporedorixe
 
-**** *creator_bievre *book_bievre_vercingentorixe *style_verse *genre_tragedy *dist1_bievre_verse_tragedy_vercingentorixe *dist2_bievre_verse_tragedy *id_SYLVIE *date_(non *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_sylvie
+
+C'est mon avis, seigneur, et mon coeur de laitue...
+
+      Ah ! Seigneur !
+
+**** *creator_bievre *book_bievre_vercingentorixe *style_verse *genre_tragedy *dist1_bievre_verse_tragedy_vercingentorixe *dist2_bievre_verse_tragedy *id_SYLVIE *date_(non *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_sylvie
+
 
       Ciel ! de mon lit,
 Prenez garde malade, ô prince ! On vous trahit :
@@ -346,3 +354,8 @@ Le mien ne sera point souillé par le fer blanc.
 Je vais me retirer dans ma tente ou ma nièce,
 Et j'attendrai la mort de la faim de la pièce.
 
+**** *creator_bievre *book_bievre_vercingentorixe *style_verse *genre_tragedy *dist1_bievre_verse_tragedy_vercingentorixe *dist2_bievre_verse_tragedy *id_UNSOLDAT *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_unsoldat
+
+
+Seigneur, je voudrais bien vous celer et brider
+Que...

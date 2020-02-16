@@ -1,6 +1,44 @@
 
 
+**** *creator_dancourt *book_dancourt_divertissementdesceaux *style_verse *genre_comedieballet *dist1_dancourt_verse_comedieballet_divertissementdesceaux *dist2_dancourt_verse_comedieballet *id_MONSIEURPOISSON *date_1705 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurpoisson
+
+
+Parbleu je suis ravi que cela soit comme vous le dites, et… Nous sommes aussi nous autres l'élite d'une Troupe favorite, non pas de Vénus, mais de Comus, et si peu que rien d'Apollon… Comédiens pour vous rendre service, Monsieur le Druide. Et puisque le hasard… nous conduit heureusement dans une Cour aussi charmante que celle-ci, auprès d'une Souveraine si agréablement vertueuse, nous vous prions de lui faire agréer que… nous ayons, s'il vous plaît, l'honneur de lui donner… un petit plat de notre métier. Je ne sais pas parler en musique comme vous… moi ; mais cela n'empêche pas que je me réjouisse quelquefois en parlant autrement, par exemple… je suis le Comique… et nous sommes tous camarades ; enfin c'est ce qui fait que comme nous n'avons point de maître, nous ne sommes pas toujours bien d'accord… Mais ce qu'il y a de constant… c'est que l'on s'accorde pour contribuer au plaisirs de l'AUGUSTE SOUVERAINE chez qui nous sommes, et dans l'objet que nous avons d'y réussir, nous sommes tous d'une docilité, d'une tranquillité d'esprit… enfin, expliquez-lui cela, s'il vous plaît, Monsieur le Druide, et n'oubliez pas de parler surtout du zèle et du respectueux attachement que nous avons tous, et de bien marquer… là… combien nous nous estimons heureux de trouver la moindre petite occasion de tâcher de nous rendre dignes de l'honneur de sa bienveillance et de sa protection. Allons, Messieurs, Mesdemoiselles, achevez, s'il vous plaît, votre façon de prologue, et nous commencerons notre Comédie.
+
+**** *creator_dancourt *book_dancourt_divertissementdesceaux *style_verse *genre_comedieballet *dist1_dancourt_verse_comedieballet_divertissementdesceaux *dist2_dancourt_verse_comedieballet *id_MONSIEURSALLE *date_1705 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieursalle
+
+
+Dans ce séjour chéri des Dieux,
+Troupe aimable, qui vous attire ?
+N'est-ce qu'un désir curieux
+D'y voir les beautés qu'on admire ?
+
+
+
+Si cette Cour charmante
+Est contente
+Des soins que nous avons pris,
+Le succès passe notre attente,
+Est-il un plus digne de prix ?
+
+Que la troupe diligente
+Des plaisirs, des Jeux, des Ris,
+Vienne dans ces lieux chéris,
+Finir cette fête galante.
+
+Si cette Cour charmante
+Est contente
+Des soins que nous avons pris,
+Le succès passe notre attente,
+Est-il un plus digne de prix ?
+
+**** *creator_dancourt *book_dancourt_divertissementdesceaux *style_verse *genre_comedieballet *dist1_dancourt_verse_comedieballet_divertissementdesceaux *dist2_dancourt_verse_comedieballet *id_MONSIEURPOISSON *date_1705 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurpoisson
+
+
+Parbleu je suis ravi que cela soit comme vous le dites, et… Nous sommes aussi nous autres l'élite d'une Troupe favorite, non pas de Vénus, mais de Comus, et si peu que rien d'Apollon… Comédiens pour vous rendre service, Monsieur le Druide. Et puisque le hasard… nous conduit heureusement dans une Cour aussi charmante que celle-ci, auprès d'une Souveraine si agréablement vertueuse, nous vous prions de lui faire agréer que… nous ayons, s'il vous plaît, l'honneur de lui donner… un petit plat de notre métier. Je ne sais pas parler en musique comme vous… moi ; mais cela n'empêche pas que je me réjouisse quelquefois en parlant autrement, par exemple… je suis le Comique… et nous sommes tous camarades ; enfin c'est ce qui fait que comme nous n'avons point de maître, nous ne sommes pas toujours bien d'accord… Mais ce qu'il y a de constant… c'est que l'on s'accorde pour contribuer au plaisirs de l'AUGUSTE SOUVERAINE chez qui nous sommes, et dans l'objet que nous avons d'y réussir, nous sommes tous d'une docilité, d'une tranquillité d'esprit… enfin, expliquez-lui cela, s'il vous plaît, Monsieur le Druide, et n'oubliez pas de parler surtout du zèle et du respectueux attachement que nous avons tous, et de bien marquer… là… combien nous nous estimons heureux de trouver la moindre petite occasion de tâcher de nous rendre dignes de l'honneur de sa bienveillance et de sa protection. Allons, Messieurs, Mesdemoiselles, achevez, s'il vous plaît, votre façon de prologue, et nous commencerons notre Comédie.
+
 **** *creator_dancourt *book_dancourt_divertissementdesceaux *style_verse *genre_comedieballet *dist1_dancourt_verse_comedieballet_divertissementdesceaux *dist2_dancourt_verse_comedieballet *id_MADEMOISELLESALLE *date_1705 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellesalle
+
 
 Ne portons pas
 Plus loin nos pas,
@@ -121,4 +159,3 @@ Sans craindre prenons-en donc.
 Qui s'ennuie
 Dans la vie,
 N'a ni bon sens, ni raison.
-

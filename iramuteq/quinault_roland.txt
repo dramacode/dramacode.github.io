@@ -2,6 +2,7 @@
 
 **** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *id_DEMOGORGON *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_demogorgon
 
+
 Le ciel qui m'a fait votre roi,
 Dans votre destin m'intéresse :
 Je vous assemble ici pour calmer votre effroi ;
@@ -29,8 +30,28 @@ Il avait mis aux fers la Discorde inhumaine ;
 En vain elle a rompu sa chaîne,
 Il l'enchaîne encore une fois.
 
+**** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *id_LAPRINCIPALEFEE *date_1685 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laprincipalefee
+
+
+Au milieu d'une paix profonde,
+Offrons des jeux nouveaux au héros glorieux,
+Qui prend soin du bonheur du monde.
+Allons nous transformer pour paraître à ses yeux.
+
+**** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *id_UNEFEE *date_1685 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_unefee
+
+
+C'est l'amour qui nous menace ;
+Que de coeurs sont en danger !
+Quelques maux que l'Amour fasse,
+On ne peut s'en dégager.
+Il revient quand on le chasse,
+Il se plaît à se venger.
+C'est l'amour qui nous menace ;
+Que de coeurs sont en danger !
 
 **** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *id_ANGELIQUE *date_1685 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+
 
 Ah ! Que mon coeur est agité !
 L'amour y combat la fierté,
@@ -318,8 +339,8 @@ Le zèle ardent que vous avez pour moi,
 Reconnaissez Médor pour votre maître,
 Rendez hommage à votre roi.
 
-
 **** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *id_TEMIRE *date_1685 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_temire
+
 
 Vous avez peu d'impatience
 de voir le riche don qu'on va vous pr2senter.
@@ -404,8 +425,8 @@ Rien ne vous pourra secourir.
 
 Où voulez-vous aller ? Que pouvez-vous prétendre ?
 
-
 **** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *id_MEDOR *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_medor
+
 
 Ah ! Quel tourment
 De garder en aimant
@@ -570,8 +591,27 @@ Vivons l'amour nous y convie,
 Réservons-nous
 Pour un amour si doux.
 
+**** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *id_ZILIANTE *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ziliante
+
+
+Au généreux Roland je dois ma délivrance ;
+D'un charme affreux sa valeur m'a sauvé ;
+Il n'a voulu de ma reconnaissance
+Que ce présent qu'il vous a réservé.
+Je viens, pour vous l'offrir, du rivage où l'aurore
+Ouvre la barrière du jour.
+Vous embrasez Roland d'un feu qui le dévore,
+Mais qui peut voir la beauté qu'il adore
+Voit sans étonnement l'excès de son amour.
+Triomphez, charmante reine,
+Triomphez des plus grands coeurs.
+Ce n'est qu'aux plus fameux vainqueurs
+Qu'il est permis de porter votre chaîne.
+Triomphez, charmante reine,
+Triomphez des plus grands coeurs.
 
 **** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *id_ROLAND *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roland
+
 
 Belle Angélique, enfin, je vous trouve en ces lieux
 Ciel ! Quel enchantement vous dérobe à mes yeux !
@@ -858,8 +898,8 @@ Dans l'éternelle obscurité.
 Allons, courons aux armes.
 Que la gloire a de charmes !
 
-
 **** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *id_ASTOLFE *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_astolfe
+
 
 Quel charme vous retient dans ce lieu solitaire ?
 
@@ -894,8 +934,8 @@ Le plus grand des héros et le plus malheureux ?
 
 J'attends tout pour Roland de vos soins salutaires.
 
-
 **** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *id_CORIDON *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_coridon
+
 
 J'aimerai toujours ma bergère.
 
@@ -946,8 +986,8 @@ Il frémit !
 
 Son trouble est apaisé.
 
-
 **** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *id_TERSANDRE *date_1685 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tersandre
+
 
 Allez, laissez-nous, soins fâcheux,
 Éloignez-vous de nos paisibles jeux.
@@ -1005,8 +1045,8 @@ Dans le riche séjour d'une cour magnifique,
 Puissent-t-ils sur un trône d'or
 S'aimer comme ils s'aimaient dans ce séjour rustique.
 
-
 **** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *id_LOGISTILLE *date_1685 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_logistille
+
 
 Vos justes voeux sont prévenus ;
 Déjà par des chemins aux mortels inconnus
@@ -1062,3 +1102,12 @@ Est exempt de faiblesse ?
 
 Allez, suivez la gloire.
 
+**** *creator_quinault *book_quinault_roland *style_verse *genre_show *dist1_quinault_verse_show_roland *dist2_quinault_verse_show *id_LAGLOIRE *date_1685 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lagloire
+
+
+Roland il faut armer votre invincible bras.
+La Terreur se prépare à devancer vos pas
+Sauvez votre pays d'une guerre cruelle
+Ne suivez plus l'amour c'est un guide infidèle
+Non, n'oubliez jamais
+Les maux que l'amour vous a faits.

@@ -2,6 +2,7 @@
 
 **** *creator_diderot *book_diderot_filsnaturel *style_prose *genre_tragicomedie *dist1_diderot_prose_tragicomedie_filsnaturel *dist2_diderot_prose_tragicomedie *id_LYSIMOND *date_1757 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lysimond
 
+
 Oui, mon fils, oui, c'est moi.
 Approchez, mes enfants, que je vous embrasse... Ah ! Ma fille ! Ah ! Mon fils !...
 Du moins, je les ai vus...
@@ -29,8 +30,8 @@ Mon fils, que te veulent-ils ? Il faut que tu leur aies donné quelque grand suj
 
 Puisse le ciel, qui bénit les enfants par les pères, et les pères par les enfants, vous en accorder qui vous ressemblent, et qui vous rendent la tendresse que vous avez pour moi !
 
-
 **** *creator_diderot *book_diderot_filsnaturel *style_prose *genre_tragicomedie *dist1_diderot_prose_tragicomedie_filsnaturel *dist2_diderot_prose_tragicomedie *id_DORVAL *date_1757 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorval
+
 
 À peine est-il six heures.
 Je ne saurais dormir.
@@ -315,8 +316,8 @@ J'étais un insensé, vous étiez un enfant.
 
 Mon père, la joie de vous revoir nous a tous transportés.
 
-
 **** *creator_diderot *book_diderot_filsnaturel *style_prose *genre_tragicomedie *dist1_diderot_prose_tragicomedie_filsnaturel *dist2_diderot_prose_tragicomedie *id_ROSALIE *date_1757 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosalie
+
 
 Justine, approchez mon ouvrage.
 
@@ -450,8 +451,8 @@ Sa passion !
 
 Mon frère...
 
-
 **** *creator_diderot *book_diderot_filsnaturel *style_prose *genre_tragicomedie *dist1_diderot_prose_tragicomedie_filsnaturel *dist2_diderot_prose_tragicomedie *id_JUSTINE *date_1757 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_justine
+
 
 Est-ce là la joie avec laquelle vous attendez monsieur votre père ? Sont-ce là les transports que vous lui préparez ? Depuis un temps, je n'entends rien à votre âme. Il faut que ce qui s'y passe soit mal ; car vous me le cachez ; et vous faites très bien.
 Perdez-vous l'esprit, mademoiselle ? Au moment de l'arrivée d'un père ! À la veille d'un mariage ! Encore un coup, perdez-vous l'esprit ?
@@ -478,8 +479,8 @@ Votre père échappe à mille dangers ! Votre fortune est réparée ! Vous deven
 
 Mademoiselle, qu'allez-vous faire ?
 
-
 **** *creator_diderot *book_diderot_filsnaturel *style_prose *genre_tragicomedie *dist1_diderot_prose_tragicomedie_filsnaturel *dist2_diderot_prose_tragicomedie *id_ANDRE *date_1757 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_andre
+
 
 Monsieur, je m'appelle André. Je suis au service d'un honnête vieillard. J'ai été le compagnon de ses infortunes ; et je venais annoncer son retour à sa fille.
 
@@ -514,8 +515,8 @@ Mais cet ami est absent depuis plusieurs mois ; et mon maître comptait me suivr
 
 Non, monsieur. Je ne lui apporte que de la douleur, et je n'ai pas osé paraître devant elle.
 
-
 **** *creator_diderot *book_diderot_filsnaturel *style_prose *genre_tragicomedie *dist1_diderot_prose_tragicomedie_filsnaturel *dist2_diderot_prose_tragicomedie *id_CHARLES *date_1757 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_charles
+
 
 Monsieur, ne vous faut-il plus rien ?
 
@@ -554,8 +555,8 @@ Monsieur, j'ai fait remettre à Rosalie.
 
 En voilà la preuve.
 
-
 **** *creator_diderot *book_diderot_filsnaturel *style_prose *genre_tragicomedie *dist1_diderot_prose_tragicomedie_filsnaturel *dist2_diderot_prose_tragicomedie *id_CLAIRVILLE *date_1757 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clairville
+
 
 On vient de me l'apprendre.
 
@@ -744,8 +745,8 @@ J'ai tout compris. Il exposa sa vie pour moi ; il me sacrifiait sa fortune !
 
 Ah ! Mon ami !
 
-
 **** *creator_diderot *book_diderot_filsnaturel *style_prose *genre_tragicomedie *dist1_diderot_prose_tragicomedie_filsnaturel *dist2_diderot_prose_tragicomedie *id_CONSTANCE *date_1757 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_constance
+
 
 J'ai perdu le sommeil. Mais vous-même, déjà habillé !
 
@@ -833,3 +834,11 @@ Et vous, mademoiselle, courez embrasser votre père. Le voilà.
 
 Sa liberté !
 
+**** *creator_diderot *book_diderot_filsnaturel *style_prose *genre_tragicomedie *dist1_diderot_prose_tragicomedie_filsnaturel *dist2_diderot_prose_tragicomedie *id_SYLVESTRE *date_1757 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sylvestre
+
+
+Monsieur, Clairville demande à vous parler.
+
+Madame vient de rentrer. Elle va descendre.
+
+Oui, monsieur.

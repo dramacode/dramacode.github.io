@@ -2,6 +2,7 @@
 
 **** *creator_corneillep *book_corneillep_horace *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_horace *dist2_corneillep_verse_tragedy *id_TULLE *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tulle
 
+
       Non, levez-vous, mon père :
 Je fais ce qu'en ma place un bon prince doit faire.
 Un si rare service et si fort important
@@ -92,8 +93,8 @@ Achève le destin de son amant et d'elle,
 Je veux qu'un même jour, témoin de leurs deux morts,
 En un même tombeau voie enfermer leurs corps.
 
-
 **** *creator_corneillep *book_corneillep_horace *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_horace *dist2_corneillep_verse_tragedy *id_VIEILHORACE *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_vieilhorace
+
 
 Qu'est-ce-ci, mes enfants ? Écoutez-vous vos flammes,
 Et perdez-vous encor le temps avec des femmes ?
@@ -418,8 +419,8 @@ Et pour servir encor ton pays et ton roi.
 Sire, j'en ai trop dit ; mais l'affaire vous touche ;
 Et Rome toute entière a parlé par ma bouche.
 
-
 **** *creator_corneillep *book_corneillep_horace *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_horace *dist2_corneillep_verse_tragedy *id_HORACE *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_horace
+
 
 Loin de trembler pour Albe, il vous faut plaindre Rome
 Vu ceux qu'elle rejette et les trois qu'elle nomme,
@@ -695,8 +696,8 @@ Et si ce que j'ai fait vaut quelque récompense,
 Permettez, ô grand roi, que de ce bras vainqueur
 Je m'immole à ma gloire, et non pas à ma soeur.
 
-
 **** *creator_corneillep *book_corneillep_horace *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_horace *dist2_corneillep_verse_tragedy *id_CURIACE *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_curiace
+
 
 N'en doutez point, Camille, et revoyez un homme
 Qui n'est ni le vainqueur ni l'esclave de Rome :
@@ -950,8 +951,8 @@ L'amenez-vous ici chercher même avantage.
 
 Quel adieu vous dirai-je, et par quels compliments…
 
-
 **** *creator_corneillep *book_corneillep_horace *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_horace *dist2_corneillep_verse_tragedy *id_VALERE *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+
 
 Envoyé par le roi pour consoler un père,
 Et pour lui témoigner…
@@ -1098,8 +1099,8 @@ Sauvez-nous de sa main, et redoutez les dieux.
 
 Sire, permettez-moi…
 
-
 **** *creator_corneillep *book_corneillep_horace *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_horace *dist2_corneillep_verse_tragedy *id_SABINE *date_1640 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sabine
+
 
 Approuvez ma faiblesse, et souffrez ma douleur,
 Elle n'est que trop juste en un si grand malheur ;
@@ -1504,8 +1505,8 @@ Des dieux qu'a pu fâcher sa vertu trop sévère,
 Satisfaire en mourant aux mânes de sa soeur,
 Et conserver à Rome un si bon défenseur.
 
-
 **** *creator_corneillep *book_corneillep_horace *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_horace *dist2_corneillep_verse_tragedy *id_CAMILLE *date_1640 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_camille
+
 
 Pourquoi fuir, et vouloir que je vous entretienne ?
 Croit-elle ma douleur moins vive que la sienne,
@@ -1843,8 +1844,8 @@ Moi seule en être cause, et mourir de plaisir !
 
 Ah ! Traître !
 
-
 **** *creator_corneillep *book_corneillep_horace *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_horace *dist2_corneillep_verse_tragedy *id_JULIE *date_1640 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+
 
 C'en est peut-être assez pour une âme commune,
 Qui du moindre péril se fait une infortune ;
@@ -2007,8 +2008,8 @@ Tes voeux sont exaucés, elles goûtent la paix,
 Et tu vas être unie avec ton Curiace
 Sans qu'aucun mauvais sort t'en sépare jamais.
 
-
 **** *creator_corneillep *book_corneillep_horace *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_horace *dist2_corneillep_verse_tragedy *id_FLAVIAN *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_flavian
+
 
 Je viens pour vous l'apprendre.
 
@@ -2024,3 +2025,9 @@ Ce morne et froid accueil me surprend à mon tour.
 
 Contre eux ! Ah, c'est beaucoup me dire en peu de mots !
 
+**** *creator_corneillep *book_corneillep_horace *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_horace *dist2_corneillep_verse_tragedy *id_PROCULE *date_1640 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_procule
+
+
+Que venez-vous de faire ?
+
+Vous deviez la traiter avec moins de rigueur.

@@ -2,6 +2,7 @@
 
 **** *creator_sophocle *book_sophocle_antigone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_antigone *dist2_sophocle_prose_tragedy *id_ANTIGONE *date_1877 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_antigone
 
+
 Ô chère tête fraternelle d'Ismènè, sais-tu quels sont les maux venus d'Oedipe que Zeus ne nous inflige pas, à nous qui vivons encore ? En effet, il n'est rien de cruel, d'amer, de honteux et d'ignominieux que je n'aie vu parmi tes maux et les miens. Et, maintenant, quel est cet édit récent que le maître de la ville a imposé à tous les citoyens ? Le connais-tu ? L'as-tu entendu ? Ou les maux te sont-ils cachés qu'on médite contre nos amis et qu'on a coutume de souffrir de la part d'un ennemi ?
 
 Je le sais bien ; mais je t'ai demandé de sortir de la demeure, afin que tu m'entendisses seule.
@@ -92,8 +93,8 @@ Hélas ! Ma mort est très proche de cette parole.
 
 Ô ville paternelle de la terre Thébéienne ! Ô dieux de mes aïeux ! Je suis emmenée sans plus de retard. Voyez, ô chefs de Thèbes, de quels maux m'accablent les hommes, parce que j'ai honoré la piété !
 
-
 **** *creator_sophocle *book_sophocle_antigone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_antigone *dist2_sophocle_prose_tragedy *id_ISMENE *date_1877 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_ismene
+
 
 Aucune nouvelle de nos amis, Antigone, n'est venue à moi, joyeuse ou triste, depuis que nous avons été privées de nos deux frères, morts en un seul jour, l'un par l'autre. L'armée des Argiens s'en étant allée cette nuit, je ne sais rien de plus qui puisse me rendre plus heureuse ou plus malheureuse.
 
@@ -149,8 +150,8 @@ Tueras-tu donc la fiancée de ton propre fils ?
 
 Rien ne convenait mieux à l'un et à l'autre.
 
-
 **** *creator_sophocle *book_sophocle_antigone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_antigone *dist2_sophocle_prose_tragedy *id_CREON *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_creon
+
 
 Hommes ! Les dieux ont enfin sauvé cette ville qu'ils avaient battue de tant de flots. Je vous ai ordonné par des envoyés de vous réunir ici, choisis entre tous, parce que vous avez, je le sais, toujours honoré la puissance de Laios, et gardé la même foi constante à Oedipe quand il commandait dans la ville, et, lui mort, à ses enfants. Puisqu'ils ont péri tous deux en un même jour, tués l'un par l'autre en un meurtre mutuel et impie, je possède maintenant la puissance et le trône, étant le plus proche parent des morts. L'esprit, l'âme et les desseins d'un homme ne peuvent être connus avant qu'il ait mené la chose publique et appliqué les lois. Quiconque régit la ville et ne se conforme point aux meilleurs principes, mais réprime sa langue par frayeur, celui-là est le pire des hommes, je l'ai toujours pensé et je le pense encore ; et je n'estime en aucune façon celui qui préfère un ami à sa patrie. J'en atteste Zeus qui voit toutes choses ! Je ne me tais point quand je vois qu'une calamité menace le salut des citoyens, et jamais je n'ai en amitié un ennemi de la patrie ; car je sais que c'est le salut de la patrie qui sauve les citoyens, et que nous ne manquons point d'amis tant qu'elle est en sûreté. C'est par de telles pensées que j'accroîtrai cette ville. Et j'ai ordonné par un édit qu'on enfermât dans un tombeau Étéocle qui, en combattant pour cette ville, est mort bravement, et qu'on lui rendît les honneurs funèbres dus aux ombres des vaillants hommes. Mais, pour son frère Polynice qui, revenu de l'exil, a voulu détruire par la flamme sa patrie et les dieux de sa patrie, qui a voulu boire le sang de ses proches et réduire les citoyens en servitude, je veux que nul ne lui donne un tombeau, ni ne le pleure, mais qu'on le laisse non enseveli, et qu'il soit honteusement déchiré par les oiseaux carnassiers et par les chiens. Telle est ma volonté. Les impies ne recevront jamais de moi les honneurs dus aux justes ; mais quiconque sera l'ami de cette ville, vivant, ou mort, sera également honoré par moi.
 
@@ -340,8 +341,8 @@ Mais aussi n'ai-je demandé par mes prières que ce que je désire.
 
 Emmenez au loin un insensé, moi qui t'ai tué, ô enfant, et toi que voilà, aussi ! Ô malheureux ! Je ne sais, n'ayant plus rien, de quel côté me tourner. Tout ce que j'avais en mains est tombé ; une insupportable destinée s'est ruée sur ma tête.
 
-
 **** *creator_sophocle *book_sophocle_antigone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_antigone *dist2_sophocle_prose_tragedy *id_HEMON *date_1877 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_hemon
+
 
 Père, je t'appartiens ; tu me diriges par tes sages conseils, et je les suis. Le désir d'aucun mariage ne sera plus puissant sur moi que ta sagesse.
 
@@ -379,8 +380,8 @@ Veux-tu toujours parler et ne rien écouter ?
 
 Non, certes, pas devant moi ! Non, ne crois point ceci. Elle ne mourra jamais devant moi, et jamais aussi tu ne me reverras de tes yeux, afin que tu puisses délirer au milieu de tes amis qui y consentent.
 
-
 **** *creator_sophocle *book_sophocle_antigone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_antigone *dist2_sophocle_prose_tragedy *id_LEGARDIEN *date_1877 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_legardien
+
 
 Roi, je ne dirai pas sans doute que je suis venu, haletant, d'un pas rapide et pressé. Je me suis attardé en proie à beaucoup de soucis, et retournant souvent en arrière sur mon chemin. En effet,je me suis dit bien des fois : – Malheureux ! pourquoi courir à ton propre châtiment ? Mais t'arrêteras-tu, malheureux ? Si Créon apprend ceci de quelque autre, comment échapperas-tu à ta perte ? – Roulant ces choses dans mon esprit, j'ai marché lentement de sorte que la route est devenue longue, bien qu'elle soit courte. Enfin j'ai résolu de venir à toi, et quoique je ne rapporte rien de certain, je parlerai cependant. En effet, je viens dans l'espoir de ne souffrir que ce que la destinée a décidé.
 
@@ -414,8 +415,8 @@ Je l'ai vue ensevelissant le cadavre que tu avais défendu d'ensevelir. Ai-je pa
 
 La chose s'est passée ainsi. Dès que nous fûmes retournés, pleins de terreur à cause de tes menaces terribles, ayant enlevé toute la poussière qui couvrait le corps et l'ayant mis à nu tout putréfié, nous nous assîmes au sommet des collines, contre le vent, pour fuir l'odeur et afin qu'elle ne nous atteignît pas, et nous nous excitions l'un l'autre par des injures, dès qu'un d'entre nous négligeait de veiller. La chose fut ainsi jusqu'à l'heure où l'orbe de Hélios s'arrêta au milieu de l'aithèr et que son ardeur brûla. Alors un brusque tourbillon, soulevant une tempête sur la terre et obscurcissant l'air, emplit la plaine et dépouilla tous les arbres de leur feuillage, et le grand aithèr fut enveloppé d'une épaisse poussière. Et, les yeux fermés, nous subissions cette tempête envoyée par les Dieux. Enfin, après un long temps, quand l'orage eut été apaisé, nous aperçûmes cette jeune fille qui se lamentait d'une voix aiguë, telle que l'oiseau désolé qui trouve le nid vide de ses petits. De même celle-ci, dès qu'elle vit le cadavre nu, hurla des lamentations et des imprécations terribles contre ceux qui avaient fait cela. Aussitôt elle apporte de la poussière sèche, et, à l'aide d'un vase d'airain forgé au marteau, elle honore le mort d'une triple libation. L'ayant vue, nous nous sommes élancés et nous l'avons saisie brusquement sans qu'elle en fût effrayée. Et nous l'avons interrogée sur l'action déjà commise et sur la plus récente, et elle n'a rien nié. Et ceci m'a plu et m'a attristé en même temps. Car, s'il est très doux d'échapper au malheur, il est triste d'y mener ses amis. Mais tout est d'un moindre prix que mon propre salut.
 
-
 **** *creator_sophocle *book_sophocle_antigone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_antigone *dist2_sophocle_prose_tragedy *id_LEMESSAGER *date_1877 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lemessager
+
 
 Habitants des demeures de Kadmos et d'Amphiôn, la vie est toujours telle que je ne puis ni la louer, ni l'accuser. En effet, la fortune élève et renverse toujours l'homme heureux et l'homme malheureux, et aucun divinateur ne peut révéler jamais avec certitude la destinée future des mortels. Créon, selon moi, était digne d'envie parce qu'il avait sauvé de ses ennemis cette terreKadméienne. Ayant ici la puissance suprême, il régnait heureusement et florissait par une noble race ; mais voici que tout s'est évanoui. En effet, quand un homme a perdu le bonheur, je pense qu'il est moins un vivant qu'un cadavre animé. Autant que tu le voudras, jouis de tes richesses dans ta demeure et de l'orgueil de la tyrannie ; cependant, si tu ne possèdes pas la joie, je n'achèterais pas tout cela, comparé au bonheur, pour l'ombre d'une fumée.
 
@@ -433,8 +434,8 @@ J'en suis étonné comme toi-même. Cependant je me flatte de l'espoir qu'ayant 
 
 Nous saurons bientôt, entrés dans la demeure, ce qu'elle cache dans son coeur irrité ; car, tu dis bien : un trop grand silence est effrayant en effet.
 
-
 **** *creator_sophocle *book_sophocle_antigone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_antigone *dist2_sophocle_prose_tragedy *id_TIRESIAS *date_1877 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_tiresias
+
 
 Princes de Thèbes, nous sommes venus ensemble, voyant par les yeux d'un seul, car il faut que les aveugles soient conduits pour marcher.
 
@@ -464,8 +465,13 @@ Je ne pense pas avoir parlé ainsi en ce qui te concernait.
 
 Sache bien à ton tour qu'il n'y aura pas beaucoup de révolutions des rapides roues de Hélios, avant que tu n'aies payé les morts par la mort de quelqu'un de ton propre sang, pour avoir renvoyé sous terre une âme encore vivante, pour l'avoir ignominieusement enfermée vivante dans le tombeau, et parce que tu retiens ici, loin des dieux souterrains, un cadavre non enseveli et non honoré. Et ceci n'appartient ni à toi, ni aux dieux Ouraniens, et tu agis ainsi par violence. C'est pourquoi les Érinnyes vengeresses du Hadès et des dieux te dressent des embûches, afin que tu subisses les mêmes maux. Vois si je parle ainsi corrompu par l'argent. Avant peu de temps les lamentations des hommes et des femmes éclateront dans tes demeures. Tel qu'un archer, je t'envoie sûrement ces flèches de colère au coeur, car tu m'irrites, et tu n'éviteras pas leur blessure cuisante. Toi, enfant, ramène-moi dans ma demeure, afin qu'il répande la fureur de son âme contre de plus jeunes, et qu'il apprenne à parler plus modérément, et qu'il nourrisse une pensée meilleure que celle qu'il a maintenant.
 
+**** *creator_sophocle *book_sophocle_antigone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_antigone *dist2_sophocle_prose_tragedy *id_EURYDICE *date_1877 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_eurydice
+
+
+Ô vous tous, citoyens, j'ai entendu ce que vous disiez au moment où je sortais afin d'aller supplier la déesse Pallas. Le verrou retiré, j'enlevais la barre de la porte, quand le bruit d'un malheur domestique a frappé mes oreilles. Épouvantée, je suis tombée à la renverse entre les bras des servantes, et le coeur m'a manqué. Redites-moi ces paroles, quelles qu'elles soient. Je les entendrai, ayant déjà subi assez de maux pour cela.
 
 **** *creator_sophocle *book_sophocle_antigone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_antigone *dist2_sophocle_prose_tragedy *id_LENVOYE *date_1877 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lenvoye
+
 
 Ô maître, tu as rencontré et tu possèdes tous les maux, portant les uns dans tes bras et devant bientôt contempler les autres dans ta demeure.
 
@@ -479,8 +485,8 @@ Cette morte t'a accusé de ces deux morts.
 
 De sa propre main elle s'est frappée de l'épée sous le foie, dès qu'elle a su la destinée lamentable de son fils.
 
+**** *creator_sophocle *book_sophocle_antigone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_antigone *dist2_sophocle_prose_tragedy *id_LECHOEUR *date_1877 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lechoeur
 
-**** *creator_sophocle *book_sophocle_antigone *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_antigone *dist2_sophocle_prose_tragedy *id_LECHOEUR *date_1877 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lechoeur
 
 Clarté splendide ! La plus belle des lumières qui aient lui sur Thèbes aux sept portes, tu as enfin paru au-dessus des sources Dirkaiennes. OEil du jour d'or ! Tu as repoussé et contraint de fuir, lâchant les rênes, l'homme au bouclier blanc, sorti tout armé d'Argos, et qui, levé contre notre terre pour la cause douteuse de Polynice, et poussant des cris aigus, s'est abattu ici comme un aigle à l'aile de neige, avec d'innombrables armes et des casques chevelus.
 Plus haut que nos demeures, il était là, dévorant, de toute part, avec ses lances avides de meurtre, autour des sept portes ; et il s'en est allé avant de s'être rassasié de notre sang, et avant que Héphaïstos résineux ait saisi nos tours crénelées ; tant a éclaté derrière lui le ressentiment d'Arès, invincible pour le Drakôn ennemi. Car Zeus hait l'impudence d'une langue orgueilleuse, et, les ayant vus se ruer impétueusement, très fiers de leur or strident, il a renversé, de la foudre dardée, celui qui se préparait à pousser le cri de la victoire au faîte de nos murailles.
@@ -587,4 +593,3 @@ Les choses sont futures. Il convient de s'occuper des choses présentes. C'est �
 Ne désire rien maintenant. Les mortels ne peuvent échapper à un malheur fatidique.
 
 La meilleure part du bonheur est la sagesse. Il faut toujours révérer les droits des démons. Les paroles superbes attirent aux orgueilleux de terribles maux qui leur enseignent tardivement la sagesse.
-

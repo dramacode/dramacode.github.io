@@ -2,6 +2,7 @@
 
 **** *creator_regnard *book_regnard_arlequinbonnesfortunes *style_prose *genre_comedy *dist1_regnard_prose_comedy_arlequinbonnesfortunes *dist2_regnard_prose_comedy *id_MEZZETIN *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mezzetin
 
+
 Vous faites l'entendu, parce que les bonnes fortunes vous suivent partout ; mais souvenez-vous que nous sommes deux laquais, et qu'il n'y a point d'autre différence entre nous que celle que j'y veux bien mettre : ainsi, un peu plus de douceur, s'il vous plaît, et un peu moins d'emportement avec votre camarade.
 
 Hé ! Nous travaillons pour cela.
@@ -46,8 +47,8 @@ Porte-la-moi :
 Dépêche-toi ;
 Car je suis mort, si je ne bois.
 
-
 **** *creator_regnard *book_regnard_arlequinbonnesfortunes *style_prose *genre_comedy *dist1_regnard_prose_comedy_arlequinbonnesfortunes *dist2_regnard_prose_comedy *id_BROCANTIN *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brocantin
+
 
 Quel ouvrage faites-vous là, vous ?
 
@@ -146,8 +147,8 @@ Assurément, et je le crois encore.
 
 Non. Est-ce que j'entends le langage des singes, moi ?
 
-
 **** *creator_regnard *book_regnard_arlequinbonnesfortunes *style_prose *genre_comedy *dist1_regnard_prose_comedy_arlequinbonnesfortunes *dist2_regnard_prose_comedy *id_ISABELLE *date_1690 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
 
 En vérité, vous êtes bien folle de farcir votre tête de vos sottes imaginations d'amour et de mariage. Est-ce là le parti que doit prendre une cadette, et ne devriez-vous pas avoir renoncé au monde ?
 
@@ -263,8 +264,8 @@ On ! Pardi, monsieur Bassinet, je crois que vos fumées d'amour pour Isabelle s
 
 Ah, ciel ! C'est Octave !
 
-
 **** *creator_regnard *book_regnard_arlequinbonnesfortunes *style_prose *genre_comedy *dist1_regnard_prose_comedy_arlequinbonnesfortunes *dist2_regnard_prose_comedy *id_COLOMBINE *date_1690 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colombine
+
 
 Mon Dieu, ma soeur, cela est bien aisé à dire ; mais vous ne parleriez pas comme vous faites, si vous sentiez ce que je sens.
 
@@ -444,8 +445,8 @@ Point de maître à danser ? Et quel mal font-ils aux maris ? Ils ne les touch
 
 Moi ? Je dis que je n'y entends rien. Qu'est-ce que c'est que de venir pondre dans nos nids ? Est-ce que l'on a des oeufs quand on est mariée ?
 
-
 **** *creator_regnard *book_regnard_arlequinbonnesfortunes *style_prose *genre_comedy *dist1_regnard_prose_comedy_arlequinbonnesfortunes *dist2_regnard_prose_comedy *id_PIERROT *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+
 
 Qu'est-ce donc, mesdemoiselles ? Voilà bien du bruit : il me semble que vous vous flattez comme chiens et chats. Est-ce que vous ne sauriez vous égratigner plus doucement ?
 
@@ -526,8 +527,8 @@ Oh ! Pardi, ne craignez rien avec moi ; il n'a qu'à venir. Ah, mademoiselle 
 
 Voilà l'ambassadeur du Pont-Neuf.
 
-
 **** *creator_regnard *book_regnard_arlequinbonnesfortunes *style_prose *genre_comedy *dist1_regnard_prose_comedy_arlequinbonnesfortunes *dist2_regnard_prose_comedy *id_MONSIEURBASSINET *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurbassinet
+
 
 Ah, monsieur ! Je vous demande pardon. On m'avait dit que mademoiselle Isabelle était dans sa chambre.
 Que diable cherche ici ce godelureau-là ?
@@ -576,3 +577,7 @@ Que le diable vous emporte ! Quelle peste de cérémonie !
 
 Ni moi d'une fille qui a eu des détorses de neuf mois. Allez, vieux radoteur, aux Petites-Maisons, avec votre chienlit. Je venais ici pour vous dire que je ne voulais point de la fille d'un fou, et qui passe toutes les nuits avec des godelureaux. Fi, la vilaine !
 
+**** *creator_regnard *book_regnard_arlequinbonnesfortunes *style_prose *genre_comedy *dist1_regnard_prose_comedy_arlequinbonnesfortunes *dist2_regnard_prose_comedy *id_PASQUARIEL *date_1690 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pasquariel
+
+
+Monsieur, ne sortez pas. Il y a là-bas deux sergents et environ douze archers qui vous guettent pour vous mettre en prison.

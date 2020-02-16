@@ -2,6 +2,7 @@
 
 **** *creator_dupontdeveyle *book_dupontdeveyle_somnanbule *style_prose *genre_comedy *dist1_dupontdeveyle_prose_comedy_somnanbule *dist2_dupontdeveyle_prose_comedy *id_LEBARON *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebaron
 
+
 Il faut se lever plus matin, Valère ; oui, beaucoup plus matin.
 
 Il est vrai: mais j'y étais encore avant toi. On fait tous plus tard à présent ; tout se retarde. Oh ! De mon temps, on se levait plus matin.
@@ -204,8 +205,8 @@ Pouvez-vous le demander ? Que vous importe, puisque votre mariage est rompu ?
 
 Allons, allons, mes enfants ; tout en nous promenant, nous prendrons des mesures pour ne pas retarder votre bonheur.
 
-
 **** *creator_dupontdeveyle *book_dupontdeveyle_somnanbule *style_prose *genre_comedy *dist1_dupontdeveyle_prose_comedy_somnanbule *dist2_dupontdeveyle_prose_comedy *id_LACOMTESSE *date_1739 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+
 
 La Comtesse est malade : nous n'avons fait qu'une visite.
 
@@ -347,8 +348,8 @@ Comment ?
 
 Quoi ! L'on me voudra faire passer pour rêve la façon indigne dont vous nous avez traitées ma fille et moi. Oh bien ! Monsieur, apprenez à rêver plus poliment.
 
-
 **** *creator_dupontdeveyle *book_dupontdeveyle_somnanbule *style_prose *genre_comedy *dist1_dupontdeveyle_prose_comedy_somnanbule *dist2_dupontdeveyle_prose_comedy *id_ROSALIE *date_1739 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosalie
+
 
 Me promener, me reposer, Monsieur, tout m'est assez indifférent.
 
@@ -402,8 +403,8 @@ Je n'y comprends rien. Mais, quand on est heureux, on doit tout craindre.
 
 Pour moi, Dorante, vous le dirai-je ? Je ne vous épousais que par obéissance.
 
-
 **** *creator_dupontdeveyle *book_dupontdeveyle_somnanbule *style_prose *genre_comedy *dist1_dupontdeveyle_prose_comedy_somnanbule *dist2_dupontdeveyle_prose_comedy *id_VALERE *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+
 
 Thibaut, St, St.
 
@@ -578,8 +579,8 @@ Que veut dire tout ceci ?
 
 Au moins, Madame, vous étiez bien éveillée, et mon oncle aussi, lorsque vous m'avez promis Rosalie.
 
-
 **** *creator_dupontdeveyle *book_dupontdeveyle_somnanbule *style_prose *genre_comedy *dist1_dupontdeveyle_prose_comedy_somnanbule *dist2_dupontdeveyle_prose_comedy *id_DORANTE *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+
 
 Je n'a pu résister à l'impatience de voir Rosalie, et à celle de vous rendre grâce d'une union qui va faire mon bonheur.
 
@@ -677,8 +678,8 @@ Quoi ! C'est à Valère...
 
 Cet aveu ne me permet par d'insister ; et je ne dois plus que rire d'une aventure qui nous empêche tous trois d'être malheureux.
 
-
 **** *creator_dupontdeveyle *book_dupontdeveyle_somnanbule *style_prose *genre_comedy *dist1_dupontdeveyle_prose_comedy_somnanbule *dist2_dupontdeveyle_prose_comedy *id_THIBAUT *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thibaut
+
 
 Monsieur !
 
@@ -900,8 +901,8 @@ Lui-même. Dame, il y a plus de six mois qu'il n'en dort pas, lui.
 
 Vous avez raison. Morguenne, le bonheur vous vient en dormant.
 
-
 **** *creator_dupontdeveyle *book_dupontdeveyle_somnanbule *style_prose *genre_comedy *dist1_dupontdeveyle_prose_comedy_somnanbule *dist2_dupontdeveyle_prose_comedy *id_FRONTIN *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+
 
 N'y a-t-il ici personne ? Haie, l'ami ! Où diable se tient...Ah ! Hè, ventrebleu ! C'est mon oncle.
 
@@ -1046,4 +1047,3 @@ Pour moi, je comprends fort bien, Monsieur. Nous sommes découverts, et vous aur
 J'ose vous assurer, Madame, que mon Maître est l'homme du monde le plus sage, quand il veille ; et ce n'est pas sa faute, s'il a le sommeil un peu brutal.
 
 Il aurait tort de se plaindre ; il n'est pas le premier qui perd sa femme quand il dort.
-

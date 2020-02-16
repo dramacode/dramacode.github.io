@@ -2,6 +2,7 @@
 
 **** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *id_artemise *date_1660 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_artemise
 
+
 Ah ! ma chere il faut que vous sçachiez qu'un certain Marquis, m'est venu voir.
 
 Il s'appelle le Marquis de Mazarcantara, il sçait tout à fait l'air⁎ de la ruëlle, c'est un Galand de plein piedc qui s'explicque sans aucune incertitude,d & je n'ay jamais veu d'homme qui dise les choses plus congrüment. J'ay pourtant remarqué un deffaut en luy qui m'a pensé fairee perdre mon serieux.
@@ -60,8 +61,8 @@ C'est une ame du premier ordre.r
 
 Je demeure muëtte d'estonnement.
 
-
 **** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *id_iscarie *date_1660 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_iscarie
+
 
 Que l'attente d'Artemise, me cause de chagrin⁎, je suis la personne du monde la plus impatiente. Allez luy dire que je suis dans le dernieremportement⁎ de ne la point voir.
 
@@ -163,8 +164,8 @@ Un Farceur chez moy, Ah ! si vous ne fuyez.....
 Ah ! je me lasse de vous entendre⁎, & si vous ne sortez j'envoyeray querir un mauvais ange des criminels.t
 (t Un Sergent.)
 
-
 **** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *id_le-baron *date_1660 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_lebaron
+
 
 Vous aurez sujet, mes Dames, de trouver mon procedé audacieux ; mais il est bien difficile de ne pas visiter souvent l'extrait de l'esprit humain.d
 (d L'Abregé.)
@@ -231,8 +232,8 @@ Nous craignons peu vos menaces, & nous sommes tous trois bien resolus de nous de
 
 Puis que mon rolle est achevé, il faut bien que je sorte. Allons mes compagnons. Adieu, mes Dames.
 
-
 **** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *id_beatrix *date_1660 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_beatrix
+
 
 Dites moy donc ; quelle langue est-ce que parlent nos Maistresses ; ma foy je n'entends⁎ point ce jargon & s'il faut qu'elles continuënt à parler de la sorte, elles seront contraintes de nous donner un Maistre pour apprendre ce langage & de nous remettre à l'abc.
 
@@ -260,8 +261,8 @@ La drosle de sensuë qu'une épingle.
 
 Adieu beau Pretieux.
 
-
 **** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *id_isabelle *date_1660 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_isabelle
+
 
 Je vais vous obeïr Madame, mais la voicy qui vient.
 
@@ -302,8 +303,8 @@ Nous en avons plusieurs, & de la vieille roche,l mesme des femmes de la petite v
 
 Madame, voila Monsieur de Greval qui vient.
 
-
 **** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *id_flanquin *date_1660 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_flanquin
+
 
 Ah ! ma chere, ma toute aymable, que je suis heureux de vous voir.
 
@@ -347,8 +348,8 @@ La mesche est découverte.
 Si tu veux venir dans nostre Troupe, nous gagnerons bien de l'argent ; car nous allons jouër les trois Docteurs & les Pretieuses Ridicules.
 FIN.
 
-
 **** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *id_le-poete *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepoete
+
 
 Ah ! vrayment Monsieur, je feray chanter à ma Callioppe en vers bien montez, & d'une veine bien guindée, les remerciemens que je vous dois de l'heureuse & inesperée connoissance que vous me pro-/ /curez de ces deux divinitez charmeresses dont les beaux yeux vont esclairer mon esprit & embraser mon uranie, d'un feu plus devorant, que n'est celuy de ce mont si renommé dans la Sicile, où le vieux Boiteux tenoit jadis sa forge, & bien plus endoctrinant que celuy qu'Appollon inspire aux neuf sœurs.
 
@@ -395,3 +396,47 @@ Tout est gasté.
 
 Ma foy, puis que vous me connoissez si bien, je vais vous dire la verité de la chose, mon Maistre estant mort, je me trouvé fort embarassé de ma personne, parce que je me trouvois fort gueux⁎, & que je n'avois gagné à son service que la methode de faire des vers cocy, cocy, le sieur de la Force, dit Gilles le Niais, voyant que je ne sçavois où donner de la teste, & que je luy pouvois estre utile dans sa troupe, me pria d'y entrer : j'y resistay d'abord ne voulant point passer pour un Farceur ; mais il me representa⁎ que toutes les personnes les plus illustres de Paris, alloient tous les jours voir la farce au Petit Bourbon, & me persuada si bien, que les siennes estoient aussi honnestes⁎ que plusieurs de celles que Mascarille a faites, que je me laissay vaincre, & que j'entray dans sa troupe. Quelque temps apres voyant que Bourbon, nous ostoit tous nos chalans, il fit dessein⁎ de jouër dans un lieu fermé, de me faire composer quelques Comedies, de mettre de bonnes Farces au bout, & d'y prendre de l'argent de mesme que les autres, & comme il sçavoit que le succez des Pieces ne dépendoit pas tant de leur bonté, que de la brigue de leurs Autheurs ; il a trouvé le moyen de m'introduire dans les Compagnies, & il y a desja plus de deux cens personnes qui sont infatuez de mes Pieces.
 
+**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *id_greval *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_greval
+
+
+Mes Dames que faites vous donc de cet honneste homme icy.
+
+Vous voulez m'en donner, c'est le valet de feu Monsieur Durier, je l'ay veu cent fois chez luy.
+
+Ce trait est hardy, & s'il estoit arrivé à quelques autres qu'à vous j'en rirois de bon cœur.
+
+**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *id_lusse-tu-cru *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lussetucru
+
+
+Jamais l'hidre⁎ fecond en mille & mille testes,
+N'excita tant de bruit⁎ ny de telles tempestes.
+Que cause de douleurs en moy Lusse-tu-cru,
+La femme acariastre, & gueuse de vertu,
+Par sa langue maudite, & tousjours empestée,
+A me persecuter on la voit aheurtée,
+Je l'ay voulu changer ; mais, O ! grands Dieux, helas !
+Bien loin d'en retirer profit, los, ou soullas,
+La mauvaise me suit de taverne en taverne,
+Me frappe, m'injurie, esgratigne, & me berne,
+J'en ay par tout la fievre, & je ne sçais pas où,
+Pour pouvoir me fourer je puis trouver un trou.
+
+**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *id_pantagruel *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pantagruel
+
+
+Ah ! que de tourbillons, excite dans mon ame
+La boüillonnante ardeur⁎ de ma flotante flame.
+Ah ! je sens que l'amour, ce fretillant nabot,
+Drislededans mon cœur, comme les pois en pot,
+Il virvolte, il se tourne, il y fait la patroüille,
+Sautille comme en l'eau feroit une grenoüille,
+Il rejimbe⁎, il s'estend comme un cheval fougeux,
+Qui prend le mors aux dents, & bondit furieux,
+Il va, monte, & descend dans la chambre & le bouge,
+Il furtetous les coins, & sijamais ne bouge.
+
+**** *creator_somaize *book_somaize_veritablesprecieuses *style_prose *genre_comedy *dist1_somaize_prose_comedy_veritablesprecieuses *dist2_somaize_prose_comedy *id_le-confident *date_1660 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_leconfident
+
+
+Les violons sont prests, & vous allez dans peu
+Oeilladercomme il faut l'objet de vostre feu⁎.

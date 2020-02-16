@@ -2,6 +2,7 @@
 
 **** *creator_carbondeflins *book_carbondeflins_reveilepimenide *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_reveilepimenide *dist2_carbondeflins_verse_comedy *id_EPIMENIDE *date_1790 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_epimenide
 
+
 Combien j'aime à revoir ce jardin enchanté,
 Que pour le grand Louis le Nôtre avait planté !
 Pour moi, j'ai toujours regretté,
@@ -250,8 +251,8 @@ Exauce au moins mes souhaits,
 Fais que toujours je m'éveille,
 Au milieu des bons Français.
 
-
 **** *creator_carbondeflins *book_carbondeflins_reveilepimenide *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_reveilepimenide *dist2_carbondeflins_verse_comedy *id_ARISTE *date_1790 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ariste
+
 
 Oui, ma fille, dans un moment.
 
@@ -401,8 +402,8 @@ Voilà tous ces Messieurs dont vous avez besoin.
 
 Demeurez à Paris.
 
+**** *creator_carbondeflins *book_carbondeflins_reveilepimenide *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_reveilepimenide *dist2_carbondeflins_verse_comedy *id_JOSEPHINE *date_1790 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_josephine
 
-**** *creator_carbondeflins *book_carbondeflins_reveilepimenide *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_reveilepimenide *dist2_carbondeflins_verse_comedy *id_JOSEPHINE *date_1790 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_josephine
 
 Et c'est aujourd'hui qu'il s'éveille ?
 
@@ -555,8 +556,8 @@ Mais, fidèle à mes attraits,
 Gardez-vous d'être volage,
 Ne soyez pas trop Français.
 
-
 **** *creator_carbondeflins *book_carbondeflins_reveilepimenide *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_reveilepimenide *dist2_carbondeflins_verse_comedy *id_DHARCOURT *date_1790 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dharcourt
+
 
 Il en a vu beaucoup !
 
@@ -692,8 +693,8 @@ De rassurer mon amour ;
 Si l'on permet le divorce,
 Vous pouvez changer un jour.
 
-
 **** *creator_carbondeflins *book_carbondeflins_reveilepimenide *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_reveilepimenide *dist2_carbondeflins_verse_comedy *id_GORGI *date_1790 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gorgi
+
 
 Achevons maintenant la feuille de Bruxelles.
 Combien nous faudra-il tuer d'Impériaux ?
@@ -747,8 +748,8 @@ Vous apprîtes à vos frais,
 Que les trompeurs sont aimables :
 Vos amants sont des Français.
 
-
 **** *creator_carbondeflins *book_carbondeflins_reveilepimenide *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_reveilepimenide *dist2_carbondeflins_verse_comedy *id_FATRAS *date_1790 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fatras
+
 
 C'est donc vous qui venez, Monsieur, de l'autre monde,
 Il est dans celui-ci beaucoup de changements,
@@ -796,8 +797,8 @@ Contre un Roi qui fut assez bon,
 Pour accorder sa sanction
 À des Décrets de Philosophes.
 
-
 **** *creator_carbondeflins *book_carbondeflins_reveilepimenide *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_reveilepimenide *dist2_carbondeflins_verse_comedy *id_RATURE *date_1790 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rature
+
 
 Cet Auteur est bien insolent.
 Mais aujourd'hui rien ne m'étonne ;
@@ -850,8 +851,8 @@ Mon embarras, Monsieur, ne saurait se décrire.
 
       Je savais censurer.
 
-
 **** *creator_carbondeflins *book_carbondeflins_reveilepimenide *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_reveilepimenide *dist2_carbondeflins_verse_comedy *id_CABRIOLE *date_1790 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cabriole
+
 
 N'est-ce pas vous, Monsieur, qu'on nomme Epiménide ?
 
@@ -904,8 +905,8 @@ Soyons libres à jamais ;
 Mais soyons toujours aimables,
 Et gardons l'esprit Français.
 
-
 **** *creator_carbondeflins *book_carbondeflins_reveilepimenide *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_reveilepimenide *dist2_carbondeflins_verse_comedy *id_CRISANTE *date_1790 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crisante
+
 
       C'est un de mes vassaux.
 
@@ -936,8 +937,8 @@ Où d'un peu d'esclavage on ait gardé le goût ;
 Et me jeter dans la rivière
 Si l'on devient libre partout.
 
-
 **** *creator_carbondeflins *book_carbondeflins_reveilepimenide *style_verse *genre_comedy *dist1_carbondeflins_verse_comedy_reveilepimenide *dist2_carbondeflins_verse_comedy *id_NICOLAS *date_1790 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicolas
+
 
 Mais ce Paris est admirable.
 
@@ -972,4 +973,3 @@ Nous avons lu les droits de l'homme.
 Pour lui nous irions tous au feu,
 Et si je n'ai point l'habit bleu,
 Je porte du moins la cocarde
-

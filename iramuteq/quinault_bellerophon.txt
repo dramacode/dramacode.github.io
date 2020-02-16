@@ -2,6 +2,7 @@
 
 **** *creator_quinault *book_quinault_bellerophon *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_bellerophon *dist2_quinault_verse_tragedy *id_PROETUS *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_proetus
 
+
 Licas, il est certain, pour me favoriser
 La fortune propice a semblé s'épuiser
 C'était peu de jouir des droits héréditaires
@@ -384,8 +385,24 @@ Nous a-t-il moins trahis ? Pouvez-vous l'oublier !
 
       Ah Dieux !
 
+**** *creator_quinault *book_quinault_bellerophon *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_bellerophon *dist2_quinault_verse_tragedy *id_LICAS *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_licas
+
+
+Si de votre destin la gloire est peu commune,
+Vous la tenez de vous plus que de la Fortune.
+Combien de rois jaloux ont voulu vous l'ôter ?
+Quels efforts pour les vaincre a-t-il fallu tenter ?
+Le ciel même irrité plutôt que favorable,
+A fait naître au-dessus de tout l'effort humain,
+Un prodige au-dessus de tout l'effort humain,
+Dont l'avide fureur porte un trépas certain ;
+Qui tantôt dans nos bois, tantôt sur le rivage,
+Détruit tout remplit tout d'horreur et de carnage,
+Et par l'effroi public a fait jusqu'à ce jour
+Retarder le bonheur qui flatte votre amour.
 
 **** *creator_quinault *book_quinault_bellerophon *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_bellerophon *dist2_quinault_verse_tragedy *id_BELLEROPHON *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bellerophon
+
 
       Trouvez bon, Seigneur, que l'on nous laisse.
 
@@ -674,8 +691,8 @@ Quoi je reviens enfin sûr de plaire à vos yeux.
 
 Se peut-il que l'amour...
 
-
 **** *creator_quinault *book_quinault_bellerophon *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_bellerophon *dist2_quinault_verse_tragedy *id_STENOBEE *date_1671 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_stenobee
+
 
 Quoi ? Béllérophon vous me quitte ainsi ?
 
@@ -1371,8 +1388,8 @@ Ou vous qu'il adorait, ou moi qu'il n'aimait pas,
 Et jusque chez les morts, par l'ardeur de le suivre,
 Montrons pour qui des deux, il devait plutôt vivre.
 
-
 **** *creator_quinault *book_quinault_bellerophon *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_bellerophon *dist2_quinault_verse_tragedy *id_MEGARE *date_1671 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_megare
+
 
       Qui pourrait le comprendre ?
 Voir en vous dont jamais le cœur ne se dément,
@@ -1473,8 +1490,8 @@ Ainsi donc vous voulez sa vie en sacrifice ?
 
 Nul espoir ne vous reste ?
 
-
 **** *creator_quinault *book_quinault_bellerophon *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_bellerophon *dist2_quinault_verse_tragedy *id_PHILONOE *date_1671 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_philonoe
+
 
 Je cherche aussi, Madame, à pouvoir sans témoins
 Vous donner un avis qui n'importe pas moins
@@ -1715,8 +1732,8 @@ Le sang et l'amitié ne doivent pas moins faire;
 Qu'ils fassent leur devoir, et vous assurez bien
 Que l'amour à son tour n'oubliera pas le sien.
 
-
 **** *creator_quinault *book_quinault_bellerophon *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_bellerophon *dist2_quinault_verse_tragedy *id_LADICE *date_1671 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ladice
+
 
 Recevez-vous, Madame, avec tant de tristesse
 Une si favorable et si belle promesse ?
@@ -1743,8 +1760,8 @@ Madame le voici, vous allez tout savoir.
 
 Madame...
 
+**** *creator_quinault *book_quinault_bellerophon *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_bellerophon *dist2_quinault_verse_tragedy *id_TIMANTE *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_timante
 
-**** *creator_quinault *book_quinault_bellerophon *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_bellerophon *dist2_quinault_verse_tragedy *id_TIMANTE *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_timante
 
 C'est...
 
@@ -1836,4 +1853,3 @@ Au jour qu'elle perdait, Béllérophon, et vous,
 Ce héros s'avançant a su cette disgrâce ;
 Et je l'ai vu suivi d'une gros de populace
 Vers votre appartement passer... Mais le voici.
-

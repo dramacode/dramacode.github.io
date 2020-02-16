@@ -2,6 +2,7 @@
 
 **** *creator_bergasse *book_bergasse_journeedesdupes *style_prose *genre_tragicomedie *dist1_bergasse_prose_tragicomedie_journeedesdupes *dist2_bergasse_prose_tragicomedie *id_BIMEAURA *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bimeaura
 
+
 Eh bien, Pecheillar, tu t'applaudis sans doute de t'être associé à mes projets. Ta réputation, rivale de ma gloire, a déjà porté ton nom dans toutes les provinces du royaume. Mais ne nous bornons pas à de vains triomphes; la réputation, comme le ciment qui unit les diverses parties d'un édifice, ne doit être rien pour nous, si elle ne sert à consolider notre fortune.
 
 C'est là la position qui favorise les grandes entreprises ; aussi ai-je mis ma confiance en toi, comme un agent sûr et décidé. Je vais actuellement te découvrir, sans mystère, les nouveaux plans qui doivent assurer nos hautes destinées. Il est temps, Pecheillar, de te faire distinguer les amis qui nous servent ; des rivaux que nous avons à combattre. Trois factions ont renversé le trône, tu les a toutes confondues dans leurs marche ; il faut te faire connaître leurs vues. Reken, ivre de bonheur et de gloire, a cru que c'était trop peu pour un homme de son caractère, d'être le ministre d'un roi puissant. Son étonnante popularité lui a fait concevoir le hardi projet de s'établir médiateur entre le monarque un son peuple, croyant les maîtriser également, l'un par la crainte, un l'autre par l'espérance. Il a préparé la destruction des deux premiers ordres de l'État ; j'ai favorisé sa marche, parce qu'elle s'accordait avec mes plans. Mais Reken n'a pas une âme faite pour les grandes révolutions. Reken a pris le masque de la vertu, ignorant, sans doute que si les saints peuvent attirer le peuple aux pieds des autels, il faut un autre caractère un d'autres moyens, pour le conduire à la brèche. Sylla, Catilina, Cæsar, Cromwell ; voilà les modèles qu'il faut suivre quand on veut bouleverser un Empire ; aussi avec un nom souillé, mais avec une audace qui ne respecte rien, je suis plus redoutable que lui. Reken a donc tremblé, quand il a vu que son pieux bavardage ne maîtrisait plus ces flots impétueux que j'agite à mon gré. Il a balancé dans sa marche, je l'ai pris sur le temps, et l'attaquant avec courage, j'ai affaibli cette grande popularité ; j'ai dévoilé sa faiblesse, intimidé son génie ; mais Reken n'est point anéanti ; il convient encore à mes projets qu'il se traîne sans gloire sur le chemin de la liberté, dans lequel son ambition a imprudemment engagé ses premiers pas.
@@ -79,8 +80,15 @@ Toute acquise ! Ce mot est cruel, au moment où elle m'échappe !
 
 Il n'est pas juste que je reçoive seul cette bordée de patriotisme, j'en abandonne le reste à l'ambitieux qui se présente.
 
+**** *creator_bergasse *book_bergasse_journeedesdupes *style_prose *genre_tragicomedie *dist1_bergasse_prose_tragicomedie_journeedesdupes *dist2_bergasse_prose_tragicomedie *id_PECHEILLAR *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pecheillar
+
+
+Tes alarmes, ne sont que trop bien fondées. Tout est manqué. Le détestable dévouement du Roi, sa perfide humanité ont déjoué l'intrigue la mieux ourdie... Mais à quoi sert-il de te détailler nos désastres.
+
+Eh bien ! Apprends en peu de mots que cette colonne redoutable d'hommes déguisés, de soldats, d'artillerie menaçante, n'ont pu ébranler le monarque dans sa résolution, il s'est présenté à son peuple avec la confiance d'un père. Nous avons répandu beaucoup de sang pour exciter au carnage, mais les Gardes-du-corps se sont laissé massacrer sans se défendre, victimes de leur modération et de leur obéissance. Rien n'a plus dérangé nos plans, que ce ridicule caprice, que les Aristocrates appellent un sentiment noble un généreux, auquel les Gardes-Françaises se sont abandonnés pour arracher à une juste mort les ennemis de la patrie. Cependant, au milieu de ce désordre, nous avons pénétré jusques dans l'appartement de la reine ; les assassins, jusqu'à ce moment, ont soutenu leur résolution: si tu savais quel homme entretenait leur féroce courage ! Enfin nous arrivons auprès du lit Royal, dix lances et vingt poignards se lèvent à la fois... La reine s'était sauvée, elle avait trouvé un refuge dans les bras de son époux. Nous n'avons pas cependant encore renoncé à notre entreprise. Trois fois nous l'avons appelée sur le balcon, et trois fois son courage et cet air de majesté qui brille en sa personne a déconcerté les conjurés... Les traîtres n'avaient plus ni âme, ni bras, pour vouloir et pour agir... L'armée s'est enfin emparée de la personne du roi et de sa famille, ils entrent dans la capitale.
 
 **** *creator_bergasse *book_bergasse_journeedesdupes *style_prose *genre_tragicomedie *dist1_bergasse_prose_tragicomedie_journeedesdupes *dist2_bergasse_prose_tragicomedie *id_CATEPANE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_catepane
+
 
 Oh, cela ne me fait d'autre peine que le tort que cela fait à mon crédit ; c'était des choses inutiles à dire ; mais Messieurs les journalistes ne se gênent sur rien ; ils pourraient cependant se contenter de l'abandon que nous leur avons fait des aristocrates, et ménager les citoyens honnêtes.
 
@@ -96,8 +104,8 @@ Mais tu n'envies pas autant les rôles de Mounier, Lalli et Bergasse.
 
 Quoi, Mola, il faut te huer sur une motion de ce genre là. Il fallait dire : j'appuie la motion, puisque tu parlais le second ; c'est à moi à être de l'avis du préopinant. Apprends au moins à les former.
 
-
 **** *creator_bergasse *book_bergasse_journeedesdupes *style_prose *genre_tragicomedie *dist1_bergasse_prose_tragicomedie_journeedesdupes *dist2_bergasse_prose_tragicomedie *id_MOLA *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mola
+
 
 Ah ! D'où elle me vient ! Avec le plus grand désir de faire, rien ne me réussit. Quand je fais le Cicéron on me hue ; quand je deviens César on me berne ; il n'y a pas là de quoi se réjouir.
 
@@ -113,8 +121,8 @@ Ah ! Ce sont de grands gueux.
 
 Je suis de l'avis du préopinant.
 
-
 **** *creator_bergasse *book_bergasse_journeedesdupes *style_prose *genre_tragicomedie *dist1_bergasse_prose_tragicomedie_journeedesdupes *dist2_bergasse_prose_tragicomedie *id_ALMENANDRE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_almenandre
+
 
 Bonjour, Bimeaura.
 
@@ -128,8 +136,8 @@ Quant à moi, j'ai senti que lorsque tout le monde avait pensé et discuté, la 
 
 Messieurs, la délibération est unanime, car je donne ma voix pour la motion, ainsi partons.
 
-
 **** *creator_bergasse *book_bergasse_journeedesdupes *style_prose *genre_tragicomedie *dist1_bergasse_prose_tragicomedie_journeedesdupes *dist2_bergasse_prose_tragicomedie *id_MOUNIER *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mounier
+
 
 Tu triomphes, Bimeaura, des nouveaux désordres qui affligent la France !
 
@@ -149,8 +157,8 @@ Yetafet, vous n'attendez pas de moi, que dans ce moment d'attentats de tous genr
 
 Je suis familiarisé avec le langage du démagogue, il doit l'attribuer tout au peuple qu'il conduit. Mais enfin, Yetafet, vous n'espérez pas pouvoir étouffer ce cri qui vous demandera éternellement compte de la liberté de notre roi ; vous direz sans doute un jour pourquoi vous avez ignoré seul dans Paris les mouvements du peuple ; pourquoi vous avez assuré que tout était calme, au moment où on allait tout égorger. Je ne vous dirai qu'un mot. Ou vous avez fomenté ces derniers troubles, et vous êtes un traître ; ou vous les avez ignorés, et vous êtes un général incapable. Il faut ici sacrifier votre conscience ou votre amour propre. Je vous abandonne peut-être aux déchirements de l'un un de l'autre.
 
-
 **** *creator_bergasse *book_bergasse_journeedesdupes *style_prose *genre_tragicomedie *dist1_bergasse_prose_tragicomedie_journeedesdupes *dist2_bergasse_prose_tragicomedie *id_LAIBIL *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laibil
+
 
 Quel parti prenez-vous ? Le temps presse ; déjà le peuple s'assemble.
 
@@ -198,8 +206,8 @@ Faites avertir le général.
 
 C'est la volonté du peuple.
 
-
 **** *creator_bergasse *book_bergasse_journeedesdupes *style_prose *genre_tragicomedie *dist1_bergasse_prose_tragicomedie_journeedesdupes *dist2_bergasse_prose_tragicomedie *id_YETAFET *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_yetafet
+
 
 Quels mouvements ont-ils donc fait naître dans mon coeur ?... Sans doute ils ont raison... Mon rêVe est secondaire ; il manque quelque chose à ma gloire... Un autre étale sa puissance sous les yeux de son ancien maître ; il protège la cour ; il assure la tranquillité de l'assemblée... Et moi je règne sur des bourgeois, qui, à chaque instant, me disputent l'empire ; tout ce qu'il y a de grand fuit l'enceinte des murs où je commande. Que m'importe de déployer, toute la pompe de l'autorité devant un peuple séduit et ignorant ; il me faut d'autres regards, et la gloire sans témoins est un palais sans lumières... Oui !... Plus je réfléchis à cette grande entreprise, moins je vois de difficultés à l'exécuter... Tout tremble au bruit de mes tambours... Les soldats français désertent aujourd'hui leurs drapeaux, dès qu'il s'agit de les défendre... Le Prince trouvera peut-être quelque appui dans la fidélité de ses gardes ? Mais leur petit nombre trahira leur courage et leur zèle... Allons le parti en est pris... S'il faut un roi à la France, je veux en être maître ; s'il doit perdre l'Empire, je veux pouvoir m'en faire un mérite.
 
@@ -225,8 +233,8 @@ Ils ne m'ont que trop deviné ! J'espérais conserver ma popularité et mon cré
 
 Ton embarras me touche et tes peines ne dureront pas longtemps. Je te fais caporal dans la milice, endosse l'uniforme, alors tu pourras agir et parler. Rends compte de tes travaux à l'assemblée, et peut être obtiendras-tu pour récompense l'honneur d'assister à une des séances. Adieu.
 
-
 **** *creator_bergasse *book_bergasse_journeedesdupes *style_prose *genre_tragicomedie *dist1_bergasse_prose_tragicomedie_journeedesdupes *dist2_bergasse_prose_tragicomedie *id_LAPEYROUSE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lapeyrouse
+
 
 Mon cher O Paria, tu as trop pleuré ta patrie pour être étonné des transports qui agitent mon coeur en voyant mon pays. Le spectacle que t'ont présente des marins fatigués d'une longue navigation, a suffi pour t'inspirer le désir de connaître la France; mais quels tableaux sublimes et ravissants vont s'offrir ici à ton esprit observateur, vont pénétrer ton coeur sensible. Un territoire immense, une population nombreuse, gouvernés par des ressorts invisibles qui entretiennent partout l'harmonie, la confiance et bonheur. Tes yeux vont être éblouis de l'éclat du trône. Tu vas voir le plus grand monarque de l'univers tempérant sa puissance et sa force par sa modération et ses vertus pacifiques, près de lui une reine brillante de gloire et de beauté, adoucissant par une affabilité touchante cet air de majesté qu'elle tient de la nature et de son grand caractère.
 
@@ -333,8 +341,17 @@ D'où vient cet accoutrement nouveau ?
 
 Oui, partons, o Paria, fuyons ces terribles contrées. Je croyais y recevoir un autre accueil, et si tout le monde n'est pas dupe, la découverte des gens qui profitent de cet affreux bouleversement, sera le problème dont la solution occupera mes vieux jours.
 
+**** *creator_bergasse *book_bergasse_journeedesdupes *style_prose *genre_tragicomedie *dist1_bergasse_prose_tragicomedie_journeedesdupes *dist2_bergasse_prose_tragicomedie *id_OPARIA *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oparia
+
+
+Il y a si longtemps que le capitaine est sorti de France qu'il n'en sait plus trouver le chemin ; il s'en croyait plus près qu'il ne l'est. Il savait mieux le chemin de nos îles que celui de son pays... Mais qu'est-ce que c'est que nation, pour qui ces gens-là m'ont dépouillé. C'est, sans doute, quelque tyran qui pille les voyageurs. Pour moi je regrette bien peu mes boucles ; je marcherai aussi bien pieds nus. Je vais suivre le capitaine ; car sans lui je ne trouverai jamais le chemin de cette belle France.
+
+Partons pour la France, capitaine ! Partons, je viens de voir apprêter le repas de nation ! Des têtes sanglantes ! Des cadavres déchirés ! C'est quelque bête féroce qui vit de chair humaine, partons pour la France. Partons.
+
+C'est un préservatif contre sa voracité.
 
 **** *creator_bergasse *book_bergasse_journeedesdupes *style_prose *genre_tragicomedie *dist1_bergasse_prose_tragicomedie_journeedesdupes *dist2_bergasse_prose_tragicomedie *id_MONSIEURGARDERUE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgarderue
+
 
 Paix là ! Paix là ! Messieurs les Citoyens ; de grâce point de bruit !... Au nom de dieu, au nom de la loi ! Permettez que j'approche.
 
@@ -365,4 +382,3 @@ Criez, Monsieur, criez.
 Ce que la nation vous commande.
 
 Criez, Monsieur, criez, ou je ne réponds pas de vos jours.
-

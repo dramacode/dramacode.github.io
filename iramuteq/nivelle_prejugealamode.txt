@@ -2,6 +2,7 @@
 
 **** *creator_nivelle *book_nivelle_prejugealamode *style_verse *genre_comedy *dist1_nivelle_verse_comedy_prejugealamode *dist2_nivelle_verse_comedy *id_CONSTANCE *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_constance
 
+
       Ce doute m'offense ;
 Vous me connaissez peu, si vous me soupçonnez
 De penser autrement.
@@ -458,8 +459,8 @@ Ton retour me suffit.
 Si tu veux me prouver combien je te suis chère,
 Oublions qu'autrefois j'ai cessé de te plaire.
 
-
 **** *creator_nivelle *book_nivelle_prejugealamode *style_verse *genre_comedy *dist1_nivelle_verse_comedy_prejugealamode *dist2_nivelle_verse_comedy *id_DURVAL *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_durval
+
 
 Voyons un peu l'effet qu'ont produit mes présents.
 Madame éclate enfin en regrets offensants.
@@ -1220,8 +1221,8 @@ Peut-être mon exemple aura plus de crédit :
 On pourra m'imiter. Non, il n'est pas possible
 Qu'un préjugé si faux soit toujours invincible.
 
+**** *creator_nivelle *book_nivelle_prejugealamode *style_verse *genre_comedy *dist1_nivelle_verse_comedy_prejugealamode *dist2_nivelle_verse_comedy *id_SOPHIE *date_1735 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_sophie
 
-**** *creator_nivelle *book_nivelle_prejugealamode *style_verse *genre_comedy *dist1_nivelle_verse_comedy_prejugealamode *dist2_nivelle_verse_comedy *id_SOPHIE *date_1735 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_sophie
 
 Vous a-t-on dit vrai ?
 
@@ -1500,8 +1501,8 @@ Monsieur a du bonheur dans ce qu'il entreprend.
 Damon, je m'en souviens. Ah ! Ma chère Constance...
 Mais conseillez-moi donc dans cette circonstance...
 
-
 **** *creator_nivelle *book_nivelle_prejugealamode *style_verse *genre_comedy *dist1_nivelle_verse_comedy_prejugealamode *dist2_nivelle_verse_comedy *id_DAMON *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damon
+
 
 Ah ! Constance, est-ce à vous à prendre ma défense,
 Et celle de l'hymen, vous ?...
@@ -1957,8 +1958,8 @@ N'importe, il faut encor faire un effort pour lui.
 Oserais-je à mon tour, sans indiscrétion,
 Vous faire souvenir d'une convention ?
 
-
 **** *creator_nivelle *book_nivelle_prejugealamode *style_verse *genre_comedy *dist1_nivelle_verse_comedy_prejugealamode *dist2_nivelle_verse_comedy *id_ARGANT *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_argant
+
 
 Me voici.
 
@@ -2192,8 +2193,8 @@ Je crois qu'on peut l'aimer, même encor mieux qu'une autre.
 Oui, conseillez un coeur déjà déterminé...
 Le conseil en est pris, quand l'amour l'a donné.
 
-
 **** *creator_nivelle *book_nivelle_prejugealamode *style_verse *genre_comedy *dist1_nivelle_verse_comedy_prejugealamode *dist2_nivelle_verse_comedy *id_CLITANDRE *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+
 
 Voilà ce que jamais on n'aurait attendu.
 
@@ -2363,8 +2364,8 @@ Sans quoi, Durval et moi, nous n'osons pas te croire.
 
       Ah ! L'infidèle !
 
-
 **** *creator_nivelle *book_nivelle_prejugealamode *style_verse *genre_comedy *dist1_nivelle_verse_comedy_prejugealamode *dist2_nivelle_verse_comedy *id_DAMIS *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
+
 
       Ce n'est pas son défaut.
 
@@ -2555,8 +2556,8 @@ Infidèle !... Est-ce ainsi qu'on nomme une cruelle ?
 Mais c'est encore un trait de vanité. Pour toi,
 Durval, une autre fois, pense un peu mieux de moi.
 
-
 **** *creator_nivelle *book_nivelle_prejugealamode *style_verse *genre_comedy *dist1_nivelle_verse_comedy_prejugealamode *dist2_nivelle_verse_comedy *id_FLORINE *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_florine
+
 
 Madame, je vous cherche. On vient...
 
@@ -2736,8 +2737,8 @@ On en fait son profit, afin qu'on s'en souvienne.
 
       Certes, l'effort est grand.
 
-
 **** *creator_nivelle *book_nivelle_prejugealamode *style_verse *genre_comedy *dist1_nivelle_verse_comedy_prejugealamode *dist2_nivelle_verse_comedy *id_HENRI *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_henri
+
 
 Lequel des deux ? De quoi faut-il que je m'acquitte ?
 
@@ -2817,4 +2818,3 @@ Dans le premier mémoire il faudra les compter.
 Item, pour un présent que j'aurais dû porter,
 Qui m'aurait dû valoir en espèce courante,
 Combien ? Dix, vingt louis ; ma foi, mettons-en trente.
-

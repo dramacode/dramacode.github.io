@@ -1,6 +1,7 @@
 
 
-**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *id_ACHATE *date_1574 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_achate
+**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *id_ACHATE *date_1574 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_achate
+
 
 Quel jour sombre, quel trouble, avec ce jour te roulent
 Tes destins, ô Carthage ? Et pourquoi ne se souillent
@@ -169,8 +170,77 @@ Nous verrons tout frémir, or ces rives mouillées
 De sang et de corps morts hideusement souillées.
 Partons donc au plus tôt.
 
+**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *id_ASCAIGNE *date_1574 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_ascaigne
 
-**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *id_ENEE *date_1574 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_enee
+
+      En mémoire me tombe
+Ce qu'un jour nous disait mon père sur la tombe
+D'Anchise mon aïeul : Que l'amour et la haine
+Des Dieux vont bigarrant la frêle vie humaine ;
+Tant qu'à peine une joie aux mortels se rapporte,
+Qui n'ait pour sa compagne une douleur plus forte ;
+Mais il confesse aussi qu'aux choses douloureuses
+On s'aveugle, pour voir et goûter les heureuses.
+
+      Bien qu'une douce amorce
+Dérobe bien souvent au jeune coeur sa force,
+Si m'aveuglé-je au bien que j'avais, et au trouble
+D'une amante insensée. Il faut que l'on redouble
+L'âme pour vaincre un dueil. Donc cette Afrique douce
+En la laissant, nous charme ? Où le destin nous pousse
+Suivons, suivons toujours. Toute troupe est sujette
+Au travail : le travail enduré nous rachète
+Un glorieux repos.
+
+Encor oublions-nous, qu'outre l'ailé Mercure,
+Plus sûrs encor nous doit rendre un céleste augure,
+Alors qu'au sac piteux notre Troie était pleine
+Du feu, de pleurs, de meurtre, une flamme soudaine
+Vint embraser mon chef, qui comme notre Anchise
+L'expliqua, nous chassait hors de la Troie prise.
+Je jure par l'honneur de cette même tête,
+Par celle de mon père, et par la neuve fête
+Que le tombeau d'Anchise ajoute à notre année,
+Qu'un même embrasement m'a cette matinée
+Donné le même signe : et qu'on nous tient promesse
+De revenger bientôt la Troie de la Grèce.
+
+**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *id_PALINURE *date_1574 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_palinure
+
+
+Il vaut mieux que les Dieux leurs ordonnances gardent,
+Que pour se démentir, aux dangers ils regardent.
+Et l'on ne doit son fiel contre les Dieux époindre,
+Quand on reçoit des Dieux de deux malheurs le moindre.
+Quel malheur si Didon dans sa poitrine ardente,
+Eût pu d'un grand Énée ensevelir l'attente ?
+Tant qu'une même ardeur ravissant leur mémoire,
+Pût ravir des Troyens et de leur chef la gloire :
+Et qu'ici s'attachant la fatale campagne
+Que le Tibre entortille, eût pour néant d'Ascaigne
+Attendu les efforts, voire et l'horrible race,
+Qui doit forcer sous soi ce que Neptune embrasse ?
+Un mal passe le mal.
+
+Jamais aux bas mortels les Immortels ne rendent
+Une assurance entière : et toujours ceux qui tendent
+À la gloire plus haute, ont leurs âmes étreintes
+Aux soucis, aux travaux, aux songes, et aux craintes.
+Mais en vain celui-là se tourmente et soucie,
+Qui soit heur, soit malheur, dessus les Dieux appuie
+Le hasard de ses faits : car bien qu'au ciel je visse
+Les astres ennemis, et que je me prédisse
+De mes voisins dangers l'événement moleste,
+Il vaudrait mieux, suivant un message céleste
+(Quand même il serait faux) mettre aux Dieux ma fiance,
+Que suivre pour guidon ma frêle connaissance :
+Aimant mieux en m'armant d'une volonté pure
+Perdre tout, que d'avoir vouloir de faire injure
+Au mandement d'un Dieu, qui veut que pour un vice
+Exécuté, vouloir de faillir se punisse.
+
+**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *id_ENEE *date_1574 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_enee
+
 
 Du fer, du sang, du feu, des flots, et de l'orage
 Je n'ai point eu d'effroi, et je l'ai d'un visage,
@@ -639,8 +709,8 @@ Sortira d'un amour qui son amante tue ?
 Pauvre Didon, hélas ! Mettras-tu l'assurance
 Sur les vaisseaux marins, qui n'ont point de constance ?
 
+**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *id_LECHOEUR *date_1574 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lechoeur
 
-**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *id_LECHOEUR *date_1574 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lechoeur
 
 Les Dieux des humains se soucient,
 Et leurs yeux sur nous arrêtés,
@@ -1055,8 +1125,8 @@ Pleurez, criez, tonnez, puisque si mal commence
 L'heur de Carthage, il faut, ô peuple, qu'on la pense
 Malheureuse à jamais.
 
+**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *id_DIDON *date_1574 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_didon
 
-**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *id_DIDON *date_1574 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_didon
 
 Dieux, qu'ai-je soupçonné ? Dieux, grands Dieux qu'ai-je su ?
 Mais qu'ai-je de mes yeux moi-mêmes aperçu ?
@@ -1881,8 +1951,8 @@ Trop tard meurt celui-là qu'ainsi son vivre ennuie.
 Allons et redisons sur le bois la harangue,
 Arrêtant tout d'un coup et l'esprit et la langue.
 
+**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *id_ANNE *date_1574 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_anne
 
-**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *id_ANNE *date_1574 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_anne
 
       Quand l'innocente
 Fléchit sous le coupable, et plus forte lamente
@@ -2282,8 +2352,8 @@ Non pas de cents couleurs, comme elle soulait, peinte.
 (Ô grand Ciel) opposer à tes lois sa malice,
 Sois pour nous, et prospère en tout ce sacrifice.
 
+**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *id_BARCE *date_1574 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_barce
 
-**** *creator_jodelle *book_jodelle_didon *style_verse *genre_tragedy *dist1_jodelle_verse_tragedy_didon *dist2_jodelle_verse_tragedy *id_BARCE *date_1574 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_barce
 
 J'ai trop d'étonnement, je n'ai que trop d'horreurs,
 Trop de plaints en la bouche, et trop aux yeux de pleurs :
@@ -2431,4 +2501,3 @@ Arrosons de nos pleurs, et souffrons tant de peine,
 Qu'avec elle le deuil presque aux enfers nous mène.
 Nul vivant ne se peut exempter de furie,
 Et bien souvent l'amour à la mort nous marie.
-

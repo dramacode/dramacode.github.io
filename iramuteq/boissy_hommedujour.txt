@@ -1,6 +1,7 @@
 
 
-**** *creator_boissy *book_boissy_hommedujour *style_verse *genre_comedy *dist1_boissy_verse_comedy_hommedujour *dist2_boissy_verse_comedy *id_LEMARQUIS *date_(inc *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lemarquis
+**** *creator_boissy *book_boissy_hommedujour *style_verse *genre_comedy *dist1_boissy_verse_comedy_hommedujour *dist2_boissy_verse_comedy *id_LEMARQUIS *date_(inc *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_lemarquis
+
 
       Mais il est noble et sage.
 
@@ -590,8 +591,8 @@ Pour mériter sa main, pouvais-je faire moins ?
 Vous avez malgré moi combattu mes raisons,
 Et vous m'avez forcé de suivre vos leçons.
 
+**** *creator_boissy *book_boissy_hommedujour *style_verse *genre_comedy *dist1_boissy_verse_comedy_hommedujour *dist2_boissy_verse_comedy *id_LUCILE *date_(inc *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_lucile
 
-**** *creator_boissy *book_boissy_hommedujour *style_verse *genre_comedy *dist1_boissy_verse_comedy_hommedujour *dist2_boissy_verse_comedy *id_LUCILE *date_(inc *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lucile
 
 Je cherchais votre soeur.
 
@@ -824,8 +825,8 @@ Je n'ai point prononcé, vous vous trompez, Monsieur.
 
       Était pour lui. Vous me l'avez surprise.
 
-
 **** *creator_boissy *book_boissy_hommedujour *style_verse *genre_comedy *dist1_boissy_verse_comedy_hommedujour *dist2_boissy_verse_comedy *id_CELIANTE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celiante
+
 
       Eh ! pourquoi donc, Lisette ?
 
@@ -986,8 +987,8 @@ Tu prends dans ton esprit ta folle conjecture.
 Non, viens, rentre avec moi ; respectons son secret,
 Celui que l'on surprend est un larcin qu'on fait.
 
-
 **** *creator_boissy *book_boissy_hommedujour *style_verse *genre_comedy *dist1_boissy_verse_comedy_hommedujour *dist2_boissy_verse_comedy *id_LACOMTESSE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacomtesse
+
 
 Nous cherchons le baron avec empressement ;
 J'ai même à lui parler très sérieusement.
@@ -1339,8 +1340,8 @@ Fuyez votre maison, et reprenez vos grâces.
 Ne soyez plus ami, ne soyez plus amant.
 Soyez l'homme du jour, et vous serez charmant.
 
-
 **** *creator_boissy *book_boissy_hommedujour *style_verse *genre_comedy *dist1_boissy_verse_comedy_hommedujour *dist2_boissy_verse_comedy *id_LISETTE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
 Je suis, je suis outrée !
 
@@ -1567,8 +1568,8 @@ Mais c'est parler vraiment en père raisonnable.
 
       Il l'a bien mérité.
 
-
 **** *creator_boissy *book_boissy_hommedujour *style_verse *genre_comedy *dist1_boissy_verse_comedy_hommedujour *dist2_boissy_verse_comedy *id_CHAMPAGNE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_champagne
+
 
 J'ai découvert, Monsieur, la maison qu'elle habite.
 
@@ -1601,4 +1602,3 @@ Et j'en ai pour garant tous les gens du logis.
 
 Cette grande douleur qui console la vôtre
 Ne l'empêchera pas d'en épouser un autre.
-

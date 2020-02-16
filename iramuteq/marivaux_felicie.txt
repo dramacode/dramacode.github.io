@@ -1,6 +1,7 @@
 
 
-**** *creator_marivaux *book_marivaux_felicie *style_prose *genre_comedy *dist1_marivaux_prose_comedy_felicie *dist2_marivaux_prose_comedy *id_FELICIE *date_1750 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_felicie
+**** *creator_marivaux *book_marivaux_felicie *style_prose *genre_comedy *dist1_marivaux_prose_comedy_felicie *dist2_marivaux_prose_comedy *id_FELICIE *date_1750 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_felicie
+
 
 Il faut avouer qu'il fait un beau jour.
 
@@ -278,8 +279,8 @@ Ah ! Chère Modestie, chère compagne, où êtes-vous ? Où sont-elles ?
 
 Ah ! Madame, ah ! Ma protectrice ! Que je vous ai d'obligation. Vous me pardonnez donc ? Je vous retrouve ; que je suis heureuse ! Et qu'il est doux de me revoir entre vos bras !
 
-
 **** *creator_marivaux *book_marivaux_felicie *style_prose *genre_comedy *dist1_marivaux_prose_comedy_felicie *dist2_marivaux_prose_comedy *id_LUCIDOR *date_1750 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucidor
+
 
 Beauté céleste, je règne dans ces cantons ; j'ose assurer qu'ils sont les plus riants ; daignez les honorer de votre présence.
 
@@ -415,8 +416,15 @@ Eh ! De qui parlez-vous encore ?
 
 Elles haïssent notre amour, vous ne l'ignorez pas ; venez, vous dis-je ; votre injuste résistance me désespère ; partons.
 
+**** *creator_marivaux *book_marivaux_felicie *style_prose *genre_comedy *dist1_marivaux_prose_comedy_felicie *dist2_marivaux_prose_comedy *id_LAFEE *date_1750 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lafee
+
+
+Amant dangereux et trompeur, ennemi de la vertu, perfides impressions de l'amour, effacez-vous de son coeur, et disparaissez.
+
+Félicie, vous êtes instruite ; je ne vous ai pas perdue de vue, et vous avez mérité notre secours, dès que vous avez eu la force de l'implorer.
 
 **** *creator_marivaux *book_marivaux_felicie *style_prose *genre_comedy *dist1_marivaux_prose_comedy_felicie *dist2_marivaux_prose_comedy *id_LAMODESTIE *date_1750 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamodestie
+
 
 Non, j'y entends du bruit ; tournons plutôt de l'autre côté ; je le crois plus sûr pour vous.
 
@@ -529,8 +537,8 @@ Pressez-la, Madame ; vos discours la ramèneront peut-être.
 
 Cependant elle nous regrette.
 
-
 **** *creator_marivaux *book_marivaux_felicie *style_prose *genre_comedy *dist1_marivaux_prose_comedy_felicie *dist2_marivaux_prose_comedy *id_DIANE *date_1750 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_diane
+
 
 Voulez-vous bien que j'approche, mon aimable fille ? Peut-être ne connaissez-vous pas ces lieux, et vous voyez l'envie que j'ai de vous y servir. Ne me refusez pas d'entrer chez moi ; je chéris la vertu, et vous y serez en sûreté.
 
@@ -567,4 +575,3 @@ L'infortunée n'a pas moins résolu de se perdre.
 
 Fille infortunée, croyez-en nos conseils et nos alarmes.
 Fuyez, le voici qui revient ; mais rien ne la touche.Adieu encore une fois, Félicie.
-

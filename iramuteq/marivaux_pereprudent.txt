@@ -2,6 +2,7 @@
 
 **** *creator_marivaux *book_marivaux_pereprudent *style_verse *genre_comedy *dist1_marivaux_verse_comedy_pereprudent *dist2_marivaux_verse_comedy *id_DEMOCRITE *date_1706 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_democrite
 
+
 Je veux être obéi ; votre jeune cervelle
 Pour l'utile, aujourd'hui, choisit la bagatelle.
 Cléandre, ce mignon, à vos yeux est charmant :
@@ -294,8 +295,8 @@ Je ne sépare plus de si tendres amants.
 Ces messieurs resteront pour la cérémonie.
 Soyez contents tous deux, votre peine est finie.
 
-
 **** *creator_marivaux *book_marivaux_pereprudent *style_verse *genre_comedy *dist1_marivaux_verse_comedy_pereprudent *dist2_marivaux_verse_comedy *id_PHILINE *date_1706 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philine
+
 
 Si mon coeur...
 
@@ -361,8 +362,8 @@ Mon père, et dites-moi ce qu'il faut que je fasse.
 Mon père, faites-moi grâce, et mon coeur est tout prêt
 S'il faut à mon amant renoncer pour jamais.
 
-
 **** *creator_marivaux *book_marivaux_pereprudent *style_verse *genre_comedy *dist1_marivaux_verse_comedy_pereprudent *dist2_marivaux_verse_comedy *id_TOINETTE *date_1706 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_toinette
+
 
       Il est vrai.
 
@@ -503,8 +504,8 @@ Que fais-tu ?
 
       J'y consens.
 
-
 **** *creator_marivaux *book_marivaux_pereprudent *style_verse *genre_comedy *dist1_marivaux_verse_comedy_pereprudent *dist2_marivaux_verse_comedy *id_CLEANDRE *date_1706 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleandre
+
 
 N'avez-vous pu, Madame, adoucir votre père ?
 À nous unir tous deux est-il toujours contraire ?
@@ -596,8 +597,8 @@ Prononcez, et s'il faut embrasser vos genoux...
 
 Puisque vous vous aimez, je veux vous marier.
 
-
 **** *creator_marivaux *book_marivaux_pereprudent *style_verse *genre_comedy *dist1_marivaux_verse_comedy_pereprudent *dist2_marivaux_verse_comedy *id_CRISPIN *date_1706 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
+
 
 Oui, croyez-en, Madame, et Toinette et Crispin ;
 Faites la paix tous deux.
@@ -974,8 +975,8 @@ Le veux-tu ?
 
 Tu te fais bien prier !
 
-
 **** *creator_marivaux *book_marivaux_pereprudent *style_verse *genre_comedy *dist1_marivaux_verse_comedy_pereprudent *dist2_marivaux_verse_comedy *id_ARISTE *date_1706 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ariste
+
 
       Ne serait-ce pas là
 La maison d'un nommé le Seigneur Démocrite ?
@@ -1029,8 +1030,8 @@ La chose est comme il dit.
 
 De vos liens, pour moi, je ne suis point jaloux.
 
-
 **** *creator_marivaux *book_marivaux_pereprudent *style_verse *genre_comedy *dist1_marivaux_verse_comedy_pereprudent *dist2_marivaux_verse_comedy *id_MAITREJACQUES *date_1706 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maitrejacques
+
 
       C'est là, monsieur Ariste :
 Velà bian la maison, je le sens à la piste ;
@@ -1115,8 +1116,8 @@ Je venons en tout ça savoir encor la fin.
       Quel est donc ce visage ?
 C'est notre homme !
 
-
 **** *creator_marivaux *book_marivaux_pereprudent *style_verse *genre_comedy *dist1_marivaux_verse_comedy_pereprudent *dist2_marivaux_verse_comedy *id_LECHEVALIER *date_1706 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
 
 C'est ici.
 
@@ -1173,8 +1174,8 @@ Fourbe, vont te payer.
 
 À vos désirs aussi je suis prêt à souscrire
 
-
 **** *creator_marivaux *book_marivaux_pereprudent *style_verse *genre_comedy *dist1_marivaux_verse_comedy_pereprudent *dist2_marivaux_verse_comedy *id_LEFINANCIER *date_1706 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lefinancier
+
 
       Oui, voilà sa demeure ;
 Sans doute je pourrai le trouver à cette heure.
@@ -1270,8 +1271,8 @@ Ah ! monsieur l'hypocrite !
 
 Je me dépars de tout, je ne puis pas plus dire.
 
-
 **** *creator_marivaux *book_marivaux_pereprudent *style_verse *genre_comedy *dist1_marivaux_verse_comedy_pereprudent *dist2_marivaux_verse_comedy *id_FRONTIN *date_1706 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+
 
 Le rôle que Crispin ici me donne à faire
 N'est pas des plus aisés, et veut bien du mystère.
@@ -1344,4 +1345,3 @@ Dites, en vérité, puis-je être plus modeste ?
 Adieu, je mangerai tout seul mes revenus.
 Vinssiez-vous à présent prier pour votre fille,
 J'abandonne à jamais votre ingrate famille.
-

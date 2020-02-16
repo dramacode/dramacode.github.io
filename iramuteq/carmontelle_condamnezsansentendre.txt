@@ -1,6 +1,7 @@
 
 
-**** *creator_carmontelle *book_carmontelle_condamnezsansentendre *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_condamnezsansentendre *dist2_carmontelle_prose_proverbe *id_MADEMOISELLEDERICHEVIERE *date_(inc *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_mademoiselledericheviere
+**** *creator_carmontelle *book_carmontelle_condamnezsansentendre *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_condamnezsansentendre *dist2_carmontelle_prose_proverbe *id_MADEMOISELLEDERICHEVIERE *date_(inc *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_mademoiselledericheviere
+
 
 Mais le marquis vous aimait sincèrement ! Comment pouvez-vous le soupçonner d'infidélité ? Ah ! Ma tante, je mourrais plutôt que d'avoir un pareil soupçon sur l'amour que le chevalier a pour moi.
 
@@ -101,4 +102,3 @@ Ma tante me demande ?
 J'y vais. Venez-vous, monsieur chevalier ?
 
 Vous allez faire le bonheur de ma tante, le nôtre le suivra : nous n'avons rien à vous reprocher.
-

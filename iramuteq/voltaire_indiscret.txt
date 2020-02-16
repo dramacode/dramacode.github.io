@@ -2,6 +2,7 @@
 
 **** *creator_voltaire *book_voltaire_indiscret *style_verse *genre_comedy *dist1_voltaire_verse_comedy_indiscret *dist2_voltaire_verse_comedy *id_EUPHEMIE *date_1736 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_euphemie
 
+
 N'attendez pas, mon fils, qu'avec un ton sévère
 Je déploie à vos yeux l'autorité de mère :
 Toujours prête à me rendre à vos justes raisons,
@@ -95,8 +96,8 @@ Je vous y servirai ; mais n'en parlez qu'à moi.
 
 Soyez heureux, mon fils, c'est tout ce que je veux.
 
-
 **** *creator_voltaire *book_voltaire_indiscret *style_verse *genre_comedy *dist1_voltaire_verse_comedy_indiscret *dist2_voltaire_verse_comedy *id_DAMIS *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
+
 
 Je ne sais où peut tendre un si long préambule.
 
@@ -503,8 +504,8 @@ Tenez donc : vous pouvez connaître l'écriture.
 
 Juste ciel ! Désormais à qui peut-on parler ?
 
-
 **** *creator_voltaire *book_voltaire_indiscret *style_verse *genre_comedy *dist1_voltaire_verse_comedy_indiscret *dist2_voltaire_verse_comedy *id_HORTENSE *date_1736 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hortense
+
 
 Nérine, j'en conviens, Clitandre est vertueux ;
 Je connais la constance et l'ardeur de ses feux :
@@ -679,8 +680,8 @@ Si je ne vous suis point un objet de courroux,
 Si vous m'aimez encore, à vos lois asservie,
 Je vous offre ma main, ma fortune et ma vie.
 
-
 **** *creator_voltaire *book_voltaire_indiscret *style_verse *genre_comedy *dist1_voltaire_verse_comedy_indiscret *dist2_voltaire_verse_comedy *id_TRASIMON *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trasimon
+
 
       Aye ! Ouf ! On m'estropie...
 
@@ -757,8 +758,8 @@ Je vous l'avais bien dit que je la rendrais sage.
 C'est moi seul, Mons Damis, qui fais ce mariage.
 Adieu : possédez mieux l'art de dissimuler.
 
-
 **** *creator_voltaire *book_voltaire_indiscret *style_verse *genre_comedy *dist1_voltaire_verse_comedy_indiscret *dist2_voltaire_verse_comedy *id_CLITANDRE *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+
 
 Oui, tout le long du jour demeure en ce jardin ;
 Observe tout, vois tout, redis-moi tout, Pasquin ;
@@ -897,8 +898,8 @@ Je vous en prie encore, et sérieusement.
 Ah ! madame, à vos pieds un malheureux amant
 Devrait mourir de joie et de saisissement.
 
-
 **** *creator_voltaire *book_voltaire_indiscret *style_verse *genre_comedy *dist1_voltaire_verse_comedy_indiscret *dist2_voltaire_verse_comedy *id_NERINE *date_1736 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
+
 
 Quelle vivacité ! quoi ! cette humeur si fière ?...
 
@@ -911,8 +912,8 @@ Au premier rendez-vous vous avez du dépit ?
       Mais l'on peut aujourd'hui
 Aisément, si l'on veut, savoir cela de lui.
 
-
 **** *creator_voltaire *book_voltaire_indiscret *style_verse *genre_comedy *dist1_voltaire_verse_comedy_indiscret *dist2_voltaire_verse_comedy *id_PASQUIN *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pasquin
+
 
 Hélas ! monsieur, tant pis.
 
@@ -1023,3 +1024,7 @@ Monsieur, Hortense arrive, et pourrait nous entendre.
 Ah ! monsieur, que dirai-je ? Hélas ! je suis à bout.
 Allons tous trois au bal, et je vous dirai tout.
 
+**** *creator_voltaire *book_voltaire_indiscret *style_verse *genre_comedy *dist1_voltaire_verse_comedy_indiscret *dist2_voltaire_verse_comedy *id_LAQUAIS *date_1736 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_laquais
+
+
+Monseigneur ?

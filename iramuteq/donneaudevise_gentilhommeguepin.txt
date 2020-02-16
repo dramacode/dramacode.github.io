@@ -2,6 +2,7 @@
 
 **** *creator_donneaudevise *book_donneaudevise_gentilhommeguepin *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_gentilhommeguepin *dist2_donneaudevise_verse_comedy *id_LEVICOMTE *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levicomte
 
+
 Te verrai-je toujours avec cette langueur ?
 Et ne puis-je savoir ce qui te tient au coeur ?
 Là, tâche à rire un peu, bannis cette tristesse,
@@ -433,8 +434,8 @@ Hors d'ici vous emmène, et qu'il soit votre époux :
 Vous serez au contrat, Messieurs, je vous en prie,
 Et partirez après cette cérémonie.
 
-
 **** *creator_donneaudevise *book_donneaudevise_gentilhommeguepin *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_gentilhommeguepin *dist2_donneaudevise_verse_comedy *id_LUCRECE *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucrece
+
 
 Non, je ne puis plus vivre avec votre frère,
 Son humeur me déplaît, je ne saurais m'en taire ;
@@ -524,8 +525,8 @@ Et me venger, par là, de votre jalousie
 Qui fournira de quoi faire une comédie.
 Lisette, allons, suis-moi.
 
-
 **** *creator_donneaudevise *book_donneaudevise_gentilhommeguepin *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_gentilhommeguepin *dist2_donneaudevise_verse_comedy *id_CLARICE *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clarice
+
 
 Je sais que je ne puis justifier mon frère,
 Qu'un naturel jaloux a rendu trop sévère ;
@@ -708,8 +709,8 @@ Céphise, qui m'a fait trouver ce stratagème,
 N'en a pas pu garder le secret elle-même,
 Et ce sot...
 
-
 **** *creator_donneaudevise *book_donneaudevise_gentilhommeguepin *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_gentilhommeguepin *dist2_donneaudevise_verse_comedy *id_LISETTE *date_1670 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
 Ah quel maudit logis !
 
@@ -892,8 +893,8 @@ Je ne puis.
 
 Moi ?
 
-
 **** *creator_donneaudevise *book_donneaudevise_gentilhommeguepin *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_gentilhommeguepin *dist2_donneaudevise_verse_comedy *id_CORNANVILLE *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cornanville
+
 
 Monsieur... Mais que d'appât ! Ô Dieu, la belle femme !
 Ah, permettez, Monsieur, que j'embrasse Madame.
@@ -932,8 +933,8 @@ Car le chemin m'a fait gagner de l'appétit.
 Madame, la campagne est un lieu de franchise, :
 Et chez ses bons amis on vit comme chez soi.
 
-
 **** *creator_donneaudevise *book_donneaudevise_gentilhommeguepin *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_gentilhommeguepin *dist2_donneaudevise_verse_comedy *id_BOISDOUILLET *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_boisdouillet
+
 
 Je suis, sans dire mot, entré jusqu'ici.
 Vous voyez avec moi, Monsieur, mon fils aussi.
@@ -991,8 +992,13 @@ Il est fort pétillant, et sa sève.....
 Madame, goûtez-en. Vous faites la grimace !
 À quoi bon entre nous faire tant de façon ?
 
+**** *creator_donneaudevise *book_donneaudevise_gentilhommeguepin *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_gentilhommeguepin *dist2_donneaudevise_verse_comedy *id_BOISDOUILLETFILS *date_1670 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_boisdouilletfils
+
+
+Madame.
 
 **** *creator_donneaudevise *book_donneaudevise_gentilhommeguepin *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_gentilhommeguepin *dist2_donneaudevise_verse_comedy *id_CHANTEPIE *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chantepie
+
 
       Quoi, tous deux nous embrasser ensemble ?
 
@@ -1092,8 +1098,8 @@ Et de Fête, enfin, nous sommes priés tous.
 
       Et bien vert.
 
-
 **** *creator_donneaudevise *book_donneaudevise_gentilhommeguepin *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_gentilhommeguepin *dist2_donneaudevise_verse_comedy *id_COCHONVILAIN *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cochonvilain
+
 
 Quoi, Madame nous fuit ?
 
@@ -1174,8 +1180,8 @@ Ce qui nous fait rester, vous doit beaucoup surprendre.
 
 Bois-Douillet est gaillard.
 
-
 **** *creator_donneaudevise *book_donneaudevise_gentilhommeguepin *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_gentilhommeguepin *dist2_donneaudevise_verse_comedy *id_BOISLEROUX *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_boisleroux
+
 
 Madame, j'ai beaucoup de grâces à vous rendre,
 Et votre esprit se fait connaître par le tour...
@@ -1220,8 +1226,8 @@ Que veut dire ceci ?
 
 Il ne s'en souviendra donc plus ?
 
-
 **** *creator_donneaudevise *book_donneaudevise_gentilhommeguepin *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_gentilhommeguepin *dist2_donneaudevise_verse_comedy *id_COLAS *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colas
+
 
 On nous demande, et c'est Monsieur de Cornanville.
 
@@ -1238,8 +1244,8 @@ Mais....
 Messieurs, de Chante-Pie, et de Cochon-Vilain,
 Sont là-bas.
 
-
 **** *creator_donneaudevise *book_donneaudevise_gentilhommeguepin *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_gentilhommeguepin *dist2_donneaudevise_verse_comedy *id_NICODEME *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nicodeme
+
 
 Monsieur.
 
@@ -1262,8 +1268,8 @@ Venez donc lui prêter la main.
       Je ne sais, pourtant je vous apporte
 Une lettre, Monsieur, qu'on dit qui vous importe.
 
-
 **** *creator_donneaudevise *book_donneaudevise_gentilhommeguepin *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_gentilhommeguepin *dist2_donneaudevise_verse_comedy *id_CLAMPIN *date_1670 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clampin
+
 
       Me voici, car votre affaire est faite,
 Monsieur, et j'ai trouvé sur le chemin celui
@@ -1276,4 +1282,3 @@ Quoi faire !
 
       Dame,
 Dites-moi ce qu'il faut que je dise, Madame.
-

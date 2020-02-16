@@ -2,6 +2,7 @@
 
 **** *creator_thibouville *book_thibouville_thelamire *style_verse *genre_tragedy *dist1_thibouville_verse_tragedy_thelamire *dist2_thibouville_verse_tragedy *id_THELAMIRE *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thelamire
 
+
 Non, mon cher Amintas, ce trouble qui t'étonne
 N'est point l'effet des soins qu'entraîne la Couronne.
 Je sais que je suis né pour régner en ces lieux.
@@ -467,8 +468,8 @@ Ah ! Tout mon sang...
 Elle meurt, Dieux cruels ! Dont la rigueur m'opprime :
 J'ai tout fait pour vous plaire, et j'en suis la victime.
 
-
 **** *creator_thibouville *book_thibouville_thelamire *style_verse *genre_tragedy *dist1_thibouville_verse_tragedy_thelamire *dist2_thibouville_verse_tragedy *id_ELISMENE *date_1739 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elismene
+
 
 Tu combats vainement de trop justes douleurs ;
 Barsine, laisse moi, laisse couler mes pleurs ;
@@ -780,8 +781,8 @@ Je ne la perdrai point, puisque je vous la donne...
 Exécutez du moins le dernier de mes vœux...
 Thélamire... je meurs... vivez, soyez heureux.
 
-
 **** *creator_thibouville *book_thibouville_thelamire *style_verse *genre_tragedy *dist1_thibouville_verse_tragedy_thelamire *dist2_thibouville_verse_tragedy *id_AMINTAS *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amintas
+
 
 Enfin, voici le jour où la faveur des Dieux
 Semble de Thélamire assurer tous les vœux :
@@ -1130,8 +1131,8 @@ Qu'il faut bien nous garder d'en traverser la fête :
 Mais en les renvoyant, exige leurs serments
 De se rejoindre à nous, quand il sera temps.
 
-
 **** *creator_thibouville *book_thibouville_thelamire *style_verse *genre_tragedy *dist1_thibouville_verse_tragedy_thelamire *dist2_thibouville_verse_tragedy *id_LICAS *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_licas
+
 
 N'en doutez point, Seigneur, le vertueux Athis
 Aux lois de son devoir sera toujours soumis.
@@ -1171,8 +1172,8 @@ Qui placent Thélamire au trône de nos Rois.
 
 Mais avez-vous prévu ?
 
-
 **** *creator_thibouville *book_thibouville_thelamire *style_verse *genre_tragedy *dist1_thibouville_verse_tragedy_thelamire *dist2_thibouville_verse_tragedy *id_BARSINE *date_1739 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_barsine
+
 
 Madame, est-il donc vrai qu'Elisméne aujourd'hui
 Puisse connaître encor le chagrin et l'ennui ?
@@ -1205,3 +1206,79 @@ Plus on est malheureux, plus il faut de courage.
 Vous partiez de la Cour : vous-même devant moi,
 Vous vous êtes par faiblesse imposé cette loi.
 
+**** *creator_thibouville *book_thibouville_thelamire *style_verse *genre_tragedy *dist1_thibouville_verse_tragedy_thelamire *dist2_thibouville_verse_tragedy *id_LICTIMEN *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lictimen
+
+
+À vos ordres, Seigneur, Athis vient de se rendre.
+
+Seigneur, où courez-vous ! Permettez que mon zèle ;
+Du plus heureux succès vous donne la nouvelle.
+Fier de l'autorité du nouveau souverain,
+Le perfide Amintas, les armes à la main,
+Jusques à vous cherchait à s'ouvrir un passage :
+Des plus séditieux il anime la rage :
+« Suivez-moi, leur dit-il, et de l'usurpateur,
+En s'assurant de lui, prévenons la fureur. »
+Du Palais, à ces mots, il veut forcer la porte,
+Mais il excite en vain une trop faible escorte.
+La garde me seconde ; et de leur vain effort,
+Ils n'ont bientôt pour fruit que la honte et la mort.
+Moi-même je la joins. Mon bras que le Ciel guide,
+Dans les flots de son sang renverse le perfide.
+« Je succombe dit-il ; mais je meurs glorieux.
+Mes yeux ont vu mon fils régner malgré les Dieux. »
+Que dis-je ? Le trépas pour mon cœur a des charmes,
+Puisqu'enfin Thélamire y donnera des larmes :
+J'enlève pour jamais l'espoir à son amour ;
+C'est me venger assez que lui laisser le jour.
+
+Seigneur, le châtiment de cet audacieux
+N'est que le moindre effet de la faveur des Dieux.
+Après l'avoir puni, j'ai volé dans le Temple.
+Athis, loin d'imiter cet odieux exemple,
+De son père cruel détestant les forfaits,
+Désavoue hautement ses malheureux bienfait.
+Aux pieds de la Princesse il remet la Couronne.
+« C'est à vous, lui dit-il, que le destin la donne :
+Pour vous la conserver, trop heureux, si mon sang
+Expiait des fureurs dont je suis innocent !
+Mon cœur du moins vous venge, adieu, belle Elismène :
+Je vous rends votre foi ; je brise notre chaîne. »
+On voit rompre avec joie un hymen odieux ;
+Et la Princesse enfin est rendue à vos vœux.
+
+**** *creator_thibouville *book_thibouville_thelamire *style_verse *genre_tragedy *dist1_thibouville_verse_tragedy_thelamire *dist2_thibouville_verse_tragedy *id_PHILAX *date_1739 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philax
+
+
+Oui, l'hymen les a joints, Seigneur : mais apprenez
+À quels nouveaux malheurs vos jours sont destinés.
+Amintas vous trahit ; c'est son fils qu'il couronne ;
+Il vous ôte à la fois Elismène et le Trône.
+
+      La Princesse en pleurs subissant son destin,
+À peine au jeune Athis avait donné la main...
+Des cris tumultueux font retentir le Temple.
+Amintas, aux mutins, sert lui-même d'exemple ;
+Et prononce ces mots qui nous glacent d'effroi.
+« Thélamire vous trompe ; il n'est point votre Roi ;
+Sachez que le feu Roi supposa sa naissance,
+Pour conserver chez lui la suprême puissance.
+L'échange fut secret ; Peuple, n'en doute plus :
+Elismène est ta Reine ; et lui, Fils de Cydnus. »
+De Cydnus, aussitôt il présente une lettre ;
+⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎
+	
+Dans les mains du Pontife il ose la remettre ;
+Demande qu'on la lise. On reconnaît le seing.
+On lit. Cydnus confirme encor votre destin :
+Et chacun confondu de ce revers étrange,
+Ne saurait plus douter de ce fatal échange.
+
+Seigneur, songez à vous ; sans doute le perfide
+Voudra porter plus loin la fureur qui le guide.
+Il vous craint : c'est assez pour tout craindre de lui
+Son fils devenu Roi peut lui servir d'appui.
+Il a des partisans : leur troupe est la plus forte :
+Du Palais, Lictimen défend encor la porte.
+Montrez-vous ; et du moins empêchez que ce jour
+N'ajoute d'autres maux à ceux de votre amour.

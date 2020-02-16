@@ -2,6 +2,7 @@
 
 **** *creator_archambault *book_archambault_jocrissechange *style_prose *genre_comedy *dist1_archambault_prose_comedy_jocrissechange *dist2_archambault_prose_comedy *id_MADAMEDUPONT *date_1794 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedupont
 
+
 En vérité, Monsieur Dorval, vous êtes tourmentant, au moins !...
 
 Mais, compliments à part ; croyez-vous que cela me ressemblera ?
@@ -90,8 +91,8 @@ Est-ce que c'est vous, mon cher ami ?
 
 J'y consens ; mais je ne voudrais pas qu'Ursule nous quittât.
 
-
 **** *creator_archambault *book_archambault_jocrissechange *style_prose *genre_comedy *dist1_archambault_prose_comedy_jocrissechange *dist2_archambault_prose_comedy *id_URSULE *date_1794 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ursule
+
 
 Il est à la cave, Madame ; je vais l'appeler.
 
@@ -156,8 +157,8 @@ Mais, mon pauvre garçon, où que tu vas aller comme ça ce soir?
 
 Quéque c'est donc que ça qu'on tambourine à la porte ?
 
-
 **** *creator_archambault *book_archambault_jocrissechange *style_prose *genre_comedy *dist1_archambault_prose_comedy_jocrissechange *dist2_archambault_prose_comedy *id_JOCRISSE *date_1794 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jocrisse
+
 
 Oh ! Ma fine ; on a ben raison de le dire, ça ! C'est incrédule. Comme une chose est différente au contraire d'une aute !... Je l'aurais pas jamais cru, moi, si je l'avais pas t'éprouvé par moi-même, et dans ma propre personne... Je ruminais toujours, à part moi, dans ma première condition, que c'était un si mauvais métier que le service des maîtes, que je n'en voulais plus servir d'autes, si j'en étais dehors... Oh ! Oui ; j'aurais mieux aimé... Putôt me faire maîte moi-même que de redevenir domestique... Oh ! ça n'a tenu qu'a l'argent de quoi leux y payer des gages. Le maîte que j'ai quitté, était si ridicule, qu'i se fâchait toujours pour la moindre chose ; y grondait, pestait après moi et ne trouvait jamais rien de ben fait. Eh ben ! Moi, j'en ai rencontré un tout à la rebours de lui, apparamment... Quand je casse, ou que je brise, ou que je fais quéque sottise, il en rit, et j'ai toujours raison... Ça prouve ben la vérité de ce que je pensais, moi, que c'est par la faute des domestiques, quand les maîtes ne sont pas contents ; c'est à eux à savoir ben prendre les choses... L'n'y a que ma maîtresse qui est encore un tantinet taquine, elle ; ... Sans quoi, je serais ici comme le poisson dans l'iau. Quand je casse un plat,... Ou ben un verre,... Ou ben une soupière,... Ou ben un miroir,... I' sembe que je l'y arrache une dent... Oh ! C'est un mauvais caractère aussi, elle ; mais en revanche, mon maîte, il est d'une bonne pâte, lui ; ... J'en voudrais jamais servir de plus difficiles... Oh ! Oui, si ça dure comme ça, je resterai longtemps avec lui... Voyons un peu ; avant du travailler, faut que je déjeune ; car j'ai encore un plaisir ici, c'est qu'on ne m'y plaint pas la mangeaille... Visitons la buffet... Bon ! V'là un morceau que je me suis réservé pour ce matin. Hier au soir, Monsieur et Madame ont soupé en ville ; y avait une poularde cuite qu'avait restée du diner : je l'ai laissé emporter par le chat qu'en a mangé la moitié. Madame a crié comme un chien ; mais le mari n'a fait qu'en rire, lui. Ah ben ! Qu'il a dit, pisqu'il l'a traînée par l'escalier, que Jocrisse mange l'aute moitié à steure pour le punir... Ah ben ! Moi, pas fier ; v'là que je fais mon déjeuner avec les restants du chat.
 Je boirai un coup de plus pour laver la poussière, v'là tout.
@@ -477,8 +478,8 @@ Ah ! Mon Dieu ! Mon bon maîte !...
 
 Ah ! Jarni ! Mon cher maîte !... Faudrait donc être un tigre, pour n'en avoir pas un bon auprès de vous... Ma chère maîtresse, vous verrez que vous serez contente de moi à présent ; vous, Monsieur le peinte, vous finirez mon portrait de ce coup-ci ; et vous, Mam'selle Ursule, vous aurez toujours l'original, en attendant la copie ; et pis, v'là encore le magot par-dessus le marché.
 
-
 **** *creator_archambault *book_archambault_jocrissechange *style_prose *genre_comedy *dist1_archambault_prose_comedy_jocrissechange *dist2_archambault_prose_comedy *id_GLAUDE *date_1794 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_glaude
+
 
 Monsieur, c'est-t'i' pas ici, révérence parler, que demeure la maison de Monsieur Dupont ?
 
@@ -515,4 +516,3 @@ Ah ! Mon Dieu ! C'est donc comme une ogresse, ste femme-là !
 Ah ! Jarnigouette ! Queuque j'entendons-là ?
 
 Ah ! Sarpedié non ! Annoncez-lui plutôt que je m'en retourne dans mon pays... Oh ! Je n'aimons pas à être brutalisé ; et si alle attend après moi pour prendre vote place, vote belle Madame a restera encore longtemps vuide.
-

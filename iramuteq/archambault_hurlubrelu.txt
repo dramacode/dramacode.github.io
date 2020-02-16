@@ -2,6 +2,7 @@
 
 **** *creator_archambault *book_archambault_hurlubrelu *style_prose *genre_comedy *dist1_archambault_prose_comedy_hurlubrelu *dist2_archambault_prose_comedy *id_GERMAIN *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_germain
 
+
 Il est déjà onze heures, et cet imbécile d'Hurlubrelu ne revient pas ; il m'aura fait encore quelque étourderie mais moi, bien imbécile aussi, de me servir d'un ahuri comme celui : je lui ai donné deux commissions ce matin, c'en est assez pour qu'il m'ait fait tout de travers. Je ne voudrais pourtant pas sortie avant qu'il m'ait rapporté la quittance de cet homme à qui je l'ai envoyé payer un billet de douze cens livres: il n'aurait qu'à la perdre, cela ne m'avancerait pas... Mais Monsieur Calandre, mon fabriquant, est un honnête homme, je ne risque rien avec lui. C'est égal, en attendant que Hurlubrelu revienne, je vais causer un moment avec mon Notaire ; aussi bien j'ai quelque chose à lui communiquer.
 
 Eh ! Hurlubrelu ?
@@ -112,8 +113,8 @@ En outre, vous vous entendez avec ma femme. Vous lui faites son chocolat tous le
 
 Non sans doute, vous avez mieux aimé me désobéir à moi. Eh bien, ma fille, vous avez bien fait : à présent allez voir si Madame veut vous prendre à son service ; quant à moi je vous renvoie du mien : pour votre compte il n'est pas lourd : je crois même que nous sommes encore en avance avec vous, ainsi vous pouvez toujours aller vous munir d'une autre condition, et en revenant chercher votre paquet, nous finirons de compter ensemble : adieu, ma bonne.
 
-
 **** *creator_archambault *book_archambault_hurlubrelu *style_prose *genre_comedy *dist1_archambault_prose_comedy_hurlubrelu *dist2_archambault_prose_comedy *id_MADAMEGERMAIN *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamegermain
+
 
 Eh bien, mais, j'avais cru entendre mon mari.
 
@@ -141,8 +142,8 @@ Et vous, Mademoiselle, vous recevez des lettres à l'insu de votre père et de v
 C'est fort bien. Mademoiselle : rentrez, s'il vous plaît: quand votre père reviendra, nous verrons ce qu'il dira de cela.
 Pour toi, coquin, si je te vois seulement approcher de la porte de ma maison, je te ferai renfermer pour le reste de tes jours.
 
+**** *creator_archambault *book_archambault_hurlubrelu *style_prose *genre_comedy *dist1_archambault_prose_comedy_hurlubrelu *dist2_archambault_prose_comedy *id_JOSEPH *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_joseph
 
-**** *creator_archambault *book_archambault_hurlubrelu *style_prose *genre_comedy *dist1_archambault_prose_comedy_hurlubrelu *dist2_archambault_prose_comedy *id_JOSEPH *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_joseph
 
 Ah, te voilà, Hurlubrelu ! Eh bien, as-tu été ce matin souhaiter le bonjour à Madame Dugange ?
 
@@ -157,8 +158,8 @@ Ah, gueux ! Je t'apprendrai à courir, moi.
 Attends, je vais te blanchir, moi. Tiens, drôle, tiens, coquin.
 Voilà du mou, mon ami; serre bien celui-là.
 
+**** *creator_archambault *book_archambault_hurlubrelu *style_prose *genre_comedy *dist1_archambault_prose_comedy_hurlubrelu *dist2_archambault_prose_comedy *id_MADEMOISELLEGERMAIN *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_mademoisellegermain
 
-**** *creator_archambault *book_archambault_hurlubrelu *style_prose *genre_comedy *dist1_archambault_prose_comedy_hurlubrelu *dist2_archambault_prose_comedy *id_MADEMOISELLEGERMAIN *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_mademoisellegermain
 
 Hurluberlu ?
 
@@ -188,8 +189,8 @@ Dame, arrange-toi ; mais donne-moi toujours ma lettre.
 
 Ma chere mère, excusez ; je vous l'aurais fait voir... C'est un jeune homme bien honnête.
 
-
 **** *creator_archambault *book_archambault_hurlubrelu *style_prose *genre_comedy *dist1_archambault_prose_comedy_hurlubrelu *dist2_archambault_prose_comedy *id_JAVOTTE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_javotte
+
 
 Qu'est-ce que c'est ?
 
@@ -252,8 +253,8 @@ Oui, Monsieur Hurlubrelu, vous l'aviez ; mais votre bonne tête vous a encore tr
 
 Mon cher Hurlubrelu !
 
-
 **** *creator_archambault *book_archambault_hurlubrelu *style_prose *genre_comedy *dist1_archambault_prose_comedy_hurlubrelu *dist2_archambault_prose_comedy *id_HURLUBRELU *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hurlubrelu
+
 
 Ah ! Me v'là t'a la fin cheux nous. Comme ce Paris s'allonge pourtant ! Faut avoir des fières jambes, dà, pour en faire les quatre coins comme moi !... Et une fière tête encor qui faut dans ces grandes maisons de ces gros marchands comme je suis là... Dame, je peux ben dire que je ne m'endors pas avec tout ce monde, qui sont là-dedans des familles et des parenTs, que ça n'en finit pas. Y a toujours queuque chose à leus y répondre ou à leus y faire : et vas-t-en à la cave, et monte au guernier, et frotte la cuisine, et échaude l'appartement... Oh ! L'esprit m'en retourne et les oreilles m'en cornent !... Si je sors dehors, allons, attrape ben vite vingt commissions à la fois: ce matin le père m'a t'envoyé porter de l'argent et pis une lettre, v'là tout de suite Madame et pis sa fille, qui m'ont chargé aussi de leus affaires : n'y a pas jusqu'à la servante qui m'a prié aussi de l'y apporter des carottes, et pi la grand-mère, du mou pour son chat. Oh ! Si ces gens là ne m'avaient pas, y leus en fiudroit quatre autes des domestiques ? Encor, j'dis, hus faudrait pas des imbéciles, dà ! Ils se cachent tous les uns des autres, n'y a que moi que je sais tous leus secrets. Si j'avais pas une bonne tête pourtant, où ce quis en seraient. Voyons toujours si j'ai bien là tout ce qu'il faut. - Oui, v'là d'abord le sac où ce qui n'y a pus d'argent dedans. Ça on ne dira pas que je l'ai gardé. V'là du chocolat pour la mère qu'il ne faut pas que le mari le voye : - V'là ben le mou pour la vieille, et pis v'là les carottes pour la servante. - Oh ! Celle là, je ne l'oublie jamais, parce que c'est une bonne fille, et pis je devons nous marier ensemble d'un moment à l'autre ; j'attends pus que d'avoir l'âge. Oh ! Oui, je compte ben dessus elle, et je l'ai dans ma poche même, sa promesse de se marier nous deux ; et pis mon onque qui est mort, qui nous a laissé de l'argent à hériter exprès pour ça : oh ! Pardine je regarde ben ce mariage là comme sait, moi, i n'y manque pus que la façon, v'la tout. Entrons toujours, et allons rendre nos comptes.
 
@@ -545,4 +546,3 @@ Oui, Monsieur, je l'avons.
 Et moi je ne le veux pas. V'là mon dernier mot... Sans avoir de l'esprit, je vois ben que Mamselle Javotte ne m'aime pas, et qu'elle te veux ben, toi. Nicolas ; par ainsi, c'est pas encor mon tour : épouse-la, j'y consens, et garde ton argent pour la noce.... Mais à condition que tu seras un bon mari, qu'elle sera une bonne femme ; et que vous direz queque fois de moi que je suis un bon garçon aussi.
 
 Oui, Monsieur, c'est vrai, que je n'avons pas eu jusqu'à présent une bonne cervelle ; mais du moins j'avons un bon cœur, je suis bon Français, j'allons servit la République, et jarni ! Ptête qu'à la fin tout ça me fera revenir une bonne tête.
-

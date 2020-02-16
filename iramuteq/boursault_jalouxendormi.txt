@@ -2,6 +2,7 @@
 
 **** *creator_boursault *book_boursault_jalouxendormi *style_verse *genre_comedy *dist1_boursault_verse_comedy_jalouxendormi *dist2_boursault_verse_comedy *id_SPADARILLE *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_spadarille
 
+
 Je vous l'avais bien dit pour calmer votre effroi,
 Que vous seriez toujours à votre aise avec moi.
 Et qu'assez de trésors vous auriez en partage,
@@ -487,8 +488,8 @@ Peuples qui m'écoutez, laissez périr le Monde ;
 Et disant à ce sexe un éternel adieu,
 Songez que qui s'en passe est bien-aimé de Dieu.
 
-
 **** *creator_boursault *book_boursault_jalouxendormi *style_verse *genre_comedy *dist1_boursault_verse_comedy_jalouxendormi *dist2_boursault_verse_comedy *id_CLEANDRE *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleandre
+
 
 Monsieur, vous savez bien qu'on me nomme Cléandre ?
 
@@ -658,8 +659,8 @@ N'es soyez point en peine, il saura nous rejoindre,
 Nous avons rendez-vous, et j'en suis avoué,
 Allons.
 
-
 **** *creator_boursault *book_boursault_jalouxendormi *style_verse *genre_comedy *dist1_boursault_verse_comedy_jalouxendormi *dist2_boursault_verse_comedy *id_OLIMPIE *date_1662 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_olimpie
+
 
 Quand je songe au malheur où je suis condamnée,
 J'ai regret d'être à vous par les nouds d'Hyménée,
@@ -843,8 +844,8 @@ Et quoi.
       Mais mon Père, il fait signe des yeux,
 S'il n'est hors de ses mains, mon souci n'est pas moindre.
 
-
 **** *creator_boursault *book_boursault_jalouxendormi *style_verse *genre_comedy *dist1_boursault_verse_comedy_jalouxendormi *dist2_boursault_verse_comedy *id_ALCIDOR *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcidor
+
 
 Monsieur le Gouverneur dont je suis le beau-père,
 Je viens.
@@ -959,8 +960,8 @@ Est de voir qu'un barbare ait le titre d'époux.
 En entrant le premier tu m'as mis hors de peine,
 Adieu.
 
-
 **** *creator_boursault *book_boursault_jalouxendormi *style_verse *genre_comedy *dist1_boursault_verse_comedy_jalouxendormi *dist2_boursault_verse_comedy *id_CASCARET *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cascaret
+
 
 Mais comme Spadarille est sujet à l'ombrage
 Quoique des cadenas il observe l'usage,
@@ -991,4 +992,3 @@ Monsieur.
 
       Le pauvre Diable ! Il n'a plus de femelle,
 Je le donne en dix coups à qui fourbera mieux.
-

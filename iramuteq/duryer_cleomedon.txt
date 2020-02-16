@@ -2,6 +2,7 @@
 
 **** *creator_duryer *book_duryer_cleomedon *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_cleomedon *dist2_duryer_verse_tragedy *id_argire *date_1636 *sexe_feminin *age_veteran *statut_maitre *fonction_autres *role_argire
 
+
 Va d'un pas genereux⁎ pour suivre la victoire ;
 Adjouste à ta grandeur le lustre de ta gloire⁎,
 Et monstre que ton bras t'eust le Sceptre donné
@@ -305,8 +306,8 @@ Qui rend à tes beaux jours une gloire⁎ si pure.
 Je me declarerois indigne de bon-heur,
 Si je ne consentois à ce que veut l'honneur.
 
-
 **** *creator_duryer *book_duryer_cleomedon *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_cleomedon *dist2_duryer_verse_tragedy *id_celiante *date_1636 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_celiante
+
 
 C'est peu pour m'animer⁎ d'employer le langage,
 Vous m'avez en naissant inspiré le courage⁎,
@@ -550,8 +551,8 @@ Je la prendroy bien-tost de sa seule beauté.
 Si Madame y consent, je l'adore, je l'ayme,
 Et mon ame luy fait un present de soy mesme.
 
-
 **** *creator_duryer *book_duryer_cleomedon *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_cleomedon *dist2_duryer_verse_tragedy *id_placide *date_1636 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_placide
+
 
 Je n'en sçaurois parler sans parler à sa gloire⁎.
 
@@ -653,8 +654,8 @@ ACTE I
 
 Grand Prince, Celiante.
 
-
 **** *creator_duryer *book_duryer_cleomedon *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_cleomedon *dist2_duryer_verse_tragedy *id_policandre *date_1636 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_policandre
+
 
 Mes filles, mon soucy⁎, seules pour qui je crains,
 Seules pour qui j'endure, et pour qui je me plains,
@@ -916,8 +917,8 @@ Ainsi les feux⁎ de Mars estouffez à leur tour,
 Cederont pour jamais aux flames⁎de l'Amour.
 FIN.
 
-
 **** *creator_duryer *book_duryer_cleomedon *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_cleomedon *dist2_duryer_verse_tragedy *id_celanire *date_1636 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_celanire
+
 
 Quand d'un pere affligé nous pleurons l'avanture⁎,
 Ne nous deffendez point ce qu'apprend la nature,
@@ -1351,8 +1352,8 @@ Vous pouvez disposer des biens qui sont à vous.
 N'ayant point d'autre soin que de vous satisfaire,
 Je borne mes desirs de celuy de vous plaire.
 
-
 **** *creator_duryer *book_duryer_cleomedon *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_cleomedon *dist2_duryer_verse_tragedy *id_belise *date_1636 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_belise
+
 
 Quand vostre volonté me deffend de me plaindre,
 Vos maux sont des tyrans qui m'y viennent contraindre.
@@ -1581,8 +1582,8 @@ Et quand j'y pense moins le Ciel me favorise.
 J'aymerois peu mon bien et mon contentement,
 Si je n'acceptois pas un present si charmant.
 
-
 **** *creator_duryer *book_duryer_cleomedon *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_cleomedon *dist2_duryer_verse_tragedy *id_birene *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_birene
+
 
 Commencez d'esperer et changez de discours.
 Enfin Cleomedon vient à vostre secours,
@@ -1671,8 +1672,8 @@ A rendu l'alegresse au front de cette Cour.
 
 Quelqu'un vous vient querir.
 
-
 **** *creator_duryer *book_duryer_cleomedon *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_cleomedon *dist2_duryer_verse_tragedy *id_cleomedon *date_1636 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_cleomedon
+
 
 Je ne m'esloigne point sans adorer mes Dieux,
 Je doy suivre, il est vray, cette cruelle Argire,
@@ -2181,8 +2182,8 @@ Et m'oste mes thresors pour en faire les siens !
 Ha ! Madame, est-il vray qu'un sort⁎ prodigieux
 M'esleve des Enfers à la gloire⁎ des Cieux ?
 
-
 **** *creator_duryer *book_duryer_cleomedon *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_cleomedon *dist2_duryer_verse_tragedy *id_oronte *date_1636 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_oronte
+
 
 Puisque par les Destins il estoit arresté⁎,
 Que je partagerois vostre captivité.
@@ -2360,8 +2361,8 @@ Mais desjà le Roy sort⁎.
 
 Monsieur, pardonnez-nous.
 
-
 **** *creator_duryer *book_duryer_cleomedon *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_cleomedon *dist2_duryer_verse_tragedy *id_creon *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_creon
+
 
 Mettons le throsne à bas, et mesme à nostre honte,
 Plustost que de souffrir que cét esclave y monte.
@@ -2376,8 +2377,8 @@ L'avis⁎ n'est pas de ceux que l'on doit negliger.
 
       Il le peut estre encore.
 
-
 **** *creator_duryer *book_duryer_cleomedon *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_cleomedon *dist2_duryer_verse_tragedy *id_timante *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_timante
+
 
 Elle a le cœur⁎ trop haut pour l'arrester⁎ si bas.
 
@@ -2505,8 +2506,8 @@ Mais dedans un esquif quelques Dames sauvees,
 Depuis une heure ou deux sont au port arrivee,
 Elle vous diront tout : elle vous viennnent voir.
 
-
 **** *creator_duryer *book_duryer_cleomedon *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_cleomedon *dist2_duryer_verse_tragedy *id_clorimante *date_1636 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_clorimante
+
 
 Ne puis-je voir le Roy ?
 
@@ -2591,4 +2592,3 @@ A ce nom seulement je pense le revoir.
 O Dieux ! monstrez-icy quel est vostre pouvoir.
 
 Ha ! Sire, c'est luy-mesme, ha ! mon Prince, ha ! mon Roy.
-

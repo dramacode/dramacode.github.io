@@ -2,6 +2,7 @@
 
 **** *creator_sophocle *book_sophocle_oediperoi *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oediperoi *dist2_sophocle_prose_tragedy *id_OEDIPE *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oedipe
 
+
 Ô enfants, race nouvelle de l'antique Kadmos, pourquoi vous tenez-vous ainsi devant moi avec ces rameaux suppliants ? Toute la ville est pleine de l'encens qui brûle et du retentissement des paians et des lamentations. Je n'ai point pensé que je dusse apprendre ceci par d'autres, ô enfants ! Et je suis venu moi-même, moi, Oidipous, célèbre parmi tous les hommes. Allons ! Parle, vieillard, car il convient que tu parles pour eux. Qu'est-ce ? Quelle est votre pensée ? Redoutez-vous quelque danger ? Désirez-vous être secourus dans une calamité présente ? Certes, je vous viendrai en aide. Je serais sans pitié si je n'étais touché de votre morne attitude.
 
 Ô lamentables enfants ! Je sais, je n'ignore pas ce que vous venez implorer. Je sais de quel mal vous souffrez tous. Mais quelles que soient les douleurs qui vous affligent, elles ne valent pas les miennes ; car chacun de vous souffre pour soi, sans éprouver le mal d'autrui, et moi, je gémis à la fois sur la ville, sur vous et sur moi. Certes, vous ne m'avez point éveillé tandis que je dormais ; mais, plutôt, sachez que j'ai beaucoup pleuré et agité dans mon esprit bien des inquiétudes et des pensées ; de sorte que le seul remède trouvé en réfléchissant, je l'ai tenté. C'est pourquoi j'ai envoyé à Python, aux demeures de Phoebus, le fils de Ménoikeus, Créon, mon beau-frère, afin d'apprendre par quelle action ou par quelle parole je puis sauver cette ville. Déjà, comptant les jours depuis son départ, je suis inquiet de ce qu'il fait ; car il y a fort longtemps qu'il est absent, et au delà de ce qui est vraisemblable. Quand il sera revenu, que je sois tenu pour un mauvais homme, si je ne fais ce qu'aura prescrit le dieu !
@@ -388,8 +389,8 @@ Emmène-moi donc d'ici.
 
 Je te conjure de ne pas me les arracher !
 
-
 **** *creator_sophocle *book_sophocle_oediperoi *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oediperoi *dist2_sophocle_prose_tragedy *id_LESACRIFICATEUR *date_1877 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lesacrificateur
+
 
 Oedipe, ô toi qui commandes à la terre de ma patrie, tu nous vois tous prosternés devant tes autels : ceux-ci qui ne peuvent encore beaucoup marcher, ces sacrificateurs lourds d'années, et moi-même serviteur de Zeus et cette élite de nos jeunes hommes. Le reste de la multitude, portant les rameaux suppliants est assis dans l'Agora, devant les deux temples de Pallas et le foyer fatidique de l'Isménien. En effet, comme tu le vois, la ville, battue par la tempête, ne peut plus lever sa tête submergée par l'écume sanglante. Les fruits de la terre périssent, encore enfermés dans les bourgeons, les troupeaux de boeufs languissent, et les germes conçus par les femmes ne naissent pas. Brandissant sa torche, la plus odieuse des déesses, la peste, s'est ruée sur la ville et a dévasté la demeure de Cadmos. Le noir Hadès s'enrichit de nos gémissements et de nos lamentations. Et voici que ces enfants et moi nous nous sommes rendus à ton seuil, non que tu nous sembles égal aux dieux, mais parce que, dans les maux qu'amène la vie ou dans ceux qu'infligent les démons irrités, tu es pour nous le premier des hommes, toi qui, à ton arrivée dans la ville de Cadmos, nous affranchis du tribut payé à la cruelle divinatrice, n'étant averti de rien, ni renseigné par nous. En effet, c'est à l'aide d'un dieu que tu as sauvé notre vie. Tous le pensent et le croient. Or, maintenant, Oedipe, le plus puissant des hommes, nous sommes venus vers toi en suppliants, afin que tu trouves quelque remède pour nous, soit qu'un oracle divin t'instruise, soit qu'un homme te conseille, car je sais que les sages conseils amènent les événements heureux. Allons, ô le meilleur des hommes, remets cette ville en son ancienne gloire, et prends souci de la tienne ! Cette terre, se souvenant de ton premier service, te nomme encore son sauveur. Plaise aux dieux que, songeant aux jours de ta puissance, nous ne disions pas que, relevés par toi, nous sommes tombés de nouveau ! Restaure donc et tranquillise cette ville. Déjà par une heureuse destinée, tu nous as rétablis. Sois aujourd'hui égal à toi-même. Car, si tu commandes encore sur cette terre, mieux vaut qu'elle soit pleine d'hommes que déserte. Une tour ou une nef, en effet, si vaste qu'elle soit, n'est rien, vide d'hommes.
 
@@ -399,8 +400,8 @@ Comme il est permis de le penser, il est joyeux. Sinon, il n'arriverait pas la t
 
 Levons-nous, enfants, puisqu'il nous promet les choses pour lesquelles nous sommes venus. Que Phoebus, qui nous a envoyé cet oracle, soit notre sauveur et nous délivre de nos maux !
 
-
 **** *creator_sophocle *book_sophocle_oediperoi *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oediperoi *dist2_sophocle_prose_tragedy *id_JOCASTE *date_1877 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jocaste
+
 
 Ô malheureux, pourquoi engagez-vous cette mêlée insensée de paroles ? Ne rougissez-vous pas, cette terre étant si éprouvée, de soulever des dissensions privées ? Toi, rentre dans la demeure ; et toi, Créon, va vers la tienne. Craignez de faire une grande querelle de ce qui n'est rien.
 
@@ -492,8 +493,8 @@ C'est dans un esprit bienveillant que je te conseille pour le mieux.
 
 Hélas, hélas ! Malheureux ! C'est le seul nom que je puisse te donner, et tu n'entendras plus rien de moi désormais !
 
-
 **** *creator_sophocle *book_sophocle_oediperoi *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oediperoi *dist2_sophocle_prose_tragedy *id_CREON *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_creon
+
 
 Une excellente ; car quelque difficiles à faire que soient les choses, je dis qu'elles sont bonnes si elles mènent à une heureuse fin.
 
@@ -609,8 +610,8 @@ Viens donc et laisse tes enfants.
 
 Ne demande pas à tout avoir. Ce que tu as possédé déjà n'a pas fait ta vie heureuse.
 
-
 **** *creator_sophocle *book_sophocle_oediperoi *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oediperoi *dist2_sophocle_prose_tragedy *id_LECHOEUR *date_1877 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lechoeur
+
 
 Ô harmonieuse parole de Zeus, venue de la riche Pythô dans l'illustre Thèbes ! Mon coeur tremble et bat de crainte, ô paian Dalien ! J'ai peur de savoir ce que tu dois accomplir pour moi, dès aujourd'hui, ou dans le retour des saisons. Dis-le-moi, ô fille de l'espérance d'or, voix ambroisienne !
 Je t'invoque la première, fille de Zeus, ambroisienne Athéna, avec ta soeur Artémis qui protège cette terre, qui s'assied sur un trône glorieux au milieu de l'Agora, et avec Phoebus qui lance au loin les traits. Oh ! Venez à moi tous trois, guérisseurs des maux ! Si déjà, quand le malheur se rua sur la ville, vous avez étouffé le feu terrible, venez aussi maintenant !
@@ -717,8 +718,8 @@ Voici Créon qui vient pour consentir à ce que tu demandes et te conseiller. Il
 
 Ô habitants de Thèbes, ma patrie, voyez ! Cet Oedipe qui devina l'énigme célèbre ; cet homme très puissant qui ne porta jamais envie aux richesses des citoyens, par quelle tempête de malheurs terribles il a été renversé ! C'est pourquoi, attendant le jour suprême de chacun, ne dites jamais qu'un homme né mortel a été heureux, avant qu'il ait atteint le terme de sa vie sans avoir souffert.
 
+**** *creator_sophocle *book_sophocle_oediperoi *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oediperoi *dist2_sophocle_prose_tragedy *id_TIRESIAS *date_1877 *sexe_masculin *age_sans-age *statut_serviteur *fonction_autres *role_tiresias
 
-**** *creator_sophocle *book_sophocle_oediperoi *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oediperoi *dist2_sophocle_prose_tragedy *id_TIRESIAS *date_1877 *sexe_neutre *age_sans-age *statut_serviteur *fonction_autres *role_tiresias
 
 Hélas ! Hélas ! Qu'il est dur de savoir, quand savoir est inutile ! Ceci m'était bien connu, et je l'ai oublié, car je ne serais point venu ici.
 
@@ -776,8 +777,8 @@ Je m'en irai, mais je dirai d'abord pourquoi je suis venu ici sans peur de ton v
 Contrains-le de fuir, cet Arès le Pestiféré qui, sans ses armes d'airain, nous brûle maintenant en se jetant sur nous avec de grandes clameurs. Chasse-le hors de la patrie, soit dans le large lit d'Amphitrita, soit vers le rivage inhospitalier de la mer Thrèkienne ; car ce que la nuit n'a point terminé le jour l'achève. Ô père Zeus, maître des splendides éclairs, consume-le de ta foudre !
 Roi Lykien ! puisses-tu, pour nous venir en aide, lancer de ton arc d'or tes traits invincibles ! puissent éclater les torches flambantes avec lesquelles Artémis parcourt les monts Lykiens ! Et j'invoque le dieu éponyme de cette terre, à la mitre d'or, Bakkhos-Évios, le Pourpré, le compagnon des Mainades, afin qu'il vienne, secouant une torche ardente contre ce dieu méprisé entre tous les dieux !
 
+**** *creator_sophocle *book_sophocle_oediperoi *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oediperoi *dist2_sophocle_prose_tragedy *id_LEMESSAGER *date_1877 *sexe_masculin *age_sans-age *statut_serviteur *fonction_autres *role_lemessager
 
-**** *creator_sophocle *book_sophocle_oediperoi *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oediperoi *dist2_sophocle_prose_tragedy *id_LEMESSAGER *date_1877 *sexe_neutre *age_sans-age *statut_serviteur *fonction_autres *role_lemessager
 
 Que je sache de vous, ô étrangers, où est la demeure du roi Oedipe ! Dites-moi où il est lui-même, si vous le savez.
 
@@ -867,8 +868,8 @@ Elle-même. Ce qui est le plus lamentable en ceci vous est caché, car vous n'av
 
 Il crie que les portes soient ouvertes et qu'on montre à tous les Kadméiens le tueur de son père, et dont la mère… Paroles impies que je ne puis répéter. Il veut être chassé de cette terre ; il refuse de rester plus longtemps dans cette demeure, souillé des imprécations dont il s'est chargé. Mais il manque d'un appui et d'un conducteur, car la violence de sa douleur est très-grande, et il ne peut la supporter. Ceci te sera bientôt manifeste, car les battants des portes s'ouvrent et tu vas assister à un spectacle tel qu'il exciterait la pitié d'un ennemi même.
 
-
 **** *creator_sophocle *book_sophocle_oediperoi *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_oediperoi *dist2_sophocle_prose_tragedy *id_LESERVITEUR *date_1877 *sexe_masculin *age_veteran *statut_serviteur *fonction_valet *role_leserviteur
+
 
 J'étais esclave, non acheté, mais élevé dans la demeure.
 
@@ -919,4 +920,3 @@ Par crainte de lamentables oracles.
 Il était prédit qu'il tuerait ses parents.
 
 Par pitié, ô maître ! J'ai cru qu'il emporterait l'enfant dans un pays étranger ; mais il l'a sauvé pour de plus grands malheurs. Si tu es celui qu'il dit, sache que tu es malheureux.
-

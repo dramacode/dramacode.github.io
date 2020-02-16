@@ -2,6 +2,7 @@
 
 **** *creator_rotrou *book_rotrou_cosroes *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_cosroes *dist2_rotrou_verse_tragedy *id_COSROES *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cosroes
 
+
 Noires divinités, filles impitoyables,
 Des vengeances du Ciel, ministres effroyables,
 Cruelles, redoublez, ou cessez votre effort,
@@ -158,8 +159,8 @@ Traître, joins-tu la fourbe, à l'inhumanité ?
 
 Révoquez donc leur mort, et fais qu'on me les donne.
 
-
 **** *creator_rotrou *book_rotrou_cosroes *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_cosroes *dist2_rotrou_verse_tragedy *id_SYRA *date_1648 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_syra
+
 
 Quoi ! vous, contre mon fils ! vous, son indigne frère !
 Vous insolent !
@@ -530,8 +531,8 @@ Reine est ma qualité, quand tu sais qu'elle est vaine !
 Hier, j'étais ta Marâtre, et je tiens à grand bien,
 De mourir aujourd'hui, pour ne t'être plus rien.
 
+**** *creator_rotrou *book_rotrou_cosroes *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_cosroes *dist2_rotrou_verse_tragedy *id_HORMISDATE *date_1648 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_hormisdate
 
-**** *creator_rotrou *book_rotrou_cosroes *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_cosroes *dist2_rotrou_verse_tragedy *id_HORMISDATE *date_1648 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_hormisdate
 
 Madame, pardonnez, si je vous le redis,
 Vous venez d'achever, un projet bien hardi ;
@@ -581,8 +582,8 @@ Et porte ce présent, et votre ordre à mon frère ;
 Mais je crains, de vous rendre, un service fatal ;
 Et, j'ose dire plus, que j'en augure mal.
 
-
 **** *creator_rotrou *book_rotrou_cosroes *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_cosroes *dist2_rotrou_verse_tragedy *id_SYROES *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_syroes
+
 
       Madame, un peu moins de colère !
 
@@ -1215,8 +1216,8 @@ Mon règne produit-il, d'assez tristes effets ?
 La Couronne, inhumaine, à ce prix m'est trop chère ?
 Allons, Madame, allons, suivre ou sauver un père.
 
+**** *creator_rotrou *book_rotrou_cosroes *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_cosroes *dist2_rotrou_verse_tragedy *id_ARTANASDE *date_1648 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_artanasde
 
-**** *creator_rotrou *book_rotrou_cosroes *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_cosroes *dist2_rotrou_verse_tragedy *id_ARTANASDE *date_1648 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_artanasde
 
       Ha Sire ! à la seule pensée,
 De ce fatal rapport, j'ai l'âme encor glacée ;
@@ -1325,8 +1326,8 @@ Tous vos travaux sont vains, si réduit à ce terme,
 Son esprit, ne reprend, une assiette plus ferme ;
 Et l'on attend, Seigneur, cet effort que de vous.
 
-
 **** *creator_rotrou *book_rotrou_cosroes *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_cosroes *dist2_rotrou_verse_tragedy *id_NARSEE *date_1648 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_narsee
+
 
 Apprenez-moi, Seigneur, le nom que je vous dois !
 Parlai-je à mon amant, où parlai-je à mon Roi ?
@@ -1473,8 +1474,8 @@ Sans pouvoir dire un mot, je me suis retirée,
 Et j'ai vu qu'on portait le vase empoisonné,
 Que pour son châtiment, vous avez ordonné.
 
-
 **** *creator_rotrou *book_rotrou_cosroes *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_cosroes *dist2_rotrou_verse_tragedy *id_MARDESANE *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mardesane
+
 
 Quel trouble, Syroës, émeut votre courroux !
 Quoi ? La main sur l'épée ! Et la Reine avec vous !
@@ -1679,8 +1680,8 @@ Allons, Règne, Tyran, règne, enfin, sans obstacle,
 J'ai reçu de mon père, avecques son pouvoir,
 Celui, d'aller trouver la mort, sans désespoir ;
 
-
 **** *creator_rotrou *book_rotrou_cosroes *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_cosroes *dist2_rotrou_verse_tragedy *id_SARDARIGUE *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sardarigue
+
 
 Cet accès, a longtemps, possédé sa raison.
 
@@ -1847,8 +1848,8 @@ Et nous...
       Ses soins sont superflus,
 Le poison est trop prompt, le Tyran ne vit plus.
 
-
 **** *creator_rotrou *book_rotrou_cosroes *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_cosroes *dist2_rotrou_verse_tragedy *id_PALMYRAS *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_palmyras
+
 
       C'est mal me la céder,
 Que briguer mes emplois, et m'en déposséder,
@@ -2079,8 +2080,8 @@ Ne pèze plus au front, qui sitôt l'abandonne.
 
 Ne l'abandonnons point.
 
-
 **** *creator_rotrou *book_rotrou_cosroes *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_cosroes *dist2_rotrou_verse_tragedy *id_PHARNACE *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pharnace
+
 
 Ô Dieux ! Du Camp, Seigneur, savez-vous la nouvelle !
 
@@ -2121,3 +2122,7 @@ Le trône tombera, devant votre débris,
 Et tant de piété, ne peut perdre son prix ;
 Mais que vous veut Narsée
 
+**** *creator_rotrou *book_rotrou_cosroes *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_cosroes *dist2_rotrou_verse_tragedy *id_GARDES *date_1648 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_gardes
+
+
+      J'en apporte l'ordre, et je viens vous l'apprendre

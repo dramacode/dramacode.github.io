@@ -2,6 +2,7 @@
 
 **** *creator_deshoulieres *book_deshoulieres_genseric *style_verse *genre_tragedy *dist1_deshoulieres_verse_tragedy_genseric *dist2_deshoulieres_verse_tragedy *id_GENSERIC *date_1680 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_genseric
 
+
 Vous me fuyez, Madame, et je vous vois toujours
 Certains airs mécontenst. Pourquoi tant de détours ?
 Si vous croyez avoir des sujets de vous plaindre,
@@ -357,8 +358,8 @@ Et courons chez Eudoxe essayer...
 
 Allons, et que nos soins l'empêchent de le suivre.
 
-
 **** *creator_deshoulieres *book_deshoulieres_genseric *style_verse *genre_tragedy *dist1_deshoulieres_verse_tragedy_genseric *dist2_deshoulieres_verse_tragedy *id_EUDOXE *date_1680 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eudoxe
+
 
 Pour charmer mes ennuis, cherche d'autres discours :
 Les exemples pour moi sont de faibles secours.
@@ -603,8 +604,8 @@ Prévenons, par ma mort, cette affreuse nouvelle.
 Allons me dérober à toutes mes douleurs.
 Mourir n'est pas pour moi le plus grand des malheurs.
 
-
 **** *creator_deshoulieres *book_deshoulieres_genseric *style_verse *genre_tragedy *dist1_deshoulieres_verse_tragedy_genseric *dist2_deshoulieres_verse_tragedy *id_TRASIMOND *date_1680 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trasimond
+
 
       Ah, Madame ! Ah, mon père !
 
@@ -1026,8 +1027,8 @@ Et, puisqu'enfin touché de mes peines cruelles,
 Vous permettez qu'Eudoxe achève mon bonheur,
 Je cours faire cesser sa crainte et sa douleur.
 
-
 **** *creator_deshoulieres *book_deshoulieres_genseric *style_verse *genre_tragedy *dist1_deshoulieres_verse_tragedy_genseric *dist2_deshoulieres_verse_tragedy *id_HUNERIC *date_1680 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_huneric
+
 
 Choisissez-la, Seigneur ; je ne sais qu'obéir :
 Mon coeur attend vos lois pour aimer ou haïr.
@@ -1100,8 +1101,8 @@ Seigneur...
 
 Allons le secourir.
 
-
 **** *creator_deshoulieres *book_deshoulieres_genseric *style_verse *genre_tragedy *dist1_deshoulieres_verse_tragedy_genseric *dist2_deshoulieres_verse_tragedy *id_SOPHRONIE *date_1680 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sophronie
+
 
 Eh ! De grâce, perdez un soupçon qui m'offense ;
 Prenez en moi, Seigneur, un peu de confiance ;
@@ -1426,8 +1427,8 @@ Je ne vous en dis rien, et vous le connaissez.
 Mais ce ne sera pas pour gémir et pleurer :
 Je veux bien m'épargner une odieuse vue.
 
-
 **** *creator_deshoulieres *book_deshoulieres_genseric *style_verse *genre_tragedy *dist1_deshoulieres_verse_tragedy_genseric *dist2_deshoulieres_verse_tragedy *id_ISPAR *date_1680 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ispar
+
 
 Madame, je voudrais vous le cacher en vain.
 Oubliez, s'il se peut, jusques au nom romain ;
@@ -1531,8 +1532,8 @@ Ispar, allez sur l'heure arrêter Sophronie.
 Son désespoir pourra terminer son malheur ;
 Trasimond n'étant plus, elle ne veut plus vivre.
 
-
 **** *creator_deshoulieres *book_deshoulieres_genseric *style_verse *genre_tragedy *dist1_deshoulieres_verse_tragedy_genseric *dist2_deshoulieres_verse_tragedy *id_JUSTINE *date_1680 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_justine
+
 
       Madame, songez-vous
 Jusqu'où vous fait aller un aveugle courroux ?
@@ -1634,8 +1635,17 @@ Puisque Trasimond meurt, j'y descends sans effroi ;
 Eudoxe est mille fois plus à plaindre que moi.
 À ces mots elle expire, en vain mes soins fidèles...
 
+**** *creator_deshoulieres *book_deshoulieres_genseric *style_verse *genre_tragedy *dist1_deshoulieres_verse_tragedy_genseric *dist2_deshoulieres_verse_tragedy *id_CAMILE *date_1680 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_camile
+
+
+Madame, pressez moins....
+
+Il sait votre dessein, Madame, et le voici.
+
+Quoi ! Madame, en effet...
 
 **** *creator_deshoulieres *book_deshoulieres_genseric *style_verse *genre_tragedy *dist1_deshoulieres_verse_tragedy_genseric *dist2_deshoulieres_verse_tragedy *id_AMILCAR *date_1680 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amilcar
+
 
 Seigneur, le prince est pris.
 
@@ -1652,8 +1662,8 @@ Dans ce pressant péril...
 
 Seigneur, j'entends du bruit...
 
-
 **** *creator_deshoulieres *book_deshoulieres_genseric *style_verse *genre_tragedy *dist1_deshoulieres_verse_tragedy_genseric *dist2_deshoulieres_verse_tragedy *id_NARBAL *date_1680 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_narbal
+
 
 Ses frayeurs ont peut-être un trop sûr fondement ;
 L'amour sous l'amitié se déguise aisément ;
@@ -1673,4 +1683,3 @@ Attenter à ses jours !
 Si vous n'aviez, Seigneur, une âme peu commune...
 
 Ses yeux font voir, Seigneur, un courroux effroyable,
-

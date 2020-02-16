@@ -2,6 +2,7 @@
 
 **** *creator_carmontelle *book_carmontelle_petitpoucet *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_petitpoucet *dist2_carmontelle_prose_proverbe *id_GUILLAUME *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillaume
 
+
 Hé bien, Perrette, es-tu tout-à-fait déterminée à perdre encore une fois nos enfants ?
 
 Quoi , abandonner comme cela le petit Poucet, et Javotte !
@@ -50,8 +51,8 @@ Pourquoi faire ?
 
 Nous en avons bien été fâchés, Beauvais, vous pourrez bien lui dire.
 
-
 **** *creator_carmontelle *book_carmontelle_petitpoucet *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_petitpoucet *dist2_carmontelle_prose_proverbe *id_PERRETTE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_perrette
+
 
 Il le faut bien, Guillaume !
 
@@ -105,8 +106,8 @@ Oui, Bourguignon ; je vous en prie, dites-lui que cela ne nous arrivera plus.
 
 Allons, Guillaume, allons le remercier et jouir du plaisir de lui devoir notre bonheur et celui de nos enfants.
 
-
 **** *creator_carmontelle *book_carmontelle_petitpoucet *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_petitpoucet *dist2_carmontelle_prose_proverbe *id_LEPETITPOUCET *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepetitpoucet
+
 
 Mon frère , mes soeurs, ne craignez rien ; faites toujours semblant de travailler.
 
@@ -214,8 +215,8 @@ Oui, tenez, voilà sa maison.
 
 Ah, la Rentrée, il ne faut pas lui faire de mal...
 
-
 **** *creator_carmontelle *book_carmontelle_petitpoucet *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_petitpoucet *dist2_carmontelle_prose_proverbe *id_PIERROT *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+
 
 Hé bien, mon frère, les voilà en allés.
 
@@ -295,8 +296,8 @@ Oui, parce qu'il courait après nous, pour nous manger.
 
 C'est qu'elle a empêché l'Ogre de nous manger.
 
-
 **** *creator_carmontelle *book_carmontelle_petitpoucet *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_petitpoucet *dist2_carmontelle_prose_proverbe *id_JAVOTTE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_javotte
+
 
 Comment ferons-nous?
 
@@ -350,8 +351,8 @@ Ah, mon Dieu, mon frère, que je suis lasse !
 
 Ah ; c'est bien vrai, cela.
 
-
 **** *creator_carmontelle *book_carmontelle_petitpoucet *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_petitpoucet *dist2_carmontelle_prose_proverbe *id_JANETTE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_janette
+
 
 Serons-nous perdus?
 
@@ -397,8 +398,8 @@ Et moi aussi.
 
 Oui, c'est bien vrai, bien vrai.
 
-
 **** *creator_carmontelle *book_carmontelle_petitpoucet *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_petitpoucet *dist2_carmontelle_prose_proverbe *id_LOGRE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_logre
+
 
 Hé bien, la mère Bonnette, le souper est-il prêt ?
 
@@ -464,8 +465,8 @@ Où sont-ils, où sont-ils ? J'étranglerai cette chienne de vieille. J'ai fait 
 
 Je ne saurais dormir. Allons, allons, il faut que je les cherche encore.
 
+**** *creator_carmontelle *book_carmontelle_petitpoucet *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_petitpoucet *dist2_carmontelle_prose_proverbe *id_LAMEREBONNETTE *date_(inc *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_lamerebonnette
 
-**** *creator_carmontelle *book_carmontelle_petitpoucet *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_petitpoucet *dist2_carmontelle_prose_proverbe *id_LAMEREBONNETTE *date_(inc *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_lamerebonnette
 
 Qu'est-ce qui est là ?
 
@@ -567,8 +568,8 @@ L'Ogre est pris ?
 
 Moi, en prison ?
 
-
 **** *creator_carmontelle *book_carmontelle_petitpoucet *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_petitpoucet *dist2_carmontelle_prose_proverbe *id_LABRISEE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_labrisee
+
 
 Il est vrai.
 
@@ -582,8 +583,8 @@ Pour aller en prison, pour avoir demeuré avec l'Ogre, qui est pris enfin.
 
 Oh, mais, qu'elle vienne toujours avec nous ; car en ce cas-là le Seigneur la récompensera.
 
-
 **** *creator_carmontelle *book_carmontelle_petitpoucet *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_petitpoucet *dist2_carmontelle_prose_proverbe *id_LARENTREE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_larentree
+
 
 Ah, ah, vous voilà de bonne heure au bois, Guillaume.
 
@@ -601,3 +602,18 @@ Comment ! Pourquoi cela ?
 
 On a bien raison de l'aimer dans le village.
 
+**** *creator_carmontelle *book_carmontelle_petitpoucet *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_petitpoucet *dist2_carmontelle_prose_proverbe *id_BOURGUIGNON *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bourguignon
+
+
+Le Seigneur a appris que vous aviez perdu vos enfants, il est bien en colère contre vous.
+
+Oh, je le crois bien ; car il veut se charger de les faire élever, et puis après de leur faire apprendre un métier à chacun.
+
+**** *creator_carmontelle *book_carmontelle_petitpoucet *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_petitpoucet *dist2_carmontelle_prose_proverbe *id_BEAUVAIS *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_beauvais
+
+
+Hé, dites donc, Guillaume et Perrette ! Vous vous faites bien chercher.
+
+Ce sont des paysans qui vous ont rencontrés, à qui vous avez demandé s'ils ne les avaient pas trouvés dans la forêt.
+
+Dans le Village ? Oh, dis aussi à la Ville, partout, partout où on le connaît.

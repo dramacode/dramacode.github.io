@@ -1,6 +1,7 @@
 
 
-**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *id_vertumne *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_vertumne
+**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *id_vertumne *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_vertumne
+
 
 J'admire, j'admire tes grandeurs, et la felicité
 De ta belle Cité ;
@@ -64,8 +65,8 @@ l'Enfer l'amene icy pour troubler mon projet.
 
 Il faut l'épouvanter et luy donner la fuite?
 
+**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *id_lanymphedelaseine *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lanymphedelaseine
 
-**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *id_lanymphedelaseine *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lanymphedelaseine
 
 Toy qui vis autrefois le Fleuve des Romains
 Triompher des humains,
@@ -86,8 +87,8 @@ Sus donc
 
 Du doux bruit du doux bruit
 
+**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *id_pomone *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_pomone
 
-**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *id_pomone *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_pomone
 
 Passons nos jours
 Dans ces vergers,
@@ -131,8 +132,8 @@ Cueillez Nymphes dans ces prairies,
 Cueillez pour eux des guirlandes fleuries,
 Et vous ma sœur couronnez le vainqueur.
 
+**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *id_venilie *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_venilie
 
-**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *id_venilie *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_venilie
 
 Qui croit ce Cajolleur,
 N'a que peine et douleur.
@@ -153,8 +154,8 @@ Sont chaisnes de roses,
 Les chaisnes d'amour
 Sont chaisnes
 
+**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *id_flore *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_flore
 
-**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *id_flore *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_flore
 
 Ah ! ma Sœur, à quoy penses-tu,
 Veux tu bannir de ton empire,
@@ -183,8 +184,8 @@ Et recevoir le premier de ses dons?
 Ah! pour un plus heureux on garde les fleurettes,
 Pour vous l'Epine et les chardons?
 
+**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *id_beroe *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_beroe
 
-**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *id_beroe *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_beroe
 
 Ah ! si tu connoissois comme moy ses malices.
 
@@ -230,8 +231,8 @@ Je beniray mon sort,
 Et je ne puis mourir,
 Et je ne puis mourir d'une plus douce mort ?
 
+**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *id_faune *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_faune
 
-**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *id_faune *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_faune
 
 C'est bien à toy, Dieu miserable,
 De pretendre à tes maux quelque soulagement ;
@@ -261,8 +262,18 @@ Et ce que meritent vos Chans?
 Voila le prix, Voila le prix de vos Musiques.
 SECONDE ENTRÉE DES BOUVIERS.
 
+**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *id_juturne *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_juturne
 
-**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *id_dieudesjardins *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_dieudesjardins
+
+Dans l'empire amoureux
+Le sort le plus heureux,
+Est le plus dangereux ;
+
+La fleur en est belle,
+Mais le fruit amer.
+
+**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *id_dieudesjardins *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_dieudesjardins
+
 
 Soulage donc les flames du grand Dieu des Jardins.
 De plaisirs eternels il sçait remplir les ames,
@@ -308,3 +319,25 @@ Donnez-luy,
 Voila le fruit du Dieu des Champs,
 Et dequoy paistre ses bourriques. (bis)
 
+**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *id_jardinier1 *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_jardinier1
+
+
+Sans luy les Jeux, les Passe temps Ont une douceur imparfaite,
+Et s'il n'est de la Feste,
+L'on ne rit pas longtemps, (bis)
+
+Rien n'est si doux que sa fureur,
+Ny si plaisant que sa folie,
+Elle bannit de nostre cœur
+La plus noire melancholie?
+Sans luy les Jeux, les Passe temps,
+N'ont qu'une douceur imparfaite,
+Et s'il n'est de la Feste,
+L'on ne rit pas longtemps. (bis)
+
+**** *creator_perrin *book_perrin_pomone *style_verse *genre_show *dist1_perrin_verse_show_pomone *dist2_perrin_verse_show *id_jardinier2 *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_jardinier2
+
+
+Vive le Dieu des Jardiniers, il est toûjours prest à bien faire;
+
+Bergeres portez vos paniers, il a dequoy vous satisfaire,

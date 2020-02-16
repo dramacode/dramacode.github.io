@@ -2,6 +2,7 @@
 
 **** *creator_scudery *book_scudery_princedeguise *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_princedeguise *dist2_scudery_verse_tragicomedie *id_CLEARQUE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clearque
 
+
 Lisandre, couvrez-vous, ici tout m'est suspect,
 Et ne me traitez plus avec tant de respect :
 Songez en ce dessein où l'amour me convie,
@@ -764,8 +765,8 @@ Nous ne prendrons de lois que de vos seuls désirs :
 Mais afin que ce jour n'ait plus rien qui soit triste,
 Donnez-moi le pardon des gardes et d'Ariste.
 
-
 **** *creator_scudery *book_scudery_princedeguise *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_princedeguise *dist2_scudery_verse_tragicomedie *id_LISANDRE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisandre
+
 
 Je sors pour obéir des termes du devoir.
 
@@ -952,8 +953,8 @@ Mais secondons encor ses armes de nos voeux.
 
 Je le connais, Madame, et le plege au besoin.
 
-
 **** *creator_scudery *book_scudery_princedeguise *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_princedeguise *dist2_scudery_verse_tragicomedie *id_FLORESTOR *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_florestor
+
 
 Hélas ! Brave Lisandre, une pareille crainte,
 Me donne incessamment une mortelle atteinte ;
@@ -1047,8 +1048,8 @@ Les armes de mon maître, et les prend contre lui !
 
 Dieux cléments et tous bons, que je vous dois d'encens !
 
-
 **** *creator_scudery *book_scudery_princedeguise *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_princedeguise *dist2_scudery_verse_tragicomedie *id_ROSEMONDE *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rosemonde
+
 
 Mon père, commencez votre cérémonie :
 
@@ -1210,8 +1211,8 @@ Va remplir l'univers de votre renommée,
 Et les siècles suivants, pour l'avoir méprisé,
 Admireront encor, le prince déguisé.
 
-
 **** *creator_scudery *book_scudery_princedeguise *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_princedeguise *dist2_scudery_verse_tragicomedie *id_ARGENIE *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_argenie
+
 
 Que ce voeu me déplaît ! Que ce jour m'importune !
 Et que j'ai bien sujet d'accuser la fortune !
@@ -1498,8 +1499,8 @@ Que le plaisir est doux, en suite de la peine !
 Philise, dont le zèle est sans comparaison,
 Demande à vos bontés la clef de ma prison :
 
-
 **** *creator_scudery *book_scudery_princedeguise *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_princedeguise *dist2_scudery_verse_tragicomedie *id_THEOTIME *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_theotime
+
 
 Souffle à ce feu sacré, fais que la flamme en sorte,
 Pour montrer qu'aujourd'hui la haine n'est pas morte ;
@@ -1535,8 +1536,13 @@ Cette cérémonie est enfin terminée,
 Qu'on doit renouveler à chaque bout d'année :
 Que votre majesté se lève, s'il lui plait.
 
+**** *creator_scudery *book_scudery_princedeguise *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_princedeguise *dist2_scudery_verse_tragicomedie *id_ARCHANE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_archane
+
+
+Tout ce qu'il faut est prêt, au moins je le présume :
 
 **** *creator_scudery *book_scudery_princedeguise *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_princedeguise *dist2_scudery_verse_tragicomedie *id_RUTILE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rutile
+
 
 Ô que je dois bénir ton heureuse venue !
 
@@ -1566,8 +1572,8 @@ Que veut-elle bien dire en cette rêverie ?
 N'importe, éloignons-nous, puisqu'il nous reste encor,
 Ce que j'aime plus qu'elle, et la franchise, et l'or.
 
-
 **** *creator_scudery *book_scudery_princedeguise *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_princedeguise *dist2_scudery_verse_tragicomedie *id_MELANIRE *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melanire
+
 
 Que fais-tu beau sorcier ? à quoi songe ton âme,
 Qu'elle ne connaît point que la mienne est en flamme ?
@@ -1727,8 +1733,8 @@ Et pour mon triste coeur, que le malheur opprime,
 Il va chercher la mort pour rencontrer la paix,
 Console toi Rutile, adieu pour tout jamais.
 
-
 **** *creator_scudery *book_scudery_princedeguise *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_princedeguise *dist2_scudery_verse_tragicomedie *id_ANTHENOR *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anthenor
+
 
 Ainsi que votre esprit, le mien reste surpris.
 
@@ -1792,8 +1798,8 @@ Changeons le feu du crime en des feux innocents,
 Qui poussent jusqu'au ciel les marques de la joie,
 Qui règne dans nos coeurs, et que lui même envoie.
 
-
 **** *creator_scudery *book_scudery_princedeguise *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_princedeguise *dist2_scudery_verse_tragicomedie *id_ARISTE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ariste
+
 
 Généreux étranger, crois que c'est avec peine,
 Que ma charge m'oblige à ce que veut la reine :
@@ -1829,3 +1835,10 @@ Mais souffrez que je parle à votre sentinelle,
 Afin que par cet or que vous m'avez offert,
 Ainsi que le chemin, son coeur vous soit ouvert.
 
+**** *creator_scudery *book_scudery_princedeguise *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_princedeguise *dist2_scudery_verse_tragicomedie *id_ARMILE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_armile
+
+
+Il est temps de sortir, la reine est descendue ;
+Au bas de l'escalier vous êtes attendue :
+
+      Oui madame, deux fois :

@@ -2,6 +2,7 @@
 
 **** *creator_pradon *book_pradon_phedre *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_phedre *dist2_pradon_verse_tragedy *id_THESEE *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thesee
 
+
 Madame, avec plaisir je reviens dans ces lieux,
 Et suis charmé de voir une belle princesse
 Prendre encor quelque part en ce qui m'intéresse ;
@@ -511,8 +512,8 @@ Ciel !
 Craignons qu'elle ne suive et la reine, et mon fils ;
 C'en est trop, dieux cruels ! Vous êtes obéïs.
 
-
 **** *creator_pradon *book_pradon_phedre *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_phedre *dist2_pradon_verse_tragedy *id_PHEDRE *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phedre
+
 
 Arrête, Phèdre, arrête, et cours plutôt cacher
 Un secret que l'amour commence à t'arracher ;
@@ -1169,8 +1170,8 @@ Je lui dois en ce jour et la vie, et la gloire,
 Et pour en conserver l'éternelle mémoire,
 Je veux... Adieu, Princesse.
 
-
 **** *creator_pradon *book_pradon_phedre *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_phedre *dist2_pradon_verse_tragedy *id_HIPPOLYTE *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hippolyte
+
 
 Oui, j'en frémis, Idas, tant de tristes présages
 Sont du ciel en courroux les funestes messages,
@@ -1526,8 +1527,8 @@ Après cela, Seigneur, vous pouvez m'accabler,
 Hippolyte attendra son arrêt sans trembler,
 Je vous quitte, et dans peu vous pourrez me connaître.
 
-
 **** *creator_pradon *book_pradon_phedre *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_phedre *dist2_pradon_verse_tragedy *id_ARICIE *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aricie
+
 
 Quoi, Seigneur, vous partez ?
 
@@ -1866,8 +1867,8 @@ Seigneur, et nous pleurons au lieu de le venger.
 Il faut suivre Hippolyte, il faut suivre la reine,
 Oui, comme elle mourons.
 
-
 **** *creator_pradon *book_pradon_phedre *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_phedre *dist2_pradon_verse_tragedy *id_IDAS *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_idas
+
 
 Ce prodige, Seigneur, me surprend et m'étonne,
 À ce récit affreux moi-même je frissonne,
@@ -2006,8 +2007,8 @@ Va rejoindre Hippolyte en l'infernale rive,
 Et malgré les rigueurs de son funeste sort,
 Son amour va braver le destin et la mort.
 
-
 **** *creator_pradon *book_pradon_phedre *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_phedre *dist2_pradon_verse_tragedy *id_ARCAS *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcas
+
 
       Mais, Seigneur,
 De grâce, apprenez-moi quel crime ?...
@@ -2035,8 +2036,8 @@ Dieux ! Que croire ?
 
 La reine vient, Seigneur.
 
-
 **** *creator_pradon *book_pradon_phedre *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_phedre *dist2_pradon_verse_tragedy *id_CLEONE *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleone
+
 
 Apprenez le bonheur que le ciel nous envoie,
 Tout le peuple à grands flots par mille cris de joie
@@ -2059,3 +2060,9 @@ On dit même en secret qu'il brûle pour la reine,
 Ce bruit est répandu, l'on parle tout bas,
 Et l'on croit dans Trézène...
 
+**** *creator_pradon *book_pradon_phedre *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_phedre *dist2_pradon_verse_tragedy *id_MEGISTE *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_megiste
+
+
+      Seigneur, elle est hors de Trézène,
+Sur son char, d'Hippolyte elle a suivi les pas,
+L'un et l'autre partis...

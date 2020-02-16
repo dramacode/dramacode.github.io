@@ -2,6 +2,7 @@
 
 **** *creator_biancolelli *book_biancolelli_agnesdechaillot *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_agnesdechaillot *dist2_biancolelli_verse_comedy *id_LABAILLIVE *date_1723 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_labaillive
 
+
 Pour me dire ces mots faut-il tant de mystère ?
 Moi qui fus de Gonnesse, autrefois boulangère,
 Je dois bien le connaître, il se nomme Crouton,
@@ -79,8 +80,8 @@ Je crève de dépit, et la main me démange...
 Mais son galant paraît ; qui le conduit ici ?
 Quoiqu'il en soit, sachons ce que fait le Bailly.
 
+**** *creator_biancolelli *book_biancolelli_agnesdechaillot *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_agnesdechaillot *dist2_biancolelli_verse_comedy *id_PIERROT *date_1723 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_pierrot
 
-**** *creator_biancolelli *book_biancolelli_agnesdechaillot *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_agnesdechaillot *dist2_biancolelli_verse_comedy *id_PIERROT *date_1723 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_pierrot
 
       Je vous vois toute émue,
 Qu'avez-vous belle Agnès ?
@@ -244,8 +245,8 @@ Hé bien, qu'avais-je dit ? Ne la voilà-t-il pas ?
 Ah ! Que je fuis content ! Puisqu'Agnés n'est pas morte,
 Chantons, cabriolions, et de la bonne forte.
 
-
 **** *creator_biancolelli *book_biancolelli_agnesdechaillot *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_agnesdechaillot *dist2_biancolelli_verse_comedy *id_AGNES *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agnes
+
 
 Moi, Madame ?
 
@@ -391,3 +392,81 @@ Venez à mes genoux étaler vos douleurs.
 
 Quelle voix me rapelle , et m'arrache au trépas.
 
+**** *creator_biancolelli *book_biancolelli_agnesdechaillot *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_agnesdechaillot *dist2_biancolelli_verse_comedy *id_CROUTON *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crouton
+
+
+Je sommes députés des Bourgeois de Gonnesse,
+Qui vous marquent, par Nous, Baillif, leur allégresse,
+Ils sont tretous joyeux, que Monsieur votre fils
+De l'Arquebuse enfin ait remporté le prix ;
+Goûtez, Baillif, goûtez, non pas deux fois, mais quatre,
+La gloire que ce fils, sur vous a su rabattre :
+Ah ! Quel plaisir pour vous, de faire tant de bruit !
+Et d'être par un fils, rengendré , reproduit,
+Que vous êtes heureux ! Chez vous rien ne décline,
+Vous vendez votre son, mieux que votre farine ;
+Vous mettez tout en branle, et vos voeux sont contents
+J'en partageons la joie avec vos habitants ;
+Notre Maître surtout, de si bon coeur s'y livre,
+Que depuis avant hier il n'a cessé d'être ivre.
+
+**** *creator_biancolelli *book_biancolelli_agnesdechaillot *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_agnesdechaillot *dist2_biancolelli_verse_comedy *id_ARLEQUIN *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+
+
+      On ne saurait nier
+Que toujours le bedeau doit marcher le premier ;
+Mais j'attendais, Bailly, pour rompre le silence,
+Que votre autorité m'en donnât la licence,
+Je vais donc vous parler sans feinte et sans détour ;
+Vous savez, pour Agnès, jusqu'où va mon amour,
+Et puisqu'il faut ici que tout mon coeur s'épanche,
+Je comptais sûrement la tenir dans ma manche ;
+Mais j'ai fort mal compté. Pour mes feux quel échec !
+Votre fils m'a passé la plume par le bec ;
+Et quoiqu'il soit l'auteur de mon sort déplorable,
+Je ne puis le haïr, car je suis un bon diable.
+Vous vous plaignez qu'il a forcé votre maison ;
+S'il vous avait donné quelques coups de bâton,
+Il aurait plus de tort ; excusez la jeunesse
+Il ne venait ici, qu'enlever sa maîtresse :
+Et quoique l'action vous semble un attentat,
+Je n'y vois pas de quoi faire fesser un chat.
+Rendez-lui son Agnès ; s'il le faut qu'il l'épouse ;
+Ce mot sort à regret d'une bouche jalouse,
+Mais, puisque vous voulez enfin le châtier,
+Le meilleur châtiment est de le marier ;
+Il en enragera, dans quatre jours peut-être,
+Sa femme rabattra ses airs de petit maître,
+Pour ranger la jeunesse, il n'est que ce moyen,
+Mon avis est fort bon, le vôtre ne vaut rien.
+Nous avons de l'esprit, et rien ne s'y dérobé,
+Nous ne sommes pas sots, nous autres gens de robe.
+
+Tirons tous nos mouchoirs, voici la belle scène.
+
+**** *creator_biancolelli *book_biancolelli_agnesdechaillot *style_verse *genre_comedy *dist1_biancolelli_verse_comedy_agnesdechaillot *dist2_biancolelli_verse_comedy *id_LEMAGISTER *date_1723 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemagister
+
+
+Il le faut avouer, j'estime votre fils,
+Son amitié pour moi ne s'est point ralentie,
+Et je ne puis nier que je lui dois la vie.
+Un jour, que j'étais ivre, il m'en souvient toujours,
+Ce généreux garçon me prêta son secours.
+Accablé de sommeil, étendu dans la place,
+Moi-même j'eusse été l'auteur de ma disgrâce ;
+Une charette allait me passer sur le corps,
+Quand pour me relever il fait plusieurs efforts,
+Me charge sur son dos, fier de son entreprise,
+Comme Enée autrefois, porta son père Anchise,
+Pourtant, quoique sensible aux bontés de ce fils,
+Si j'osais m'expliquer...
+
+      J'obéis.
+Si vous ne punissez une telle insolence,
+Jamais vous ne serez chez vous en assurance :
+Puisque vous êtes Juge, il faut le condamner,
+Et vous ferez fort bien de le moriginer.
+Son fort me fait pitié, j'en pleure, j'en soupire ;
+Mais aux ordres d'un père, un enfant doit souscrire.
+C'est un petit mutin ; quoi qu'il m'ait bien servi,
+Je conclus avec vous, pour le Mississpi.

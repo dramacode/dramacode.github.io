@@ -1,6 +1,81 @@
 
 
+**** *creator_voltaire *book_voltaire_samson *style_verse *genre_opera *dist1_voltaire_verse_opera_samson *dist2_voltaire_verse_opera *id_LAVOLUPTE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lavolupte
+
+
+Sur les bords fortunés embellis par la Seine
+Je règne dès longtemps.
+Je préside aux concerts charmants
+Que donne Melpomène.
+Amours, Plaisirs, Jeux séducteurs,
+Que le loisir fit naître au sein de la mollesse,
+Répandez vos douces erreurs ;
+Versez dans tous les cours
+Votre charmante ivresse ;
+Régnez, répandez mes faveurs.
+
+Venez, mortels, accourez à mes yeux :
+Regardez, imitez les enfants de la gloire :
+Ils m'ont tous cédé la victoire.
+Mars les rendit cruels, et je les rends heureux.
+
+Ah ! quelle éclatante lumière
+Fait pâlir les clartés du beau jour qui nous luit ?
+Quelle est cette nymphe sévère
+Que la sagesse conduit ?
+
+**** *creator_voltaire *book_voltaire_samson *style_verse *genre_opera *dist1_voltaire_verse_opera_samson *dist2_voltaire_verse_opera *id_BACCHUS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bacchus
+
+
+Nous sommes les enfants du maître du tonnerre :
+Notre nom jadis redouté
+Ne périra point sur la terre ;
+Mais parlons avec la liberté :
+Parmi tant de lauriers qui ceignent votre tête,
+Dites-moi quelle est la conquête
+Dont le grand cour d'Alcide était le plus flatté.
+
+Ariane m'ôte à jamais
+Le souvenir de mes brillants forfaits ;
+Et par mes présents secourables
+Je ravis la raison aux mortels misérables,
+Pour leur faire oublier tous les maux que j'ai faits.
+
+**** *creator_voltaire *book_voltaire_samson *style_verse *genre_opera *dist1_voltaire_verse_opera_samson *dist2_voltaire_verse_opera *id_HERCULE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hercule
+
+
+Ah ! Ne me parlez plus de mes travaux pénibles,
+Ni des cieux que j'ai soutenus :
+En ces lieux je en connais plus
+Que la charmante Iole et les Plaisirs paisibles.
+Mais vous, Bacchus, dont la valeur
+Fit du sang des humains rougir la terre et l'onde,
+Quel plaisir, quel barbare honneur
+Trouvez-vous à troubler le monde ?
+
+**** *creator_voltaire *book_voltaire_samson *style_verse *genre_opera *dist1_voltaire_verse_opera_samson *dist2_voltaire_verse_opera *id_LAVERTU *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lavertu
+
+
+Mère des Plaisirs et des Jeux,
+Nécessaire aux mortels, et souvent trop fatale,
+Non, je ne suis point ta rivale ;
+Je viens m'unir à toi pour mieux régner sur eux.
+Sans moi, de tes plaisirs l'erreur est passagère ;
+Sans toi, l'on ne m'écoute pas :
+Il faut que mon flambeau t'éclaire ;
+Mais j'ai besoin de tes appas.
+Je veux instruire, et je dois plaire.
+Viens de ta main charmante orner la Vérité.
+Disparaissez, guerriers consacrés par la fable :
+Un Alcide véritable
+Va paraître en ce lieu, comme vous enchanté.
+Chantons sa gloire et sa faiblesse,
+Et voyons ce héros, par l'amour abattu,
+Adorer encor la Vertu,
+Entre les bras de la Mollesse.
+
 **** *creator_voltaire *book_voltaire_samson *style_verse *genre_opera *dist1_voltaire_verse_opera_samson *dist2_voltaire_verse_opera *id_SAMSON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_samson
+
 
 Quel spectacle d'horreur !
 Quoi ! ces fiers enfants de l'erreur
@@ -300,8 +375,8 @@ Sur moi, sur ce peuple en fureur !
 
 J'ai réparé ma honte, et j'expire en vainqueur.
 
-
 **** *creator_voltaire *book_voltaire_samson *style_verse *genre_opera *dist1_voltaire_verse_opera_samson *dist2_voltaire_verse_opera *id_DALILA *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dalila
+
 
 Ô Vénus ! Déesse charmante,
 Ne permets pas que ces beaux jours
@@ -483,8 +558,8 @@ Vous et vos peuples criminels !
 Voix barbares ! Cris odieux !
 Allons partager son supplice.
 
-
 **** *creator_voltaire *book_voltaire_samson *style_verse *genre_opera *dist1_voltaire_verse_opera_samson *dist2_voltaire_verse_opera *id_LEROI *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
+
 
 Ainsi ce peuple esclave, oubliant son devoir,
 Contre son roi lève un front indocile.
@@ -575,8 +650,8 @@ Ils y sont tous, explique-toi.
 
 Oui, tu la touches des mains.
 
-
 **** *creator_voltaire *book_voltaire_samson *style_verse *genre_opera *dist1_voltaire_verse_opera_samson *dist2_voltaire_verse_opera *id_LEGRANDPRETRE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_legrandpretre
+
 
 Esclaves, demeurez,
 Demeurez : votre roi par ma voix vous l'ordonne.
@@ -609,4 +684,3 @@ Découvrez le secret de sa force invincible,
 Qui commande au monde surpris ;
 Un tendre hymen, un sort paisible,
 Dépendront du secret que vous aurez appris.
-

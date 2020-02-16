@@ -1,6 +1,7 @@
 
 
-**** *creator_anonyme *book_anonyme_prixdunmoment *style_verse *genre_comedy *dist1_anonyme_verse_comedy_prixdunmoment *dist2_anonyme_verse_comedy *id_LOUIS *date_(non *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_louis
+**** *creator_anonyme *book_anonyme_prixdunmoment *style_verse *genre_comedy *dist1_anonyme_verse_comedy_prixdunmoment *dist2_anonyme_verse_comedy *id_LOUIS *date_(non *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_louis
+
 
 Je suis bien fatigué ; l'inaction m'a rendu sensible à la moindre peine. Reposons-nous quelques instants, J'arriverai encore avant la nuit à Méréville, où je veux coucher... J'ai fait dix lieues aujourd'hui, et mon paquet pèse au moins vingt livres. Il est vrai que la reconnaissance et la tendresse rendent ce poids bien léger... Ô mon Maître de qui je me sépare !... Ô ma mère que je vais retrouver ! Je ne sais lequel de vous deux m'est le plus cher. C'est à la bienfaisance de l'un que je dois les secours que je pourrai quelque jour rendre à l'autre... Oui, ce n'est point un songe ; Monsieur m'a appelé hier au soir ; il m'a dit : tes moeurs sont pures, ton âme est douce et honnête ; je crains qu'elles ne se corrompent et ici. Tu as assez de raison pour connaître les dangers d'un séjour, où toute mon attention ne peut maintenir, à mon gré, l'ordre ni la décence. Ta mère est veuve et pauvre, apprends un métier, tu l'aideras. Voilà cinquante écus : si jamais ma protection te peut être utile, comptes-y avec assurance... Je l'ai quitté les larmes aux yeux, et la plus vive reconnaissance dans le coeur... Ô l'homme charmant !
 C'est une affreuse dépendance
@@ -70,8 +71,8 @@ Mon cher Maître me rend donc la vie ; car je l'aurais perdue avant de pouvoir m
 
 Messieurs, vous n'y pensez pas... Le Houzard, mon ancien camarade, est cause de tout ceci ; mais il ne l'avait pas prévu ; c'est un enfant, et je lui pardonne. Pour vous, Messieurs, vous avez fait votre devoir, et je vous loue... Cependant, si cet argent est destiné au sentiment, donnez-le au bonhomme Loreau, le pauvre Vieillard de Méréville, avec qui je causais avant votre arrivée.
 
-
 **** *creator_anonyme *book_anonyme_prixdunmoment *style_verse *genre_comedy *dist1_anonyme_verse_comedy_prixdunmoment *dist2_anonyme_verse_comedy *id_VALEGALOP *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valegalop
+
 
 Je crois que...
 
@@ -115,8 +116,8 @@ La perte de votre temps, la frayeur que vous avez eue seront bien peu réparées
 
 Nous sommes honteux de recevoir une récompense que nous avons si peu méritée, et dont nous ne pouvons pas témoigner notre reconnaissance.
 
-
 **** *creator_anonyme *book_anonyme_prixdunmoment *style_verse *genre_comedy *dist1_anonyme_verse_comedy_prixdunmoment *dist2_anonyme_verse_comedy *id_SERREFORT *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_serrefort
+
 
       Oui, parbleu!..
 
@@ -128,8 +129,8 @@ Le père Loreau ! Il est mon voisin, et puisque vous nous refusez, nous serons c
 
 Non, non, Monsieur... Eh ! Qu'avons-nous fait pour cela ?
 
-
 **** *creator_anonyme *book_anonyme_prixdunmoment *style_verse *genre_comedy *dist1_anonyme_verse_comedy_prixdunmoment *dist2_anonyme_verse_comedy *id_DUMONT *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dumont
+
 
 Ah ! Messieurs, ah ! Que j'ai couru !
 Mon cheval en sera fourbu ;
@@ -195,4 +196,3 @@ Un des bons coeurs nés sous les lois
 Du meilleur Roi. Vive le Roi.
 Vive le Roi, vive le Roi.
 Allons reprendre nos chevaux, (le mien mort ou vif) et acheminons-nous vers le cabaret le plus lestement que nous pourrons. À présent que mon coeur est tranquille, je commence à m'apercevoir que mon estomac ne l'est pas. Plus de peur que de mal.
-

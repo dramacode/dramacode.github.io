@@ -2,6 +2,7 @@
 
 **** *creator_ozicourt *book_ozicourt_romeojuliette *style_verse *genre_drame *dist1_ozicourt_verse_drame_romeojuliette *dist2_ozicourt_verse_drame *id_MONSIEURCAPELLET *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurcapellet
 
+
       Oui, par cette fenêtre,
 On va sur le balcon ; du balcon au jardin,
 Quoi l'on m'aurait dit vrai ! Tu ne l'as pu connaître ?
@@ -270,8 +271,8 @@ Ah ! Viens m'en assurer dans mille embrassements.
 
 Voilà ce qu'ont produit ma haine et ma colère !
 
-
 **** *creator_ozicourt *book_ozicourt_romeojuliette *style_verse *genre_drame *dist1_ozicourt_verse_drame_romeojuliette *dist2_ozicourt_verse_drame *id_MADAMECAPELLET *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamecapellet
+
 
       Son air me fait trembler ;
 Mais revenons à ma Julie.
@@ -505,8 +506,8 @@ Ils ne m'écoutent pas ! Ô cours trop inhumains !
 
 Qu'as-tu fait, malheureuse ?
 
-
 **** *creator_ozicourt *book_ozicourt_romeojuliette *style_verse *genre_drame *dist1_ozicourt_verse_drame_romeojuliette *dist2_ozicourt_verse_drame *id_ROMEO *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_romeo
+
 
       Ma Julie !...
 Je ne puis te quitter.
@@ -810,8 +811,8 @@ Ils ne distinguent plus ces attraits précieux.
 Je ne me soutiens plus ; je sens que je succombe.
 Approche, ma Julie, et reçois mes adieux.
 
-
 **** *creator_ozicourt *book_ozicourt_romeojuliette *style_verse *genre_drame *dist1_ozicourt_verse_drame_romeojuliette *dist2_ozicourt_verse_drame *id_JULIE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_julie
+
 
 Chacun en ce palais goûte un sommeil paisible ;
 Sa douceur consolante a fui loin de mes yeux.
@@ -1493,8 +1494,8 @@ Tout est fini pour moi. Pardonnez, ô ma mère !
 Et vous ! De vos fureurs contemplez tous les fruits.
 Attends-moi, Roméo ! Cher époux ! Je te suis.
 
-
 **** *creator_ozicourt *book_ozicourt_romeojuliette *style_verse *genre_drame *dist1_ozicourt_verse_drame_romeojuliette *dist2_ozicourt_verse_drame *id_LAURE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laure
+
 
 Quoi ! Seule, Sans lumière, au milieu de la nuit !
 Du côté des jardins quel projet vous conduit ?
@@ -1712,8 +1713,8 @@ Elle a remarqué votre absence,
 Notre douleur, notre silence :
 On ne saurait, Seigneur, lui cacher plus longtemps...
 
-
 **** *creator_ozicourt *book_ozicourt_romeojuliette *style_verse *genre_drame *dist1_ozicourt_verse_drame_romeojuliette *dist2_ozicourt_verse_drame *id_BENVOGLIO *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_benvoglio
+
 
 Hélas ! Madame, à votre vue,
 Je pourrais trembler pour vos jours ;
@@ -1855,8 +1856,8 @@ Et je tremble pour lui, s'il se rend aux tombeaux.
 Ah ! Puisse un tel exemple effrayer à jamais
 Les parents trop cruels, ennemis de la paix.
 
-
 **** *creator_ozicourt *book_ozicourt_romeojuliette *style_verse *genre_drame *dist1_ozicourt_verse_drame_romeojuliette *dist2_ozicourt_verse_drame *id_GERVAS *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gervas
+
 
 Avant d'aller plus loin, en des peines mortelles,
 À Tivoli, Madame, il attend mon retour.
@@ -1899,4 +1900,3 @@ Je vous laisse la lettre, et retourne vers lui :
 Il saura que j'ai vu sa Julie endormie :
 Mais ce funeste hymen lui coûterait la vie ;
 Je ne lui dirai point qu'il se fait aujourd'hui.
-

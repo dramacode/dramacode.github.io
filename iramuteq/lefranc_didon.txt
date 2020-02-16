@@ -2,6 +2,7 @@
 
 **** *creator_lefranc *book_lefranc_didon *style_verse *genre_tragedy *dist1_lefranc_verse_tragedy_didon *dist2_lefranc_verse_tragedy *id_DIDON *date_1734 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_didon
 
+
 Lorsque, du sort barbare innocente victime,
 J'ai fui loin de l'Asie un frère qui m'opprime,
 Je ne m'attendois pas qu'un fils du roi des dieux
@@ -592,8 +593,8 @@ Toi, qui ne m'entends plus, adieu, mon cher Énée,
 Ne crains point ma colère, elle expire avec moi,
 Et mes derniers soupirs sont encore pour toi.
 
-
 **** *creator_lefranc *book_lefranc_didon *style_verse *genre_tragedy *dist1_lefranc_verse_tragedy_didon *dist2_lefranc_verse_tragedy *id_ENEE *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_enee
+
 
 Tandis que de sa cour la reine environnée
 Aux chefs des Tyriens apprend notre hyménée,
@@ -963,8 +964,8 @@ Qu'à nos malheurs communs l'univers s'intéresse ;
 Et courons l'un et l'autre assurer votre état,
 Vous aux pieds des autels, et moi dans le combat.
 
-
 **** *creator_lefranc *book_lefranc_didon *style_verse *genre_tragedy *dist1_lefranc_verse_tragedy_didon *dist2_lefranc_verse_tragedy *id_IARBE *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_iarbe
+
 
 Reviens de ta surprise ; oui, c'est moi qui t'embrasse,
 Et qui cherche en ces lieux la fin de ma disgrâce.
@@ -1219,8 +1220,8 @@ Un déluge de feu couvrira vos remparts ;
 Et si ce n'est assez pour les réduire en poudre,
 Mes cris iront aux cieux, et j'ai pour moi la foudre.
 
-
 **** *creator_lefranc *book_lefranc_didon *style_verse *genre_tragedy *dist1_lefranc_verse_tragedy_didon *dist2_lefranc_verse_tragedy *id_ELISE *date_1734 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elise
+
 
 Eh ! Pourquoi consumer vos beaux jours dans les larmes ?
 Ce triste désespoir est-il fait pour vos charmes ?
@@ -1299,8 +1300,8 @@ Calmez des mouvements trop indignes de vous.
 
 Ah Ciel !
 
-
 **** *creator_lefranc *book_lefranc_didon *style_verse *genre_tragedy *dist1_lefranc_verse_tragedy_didon *dist2_lefranc_verse_tragedy *id_MADHERBAL *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madherbal
+
 
 Je vous ai reconnu, seigneur, et j'ai frémi.
 Iarbe sur ces bords ! Iarbe dans Carthage !
@@ -1583,8 +1584,8 @@ Et bientôt son vaisseau s'éloigne de Carthage.
 
       Ô fatale tendresse !
 
-
 **** *creator_lefranc *book_lefranc_didon *style_verse *genre_tragedy *dist1_lefranc_verse_tragedy_didon *dist2_lefranc_verse_tragedy *id_ACHATE *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achate
+
 
 Je ne reconnais point Énée à ce langage.
 Ah ! Rougissez plutôt des bienfaits de Carthage.
@@ -1705,8 +1706,19 @@ Le sang qui doit former les conquérants du monde.
 
       Ah ! C'est la reine... Ô funeste présage !
 
+**** *creator_lefranc *book_lefranc_didon *style_verse *genre_tragedy *dist1_lefranc_verse_tragedy_didon *dist2_lefranc_verse_tragedy *id_ZAMA *date_1734 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zama
+
+
+      Seigneur, songez à vous.
+On soupçonne qu'Iarbe est caché parmi nous.
+Un bruit sourd et confus...
+
+Eh quoi ! Lorsqu'on s'attend à voir, de toutes parts,
+Vos soldats furieux assiéger ces remparts,
+Croyez-vous qu'un rival, l'objet de votre haine...
 
 **** *creator_lefranc *book_lefranc_didon *style_verse *genre_tragedy *dist1_lefranc_verse_tragedy_didon *dist2_lefranc_verse_tragedy *id_BARCE *date_1734 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_barce
+
 
 Qui l'eût cru que l'amour causerait vos malheurs,
 Vous que, depuis la mort de votre époux Sichée,
@@ -1738,4 +1750,3 @@ J'ai vu les Tyriens confusément épars,
 S'avancer en silence au pied des remparts.
 
       Quel desespoir !
-

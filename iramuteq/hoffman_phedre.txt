@@ -2,6 +2,7 @@
 
 **** *creator_hoffman *book_hoffman_phedre *style_verse *genre_opera *dist1_hoffman_verse_opera_phedre *dist2_hoffman_verse_opera *id_PHEDRE *date_1786 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phedre
 
+
 Voeux superflus ! Inutiles efforts !
 Au milieu des plaisirs le trouble m'environne.
 
@@ -407,8 +408,8 @@ Implacable Vénus;
 Et toi que mon aspect offense,
 Soleil, je ne te verrai plus.
 
-
 **** *creator_hoffman *book_hoffman_phedre *style_verse *genre_opera *dist1_hoffman_verse_opera_phedre *dist2_hoffman_verse_opera *id_THESEE *date_1786 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thesee
+
 
 Je les revois, ces lieux chers à mon coeur ;
 Ce plaisir est pour moi la plus douce victoire ;
@@ -578,8 +579,8 @@ Mon épouse !
 Il était innocent ! Ah ! Pouvez-vous penser
 Par un vain repentir expier un tel crime !
 
-
 **** *creator_hoffman *book_hoffman_phedre *style_verse *genre_opera *dist1_hoffman_verse_opera_phedre *dist2_hoffman_verse_opera *id_OENONE *date_1786 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_oenone
+
 
 Rends-lui la paix qui l'abandonne.
 
@@ -744,8 +745,8 @@ Et de tous les tourments qu'il vous a fait souffrir.
 
       Ô ciel !
 
-
 **** *creator_hoffman *book_hoffman_phedre *style_verse *genre_opera *dist1_hoffman_verse_opera_phedre *dist2_hoffman_verse_opera *id_UNCHASSEUR *date_1786 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_unchasseur
+
 
       Ô père infortuné,
 À des pleurs éternels vous êtes condamné !
@@ -763,4 +764,3 @@ Ses amis, mais en vain, ont voulu le défendre ;
 Un Dieu nous écartait, un Dieu..... Vous frémissez,
 Seigneur : ah ! tous les pleurs que vous voyez répandre
 Vous en disent assez.
-

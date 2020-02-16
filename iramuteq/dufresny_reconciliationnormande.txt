@@ -2,6 +2,7 @@
 
 **** *creator_dufresny *book_dufresny_reconciliationnormande *style_verse *genre_comedy *dist1_dufresny_verse_comedy_reconciliationnormande *dist2_dufresny_verse_comedy *id_LECOMTE *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomte
 
+
 Je joindrais ma soeur, mais je sens dans le moment
 Un fiel qui fait en moi certain soulèvement...
 Pour me tranquilliser, il me faut bien une heure.
@@ -329,8 +330,8 @@ Non, à votre autre amant à Dorante, ha, ha.
 
 Ah ! Voyons son dépit, il va combler ma joie.
 
-
 **** *creator_dufresny *book_dufresny_reconciliationnormande *style_verse *genre_comedy *dist1_dufresny_verse_comedy_reconciliationnormande *dist2_dufresny_verse_comedy *id_LAMARQUISE *date_1719 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
+
 
 Malgré ma haine, enfin il faut que je le voie.
 Ce frère, il arrive. Hon !
@@ -803,8 +804,8 @@ Mon seul soulagement dans tout ce que je vois.
 C'est de tourner en fiel cet amour qui me gêne ;
 Oui, je vais me livrer toute entière à la haine.
 
-
 **** *creator_dufresny *book_dufresny_reconciliationnormande *style_verse *genre_comedy *dist1_dufresny_verse_comedy_reconciliationnormande *dist2_dufresny_verse_comedy *id_ANGELIQUE *date_1719 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+
 
 On m'a dit que ma tante est là. Suis-moi, Nérine.
 
@@ -1036,8 +1037,8 @@ Ma joie irriterait ma tante.
 
 Je choisis donc.
 
-
 **** *creator_dufresny *book_dufresny_reconciliationnormande *style_verse *genre_comedy *dist1_dufresny_verse_comedy_reconciliationnormande *dist2_dufresny_verse_comedy *id_DORANTE *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+
 
 Que vois-je ! Quel bonheur ! L'agréable surprise !
 Belle Angélique, quoi, vous voir chez la Marquise !
@@ -1236,8 +1237,8 @@ Venez, monsieur, venez : de grâce laissons-la.
 
 C'est ce qu'il ne faut pas qu'un galant homme voie.
 
-
 **** *creator_dufresny *book_dufresny_reconciliationnormande *style_verse *genre_comedy *dist1_dufresny_verse_comedy_reconciliationnormande *dist2_dufresny_verse_comedy *id_LECHEVALIER *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
 
 Je veux l'appartement que j'eus l'autre voyage.
 Préparez-le-moi vite, il me convient. Eh bien !
@@ -1575,8 +1576,8 @@ Que nous avons rompu.
 Moi, j'ai pris mon parti, Dorante a pris le sien.
 Je vous plaindrais beaucoup, si vous étiez souffrante.
 
-
 **** *creator_dufresny *book_dufresny_reconciliationnormande *style_verse *genre_comedy *dist1_dufresny_verse_comedy_reconciliationnormande *dist2_dufresny_verse_comedy *id_PYRANTE *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pyrante
+
 
 Je reviens vous parler.
 
@@ -1673,8 +1674,8 @@ Vous me dispenserez d'être le spectateur
 De cette politesse et de cette douceur,
 J'ai fait mon ministère, et la nièce est pourvue.
 
-
 **** *creator_dufresny *book_dufresny_reconciliationnormande *style_verse *genre_comedy *dist1_dufresny_verse_comedy_reconciliationnormande *dist2_dufresny_verse_comedy *id_NERINE *date_1719 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
+
 
 Pendant que je marchais rêvant profondément,
 Angélique est entrée en quelque appartement ;
@@ -2325,8 +2326,8 @@ Ma foi tu viens trop tard, et la dot est partie.
 
 Nous n'avons pu pour vous en faire qu'un neveu.
 
-
 **** *creator_dufresny *book_dufresny_reconciliationnormande *style_verse *genre_comedy *dist1_dufresny_verse_comedy_reconciliationnormande *dist2_dufresny_verse_comedy *id_FALAISE *date_1719 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_falaise
+
 
       Monsieur.
 
@@ -2651,4 +2652,3 @@ Brûlez d'un plus beau feu ; que ce coeur embrasé
 D'amour, soit possédé d'un amour de chicane ;
 Il faut pour triompher d'eux tous notre organe.
 Épouser le Marquis de Procinville... ou moi.
-

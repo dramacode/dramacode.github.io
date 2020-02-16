@@ -2,6 +2,7 @@
 
 **** *creator_crebillon *book_crebillon_semiramis *style_verse *id_SEMIRAMIS *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_semiramis
 
+
 Je triomphe, Bélus : une heureuse victoire
 Comblerait aujourd'hui mes désirs et ma gloire,
 Si le sort, dangereux même dans ses bienfaits,
@@ -424,8 +425,8 @@ Trop heureux cependant qu'une reine perfide
 Adieu. Puisse ton coeur, content de Ténésis,
 Mon fils, n'y pas trouver une Sémiramis !
 
-
 **** *creator_crebillon *book_crebillon_semiramis *style_verse *id_MADATE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madate
+
 
 Et quel secours encor vous en promettez-vous,
 Quand le ciel en fureur éclate contre nous ?
@@ -494,8 +495,8 @@ Dans ces perfides lieux à la reine soumis ?
 C'est loin d'ici qu'il faut conjurer un orage
 Que prétendrait en vain braver votre courage.
 
-
 **** *creator_crebillon *book_crebillon_semiramis *style_verse *id_MERMECIDE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mermecide
+
 
 Plaise au ciel que ce jour qui commence à nous luire
 N'éclaire point du moins le sort le plus affreux
@@ -599,8 +600,8 @@ Et vous, Reine, encor plus de votre égarement.
 Voilà ce Ninias si digne de son père,
 Mais à qui les destins devient une autre mère.
 
-
 **** *creator_crebillon *book_crebillon_semiramis *style_verse *id_TENESIS *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_tenesis
+
 
 Au grand coeur de Bélus rendez plus de justice :
 Sa vertu n'admet point un si noir artifice.
@@ -909,8 +910,8 @@ Seigneur, si ma prière a sur vous quelque empire,
 C'est l'unique faveur que de vous je désire :
 L'un et l'autre, daignez l'accorder à mes voeux.
 
-
 **** *creator_crebillon *book_crebillon_semiramis *style_verse *id_AGENOR *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_agenor
+
 
 Où suis-je ? Dans quels lieux la fortune me guide !
 Dieux, que réservez-vous au fils de Mermécide ?
@@ -1342,8 +1343,60 @@ Voulez-vous qu'à vos coups j'abandonne mon père.
 
 Ma mère !
 
+**** *creator_crebillon *book_crebillon_semiramis *style_verse *id_MIRAME *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mirame
+
+
+Eh quoi ! Seigneur, l'éclat d'un nouveau diadème
+Ne pourra dissiper votre douleur extrême !
+Voulez-vous, trop sensible aux peines de l'amour,
+Le front chargé d'ennuis vous montrer à la cour ?
+Songez que ce vain peuple, attentif à vous plaire,
+En volant sur vos pas, de plus près vous éclaire.
+Après ce que pour vous a fait Sémiramis...
+
+Seigneur, vous n'êtes plus dans ces camps où vos pas
+N'avaient d'autres témoins que les yeux des soldats.
+Agénor y voyait Ténésis sans contrainte ;
+Le courtisan oisif n'y causait nulle crainte ;
+La reine, dont la guerre occupait tous les jours,
+À vos amours d'ailleurs laissait un libre cours :
+Mais c'est ici qu'il faut dans le fond de votre âme
+Renfermer les transports d'une indiscrète flamme.
+Sémiramis, en proie à la plus vive ardeur,
+Laisse trop voir le feu qui dévore son coeur,
+Pour oser vous flatter de tromper sa tendresse.
+Songez à quels périls vous livrez la princesse.
+
+Seigneur, un étranger, qui se cache avec soin,
+Demande à vous parler un moment sans témoin.
+
+**** *creator_crebillon *book_crebillon_semiramis *style_verse *id_PHENICE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phenice
+
+
+Mégabise en mourant n'a que trop éclairci
+Ce doute malheureux où votre coeur se livre,
+Madame : Ninias n'a point cessé de vivre.
+Avez-vous oublié tout ce que de son sort
+Vient de vous révéler un fidèle rapport ?
+Et quel funeste espoir peut vous flatter encore,
+Puisqu'enfin Ténésis est celle qu'il adore ?
+Vous seule l'ignorez, lorsque toute la cour
+Retentit dès longtemps du bruit de son amour.
+Loin d'en croire aux transports qui séduisent votre âme,
+Dans ce péril pressant songez à vous, Madame.
+
+Fuyez, reine, fuyez ; vos soldats vous trahissent :
+Du nom de Ninias tous ces lieux retentissent.
+À peine a-t-il paru, qu'à son terrible aspect
+Vos gardes n'ont fait voir que crainte et que respect.
+La fierté dans les yeux, et bouillant de colère,
+J'ai vu lui-même encor votre perfide frère,
+Des soldats mutinés échauffant la fureur,
+Ordonner à grands cris le trépas de sa soeur.
+Où sera votre asile en ce moment funeste ?
 
 **** *creator_crebillon *book_crebillon_semiramis *style_verse *id_NINIAS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ninias
+
 
 Mermécide, arrêtez : c'est ma mère, et je veux
 Qu'on la respecte autant qu'on respecte les dieux.
@@ -1394,4 +1447,3 @@ Mais quoi ! Sans Ténésis ?
 Quoi ! Madame, c'est vous ! Une si chère vie...
 
 Ah ! Juste ciel !
-

@@ -2,6 +2,7 @@
 
 **** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_soliman *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_soliman
 
+
 Moi qui me figurois que jusques dans Bizance,
 Ils viendroient à mes pieds implorer ma Clemence :
 Me voicy dans Alep, et ces fiers ennemis
@@ -314,8 +315,8 @@ Apres, nous songerons à quitter cette terre :
 Persine valoit bien toute seule une guerre.
 FIN.
 
-
 **** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_rustan *date_1637 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_rustan
+
 
 Commandez seulement, et vous pourrez connestre
 De quel zele⁎ Rustan est porté pour son Maistre :
@@ -479,8 +480,8 @@ Mais Madame, escoutez ;
 
       O Ciel, je suis perdu !
 
-
 **** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_acmat *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_acmat
+
 
 Grand Roy, nous attendons la fin de cet ouvrage,
 Moins du Ciel, ou du Sort, que de vostre courage :
@@ -679,8 +680,8 @@ Seigneur, voicy la Reyne, et son Fils qu'elle embrasse⁎.
 
 Que du sein de la mort sort un bel hymenée !
 
-
 **** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_osman *date_1637 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_osman
+
 
 Invincible Seigneur, Roy le plus grand du monde,
 Qu'ainsi tousjours le Sort à vos souhaits responde :
@@ -765,8 +766,8 @@ Afin que se jugeant dans un peril extresme,
 Elle vous conjurast avecques plus d'effect⁎,
 De procurer la mort de l'autheur du forfait.
 
-
 **** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_persine *date_1637 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_persine
+
 
 D'où l'as-tu donc appris ?
 
@@ -1135,8 +1136,8 @@ Par elle, mon erreur s'augmente et se redouble ;
 Si bien que je me juge indigne de l'honneur
 Que me fait maintenant nostre commun Seigneur.
 
-
 **** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_alvante *date_1637 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_alvante
+
 
       C'est le bruit de la Cour,
 Et puisque Soliman n'attend que son retour,
@@ -1360,8 +1361,8 @@ Estoit du Roy son Pere un papier blanc siné.
 Que les Cieux sçavent bien nos fautes reparer !
 Je les ay reünis, les voulant separer !
 
-
 **** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_la-reine *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_lareine
+
 
 J'ignore en quel endroit⁎ mon pié douteux me guide,
 Au trouble des pensers qui me rendent timide.
@@ -1634,8 +1635,8 @@ Seigneur, son innocence est desormais trop claire.
 O fils heureusement aujourd'huy retreuvé⁎ !
 Que tu rends desormais ta mere fortunée !
 
-
 **** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_seline *date_1637 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_seline
+
  
 Ceux qui renferment mieux leurs pensers au dedans,
 Sont Madame, à la Cour tenus les plus prudens :
@@ -1685,8 +1686,8 @@ Si celuy-cy qui vient nous avoit entenduës⁎.
 
       O merveille !
 
-
 **** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_mustapha *date_1637 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_mustapha
+
  
 Derechef⁎ je rends grace à vostre Majesté
 D'un honneur que je sçay n'avoir point merité :
@@ -1905,8 +1906,8 @@ Persine, fuyrois-tu cét heureux mariage ?
 Ou si te ressentant de ton premier courroux,
 Tu m'estimes coupable, et me hays pour espoux ?
 
-
 **** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_soldat *date_1637 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_soldat
+
 
       Au Palais, grande Reyne.
 
@@ -1939,8 +1940,8 @@ Mais soit ce qui pourra ; j'accorde ton desir.
 Le Roy, brave Seigneur, l'a mise entre nos mains,
 Jugez par là du reste.
 
-
 **** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_ormene *date_1637 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_ormene
+
 
 Seigneur, j'acours à vous, et je rends grace aux Cieux,
 Qu'encore assez à temps je vous touve en ces lieux :
@@ -2070,8 +2071,8 @@ O prodige !
 
       O bien-heureux Ormene !
 
-
 **** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_adraste *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adraste
+
 
 Ah grand Prince ! fuyez cette maudite Cour,
 Où l'on a conspiré de vous priver du jour.
@@ -2115,8 +2116,16 @@ Seul vous appaiserez leurs esprits furieux.
 
 Seigneur, trouvez-vous pas cét advis raisonnable ?
 
+**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_messager *date_1637 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_messager
+
+
+O Seigneur, retournez, retournez à l'armée,
+Où parmy tous les Chefs la nouvelle est semée,
+Que vostre teste court un funeste danger,
+Desjà l'on se soûleve afin de vous vanger.
 
 **** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_devin *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_devin
+
 
 La trahison est vraye, et faite sans raison.
 
@@ -2143,3 +2152,53 @@ Demeure ensevely dans une nuit espaisse.
 Mais si je pars, tousjours le Ciel sur toy demeure,
 Et parlera pour moy, devant⁎ qu'il soit une heure.
 
+**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_gentilhomme *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gentilhomme
+
+
+Seigneur, voicy venir l'Ambassadeur des Perses.
+
+**** *creator_dalibray *book_dalibray_soliman *style_verse *genre_tragedy *dist1_dalibray_verse_tragedy_soliman *dist2_dalibray_verse_tragedy *id_ambassadeur-perse *date_1637 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_ambassadeurperse
+
+ 
+Invincible Seigneur, le Roy Tamas mon Maistre,
+Privé du doux aspect de celle qu'il fit naistre,
+Et qu'il a fait chercher par d'inutiles soins⁎
+Dedans tous les pays de son pouvoir tesmoins ;
+Desjà desesperé de perdre en cette fille
+L'appuy de sa Couronne, et l'heur de sa famille,
+Enfin a descouvert par la bonté des Cieux
+Qu'elle estoit inconnuë arrivée en ces lieux ;
+Et comme si son cœur trop veritable augure
+Eust pour elle preveu cette triste avanture :
+Il m'a, Seigneur, exprez devers⁎ vous deputé,
+Pour la redemander à vostre Majesté :
+Elle vient de courir fortune⁎ de la vie,
+Seigneur, ne souffrez⁎ pas qu'elle luy soit ravie ;
+Quel honneur recevroit un grand Roy comme vous,
+Qu'une jeune Princesses esprouvast son courroux ?
+Plustost, plutost, Seigneur, dissipez ces tempestes,
+Qui s'en vont fondre⁎ en Perse et menacent nos testes,
+Et puis que nous voyons le port nous estre ouvert,
+Que vostre Majesté nous y mette à couvert⁎.
+Il semble qu'en ce jour le Ciel et la Fortune⁎
+Offrent l'occasion à nos vœux opportune :
+L'occasion est fiere, elle hayt le refus ;
+Une fois méprisée elle ne revient plus :
+C'est elle qui vous prie au nom du Diadéme,
+Au nom du Roy Tamas, mais au nom de vous mesme,
+D'embrasser⁎ le repos, et pour vous, et pour luy,
+Que la faveur du Ciel vous presente aujourd'huy :
+Vous sçaurez trop, Seigneur, de quelles belles flames
+Se sentent consommer ces genereuses ames,
+Donnez à leur ardeur⁎ seulement vostre aveu⁎
+Et nos feux aussi-tost s'esteindront par ce feu :
+Car j'ay charge, Seigneur, de vous rendre les terres
+Qui causent parmy nous de si cruelles guerres,
+Au cas que cét Hymen de mon Roy souhaitté
+Ayt aussi l'heur de plaire à vostre Majesté.
+Je veux que vous soyez certain de la victoire ;
+Icy, Seigneur, la paix vous donne autant de gloire,
+Et puis dés à present mon Prince vous remet,
+Ce qu'apres un long temps vostre espoir vous promet.
+
+A quel bon-heur mon Roy se void-il eslevé !

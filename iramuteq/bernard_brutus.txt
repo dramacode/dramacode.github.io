@@ -2,6 +2,7 @@
 
 **** *creator_bernard *book_bernard_brutus *style_verse *genre_comedy *dist1_bernard_verse_comedy_brutus *dist2_bernard_verse_comedy *id_BRUTUS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brutus
 
+
 Octavius, Seigneur, en ces lieux va se rendre
 Envoyé de Tarquin, c'est à nous de l'entendre.
 Je ne crois pas devoir concerter avec vous
@@ -403,8 +404,8 @@ Peut-être je deviens plus criminel que toi.
 Tu peux espérer tout hors de me consoler.
 Adieu mon fils, adieu, je ne puis te parler.
 
-
 **** *creator_bernard *book_bernard_brutus *style_verse *genre_comedy *dist1_bernard_verse_comedy_brutus *dist2_bernard_verse_comedy *id_VALERIUS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valerius
+
 
 De mon zèle, Seigneur, vos yeux seront témoins.
 La liberté naissante occupe tous mes soins,
@@ -516,8 +517,8 @@ Ils sont morts.
 Ô tyrannique amour ! Ô funeste journée !
 À quel prix, liberté, nous êtes-vous donnée ?
 
+**** *creator_bernard *book_bernard_brutus *style_verse *genre_comedy *dist1_bernard_verse_comedy_brutus *dist2_bernard_verse_comedy *id_TITUS *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_titus
 
-**** *creator_bernard *book_bernard_brutus *style_verse *genre_comedy *dist1_bernard_verse_comedy_brutus *dist2_bernard_verse_comedy *id_TITUS *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_titus
 
 Quoi ! Seigneur...
 
@@ -904,8 +905,8 @@ Si l'amour m'a séduit en un fatal moment,
 Le Romain a bientôt désavoué l'Amant.
 J'entends du bruit, sortons.
 
+**** *creator_bernard *book_bernard_brutus *style_verse *genre_comedy *dist1_bernard_verse_comedy_brutus *dist2_bernard_verse_comedy *id_TIBERINUS *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_tiberinus
 
-**** *creator_bernard *book_bernard_brutus *style_verse *genre_comedy *dist1_bernard_verse_comedy_brutus *dist2_bernard_verse_comedy *id_TIBERINUS *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_tiberinus
 
 J'obéirai Seigneur, plus heureux que mon frère,
 Je l'adore et je puis l'aimer sans vous déplaire.
@@ -1010,8 +1011,8 @@ Entre les lois et moi que votre sang décide.
 
       Dieux !
 
-
 **** *creator_bernard *book_bernard_brutus *style_verse *genre_comedy *dist1_bernard_verse_comedy_brutus *dist2_bernard_verse_comedy *id_OCTAVIUS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octavius
+
 
       Consuls, quelle est ma joie,
 De parler devant vous pour le Roi qui m'envoie,
@@ -1117,8 +1118,8 @@ Qui marque en quel état est votre grand ouvrage.
 Prenez de nos amis et les noms et le seing,
 Et je l'assurerai de son retour prochain.
 
-
 **** *creator_bernard *book_bernard_brutus *style_verse *genre_comedy *dist1_bernard_verse_comedy_brutus *dist2_bernard_verse_comedy *id_AQUILIUS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aquilius
+
 
 Seigneur, j'ai rassemblé cinq cents jeunes Romains,
 Qui se sont dévoués à servir nos desseins ;
@@ -1263,8 +1264,8 @@ Saura nous épargner une honteuse mort.
       Il suffit, Seigneur, je me retire.
 Je vais donner parole.
 
-
 **** *creator_bernard *book_bernard_brutus *style_verse *genre_comedy *dist1_bernard_verse_comedy_brutus *dist2_bernard_verse_comedy *id_VALERIE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_valerie
+
 
 Il me fuit ; et demain un noeud sacré nous lie.
 II me fuit ; et peut-être il court vers Aquilie.
@@ -1516,8 +1517,8 @@ Qui souffrent qu'on répande un sang si précieux ?
 
       N'achève pas le reste.
 
+**** *creator_bernard *book_bernard_brutus *style_verse *genre_comedy *dist1_bernard_verse_comedy_brutus *dist2_bernard_verse_comedy *id_AQUILIE *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_aquilie
 
-**** *creator_bernard *book_bernard_brutus *style_verse *genre_comedy *dist1_bernard_verse_comedy_brutus *dist2_bernard_verse_comedy *id_AQUILIE *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_aquilie
 
 Je me jette à vos pieds dans ma douleur extrême.
 J'attends grâce d'un Père et d'un Père qui m'aime.
@@ -1801,8 +1802,8 @@ Non, non, être Romaine est mon seul avantage.
 Il me rend digne au moins d'expier mon forfait.
 Adieu.
 
-
 **** *creator_bernard *book_bernard_brutus *style_verse *genre_comedy *dist1_bernard_verse_comedy_brutus *dist2_bernard_verse_comedy *id_PLAUTINE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_plautine
+
 
 Non, Madame, il ne peut vous avoir aperçue.
 
@@ -1836,8 +1837,20 @@ Les deux fils de Brutus...
 Soit d'un poison secret, ou soit de sa douleur,
 Expirante comme eux...
 
+**** *creator_bernard *book_bernard_brutus *style_verse *genre_comedy *dist1_bernard_verse_comedy_brutus *dist2_bernard_verse_comedy *id_ALBINE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_albine
+
+
+D'où vient cette douleur qui dans vos yeux est peinte,
+Madame et qu'en mon coeur elle porte de crainte ?
+Un père se sert-il de son droit souverain ?
+Est-ce à Tibérinus qu'il donne votre main ?
+
+Quoi !
+
+Je vois Tibérinus, je vous laisse avec lui.
 
 **** *creator_bernard *book_bernard_brutus *style_verse *genre_comedy *dist1_bernard_verse_comedy_brutus *dist2_bernard_verse_comedy *id_MARCELLUS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marcellus
+
 
 Je ne vois nul espoir qui doive vous flatter.
 L'inflexible Brutus a donné sa parole.
@@ -1870,4 +1883,3 @@ Leur père à leur trépas ne pourra se résoudre ;
 Et s'en remettre à lui, n'est-ce pas les absoudre ?
 
 Votre remords mérite une éternelle estime.
-

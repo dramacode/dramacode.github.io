@@ -2,6 +2,7 @@
 
 **** *creator_corneillep *book_corneillep_attila *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_attila *dist2_corneillep_verse_tragedy *id_ATTILA *date_1667 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_attila
 
+
 Ils ne sont pas venus, nos deux rois ? Qu'on leur die
 Qu'ils se font trop attendre, et qu'Attila s'ennuie ;
 Qu'alors que je les mande ils doivent se hâter.
@@ -639,8 +640,8 @@ Octar, ne perdez pas la princesse de vue.
 Vous, qui me commandez de vous donner ma foi,
 Madame, allons au temple ; et vous, rois, suivez-moi.
 
-
 **** *creator_corneillep *book_corneillep_attila *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_attila *dist2_corneillep_verse_tragedy *id_ARDARIC *date_1667 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ardaric
+
 
 En l'état où le ciel a mis votre puissance,
 Nous mettrions en vain les forces en balance :
@@ -949,8 +950,8 @@ Allons donner tous deux les ordres nécessaires,
 Remplir ce trône vide, et voir sous quelles lois
 Tant de peuples voudront nous recevoir pour rois.
 
-
 **** *creator_corneillep *book_corneillep_attila *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_attila *dist2_corneillep_verse_tragedy *id_VALAMIR *date_1667 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valamir
+
 
 Seigneur, dans le penchant que prennent les affaires,
 Les grands discours ici ne sont pas nécessaires :
@@ -1186,8 +1187,8 @@ Venge enfin l'univers de toutes ses fureurs.
 Me le permettez-vous, madame ? Et puis-je croire
 Que vous tiendrez enfin ma flamme à quelque gloire ?
 
-
 **** *creator_corneillep *book_corneillep_attila *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_attila *dist2_corneillep_verse_tragedy *id_HONORIE *date_1667 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_honorie
+
 
 Que me sert donc qu'on m'aime, et pourquoi m'engager
 À souffrir un amour qui ne peut me venger ?
@@ -1589,8 +1590,8 @@ Pour moi, je n'en ai plus à prendre que de moi.
 Allez ; et cependant assurez-vous, seigneur,
 Que nos destins changés n'ont point changé mon coeur.
 
-
 **** *creator_corneillep *book_corneillep_attila *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_attila *dist2_corneillep_verse_tragedy *id_ILDIONE *date_1667 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ildione
+
 
 On vous a consulté, seigneur ; m'apprendrez-vous
 Comment votre Attila dispose enfin de nous ?
@@ -1885,8 +1886,8 @@ Grâce, grâce du moins jusqu'après l'hyménée.
 À son heureux flambeau souffrez un pur éclat,
 Et laissez pour demain les maximes d'état.
 
-
 **** *creator_corneillep *book_corneillep_attila *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_attila *dist2_corneillep_verse_tragedy *id_OCTAR *date_1667 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octar
+
 
 Mais, seigneur, quel besoin de les en consulter ?
 Pourquoi de votre hymen les prendre pour arbitres,
@@ -2029,8 +2030,8 @@ Pour m'ôter tout moyen de m'approcher de lui.
 Pour peu que je vous quitte il y va de ma vie,
 Et s'il peut découvrir que j'adore Flavie…
 
-
 **** *creator_corneillep *book_corneillep_attila *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_attila *dist2_corneillep_verse_tragedy *id_FLAVIE *date_1667 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_flavie
+
 
 Je ne m'en défends point : oui, madame, Octar m'aime ;
 Tout ce que je vous dis, je l'ai su de lui-même.
@@ -2111,4 +2112,3 @@ Et briguer cette foi qu'à lui seul il croit due,
 Je crains qu'un tel espoir, au lieu de s'affermir…
 
 Attila vient, madame.
-

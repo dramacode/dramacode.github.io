@@ -2,6 +2,7 @@
 
 **** *creator_lafontaine *book_lafontaine_galatee *style_verse *genre_opera *dist1_lafontaine_verse_opera_galatee *dist2_lafontaine_verse_opera *id_GALATEE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_galatee
 
+
       Ce don ne se refuse guère.
 
 Je ne l'en croirais pas moins capable de plaire.
@@ -137,8 +138,8 @@ Empêchons-le au moins de paraître,
 Si l'Amour laisse entrer la peur
 Dans les coeurs dont il est le maître.
 
-
 **** *creator_lafontaine *book_lafontaine_galatee *style_verse *genre_opera *dist1_lafontaine_verse_opera_galatee *dist2_lafontaine_verse_opera *id_ACIS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_acis
+
 
 Soleil, hâte tes pas ; amène ma déesse.
 Ô qu'heureux sont les amants
@@ -202,8 +203,25 @@ Je mérite que Polyphème
 À son rival ôte le jour
 Aux yeux de sa maîtresse même.
 
+**** *creator_lafontaine *book_lafontaine_galatee *style_verse *genre_opera *dist1_lafontaine_verse_opera_galatee *dist2_lafontaine_verse_opera *id_NEREE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_neree
 
-**** *creator_lafontaine *book_lafontaine_galatee *style_verse *genre_opera *dist1_lafontaine_verse_opera_galatee *dist2_lafontaine_verse_opera *id_POLYPHEME *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_polypheme
+
+Ma fille, votre amant doit perdre la lumière.
+Le Sort m'a répondu : " Vous me pressez en vain ;
+Si j'écoutais quelque prière,
+Je cesserais d'être Destin.
+Je viens d'abandonner la trame d'un monarque
+Aux ciseaux de la Parque.
+Afin de la fléchir, il offrait des trésors
+Mais l'or n'a point de cours au royaume des morts ;
+Caron passe à présent ce prince dans sa barque.
+Et vous me voulez obliger
+À rendre immortel un berger ! "
+
+Allons trouver Acis.
+
+**** *creator_lafontaine *book_lafontaine_galatee *style_verse *genre_opera *dist1_lafontaine_verse_opera_galatee *dist2_lafontaine_verse_opera *id_POLYPHEME *date_(non *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_polypheme
+
 
 Que vous êtes heureux, troupeaux ! vous ne songez
 Qu'à satisfaire vos envies.
@@ -275,8 +293,32 @@ S'il ose seulement prononcer votre nom
 Voyez cet abîme profond,
 C'est ce que ma fureur lui garde.
 
+**** *creator_lafontaine *book_lafontaine_galatee *style_verse *genre_opera *dist1_lafontaine_verse_opera_galatee *dist2_lafontaine_verse_opera *id_CLYMENE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clymene
+
+
+Toujours les bergers
+Nous nomment cruelles,
+Et toujours leurs belles
+Les nomment légers.
+On leur est sévère ;
+On fait prudemment
+Cruelle bergère
+Craint volage amant.
+
+Vous craignez de parler, et vous êtes déesse !
+Quand on est de ce rang, l'on doit encourager
+Son berger.
+Pour moi, je dis au mien sans cesse
+Qu'il m'a touché le coeur aussi bien que les yeux.
+Je n'en dirais pas tant au plus puissant des dieux.
+Le silence en amour est une erreur extrême
+Souffrez, mais déclarez vos maux ;
+Car qui les sait mieux que vous-même ?
+Que sert d'en parler aux Échos ?
+Il faut les dire à ce qu'on aime.
 
 **** *creator_lafontaine *book_lafontaine_galatee *style_verse *genre_opera *dist1_lafontaine_verse_opera_galatee *dist2_lafontaine_verse_opera *id_TIMANDRE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_timandre
+
 
 Brillantes fleurs, naissez,
 Herbe tendre, croissez
@@ -314,4 +356,3 @@ Qu'avez-vous fait encor pour soulager mes maux ?
 Que sert de dire à tous propos :
 " Je suis contente de sa peine " ?
 Payez-la donc, ingrate, insensible, inhumaine !
-

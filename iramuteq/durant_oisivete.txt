@@ -2,6 +2,7 @@
 
 **** *creator_durant *book_durant_oisivete *style_prose *genre_proverbe *dist1_durant_prose_proverbe_oisivete *dist2_durant_prose_proverbe *id_MADEMOISELLEDALRANE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoiselledalrane
 
+
 Ah ! Ma pauvre Catos, que je m'ennuie ! Qu'il m'est cruel de passer mes plus beaux jours dans un vieux château de campagne, toujours seule, toujours triste, sans autre consolation que celle que tu me donnes ! Messieurs mes parents, vous me ferez faire quelque sottise ! Mais, au moins, ne vous en prenez qu'à vous. Il me prend quelquefois des tentations de me jeter par les fenêtres ; j'en vais ouvrir une, j'aperçois ces grands vilains fossés pleins d'eau bourbeuse ; un reste d'amour pour la vie me fait retourner dans mon fauteuil, et je me remets à pleurer.
 
 Que je travaille, Catos ! Ne voudrais-tu point que je fisse comme dans les romans, des ouvrages d'or et de soie ? Encore si j'avais un chevalier, je pourrais lui broder des écharpes de mes propres mains, pour lui aider à gagner quelque bataille ; mais je n'en ai point, et c'est le comble à mon ennui.
@@ -40,8 +41,8 @@ Je te promets Pierrot, ma chère Catos, pieds et poings liés, pourvu que Colas 
 
 Comment, Colas est un éveillé ! Voilà comme je le demande : qu'il aille quérir Pierrot, et mettons-nous aussitôt à table ; un peu de vin inspire la liberté. Ah ! Catos ; je commence à me désennuyer ! Je sais bien que cette manière de vivre trouvera des censeurs ; mais que m'importe. 1l faut remonter à la source, et s'en prendre à ceux qui me réduisent à cette extrémité.
 
-
 **** *creator_durant *book_durant_oisivete *style_prose *genre_proverbe *dist1_durant_prose_proverbe_oisivete *dist2_durant_prose_proverbe *id_CATOS *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_catos
+
 
 Ma foi, mademoiselle, vous n'êtes pas seule à pester contre votre destinée ; j'y ai ma bonne part, comme vous savez. C'est une chose qui crie vengeance, qu'une belle et jeune personne comme vous, soit réduite, par la bizarrerie de ses parents, à une solitude d'anachorète, tandis que de petites bourgeoises de Paris sont tous les jours dans des divertissements : mais après tout, il faut prendre patience ; travaillez, Mademoiselle, c'est un exercice à quoi toute campagnarde doit s'employer.
 
@@ -63,8 +64,8 @@ Et réponds, animal : pourvu que Piarrot me réponde aussi, tout ira bien ; car 
 
 Oh ! Mademoiselle, je ne demande pas Pierrot lié ; il faut, s'il vous plaît, qu'il ait la liberté de son corps. Parle donc, Colas, au plus vite.
 
-
 **** *creator_durant *book_durant_oisivete *style_prose *genre_proverbe *dist1_durant_prose_proverbe_oisivete *dist2_durant_prose_proverbe *id_COLAS *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colas
+
 
 Palsangué, Mademoiselle, je ne sais point tout ce trantran-là ; mais je l'aurai bientôt appris, car je le ferai de bon coeur.
 
@@ -77,4 +78,3 @@ C'est une camuson qui a le nez tourné à la friandise : si je l'avais aimée co
 Oh ! Pargué, Mademoiselle, je ne sommes pas digne de vous regarder.
 
 Jarnigué je sis tout honteux ; Mademoiselle est belle comme un petit angelot, mais je n'ouserais quasi la regarder. Je ne serai pas toujours si niais, non, Catos ; quand alle m'aura un peu apprivoisé, alle vara, alle vara.
-

@@ -2,6 +2,7 @@
 
 **** *creator_legouve *book_legouve_eteocle *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_eteocle *dist2_legouve_verse_tragedy *id_ETEOCLE *date_1799 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eteocle
 
+
       Princesses, quand la guerre
 Jusques sous nos remparts ensanglante la terre,
 J'accours vous rassurer dans ce péril pressant.
@@ -405,8 +406,8 @@ Dans la tombe avec moi j'entraîne Polinice.
 Ô mort, terrible mort, je t'attends sans effroi :
 Je meurs vengé d'un frère, et je meurs encor roi.
 
-
 **** *creator_legouve *book_legouve_eteocle *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_eteocle *dist2_legouve_verse_tragedy *id_POLINICE *date_1799 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polinice
+
 
 Sous cet habit obscur j'ai toujours mon épée ;
 Je ne crains rien. Hémon, avez-vous fait savoir
@@ -813,8 +814,8 @@ Il faut que dans mes bras son dernier soupir...
 
 J'expire !
 
-
 **** *creator_legouve *book_legouve_eteocle *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_eteocle *dist2_legouve_verse_tragedy *id_OEDIPE *date_1799 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oedipe
+
 
 Où guidez-vous les pas du malheureux OEdipe ?
 
@@ -984,8 +985,8 @@ De la fatalité désarmons la puissance.
 
       Ah ! Dieux !
 
-
 **** *creator_legouve *book_legouve_eteocle *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_eteocle *dist2_legouve_verse_tragedy *id_JOCASTE *date_1799 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jocaste
+
 
 Viens, ma chère Antigone, en ce jour de misère,
 Entendre et partager les douleurs d'une mère.
@@ -1401,8 +1402,8 @@ Il ne vit plus qu'à peine !
 
       Cruel !
 
-
 **** *creator_legouve *book_legouve_eteocle *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_eteocle *dist2_legouve_verse_tragedy *id_ANTIGONE *date_1799 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_antigone
+
 
 Il est vrai ; contre nous le sort toujours conspire.
 Polinice, qu'un frère a privé de l'Empire,
@@ -1598,8 +1599,8 @@ Polinice triomphe !
 
       Ciel !
 
-
 **** *creator_legouve *book_legouve_eteocle *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_eteocle *dist2_legouve_verse_tragedy *id_HEMON *date_1799 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hemon
+
 
 Étéocle est absent, Polinice, avancez.
 Commandant les soldats près des portes placés,
@@ -1743,3 +1744,10 @@ Dans le palais.
 
 Soyez libre à jamais ; vos fils ainsi l'ordonnent.
 
+**** *creator_legouve *book_legouve_eteocle *style_verse *genre_tragedy *dist1_legouve_verse_tragedy_eteocle *dist2_legouve_verse_tragedy *id_ACASTE *date_1799 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_acaste
+
+
+Oui, préparez ce coeur au coup qu'il doit souffrir.
+Polinice triomphe, et le roi va mourir.
+
+On l'amène à vos yeux suivi de Polinice.

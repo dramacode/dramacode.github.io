@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_curieux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_curieux *dist2_dancourt_prose_comedy *id_CLITANDRE *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
 
+
 Ah ! Mon pauvre Frontin, je suis au désespoir. Bonjour, Chevalier, comment te portes-tu ?
 
 Je suis dans la plus cruelle situation où je me sois trouvé de ma vie.
@@ -40,8 +41,8 @@ Vous vous moquez de nous, je pense, avec votre argent.
 
 Y consentirez-vous sans répugnance ? Et puis-je me flatter…
 
-
 **** *creator_dancourt *book_dancourt_curieux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_curieux *dist2_dancourt_prose_comedy *id_FRONTIN *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+
 
 Fort au service de la vôtre, Monsieur le Chevalier. Mais vous, comment vous en va ?
 
@@ -192,8 +193,8 @@ Les
 Bourgeoises du Voisinage,
 Verraient l'action de près.
 
-
 **** *creator_dancourt *book_dancourt_curieux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_curieux *dist2_dancourt_prose_comedy *id_GUILLAUME *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillaume
+
 
 Sarviteur à la couseine Pinuin, comment se porte-t-alle ? Est-ce qu'alle est devenue folle ? Il m'est avis qu'alle parle toute seule.
 
@@ -278,8 +279,8 @@ Ouais
 La selle eût été bien dure,
 Pour des darrières bourgeois.
 
-
 **** *creator_dancourt *book_dancourt_curieux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_curieux *dist2_dancourt_prose_comedy *id_MADAMEROBIN *date_1698 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamerobin
+
 
 Ah, la charmante chose la magnifique chose, qu'une armée ! Le délicieux séjour que celui d'un Camp !
 
@@ -342,8 +343,8 @@ Point,
 Notre bête est d'une allure,
 Qui n'avance pas chemin.
 
-
 **** *creator_dancourt *book_dancourt_curieux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_curieux *dist2_dancourt_prose_comedy *id_ANGELIQUE *date_1698 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+
 
 Frontin était avec cette Dame-là, et elle me fait des signes, cela veut dire quelque chose : ne serait-elle point des amies de son maître ?
 
@@ -408,8 +409,8 @@ C'est mon père, Monsieur.
 
 Et moi, ma mère, je suis d'un bien meilleur naturel ; pour tirer mon père d'un mauvais pas ; il n'y a rien que je ne sois capable de faire.
 
-
 **** *creator_dancourt *book_dancourt_curieux *style_prose *genre_comedy *dist1_dancourt_prose_comedy_curieux *dist2_dancourt_prose_comedy *id_MONSIEURVALENTIN *date_1698 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurvalentin
+
 
 Mon cher Monsieur Frontin, que je vous ai d'obligation.
 
@@ -476,4 +477,3 @@ Qu'il épouse ma fille !
 Madame Valentin ?
 
 Ma chère enfant !
-

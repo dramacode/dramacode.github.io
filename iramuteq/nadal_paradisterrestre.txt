@@ -2,6 +2,7 @@
 
 **** *creator_nadal *book_nadal_paradisterrestre *style_verse *genre_divertissement *dist1_nadal_verse_divertissement_paradisterrestre *dist2_nadal_verse_divertissement *id_ADAM *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adam
 
+
 Cher objet avec qui je me trouve lié
 Des noeuds sacrée d'une ardeur mutuelle,
 Fille du ciel, ma compagne fidèle,
@@ -40,8 +41,8 @@ C'est à nous de servir ces augustes desseins.
 Il a soumis à notre empire
 L'air, la terre, la mer, et tout ce qui respire.
 
-
 **** *creator_nadal *book_nadal_paradisterrestre *style_verse *genre_divertissement *dist1_nadal_verse_divertissement_paradisterrestre *dist2_nadal_verse_divertissement *id_EVE *date_1735 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eve
+
 
 Digne présent du ciel, hôte de ces beaux lieux,
 Auteur d'un doux transport que je ne puis comprendre,
@@ -87,3 +88,39 @@ La terre a tremblé d'effroi ;
 Et dans tes bras Ève vient rendre
 La premier tribut se sa foi.
 
+**** *creator_nadal *book_nadal_paradisterrestre *style_verse *genre_divertissement *dist1_nadal_verse_divertissement_paradisterrestre *dist2_nadal_verse_divertissement *id_LENARRATEUR *date_1735 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lenarrateur
+
+
+Ce fut au jour marqué dans ses décrets divers,
+Que Dieu laissant agir sa puissance secrète,
+Vit du sein du néant éclore l'Univers :
+Que la clarté, dit-il se fasse : elle fut faire,
+Et les cieux, et la terre et les mers tout à tour
+Formés avec même avantage,
+Coururent se placer chacun dans leur séjour
+Semblait de son pouvoir faire l'apprentissage,
+Réserva la beauté pour son dernier ouvrage
+Dans Dieu de ses augustes mains
+Eut fait Adam sur son modèle
+De sa chair, alors immortelle,
+Il sut au plus beau des humains
+Faire une épouse encore plus belle.
+Dans un jardin délicieux
+Qu'entre mille parfums arrose une onde pure,
+Sous un berceau, l'amour de la nature,
+Que perçait la lumière des cieux,
+Pour la première fois dans un lit de verdure
+Nos amants ouvrirent les yeux.
+À leur aspect leur coeur ne put suffire,
+L'oeil s'égare, la vois sur leurs lèvres expire,
+Les sens sont suspendus, les transports sont divins ;
+Et lui-même d'un doux sourire
+Dieu bénit l'oeuvre de ses mains.
+
+La chef de ces esprits qui volent sur le faîte
+Où dans sa majesté repose l'Éternel,
+Ouvrit les honneurs de la fête
+Par ce cantique solennel.
+
+L'Écho, lointain du noeud qui les engage,
+Rendait ainsi leurs voeux et leurs tendres soupirs.

@@ -2,6 +2,7 @@
 
 **** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_MARIE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marie
 
+
 Le Ciel qui m'a rendu la fortune prospère,
 Me guidant par la main au trône de mon père,
 Qui me fait réussir dans de si grands projets,
@@ -312,8 +313,8 @@ Qui pour se maintenir en use comme moi,
 Et pour vous souhaiter une fortune pire,
 Que ma soeur après moi succède à cet Empire.
 
-
 **** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_ELISABETH *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elisabeth
+
 
 Ils ne peuvent souffrir qu'un malheur légitime,
 Et si le traitement se mesure à leur crime :
@@ -441,8 +442,8 @@ Et pour tout intérêt je n'en ai que le vôtre.
 
 Je n'ai pas mérité.
 
-
 **** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_JEANNE *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jeanne
+
 
 Quoiqu'en me consolant tu penses m'obliger,
 Tes consolations ne font que m'affliger.
@@ -914,8 +915,8 @@ Cache, cache les pleurs qui coulent sur ta face,
 Et ne t'oppose plus au bonheur que j'attends :
 Allons, Monsieur, allons, nous y serons à temps.
 
-
 **** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_GILFORT *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilfort
+
 
 Quoique le triste état où nos jours sont réduits
 Puisse en quelque façon excuser vos ennuis,
@@ -1141,8 +1142,8 @@ Je prendrai congé d'elle, adieu, Madame, adieu.
 
       Adieu, Madame.
 
-
 **** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_LEDUCDENORTHBELANT *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leducdenorthbelant
+
 
 Madame tout va mal.
 
@@ -1333,8 +1334,8 @@ Reconnais justement cette auguste clémence,
 Et comble les auteurs de mon dernier bonheur,
 De gloire, de plaisir, de repos, et d'honneur.
 
-
 **** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_LEDUCDENOLFOC *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leducdenolfoc
+
 
 Retiré par vos mains d'une prison barbare,
 J'éprouve le premier une bonté si rare,
@@ -1458,8 +1459,8 @@ Je crois qu'à ce moment elle a perdu le jour :
 Mais le comte d'Erby qui revient de la tour,
 Vous en peut mieux que tous apprendre la nouvelle.
 
-
 **** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_LECOMTEDECLOCESTRE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomtedeclocestre
+
 
 Invincibles Anglais, peuple jadis fidèle,
 Et maintenant ingrat, pardonnez à mon zèle,
@@ -1624,8 +1625,8 @@ A déploré tout haut le malheur de sa femme,
 Et témoigné pour elle une si vive ardeur,
 Qu'on a cru sur le champ qu'il mourait de douleur.
 
-
 **** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_LECOMTEDERBY *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomtederby
+
 
       Jugez-le par mes pleurs,
 Ma douleur sur mon front est assez manifeste,
@@ -1727,8 +1728,8 @@ Et ceux qui sont plus près entendent une voix,
 Qui murmure en mourant une basse parole,
 Le corps tombe sanglant, et son âme s'envole.
 
-
 **** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_LECOMTEDARONDEL *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomtedarondel
+
 
 Quand vous n'y seriez pas obligés de naissance
 Votre salut dépend de votre obéissance,
@@ -1747,8 +1748,20 @@ Je remène Monsieur, la Reine le veut voir.
 Madame vous pourrez le revoir aujourd'hui.
 Vous plaît-il de partir '
 
+**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_LEMARQUISDEVINCETRE *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquisdevincetre
+
+
+Ah ! C'est trop, je ne puis en souffrir davantage
+Et cette calomnie indignement outrage
+Ceux de qui l'innocence et les fidèles soins
+Se peuvent avérer par cent mille témoins.
+Je veux, Monsieur, je veux que tout le monde sache
+Que ma fidélité ne reçoit point de tache,
+Et que vous pourriez voir en une autre saison
+Si vous l'avez blessée avec peu de raison.
 
 **** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_ELEONOR *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eleonor
+
 
 Madame quelqu'un entre, et si j'ai bonne vue,
 C'est le Prince Gilfort, je ne suis point déçue.
@@ -1848,8 +1861,32 @@ Et qu'après son trépas je n'en jouirai plus.
 
       Juste ciel !
 
+**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_LECHANCELIER *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechancelier
+
+
+De par l'autorité Royale et souveraine,
+Et le commandement que j'en ai de la Reine,
+Très illustres Barons, je dirai devant vous
+Le sujet qui vous mène, et que vous savez tous.
+Le respect qui se doit à nos lois anciennes
+Oblige ce Royaume à conserver les siennes,
+Et les formalités qui des siècles plus vieux,
+Viennent de père en fils de nos premiers aïeux,
+Vous avez conservé soit en paix, soit en guerre
+Ce droit qui n'appartient qu'aux Barons d'Angleterre,
+De juger des Seigneurs de votre qualité,
+Même les criminels de lèse Majesté.
+Le Duc de Northbelant accusé de ce crime
+Doit recevoir de vous un arrêt légitime,
+Son fils est devant vous pour les mêmes excès,
+Et vous êtes ici pour faire leur procès :
+Mais parce que la loi que nous avons pour guide
+Commande qu'un de vous sur les autres préside,
+La Reine par ma bouche ordonne expressément
+Que le Duc de Nolfoc préside au jugement.
 
 **** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_LECAPITAINEDESGARDES *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecapitainedesgardes
+
 
 Je viens vous consoler d'une bonne nouvelle,
 Ne croyez pas, Monsieur, la Reine si cruelle,
@@ -1869,8 +1906,16 @@ Madame.
 Lisez-y ma pensée, et mon affliction.
 Madame on vous attend.
 
+**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_UNANGLAIS *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_unanglais
 
-**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_SOLDATS *date_1637 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_soldats
+
+Puisque je puis pour tous vous parler en ces termes,
+Nos résolutions sont entières et fermes :
+Seigneur quelque danger que nous puissions courir,
+Dans nos premiers devoirs nous voulons tous mourir.
+
+**** *creator_lacalprenede *book_lacalprenede_jeanne *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_jeanne *dist2_lacalprenede_verse_tragedy *id_SOLDATS *date_1637 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_soldats
+
 
 Ha ! Seigneur.
 
@@ -1884,4 +1929,3 @@ Et tous les carrefours sont remplis de soldats.
       On ne le nomme pas :
 Mais d'un commun accord tout le peuple s'écrie,
 Vive le sang Royal, et la Reine Marie.
-

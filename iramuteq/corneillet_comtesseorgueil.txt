@@ -2,6 +2,7 @@
 
 **** *creator_corneillet *book_corneillet_comtesseorgueil *style_verse *genre_comedy *dist1_corneillet_verse_comedy_comtesseorgueil *dist2_corneillet_verse_comedy *id_marquis *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marquis
 
+
 C'est de moy qu'on te parle ?
 
       Bon, Laquais,
@@ -1114,8 +1115,8 @@ A toy sur la criniére, à toy sur la moustache,
 Et pour l'achevement d'un malheur consommé,
 Qu'ils soient haïs par tout comme je suis aimé.
 
-
 **** *creator_corneillet *book_corneillet_comtesseorgueil *style_verse *genre_comedy *dist1_corneillet_verse_comedy_comtesseorgueil *dist2_corneillet_verse_comedy *id_chevalier *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chevalier
+
 
 Peut-estre que je viens mal à propos ?
 
@@ -1428,8 +1429,8 @@ Va, ne crains rien.
 
 Ce Valet est à moy, point de bruit, s'il vous plaist.
 
-
 **** *creator_corneillet *book_corneillet_comtesseorgueil *style_verse *genre_comedy *dist1_corneillet_verse_comedy_comtesseorgueil *dist2_corneillet_verse_comedy *id_oronte *date_1671 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
+
 
 J'ay pesté⁎ jusqu'icy contre le mariage,
 J'en tremble mesme encor lors que je l'envisage,
@@ -1590,8 +1591,8 @@ Ma Sœur ?
 
 Vous en voilà défaits.
 
-
 **** *creator_corneillet *book_corneillet_comtesseorgueil *style_verse *genre_comedy *dist1_corneillet_verse_comedy_comtesseorgueil *dist2_corneillet_verse_comedy *id_anselme *date_1671 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_anselme
+
 
 Dés mes plus jeunes ans un Chevalier de Malte
 M'aprit que quand l'honneur qu'on daigne nous faire…
@@ -1851,8 +1852,8 @@ Et c'est une Comtesse ! y peut-on rien comprendre ?
       Suy-nous,
 C'est moy qui dois payer, et je répons pour tous.
 
-
 **** *creator_corneillet *book_corneillet_comtesseorgueil *style_verse *genre_comedy *dist1_corneillet_verse_comedy_comtesseorgueil *dist2_corneillet_verse_comedy *id_olympe *date_1671 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_olympe
+
 
       Que dans tout l'entretien
 Vous avez écouté de grands diseurs de rien.
@@ -2253,8 +2254,8 @@ Virgine, promptement.
 
 Pour Monsieur le Marquis adverty ma Cousine.
 
-
 **** *creator_corneillet *book_corneillet_comtesseorgueil *style_verse *genre_comedy *dist1_corneillet_verse_comedy_comtesseorgueil *dist2_corneillet_verse_comedy *id_lucrece *date_1671 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_lucrece
+
 
 Ouy, car je viens de faire une visite à craindre,
 Et ma Cousine sçait…
@@ -2504,8 +2505,8 @@ Que vous épouserez la Comtesse.
 
 Pourquoy non ?
 
-
 **** *creator_corneillet *book_corneillet_comtesseorgueil *style_verse *genre_comedy *dist1_corneillet_verse_comedy_comtesseorgueil *dist2_corneillet_verse_comedy *id_virgine *date_1671 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_virgine
+
 
 Enfin c'est tout de bon vous estes mariée.
 
@@ -2980,8 +2981,8 @@ J'ay levé tout obstacle aux vœux du Chevalier.
 Quel present fera-t'on à la fausse Comtesse ?
 Il m'en faut un de nopce⁎, et des plus beaux.
 
-
 **** *creator_corneillet *book_corneillet_comtesseorgueil *style_verse *genre_comedy *dist1_corneillet_verse_comedy_comtesseorgueil *dist2_corneillet_verse_comedy *id_lyse *date_1671 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lyse
+
 
 J'attens de jour en jour Madame la Comtesse,
 Qui depuis près d'un mois absente de Paris
@@ -3143,8 +3144,8 @@ Qu'un Marquis d'un Bourgeois soit la dupe ?
 Auprés de ton Vieillard, pourveu qu'on te seconde,
 Les vœux du Chevalier pourront avoir effet.
 
-
 **** *creator_corneillet *book_corneillet_comtesseorgueil *style_verse *genre_comedy *dist1_corneillet_verse_comedy_comtesseorgueil *dist2_corneillet_verse_comedy *id_carlin *date_1671 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_carlin
+
 
 Quoy ? te trouver encor & seule & sans maîtresse⁎ ?
 
@@ -3453,4 +3454,3 @@ Ne voulant point entendre, il ne répondra pas.
       Monsieur.
 
       Moy ? je n'ay point de haste⁎.
-

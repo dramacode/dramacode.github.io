@@ -2,6 +2,7 @@
 
 **** *creator_corneillet *book_corneillet_bradamante *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bradamante *dist2_corneillet_verse_tragedy *id_LEON *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leon
 
+
 Madame, permettez pour la dernière fois
 Que je me plaigne à vous de vos injustes lois.
 Plus je touche au moment où j'y dois satisfaire,
@@ -352,8 +353,8 @@ Essayons de le vaincre en grandeur de courage.
 Quoi qu'un pareil triomphe ait pour moi de fatal,
 C'est ainsi que Léon se venge d'un rival.
 
-
 **** *creator_corneillet *book_corneillet_bradamante *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bradamante *dist2_corneillet_verse_tragedy *id_ROGER *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roger
+
 
 Oui, ma soeur, dans ses yeux j'ai vu toute la joie
 Qu'à revoir un Amant un tendre coeur déploie.
@@ -896,8 +897,8 @@ Si vous doutez encor de mon amour extrême,
 Madame, venez voir avec combien d'ardeur
 Je joins une Couronne à l'offre de mon coeur.
 
-
 **** *creator_corneillet *book_corneillet_bradamante *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bradamante *dist2_corneillet_verse_tragedy *id_BRADAMANTE *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_bradamante
+
 
 Donne à Roger des bornes à ton zèle,
 Tes soupçons lui font tort, il n'est point infidèle.
@@ -1293,8 +1294,8 @@ Roger aurait acquis la grandeur souveraine ?
 Par ce choix glorieux il vous doit être doux,
 Que d'un bonheur parfait...
 
-
 **** *creator_corneillet *book_corneillet_bradamante *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bradamante *dist2_corneillet_verse_tragedy *id_MARPHISE *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marphise
+
 
 Avouez-le, Madame, il faut de la constance
 Pour regarder le sceptre avec indifférence,
@@ -1498,8 +1499,8 @@ Sont venus le chercher, et l'ont mis en sa place.
 Non, ne m'en croyez pas, mais croyez-en le Roi.
 Il vous mande, on vous cherche, et j'ai voulu moi-même...
 
-
 **** *creator_corneillet *book_corneillet_bradamante *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bradamante *dist2_corneillet_verse_tragedy *id_DORALISE *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_doralise
+
 
 La valeur de Roger aux plus fiers redoutable,
 Pour vous toute Guerrière a pu le rendre aimable,
@@ -1589,8 +1590,8 @@ Et pour vous dans son coeur s'il m'est permis de lire,
 L'ennui qu'elle fait voir, ne se doit imputer...
 Mais Léon qui paraît m'oblige à vous quitter.
 
-
 **** *creator_corneillet *book_corneillet_bradamante *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bradamante *dist2_corneillet_verse_tragedy *id_ISMENE *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismene
+
 
 Après ce qu'elle a fait votre crainte m'étonne.
 Léon n'a pu lui faire accepter la couronne,
@@ -1611,8 +1612,8 @@ Quand elle aurait changé, sa faute est excusable.
 Par mille qualités Léon est estimable.
 Vous-même à leur éclat vous laissant éblouir...
 
-
 **** *creator_corneillet *book_corneillet_bradamante *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_bradamante *dist2_corneillet_verse_tragedy *id_TIMANTE *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_timante
+
 
       Roger, toujours le même,
 Après un long exil vient revoir ce qu'il aime.
@@ -1629,4 +1630,3 @@ Mais puisque Bradamante a reçu votre foi...
 Des Bulgares, dit-on, il résout l'alliance.
 Leurs Députés sur l'heure ont pressé l'audience,
 Et voulant en secret...
-

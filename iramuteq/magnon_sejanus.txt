@@ -2,6 +2,7 @@
 
 **** *creator_magnon *book_magnon_sejanus *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_sejanus *dist2_magnon_verse_tragedy *id_TIBERE *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tibere
 
+
 Corrompre mes soldats, et traiter une ligue !
 Dans Rome, moi présent, fomentez une brigue !
 Dangereux serviteur ! Esprit lâche et couvert !
@@ -305,8 +306,8 @@ Et telle pour le fils qu'ils avaient pour le père,
 Je te promets Livie, et jusqu'à ton retour
 Je prends confidemment, le soin de votre amour.
 
-
 **** *creator_magnon *book_magnon_sejanus *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_sejanus *dist2_magnon_verse_tragedy *id_DRUZE *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_druze
+
 
 Pourquoi, chère Fulvie, as-tu fait voir ma flamme ?
 Pourquoi lui montrais-tu les secrets de mon âme ?
@@ -551,8 +552,8 @@ Seigneur, Rome vous aime ?
 
 Ses conjurations ne sont plus animées,
 
-
 **** *creator_magnon *book_magnon_sejanus *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_sejanus *dist2_magnon_verse_tragedy *id_LIVIE *date_1645 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_livie
+
 
 Que mon sexe aura fait ce que n'ont pu des hommes,
 Et que leur lâcheté me donna lieu d'agir.
@@ -919,8 +920,8 @@ Il perd cent Innocents pour trouver un coupable.
 
 Votre salut voulait ce nombre de victimes.
 
-
 **** *creator_magnon *book_magnon_sejanus *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_sejanus *dist2_magnon_verse_tragedy *id_FULVIE *date_1645 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fulvie
+
 
 Notre unique remède, est de toujours souffrir,
 La douleur qu'on évente, est au point de s'aigrir.
@@ -989,8 +990,8 @@ Une seule Livie, a mérité ce nom.
 
 Dieux ! Elle vient à nous ; quel est son mouvement ?
 
-
 **** *creator_magnon *book_magnon_sejanus *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_sejanus *dist2_magnon_verse_tragedy *id_SEJAN *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sejan
+
 
       Et bien, chère complice,
 La Fortune et les Dieux secondent nos désirs,
@@ -1350,8 +1351,8 @@ C'est dans l'extrémité que paraît la vertu.
       Oui, Macron, c'est trop vivre,
 Cher Térence, ma femme, et toi ma fille, adieu.
 
-
 **** *creator_magnon *book_magnon_sejanus *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_sejanus *dist2_magnon_verse_tragedy *id_APICATA *date_1645 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_apicata
+
 
 Non, non, Séjan, arrête ? Et ne crains rien de moi ?
 Je viens autoriser ton manquement de foi ;
@@ -1601,8 +1602,8 @@ Moins pour nous que pour lui j'implore vos bontés.
 
       Ah ! Partout c'est la mort ?
 
-
 **** *creator_magnon *book_magnon_sejanus *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_sejanus *dist2_magnon_verse_tragedy *id_VOLUZIE *date_1645 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_voluzie
+
 
 Seigneur, à tant de voix serez-vous insensible ;
 La Nature vous parle, et l'honneur, et la foi.
@@ -1673,8 +1674,8 @@ Où, le retrouvez-vous ?
 
 Je me jette à vos pieds.
 
-
 **** *creator_magnon *book_magnon_sejanus *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_sejanus *dist2_magnon_verse_tragedy *id_TERENCE *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_terence
+
 
 Je vous viens affliger, par de tristes nouvelles.
 
@@ -1913,8 +1914,8 @@ Vis, vis, cruel Tibère.
       Ah ! Tu veux que je vive ?
 Je mourrai malgré toi.
 
-
 **** *creator_magnon *book_magnon_sejanus *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_sejanus *dist2_magnon_verse_tragedy *id_MACRON *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_macron
+
 
 Ah ! César, mille fois je te l'ai fait paraître,
 Et telle qu'un sujet la conserve à son Maître.
@@ -1935,8 +1936,8 @@ Ah ! Seigneur, dépêchons.
 
 En vain sans mon secours il aurait combattu.
 
-
 **** *creator_magnon *book_magnon_sejanus *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_sejanus *dist2_magnon_verse_tragedy *id_REGULUS *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_regulus
+
 
       Seigneur.
 
@@ -1956,4 +1957,3 @@ Et du seuil du Palais je l'avais entendu
 Quand votre Majesté m'y vit tout éperdu.
 
       Qui l'aurait pu prévoir ?
-

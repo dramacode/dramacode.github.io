@@ -2,6 +2,7 @@
 
 **** *creator_pradon *book_pradon_mortdebajazet *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_mortdebajazet *dist2_pradon_verse_tragedy *id_TAMERLAN *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tamerlan
 
+
 Prince, j'ai vu les Grecs, et leurs Ambassadeurs
 Ont remis dans mes mains leur Empire et leurs coeurs :
 Mais quand pour tout objet on regarde la gloire,
@@ -446,8 +447,8 @@ Elle peut à son gré terminer votre sort,
 Araxide et ma gloire exigent cet effort,
 Je l'épouse, et je pars.
 
-
 **** *creator_pradon *book_pradon_mortdebajazet *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_mortdebajazet *dist2_pradon_verse_tragedy *id_BAJAZET *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bajazet
+
 
       C'est à vous Sans doute à qui je dois
 Ce peu de liberté, Seigneur, où je me vois.
@@ -739,8 +740,8 @@ Qui m'enlève à ta vie, et m'arrache à ta honte,
 Console-toi, ma Fille, et malgré ta douleur
 Souviens-toi que ton père expire en Empereur.
 
-
 **** *creator_pradon *book_pradon_mortdebajazet *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_mortdebajazet *dist2_pradon_verse_tragedy *id_ASTERIE *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_asterie
+
 
 Il m'apprend que la Cour est pleine d'allégresse,
 Que l'heureux Andronic va régner dans la Grèce,
@@ -1288,8 +1289,8 @@ Ah ! Laisse-moi, Tyran, expirer de douleur !
 Tu perds tout aujourd'hui, malheureuse Astérie,
 Et pour dernier malheur il te reste la vie.
 
-
 **** *creator_pradon *book_pradon_mortdebajazet *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_mortdebajazet *dist2_pradon_verse_tragedy *id_ANDRONIC *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_andronic
+
 
 Enfin, Léon, tu vois cette grande journée
 Qui doit de Tamerlan éclairer l'hyménée ;
@@ -1774,8 +1775,8 @@ Seigneur, pour des bonté qui passent l'espérance...
 Ciel ! Pouvais-je espérer en ce funeste jour
 Que la gloire rangeât la Nature et l'Amour.
 
-
 **** *creator_pradon *book_pradon_mortdebajazet *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_mortdebajazet *dist2_pradon_verse_tragedy *id_LEON *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leon
+
 
 Je l'espère, Seigneur, la superbe Byzance,
 Après tant de fureurs, rentre en l'obéissance ;
@@ -1846,8 +1847,33 @@ Cependant Tamerlan pour le prix de sa vie
 Va malgré lui peut-être épouser Astérie,
 Tout le Camp est surpris d'un si grand changement.
 
+**** *creator_pradon *book_pradon_mortdebajazet *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_mortdebajazet *dist2_pradon_verse_tragedy *id_TAMUR *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tamur
+
+
+Seigneur, exactement je vais vous en instruire.
+Il m'a mandé lui-même, et j'ai couru soudain
+Par votre ordre, en entrant il m'a donné la main,
+Un air plus satisfait brillait sur son visage,
+Qui semblait en bannir la fureur et la rage,
+La douceur et la paix y régnaient à leur tour :
+Je veux voir votre maître avant la fin du jour,
+( M'a-t-il dit ) je suis las de souffrir tant de peine,
+Il faut sortir des fers, et finir notre haine,
+Allez, et que je voie Astérie avec lui.
+
+Mais, Seigneur, Andronic épousant Araxide,
+Vous n'auriez plus le nom d'ingrat et de perfide,
+Ce Prince...
+
+N'en doutez point, Seigneur, Bajazet étonné
+Se lasse de se voir captif, infortuné ;
+Pour sauver le débris de sa triste famille,
+Il veut sortir des fers en vous donnant sa fille ;
+N'a-t-il pas fait entendre un si juste projet,
+Lorsque...
 
 **** *creator_pradon *book_pradon_mortdebajazet *style_verse *genre_tragedy *dist1_pradon_verse_tragedy_mortdebajazet *dist2_pradon_verse_tragedy *id_ZAIDE *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zaide
+
 
 Il vient de me parler ; son désordre, Madame,
 M'a fait assez connaître le trouble de son âme ;
@@ -1887,4 +1913,3 @@ Dans ces cruels soupçons, je ne vois rien à craindre,
 En faveur d'Araxide il saura se contraindre,
 Et ce superbe coeur politique et jaloux,
 Doit par trop de raison se dégager de vous.
-

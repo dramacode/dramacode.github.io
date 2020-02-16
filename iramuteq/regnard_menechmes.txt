@@ -2,6 +2,7 @@
 
 **** *creator_regnard *book_regnard_menechmes *style_verse *genre_comedy *dist1_regnard_verse_comedy_menechmes *dist2_regnard_verse_comedy *id_APOLLON *date_1705 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
 
+
 Ah ! Dieu vous gard', seigneur Mercure.
 Par quelle agréable aventure
 Vous voit-on au sacré vallon ?
@@ -86,8 +87,8 @@ Et qui fut applaudi dans Rome.
 Et moi, je vais commencer ma carrière,
 Et rendre au monde son éclat.
 
-
 **** *creator_regnard *book_regnard_menechmes *style_verse *genre_comedy *dist1_regnard_verse_comedy_menechmes *dist2_regnard_verse_comedy *id_MERCURE *date_1705 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+
 
 Honneur au seigneur Apollon.
 
@@ -228,8 +229,8 @@ C'est payer trop, en vérité,
 Quelques moments de complaisance ;
 Mais un dieu doit user de générosité.
 
-
 **** *creator_regnard *book_regnard_menechmes *style_verse *genre_comedy *dist1_regnard_verse_comedy_menechmes *dist2_regnard_verse_comedy *id_PLAUTE *date_1705 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_plaute
+
 
 Il est vrai. Mais enfin, quelque amour qui vous guide,
 Les dons qu'aux beaux esprits prodigue votre main
@@ -294,8 +295,8 @@ Le sujet qu'il a pris
 Divertit autrefois un peuple difficile ;
 Et peut-être aura-t-il même sort à Paris.
 
-
 **** *creator_regnard *book_regnard_menechmes *style_verse *genre_comedy *dist1_regnard_verse_comedy_menechmes *dist2_regnard_verse_comedy *id_DEMOPHON *date_1705 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_demophon
+
 
       Bonjour, ma soeur.
 
@@ -510,8 +511,8 @@ Puisqu'un coup du hasard vous met dans ma famille.
 Je voulais un Ménechme : en lui donnant la main,
 Vous ne changerez rien à mon premier dessein.
 
+**** *creator_regnard *book_regnard_menechmes *style_verse *genre_comedy *dist1_regnard_verse_comedy_menechmes *dist2_regnard_verse_comedy *id_ISABELLE *date_1705 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_isabelle
 
-**** *creator_regnard *book_regnard_menechmes *style_verse *genre_comedy *dist1_regnard_verse_comedy_menechmes *dist2_regnard_verse_comedy *id_ISABELLE *date_1705 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_isabelle
 
       Que voulez-vous, mon père ?
 
@@ -604,8 +605,8 @@ Puisque vous m'accordez le choix qui se présente,
 Portée également de l'une et l'autre part,
 Je prends monsieur : il faut en courir le hasard.
 
+**** *creator_regnard *book_regnard_menechmes *style_verse *genre_comedy *dist1_regnard_verse_comedy_menechmes *dist2_regnard_verse_comedy *id_ARAMINTE *date_1705 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_araminte
 
-**** *creator_regnard *book_regnard_menechmes *style_verse *genre_comedy *dist1_regnard_verse_comedy_menechmes *dist2_regnard_verse_comedy *id_ARAMINTE *date_1705 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_araminte
 
 Nous reverrons Ménechme aujourd'hui : quelle joie !
 Je ne puis demeurer en place, ni chez moi.
@@ -816,8 +817,8 @@ Mais, en me mariant, votre attente est déçue.
 Oui, je l'épouserai, pour me venger de vous,
 Lui donner tout mon bien, et vous désoler tous.
 
-
 **** *creator_regnard *book_regnard_menechmes *style_verse *genre_comedy *dist1_regnard_verse_comedy_menechmes *dist2_regnard_verse_comedy *id_FINETTE *date_1705 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_finette
+
 
       Charmante.
 Votre beauté surprend, ravit, enlève, enchante.
@@ -1081,8 +1082,8 @@ Mais je crains?
 
       De faire une folie.
 
-
 **** *creator_regnard *book_regnard_menechmes *style_verse *genre_comedy *dist1_regnard_verse_comedy_menechmes *dist2_regnard_verse_comedy *id_VALENTIN *date_1705 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valentin
+
 
 Quant à présent, monsieur, je ne vous puis rien dire ;
 Un moment, s'il vous plaît, souffrez que je respire :
@@ -1736,8 +1737,8 @@ De myrte et de laurier je vais ceindre ma tête :
 Mais si je méritais vos applaudissements,
 Ce jour mettrait le comble à mes contentements.
 
-
 **** *creator_regnard *book_regnard_menechmes *style_verse *genre_comedy *dist1_regnard_verse_comedy_menechmes *dist2_regnard_verse_comedy *id_ROBERTIN *date_1705 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_robertin
+
 
 Je vois avec plaisir toute la compagnie,
 Dans un jour plein de joie, en ce lieu réunie.
@@ -1808,8 +1809,8 @@ Et j'ai du testateur suivi l'intention.
 Il laisse à son neveu cette succession :
 Monsieur l'est comme vous ; vous n'avez rien à dire.
 
-
 **** *creator_regnard *book_regnard_menechmes *style_verse *genre_comedy *dist1_regnard_verse_comedy_menechmes *dist2_regnard_verse_comedy *id_MONSIEURCOQUELET *date_1705 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurcoquelet
+
 
 De mon petit devoir humblement je m'acquitte
 J'ai, ce matin, monsieur, appris votre retour,
@@ -1870,4 +1871,3 @@ Je veux être payé ; je me moque du reste.
 Oui, je pars : mais peut-être, avant qu'il soit une heure,
 Je lui ferai changer de ton et de demeure.
 Serviteur.
-

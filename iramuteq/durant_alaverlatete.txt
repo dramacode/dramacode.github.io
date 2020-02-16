@@ -1,6 +1,19 @@
 
 
+**** *creator_durant *book_durant_alaverlatete *style_prose *genre_proverbe *dist1_durant_prose_proverbe_alaverlatete *dist2_durant_prose_proverbe *id_LEVICOMTE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levicomte
+
+
+Ils ne me coûtent rien, mes volants ; c'est mon père qui me les donne : quand j'ai de l'argent je le garde bien.
+
+Et tant mieux, tant mieux, voilà ce que je demande ; je n'aurai plus que mon laquais Petit-Jean auprès de moi ; je courrai avec lui dans le jardin, et je n'entendrai plus de choses que je ne saurais comprendre.
+
+**** *creator_durant *book_durant_alaverlatete *style_prose *genre_proverbe *dist1_durant_prose_proverbe_alaverlatete *dist2_durant_prose_proverbe *id_MONSIEURLECOMTE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurlecomte
+
+
+Saluez, Mademoiselle, mon fils, et tâchez à le faire de bonne grâce.
+
 **** *creator_durant *book_durant_alaverlatete *style_prose *genre_proverbe *dist1_durant_prose_proverbe_alaverlatete *dist2_durant_prose_proverbe *id_MONSIEURDEFORMONT *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdeformont
+
 
 Oh, pour moi, monsieur Pedanta, qui n'ai que des sentiments de galant homme à inspirer, je ne puis manquer de réussir : il suffit d'être gentilhomme, pour se laisser insinuer doucement qu'il faut avoir de la valeur, de la droiture un air poli ; il ne faut pas grand esprit pour tout cela ; aussi, grâces au ciel, me gardai-je bien d'y prétendre. C'est un triste métier, Monsieur Pedanta, que celui de passer sa vie sur des livres, ou faire son unique étude, d'arranger de malheureuses périodes, qui bien souvent ne font qu'ennuyer les honnêtes gens.
 
@@ -18,8 +31,13 @@ Comment, Monsieur, je ne vous ai pas appris qu'un gentilhomme en France est dés
 
 Pour moi, Monsieur, je suis honteux de ce dernier trait de Monsieur le Vicomte ! Je vous avoue que je n'espère plus rien de mes leçons ; mais je n'ai rien à me reprocher, et la nature seule est coupable de ses défauts.
 
+**** *creator_durant *book_durant_alaverlatete *style_prose *genre_proverbe *dist1_durant_prose_proverbe_alaverlatete *dist2_durant_prose_proverbe *id_MADEMOISELLEDEMERIS *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoiselledemeris
+
+
+Les volontés d'un père mourant doivent passer pour des lois : le mien avait pour vous, Monsieur, une amitié si sincère, qu'il ne consulta point mon choix ; et trop content de faire une alliance avec vous, il me promit à monsieur votre fils, sans oser douter de son mérite, parce qu'il avait l'honneur de vous appartenir. Je me soumis volontiers à l'ordre qu'il me donna de le regarder comme un époux. Vous savez que je n'ai rien oublié pour démêler une ombre de raison dans un homme à qui je devais être liée : jusqu'ici je l'ai fait inutilement ; je viens faire une dernière tentative. Si elle ne me réussit pas mieux que les autres, je vous prierai de me rendre ma parole.
 
 **** *creator_durant *book_durant_alaverlatete *style_prose *genre_proverbe *dist1_durant_prose_proverbe_alaverlatete *dist2_durant_prose_proverbe *id_MARINETTE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marinette
+
 
 Monsieur le Vicomte a raison : il n'est rien tel que de tenir une raquette. Bon, vous lui parlez de mariage, de beauté, de possession, et ce n'est encore qu'un petit mièvre. Il est vrai qu'il a vingt ans, et qu'il est haut comme le plancher, mais il a l'esprit fort jeune, et il sera assez fin pour l'avoir longtemps ainsi.
 
@@ -28,4 +46,3 @@ Le pauvre enfant ! Le volant lui tient au cour ; ce sera sa plus grande dépense
 Autre belle inclination ! Je vous assure que ce jeune seigneur a un mérite fort complet, Mademoiselle : dépêchez-vous d'en faire votre mari, je vous garantis du remords, s'il prend envie de lui donner un camarade ; c'est toujours une commodité.
 
 Oh bien, Monsieur le Vicomte, le cour ne vous saigne-t-il point à ces reproches ? Monsieur votre père cesse de vous aimer, votre gouverneur vous méprise, votre précepteur vous déteste, votre maîtresse vous abandonne ; vous allez rester en mauvaise compagnie, au moins, car vous serez tout seul, et...
-

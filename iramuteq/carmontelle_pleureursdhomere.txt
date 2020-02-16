@@ -2,6 +2,7 @@
 
 **** *creator_carmontelle *book_carmontelle_pleureursdhomere *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_pleureursdhomere *dist2_carmontelle_prose_proverbe *id_MONSIEURDESGRAIS *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdesgrais
 
+
 Bonjour, Monsieur Delépine. Comment vous va aujourd'hui ?
 
 Qu'est-ce que vous avez donc ?
@@ -74,8 +75,8 @@ Oui, quand vous êtes arrivés, hé , hé, hé !
 
 À l'épopée !
 
-
 **** *creator_carmontelle *book_carmontelle_pleureursdhomere *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_pleureursdhomere *dist2_carmontelle_prose_proverbe *id_MONSIEURDELEPINE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdelepine
+
 
 Ah, Monsieur Desgrais, je ne vous voyais pas.
 
@@ -144,8 +145,8 @@ Nous en étions à l'épopée , hé, hé , hé !
 
 Très volontiers, je ne demande pas mieux.
 
-
 **** *creator_carmontelle *book_carmontelle_pleureursdhomere *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_pleureursdhomere *dist2_carmontelle_prose_proverbe *id_MONSIEURDUCHESNE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurduchesne
+
 
 Eh, mes amis, qu'est-ce qui vous est donc arrivé ?
 
@@ -199,8 +200,8 @@ Hé bien, voilà trois livres ou rien.
 
 Monsieur Delépine, voulez-vous venir aux Tuilleries , pour nous dissiper un peu, nous en avons besoin.
 
-
 **** *creator_carmontelle *book_carmontelle_pleureursdhomere *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_pleureursdhomere *dist2_carmontelle_prose_proverbe *id_MADAMERAMAS *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameramas
+
 
 Messsieurs, achetez de mes beaux mouchoirs.
 
@@ -215,4 +216,3 @@ Mais, Monsieur, vous ne me le laisserez pas ?
 Mais, Monsieur, vous l'avez sali.
 
 Mais, Monsieur, Monsieur ?
-

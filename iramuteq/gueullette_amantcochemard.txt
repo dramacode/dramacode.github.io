@@ -2,6 +2,7 @@
 
 **** *creator_gueullette *book_gueullette_amantcochemard *style_verse *genre_parade *dist1_gueullette_verse_parade_amantcochemard *dist2_gueullette_verse_parade *id_LEANDRE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
 
+
 Mamesel, entrerai-je ?
 
 Mais...
@@ -39,8 +40,8 @@ Je m'appelle Liandre, he bien zon s'épousra.
 Monsieur j'en suis bien aise, et vous fais compliment.
 Je vous le faits encor plus agriablement.
 
-
 **** *creator_gueullette *book_gueullette_amantcochemard *style_verse *genre_parade *dist1_gueullette_verse_parade_amantcochemard *dist2_gueullette_verse_parade *id_ISABELLE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
 
 Arlequin z'il est vrai, gna pas t'à tortiller,
 Je prétends voir Liandre, à gogo lui parier.
@@ -100,8 +101,8 @@ Monsieur en est croyable.
 
       Queul évenment étrange !
 
-
 **** *creator_gueullette *book_gueullette_amantcochemard *style_verse *genre_parade *dist1_gueullette_verse_parade_amantcochemard *dist2_gueullette_verse_parade *id_GILLES *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gilles
+
 
 Qu'eu magnere est ce donc ça ? On me laisse en la rue.
 Mais à qui en veut stici.
@@ -198,8 +199,8 @@ Me nouit l'aiguillet'.
 Liandre, elle est à vous. Allons aux Porcherons,
 Je serons tous contents, je nous y soûlerons.
 
-
 **** *creator_gueullette *book_gueullette_amantcochemard *style_verse *genre_parade *dist1_gueullette_verse_parade_amantcochemard *dist2_gueullette_verse_parade *id_ARLEQUIN *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+
 
 Ly parler da ! L'autr' jour vous ly parliez, la peste !
 J' n'entendais pas les mots, je voyais ben le geste.
@@ -274,4 +275,3 @@ Laissez faire Liandre, oh queux maître garçon !
       Je déniche.
 
 Oui.
-

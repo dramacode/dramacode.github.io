@@ -2,6 +2,7 @@
 
 **** *creator_boissy *book_boissy_babillard *style_verse *genre_comedy *dist1_boissy_verse_comedy_babillard *dist2_boissy_verse_comedy *id_LEANDRE *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
 
+
 Non, rien n'est plus piquant que de courir, d'aller,
 Sans rencontrer personne à qui pouvoir parler.
 Quand on trouve les gens, on raisonne, l'on cause,
@@ -358,8 +359,8 @@ Si je vous déplais, au contraire,
 Retirez-vous sans dire mot,
 N'imitez pas mon caractère.
 
-
 **** *creator_boissy *book_boissy_babillard *style_verse *genre_comedy *dist1_boissy_verse_comedy_babillard *dist2_boissy_verse_comedy *id_VALERE *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+
 
       J'attends le moment favorable,
 Et vous trouve, monsieur, parleur fort agréable.
@@ -413,8 +414,8 @@ Et qu'il va tenir tête au caquet de six femmes.
 
 Vous serez de ma noce.
 
-
 **** *creator_boissy *book_boissy_babillard *style_verse *genre_comedy *dist1_boissy_verse_comedy_babillard *dist2_boissy_verse_comedy *id_CLARICE *date_1745 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clarice
+
 
 Je sors d'avec Léandre : ah ! Quel homme ennuyeux!
 Je n'en puis plus, je sens un mal de tête affreux :
@@ -478,8 +479,8 @@ D'un hymen pour lequel j'ai de la répugnance.
       Ami, maîtresse, affaire.
 Vous perdez tout, monsieur, pour n'avoir su vous taire.
 
+**** *creator_boissy *book_boissy_babillard *style_verse *genre_comedy *dist1_boissy_verse_comedy_babillard *dist2_boissy_verse_comedy *id_CEPHISE *date_1745 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_cephise
 
-**** *creator_boissy *book_boissy_babillard *style_verse *genre_comedy *dist1_boissy_verse_comedy_babillard *dist2_boissy_verse_comedy *id_CEPHISE *date_1745 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_cephise
 
 Elle vous sied.
 
@@ -545,8 +546,8 @@ Je n'avais pas alors l'honneur de vous connaître,
 Et je ne savais pas que vous étiez enfin
 Arrière petit-fils du célèbre Martin.
 
-
 **** *creator_boissy *book_boissy_babillard *style_verse *genre_comedy *dist1_boissy_verse_comedy_babillard *dist2_boissy_verse_comedy *id_DAPHNE *date_1745 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_daphne
+
 
 Quoi ! vous vous mariez, et ne m'en dites rien.
 À moi, votre voisine ! Oh ! cela n'est pas bien.
@@ -585,8 +586,8 @@ Défendez-vous.
 
       Moi, je crève de rire.
 
-
 **** *creator_boissy *book_boissy_babillard *style_verse *genre_comedy *dist1_boissy_verse_comedy_babillard *dist2_boissy_verse_comedy *id_HORTENSE *date_1745 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hortense
+
 
 C'est un bruit que lui-même a grand soin de répandre
 Ce n'est plus un secret.
@@ -609,8 +610,8 @@ Et je vous avouerai que je l'ai méconnue.
       C'est un mal de famille.
 Fuyons ; sauve qui peut.
 
-
 **** *creator_boissy *book_boissy_babillard *style_verse *genre_comedy *dist1_boissy_verse_comedy_babillard *dist2_boissy_verse_comedy *id_ISMENE *date_1745 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismene
+
 
       J'aime cette façon.
 
@@ -627,8 +628,8 @@ Vous détruisez, monsieur, tout ce que j'avais fait.
 
 Que monsieur est un sot. J'abandonne la place.
 
-
 **** *creator_boissy *book_boissy_babillard *style_verse *genre_comedy *dist1_boissy_verse_comedy_babillard *dist2_boissy_verse_comedy *id_MELITE *date_1745 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melite
+
 
 Elle est toujours au bal, c'est là sa passion.
 
@@ -672,8 +673,8 @@ Si vous voulez mander...
       Oh ! Laquelle, lequel,
 Je n'y puis plus tenir.
 
-
 **** *creator_boissy *book_boissy_babillard *style_verse *genre_comedy *dist1_boissy_verse_comedy_babillard *dist2_boissy_verse_comedy *id_DORIS *date_1745 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_doris
+
 
 Je suis en négligé.
 
@@ -717,8 +718,8 @@ Je ne pourrais jamais me résoudre à partir.
 
 Qu'une nazarde... Mais il vaut mieux que je quitte.
 
-
 **** *creator_boissy *book_boissy_babillard *style_verse *genre_comedy *dist1_boissy_verse_comedy_babillard *dist2_boissy_verse_comedy *id_NERINE *date_1745 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
+
 
       Il fallait, sans façon,
 Lui donner son congé. Si j'avais été crue,
@@ -858,3 +859,9 @@ De Quimper-Corentin Valère est gouverneur.
 
 Monsieur le gouverneur, je vous baise les mains.
 
+**** *creator_boissy *book_boissy_babillard *style_verse *genre_comedy *dist1_boissy_verse_comedy_babillard *dist2_boissy_verse_comedy *id_LAFLEUR *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafleur
+
+
+Monsieur l'abbé m'envoie; il vous attend.
+
+Monsieur, il va sortir ; dépêchez.

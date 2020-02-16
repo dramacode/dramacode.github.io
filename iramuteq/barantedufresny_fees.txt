@@ -1,6 +1,18 @@
 
 
-**** *creator_barantedufresny *book_barantedufresny_fees *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_fees *dist2_barantedufresny_verse_comedy *id_ISMENIE *date_1697 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_ismenie
+**** *creator_barantedufresny *book_barantedufresny_fees *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_fees *dist2_barantedufresny_verse_comedy *id_CROQUIGNOLET *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_croquignolet
+
+
+Le conseil d'un vieux Barbon
+Est toujours bon,
+Est toujours bon,
+Mais en fait de mariage,
+Une fille de votre âge,
+En sait plus, ma foi,
+Qu'un Père comme moi.
+
+**** *creator_barantedufresny *book_barantedufresny_fees *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_fees *dist2_barantedufresny_verse_comedy *id_ISMENIE *date_1697 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_ismenie
+
 
 Ô mort, funeste mort, ne viendras-tu pas finir le triste cours de mes infortunes ? Mais que vois-je, Octave ? Ah ! Octave, mon cher Prince, est-ce vous ?
 
@@ -20,8 +32,8 @@ Ah, mon Prince !
 
 C'est mon père.
 
+**** *creator_barantedufresny *book_barantedufresny_fees *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_fees *dist2_barantedufresny_verse_comedy *id_OCTAVE *date_1697 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_octave
 
-**** *creator_barantedufresny *book_barantedufresny_fees *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_fees *dist2_barantedufresny_verse_comedy *id_OCTAVE *date_1697 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_octave
 
 Adieu, mon enfant, je te remercie.
 
@@ -41,8 +53,8 @@ Ah, ma Princesse !
 
 Mais il faudrait le consentement du Roi Croquignolet son père.
 
-
 **** *creator_barantedufresny *book_barantedufresny_fees *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_fees *dist2_barantedufresny_verse_comedy *id_ARLEQUIN *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+
 
 Ohimé ! Je ne sais où je suis ? Je viens de rouler de ce Rocher en bas ; où trouverai-je mon Maître ?
 
@@ -142,8 +154,32 @@ Nous changeons
 En bonnes pistoles
 Nos gaies chansons.
 
+**** *creator_barantedufresny *book_barantedufresny_fees *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_fees *dist2_barantedufresny_verse_comedy *id_LANOURRICE *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lanourrice
+
+
+Madame, écoutez-moi, s'il vous plaît. Il était une fois un Prince nommé Brutalin, il avait une fille qui s'appelait Pétille : or Pétille voulait se marier, parce qu'elle en avait envie, et elle disait toujours tout ci tout ça, par ci par là, je suis déjà grande, ma mère le fut, je voudrais bien l'être. Or Brutalin avait pris la Principauté d'un autre Prince qui s'appelait Bonbenin Bonbenêt Bonbeninguet. Bonbeningueutte sa femme, en fut si fâchée qu'elle en mourut de douleur en accouchant, et Bonbeninguet prit le Poupard entre ses bras, et s'en alla dans un bois en pleurant. Il y trouva une vieille fée, qui lui dit en marmottant, Bonbenin Bonbenêt, Bonbeninguet, donne-moi ton poupard, et dans neuf mois d'ici je te ferai trouver ta Principauté, une belle fille, et ton poupard encore avec. Bonbeninguet lui donna le poupard, et la Fée le rendit si petit, si petit, qu'elle le fit entrer dans un œuf de poulette par le trou d'une aiguille, et puis elle porta cet œuf à la belle Pétille, en lui disant : Ma belle Pétille, prends cet œuf de poulette, et porte-le neuf mois dans ton sein sans le casser ; quand tu l'auras porté neuf mois dans ton sein, tu t'en iras dans le jardinet de ton père, et tu chanteras ce refrain.
+Plutôt que plus tard
+Pétille veut l'être,
+Plutôt que plus tard.
+Si bien donc que Pétille s'en alla dans le jardinet de son père chanter.
+Plutôt que plus tard
+Pétille veut l'être,
+Plutôt que plus tard.
+Et Brutalin son père qui était à la fenêtre, disait de son côté :
+Vaut mieux tard que jamais,
+Dans cent ans tu auras le benêt,
+Vaut mieux tard que jamais,
+Or Brutalin fit un grand Bal où il convia tous ceux qui la demandaient en mariage. La Fée y amena Bonbeninguet déguisé en invisible ; et la première chose qu'il fit, fut d'aller batifoler à l'entour du sein de Pétille, qui se mit à dire ; Fi donc, ôtez-vous de là, arrêtez-vous, vous casserez mon œuf. Tant y a que l'œuf cassa, et une coquille piqua le sein de Pétille qui se mit à crier, ahi, ahi, ahi ! Et le Poupard en sortit, qui cria de son côté, eh, eh, eh, eh !
+Les Épouseurs dirent tous : Je n'en veux plus, je n'en veux plus. Brutalin rendit le Royaume à Bonbeninguet qui reconnut le Poupard, et épousa Pétille. On rit, on dansa, et Bonbeninguet chanta cette chanson :
+Bonbeninguet a dit : le Poupard est à moi.
+Les railleurs ont dit : ah, ah, ah, je le crois !
+Messieurs les railleurs, pareil cas vous est hoc,
+Et pis encore,
+Car tel de vous voit l'œuf éclore,
+Dont il ne fut jamais le Coq.
 
 **** *creator_barantedufresny *book_barantedufresny_fees *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_fees *dist2_barantedufresny_verse_comedy *id_LAFEE *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lafee
+
 
 Arrêtez, malheureux, arrêtez.
 
@@ -191,8 +227,8 @@ Nous changeons
 Les vieilles Coquettes
 En jeunes tendrons.
 
-
 **** *creator_barantedufresny *book_barantedufresny_fees *style_verse *genre_comedy *dist1_barantedufresny_verse_comedy_fees *dist2_barantedufresny_verse_comedy *id_PIERROT *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+
 
 Hé bien, Monsieur, ne vous ai-je pas bien conduit ? La Fée qui m'a chargée de vous mener, m'a ordonné de vous laisser ici. Vous y serez fort bien, et vous n'y manquerez que de quoi boire et manger ; mais vous faites métier de Héros de Roman, et vous savez bien qu'il n'y a jamais eu d'Étape pour la nourriture des héros de Roman. Adieu, Monsieur.
 
@@ -205,4 +241,3 @@ N'avez-vous plus rien à me dire ? Je m'en vais, au moins.
 Grand merci, Monsieur.
 
 Oh, c'est de la main gauche. Bonsoir, Monsieur.
-

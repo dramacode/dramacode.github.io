@@ -2,6 +2,7 @@
 
 **** *creator_rotrou *book_rotrou_venceslas *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_venceslas *dist2_rotrou_verse_tragedy *id_LEROI *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
 
+
 Prenez un siège, Prince, et vous infant, sortez.
 
 Sortez, vous dis-je. Et vous, Gardes, qu'on se retire.
@@ -533,8 +534,8 @@ Et dans sa sépulture, enfermer nos tristesses ;
 Vous, faites-moi vivant, louer mon successeur,
 Et voir de ma couronne, un digne possesseur.
 
-
 **** *creator_rotrou *book_rotrou_venceslas *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_venceslas *dist2_rotrou_verse_tragedy *id_LEPRINCE *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leprince
+
 
 Que me désirez-vous ?
 
@@ -1234,8 +1235,8 @@ Si je n'obtient au moins, permettez que j'espère,
 Tant de soumissions, lasseront vos mépris,
 Qu'enfin de mon amour, vos voux seront le prix.
 
-
 **** *creator_rotrou *book_rotrou_venceslas *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_venceslas *dist2_rotrou_verse_tragedy *id_ALEXANDRE *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alexandre
+
 
 J'aurai le tort, Seigneur, si vous ne m'écoutez.
 
@@ -1386,8 +1387,8 @@ Quand vous m'aurez commis une femme à défendre,
 Et quand ouvertement, en qualité d'époux,
 Mon devoir m'enjoindra de répondre de vous.
 
-
 **** *creator_rotrou *book_rotrou_venceslas *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_venceslas *dist2_rotrou_verse_tragedy *id_LEDUC *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leduc
+
 
 Pour lui prouver, à quoi, mon zèle me convie,
 Je voudrais perdre encore, et le sang, et la vie.
@@ -1654,8 +1655,8 @@ M'a de sa servitude, interdit la licence.
 C'est à ce prix, Seigneur, qu'aspirait mon crédit !
 Et vous me le rendez, me l'ayant interdit.
 
-
 **** *creator_rotrou *book_rotrou_venceslas *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_venceslas *dist2_rotrou_verse_tragedy *id_OCTAVE *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_octave
+
 
 Ô Dieux ! Ne sauriez-vous, cacher mieux votre haine.
 
@@ -1696,8 +1697,8 @@ Jamais sédition, ne fut plus disposée ;
 En vain pour y mettre ordre, et pour les contenir,
 J'ai voulu...
 
-
 **** *creator_rotrou *book_rotrou_venceslas *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_venceslas *dist2_rotrou_verse_tragedy *id_CASSANDRE *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cassandre
+
 
 Non, je ne puis souffrir, en quelque rang qu'il monte,
 L'ennemi de ma gloire, et l'amant de ma honte ;
@@ -1999,8 +2000,8 @@ Puis-je ?
 
       Ha quel temps le peut faire ?
 
-
 **** *creator_rotrou *book_rotrou_venceslas *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_venceslas *dist2_rotrou_verse_tragedy *id_THEODORE *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_theodore
+
 
 Enfin, si son respect, ni le mien, ne vous touche,
 Cassandre, tout l'État, vous parle par ma bouche :
@@ -2247,8 +2248,8 @@ Je vous avais prescrit, de cacher vos liens,
 Mais les ordres du Roi, sont au dessus des miens ;
 Et me donnant à vous, font cesser ma défense.
 
-
 **** *creator_rotrou *book_rotrou_venceslas *style_verse *genre_tragedy *dist1_rotrou_verse_tragedy_venceslas *dist2_rotrou_verse_tragedy *id_LEONOR *date_1647 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonor
+
 
       Madame, le Duc demande à vous parler.
 
@@ -2276,4 +2277,3 @@ Comme à force, imprimant, sur ce cher caractère,
 Une marque d'un feu, qu'il sent, mais qu'il veut taire.
 
 Ciel seconde nos voux.
-

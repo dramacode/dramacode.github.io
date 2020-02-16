@@ -1,6 +1,7 @@
 
 
-**** *creator_quinault *book_quinault_fantomeamoureux *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_fantomeamoureux *dist2_quinault_verse_tragedy *id_carlos *date_1657 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_carlos
+**** *creator_quinault *book_quinault_fantomeamoureux *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_fantomeamoureux *dist2_quinault_verse_tragedy *id_carlos *date_1657 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_carlos
+
 
 Le sçay tu bien Clarine ? Ô Ciel ! est-il possible,1
 Qu'Isabelle pour moy, cesse d'estre insensible ;
@@ -357,8 +358,8 @@ Cessons de discourir & sortons promptement.
 
 Veuillez y consentir, Seigneur !
 
+**** *creator_quinault *book_quinault_fantomeamoureux *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_fantomeamoureux *dist2_quinault_verse_tragedy *id_clarine *date_1657 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_clarine
 
-**** *creator_quinault *book_quinault_fantomeamoureux *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_fantomeamoureux *dist2_quinault_verse_tragedy *id_clarine *date_1657 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_clarine
 
 Je vous le dis encor ; oüy vostre amour la touche,
 C'est une verité que j'ay sçeu de sa bouche.
@@ -460,8 +461,8 @@ J'ay veu, j'ay veu…
 Il marche sur mes pas ce Fantosme effroyable.
 Je l'entends, je le voy ce spectre que je fuys.
 
+**** *creator_quinault *book_quinault_fantomeamoureux *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_fantomeamoureux *dist2_quinault_verse_tragedy *id_fabrice *date_1657 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_fabrice
 
-**** *creator_quinault *book_quinault_fantomeamoureux *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_fantomeamoureux *dist2_quinault_verse_tragedy *id_fabrice *date_1657 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_fabrice
 
 De grace cher amy, laissons les complimens,
 Je suis persuadé de tes bons sentimens.
@@ -940,8 +941,8 @@ Tenez vostre parole & me rendez heureux !
 
 J'attends de vos serments l'effect à vos genoux.
 
+**** *creator_quinault *book_quinault_fantomeamoureux *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_fantomeamoureux *dist2_quinault_verse_tragedy *id_climene *date_1657 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_climene
 
-**** *creator_quinault *book_quinault_fantomeamoureux *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_fantomeamoureux *dist2_quinault_verse_tragedy *id_climene *date_1657 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_climene
 
 Cette voix que j'entends est celle de Fabrice,
 Je ne pouvois sortir dans un temps plus propice.
@@ -1334,8 +1335,8 @@ Si son sort est changé, je ne suis point changée.
 
 Voyons-nous pas le Duc.
 
+**** *creator_quinault *book_quinault_fantomeamoureux *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_fantomeamoureux *dist2_quinault_verse_tragedy *id_jacinte *date_1657 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_jacinte
 
-**** *creator_quinault *book_quinault_fantomeamoureux *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_fantomeamoureux *dist2_quinault_verse_tragedy *id_jacinte *date_1657 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_jacinte
 
       Ouy, tout nous est propice,
 Ma Maistresse⁎ se trompe, & vous prend pour Fabrice,
@@ -1491,8 +1492,8 @@ En forme de Geant voicy venir l'esprit⁎.
 
 Elle approche, ah fuyons, sa rencontre est mortelle.
 
+**** *creator_quinault *book_quinault_fantomeamoureux *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_fantomeamoureux *dist2_quinault_verse_tragedy *id_ferdinand *date_1657 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_ferdinand
 
-**** *creator_quinault *book_quinault_fantomeamoureux *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_fantomeamoureux *dist2_quinault_verse_tragedy *id_ferdinand *date_1657 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_ferdinand
 
       Faites ce que j'ay dit.
 
@@ -1866,8 +1867,8 @@ Par quel Art mon Rival aussi constant qu'heureux,
 A passé dans ce jour⁎ pour Fantosme Amoureux.
 Fin du cinquiesme & dernier Acte.
 
+**** *creator_quinault *book_quinault_fantomeamoureux *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_fantomeamoureux *dist2_quinault_verse_tragedy *id_valere *date_1657 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_valere
 
-**** *creator_quinault *book_quinault_fantomeamoureux *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_fantomeamoureux *dist2_quinault_verse_tragedy *id_valere *date_1657 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_valere
 
 Ah Seigneur ! c'en est fait, il est tombé sans vie,
 En vain pour se deffendre il a fait quelque effort,
@@ -1903,8 +1904,8 @@ Ah Seigneur ! en tous lieux nous cherchons vostre Altesse.
 
 Seigneur, je n'ay rien vu.
 
+**** *creator_quinault *book_quinault_fantomeamoureux *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_fantomeamoureux *dist2_quinault_verse_tragedy *id_isabelle *date_1657 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_isabelle
 
-**** *creator_quinault *book_quinault_fantomeamoureux *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_fantomeamoureux *dist2_quinault_verse_tragedy *id_isabelle *date_1657 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_isabelle
 
 Qui vient d'entrer ceans.
 
@@ -2191,8 +2192,8 @@ Ah ne le croyez pas ! tournez icy vos armes.
 Quoy ? c'est donc le sujet qui tantost a fait naistre
 Le trouble que d'abord vous avéz fait paroistre.
 
+**** *creator_quinault *book_quinault_fantomeamoureux *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_fantomeamoureux *dist2_quinault_verse_tragedy *id_alphonce *date_1657 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_alphonce
 
-**** *creator_quinault *book_quinault_fantomeamoureux *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_fantomeamoureux *dist2_quinault_verse_tragedy *id_alphonce *date_1657 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_alphonce
 
 Ah ma fille ? ah ma fille ?
 
@@ -2465,3 +2466,28 @@ Favorisez, Seigneur de tout point ma famille,
 Et souffrez⁎ que Carlos espouse aussi ma fille !
 Approuvez avec moy leurs desirs innocens.
 
+**** *creator_quinault *book_quinault_fantomeamoureux *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_fantomeamoureux *dist2_quinault_verse_tragedy *id_licaste *date_1657 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_licaste
+
+
+Seigneur de vostre fils la mort est trop certaine,
+Nous l'avons apporté dans la chambre prochaine⁎,
+A quelques pas d'icy nous l'avons rencontré,
+Sans habits & de coups si fort défiguré,
+Que l'on pouvoit douter avec quelque justice,
+Que ce funeste⁎ corps fut celuy de Fabrice,
+Si l'on n'avoit trouvé, cherchant avecque soin,
+Sa casaque assez proche, & son chapeau plus loin ;
+Ce qui dans ce malheur m'a mis le plus en peine,
+C'est que j'ay fait du reste une recherche vaine⁎,
+Ses autres vestemens ne se sont point trouvez,
+Et j'ignore qui peut les avoir enlevez.
+
+Vous pouvez voir d'icy cét objet⁎ deplorable.
+Avant qu'on se prepare à le mettre au tombeau,
+S'il vous plaist d'ordonner qu'on tire ce rideau.
+
+**** *creator_quinault *book_quinault_fantomeamoureux *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_fantomeamoureux *dist2_quinault_verse_tragedy *id_celin *date_1657 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_celin
+
+
+Plusieurs hommes, Seigneur, armez de hallebardes,
+Desirent vous parler ;

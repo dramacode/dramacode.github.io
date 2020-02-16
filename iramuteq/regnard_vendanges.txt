@@ -2,6 +2,7 @@
 
 **** *creator_regnard *book_regnard_vendanges *style_verse *genre_comedy *dist1_regnard_verse_comedy_vendanges *dist2_regnard_verse_comedy *id_BABET *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_babet
 
+
       Ah ! Griffonet, demeure ;
 Je veux t'entretenir.
 
@@ -27,8 +28,8 @@ C'est mon père, Toinon.
 
 Je crains.
 
-
 **** *creator_regnard *book_regnard_vendanges *style_verse *genre_comedy *dist1_regnard_verse_comedy_vendanges *dist2_regnard_verse_comedy *id_TOINON *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_toinon
+
 
       Qu'as-tu fait de son père ?
 
@@ -117,8 +118,8 @@ Car ils haltent tous deux comme des chiens de chasse.
 
 Votre bidet, monsieur, est tout bridé là-bas.
 
-
 **** *creator_regnard *book_regnard_vendanges *style_verse *genre_comedy *dist1_regnard_verse_comedy_vendanges *dist2_regnard_verse_comedy *id_LEANDRE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+
 
       Madame,
 Tout semble conspirer au succès de ma flamme ;
@@ -213,8 +214,20 @@ Demeurez.
 
       De grâce, laissez-moi.
 
+**** *creator_regnard *book_regnard_vendanges *style_verse *genre_comedy *dist1_regnard_verse_comedy_vendanges *dist2_regnard_verse_comedy *id_GRIFFONET *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_griffonet
+
+
+Et madame Babet, dé Léandre amoureuse,
+Dresse un plan pour ne pas devenir procureuse.
+On a beau la garder et l'observer de près,
+Il suffit que Toinon soit dans ses intérêts,
+Monsieur le procureur ne tient rien.
+
+      Monsieur, bonne nouvelle !
+Un homme assassiné !
 
 **** *creator_regnard *book_regnard_vendanges *style_verse *genre_comedy *dist1_regnard_verse_comedy_vendanges *dist2_regnard_verse_comedy *id_GUILLOT *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_guillot
+
 
       Monsieur... j'ons couru... jusqu'ici
 Pour... Je sis essoufflé... Maquieu... conte la chore,
@@ -262,8 +275,8 @@ Je verbaliserions après tout à notre aise.
       Monsieu, ne vous déplaise,
 Je pourrions là-dessus raisonner un moment.
 
-
 **** *creator_regnard *book_regnard_vendanges *style_verse *genre_comedy *dist1_regnard_verse_comedy_vendanges *dist2_regnard_verse_comedy *id_MATHIEU *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mathieu
+
 
 Dis tai-même, s'tu veux... je sis tout hors de moi.
 
@@ -315,4 +328,3 @@ Qu'on l'a pris pour un autre...
 S'il les récuse, enfin ?
 
 J'avons du temps pour tout.
-

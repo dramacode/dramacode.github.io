@@ -1,6 +1,17 @@
 
 
+**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_dom-pierre *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dompierre
+
+
+Dom Pierre sort et ses valets poursuivent Dom Jouan l'épée à la main.
+Quoi, traître ! en ma maison et pour forcer ma fille,
+Pour me déshonorer et toute ma famille !
+Il faut perdre la vie.
+
+Que quelqu'un prenne soin… mais je cesse de vivre.
+
 **** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_dom-alvaros *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_domalvaros
+
 
 Ah, père malheureux, quelle est ta destinée !
 À quels tourments ton âme est-elle condamnée !
@@ -185,8 +196,8 @@ Sur leurs propres malheurs élèvent des autels.
 Oui, dieux, humains, démons, la mort a la puissance
 De me donner sans vous une prompte allégeance.
 
-
 **** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_donjuan *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjuan
+
 
 Je serai diligent et vous ferai connaître
 Qu'un amant méprisé sait prendre avec raison
@@ -931,8 +942,8 @@ Ah ! c'est trop endurer, depuis que tu m'irrites !
 Aussi bien ce spectacle est trop injurieux,
 Il faut que sans tarder j'en délivre mes yeux.
 
-
 **** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_dom-philippe *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_domphilippe
+
 
 Miracle des beautés, vous que mon cœur adore,
 Qui captivez les cœurs et les plus beaux esprits
@@ -1227,8 +1238,8 @@ Mon mérite soit peu.
 À ce discours charmant, que mon tourment m'est doux !
 Viens, Briguelle, je veux te prendre à mon service.
 
-
 **** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_amarille *date_1658 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amarille
+
 
 C'est aujourd'hui qu'il faut que mon amour s'exprime,
 Et que vous appreniez jusqu'où va mon estime ;
@@ -1398,8 +1409,8 @@ Comment le savez-vous ?
       Puisque à présent mon père
 Est vengé pleinement, allons, je suis à vous.
 
-
 **** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_lucie *date_1658 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucie
+
 
 Amarille, il est temps de finir ces rigueurs,
 D'arrêter vos soupirs et de tarir vos pleurs.
@@ -1440,8 +1451,8 @@ Nous nous verrons tantôt ; adieu, je me retire.
 À voir votre hyménée, il faut, et promptement,
 Lui donner, Amarille, un tel contentement.
 
-
 **** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_pelerin *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pelerin
+
 
 Beau désir, qui te donne empire sur mes sens ?
 Que ces lieux ont pour moi de plaisirs innocents !
@@ -1511,8 +1522,8 @@ Et dedans cet habit je vois tout mon trésor.
 
 Monsieur, considérez…
 
-
 **** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_prevot *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_prevot
+
 
 En cette affaire, archers, bon œil et bon courage.
 Arrêtez les passants, voyez-les au visage ;
@@ -1558,8 +1569,27 @@ On nous vient d'informer des lieux où l'on l'a vu.
 Madame, je sais bien que tout un monde espère
 De voir un jour si beau.
 
+**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_archer1 *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_archer1
+
+
+Nous allons tant chercher et si bien fureter,
+Qu'en quelque lieu qu'il soit nous saurons l'arrêter.
+
+      Attendant qu'il arrive,
+Tenons-nous donc, Monsieur, dessus la défensive.
+
+      Arrêtez-vous.
+
+**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_archer2 *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_archer2
+
+
+Eût-il plus qu'un renard mille fois de finesse,
+J'ai toujours pour le prendre une admirable adresse.
+
+Quelqu'un paraît.
 
 **** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_briguelle *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_briguelle
+
 
 C'est vous gêner l'esprit d'une plainte inutile ;
 La mort, qui n'est jamais courtoise ni civile,
@@ -2261,8 +2291,8 @@ Le sort aux bons valets à la fin fait justice :
 Je recouvre un brave homme, et je suis désormais
 Pour être plus heureux que je ne fus jamais.
 
-
 **** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_ombre *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ombre
+
 
 Dom Jouan, c'est ainsi que je te tiens parole,
 Et je ne fis jamais de promesse frivole.
@@ -2407,8 +2437,8 @@ Et que tout l'univers de ton malheur extrême
 Sache que qui vit mal, aussi mourra de même.
 Dom Jouan abîmé, son valet demeure étourdi sur le théâtre, du bruit du tonnerre, la grotte disparaît, et Briguelle ne sait où il est.
 
-
 **** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_bon-temps *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bontemps
+
 
 Baisez votre mari, ne cachez point vos flammes.
 
@@ -2425,8 +2455,8 @@ S'ils ne s'étaient baisés.
 Je veux un petit-fils ; je reprends donc ma fille,
 Puisque tu ne veux pas accroître ma famille.
 
-
 **** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_blaise *date_1658 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_blaise
+
 
 Allons ! je ne veux pas. Qui ? moi, baiser les femmes ?
 Cela m'est défendu, je ferais un péché.
@@ -2453,8 +2483,8 @@ Père, femme, fuyons, cet ours me veut manger.
       Ma femme est enlevée,
 Au voleur, au voleur !
 
-
 **** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_amarante *date_1658 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amarante
+
 
 Amour, pourquoi viens-tu passer dans nos forêts ?
 Jusques ici j'étais exempte de tes traits ;
@@ -2572,3 +2602,12 @@ Va cacher ta douleur aux plus creux des déserts ;
 Que leur nuit rende office à toute la nature,
 Y cachant pour jamais cette triste aventure.
 
+**** *creator_dorimond *book_dorimond_festindepierre *style_verse *genre_comedy *dist1_dorimond_verse_comedy_festindepierre *dist2_dorimond_verse_comedy *id_marilinde *date_1658 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marilinde
+
+
+Souvenez-vous toujours de vivre sagement ;
+Vous avez l'œil friand et rempli d'agrément,
+Moquez-vous de tous ceux qu'il a rendu malades,
+Et garantissez-les des coups de vos œillades.
+Ma fille, on ne voit point de berger en ces lieux
+Qui ne soit outragé du mal que font vos yeux.

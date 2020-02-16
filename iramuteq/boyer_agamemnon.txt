@@ -2,6 +2,7 @@
 
 **** *creator_boyer *book_boyer_agamemnon *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_agamemnon *dist2_boyer_verse_tragedy *id_agamemnon *date_1680 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_agamemnon
 
+
 Que l'on me laisse ici. Vous Arbas arrestez.
 Et vous pour m'acquiter envers le Ciel propice
 Donnez l'ordre mon fils d'un pompeux⁎ sacrifice.
@@ -479,8 +480,8 @@ Moy, je vay de ce pas en avertir Cassandre,
 Luy demander pour vous et cette même foy⁎
 Et cette même main que je voulois pour moy.
 
-
 **** *creator_boyer *book_boyer_agamemnon *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_agamemnon *dist2_boyer_verse_tragedy *id_clytemnestre *date_1680 *sexe_feminin *age_veteran *statut_maitre *fonction_autres *role_clytemnestre
+
 
 Mon fils, vous le savez, vous m'avez irritée ;
 Mais n'importe, du sang⁎ j'écoute encor la voix
@@ -826,8 +827,8 @@ Ciel qu'entens-je ?
 Ah Cassandre ! Ah mon fils ! daignez le détourner
 Dieux, cét ordre cruel⁎ que je viens de donner.
 
-
 **** *creator_boyer *book_boyer_agamemnon *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_agamemnon *dist2_boyer_verse_tragedy *id_oreste *date_1680 *sexe_masculin *age_jeune *statut_maitre *fonction_autres *role_oreste
+
 
 Ouy, Pylade, il est vray, la valeur et l'adresse
 Ont de l'Asie enfin fait triompher la Grece.
@@ -1260,8 +1261,8 @@ Poursuivons l'assassin, allons tout entreprendre.
 Et que tout l'Avenir aprenant mon malheur,
 Admire ma vangeance et plaigne ma douleur.
 
-
 **** *creator_boyer *book_boyer_agamemnon *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_agamemnon *dist2_boyer_verse_tragedy *id_cassandre *date_1680 *sexe_feminin *age_jeune *statut_maitre *fonction_autres *role_cassandre
+
 
 Laisse-moy la fureur⁎ dont je suis animée.
 Dans un gouffre de maux les Dieux m'ont abîmée.
@@ -1675,8 +1676,8 @@ Si ton impiété⁎ méprise leur courroux,
 Si tu t'oses livrer à l'Hymen⁎ de Cassandre,
 Viens m'épouser au Temple où je m'en vais t'attendre.
 
-
 **** *creator_boyer *book_boyer_agamemnon *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_agamemnon *dist2_boyer_verse_tragedy *id_pylade *date_1680 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_pylade
+
 
 Il n'est plus ! ô disgrace⁎ à jamais déplorable⁎ !
 Des caprices du sort⁎ exemple memorable !
@@ -1722,8 +1723,8 @@ Vous voyez qu'elle veut épouser son vainqueur.
 Quelle felicité surprenante et soudaine !
 Quel changement cher Prince !
 
-
 **** *creator_boyer *book_boyer_agamemnon *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_agamemnon *dist2_boyer_verse_tragedy *id_eurybate *date_1680 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_eurybate
+
 
 Ah, Madame ! Apprenez quel est nôtre bonheur.
 La mort d'Agamemnon n'est qu'un bruit imposteur
@@ -1854,8 +1855,8 @@ Je viens vous annoncer cét affreux⁎ parricide⁎,
 Heureux si garanty des fureurs⁎ d'un perfide,
 J'expirois à vos yeux en vous le racontant.
 
-
 **** *creator_boyer *book_boyer_agamemnon *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_agamemnon *dist2_boyer_verse_tragedy *id_arbas *date_1680 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_arbas
+
 
 Et de quoi vôtre esprit va-t-il s'embarrasser ?
 Graces⁎ au Ciel Seigneur vous avez eu la joye
@@ -1882,8 +1883,8 @@ Egisthe est arresté malgré sa resistance.
 Oreste qui fuyoit est enfin dans Mycene,
 Seigneur, auprés de vous Pylade le ramene.
 
-
 **** *creator_boyer *book_boyer_agamemnon *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_agamemnon *dist2_boyer_verse_tragedy *id_doride *date_1680 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_doride
+
 
       Quel autre motif vous y force en ce jour ?
 
@@ -1925,8 +1926,8 @@ Quel est vôtre courrous ! quoy pour perdre⁎ Cassandre ? …
 A vos ressentimens quels chemins sont ouvers ?
 Egiste est prisonnier.
 
-
 **** *creator_boyer *book_boyer_agamemnon *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_agamemnon *dist2_boyer_verse_tragedy *id_ismene *date_1680 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_ismene
+
 
 Quoy, Madame, faut-il que l'illustre⁎ Cassandre,
 Ce digne sang⁎ des Rois, des Heros et des Dieux ?...
@@ -2002,4 +2003,3 @@ Là, par de long regards qui percent jusqu'aux Cieux,
 Elle semble implorer la clemence des Dieux,
 Elle expire et j'allois, pleine d'impatience,
 D'Agamemnon pour elle implorer la vangeance.
-

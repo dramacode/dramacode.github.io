@@ -2,6 +2,7 @@
 
 **** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *id_MALINGRE *date_1809 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_malingre
 
+
 Ma foi, Monsieur de Lahausse, j'attends, pour le déplacer quelqu'un...
 
 Du premier au vint-neuf, vingt-neuf demi-tasses : quand me payerez-vous ?
@@ -147,13 +148,8 @@ Depuis que vous êtes sorti, il vous est donc survenu des rentrées.
 
 Qu'appelez-vous malade imaginaire ? J'aime mieux être malade imaginaire , que...
 
-Qu'il fasse rougir
-Le ladre, je ne m'en plains guère ;
-Mais pourquoi venir
-M'attaquer, moi qui vais mourir.
-
-
 **** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *id_LARIFFARDIERE *date_1809 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lariffardiere
+
 
 Alain , une demi-tasse.
 
@@ -478,18 +474,8 @@ D'un naturel toujours exquis,
 Il fit de ses moindres croquis
 Des tableaux pour l'histoire.
 
-Nous changerons tous :
-Honneur à l'immortel Molière,
-Pourvu que sur nous
-Il ne dirige pas ses coups.
-
-L'ouvrage nouveau,
-Après tout, ne saurait déplaire ;
-Car un nom si beau
-N'a jamais eu que des bravo.
-
-
 **** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *id_ADELE *date_1809 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_adele
+
 
 Ah ! Monieur de Lariffardière, vous voilà.
 
@@ -552,13 +538,8 @@ Oui, mon père.
 
 Mon ami, vous n'avez pas voulu faire des jaloux vous les avez joués tous.
 
-Que tous nos défauts
-Soient pardonnés, grâce à Molière ;
-Car pour nos tableaux
-Il aurait fallu ses pinceaux.
+**** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *id_GERONTE *date_1809 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_geronte
 
-
-**** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *id_GERONTE *date_1809 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_geronte
 
 Eh ! Bonjour , mon vieil ami.
 
@@ -689,13 +670,8 @@ Ah ! Bath, avec tes phrases.
 
 Comme ce monsieur s'est laissé jouer ! Ah ! Ah ! Voilà bien un autre Monsieur de Jourdain !
 
-Je ris quand il mord ;
-Mais faire à l'avare la guerre.
-C'est aussi trop fort :
-Garder son or n'est un tort.
-
-
 **** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *id_DRAMANTOUR *date_1809 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dramantour
+
 
 Toujours Molière ; on n'entend que ce nom, comme si mes pièces n'avaient pas un autre mérite que les siennes.
 
@@ -771,13 +747,8 @@ Nous sommes les jouets d'une conspiration ténébreuse.
 
 Et c'est vous, Monsieur Purgon, qu'il a fait agir auprès du malade imaginaire ; et s'il en était permis de rire. Ah ! Ah ! Ah !
 
-D'un George Dandin
-Qu'il persiffle le caractère,
-Bon ; mais que Cotin
-Soit à l'abri du trait malin.
-
-
 **** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *id_TANTMIEUX *date_1809 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tantmieux
+
 
 Je ne devais pas ménager un auteur de mauvais ton.
 
@@ -884,13 +855,8 @@ Et vous Monsieur Dramantour, petit Trissotin, comme il vous a attrapé ! Ah ! Ah
 
 Oui, oui ; il faut convenir qu'à certains égards il a du bon.
 
-Que contre un Jourdain,
-Il lance sa critique amère,
-Bravo ; mais qu'enfin
-Il apprécie un médecin.
-
-
 **** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *id_DANDINVILLE *date_1809 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dandinville
+
 
 C'est un fou.
 
@@ -908,13 +874,8 @@ Après vous, monsieur.
 
 C'est bon, c'est bon ; mais il a respecté les maris, et je suis le seul qui ne suis pas...
 
-Qu'il lance ses traits
-Sur un malade imaginaire,
-J'applaudirai ; mais
-Qu'il laisse les maris en paix.
-
-
 **** *creator_merle *book_merle_abasmoliere *style_prose *genre_piece *dist1_merle_prose_piece_abasmoliere *dist2_merle_prose_piece *id_ALAIN *date_1809 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alain
+
 
 Voilà, monsieur, voilà. Versez à Molière.
 
@@ -923,4 +884,3 @@ Voilà votre demi-tasse.
 Monsieur.
 
 Eh bien ! Où est donc Monsieur Dramantour ? Il demande quelque chose, et il s'en va ; il n'a donc pas de mémoire ?
-

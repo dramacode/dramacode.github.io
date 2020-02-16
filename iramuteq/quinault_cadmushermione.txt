@@ -2,6 +2,7 @@
 
 **** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_PALES *date_1673 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pales
 
+
 Hâtez-vous, Pasteurs, accourez.
 
 Nos champs sont éclairés.
@@ -18,8 +19,8 @@ Il se découvre aux yeux de tous.
 
 Suivons tous la même envie.
 
-
 **** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_MELISSE *date_1673 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melisse
+
 
 La voix des oiseaux nous appelle.
 
@@ -34,8 +35,45 @@ D'ornements immortels.
 
 Aimons, tout nous y convie.
 
+**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_LENVIE *date_1673 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lenvie
+
+
+C'est trop voir le Soleil briller dans sa Carrière,
+Les Rayons qu'il lance en tous lieux,
+Ont trop blessé mes yeux ;
+Venez, noirs ennemis de sa vive lumière,
+Joignons nos transports furieux.
+Que chacun me seconde :
+Paraissez, Monstre affreux.
+Sortez ? Vents souterrains, des antres les plus creux,
+Volez, Tyrans des airs, troublez la Terre et l'Onde,
+Répandons la terreur ;
+Qu'avec nous le Ciel gronde :
+Que l'Enfer nous réponde ;
+Remplissons la Terre d'horreur :
+Que la Nature se confonde :
+Jetons dans tous les coeurs du monde
+La jalouse fureur
+Qui déchire mon coeur.
+Et vous Monstre, armez-vous pour nuire
+À cet astre puissant qui vous a su produire :
+Il répand trop de biens, il reçoit trop de voeux.
+Agitez vos marais bourbeux :
+Excitez contre lui mille vapeurs mortelles :
+Déployez, étendez vos ailes,
+Que tous les Vents impétueux
+S'efforcent d'éteindre ses feux.
+Osons tous obscurcir ses clartés les plus belles,
+Osons nous opposer à son cours trop heureux :
+Quels traits ont crevé le Nuage ?
+Quel Torrent enflammé s'ouvre un brillant passage !
+Tu triomphes, Soleil ? Tout cède à ton pouvoir ?
+Que d'honneurs tu vas recevoir !
+Ah quelle rage ! Ah quelle rage !
+Quel désespoir ! Quel désespoir !
 
 **** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_CADMUS *date_1673 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cadmus
+
 
 J'aimerais à revoir les lieux de ma naissance ;
 Mais avant que je puisse en goûter la douceur,
@@ -231,8 +269,8 @@ Quelle rigueur quand on sépare
 Deux coeurs prêts d'être unis par des Liens si doux ?
 Belle Hermione, hélas, puis-je être heureux sans vous.
 
-
 **** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_ARBAS *date_1673 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arbas
+
 
 Vos ordres sont suivis, Seigneur, et tout est prêt !
 Mais le tyran s'est mis en tête
@@ -400,8 +438,8 @@ Seigneur, vous m'honnorez plus que je ne mérite :
       Ah ! Quelle violence,
 Seigneur exigez-vous de mon obéissance.
 
-
 **** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_HERMIONE *date_1673 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hermione
+
 
 Cet aimable séjour
 Si paisible et si sombre,
@@ -504,8 +542,8 @@ De la main d'un vainqueur aimé !
 
 Ô Ciel !
 
-
 **** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_CHARITE *date_1673 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_charite
+
 
 La peine d'aimer est charmante,
 Il n'est point de coeur qui s'exempte
@@ -582,8 +620,18 @@ Il vend bien cher ses charmes ;
 Mais pour un si grand bien
 Tous les maux ne sont rien.
 
+**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_AGLANTE *date_1673 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aglante
+
+
+On a beau fuir l'Amour, on ne peut l'éviter,
+On n'oppose à ses traits qu'une défense vaine,
+On s'épargne bien de la peine,
+Quand on se rend sans résister.
+
+Voici les Africains, mais les géants les suivent.
 
 **** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_JUNON *date_1673 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junon
+
 
 Où vas-tu téméraire ?
 Où cours-tu te précipiter ?
@@ -610,8 +658,8 @@ Exécute à l'instant ce que Junon t'ordonne.
 
 Junon en veut former les noeuds.
 
-
 **** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_PALLAS *date_1673 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pallas
+
 
 Va, Cadmus, que rien ne t'étonne,
 Va, ne crains ni Junon, ni le Dieu des Combats :
@@ -654,8 +702,8 @@ Le Ciel veut que ce jour soit célébré à jamais.
 
 Attendez de Pallas mille faveurs nouvelles.
 
+**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_LAMOUR *date_1673 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_lamour
 
-**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_LAMOUR *date_1673 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lamour
 
 Calme tes déplaisirs, dissipe tes alarmes,
 L'Amour vient essuyer tes larmes,
@@ -691,3 +739,41 @@ Achève le dessein où mon ardeur t'engage.
 
 L'amour conservera toujours de si beaux feux.
 
+**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_ECHION *date_1673 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_echion
+
+
+Arrêtons un transport funeste ;
+Pourquoi nous immoler en naissant dans ces lieux ?
+Réservons le sang qui nous reste,
+Pour servir un héros favorisé des Dieux.
+
+**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_JUPITER *date_1673 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
+
+
+Que ce qui suit les lois du Maître du tonnerre,
+Que les Cieux, et la Terre,
+S'accordent pour combler vos voeux.
+Après un sort si rigoureux,
+Après tant de peines cruelles,
+Amants fidèles,
+Vivez heureux.
+
+Hymen, prend soin ici des Danses et des Jeux.
+
+**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_VENUS *date_1673 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
+
+
+Vénus vous donnera des douceurs éternelles.
+
+**** *creator_quinault *book_quinault_cadmushermione *style_verse *genre_show *dist1_quinault_verse_show_cadmushermione *dist2_quinault_verse_show *id_LHYMEN *date_1673 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lhymen
+
+
+L'Hymen veut vous offrir ses chaines les plus belles.
+
+Venez, Dieu des festins, aimables Jeux, venez ;
+Comblez de vos douceurs ces époux fortunés
+Tandis que tout le ciel prépare
+Les dons qu'il leur a destinés,
+La terre y doit mêler ce qu'elle a de plus rare.
+Venez, Dieu des festins, aimables jeux, venez ;
+Comblez de vos douceurs ces époux fortunés.

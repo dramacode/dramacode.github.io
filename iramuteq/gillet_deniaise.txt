@@ -2,6 +2,7 @@
 
 **** *creator_gillet *book_gillet_deniaise *style_verse *genre_comedy *dist1_gillet_verse_comedy_deniaise *dist2_gillet_verse_comedy *id_ariste *date_1647 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_ariste
 
+
 Vous me raillez tousjours …
 
       Non,
@@ -693,8 +694,8 @@ Va nous te le donnons & cent escus de rente.
 
 En estes vous d'accord ?
 
-
 **** *creator_gillet *book_gillet_deniaise *style_verse *genre_comedy *dist1_gillet_verse_comedy_deniaise *dist2_gillet_verse_comedy *id_climante *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_climante
+
 
 Certes, c'est rencherir dessus les plus galans,
 Cette confusion de neuds & de rubans,
@@ -1193,8 +1194,8 @@ Tu te repentiras de ce que tu hasardes.
 
 Dieux !
 
-
 **** *creator_gillet *book_gillet_deniaise *style_verse *genre_comedy *dist1_gillet_verse_comedy_deniaise *dist2_gillet_verse_comedy *id_oronthe *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronthe
+
 
       Monsieur, il ne faut pas
 La forcer pour souffrir⁎ un objet⁎ plein d'appas⁎,    
@@ -1685,8 +1686,8 @@ Ah ! trop cruelle Olimpe.
 
       Je pars sans espoir de la revoir jamais.
 
-
 **** *creator_gillet *book_gillet_deniaise *style_verse *genre_comedy *dist1_gillet_verse_comedy_deniaise *dist2_gillet_verse_comedy *id_jodelet *date_1647 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_jodelet
+
 
       Ah ! le plaisant falot⁎.
  
@@ -2101,8 +2102,8 @@ Et les frais de la nopce.
       Vivat.
 FIN.
 
-
 **** *creator_gillet *book_gillet_deniaise *style_verse *genre_comedy *dist1_gillet_verse_comedy_deniaise *dist2_gillet_verse_comedy *id_pancrace *date_1647 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_pancrace
+
 
 Ce zele est paradoxe & ces soins incommodes.
 
@@ -2634,8 +2635,8 @@ Quelle vicissitude !
 Adieu, suivons mon maistre, & dans son sort funeste⁎
 Imitons le destin de Pilade° & d'Oreste°.
 
-
 **** *creator_gillet *book_gillet_deniaise *style_verse *genre_comedy *dist1_gillet_verse_comedy_deniaise *dist2_gillet_verse_comedy *id_olimpe *date_1647 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_olimpe
+
 
 Oronthe le voulant je vous suis tout acquise.
 
@@ -3007,8 +3008,8 @@ Je respons de nos jours.
 
       Pauvre Amante !
 
-
 **** *creator_gillet *book_gillet_deniaise *style_verse *genre_comedy *dist1_gillet_verse_comedy_deniaise *dist2_gillet_verse_comedy *id_lisette *date_1647 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lisette
+
 
 Monsieur on a servy.
 
@@ -3147,8 +3148,8 @@ Monsieur la foule croit, & le bruit se redouble !
 
       Ainsi soit-il.
 
-
 **** *creator_gillet *book_gillet_deniaise *style_verse *genre_comedy *dist1_gillet_verse_comedy_deniaise *dist2_gillet_verse_comedy *id_l-exempt *date_1647 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lexempt
+
 
       Faire le brave & se mettre en defence.
 Obeit-on ainsi dans les ordres du Roy ?
@@ -3161,8 +3162,8 @@ Ouy, rendez vostre espée.
 Madame, je leur vay faire donner des gardes.
 Messieurs, il me faut suivre, allons, sortons d'icy.
 
-
 **** *creator_gillet *book_gillet_deniaise *style_verse *genre_comedy *dist1_gillet_verse_comedy_deniaise *dist2_gillet_verse_comedy *id_le-caporal *date_1647 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_lecaporal
+
 
 La Verdure,
 
@@ -3208,8 +3209,20 @@ Hola hé !
 
       Il faut marcher.
 
+**** *creator_gillet *book_gillet_deniaise *style_verse *genre_comedy *dist1_gillet_verse_comedy_deniaise *dist2_gillet_verse_comedy *id_violon1 *date_1647 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_violon1
 
-**** *creator_gillet *book_gillet_deniaise *style_verse *genre_comedy *dist1_gillet_verse_comedy_deniaise *dist2_gillet_verse_comedy *id_violon2 *date_1647 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_violon2
+
+Je ne puis m'accorder tandis que vous sonnez,
+Un peu de patience… en fin c'est assez dire,
+Messieurs, escoutons nous, il n'est pas tant de rire.
+
+Estes-vous prests, Messieurs ? faut-il que je commence ?
+Allons, c'est à ce coup.
+
+      L'Alemande⁎, allons, c'est tout de bon.
+
+**** *creator_gillet *book_gillet_deniaise *style_verse *genre_comedy *dist1_gillet_verse_comedy_deniaise *dist2_gillet_verse_comedy *id_violon2 *date_1647 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_violon2
+
 
 Vostre do-la-ré-sol.
 
@@ -3221,3 +3234,9 @@ Je suis bien.
 
 Nous n'estions pas icy tous seuls de violons.
 
+**** *creator_gillet *book_gillet_deniaise *style_verse *genre_comedy *dist1_gillet_verse_comedy_deniaise *dist2_gillet_verse_comedy *id_violon3 *date_1647 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_violon3
+
+
+      Un peu vostre Emi-la.
+
+      Encore… m'y voylà.

@@ -2,6 +2,7 @@
 
 **** *creator_carmontelle *book_carmontelle_voyageurs *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_voyageurs *dist2_carmontelle_prose_proverbe *id_MADAMEDEMORTILIERE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedemortiliere
 
+
 Vous voyez, Madame, comme il est nécessaire d'avoir des hommes quand on voyage pour parler à tous ces gens-là.
 
 Mais, fi donc !
@@ -68,8 +69,8 @@ C'est fort heureux pour nous, Madame, nous voyagerons sûrement.
 
 Ah ! Oui, l'abbé, c'est bien fin à cette heure que vous le connaissez.
 
-
 **** *creator_carmontelle *book_carmontelle_voyageurs *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_voyageurs *dist2_carmontelle_prose_proverbe *id_MADAMEDESOUSAY *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamedesousay
+
 
 Oui, mais l'abbé m'a fait peur : il jure, que c'est affreux !
 
@@ -129,8 +130,8 @@ Il faut qu'une route comme celle-ci soit sûre.
 
 Quoi ! il serait possible que nous eussions été sa dupe !
 
-
 **** *creator_carmontelle *book_carmontelle_voyageurs *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_voyageurs *dist2_carmontelle_prose_proverbe *id_MADAMEROUGEAU *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamerougeau
+
 
 Me voilà ! Me voilà ! Ah ! C'est vous Monsieur Du Hable ?
 
@@ -232,8 +233,8 @@ Et le souper que l'on fait pour elles ?
 
 Monsieur Du Hable, je vous l'avais bien dit.
 
-
 **** *creator_carmontelle *book_carmontelle_voyageurs *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_voyageurs *dist2_carmontelle_prose_proverbe *id_MONSIEURDUHABLE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurduhable
+
 
 Où est-elle ? Madame Rougeau ?
 
@@ -339,8 +340,8 @@ Monsieur, en vérité...
 
 Mais, Messieurs, Mesdames, Monsieur l'Abbé, priez donc pour moi.
 
-
 **** *creator_carmontelle *book_carmontelle_voyageurs *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_voyageurs *dist2_carmontelle_prose_proverbe *id_MONSIEURPINCON *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurpincon
+
 
 Où est-il donc, Monsieur l'Abbé d'Orlot ?
 
@@ -398,3 +399,11 @@ Ces dames ne souperont ni ne coucheront ici.
 
 Allons, Mesdames, j'aurai l'honneur de vous escorter.
 
+**** *creator_carmontelle *book_carmontelle_voyageurs *style_prose *genre_proverbe *dist1_carmontelle_prose_proverbe_voyageurs *dist2_carmontelle_prose_proverbe *id_ANDRE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_andre
+
+
+Madame Rougeau, v'là qu'on demande quatre chevaux.
+
+Oui vraiment, mais il y a un abbé qui jure comme un possédé et qui dit qu'il nous en fera bien trouver.
+
+Ah ! Oui, oui, j'entends : j'y vais.

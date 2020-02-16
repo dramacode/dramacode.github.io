@@ -1,6 +1,7 @@
 
 
-**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *id_abderamen *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_abderamen
+**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *id_abderamen *date_1681 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_abderamen
+
 
 Scavez-vous qu'Alamir a quitté mon Armée,
 Qu'il revient en ces lieux sans mon ordre ?
@@ -279,8 +280,8 @@ Etouffez desormais une honte timide,
 Et vivez dans ma Cour sous le nom de Zaïde.
 FIN
 
+**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *id_fatime *date_1681 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_fatime
 
-**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *id_fatime *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_fatime
 
 Dois-je croire, Seigneur, ce que m'apprend le Roy :
 Alamir s'est trouvé digne de vostre estime,
@@ -519,8 +520,8 @@ Et vos yeux sont témoins de ma confusion ;
 Mais enfin pour sauver une teste si chere
 Je ne ménage rien. J'y cours.
 
+**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *id_zulemar *date_1681 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_zulemar
 
-**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *id_zulemar *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_zulemar
 
 La princesse Fatime, Osmar, est chez le Roy ?
 Tu dis qu'en la quittant il veut parler à moy.
@@ -1114,8 +1115,8 @@ Qu'est-ce, Osmar.
 Seigneur, après l'abus commis aux yeux de tous ;
 De quel front⁎ puis-je icy paroistre ?
 
+**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *id_alamir *date_1681 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_alamir
 
-**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *id_alamir *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_alamir
 
 Non, ne nous flattons point d'une vaine esperance,
 Plus mes exploits sont grands, plus mon retour l'offense ;
@@ -1500,8 +1501,8 @@ Mon cœur n'opose plus une fierté cruelle :
 Et si l'amour déjà ne s'y fait pas sentir,
 L'injuste haine au moins commence d'en sortir.
 
+**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *id_osmar *date_1681 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_osmar
 
-**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *id_osmar *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_osmar
 
 Oüy, Seigneur
 
@@ -1561,8 +1562,8 @@ Le Roy sçait rasseurer sa craintive pudeur,
 Qu'à sa gloire⁎, à l'éclat de la grandeur suprême,
 Ouvrant enfin les yeux… mais le Roy vient luy-mesme.
 
+**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *id_abendax *date_1681 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_abendax
 
-**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *id_abendax *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_abendax
 
 N'en doutez point, Seigneur, il est toûjours le mesme
 Il craint son inconstance, & cependant il l'aime,
@@ -1661,8 +1662,8 @@ Il n'est plus d'interest, ny de raisons secretes,
 Il est temps de parler, d'avouer qui vous estes.
 Et je vais….
 
+**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *id_gazul *date_1681 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_gazul
 
-**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *id_gazul *date_1681 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_gazul
 
 Pourquoy de ce retour aprés vostre victoire,
 Vous faites vous, Seigneur, une image si noire ;
@@ -1689,3 +1690,42 @@ Seigneur, je voy Fatime, elle vient en ces lieux.
       En seroit-t'il aimé ?
 Luy, Seigneur.
 
+**** *creator_chapelle *book_chapelle_zaide *style_verse *genre_tragedy *dist1_chapelle_verse_tragedy_zaide *dist2_chapelle_verse_tragedy *id_zindarize *date_1681 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_zindarize
+
+
+Ouy, Madame, avec soin les portes sont gardées
+D'armes & de Soldats, les places sont bordées,
+Les Courtisans confus, les Ministres troublez,
+Les Princes interdits, les Juges assemblez.
+Le Roy mesme inquiet fuyant l'aspect du monde,
+Jette dans les esprits une terreur profonde.
+Il marche environné de chefs & de Soldats.
+Un gros⁎ de Senateurs accompagne ses pas,
+Tristes, épouvantez, leurs visages severes
+N'ont point de leur vertu les marques ordinaires.
+Ces mortels redoutez qui tiennent dans leurs mains,
+La puissance⁎ des Roys, & le sort des humains,
+Semblent craindre aujourd'huy l'ordre qui les assemble :
+Tout garde le silence, autour du Roy tout tremble.
+Au milieu de la place un échafault dressé,
+Attire les regards d'un grand Peuple amassé,
+Qui paslit, & qui craint de voir tomber la teste,
+Que menace aujourd'huy cette horrible tempeste.
+De ses propres employs⁎ abandonnant le soin,
+Chacun de ce grand jour veut estre le témoin.
+Tout fremit : Cependant parmi cette tristesse
+On voit encor briller des marques d'allegresse.
+Les Temples sont ouverts, les Autels sont ornez :
+Les Prestres revêtus, & de fleurs couronnez,
+Etallent l'appareil des plus celebres Festes ;
+L'encens fume par tout, les victimes sont prestes.
+D'un juste étonnement⁎ les esprits occupez,
+Sur tant d'objets divers dont les yeux sont frappez,
+En discours superflus se lassent & s'épuisent,
+Inventent des raisons qu'aussi-tost ils detruisent,
+Et plus à s'éclaircir ils veulent s'éforcer,
+Plus ils trouvent d'horreurs qu'ils ne sçauroient percer.
+
+Seul de tous ses projets le Roy sçait les raisons,
+Le secret fut toûjours sa grande politique ;
+Mais il vient : Avec vous, faites qu'il s'en explique.

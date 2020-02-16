@@ -1,6 +1,7 @@
 
 
-**** *creator_prade *book_prade_arsace *style_verse *genre_comédie *dist1_prade_verse_comédie_arsace *dist2_prade_verse_comédie *id_artaban *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_artaban
+**** *creator_prade *book_prade_arsace *style_verse *genre_comédie *dist1_prade_verse_comédie_arsace *dist2_prade_verse_comédie *id_artaban *date_1640 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_artaban
+
 
 J'abandonne le Trône, et ne m'en prive pas;
 Mes fils y regneront, et puis à trop attendre
@@ -555,8 +556,8 @@ Donnez-moy tout ce jour pour vaincre ma tristesse,
 Vous croiriez me l'oster quand je vous l'offrirois,
 Si les larmes aux yeux je vous le presentois.
 
+**** *creator_prade *book_prade_arsace *style_verse *genre_comédie *dist1_prade_verse_comédie_arsace *dist2_prade_verse_comédie *id_pharasmane *date_1640 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_pharasmane
 
-**** *creator_prade *book_prade_arsace *style_verse *genre_comédie *dist1_prade_verse_comédie_arsace *dist2_prade_verse_comédie *id_pharasmane *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_pharasmane
 
 Ha ! Si vous l'ignorez apprenez ma disgrace.
 Vostre sœur peut choisir de mon frere ou de moy ;
@@ -1002,8 +1003,8 @@ Ha ! Que ne puis-je donc pas par un nouvel effort,
 Me donner à tes yeux une seconde mort.
 (On l'emporte.)
 
+**** *creator_prade *book_prade_arsace *style_verse *genre_comédie *dist1_prade_verse_comédie_arsace *dist2_prade_verse_comédie *id_arsace *date_1640 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_arsace
 
-**** *creator_prade *book_prade_arsace *style_verse *genre_comédie *dist1_prade_verse_comédie_arsace *dist2_prade_verse_comédie *id_arsace *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_arsace
 
 Ors qu'il menace il craint.
 
@@ -1219,8 +1220,8 @@ Seigneur…
 
 Vivez…
 
+**** *creator_prade *book_prade_arsace *style_verse *genre_comédie *dist1_prade_verse_comédie_arsace *dist2_prade_verse_comédie *id_vologese *date_1640 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_vologese
 
-**** *creator_prade *book_prade_arsace *style_verse *genre_comédie *dist1_prade_verse_comédie_arsace *dist2_prade_verse_comédie *id_vologese *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_vologese
 
 Deviendrez-vous subjet dans vos propres Estats ?
 
@@ -1326,8 +1327,8 @@ Arsace est innocent, et son frere est coupable.
 Sire, le Prince vient, la fureur⁎ le conduit,
 De ce qui s'est passé l'on l'a sans doute instruit.
 
+**** *creator_prade *book_prade_arsace *style_verse *genre_comédie *dist1_prade_verse_comédie_arsace *dist2_prade_verse_comédie *id_araxie *date_1640 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_araxie
 
-**** *creator_prade *book_prade_arsace *style_verse *genre_comédie *dist1_prade_verse_comédie_arsace *dist2_prade_verse_comédie *id_araxie *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_araxie
 
 Du plus infortuné, je ressens le malheur.
 
@@ -1681,8 +1682,8 @@ Je répendray mon sang en échange du sien.
 
       Ha ! Mon Prince.
 
+**** *creator_prade *book_prade_arsace *style_verse *genre_comédie *dist1_prade_verse_comédie_arsace *dist2_prade_verse_comédie *id_medonie *date_1640 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_medonie
 
-**** *creator_prade *book_prade_arsace *style_verse *genre_comédie *dist1_prade_verse_comédie_arsace *dist2_prade_verse_comédie *id_medonie *date_1640 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_medonie
 
 Que ce project est doux à vostre ambition !
 
@@ -1940,4 +1941,3 @@ Aussi bien desormais confuse et méprisée
 De deux Princes trahis la haine et la risée,
 Et si loin de ce Trône ou je devois monter…
 Mais le Roy vient.
-

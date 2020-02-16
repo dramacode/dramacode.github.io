@@ -2,6 +2,7 @@
 
 **** *creator_aure *book_aure_genevieve70 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve70 *dist2_aure_verse_tragedy *id_LAVIERGE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lavierge
 
+
 Geneviève ?
 
 Geneviève ?
@@ -114,8 +115,8 @@ Souffre pour ton salut, c'est pour lui qu'il souffrit.
 Garde bien ce Portrait ; va, contemple et révère
 Et l'image du Fils la face de la Mère.
 
-
 **** *creator_aure *book_aure_genevieve70 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve70 *dist2_aure_verse_tragedy *id_SIFROY *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sifroy
+
 
 Ô Dieu !
 
@@ -689,8 +690,8 @@ Dans l'innocent égard des libertés chrétiennes.
 Donnons aux Étrangers, aux Sujets, aux Valets,
 Des fêtes, des festins ; des Bals et des Ballets.
 
-
 **** *creator_aure *book_aure_genevieve70 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve70 *dist2_aure_verse_tragedy *id_GENEVIEVE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_genevieve
+
 
 Cher gage de mes espérances
 Que l'Ange m'apporte du Ciel,
@@ -1198,8 +1199,8 @@ Pour savoir de quels biens ils soient participants.
       Or sus, elle vous accompagne ;
 Et vous pourra servir de fidèle compagne.
 
-
 **** *creator_aure *book_aure_genevieve70 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve70 *dist2_aure_verse_tragedy *id_BENONI *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_benoni
+
 
 Maman.
 
@@ -1298,8 +1299,8 @@ Allons.
 
 Je veux ma Biche.
 
-
 **** *creator_aure *book_aure_genevieve70 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve70 *dist2_aure_verse_tragedy *id_GOLO *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_golo
+
 
       Mais Monseigneur.
 
@@ -1423,8 +1424,8 @@ Aux Maures, en Afrique.
       Ce n'est que trop plaider.
 Adieu.
 
-
 **** *creator_aure *book_aure_genevieve70 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve70 *dist2_aure_verse_tragedy *id_RODOLPHE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rodolphe
+
 
 Seigneur, Charles-Martel de Prince des Français,
 Par un Ambassadeur de marque et de mérite,
@@ -1688,8 +1689,8 @@ Madame, c'est de vous. Votre seule présence
 Nous suffit, pour combler toute notre espérance.
 Vous êtes notre part.
 
-
 **** *creator_aure *book_aure_genevieve70 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve70 *dist2_aure_verse_tragedy *id_CLOTILDE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clotilde
+
 
 Notre hôte et mon Rodolphe étant en conférence,
 Seigneur, je viens vous dire un secret d'importance.
@@ -2102,8 +2103,8 @@ Des voux passionnés à revoir leur Princesse.
 Je m'y suis employée, et comme il achevait
 Il m'a fait avancer, disant qu'il me suivait.
 
-
 **** *creator_aure *book_aure_genevieve70 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve70 *dist2_aure_verse_tragedy *id_GERTRUDE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_gertrude
+
 
       Un conte à plaisir.
 
@@ -2429,8 +2430,8 @@ Je voudrais bien Henry ; mais il ne me veut pas.
 
 Dieu sait pareillement que je veux être vôtre.
 
-
 **** *creator_aure *book_aure_genevieve70 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve70 *dist2_aure_verse_tragedy *id_LAMBASSADEUR *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lambassadeur
+
 
 Seigneur, je suis confus voyant que votre Altesse
 M'adresse ses faveurs avec trop de largesse :
@@ -2693,8 +2694,8 @@ J'ai perdu la parole à ces ravissements,
 Et vous prie, Seigneur, par mes promptes dépêches
 Que je puisse en porter les nouvelles plus fraîches.
 
-
 **** *creator_aure *book_aure_genevieve70 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve70 *dist2_aure_verse_tragedy *id_HENRY *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_henry
+
 
 Il s'est servi de moi, et sa chute en Justice
 Me peut bien attirer en même précipice !
@@ -2991,8 +2992,8 @@ Je ne sais où je suis, je me perds d'allégresse.
 
 Puis-je prendre un baiser sur cette main céleste.
 
-
 **** *creator_aure *book_aure_genevieve70 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve70 *dist2_aure_verse_tragedy *id_OTHON *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_othon
+
 
 Si le Prince a failli en voulant vous enjoindre
 D'obéir à Golo, votre faute est bien moindre,
@@ -3194,8 +3195,8 @@ Tenez-moi pour tout vôtre, et soyez toute mienne.
 
 Je reçois, Monseigneur, l'effet de vos largesses.
 
-
 **** *creator_aure *book_aure_genevieve70 *style_verse *genre_tragedy *dist1_aure_verse_tragedy_genevieve70 *dist2_aure_verse_tragedy *id_GERMAINE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_germaine
+
 
 C'est un vent de frayeur, qui depuis le trépas
 Du malheureux Golo, me porte à tous mes pas,
@@ -3402,4 +3403,3 @@ Ses biens et mes défauts m'ont toujours empêchée
 De croire que de cour il m'eusse recherchée :
 Mais je vois d'un esprit tous nos cours animés,
 Qu'il m'aime, que je l'aime, et que vous nous aimez.
-

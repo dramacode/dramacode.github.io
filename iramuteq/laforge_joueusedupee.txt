@@ -2,6 +2,7 @@
 
 **** *creator_laforge *book_laforge_joueusedupee *style_verse *genre_comedy *dist1_laforge_verse_comedy_joueusedupee *dist2_laforge_verse_comedy *id_CLIDAMANT *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clidamant
 
+
 C'est se moquer du monde, et sans doute Uranie
 Ne se ressouvient pas qu'elle attend compagnie.
 Pour avoir le plaisir d'être longtemps au jeu,
@@ -120,8 +121,8 @@ Notre dessein est sûr. Partirons-nous, Madame ?
 Quittez, quittez, Monsieur, cette colère extrême :
 Je serai son époux.
 
-
 **** *creator_laforge *book_laforge_joueusedupee *style_verse *genre_comedy *dist1_laforge_verse_comedy_joueusedupee *dist2_laforge_verse_comedy *id_TURLUPIN *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_turlupin
+
 
 Que diable ! Ta maîtresse est longue à s'attifer !
 
@@ -240,8 +241,8 @@ Entretienne chez moi les galants de ma femme,
 Et dès ce même jour je dégage ma foi,
 Si tu prétends jouer avec d'autres que moi.
 
-
 **** *creator_laforge *book_laforge_joueusedupee *style_verse *genre_comedy *dist1_laforge_verse_comedy_joueusedupee *dist2_laforge_verse_comedy *id_LEMARQUIS *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+
 
       Je n'en puis plus, cousin, laisse moi rire.
 
@@ -419,8 +420,8 @@ Quoi, pour un quart d'écu vous entrez en bataille ?
 
 Accordez-vous enfin, il est temps.
 
-
 **** *creator_laforge *book_laforge_joueusedupee *style_verse *genre_comedy *dist1_laforge_verse_comedy_joueusedupee *dist2_laforge_verse_comedy *id_URANIE *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_uranie
+
 
       Je vous ai fait attendre,
 Et de quelque paresse on me doit accuser ;
@@ -536,8 +537,8 @@ Laisse, laisse courir ce vieillard en colère ;
 C'est un bonheur pour toi qu'il te donne un époux,
 Et nous aurons le temps de calmer son courroux.
 
-
 **** *creator_laforge *book_laforge_joueusedupee *style_verse *genre_comedy *dist1_laforge_verse_comedy_joueusedupee *dist2_laforge_verse_comedy *id_CLEONICE *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleonice
+
 
       Non, je n'ai point de haine,
 J'estime vos vertus ; mais...
@@ -557,8 +558,8 @@ Mais si dans le chemin nous rencontrons mon père ?
 
 Ah ! Mon père, excusez un amour téméraire.
 
-
 **** *creator_laforge *book_laforge_joueusedupee *style_verse *genre_comedy *dist1_laforge_verse_comedy_joueusedupee *dist2_laforge_verse_comedy *id_LISETTE *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisette
+
 
 Dans une heure, monsieur, vous verrez ma maîtresse ;
 Mais il faut accorder ce temps à sa paresse,
@@ -660,8 +661,8 @@ Chien de poltron...
 
 Faut-il donc me résoudre à quitter Cléonice ?
 
-
 **** *creator_laforge *book_laforge_joueusedupee *style_verse *genre_comedy *dist1_laforge_verse_comedy_joueusedupee *dist2_laforge_verse_comedy *id_POLIXENE *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polixene
+
 
 Je viens auprès de vous m'acquitter d'un devoir.
 
@@ -744,8 +745,8 @@ J'ai gagné.
 
       Voilà cette belle joueuse !
 
-
 **** *creator_laforge *book_laforge_joueusedupee *style_verse *genre_comedy *dist1_laforge_verse_comedy_joueusedupee *dist2_laforge_verse_comedy *id_VALERE *date_1664 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+
 
       Venez, venez, coureuse ;
 Quand je vous ai trouvée, où, de grâce, alliez-vous,
@@ -814,4 +815,3 @@ L'une perd tout mon bien, et l'autre est amoureuse ;
 Cléonice est coquette, et sa mère est joueuse :
 Je renonce à leur garde et, me laissant en paix,
 Elles m'obligeront de ne me voir jamais.
-

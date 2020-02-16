@@ -2,6 +2,7 @@
 
 **** *creator_alainlegrand *book_alainlegrand_epreuvereciproque *style_prose *genre_comedy *dist1_alainlegrand_prose_comedy_epreuvereciproque *dist2_alainlegrand_prose_comedy *id_MADAMEDEFALIGNAC *date_1711 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedefalignac
 
+
 Ah ! C'est vous, mon cher Valère ? Êtes-vous toujours fou ?
 
 Philaminte est une jeune folle qui ne sait pas les conséquences des choses, et vous devriez plutôt détourner les occasions qu'elle pourrait avoir de vous être infidèle, que de tendre des appâts à son humeur volage. Mais quel est ce monsieur devant qui nous parlons si librement ?
@@ -74,8 +75,8 @@ Vous vous moquez. Vous vous aimez encore plus qu'il ne faut pour être mari et f
 
 Et n'en venez jamais, croyez-moi, à ces sortes d'épreuves ; elles sont trop dangereuses.
 
+**** *creator_alainlegrand *book_alainlegrand_epreuvereciproque *style_prose *genre_comedy *dist1_alainlegrand_prose_comedy_epreuvereciproque *dist2_alainlegrand_prose_comedy *id_VALERE *date_1711 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_valere
 
-**** *creator_alainlegrand *book_alainlegrand_epreuvereciproque *style_prose *genre_comedy *dist1_alainlegrand_prose_comedy_epreuvereciproque *dist2_alainlegrand_prose_comedy *id_VALERE *date_1711 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_valere
 
 Oui, Frontin.
 
@@ -181,8 +182,8 @@ Philaminte !
 
 Oublions le passé.
 
+**** *creator_alainlegrand *book_alainlegrand_epreuvereciproque *style_prose *genre_comedy *dist1_alainlegrand_prose_comedy_epreuvereciproque *dist2_alainlegrand_prose_comedy *id_PHILAMINTE *date_1711 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_philaminte
 
-**** *creator_alainlegrand *book_alainlegrand_epreuvereciproque *style_prose *genre_comedy *dist1_alainlegrand_prose_comedy_epreuvereciproque *dist2_alainlegrand_prose_comedy *id_PHILAMINTE *date_1711 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_philaminte
 
 Ma chère Madame de Falignac, vous me voyez dans une joie, dans un excès de joie, qui ne se peut concevoir!
 
@@ -289,8 +290,8 @@ Valère !
 
 J'y consens.
 
-
 **** *creator_alainlegrand *book_alainlegrand_epreuvereciproque *style_prose *genre_comedy *dist1_alainlegrand_prose_comedy_epreuvereciproque *dist2_alainlegrand_prose_comedy *id_FRONTIN *date_1711 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+
 
 Eh bien ! Monsieur mon nouveau maître, nous voici donc chez madame de Falignac ?
 
@@ -458,8 +459,8 @@ Il semble que nous pouvons nous marier sans craindre à présent le courroux de 
 
 Oh ! Je n'ai garde ; je serais sûr d'être trop bien payé de ma curiosité.
 
-
 **** *creator_alainlegrand *book_alainlegrand_epreuvereciproque *style_prose *genre_comedy *dist1_alainlegrand_prose_comedy_epreuvereciproque *dist2_alainlegrand_prose_comedy *id_LISETTE *date_1711 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisette
+
 
 Des merveilles. On vient de me montrer votre Valère. Aussitôt qu'il m'a vue, il s'est troublé ; j'ai fait la déconcertée, il a tiré mon portrait de sa poche, et l'a baisé avec transport. J'ai joué de la prunelle, j'ai rougi, j'ai pâli, et en tournant mes pas de ce côté, je lui ai lancé un coup d'oeil si meurtrier que je ne crois pas qu'il en revienne.
 
@@ -560,8 +561,8 @@ Monsieur le financier ?
 
 Ma foi, je le veux ; mais point d'épreuve, an moins.
 
-
 **** *creator_alainlegrand *book_alainlegrand_epreuvereciproque *style_prose *genre_comedy *dist1_alainlegrand_prose_comedy_epreuvereciproque *dist2_alainlegrand_prose_comedy *id_CRIQUET *date_1711 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_criquet
+
 
 Eh bien ! Mademoiselle Lisette, je viens de raisonner avec ce monsieur ; savez-vous qu'il ne manque pas d'esprit ?
 
@@ -582,4 +583,3 @@ Je ne le connais point.
 Ce financier... Monsieur Patin... Je ne sais ce que c'est ; mais il n'importe, je devinerai bien à la mine qu'est-ce qui doit s'appeler comme cela.
 
 Madame, une figure grosse et courte , vêtue de velours noir, s'approche d'ici ; j'ai jugé que c'était Monsieur Patin.
-

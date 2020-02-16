@@ -2,6 +2,7 @@
 
 **** *creator_regnard *book_regnard_divorce *style_prose *genre_comedy *dist1_regnard_prose_comedy_divorce *dist2_regnard_prose_comedy *id_JUPITER *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
 
+
 Arlequin.
 
 Je descends exprès des cieux pour voir une répétition de la pièce nouvelle qu'il y a si longtemps que tu promets. On dit que l'on y sépare un mari d'avec sa femme ; et comme Junon est une carogne qui me fait enrager, je pourrai bien en faire venir la mode là-haut.
@@ -12,8 +13,8 @@ Je vais me placer aux troisièmes loges pour mieux voir.
 
 Je me suis amusé, en venant, à jouer à la boule aux petits-carreaux, contre quatre procureurs qui ne m'ont laissé que trente sous.
 
-
 **** *creator_regnard *book_regnard_divorce *style_prose *genre_comedy *dist1_regnard_prose_comedy_divorce *dist2_regnard_prose_comedy *id_MERCURE *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+
 
 Terminez vos regrets, que votre douleur cesse ;
 Dans votre sort Jupiter s'intéresse,
@@ -31,8 +32,8 @@ Du souverain des dieux.
 
 Patrocle est mort.
 
-
 **** *creator_regnard *book_regnard_divorce *style_prose *genre_comedy *dist1_regnard_prose_comedy_divorce *dist2_regnard_prose_comedy *id_ARLEQUIN *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+
 
 Hé ! Que diable, messieurs, ne sauriez-vous mieux prendre votre temps pour être malades ? Cela est de la dernière impertinence, de se trouver mal quand il faut gagner de l'argent. Que voulez-vous que je fasse de tout ce monde-là ?
 Messieurs, ce que je vais vous dire vous déplaira peut-être ; mais, en vérité, j'en suis plus fâché que vous, et personne n'y perd tant que moi.Nous ne pouvons pas jouer la comédie aujourd'hui ; voilà notre portier qui vient de se trouver mal, et Pantalon, qui devait faire un rôle de Patrocle, est indisposé. On va vous rendre votre argent à la porte. Vous voyez, messieurs, que nous ne suivons pas les mauvais exemples, et que nous rendons l'argent, quoique la comédie soit commencée.
@@ -213,8 +214,8 @@ Monsieur L'Hyménée, ce n'est pas tout : vous venez de défaire un mariage ; ma
 
 Je le veux bien ; car j'ai toujours ouï dire qu'une femme et un almanach sont deux choses qui ne sont bonnes tout au plus que pour une année.
 
-
 **** *creator_regnard *book_regnard_divorce *style_prose *genre_comedy *dist1_regnard_prose_comedy_divorce *dist2_regnard_prose_comedy *id_ISABELLE *date_1688 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
 
 Ah ! Colombine, quel bruit épouvantable ! Quelle rumeur ! Mais il faut qu'on ait perdu l'esprit, de faire un tintamarre semblable dans mon antichambre ! Quelle brutalité de m'éveiller à l'heure qu'il est ! Non, je ne crois pas qu'il soit encore midi ; il n'y a pas trois heures que je suis rentrée. Je crois, Colombine, que je suis faite d'une jolie manière.
 Ah ! L'horreur ! Quelle extinction de teint !
@@ -296,8 +297,8 @@ Fais donc tout ce que tu voudras. Mais, faudra-t-il que j'aille solliciter toute
 
 Je ne sais pas, Colombine, dans quelle affaire tu m'embarques là. Ne vous mettez pas en peine, madame ; je vous en tirerai. Je ne vous dis pas ce que j'ai envie de faire.
 
-
 **** *creator_regnard *book_regnard_divorce *style_prose *genre_comedy *dist1_regnard_prose_comedy_divorce *dist2_regnard_prose_comedy *id_AURELIO *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aurelio
+
 
 Cosi è, Mezzetino.
 
@@ -311,8 +312,8 @@ E che cosa facevi in cantina con la serva ?
 
 Orsù, vado a trovar mia sorella ; farò il possibile per resolverla a separarsi da suo marito.Tu pensa in tanto a quelle vieni di promettermi.Addio.
 
-
 **** *creator_regnard *book_regnard_divorce *style_prose *genre_comedy *dist1_regnard_prose_comedy_divorce *dist2_regnard_prose_comedy *id_ARLEQUIN *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+
 
 Hé ! Que diable, messieurs, ne sauriez-vous mieux prendre votre temps pour être malades ? Cela est de la dernière impertinence, de se trouver mal quand il faut gagner de l'argent. Que voulez-vous que je fasse de tout ce monde-là ?
 Messieurs, ce que je vais vous dire vous déplaira peut-être ; mais, en vérité, j'en suis plus fâché que vous, et personne n'y perd tant que moi.Nous ne pouvons pas jouer la comédie aujourd'hui ; voilà notre portier qui vient de se trouver mal, et Pantalon, qui devait faire un rôle de Patrocle, est indisposé. On va vous rendre votre argent à la porte. Vous voyez, messieurs, que nous ne suivons pas les mauvais exemples, et que nous rendons l'argent, quoique la comédie soit commencée.
@@ -493,8 +494,8 @@ Monsieur L'Hyménée, ce n'est pas tout : vous venez de défaire un mariage ; ma
 
 Je le veux bien ; car j'ai toujours ouï dire qu'une femme et un almanach sont deux choses qui ne sont bonnes tout au plus que pour une année.
 
-
 **** *creator_regnard *book_regnard_divorce *style_prose *genre_comedy *dist1_regnard_prose_comedy_divorce *dist2_regnard_prose_comedy *id_COLOMBINE *date_1688 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colombine
+
 
 Eh ! Là, là ; consolez-vous, madame ; vous avez des yeux à défrayer tout un visage. Et de quoi vous embarrassez-vous de votre teint ? Il ne tiendra qu'à vous de l'avoir comme il vous plaira. Que ne me laissez-vous faire ? Je ne veux qu'une petite couche de rouge pour réparer de trente méchantes nuits la plus obstinée.
 
@@ -592,8 +593,8 @@ Tu plaides donc bien ? Il n'en faut pas davantage pour gagner le procès le plus
 
 Ah ! Très volontiers, à condition que l'on nous démariera au bout de l'an.
 
-
 **** *creator_regnard *book_regnard_divorce *style_prose *genre_comedy *dist1_regnard_prose_comedy_divorce *dist2_regnard_prose_comedy *id_MEZZETIN *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mezzetin
+
 
 Je le sais bien ; j'étais la chambre de madme votre soeur quand son mari, monsieur Sotinet, mon maître et votre beau-frère, la surprit comme elle vous écrivait la dernière lettre que vous avec reçue d'elle, où elle vous mande de venir au plus tôt à Paris, afiun de prendre des mesures avec vous pour se mettre à couvert du chagrin que son vieux mari lui fait tous les jours.
 
@@ -726,8 +727,8 @@ Fort bien.
 
 À quoi concluez-vous ? Je conclus à ce que nous allions manger les saucisses, avant qu'elles refroidissent.
 
-
 **** *creator_regnard *book_regnard_divorce *style_prose *genre_comedy *dist1_regnard_prose_comedy_divorce *dist2_regnard_prose_comedy *id_PIERROT *date_1688 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+
 
 Oui, monsieur ; vous me dites d'empêcher que madame n'entre dans la maison, et de lui fermer la porte au nez.
 
@@ -742,4 +743,3 @@ Monsieur, il est bien malade ; il ne pourra pas venir : en taillant sa plume, il
 Il m'a dit qu'il allait envoyer un jeune homme en sa place, qui plaide comme un diable, et qui vous fera aussi bien perdre votre procès que lui-même.
 
 Hé ! Monsieur, consolez-vous : il y a bien des gens qui voudroient être quittes de leurs femmes à ce prix-là.
-

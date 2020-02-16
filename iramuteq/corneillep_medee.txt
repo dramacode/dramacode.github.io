@@ -2,6 +2,7 @@
 
 **** *creator_corneillep *book_corneillep_medee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_medee *dist2_corneillep_verse_tragedy *id_CREON *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_creon
 
+
 Quoi ? Je te vois encore ! Avec quelle impudence
 Peux-tu, sans t'effrayer, soutenir ma présence ?
 Ignores-tu l'arrêt de ton bannissement ?
@@ -205,8 +206,8 @@ Retourne : c'en est fait. Ma fille. Adieu, j'expire,
 Et ce dernier soupir, met fin à mon martyre,
 Je laisse à ton Jason le soin de nous venger.
 
-
 **** *creator_corneillep *book_corneillep_medee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_medee *dist2_corneillep_verse_tragedy *id_AEGEE *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aegee
+
 
 Sur un bruit qui m'étonne et que je ne puis croire
 Madame, mon amour jaloux de votre gloire,
@@ -357,8 +358,8 @@ Puisse d'un prompt succès votre grande entreprise
 Combler nos ennemis d'un mortel désespoir,
 Et me donner bientôt le bien de vous revoir.
 
-
 **** *creator_corneillep *book_corneillep_medee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_medee *dist2_corneillep_verse_tragedy *id_JASON *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jason
+
 
 Vous n'y pouviez venir en meilleure saison,
 Et pour vous rendre encor l'âme plus étonnée
@@ -806,8 +807,8 @@ Peuvent de la sorcière achever le supplice,
 Trouve-le bon, chère ombre et pardonne à mes feux
 Si je vais te revoir plus tôt que tu ne veux.
 
-
 **** *creator_corneillep *book_corneillep_medee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_medee *dist2_corneillep_verse_tragedy *id_POLLUX *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pollux
+
 
 Que je sens à la fois de surprise et de joie !
 Se peut-il qu'en ces lieux enfin je vous revoie,
@@ -913,8 +914,8 @@ Il faut se faire force, et vaincre son désir.
 Jason dans son amour a trop de complaisance
 De souffrir qu'un tel don s'accepte en sa présence.
 
-
 **** *creator_corneillep *book_corneillep_medee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_medee *dist2_corneillep_verse_tragedy *id_CREUSE *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_creuse
+
 
 Je n'avais pourtant rien à demander aux Dieux,
 Ayant Jason à moi, j'ai tout ce que je veux.
@@ -1101,8 +1102,8 @@ Ah douleurs ! C'en est fait, je meurs à cette fois,
 Et perds en ce moment la vie avec la voix.
 Si tu m'aimes…
 
-
 **** *creator_corneillep *book_corneillep_medee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_medee *dist2_corneillep_verse_tragedy *id_MEDEE *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_medee
+
 
 Souverains protecteurs des lois de l'hyménée,
 Dieux garants de la foi que Jason m'a donnée,
@@ -1701,8 +1702,8 @@ Adieu, parjure apprends à connaître ta femme,
 Souviens-toi de sa fuite, et songe une autre fois
 Lequel est plus à craindre ou d'elle ou de deux rois.
 
-
 **** *creator_corneillep *book_corneillep_medee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_medee *dist2_corneillep_verse_tragedy *id_CLEONE *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleone
+
 
 Vous pourrez au palais suivre cet entretien,
 On ouvre chez Médée, ôtez-vous de sa vue,
@@ -1744,8 +1745,8 @@ Il arrive, et surpris il change, de visage :
 Je lis dans sa pâleur une secrète rage,
 Et son étonnement va passer en fureur.
 
-
 **** *creator_corneillep *book_corneillep_medee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_medee *dist2_corneillep_verse_tragedy *id_NERINE *date_1635 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
+
 
 Modérez les bouillons de cette violence,
 Et laissez déguiser vos douleurs au silence,
@@ -1891,8 +1892,8 @@ Que de tant de poisons vous avez infectée,
 C'est pour votre Nérine un trop funeste emploi,
 Avant que sur Créuse ils agiraient sur moi.
 
-
 **** *creator_corneillep *book_corneillep_medee *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_medee *dist2_corneillep_verse_tragedy *id_THEUDAS *date_1635 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_theudas
+
 
 Ah ! Déplorable prince ! Ah Fortune cruelle !
 Que je porte à Jason une triste nouvelle !
@@ -1926,4 +1927,3 @@ S'acquitte des devoirs d'une amitié civile
 Qui va se rendre en hâte aux noces de sa soeur,
 Dont bientôt Ménélas doit être possesseur,
 Et j'allais lui porter ce funeste message.
-

@@ -2,6 +2,7 @@
 
 **** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_armidore *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_armidore
 
+
 Image precieux de ma vivante aurore,    
 Belle feinte d'amour que mon esprit adore,
 Rayons de mon Soleil, doux abus⁎ de mes yeux,
@@ -117,8 +118,8 @@ Lors que chez Lycomede Ulysses le trouva.
 Vous en fustes l'autheur, certes je le confesse,
 Et sans vous j'eusse en vain voulu voir ma Maistresse.
 
-
 **** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_clidame *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clidame
+
 
 N'esteindrez-vous jamais ceste subtile flame
 Dont un esprit trompeur flate vos passions
@@ -363,8 +364,8 @@ Ne se vit si confuse, ô glorieuse flame,
 Dont Armidore sent l'agreable tourment⁎,
 Qu'il fut judicieux en son desguisment.
 
-
 **** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_clorisee *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_clorisee
+
 
 Mortel ressouvenir⁎ d'une ame desloyale⁎
 Qui fait pallir l'esclat de ma grandeur Royale,
@@ -1032,8 +1033,8 @@ Monsieur, je ne puis rien adjouster à ma flame,
 Le temps, ny les tourmens⁎, ny la prosperité,
 N'ont peu rien esmouvoir⁎ en ma fidelité.
 
-
 **** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_gouvernante *date_1633 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_gouvernante
+
 
 Madame vostre esprit n'est pas seul combatu
 De l'infidelité de ces ames parjures,
@@ -1093,8 +1094,8 @@ O que vostre retour nous sera precieux.
 
 Il ne reste donc plus qu'à me ravir⁎ la vie.            
 
-
 **** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_alderine *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alderine
+
 
 Mais vous ne dites rien de ma chere Lucide,Elles sont dans le
 Qui souz tant de beautez a des forces d'Alcide,jardin du Chasteau.
@@ -1471,8 +1472,8 @@ En prolongeant ma vie ait avancésa mort :
 Justes Dieux, s'il est vray, faites que ceste atteinte,
 Borne⁎ ma passion au but de vostre crainte.
 
-
 **** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_florinde *date_1633 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_florinde
+
 
 Ces amours sans espoir se tournent en fureurs⁎,
 Et ne laissent en fin que des cris et des pleurs.
@@ -1606,8 +1607,8 @@ Vous avez trop de soin⁎.
 Dieux ! qu'est-ce que j'entens, ô nouvelle adorée,
 Je vay gaigner des gans d'éternelle durée.
 
-
 **** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_tersandre *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tersandre
+
 
 Vostre desir conçoit une fascheuse route,
 Je vous veux toutesfois retirer de ce doute.
@@ -1803,8 +1804,44 @@ Mon esprit estonné⁎ croit de voir des chimeres.
 
 Sire, je rends mes vœux à vostre Majesté.
 
+**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_aristome *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aristome
+
+
+Princesse dont chacun celebre la loüange,
+Et souz qui le sort m'a fatalement soumis,
+Je me viens acquitter de ce que j'ay promis.
+L'inestimable prix des beautez d'Alderine,
+Dont les feux⁎ immortels embrazent ma poitrine,
+D'éternelles ardeurs⁎, m'avoit fait concevoir
+Un honneur dont l'attente excede⁎ mon pouvoir.
+Vostre peine⁎, Madame, est un mal sans remede,
+S'il faut pour le guerir vaincre le Roy de Mede.
+Sa valeur⁎ que j'égale à voz belles vertus,
+Ravit⁎ d'estonnement⁎ ceux qu'il a combatus.
+Ce Soleil de la paix, ce foudre de la guerre,
+Autant aymé du Ciel qu'il est craint en la terre,
+Tesmoigne tant d'adresse aux plus rudes combats
+Que la mort n'est sinon l'object de ses esbats⁎ ,
+Je l'ay veu triompher du Prince d'Hyrcanie,
+Dont Mars mesme estimoit la valeur⁎ infinie,
+Avecque plus d'effort et moins d'estonnement⁎,
+Que ne fait un lyon d'un chevreul seulement.
+Ce combat fut fondé dessus vostre querelle,
+Dont la cause si juste et l'attente si belle
+Esmouvent⁎ l'univers au soing⁎ de vous servir ;
+Ce dessein genereux⁎ me vint aussi ravir⁎
+Du desir de cueillir des fruicts de ceste gloire,
+Mais au lieu d'approcher du but de la victoire,
+J'en ay perdu l'espoir avec ma liberté,
+Et ne suis plus vivant que dans vostre bonté,
+Filamire en ma grace achevant sa conqueste,
+Met en vostre pouvoir ma fortune et ma teste.
+Exercez sur ma vie un effect⁎ souverain,
+Je mourray glorieux, mourant de vostre main,
+Grande Reyne en cecy j'aquitte ma promesse.
 
 **** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_bruserbe *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_bruserbe
+
 
 L'injurieux mespris que ce Prince respire,
 Qui ternit vostre gloire, et trouble vostre Empire,
@@ -1956,8 +1993,8 @@ Ha ! que ceste prison m'accable de soucy⁎.
 
 Nous n'attendions pas moins, de sa main genereuse.
 
-
 **** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_filamon *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_filamon
+
 
 Madame, vous voyez un Prince dont l'usage
 Estoit tousjours d'abatre, et non d'estre abatu,
@@ -2059,8 +2096,8 @@ Nous avons tousjours creu, nostre prison heureuse,
 Et que ceste Princesse, a trop d'humanité,
 Pour punir les excez, de nostre cruauté.
 
-
 **** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_filamire *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_filamire
+
 
 Mais la nuict ne sçauroit receler⁎ ton audace,
 Deffends toy si tu peux, et n'attends plus de grace.
@@ -2167,8 +2204,8 @@ Retirons nous, Madame, allons pourvoir au reste,
 Et noyons dans l'oubly tant de soucy⁎ funeste.
 FIN.
 
-
 **** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_lucide *date_1633 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucide
+
 
       C'est la Reyne sans doute,
 Mon frere le bon-heur assiste nostre route.
@@ -2813,8 +2850,32 @@ Ouy bien, comme Lucide, et non comme Armidore.
 
       Que ce soin⁎ me devore.
 
+**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_ambassadeur *date_1633 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ambassadeur
+
+
+Reyne, à qui je souhaite une gloire infinie,
+Le Monarque d'Epire, et celuy d'Hyrcanie,
+Campez victorieux devant ceste cité,
+M'envoient pour parler à vostre Majesté.
+Vous sçavez bien surquoy leur venuë est fondée,
+Et que l'Amour en a la trame⁎ devidée,
+Ces grands Roys se sont mis plus qu'au juste devoir,
+Pour fléchir vos rigueurs, et pour vous esmouvoir⁎.
+Leur douceur a tousjours receu de l'amertume,
+Mais ils ne veulent plus souffrir⁎ ceste coustume.
+Madame, vos desdains sont un trop pesant faix,
+Et les en deschargeant ils vous donnent la paix,
+Dont les conditions vous obligent à prendre
+Bruserbe pour espoux, et Philamon pour gendre,
+L'égalité par tout resout le different.
+Icy nostre refus de mespris apparent,
+Va former les horreurs d'une guerre éternelle,
+Dont la severité vous rendroit criminelle.
+
+Ces injures ne font qu'accroistre vostre tort.
 
 **** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_sentinelle *date_1633 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_sentinelle
+
 
       Qui va là ?
 
@@ -2825,3 +2886,22 @@ Nous allons advertir le genereux⁎ Tersandre.
 
 Qui va là ?
 
+**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_soldats *date_1633 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_soldats
+
+
+      Ah ! cruelle adventure :
+Ces grands Roys trouvent donc icy leur sepulture.
+Prodiges de l'abus⁎, songes fallacieux,
+Sur le poinct de cueillir des fruicts delicieux,
+Un moment malheureux produit de l'amertume,
+Quand la fortune rid ce n'est que par coustume.
+
+      C'est alors qu'on la doit redouter.
+
+**** *creator_gougenot *book_gougenot_fideletromperie *style_verse *genre_tragedy *dist1_gougenot_verse_tragedy_fideletromperie *dist2_gougenot_verse_tragedy *id_courrier *date_1633 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_courrier
+
+
+      Sire, je viens de Mede,
+
+      Un malheur sans remede,
+Ceste lettre en contient la pure verité.

@@ -2,6 +2,7 @@
 
 **** *creator_nanteuil *book_nanteuil_amoursentinelle *style_verse *genre_comedy *dist1_nanteuil_verse_comedy_amoursentinelle *dist2_nanteuil_verse_comedy *id_clidamant *date_1669 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_clidamant
 
+
                   J'en suis tout interdit⁎.
 
 Que je suis malheureux.
@@ -132,8 +133,8 @@ Madame.
 
                   Ah Monsieur quelles graces⁎ !
 
-
 **** *creator_nanteuil *book_nanteuil_amoursentinelle *style_verse *genre_comedy *dist1_nanteuil_verse_comedy_amoursentinelle *dist2_nanteuil_verse_comedy *id_isabelle *date_1669 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_isabelle
+
 
                   Est-ce vous Clidamant ?
 
@@ -167,8 +168,8 @@ Je m'abandonne à vous.
 
 Je me jette à vos pieds.
 
-
 **** *creator_nanteuil *book_nanteuil_amoursentinelle *style_verse *genre_comedy *dist1_nanteuil_verse_comedy_amoursentinelle *dist2_nanteuil_verse_comedy *id_florant *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_florant
+
 
 Voyez, mon cher voisin, si je suis malheureux,
 Vit on jamais un homme à mon aage amoureux
@@ -395,8 +396,8 @@ Il faut nous divertir.
 
 Appelle nos danseurs.
 
-
 **** *creator_nanteuil *book_nanteuil_amoursentinelle *style_verse *genre_comedy *dist1_nanteuil_verse_comedy_amoursentinelle *dist2_nanteuil_verse_comedy *id_fabrice *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fabrice
+
 
 Roguepine.
 
@@ -489,8 +490,8 @@ Vous tairez vous, maraut.
 
       Que je suis miserable.
 
-
 **** *creator_nanteuil *book_nanteuil_amoursentinelle *style_verse *genre_comedy *dist1_nanteuil_verse_comedy_amoursentinelle *dist2_nanteuil_verse_comedy *id_fernant *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fernant
+
 
 Quand on aime pourtant l'on n'agit pas de mesme,
 On ne maltraitte pas l'object de son amour,
@@ -603,8 +604,8 @@ Vous estes tout changé.
 
 Ouy ouy.
 
-
 **** *creator_nanteuil *book_nanteuil_amoursentinelle *style_verse *genre_comedy *dist1_nanteuil_verse_comedy_amoursentinelle *dist2_nanteuil_verse_comedy *id_croctin *date_1669 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_croctin
+
 
 Ce dessein⁎ vous surprend.
 
@@ -965,8 +966,8 @@ Touche la.
                   Allons nous marier
 Et ne songeons apres qu'à bien multiplier.
 
-
 **** *creator_nanteuil *book_nanteuil_amoursentinelle *style_verse *genre_comedy *dist1_nanteuil_verse_comedy_amoursentinelle *dist2_nanteuil_verse_comedy *id_lisette *date_1669 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lisette
+
 
                   Croctin ?
 
@@ -1049,8 +1050,8 @@ Tiendras-tu ta promesse.
 
       Je le veux.
 
-
 **** *creator_nanteuil *book_nanteuil_amoursentinelle *style_verse *genre_comedy *dist1_nanteuil_verse_comedy_amoursentinelle *dist2_nanteuil_verse_comedy *id_roguepine *date_1669 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_roguepine
+
 
               Monsieur.
 
@@ -1171,3 +1172,10 @@ Mais quelqu'un vient sortons,
 
 Suivez moy seulement.
 
+**** *creator_nanteuil *book_nanteuil_amoursentinelle *style_verse *genre_comedy *dist1_nanteuil_verse_comedy_amoursentinelle *dist2_nanteuil_verse_comedy *id_carlos *date_1669 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_carlos
+
+
+Monsieur je viens icy pour Monsieur Clidamant,
+Vous porter ce billet⁎.
+
+                  Son amour est extreme.

@@ -2,6 +2,7 @@
 
 **** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *id_tamerlan *date_1648 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_tamerlan
 
+
 Themir arrestés-vous, & vous, Madame, aussi,
 Vos frequens entretiens me donnent du soucy :
 Ce que vous concertés, est de quelque importance.
@@ -459,8 +460,8 @@ O Themir trop vangé ! Qu'on les oste d'icy :
 Qu'on les porte au cercueil, & qu'on m'y meine aussi.
 FIN.
 
-
 **** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *id_themir *date_1648 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_themir
+
 
 Madame, il faut combattre, & desja nos armées
 De mesme qu'au butin, à la gloire animées
@@ -685,8 +686,8 @@ Ah, pere trop barbare !
  
       Plustost ma mort !
 
-
 **** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *id_indarthize *date_1648 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_indarthize
+
 
       Hé bien agirons-nous ?
 Dedans leurs libertez vous interessez⁎-vous ?
@@ -842,8 +843,8 @@ Par quel heureux moyen causerez-vous leur fuite ?
 
 Seigneur, considerez que vous estes son pere.
 
-
 **** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *id_zilim *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zilim
+
 
       Il vient vous l'accorder,
 Il veut vous la donner dans cette mesme tente.
@@ -914,8 +915,73 @@ Commande.
 
 Soldats qu'on le contente, éloignez-vous d'icy.
 
+**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *id_mansor *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mansor
+
+
+N'imputez à son ame aucune lâcheté,
+Sa prise est un malheur où son cœur l'a jetté.
+Douze mille chevaux qui venoient de la Thrace,
+Joignoient nos ennemis avecque tant d'audace,
+Que poussez de l'espoir dont ils estoient remplis,
+Ils croyoient nous voyans, nous avoir affoiblis.
+Themir dans son quartier se contraignoit à peine,
+Et portant ses regards sur chaque Capitaine,
+Il leur communiquoit cette ardeur qu'il avoit,
+Au poinct qu'il la donnoit, chacun la recevoit ;
+Tous d'un commun accord fondent avec furie,
+Ils viennent tous choquer cette Cavalerie :
+L'on voit de chaque part douze mille chevaux,
+Et de chaque costé douze mille rivaux
+Egallement épris & jaloux de leur gloire :
+Leurs yeux avant leurs mains se donnoient la victoire ;
+Nos deux camps suspendus les animoient des yeux,
+Et chacun des partis poussoient des vœux⁎ aux Cieux.
+Ils appelloient entr'eux ce premier témoignage
+Du combat general l'infaillible presage :
+Alors on s'est heurté d'un chocq si violent,
+Qu'on a veu dés l'abord chaque escadron tremblant ;
+L'on les a veu plier, & mesmes nos armées,
+D'un chocq si furieux puissamment allarmées,
+Ont monstré par leurs cris leur grand estonnement⁎,
+Et qu'elles prenoient part à cét ébranlement.
+Themir tout indigné traverse ses Gendarmes,
+Découvre aux yeux de tous la beauté de ses armes :
+Il leur semble monstrer sa naissance⁎ & son rang ;
+Et de là s'estant fait un passage de sang,
+Tout honteux de celuy qu'il venoit de respandre,
+Ce courage hautain cherche avec qui se prendre ;
+Choisit un ennemy digne de sa valeur :
+Un fils de Bajazet se monstre à son malheur :
+De si vaillans guerriers eurent dequoy se plaire,
+Et chacun dedans soy loüa son adversaire :
+Ils s'offrirent tous deux, & s'estans acceptez,
+L'on les vit au combat également portez ;
+Ils vindrent l'un sur l'autre à l'égal du tonnerre,
+Et chacun se laschant un coup de cimeterre⁎,
+Ils alloient par leur mort celebrer leur couroux,
+Quand dessus leurs chevaux descendirent leurs coups :
+Le cheval de Themir ressentant sa blesseure,
+Parmy nos ennemis se fit faire ouverture,
+Et reduisit son Maistre au plus fort du danger.
+
+Luy-mesme ne l'a pû, qui l'auroit donc pû faire ?
+Il tenta toutefois un combat temeraire ;
+Ziamet remonté sur un autre cheval,
+Avec un beau dessein poursuivit son rival ;
+Et d'un pas qui marquoit sa genereuse⁎ envie,
+Se hasta vers les siens pour luy sauver la vie :
+Themir la disputa, mais malgré sa valeur,
+Il fallut que son cœur⁎ le cedast au malheur :
+Lors qu'estonné de voir sa vaillance trompée,
+Au fils de Bajazet il rendit son espée :
+Ses soldats consternés se renversant sur nous,
+Nous leur ouvrons nos rangs.
+
+      Ziamet content de leur deffaite,
+Sans les vouloir poursuivre, ordonna la retraitte.
 
 **** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *id_bajazet *date_1648 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_bajazet
+
 
 Où sommes-nous, Selim, tu me vois dans sa tente,
 Tu vois un Empereur que l'on laisse en attente,
@@ -1415,8 +1481,8 @@ Et si jusqu'à ton cœur mon bras pouvoit passer,
 Il iroit t'en donner la seconde peinture.
 En voila la troisiéme.
 
-
 **** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *id_roxalie *date_1648 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_roxalie
+
 
 Ny son cœur⁎ ny le mien ne s'est point démenty,
 Et malgré nos amours, nous prenons leurs quereles⁎.
@@ -1701,8 +1767,8 @@ Seigneur nous vous suivons.
 Que je sois exposée à vos ressentimens,
 Eclatez dessus moy vos premiers mouvemens.
 
-
 **** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *id_orcazie *date_1648 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_orcazie
+
 
 Je veux bien advoüer que l'on me traitte en Reyne :
 Mais malgré ce bon-heur, ma chaisne est tousjours chaisne.
@@ -1926,8 +1992,8 @@ Le coup que j'ay receu, ne m'a point fait souffrir,
 Celuy qui vous tuëra me sera plus sensible.
 Je meurs !
 
-
 **** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *id_dorize *date_1648 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_dorize
+
 
 Au poinct que Bajazet & Tamerlan armez,
 Vont monstrer la fureur dont ils sont animez,
@@ -1944,8 +2010,8 @@ Je vois venir Themir.
  
 Vous luy devriez parler pour la derniere fois,
 
-
 **** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *id_selim *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_selim
+
 
 Quoy ! Seigneur, cét habit oste-il le courage ?
 
@@ -2056,3 +2122,19 @@ Tu n'auras pas long-temps l'honneur de me survivre.
       Oüy, tout tyran qu'il est,
 J'ayme mieux par luy-mesme apprendre ma sentence.
 
+**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *id_le-soldat *date_1648 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lesoldat
+
+
+      Prince l'on suit vos traces,
+Et vous estes perdu :
+
+Desja mes compagnons adorent leur vainqueur,
+Et tous les armes bas implorent sa clemence.
+
+      Le grand nombre accable la vertu⁎.
+
+**** *creator_magnon *book_magnon_tamerlan *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_tamerlan *dist2_magnon_verse_tragedy *id_un-garde *date_1648 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_ungarde
+
+
+      Tu dois souffrir une peine infinie,
+Prend dedans ce delay de nouvelles vigueurs.

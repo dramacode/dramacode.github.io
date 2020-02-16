@@ -2,6 +2,7 @@
 
 **** *creator_piron *book_piron_gustavewasa *style_verse *genre_tragedy *dist1_piron_verse_tragedy_gustavewasa *dist2_piron_verse_tragedy *id_GUSTAVE *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gustave
 
+
 Arrête, ouvre les yeux, Casimir ; envisage
 L'ennemi qui t'aborde, et que ton zèle outrage.
 Cet accueil pour Gustave est un accueil bien doux !
@@ -471,8 +472,8 @@ Et nous, madame, après un si long esclavage,
 En de tendres liens allons changer nos fers,
 Et réparer les maux que Stockholm a soufferts.
 
-
 **** *creator_piron *book_piron_gustavewasa *style_verse *genre_tragedy *dist1_piron_verse_tragedy_gustavewasa *dist2_piron_verse_tragedy *id_ADELAIDE *date_1733 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_adelaide
+
 
 Séjour où commandait l'auteur de ma naissance,
 Lieux témoins du bonheur de ma paisible enfance,
@@ -908,8 +909,8 @@ Non ; mais t'accompagnant, je veux...
 
 Ah ! Que votre salut alloit coûter de larmes !
 
-
 **** *creator_piron *book_piron_gustavewasa *style_verse *genre_tragedy *dist1_piron_verse_tragedy_gustavewasa *dist2_piron_verse_tragedy *id_CHRISTIERNE *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_christierne
+
 
 Rodolphe, quel rapport viens-tu faire à ton roi ?
 De Christierne absent révère-t-on la loi ?
@@ -1423,8 +1424,8 @@ Gustave triomphant, le trépas m'est bien dû.
 Tu vois ce que me coûte un seul instant perdu ;
 Profite de l'exemple, et satisfais ta rage.
 
-
 **** *creator_piron *book_piron_gustavewasa *style_verse *genre_tragedy *dist1_piron_verse_tragedy_gustavewasa *dist2_piron_verse_tragedy *id_FREDERIC *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frederic
+
 
 Seigneur, on me l'apprend, et le devoir m'amène...
 
@@ -1684,8 +1685,8 @@ Je fus son bienfaiteur. Poursuis, ciel équitable !
 Protège Adélaïde, en foudroyant l'ingrat ;
 Et que ce soit ici son dernier attentat !
 
-
 **** *creator_piron *book_piron_gustavewasa *style_verse *genre_tragedy *dist1_piron_verse_tragedy_gustavewasa *dist2_piron_verse_tragedy *id_LEONOR *date_1733 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonor
+
 
       Va-t-il sur nous fondre un nouvel orage ?
 
@@ -1877,8 +1878,8 @@ Me laisse, et fait partir la flotte qu'il regagne,
 Tandis que sur ces bords on ramène avec moi
 Le monstre dont la rage y sema tant d'effroi.
 
-
 **** *creator_piron *book_piron_gustavewasa *style_verse *genre_tragedy *dist1_piron_verse_tragedy_gustavewasa *dist2_piron_verse_tragedy *id_CASIMIR *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_casimir
+
 
 Mon âme dès longtemps, seigneur, vous est connue :
 Souffrez qu'en liberté je pleure, à votre vue,
@@ -2038,8 +2039,8 @@ D'égaler, s'il se peut, le châtiment au crime.
 De la mort dont pour vous il ordonna l'apprêt,
 Vous-même, vous allez lui prononcer l'arrêt.
 
-
 **** *creator_piron *book_piron_gustavewasa *style_verse *genre_tragedy *dist1_piron_verse_tragedy_gustavewasa *dist2_piron_verse_tragedy *id_RODOLPHE *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rodolphe
+
 
       Elle n'est plus, seigneur ; et cette mort
 Peut-être enlève un sceptre au monarque du nord.
@@ -2246,8 +2247,8 @@ Le nombre nous accable ; et, pour tout dire, enfin,
 Le terrible Gustave a le fer à la main.
 Rien ne l'arrête : il vole, et bientôt...
 
-
 **** *creator_piron *book_piron_gustavewasa *style_verse *genre_tragedy *dist1_piron_verse_tragedy_gustavewasa *dist2_piron_verse_tragedy *id_SOPHIE *date_1733 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_sophie
+
 
 Que ma prison n'a-t-elle été ma sépulture ?
 J'eusse ignoré des maux dont frémit la nature.
@@ -2302,4 +2303,3 @@ Le destin rarement favorise à demi.
 
       Le bruit des armes cesse.
 Elles ont décidé, madame... on vient à nous.
-

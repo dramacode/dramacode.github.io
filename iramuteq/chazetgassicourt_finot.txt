@@ -2,6 +2,7 @@
 
 **** *creator_chazetgassicourt *book_chazetgassicourt_finot *style_prose *genre_proverbe *dist1_chazetgassicourt_prose_proverbe_finot *dist2_chazetgassicourt_prose_proverbe *id_FINOT *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_finot
 
+
 Ce que c'est que de nous ! Moi, ancien portier de monsieur de Bièvre, valet chez madame Cocasse ! C'est pourtant mon talent pour les calembourgs qui m'a valu ça. Feu monsieur Cocasse les aimait comme une bête ; moi, je lui ai fait aimer encore davantage, de façon que toute la maison en fait à présent, et les plus mauvais sont les plus bons. Eh ben, dans le commencement, monsieur Cocasse ne voulait pourtant pas prendre de valet : mais, comme il allait toutes les semaines passer une quinzaine de jours à la campagne, ceux qui venaient, ne pouvant parler à personne, écrivaient sur la muraille avec du charbon. Quand il a vu que tout le monde lui "faisait des noirceurs" comme ça, il m'a pris à son service. Le pauvre cher homme est mort bien riche, sans avoir marié sa fille qui ne demandait pas mieux : mais ça ne tardera pas, et je crois que c'est aujourd'hui que ça se décide. Pourvu que monsieur Plaisantin, son tuteur, ne la donne pas à ce vilain monsieur Double-Sens qu'elle ne peut pas souffrir ! J'aimerais mieux qu'elle épousît pour mari ce jeune-homme qui demeure en face de chez nous, et pour qui elle "a de la pente". En attendant, arrangeons le déjeuner : des tasses d'un côté, des verres de l'autre. Madame Cocasse veut être devant un plat : eh ben, elle sera en face de monsieur Double-Sens. Monsieur Plaisantin ne boit que de l'eau ; le voilà.
 Et puis, le pain et le vin ; car ici on n'aime pas le pain "sans levain". Et puis, mademoiselle Barbe à ste place-ci ; elle m'a bien dit : Finot, mon ami, tâche de mettre mon prétendu de côté : c'est ce que j'ai fait. Mon Dieu ! Mon Dieu ! Que c'est bien arrangé ! Maintenant, faut avertir. La compagnie ! C'est fait.
 
@@ -142,17 +143,8 @@ Eh ben ! Il vous a mis sur la voie.
 
 L'époux de mademoiselle Barbe a de l'esprit et du cœur, et je suis bien aise qu'on n'ait pas donné un "plat à Barbe".
 
-Chacun est encore incertain
-Sur le sort de cette bluette ;
-Donnez-lui quelques coups "de main" ;
-Dès ce soir sa fortune est faite.
-Sans murmurer, l'auteur attend
-Votre critique ou votre éloge ;
-Mais songez bien qu'en ce moment
-Il est dans le "martyre aux loges".
-
-
 **** *creator_chazetgassicourt *book_chazetgassicourt_finot *style_prose *genre_proverbe *dist1_chazetgassicourt_prose_proverbe_finot *dist2_chazetgassicourt_prose_proverbe *id_BARBE *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_barbe
+
 
 Je voudrais de la bierre.
 
@@ -192,17 +184,8 @@ En quelle langue est l'inscription ?
 
 Il a deviné.
 
-D'un sentiment triste et jaloux,
-Éloigne l'atteinte cruelle,
-Et ne crains pas qu'à son époux
-Ta femme se montre infidèle.
-L'Amour, de nos cœurs bien épris,
-Fixera l'union constante ;
-Et, même en habitant Paris,
-Je veux toujours rester "à Mantes".
-
-
 **** *creator_chazetgassicourt *book_chazetgassicourt_finot *style_prose *genre_proverbe *dist1_chazetgassicourt_prose_proverbe_finot *dist2_chazetgassicourt_prose_proverbe *id_PLAISANTIN *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_plaisantin
+
 
 Allons, plaçons-nous ; on ne parle jamais mieux d'affaires que lorsqu'on est dans son assiette.
 
@@ -290,17 +273,8 @@ Qu'en pensez-vous, madame Cocasse ?
 
 Alors, je vous unis.
 
-La plainte est toujours pour le sot ;
-Le sage est consolé d'avance.
-Ne pouvant prendre femme, il faut
-Apprendre à prendre patience.
-Sans pleurer ici ton tourment,
-Dès ce soir renonce à ta belle,
-Et pareil à l'amour constant,
-Tu pourras bien vivre sans "aile".
-
-
 **** *creator_chazetgassicourt *book_chazetgassicourt_finot *style_prose *genre_proverbe *dist1_chazetgassicourt_prose_proverbe_finot *dist2_chazetgassicourt_prose_proverbe *id_DOUBLESENS *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_doublesens
+
 
 L'avis est aussi bon qu'agréable ; mais pouvons-nous nous repaître d'autre chose que des regards de mademoiselle Barbe ?
 
@@ -345,8 +319,8 @@ Allons donc... Une inscription en français ! Fi donc ! C'est une épitaphe, et 
 
 Elle sera pour vous une pierre d'achoppement.
 
-
 **** *creator_chazetgassicourt *book_chazetgassicourt_finot *style_prose *genre_proverbe *dist1_chazetgassicourt_prose_proverbe_finot *dist2_chazetgassicourt_prose_proverbe *id_TAXE *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_taxe
+
 
 Je bénis le sort qui m'a fourni un prétexte pour venir à vos pieds. Il est donc vrai que mes soins ont su vous toucher. Qu'il est doux quand on s'aime !...
 
@@ -506,17 +480,8 @@ Je crois avoir rempli les conditions du testament ; il ne me reste plus qu'a ré
 
 Quel bonheur !
 
-Le goût proscrit les calembours ;
-Mais il a beau nous les défendre,
-À force d'en faire toujours,
-On finit par ne pas s'entendre.
-Du bon sens suivez mieux la loi ;
-Quittez ce jargon que l'on vante ;
-Abjurez la pointe, et pour moi
-Vous n'en serez que plus "piquante".
-
-
 **** *creator_chazetgassicourt *book_chazetgassicourt_finot *style_prose *genre_proverbe *dist1_chazetgassicourt_prose_proverbe_finot *dist2_chazetgassicourt_prose_proverbe *id_GRAPIN *date_1701 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_grapin
+
 
 On m'a dit, monsieur, que je vous trouverais ici.
 Et je suis venu en droite ligne.
@@ -550,4 +515,3 @@ Vous mériteriez que je me vengeasse par d'aussi mauvais calembours que les vôt
 Un port de mer ! C'est Jérusalem.
 
 Parce que les murailles sont "détruites". Il est authentique celui-là ; il est passé par-devant notaire.
-

@@ -2,6 +2,7 @@
 
 **** *creator_duryer *book_duryer_esther *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_esther *dist2_duryer_verse_tragedy *id_ESTHER *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_esther
 
+
 En vain cette grandeur, cette course d'alarmes
 Se présente à mes yeux avecques tous ses charmes ;
 Quelque tranquillité qui suive mes travaux,
@@ -526,8 +527,8 @@ Pour attendre de vous ou ma vie ou ma mort.
 
 Ha Sire, en sa faveur écoutez la clémence !
 
-
 **** *creator_duryer *book_duryer_esther *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_esther *dist2_duryer_verse_tragedy *id_THAMAR *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thamar
+
 
 N'allez pont pénétrer dans les choses futures
 Pour chercher des sujets de tristes aventures.
@@ -579,8 +580,8 @@ C'est assez m'a-t-il dit, que l'on vous en retire,
 Et qu'enfin vous sachiez que pour ce grand dessein,
 Le Roi donne sa voix, son pouvoir, et sa main.
 
-
 **** *creator_duryer *book_duryer_esther *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_esther *dist2_duryer_verse_tragedy *id_MARDOCHEE *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mardochee
+
 
 Jugera-t-on toujours vous voyant comme en deuil,
 Qu'au lieu d'une couronne on vous donne un cercueil ?
@@ -852,8 +853,8 @@ Il faut mourir pour vous pour mériter ces grâces.
 Ô Ciel ! C'est de toi seul que ce bien va descendre,
 Et ce n'est qu'à toi que nous devons le rendre.
 
-
 **** *creator_duryer *book_duryer_esther *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_esther *dist2_duryer_verse_tragedy *id_HAMAN *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_haman
+
 
 J'ai l'âme dans les soins comme aux fers attachée
 Mais qui vient de passer, n'est-ce pas Mardochée.
@@ -1648,8 +1649,8 @@ Moi Sire ?
 
 Quelle étrange aventure, et qu'en faut-il attendre !
 
-
 **** *creator_duryer *book_duryer_esther *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_esther *dist2_duryer_verse_tragedy *id_THARES *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thares
+
 
 C'est lui.
 
@@ -1761,8 +1762,8 @@ Faites de ce méchant préparer le supplice,
 Car je ne doute point que sur votre rapport
 Un Roi qui sait régner ne résolve sa mort.
 
-
 **** *creator_duryer *book_duryer_esther *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_esther *dist2_duryer_verse_tragedy *id_VASTHI *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_vasthi
+
 
 Doncques Haman me fuit, donc Haman m'abandonne !
 Haman qui me plaçait au nombre de ses Dieux
@@ -2001,8 +2002,8 @@ L'amour étant pour vous, rien ne vous est contraire,
 Espérez, espérez un bel événement,
 Puisqu'en ce grand procès le juge est votre Amant.
 
-
 **** *creator_duryer *book_duryer_esther *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_esther *dist2_duryer_verse_tragedy *id_LEROI *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
+
 
       Cher Haman, la douceur et la grâce
 Dans le trône des Rois vont enfin trouver place.
@@ -2309,8 +2310,8 @@ Qu'ils soient plus honorés que l'on ne les méprise,
 Et qu'en fasse d'Esther, on voie en même jour,
 Triompher l'innocence, aussi bien que l'amour.
 
-
 **** *creator_duryer *book_duryer_esther *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_esther *dist2_duryer_verse_tragedy *id_ZETHAR *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zethar
+
 
 Voyez dans ces grands biens qui vous sont présentés
 D'un Roi qui vous chérit les justes volontés.
@@ -2335,4 +2336,3 @@ De la façon qu'il parle, il fait assez entendre
 Que ce prix est un bien que vous devez attendre.
 
 Sire, Haman est ici.
-

@@ -2,6 +2,7 @@
 
 **** *creator_rousseaujb *book_rousseaujb_cafe *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_cafe *dist2_rousseaujb_prose_comedy *id_MADAMEJEROME *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamejerome
 
+
 Qu'est-ce donc, petite fille, vous parlez à des hommes quand je n'y suis pas ?
 
 Monsieur Jobelin est-il ici ?
@@ -58,8 +59,8 @@ Qu'entends-je? Vous devez votre charge, monsieur ? Vraiment, un jour plus tard j
 
 Oui, monsieur, puisque je suis détrompée, je serai ravie de donner ma fille à monsieur Dorante, pourvu qu'il apaise l'affaire qui vient d'arriver.
 
-
 **** *creator_rousseaujb *book_rousseaujb_cafe *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_cafe *dist2_rousseaujb_prose_comedy *id_LOUISON *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_louison
+
 
 Ah, ah, ah, ah, ah, ah!
 
@@ -99,8 +100,8 @@ Moi, je ne sais ce qu'il me veut dire ; qu'il se réponde lui-même, s'il s'ente
 
 J'ai bien affaire à son hypothèque ! Je n'en bois jamais.
 
-
 **** *creator_rousseaujb *book_rousseaujb_cafe *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_cafe *dist2_rousseaujb_prose_comedy *id_DORANTE *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+
 
 Où est-il allé ?
 
@@ -156,8 +157,8 @@ Tout beau, ne vous faites pas tirer l'oreille ou je vais faire entrer les archer
 
 Allons, monsieur l'Abbé, et monsieur le Commissaire, venez servir de témoins et signer au contrat que nous allons passer tout à 1'heure.
 
-
 **** *creator_rousseaujb *book_rousseaujb_cafe *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_cafe *dist2_rousseaujb_prose_comedy *id_LASOURDIERE *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lasourdiere
+
 
 Oh parbleu ! Je vous soutiens que si.
 
@@ -211,8 +212,8 @@ Et moi, je vous proteste que le premier argent que je gagnerai à trois dés, se
 
 Des épées tirées. Allons-nous-en d'ici.
 
-
 **** *creator_rousseaujb *book_rousseaujb_cafe *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_cafe *dist2_rousseaujb_prose_comedy *id_LECHEVALIER *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
 
 La, la, la, la, ra, ré. Allons hé du café.
 
@@ -279,8 +280,8 @@ Pour moi je suis brouillé avec ma petite marchande de dorure, et je ne saurais 
 
 Comment, morbleu, on insulte monsieur Jobelin.
 
-
 **** *creator_rousseaujb *book_rousseaujb_cafe *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_cafe *dist2_rousseaujb_prose_comedy *id_CORONIS *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_coronis
+
 
 Et moi, mordi, je vous soutiens que non et je mets cent pistoles que nous n'aurons rien cette année en Hongrie.
 
@@ -348,8 +349,8 @@ Allons, sandis, coupons les oreilles à ce maraud.
 
 Sauvons-nous, messieurs.
 
-
 **** *creator_rousseaujb *book_rousseaujb_cafe *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_cafe *dist2_rousseaujb_prose_comedy *id_LABBE *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_labbe
+
 
 Ahi ! Ouf !
 
@@ -377,8 +378,8 @@ Eh bien madame, êtes-vous dans le goût de ma proposition ?
 
 Oh, pour cela, madame, il en est le maître, je vous assure. Çà, il n'y a qu'a dresser le contrat tout à l'heure. Monsieur Jobelin se trouve ici fort à propos.
 
-
 **** *creator_rousseaujb *book_rousseaujb_cafe *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_cafe *dist2_rousseaujb_prose_comedy *id_CARONDAS *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_carondas
+
 
 Ah morbleu ! Que la peste soit de votre babil ! Est-il possible qu'on ne puisse faire ici quatre vers en repos, et que les plus belles pensées du monde y soient sans cesse immolées à la pétulante loquacité du premier importun !
 
@@ -404,8 +405,8 @@ Encore, de tous côtés ?
 
 Ah ! Je n'y puis plus tenir. Sortons, fuyons : ultra sauromatas hinc libet.
 
-
 **** *creator_rousseaujb *book_rousseaujb_cafe *style_prose *genre_comedy *dist1_rousseaujb_prose_comedy_cafe *dist2_rousseaujb_prose_comedy *id_LAFLECHE *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafleche
+
 
 Monsieur, je n'ai pu trouver votre gros Abbé ; et si, j'ai été dans tous les cabarets de la ville.
 
@@ -465,4 +466,3 @@ N'importe; le délit est flagrant il y a mort d'homme et vous viendrez au Châte
 Et l'on vous mènera au Châtelet.
 
 Ma foi, voilà une véritable aventure de café.
-

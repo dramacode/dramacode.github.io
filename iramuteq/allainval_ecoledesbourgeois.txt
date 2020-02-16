@@ -2,6 +2,7 @@
 
 **** *creator_allainval *book_allainval_ecoledesbourgeois *style_prose *genre_comedy *dist1_allainval_prose_comedy_ecoledesbourgeois *dist2_allainval_prose_comedy *id_MONSIEURMATHIEU *date_1728 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurmathieu
 
+
 Ah ! Ah ! Ah ! Ah !
 
 Ma soeur, ma nièce, que je vous régale d'une nouvelle qui court sur votre compte !
@@ -202,8 +203,8 @@ Non, Monsieur, c'est assez perdre.
 
 Allons, allons achever le mariage, et nous réjouir de l'avoir échappé belle.
 
+**** *creator_allainval *book_allainval_ecoledesbourgeois *style_prose *genre_comedy *dist1_allainval_prose_comedy_ecoledesbourgeois *dist2_allainval_prose_comedy *id_DAMIS *date_1728 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_damis
 
-**** *creator_allainval *book_allainval_ecoledesbourgeois *style_prose *genre_comedy *dist1_allainval_prose_comedy_ecoledesbourgeois *dist2_allainval_prose_comedy *id_DAMIS *date_1728 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_damis
 
 Bonjour, Marthon.
 
@@ -289,8 +290,8 @@ Nous verrons.
 
 Souffrez qu'à mon tour, messieurs, je vous prie à ma noce.
 
-
 **** *creator_allainval *book_allainval_ecoledesbourgeois *style_prose *genre_comedy *dist1_allainval_prose_comedy_ecoledesbourgeois *dist2_allainval_prose_comedy *id_LECOMMISSAIRE *date_1728 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecommissaire
+
 
 Monsieur le marquis...
 
@@ -300,8 +301,14 @@ Monsieur, en vérité...
 
 Ce sont des bagatelles.
 
+**** *creator_allainval *book_allainval_ecoledesbourgeois *style_prose *genre_comedy *dist1_allainval_prose_comedy_ecoledesbourgeois *dist2_allainval_prose_comedy *id_LENOTAIRE *date_1728 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lenotaire
+
+
+Laissons-là ma physionomie, messieurs. Vous vous moquez de moi, sans doute ; mais il n'est pas temps de rire.
+Voilà le contrat qu'il est question de signer.
 
 **** *creator_allainval *book_allainval_ecoledesbourgeois *style_prose *genre_comedy *dist1_allainval_prose_comedy_ecoledesbourgeois *dist2_allainval_prose_comedy *id_LEMARQUIS *date_1728 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+
 
 Les faveurs !
 
@@ -617,8 +624,8 @@ Adieu, messieurs.
 Adieu, Monsieur Damis. Épousez, épousez ; je le veux bien.
 Allons, allons, mes amis, allons souper chez Payen.
 
-
 **** *creator_allainval *book_allainval_ecoledesbourgeois *style_prose *genre_comedy *dist1_allainval_prose_comedy_ecoledesbourgeois *dist2_allainval_prose_comedy *id_LECOMMANDEUR *date_1728 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecommandeur
+
 
 Mon cher marquis !
 
@@ -708,8 +715,8 @@ Il y a du malentendu.
 
 Ah ! Ah ! Marquis, tu ne seras pas marié ?
 
-
 **** *creator_allainval *book_allainval_ecoledesbourgeois *style_prose *genre_comedy *dist1_allainval_prose_comedy_ecoledesbourgeois *dist2_allainval_prose_comedy *id_LECOMTE *date_1728 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomte
+
 
 J'embrasse d'abord...
 Est-ce là ta future, marquis ? Elle est, ma foi, drôle.
@@ -743,8 +750,8 @@ Plaît-il ?
 
 Il ne faut, morbleu ! Pas en avoir le démenti.
 
-
 **** *creator_allainval *book_allainval_ecoledesbourgeois *style_prose *genre_comedy *dist1_allainval_prose_comedy_ecoledesbourgeois *dist2_allainval_prose_comedy *id_MONSIEURPOTDEVIN *date_1728 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurpotdevin
+
 
 Je vous suis bien obligé, Mademoiselle Marthon.
 
@@ -803,8 +810,8 @@ Pardonnez-moi, monsieur le marquis, ce n'est pas trop. En honnête homme j'y met
 
 Voilà qui est fait. Dorénavant, je serai contraint de vous faire une trentaine de blancs-signés, que vous remplirez de vos comptes, afin de n'avoir plus la tête rompue de ces balivernes.
 
-
 **** *creator_allainval *book_allainval_ecoledesbourgeois *style_prose *genre_comedy *dist1_allainval_prose_comedy_ecoledesbourgeois *dist2_allainval_prose_comedy *id_LECOUREUR *date_1728 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecoureur
+
 
 Très humbles saluts, Mademoiselle Benjamine.
 Serviteur, Madame Abraham.
@@ -828,8 +835,8 @@ Sans adieu, mon adorable.
 Eh ! Morbleu ! Mesdames, qu'ai-je fait ? Voilà votre lettre, et je vous ai donné celle que monsieur le marquis écrivait à un duc de ses amis.
 Donnez. Par bonheur le cachet n'est pas rompu ; je vais la raccommoder et la porter en diligence. Je vous prie de ne lui point parler de ce quiproquo. Il n'est pas aisé ; il m'assommerait. Serviteur.
 
-
 **** *creator_allainval *book_allainval_ecoledesbourgeois *style_prose *genre_comedy *dist1_allainval_prose_comedy_ecoledesbourgeois *dist2_allainval_prose_comedy *id_MADAMEABRAHAM *date_1728 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameabraham
+
 
 Enfin, ma chère Benjamine, c'est donc ce soir que tu vas être l'épouse de Monsieur le marquis de Moncade. Il me tarde que cela ne soit déjà ; et il me semble que ce moment n'arrivera jamais.
 
@@ -1034,8 +1041,8 @@ Et que je ne veux pas que vous vous encanailliez.
 
 Il le faut bien, puisque j'ai été assez sotte pour le faire. Monsieur, je vous rendrai, pour m'acquitter, les billets que j'ai à vous.
 
+**** *creator_allainval *book_allainval_ecoledesbourgeois *style_prose *genre_comedy *dist1_allainval_prose_comedy_ecoledesbourgeois *dist2_allainval_prose_comedy *id_BENJAMINE *date_1728 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_benjamine
 
-**** *creator_allainval *book_allainval_ecoledesbourgeois *style_prose *genre_comedy *dist1_allainval_prose_comedy_ecoledesbourgeois *dist2_allainval_prose_comedy *id_BENJAMINE *date_1728 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_benjamine
 
 J'en suis plus impatiente que vous, ma mère ; car, outre le plaisir de me voir femme d'un grand seigneur, c'est que, comme cette affaire s'est traitée depuis que Damis est à sa campagne, je serai ravie qu'à son retour il me trouve mariée, pour m'épargner ses reproches.
 
@@ -1207,8 +1214,8 @@ Cette qualité ne m'est pas due.
 
 Je mérite bien cela.
 
-
 **** *creator_allainval *book_allainval_ecoledesbourgeois *style_prose *genre_comedy *dist1_allainval_prose_comedy_ecoledesbourgeois *dist2_allainval_prose_comedy *id_MARTHON *date_1728 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marthon
+
 
 Madame, voilà Monsieur Mathieu qui vient d'entrer.
 
@@ -1416,4 +1423,3 @@ Une lettre que vous écriviez à un duc de vos amis.
 Ah bien ! Vous vous promettiez de le berner ; c'est encore lui qui se moque de vous.
 
 Et vous, messieurs, s'il vous semble que ce soit ici une bonne école, venez y rire.
-

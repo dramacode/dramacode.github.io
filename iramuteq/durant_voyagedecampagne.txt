@@ -1,6 +1,7 @@
 
 
-**** *creator_durant *book_durant_voyagedecampagne *style_prose *genre_proverbe *dist1_durant_prose_proverbe_voyagedecampagne *dist2_durant_prose_proverbe *id_MADAMEDEVIEILLARDIS *date_(inc *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_madamedevieillardis
+**** *creator_durant *book_durant_voyagedecampagne *style_prose *genre_proverbe *dist1_durant_prose_proverbe_voyagedecampagne *dist2_durant_prose_proverbe *id_MADAMEDEVIEILLARDIS *date_(inc *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_madamedevieillardis
+
 
 Bonjour, mon pauvre Champagne ; où est ton maître aujourd'hui ?
 
@@ -26,8 +27,8 @@ Catos, où est le chevalier ?
 
 Hélas ! Le pauvre enfant, qu'il a le cour bon ! Voilà une bouteille, ma chère Catos, que je ne donnerais pas pour cent mille écus : il n'aura pas sitôt pris une goutte ; de la liqueur qu'elle renferme, qu'il sera guéri. Appelle-moi quelqu'un, pour que j'envoie savoir de ses nouvelles, en attendant que mes chevaux soient à mon carrosse, pour aller moi-même m'en informer.
 
-
 **** *creator_durant *book_durant_voyagedecampagne *style_prose *genre_proverbe *dist1_durant_prose_proverbe_voyagedecampagne *dist2_durant_prose_proverbe *id_LECHEVALIER *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
 
 J'en suis le premier puni, madame, puisque je ne vous ai point vue ; c'est une absence cruelle : et quand on rentre chez vous, on est toujours si ébloui des nouvelles grâces qu'on vous retrouve, et du brillant de vos yeux, qu'on sent bien qu'il n'y a que l'habitude qui puisse faire soutenir l'un et l'autre.
 
@@ -43,8 +44,8 @@ Vraiment, j'en avais assez peur : mais un diamant de deux cents pistoles, que j'
 
 Adieu, Catos ; je suis, pour éviter son retour.
 
-
 **** *creator_durant *book_durant_voyagedecampagne *style_prose *genre_proverbe *dist1_durant_prose_proverbe_voyagedecampagne *dist2_durant_prose_proverbe *id_CATOS *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_catos
+
 
 Monsieur Champagne, franchement vous avez un maître fort téméraire : croit-il dire impunément des douceurs à madame de Vieillardis ? Elle prend feu plus aisément qu'une autre : son mari est son serviteur très obéissant, il ne songe pas à la contrarier ; et quand il le hasarderait, ce serait peine perdue : elle a une pente à l'amour, que soixante ans, et vingt héritiers qu'elle a donnés à la maison de Vieillardis, n'ont fait qu'augmenter jusqu'ici.
 
@@ -72,8 +73,8 @@ La vieille sera bien surprise ; quand elle ne trouvera plus l'évanoui !
 
 Nous l'avons fait revenir, madame ; et aussitôt il est parti avec son Champagne, qui a bien de la peine à le traîner : il est si honteux de cet accident, qu'il dit qu'il n'osera plus se présenter devant vous.
 
-
 **** *creator_durant *book_durant_voyagedecampagne *style_prose *genre_proverbe *dist1_durant_prose_proverbe_voyagedecampagne *dist2_durant_prose_proverbe *id_CHAMPAGNE *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_champagne
+
 
 Oh ! Je le crois bien, mademoiselle Catos : j'ai toujours entendu dire aux connaisseurs, que l'amour augmente en vieillissant dans le cour des femmes : ce serait une belle chose s'il en était autant des hommes ; mais malheureusement, cela n'est pas ainsi ; et cela fait que les vieilles amoureuses ne trouvent des amants que l'argent à la main.
 
@@ -90,4 +91,3 @@ Comment, de mariage ! Et n'a-t-elle pas un mari ?
 Monsieur, sortez ; il n'y a ici que mademoiselle Catos et moi.
 
 Parbleu , monsieur, je vous trouvais aussi fort téméraire, d'aller essuyer un tête-à-tête avec une madame de Vieillardis.
-

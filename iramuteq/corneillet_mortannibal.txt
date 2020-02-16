@@ -2,6 +2,7 @@
 
 **** *creator_corneillet *book_corneillet_mortannibal *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortannibal *dist2_corneillet_verse_tragedy *id_prusias *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_prusias
 
+
       Seigneur, ne parlons plus d'Eumene.
 Il eust nourry pour nous une eternelle haine,
 Et malgré vous, l'honneur vous eust fait une loy
@@ -575,8 +576,8 @@ Sur luy, sur tous les Siens je vay faire main basse,
 Et ses jours immolez pourront vous faire voir
 S'il est dans ce qu'il ose armé de mon pouvoir.
 
-
 **** *creator_corneillet *book_corneillet_mortannibal *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortannibal *dist2_corneillet_verse_tragedy *id_attale *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_attale
+
 
 Seigneur, ne croyez pas qu'un Trône m'éblouisse⁎
 Jusqu'à rendre mon cœur capable d'injustice,
@@ -887,8 +888,8 @@ Je suis trahy, Madame, et trahy plus que vous,
 Mais pour vous et pour moy je vay faire connoistre
 Que je sçay mieux punir que seconder un Traistre.
 
-
 **** *creator_corneillet *book_corneillet_mortannibal *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortannibal *dist2_corneillet_verse_tragedy *id_annibal *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_annibal
+
 
       J'apprens que vous allez à Rome,
 Prince.
@@ -1244,8 +1245,8 @@ Si d'un jaloux destin elles sont poursuivies,
 Envisageant toûjours sa rigueur sans effroy,
 Bravez la Tyrannie, et mourez comme moy.
 
-
 **** *creator_corneillet *book_corneillet_mortannibal *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortannibal *dist2_corneillet_verse_tragedy *id_flaminius *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_flaminius
+
 
 Seigneur, par le pouvoir qu'on m'a daigné commettre⁎
 Jusques dans vos Estats j'aurois dû vous remettre,
@@ -1538,8 +1539,8 @@ Et je vay donner ordre à vous revoir moins fiere.
 
 Rome de ces mépris sçaura vous tenir compte.
 
-
 **** *creator_corneillet *book_corneillet_mortannibal *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortannibal *dist2_corneillet_verse_tragedy *id_nicomede *date_1669 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_nicomede
+
 
 Quelque bouillante ardeur que la guerre m'inspire,
 Vous preferez la paix, c'est à moi d'y souscrire ;
@@ -1796,8 +1797,8 @@ Que d'ennuis⁎ à la fois s'emparent de mon ame !
 Allons en Bithynie, et pour nous soulager
 Faisons-y tout servir au soin de nous vanger.
 
-
 **** *creator_corneillet *book_corneillet_mortannibal *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortannibal *dist2_corneillet_verse_tragedy *id_elise *date_1669 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_elise
+
 
 Quelle joye en mes yeux voulez-vous qui s'explique⁎,
 Seigneur, lors que par tout les Destins conjurez
@@ -2244,8 +2245,8 @@ Aux Manes d'Annibal ?
 
 C'en est fait, il expire, ah, Seigneur !
 
-
 **** *creator_corneillet *book_corneillet_mortannibal *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortannibal *dist2_corneillet_verse_tragedy *id_alcine *date_1669 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_alcine
+
 
 J'ay douté de ce bruit d'abord qu'il m'a frapée,
 Mais dans toute la Cour, Madame, il fait éclat.
@@ -2299,8 +2300,8 @@ Le Prince perira plûtost que vous trahir,
 Mais est-il en estat de se faire obeïr ?
 Prusias est le Maistre, et comme il se declare…
 
-
 **** *creator_corneillet *book_corneillet_mortannibal *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortannibal *dist2_corneillet_verse_tragedy *id_procule *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_procule
+
 
 Seigneur, sur un secret d'une importance extréme
 Un Soldat Phrygien veut s'ouvrir à vous mesme.
@@ -2319,8 +2320,8 @@ C'est ce qu'Attale ignore ?
 
       Voyez qu'il s'avance vers vous.
 
-
 **** *creator_corneillet *book_corneillet_mortannibal *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_mortannibal *dist2_corneillet_verse_tragedy *id_araxe *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_araxe
+
 
 Me trompay-je, Seigneur, dans ce que je présume ?
 Attale craint qu'un jour la guerre se rallume,
@@ -2404,4 +2405,3 @@ Pour vanger cette perte aux Romains si fatale
 Ils s'animent l'un l'autre, envelopent Attale,
 L'arrestent⁎, et craignant quelques malheurs nouveaux,
 Flaminius, dit-on, regagne ses vaisseaux.
-

@@ -2,6 +2,7 @@
 
 **** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *id_LARENOMMEE *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_larenommee
 
+
 C'est lui dont les Dieux ont fait choix
 Pour combler le bonheur de l'Empire François,
 En vain pour le troubler, tout s'unit, tout conspire,
@@ -20,8 +21,50 @@ Heureux l'empire qui suit ses lois.
 Hâtez-vous, Plaisirs, hâtez-vous
 De montrer vos charmes les plus doux.
 
+**** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *id_NEPTUNE *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_neptune
+
+
+Mon empire a servi de théâtre à la guerre,
+Publiez des exploits nouveaux
+C'est le même vainqueur
+Si fameux sur la terre
+Qui triomphe encor sur les eaux.
+
+**** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *id_DEUXTRITONS *date_1677 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_deuxtritons
+
+
+C'est le Dieu des eaux qui va paraître
+Rangeons nous près de notre Maître
+Enchaînons les vents les plus terribles
+Que le bruit des flots cède à nos chants.
+Régnez Zéphirs paisibles,
+Ramenez le doux printemps.
+
+**** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *id_APOLLON *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
+
+
+Ne parlons pas toujours de la guerre cruelle,
+Parlons des plaisirs et des jeux.
+Les Muses et les Arts
+Vont signaler leur zèle,
+Je vais favoriser leurs voeux
+Nous préparons une fête nouvelle
+Pour le Héros qui les appelle
+Dans cet asile heureux
+
+**** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *id_MELPOMENE *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
+
+
+Dans une auguste Cour.
+
+**** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *id_THALIE *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
+
+
+La Paix, la douce Paix
+N'ose encore descendre du céleste séjour.
 
 **** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *id_HIERAX *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hierax
+
 
 Cessons d'aimer une infidèle,
 Évitons la honte cruelle
@@ -152,8 +195,8 @@ Un coup de foudre est une grâce
 Pour un malheureux comme moi.
 Éveillez vous, Argus, éveillez-vous, vous vous laissez surprendre.
 
-
 **** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *id_PIRANTE *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pirante
+
 
 C'est trop entretenir
 Ces tristes rêveries;
@@ -177,8 +220,8 @@ Après de serments, ne la croyez-vous pas ?
 
 Éclaircissez vous avec elle.
 
-
 **** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *id_IO *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_io
+
 
 M'aimez vous ? puis-je m'en flatter ?
 
@@ -363,8 +406,8 @@ Ah ! Laissez moi mourir.
 Vous l'aimez d'un amour trop tendre
 Non elle ne peut trop souffrir.
 
-
 **** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *id_MERCURE *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+
 
 Le Dieu puissant qui lance le tonnerre
 Et qui des cieux tient le sceptre en ses mains
@@ -462,8 +505,8 @@ Reconnaissez Mercure et fuyez avec nous;
 
 Commencez d'éprouver la colère des Dieux.
 
-
 **** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *id_JUPITER *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
+
 
 Les armes que je tiens protègent l'innocence.
 L'effort n'en est fâcheux qu'à l'orgueil des titans.
@@ -596,8 +639,8 @@ De nos coeurs réunis la bienheureuse paix.
 Noires Ondes du Styx, c'est par vous que je jure.
 Fleuve affreux écoutez le serment que je fais.
 
-
 **** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *id_IRIS *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iris
+
 
 Vous m'arrêtez vainement
 Et vous n'aurez rien à me dire.
@@ -630,8 +673,8 @@ J'ai cherché vainement la fille d'Inachus.
 
 Elle honore son maître et brille sous ses pas.
 
-
 **** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *id_JUNON *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junon
+
 
 Ah ! Je n'ai pas besoin d'en savoir davantage,
 Non, Isis, ne la cherchons plus.
@@ -725,8 +768,29 @@ Goûtez les biens parfaits que les Dieux ont choisis :
 Et sous le nouveau nom d'Isis
 Jouissez d'un bonheur qui jamais ne finisse.
 
+**** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *id_HEBE *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hebe
+
+
+Les plaisirs les plus doux
+Sont faits pour la jeunesse.
+Venez, venez jeux charmants, venez tous;
+Cardez vous bien d'amener avec vous
+La sévère Sagesse.
+Fuyez, fuyez, sombre tristesse
+Noirs chagrins, fuyez loin de nous
+Vous êtes destinés pour l'affreuse vieillesse
+Les plaisirs les plus doux
+Sont faits pour la jeunesse.
+
+Que c'est un plaisir charmant
+D'être jeune et belle !
+Triomphez à tout moment
+D'une conquête nouvelle.
+Que c'est un plaisir charmant
+D'être jeune et belle !
 
 **** *creator_quinault *book_quinault_isis *style_verse *genre_show *dist1_quinault_verse_show_isis *dist2_quinault_verse_show *id_ARGUS *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_argus
+
 
 Dans ce solitaire séjour
 Vous êtes sous ma garde,
@@ -787,4 +851,3 @@ Liberté, liberté.
 
 C'est un plaisir pour nous; poursuivez j'y consens
 Je ne m'oppose point à ces jeux innocents.
-

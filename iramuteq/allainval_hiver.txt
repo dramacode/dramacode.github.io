@@ -2,6 +2,7 @@
 
 **** *creator_allainval *book_allainval_hiver *style_verse *genre_comedy *dist1_allainval_verse_comedy_hiver *dist2_allainval_verse_comedy *id_LHIVER *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lhiver
 
+
 Des vrais plaisirs, unique asile ;
 Paris, c'est l'Hiver que tu vois :
 Las de régner au Nord, il vient, heureuse Ville,
@@ -139,8 +140,8 @@ Je prends...
 
 J'y consens, tout coup vaille.
 
-
 **** *creator_allainval *book_allainval_hiver *style_verse *genre_comedy *dist1_allainval_verse_comedy_hiver *dist2_allainval_verse_comedy *id_COMUS *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_comus
+
 
 Dieu de l'Hiver, c'est vous ? Quoi déjà de retour ?
 Quel bon vent sitôt vous renvoyé ?
@@ -582,8 +583,8 @@ Elle vient à propos vers nous.
 
 Ce n'est pas pour longtemps, tâchez d'être fidèle.
 
-
 **** *creator_allainval *book_allainval_hiver *style_verse *genre_comedy *dist1_allainval_verse_comedy_hiver *dist2_allainval_verse_comedy *id_LHYMEN *date_1733 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lhymen
+
 
 Tu vois, Comus : l'Hiver est, dit-on, en ces lieux.
 
@@ -677,8 +678,8 @@ Je prends... Aide-moi donc, Cornus.
 Approchez-vous, la Belle ;
 Je vous donne en ce Dieu la perle des époux ?
 
-
 **** *creator_allainval *book_allainval_hiver *style_verse *genre_comedy *dist1_allainval_verse_comedy_hiver *dist2_allainval_verse_comedy *id_LEPHARAON *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepharaon
+
 
 Où suis-je... où me cacher;... Ah grâce...
 Messieurs, je vous quitte la place ;
@@ -782,8 +783,8 @@ Aux regrets, je vous abandonnes.
 Une autre fols soyez moins fier, Comus,
 Avec un Dieu de la Garonne.
 
-
 **** *creator_allainval *book_allainval_hiver *style_verse *genre_comedy *dist1_allainval_verse_comedy_hiver *dist2_allainval_verse_comedy *id_LEBAL *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebal
+
 
 La, la, la, la, la, la, la, la.
 
@@ -889,8 +890,8 @@ Du moins il l'aimera, pendant quelques moments ;
 C'est assez pour ma soeur, elle est peu façonnière.
 Adieu je cours faire avancer mes gens.
 
-
 **** *creator_allainval *book_allainval_hiver *style_verse *genre_comedy *dist1_allainval_verse_comedy_hiver *dist2_allainval_verse_comedy *id_LAMODE *date_1733 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamode
+
 
 Cher Comus, que je vous embrasse.
 
@@ -991,8 +992,8 @@ Que l'habit que tantôt j'avais imaginé,
 Me paraît déjà vieux pour le goût et l'ouvrage !
 À tantôt, cher Comus.
 
-
 **** *creator_allainval *book_allainval_hiver *style_verse *genre_comedy *dist1_allainval_verse_comedy_hiver *dist2_allainval_verse_comedy *id_LAMEDISANCE *date_1733 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamedisance
+
 
 Le Ciel vous tienne en joie, agréable Cornus.
 
@@ -1123,8 +1124,8 @@ L'Hiver m'épousera.
 Adieu, pour un instant, Comus, je me retire.
 Vous êtes intendant, seigneur et scrupuleux.
 
-
 **** *creator_allainval *book_allainval_hiver *style_verse *genre_comedy *dist1_allainval_verse_comedy_hiver *dist2_allainval_verse_comedy *id_LAVOLUPTE *date_1733 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lavolupte
+
 
 Que parlez-vous d'Hymen, Seigneur ? C'est me trahir.
 Voulez-vous déjà me haïr ?
@@ -1181,8 +1182,8 @@ Tous ne savent pas me connaître.
 Adieu je vois quelqu'un paraître :
 Vous vivez au terrestre, et je cours à l'esprit.
 
-
 **** *creator_allainval *book_allainval_hiver *style_verse *genre_comedy *dist1_allainval_verse_comedy_hiver *dist2_allainval_verse_comedy *id_HECTORCRIQUET *date_1733 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hectorcriquet
+
 
 C'est sans doute ici le palais du Dieu de l'Hiver ?
 
@@ -1247,4 +1248,3 @@ Un équipage, Seigneur ! Est-ce que ces talents sont récompensés dans ce pays 
 Dites, la Bagatelle. Qu'un homme du premier mérite entre dans une compagnie du bel air, s'il ne débute pas par une révérence extravagante, dit-il d'ailleurs des choses plus galantes que Démosthène et Ciceron ; si, c'est un maussade, un pédant, un sot, un homme à jeter par les fenêtres : qu'il entre ensuite un étourdi, qui jette sa tête d'un côté, son corps de l'autre ; qui danse sur un pied, qui chante en même temps, qui voltige de fauteuil en fauteuil, il ne dira que des fadaises, et toute la compagnie s'écrira : ah le joli homme ! Qu'il est aimable ! Qu'il a d'esprit ! C'est un prodige.
 
 À demain, Seigneur, Serviteur, Serviteur.
-

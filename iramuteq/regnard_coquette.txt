@@ -2,6 +2,7 @@
 
 **** *creator_regnard *book_regnard_coquette *style_prose *genre_comedy *dist1_regnard_prose_comedy_coquette *dist2_regnard_prose_comedy *id_TRAFIQUET *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_trafiquet
 
+
 Holà, quelqu'un, Pierrot, Pierrot !
 
 Avec qui diable es-tu donc ? Il faut toujours t'appeler vingt fois.
@@ -128,8 +129,8 @@ Vous êtes un fou, voilà ce que vous êtes.
 
 Ce que j'ai vu tantôt, et ce que je vois présentement, m'oblige de vous dire, monsieur le bailli, que vous pouvez, tout de ce pas, vous en retourner dans le Bas-Maine, manger vos chapons ; car pour ma fille, vous n'en croquerez que d'une dent.
 
-
 **** *creator_regnard *book_regnard_coquette *style_prose *genre_comedy *dist1_regnard_prose_comedy_coquette *dist2_regnard_prose_comedy *id_COLOMBINE *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colombine
+
 
 Holà, quelqu'un ! N'ai-je là personne ? Cascaret, Jasmin, Pierrot, Bagatelle, Bagatelle !
 
@@ -479,8 +480,8 @@ Moi, je vous ai fait faire ces extravagances-là ? Ma foi, monsieur le bailli, 
 
 Et qu'une fille à Paris soit bien près de ses pièces pour épouser un bailli du Bas-Maine.
 
-
 **** *creator_regnard *book_regnard_coquette *style_prose *genre_comedy *dist1_regnard_prose_comedy_coquette *dist2_regnard_prose_comedy *id_ISABELLE *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
 
 Hé bien, cousine, as-tu bientôt mis la dernière main à ton visage ?
 
@@ -516,8 +517,8 @@ Cousine, voilà un gibier à trébuchet.
 
 Tu me mets là, cousine, à une rude épreuve.
 
-
 **** *creator_regnard *book_regnard_coquette *style_prose *genre_comedy *dist1_regnard_prose_comedy_coquette *dist2_regnard_prose_comedy *id_ARLEQUIN *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+
 
 Vous en avez menti, messieurs les commis de la barrière, je ne dois rien : vous êtes des fripons. On est plus assuré au milieu des bois que dans ce maudit pays-ci : on ne saurait faire un pas qu'on ne trouve un filou. Il n'y a pas une demi-heure que je suis arrivé dans Paris, et me voilà déjà presque tout déshabillé... Au voleur ! Au voleur ! Quelle maudite nation ! À peine suis-je entré dans la ville, qu'on fait derrière mon cheval l'opération à ma valise ; on en tire les hardes, et on la fait accoucher avant terme. En descendant à l'hôtellerie, on m'escamote ma casaque. Je fais deux pas dans la rue, un fiacre me couvre de boue depuis les pieds jusqu'à la tête ; un porteur de chaise me donne d'un de ses bâtons dans le dos : il vient un homme me saluer ; je lui ôte mon chapeau, un coquin par derrière m'arrache ma perruque ; et, pour comble de friponneries, on veut me faire payer l'entrée à la porte comme bête à cornes, parce que je viens pour me marier... Attendez donc que je sois...
 
@@ -717,8 +718,8 @@ Oh, oh ! Voilà qui est assez drôle. Par ma foi ! S'il y en a, c'est vous qui
 
 Allez-vous-en au diable, vous et votre fille, petit vilain grigou raccourci. Adieu, la belle ; je ne crois pas qu'il y ait au monde un animal plus méchant que vous. Il faut qu'un provincial ait bien le diable au corps, pour venir s'équiper d'une femme à Paris.
 
-
 **** *creator_regnard *book_regnard_coquette *style_prose *genre_comedy *dist1_regnard_prose_comedy_coquette *dist2_regnard_prose_comedy *id_PIERROT *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+
 
 Monsieur le conseiller a dit qu'il allait revenir. Il est venu aussi cette grande femme qui a le visage si creux, qui vous viendra voir tantôt, quand elle aura été chez son libraire.
 
@@ -808,8 +809,8 @@ Monsieur, quand je vous ai dit que j'étais mieux le fait de votre fille que cet
 
 Que d'une dent, monsieur le bailli, que d'une dent.
 
-
 **** *creator_regnard *book_regnard_coquette *style_prose *genre_comedy *dist1_regnard_prose_comedy_coquette *dist2_regnard_prose_comedy *id_MEZZETIN *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mezzetin
+
 
 Oui, mademoiselle, nous avons résolu cela : et s'il ne vous épouse, je vous épouserai, moi.
 
@@ -873,8 +874,8 @@ De couleur de pruneau ;
 Faisons le pied de veau :
 Ah !qu'il est beau !... oh, oh !
 
-
 **** *creator_regnard *book_regnard_coquette *style_prose *genre_comedy *dist1_regnard_prose_comedy_coquette *dist2_regnard_prose_comedy *id_PASQUARIEL *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pasquariel
+
 
 On a dû vous dire, mademoiselle, que mon équipage s'est arrêté vingt fois à votre porte ; mais vous êtes introuvable, et toute des plus rares.
 
@@ -893,8 +894,8 @@ Peut-on savoir, ma chère, qui vous épousez ?
 
 Non, madame, assurément je ne passerai pas, ou la peste m'étouffe !
 
-
 **** *creator_regnard *book_regnard_coquette *style_prose *genre_comedy *dist1_regnard_prose_comedy_coquette *dist2_regnard_prose_comedy *id_BAGATELLE *date_1691 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bagatelle
+
 
 Mademoiselle, c'est que j'achevais ma main au lansquenet.
 
@@ -904,8 +905,8 @@ Ne lui dirai-je pas aussi de nous faire des culottes ? La mienne est toute déc
 
 Mademoiselle, voilà monsieur le comte Octave.
 
-
 **** *creator_regnard *book_regnard_coquette *style_prose *genre_comedy *dist1_regnard_prose_comedy_coquette *dist2_regnard_prose_comedy *id_MADAMEPINDARET *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamepindaret
+
 
 Ah, ma chère belle ! Que je suis heureuse de vous rencontrer ! Car vous êtes la fille de France la plus introuvable.
 
@@ -963,8 +964,8 @@ Moi, monsieur ! Excusez-moi, s'il vous plaît ; je ne danse point, je fais des
 
 Ah, ah ! Voilà un menuet qui m'a mise sur les dents. J'aimerais mieux faire vingt sonnets que de... Ah, ah ! Souffrez, mademoiselle, que je vous quitte pour aller me mettre au lit.
 
-
 **** *creator_regnard *book_regnard_coquette *style_prose *genre_comedy *dist1_regnard_prose_comedy_coquette *dist2_regnard_prose_comedy *id_MARGOT *date_1691 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_margot
+
 
 Oui, mademoiselle j'espère qu'il vous habillera parfaitement bien : depuis que je travaille, je n'ai jamais vu d'habit si bien taillé.
 
@@ -987,4 +988,3 @@ Je suis votre servante, monsieur ; on ne travaille point en homme au logis.
 Ce n'est peut-être pas la faute du manteau, mademoiselle.
 
 Moi, raser ! Je vois bien que vous êtes un gausseur: je mourrais de peur, si je touchais un homme seulement du bout du doigt. Adieu, mademoiselle ; dans un quart d'heure je vous rapporterai votre manteau avec de la gorge.
-

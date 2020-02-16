@@ -2,6 +2,7 @@
 
 **** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *id_LOUISXVI *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_louisxvi
 
+
       Reprenons notre étude.
 Nous avons vu la France où régnèrent longtemps
 Les Bourbons, le bonheur, les arts et les talents ;
@@ -294,8 +295,8 @@ Mon fils....
 
       Adieu...
 
-
 **** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *id_MARIEANTOINETTE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marieantoinette
+
 
 Où peut-il être, ô ciel !...
 
@@ -377,8 +378,17 @@ Il nous fuit... Se peut-il ?... On l'entraîne... Ah ! Grand Dieu !
 Suivons ses pas... Courons...
       Je me meurs...
 
+**** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *id_ELISABETH *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elisabeth
+
+
+Vos enfants, votre soeur, embrassent vos genoux.
+
+      Louis... Mon frère...
+
+      Antoinette...
 
 **** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *id_DESEZE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_deseze
+
 
 Moi, j'ose espérer mieux ; non, je ne saurais croire
 Que d'un tel attentat on souille notre histoire.
@@ -499,8 +509,22 @@ Le peuple et le Sénat, d'un accord unanime,
 Verront, détesteront, répareront leur crime ;
 Vous nous serez rendu.
 
+**** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *id_TRONCHET *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tronchet
+
+
+Le voici, Lamoignon, ce jour si redoutable,
+Où du Sénat français l'arrêt irrévocable,
+Peut-être, de Louis, en prononçant la mort,
+Va consterner l'Europe et décider son sort !
+Déjà chez d'Orléans une loi préparée,
+A du peuple écarté la sanction sacrée.
+Je crains que, sous son nom, dans ce jour usurpé,
+Par quelques scélérats, son voeu ne soit trompé.
+
+Il l'offrira.
 
 **** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *id_PHILIPPEDORLEANS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philippedorleans
+
 
 Le plus pur sang du peuple a pénétré les miennes.
 Et j'en ai pour garant le vertueux transport
@@ -557,8 +581,32 @@ Crains les proscriptions.
 
 C'en est fait, Robespierre ; et Philippe est perdu.
 
+**** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *id_GARRANDECOULON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_garrandecoulon
+
+
+Que de la vérité l'éloquence est touchante,
+Pour le crime où l'erreur, sa voix est foudroyante.
+Ce conflit de pouvoirs a droit de m'effrayer.
+La liberté le veut, je dois m'en dépouiller.
+Quand le voile est tombé, l'erreur est sans refuge.
+Je ne puis être ici législateur et juge ;
+Je suis législateur, et, politiquement,
+Je promets de voter pour le bannissement.
+
+Philippe, ton parti n'a pas encore vaincu ;
+J'en sais ici plus d'un qui croît à la vertu,
+Veut le bien.... le fera....
+
+**** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *id_KERSAINT *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_kersaint
+
+
+Ciel ! Que viens-je d'entendre ! Est-ce un monstre farouche ?
+C'est un juge ; et l'écume est encor sur sa bouche,
+Je reste pour Louis : mais libre de son voeu,
+Kersaint ne siége plus avec un tigre.... Adieu.
 
 **** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *id_MANUEL *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_manuel
+
 
 Je fuis....
 
@@ -624,8 +672,19 @@ Puissai-je à ma patrie, en montrant tes complots,
 Sauver la république, après l'avoir trahie, Périr......
 Et que ma mort fasse oublier ma vie.
 
+**** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *id_BARRERE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_barrere
+
+
+Je voue à tout despote une guerre éternelle ;
+Cette guerre est à mort : elle doit être telle ;
+Et de la liberté l'arbre majestueux,
+Ne croîtra qu'arrosé de leur sang odieux.
+
+Non, point d'ajournement ; que le tyran périsse,
+Que demain le soleil éclaire son supplice.
 
 **** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *id_ROBESPIERRE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_robespierre
+
 
 Puissent, puissent ces rois qui viendront nous combattre,
 N'avoir tous qu'une tête, et moi, d'un coup l'abattre !
@@ -650,3 +709,34 @@ D'un si faible intérêt nous n'avons rien à craindre.
 
 Ne vous souvient-il plus que tout nous est vendu.
 
+**** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *id_MARAT *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marat
+
+
+Et puis à l'ineptie on saura le contraindre,
+Commune, force armée, ils nous sont tous vendus.
+Nos braves fédérés en armes répandus,
+Escorteront demain le monarque au supplice ;
+Nul ne pourra sortir, qu'il ne soit leur complice.
+Par Santerre, en un mot l'échafaud préparé,
+Promet à nos desseins un succès assuré.
+
+**** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *id_LEQUINIO *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lequinio
+
+
+La mort.... Non, non, pour moi, c'est trop peu que sa vie,
+Ma vengeance à ce prix serait mal assouvie.
+Qu'il vive, pour l'opprobre, et contemplant son bras
+Enchaîné pour jamais aux travaux des forçats.
+
+**** *creator_saintaignan *book_saintaignan_mortlouisxvi *style_verse *genre_tragedy *dist1_saintaignan_verse_tragedy_mortlouisxvi *dist2_saintaignan_verse_tragedy *id_SANTERRE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_santerre
+
+
+Soldats, qu'on les emporte.....
+
+Marchons, il en est temps...
+      Soldats, veillez sur elles
+
+Profitons de l'état où la douleur les jette.
+Qu'on les transporte ailleurs...
+      Et nous, sans nul retard
+Dans le sein du despote, enfonçons le poignard.

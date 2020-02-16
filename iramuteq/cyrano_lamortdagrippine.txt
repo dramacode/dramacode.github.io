@@ -2,6 +2,7 @@
 
 **** *creator_cyrano *book_cyrano_lamortdagrippine *style_verse *genre_tragedy *dist1_cyrano_verse_tragedy_lamortdagrippine *dist2_cyrano_verse_tragedy *id_TIBERE *date_1653 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tibere
 
+
 Oui, la Couronne enferme et cache beaucoup plus
 De pointes sous le front qu'il n'en parait dessus !
 De ma triste grandeur j'ai vu Rome idolâtre :
@@ -328,8 +329,8 @@ Sont-ils morts l'un et l'autre?
 
       C'est assez.
 
-
 **** *creator_cyrano *book_cyrano_lamortdagrippine *style_verse *genre_tragedy *dist1_cyrano_verse_tragedy_lamortdagrippine *dist2_cyrano_verse_tragedy *id_SEJANUS *date_1653 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sejanus
+
 
 Madame, la nouvelle en est trop assurée ;
 L'Empereur ce matin est sorti de Caprée,
@@ -748,8 +749,8 @@ Sur celle des Catons je m'en vais enchérir,
 Et si vous en doutez, venez me voir mourir.
 Marchez, Gardes!
 
-
 **** *creator_cyrano *book_cyrano_lamortdagrippine *style_verse *genre_tragedy *dist1_cyrano_verse_tragedy_lamortdagrippine *dist2_cyrano_verse_tragedy *id_NERVA *date_1653 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nerva
+
 
 C'est trop te défier de ton noble destin ;
 Agrippine te hait, mais elle est femme enfin.
@@ -833,8 +834,8 @@ Enfin, plus les bourreaux qui les ont menacés...
 
       Ils sont morts.
 
-
 **** *creator_cyrano *book_cyrano_lamortdagrippine *style_verse *genre_tragedy *dist1_cyrano_verse_tragedy_lamortdagrippine *dist2_cyrano_verse_tragedy *id_TERENTIUS *date_1653 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_terentius
+
 
 Immoler Agrippine à l'objet de ton feu,
 La victime sera plus noble que le Dieu.
@@ -885,8 +886,8 @@ Qui les craint, ne craint rien.
 
 Mais s'il n'en était point ! Cette Machine ronde ?
 
-
 **** *creator_cyrano *book_cyrano_lamortdagrippine *style_verse *genre_tragedy *dist1_cyrano_verse_tragedy_lamortdagrippine *dist2_cyrano_verse_tragedy *id_AGRIPPINE *date_1653 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_agrippine
+
 
 Je te vais retracer le tableau de sa gloire,
 Mais feins encor après d'ignorer son histoire,
@@ -1617,8 +1618,8 @@ On te nommait ainsi, quand tu perdis ton père !
 
 Pour ta perte, il suffit de sauver celui-là.
 
-
 **** *creator_cyrano *book_cyrano_lamortdagrippine *style_verse *genre_tragedy *dist1_cyrano_verse_tragedy_lamortdagrippine *dist2_cyrano_verse_tragedy *id_CORNELIE *date_1653 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cornelie
+
 
       Il ne m'en souvient plus.
 Et j'attends
@@ -1677,8 +1678,8 @@ Vous craignez le péril, ne frappez qu'après moi ! »
 Ce discours achevé, du haut de leur tribune,
 Avec un front égal attendez la Fortune.
 
-
 **** *creator_cyrano *book_cyrano_lamortdagrippine *style_verse *genre_tragedy *dist1_cyrano_verse_tragedy_lamortdagrippine *dist2_cyrano_verse_tragedy *id_LIVILLA *date_1653 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_livilla
+
 
 J'ai beau voir en triomphe un Empereur Romain,
 S'avancer contre nous le tonnerre à la main,
@@ -2024,4 +2025,3 @@ Se joindront chez les morts d'une ardeur si commune,
 Que la Parque y prendra nos deux âmes pour une.
 Mais Agrippine vient, ses redoutables yeux
 Ainsi que de ton coeur me chassent de ces lieux.
-

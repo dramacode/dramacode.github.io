@@ -2,6 +2,7 @@
 
 **** *creator_euripide *book_euripide_cyclope *style_prose *genre_piece satirique *dist1_euripide_prose_piece satirique_cyclope *dist2_euripide_prose_piece satirique *id_SILENE *date_1880 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_silene
 
+
 Ô Bacchus, je souffre pour toi mille peines, aujourd'hui comme au temps où j'étais jeune et dans la force de l'âge : d'abord, lorsque frappé de folie par Junon, tu t'enfuis et quittas les nymphes des montagnes, tes nourrices ; ensuite, lorsque devenu ton compagnon d'armes dans le combat contre les géants, je me plaçai à ta droite, et je tuai Encélade en traversant avec ma lance le milieu de son bouclier. — Mais quoi ! N'ai-je pas vu en songe ce que je dis là ? — Non, par Jupiter, puisque j'ai montré les dépouilles à Bacchus. Les maux que j'endure aujourd'hui sont plus cruels encore. À la nouvelle que Junon avait lancé contre toi des pirates tyrrhéniens, qui devaient te vendre dans des régions lointaines, je mis aussitôt à la voile avec mes enfants pour courir à ta recherche. À l'extrémité de la poupe, le gouvernail en main, je dirigeais la marche du navire, et mes fils, assis sur les bancs, et blanchissant d'écume la mer azurée, te cherchaient, dieu puissant. Déjà nous naviguions en vue du cap Malée, lorsque le vent, soufflant d'orient contre le navire, nous jeta sur ces rochers de l'Etna, où vivent dans des antres solitaires les fils du dieu des mers, les Cyclopes qui n'ont qu'un oeil et versent le sang humain. Tombés en leur pouvoir, nous sommes au service de l'un d'eux, nommé Polyphème ; et, au lieu de goûter les joies bachiques, nous paissons les troupeaux du Cyclope impie. Mes fils, qui sont jeunes, conduisent les brebis sur les collines les plus reculées ; et moi je reste ici, chargé de remplir les auges, de balayer cette habitation, et de servir d'horribles festins au Cyclope impie. Et maintenant, docile aux ordres que j'ai reçus, je dois nettoyer la maison avec ce râteau de fer, afin que mon maître absent et ses brebis trouvent, à leur retour, la caverne en bon état. Mais j'aperçois mes fils qui ramènent les troupeaux. Qu'est-ce à dire ? Dansez-vous par hasard maintenant la Sicinnis, comme au temps où, formant un joyeux cortège à Bacchus, vous alliez à la maison d'Althée, les sens ravis par les accords du luth ?
 
 Taisez-vous, mes enfants, et commandez aux valets de rassembler les troupeaux dans l'antre au toit de pierre.
@@ -118,8 +119,8 @@ C'est fait de moi, mes enfants : je vais subir un cruel traitement.
 
 Hélas ! Je ne tarderai point à sentir l'amertume de ce vin.
 
-
 **** *creator_euripide *book_euripide_cyclope *style_prose *genre_piece satirique *dist1_euripide_prose_piece satirique_cyclope *dist2_euripide_prose_piece satirique *id_ULYSSE *date_1880 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulysse
+
 
 Étrangers, dites-nous s'il est un fleuve où nous puissions puiser de l'eau pour apaiser notre soif, et qui voudra vendre des vivres à des matelots affamés ? Mais qu'est-ce à dire ? Nous avons abordé, je crois, sur une terre consacrée à Bacchus : car je vois près de cet antre une troupe de satyres. Salut, d'abord, au plus âgé !
 
@@ -276,4 +277,3 @@ Hors de ta portée, et mettant à couvert de ta fureur la personne d'Ulysse.
 Le nom d'Ulysse, que m'a donné mon père. Tu devais être puni pour la nourriture impie dont tu te repais. J'eusse acquis peu de gloire à réduire Troie en cendres, si je n'avais vengé sur toi le meurtre de mes compagnons.
 
 Pleure, je te le permets : aussi bien ai-je fait ce qu'il faut pour que tu pleures. Moi, je vais me rendre au rivage et m'embarquer pour la mer de Sicile, et, de là, retourner dans ma patrie.
-

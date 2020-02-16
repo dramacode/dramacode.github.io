@@ -2,6 +2,7 @@
 
 **** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *id_ATYS *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_atys
 
+
 Allons, allons, accourez tous,
 Cybele va descendre.
 Trop heureux phrygiens, venez ici l'attendre.
@@ -350,8 +351,8 @@ Inhumaine, je vais où vous ne serez pas.
 
 Je suis assez vengé, vous m'aimez, et je meurs.
 
-
 **** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *id_CYBELE *date_1676 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cybele
+
 
 Venez tous dans mon temple, et que chacun révère
 Le sacrificateur dont je vais faire choix :
@@ -644,8 +645,21 @@ Périt comme une fleur
 Qu'un soudain orage
 Renverse et ravage.
 
+**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *id_IRIS *date_1676 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iris
+
+
+Cybele veut que Flore aujourd'hui vous seconde.
+Il faut que les plaisirs viennent de toutes parts,
+Dans l'empire puissant, où règne un nouveau Mars,
+Ils n'ont plus d'autre asile au monde.
+Rendez-vous, s'il se peut, dignes de ses regards ;
+Joignez la beauté vive et pure
+Dont brille la nature,
+Aux ornements des plus beaux arts.
+s
 
 **** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *id_IDAS *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_idas
+
 
 Vous veillez lorsque tout sommeille ;
 Vous nous éveillez si matin,
@@ -683,8 +697,8 @@ Fiez-vous à ma soeur.
 Il s'est percé le sein, et mes soins pour sa vie
 N'ont pu prévenir sa fureur.
 
-
 **** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *id_DORIS *date_1676 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_doris
+
 
 L'amitié fut toujours égale entre vous deux,
 Et le sang d'assez près vous lie :
@@ -713,8 +727,8 @@ Quoi, vous pleurez ?
 
 N'osez-vous découvrir votre amour à Cybèle ?
 
-
 **** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *id_MELISSE *date_1676 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melisse
+
 
 Atys vous doit beaucoup, et son bonheur est grand.
 
@@ -743,8 +757,8 @@ Ont beau cacher leur chaîne,
 On abuse avec peine
 Les dieux par l'amour éclairés.
 
-
 **** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *id_SANGARIDE *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sangaride
+
 
 Que dans nos concerts les plus doux,
 Son nom sacré se fasse entendre.
@@ -931,8 +945,92 @@ Atys !
 
       Je meurs.
 
+**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *id_FLORE *date_1676 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_flore
+
+
+Quand j'attends les beaux jours, je viens toujours trop tard,
+Plus le printemps s'avance, et plus il m'est contraire ;
+Son retour presse le départ
+Du héros à qui je veux plaire.
+Pour lui faire ma cour, mes soins ont entrepris
+De braver désormais l'hiver le plus terrible,
+Dans l'ardeur de lui plaire on a bientôt appris
+À ne rien trouver d'impossible.
+
+**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *id_MELPOMENE *date_1676 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
+
+
+Retirez-vous, cessez de prévenir le temps ;
+Ne me dérobez point de précieux instants :
+La puissante Cybele
+Pour honorer Atys qu'elle a privé du jour,
+Veut que je renouvelle
+Dans une illustre cour
+Le souvenir de son amour.
+Que l'agrément rustique
+De Flore et de ses jeux,
+Cède à l'appareil magnifique
+De la muse tragique,
+Et de ses spectacles pompeux.
+
+**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *id_ZEPHIR *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zephir
+
+
+Le printemps quelquefois est moins doux qu'il ne semble,
+Il fait trop payer ses beaux jours ;
+Il vient pour escorter les jeux et les amours,
+Et c'est l'hiver qui les rassemble.
+
+**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *id_MORPHEE *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_morphee
+
+
+Régnez, divin sommeil, régnez sur tout le monde,
+Répandez vos pavots les plus assoupissants ;
+Calmez les soins, charmez les sens,
+Retenez tous les coeurs dans une paix profonde.
+
+Écoute, écoute Atys la gloire qui t'appelle,
+Sois sensible à l'honneur d'être aimé de Cybèle,
+Jouis heureux Atys de ta félicité.
+
+**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *id_PHOBETOR *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phobetor
+
+
+Ne vous faites point violence,
+Coulez, murmurez, clairs ruisseaux,
+Il n'est permis qu'au bruit des eaux
+De troubler la douceur d'un si charmant silence.
+
+Goûte en paix chaque jour une douceur nouvelle,
+Partage l'heureux sort d'une divinité,
+Ne vante plus la liberté,
+Il n'en est point du prix d'une chaîne si belle.
+
+**** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *id_PHANTASE *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phantase
+
+
+Que l'amour a d'attraits
+Lorsqu'il commence
+À faire sentir sa puissance !
+Que l'amour a d'attraits
+Lorsqu'il commence
+Pour ne finir jamais.
+Trop heureux un amant
+Qu'amour exempte
+Des peines d'une longue attente !
+Trop heureux un amant
+Qu'amour exempte
+De crainte et de tourment !
+
+Que l'amour a d'attraits
+Lorsqu'il commence
+À faire sentir sa puissance !
+Que l'amour a d'attraits
+Lorsqu'il commence
+Pour ne finir jamais !
 
 **** *creator_quinault *book_quinault_atys *style_verse *genre_show *dist1_quinault_verse_show_atys *dist2_quinault_verse_show *id_CELAENUS *date_1676 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_celaenus
+
 
 N'avancez pas plus loin, ne suivez point mes pas ;
 Sortez. Toi ne me quitte pas.
@@ -1052,4 +1150,3 @@ Sangaride expire à vos yeux.
 
 Ô promesse fatale !
 Sangaride n'est plus, et je suis trop vengé.
-

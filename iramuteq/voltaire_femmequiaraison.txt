@@ -2,6 +2,7 @@
 
 **** *creator_voltaire *book_voltaire_femmequiaraison *style_verse *genre_comedy *dist1_voltaire_verse_comedy_femmequiaraison *dist2_voltaire_verse_comedy *id_MONSIEURDURU *date_1759 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurduru
 
+
 Quelle réception ! Après douze ans d'absence.
 Comme tout se corrompt, comme tout change en France !
 
@@ -414,8 +415,8 @@ En voici donc autant qu'avec moi je rapporte.
 Allons donc ; je vois bien qu'il faut, avec constance,
 Prendre enfin mon bonheur du moins en patience.
 
-
 **** *creator_voltaire *book_voltaire_femmequiaraison *style_verse *genre_comedy *dist1_voltaire_verse_comedy_femmequiaraison *dist2_voltaire_verse_comedy *id_MADAMEDURU *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameduru
+
 
 Mais, mon très-cher Marquis, comment, en conscience,
 Puis-je accorder ma fille à votre impatience,
@@ -621,8 +622,8 @@ En contrats, en effets de la meilleure sorte.
 Rapportez-nous un coeur doux, tendre, généreux :
 Voilà les millions qui sont chers à nos voeux.
 
-
 **** *creator_voltaire *book_voltaire_femmequiaraison *style_verse *genre_comedy *dist1_voltaire_verse_comedy_femmequiaraison *dist2_voltaire_verse_comedy *id_LEMARQUIS *date_1759 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+
 
 Comment ? Avec trois mots, un bon contrat, un oui ;
 Rien de plus agréable et rien de plus facile.
@@ -845,8 +846,8 @@ Oh ! Pardon ; j'ignorais que vous fussiez chez vous.
 
       Quel beau-père !
 
-
 **** *creator_voltaire *book_voltaire_femmequiaraison *style_verse *genre_comedy *dist1_voltaire_verse_comedy_femmequiaraison *dist2_voltaire_verse_comedy *id_DAMIS *date_1759 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damis
+
 
       Ah ? Ah ! L'on parle donc ici
 D'hymenée et d'amour ? Je veux m'y joindre aussi.
@@ -1016,8 +1017,8 @@ Quel père !
       Tout ici doit vous plaire,
 Serez-vous inflexible ?
 
-
 **** *creator_voltaire *book_voltaire_femmequiaraison *style_verse *genre_comedy *dist1_voltaire_verse_comedy_femmequiaraison *dist2_voltaire_verse_comedy *id_ERISE *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_erise
+
 
 Oh ! Non, ne craignez rien ; s'il n'a pu vous déplaire
 Croyez que contre lui je n'ai point de colère :
@@ -1100,8 +1101,8 @@ Marquez-lui mon respect et mon contentement.
 
       Ah ! Disposez de moi.
 
-
 **** *creator_voltaire *book_voltaire_femmequiaraison *style_verse *genre_comedy *dist1_voltaire_verse_comedy_femmequiaraison *dist2_voltaire_verse_comedy *id_MONSIEURGRIPON *date_1759 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgripon
+
 
 Un bon sujet.
 
@@ -1392,8 +1393,8 @@ J'ai le coeur un peu dur ; mais après tout que faire ?
 La chose est sans remède, et ma Phlipotte aura
 Cent avocats pour un si-tôt qu'elle voudra.
 
-
 **** *creator_voltaire *book_voltaire_femmequiaraison *style_verse *genre_comedy *dist1_voltaire_verse_comedy_femmequiaraison *dist2_voltaire_verse_comedy *id_MARTHE *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marthe
+
 
 Voi1a Monsieur Gripon qui veut forcer la porte ;
 Il vient pour un grand cas, dit-il, qui vous importe.
@@ -1497,4 +1498,3 @@ Soyez gai comme nous, ou que Dieu vous renvoie,
 Nous vous promettons tous de vous tenir en joie.
 Rien n'est plus douloureux, comme plus inhumain,
 Que de gronder tout seul des plaisirs du prochain.
-

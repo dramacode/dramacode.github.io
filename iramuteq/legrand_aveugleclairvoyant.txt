@@ -2,6 +2,7 @@
 
 **** *creator_legrand *book_legrand_aveugleclairvoyant *style_verse *genre_comedy *dist1_legrand_verse_comedy_aveugleclairvoyant *dist2_legrand_verse_comedy *id_damon *date_1716 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_damon
 
+
       Holà ! Quelqu'un, Marin... tout m'abandonne,
 Et dans cette maison je ne trouve personne.
 
@@ -292,8 +293,8 @@ J'ai recouvré la vue, et je veux bien vous dire
 Que j'ai vu tous vos tours, et n'en ai fait que rire.
 Avouez qu'il falloit être bien patient.
 
-
 **** *creator_legrand *book_legrand_aveugleclairvoyant *style_verse *genre_comedy *dist1_legrand_verse_comedy_aveugleclairvoyant *dist2_legrand_verse_comedy *id_leonor *date_1716 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_leonor
+
 
 Fatal retour ! O ciel ! je frémis quand j'y pense.
 Lisette, dans l'état où l'a mis son destin,
@@ -420,8 +421,8 @@ Que ferons-nous, Lisette ? il y va de Léandre.
 
       Sortez sans plus attendre.
 
-
 **** *creator_legrand *book_legrand_aveugleclairvoyant *style_verse *genre_comedy *dist1_legrand_verse_comedy_aveugleclairvoyant *dist2_legrand_verse_comedy *id_tante *date_1716 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_tante
+
 
 Qu'ai-je appris, cher Marin ? Quel accident terrible !
 Damon revient aveugle ? O ciel ! est-il possible ?
@@ -517,8 +518,8 @@ Et je vous ferai voir...
 Tout comme il vous plaira, monsieur, arrangez vous ;
 Il faut qu'il me revienne à bon compte un époux.
 
-
 **** *creator_legrand *book_legrand_aveugleclairvoyant *style_verse *genre_comedy *dist1_legrand_verse_comedy_aveugleclairvoyant *dist2_legrand_verse_comedy *id_leandre *date_1716 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_leandre
+
 
 Eh bien ! mon cher Marin.
 
@@ -553,8 +554,8 @@ Je l'ai bien méritée, ayant pu m'oublier…
 
 Je fais tout mon bonheur d'une si belle chaîne.
 
-
 **** *creator_legrand *book_legrand_aveugleclairvoyant *style_verse *genre_comedy *dist1_legrand_verse_comedy_aveugleclairvoyant *dist2_legrand_verse_comedy *id_lempese *date_1716 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lempese
+
 
       Bonjour, beauté brillante,
 Toujours plus gracieuse, et toujours plus charmante
@@ -699,8 +700,8 @@ Ah ! c'est donc toi, maraud, avec ton beau langage
 Qui m'as fait tout du long donner dans le panneau ?
 Je ne sais qui me tient.
 
-
 **** *creator_legrand *book_legrand_aveugleclairvoyant *style_verse *genre_comedy *dist1_legrand_verse_comedy_aveugleclairvoyant *dist2_legrand_verse_comedy *id_lisette *date_1716 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_lisette
+
 
 Eh bien ! madame, à quoi vous déterminez-vous ?
 On va voir arriver votre futur époux :
@@ -902,8 +903,8 @@ Pour le coup nous voilà tous pris au trébuchet.
 
       Qu'as-tu fait, double traître ?
 
-
 **** *creator_legrand *book_legrand_aveugleclairvoyant *style_verse *genre_comedy *dist1_legrand_verse_comedy_aveugleclairvoyant *dist2_legrand_verse_comedy *id_marin *date_1716 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_marin
+
 
 Hoé, hoé, hoé !
 
@@ -1201,8 +1202,8 @@ Mais avant de crier, attends le dénouement.
 
 Voilà le véritable aveugle clairvoyant.
 
-
 **** *creator_legrand *book_legrand_aveugleclairvoyant *style_verse *genre_comedy *dist1_legrand_verse_comedy_aveugleclairvoyant *dist2_legrand_verse_comedy *id_notaire *date_1716 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_notaire
+
 
 A tous présens salut. Jamais dans mon étude
 Avec tant de justesse et tant de promptitude
@@ -1224,4 +1225,3 @@ Vos qualités ?
 
 Je ne demande rien, je suis payé d'avance ;
 Madame Léonor a su prendre ce soin.
-

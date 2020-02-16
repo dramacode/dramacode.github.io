@@ -2,6 +2,7 @@
 
 **** *creator_poinsinet *book_poinsinet_framaconnes *style_verse *genre_parodie *dist1_poinsinet_verse_parodie_framaconnes *dist2_poinsinet_verse_parodie *id_LEVENERABLE *date_1754 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levenerable
 
+
 Eh bien , tout est-il prêt pour la cérémonie
 
 Je craignais, par quelque obstacle,
@@ -193,8 +194,27 @@ Vienne s'unir avec nos frères,
 Et que les femmes désormais
 Soient admises à nos mystères.
 
+**** *creator_poinsinet *book_poinsinet_framaconnes *style_verse *genre_parodie *dist1_poinsinet_verse_parodie_framaconnes *dist2_poinsinet_verse_parodie *id_LEPREMIERSURVEILLANT *date_1754 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepremiersurveillant
+
+
+Avançons braves Compagnons,
+Suivons les leçons
+De nos anciens Maçons
+Rappellez vos serments,
+Qu'en ces instants.
+
+Quoi, de pareilles misères
+Pourraient tous vous arrêter.
+Eh bien ! Je vais seul mes frères.
+
+Quel arrêt ! Le repentir
+À mon courroux succède ;
+Vous savez trop bien punir :
+Oui, Maître, à votre désir,
+Je cède, je cède, je cède.
 
 **** *creator_poinsinet *book_poinsinet_framaconnes *style_verse *genre_parodie *dist1_poinsinet_verse_parodie_framaconnes *dist2_poinsinet_verse_parodie *id_HORTENSE *date_1754 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hortense
+
 
 Faisons tout céder à nos efforts.
 
@@ -375,3 +395,31 @@ Nos petits présents et nos fleurs,
 Qu'un noeud de rubans les enchaîne,
 Remplissons d'ambre la maison.
 
+**** *creator_poinsinet *book_poinsinet_framaconnes *style_verse *genre_parodie *dist1_poinsinet_verse_parodie_framaconnes *dist2_poinsinet_verse_parodie *id_MARINE *date_1754 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marine
+
+
+Oui, sortons, nous ferons bien mieux.
+
+Ne point parler, mais on rira.
+
+Oui, belle Hortense, les voilà,
+Mais nous n'avons pas de guirlandes,
+On a tout pris à l'Opéra,
+Pour enchanter les Amazones :
+Osiris en vainqueur malin
+En emploie quinze mille aulnes,
+Dont on forme un grand baldaquin.
+
+**** *creator_poinsinet *book_poinsinet_framaconnes *style_verse *genre_parodie *dist1_poinsinet_verse_parodie_framaconnes *dist2_poinsinet_verse_parodie *id_LESECONDSURVEILLANT *date_1754 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesecondsurveillant
+
+
+Ma foi pour calmer notre haîne,
+Vous prenez la bonne façon :
+Oh que ça sent bon.
+
+Oui, sous votre heureux empire,
+Malgré nous tout nous attire,
+L'Amour dicte vos accents,
+Vos yeux brillent de ses flammes,
+Et pour enchanter nos âmes,
+Vous savez charmer nos sens.

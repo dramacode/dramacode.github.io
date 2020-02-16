@@ -2,6 +2,7 @@
 
 **** *creator_tristan *book_tristan_osman *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_osman *dist2_tristan_verse_tragedy *id_LASULTANE *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lasultane
 
+
 Demeure, Parricide, arrête, sacrilège !
 Quoi ! Le sang Ottoman n'a point de privilège :
 On l'épanche à ma vue, on perd, devant mes yeux.
@@ -268,8 +269,8 @@ Ce méchant en raison fonde leur insolence.
 Par ses écrits, Seigneur ! comme par ses discours
 À la fureur passée il donne un plus grand cours.
 
-
 **** *creator_tristan *book_tristan_osman *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_osman *dist2_tristan_verse_tragedy *id_FATIME *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fatime
+
 
 Quel bruit s'est élevé qui s'augmente si fort ?
 
@@ -333,8 +334,8 @@ Dites-m'en quelque chose.
 Soutenez-la de grâce et faites promptement
 Qu'on mette nos deux corps dedans un monument.
 
-
 **** *creator_tristan *book_tristan_osman *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_osman *dist2_tristan_verse_tragedy *id_LEONTINE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leontine
+
 
       C'est Madame qui dort.
 
@@ -351,8 +352,8 @@ Et ce qu'il a de doux est ce qu'il a de pire.
 
       Il ne faut plus de Bassa pour Fatime.
 
-
 **** *creator_tristan *book_tristan_osman *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_osman *dist2_tristan_verse_tragedy *id_OSMAN *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_osman
+
 
 Enfin, c'est fait, ma sœur! la chose est préparée
 Pour succéder bientôt comme elle est désirée.
@@ -851,8 +852,8 @@ Ne me retarde plus. Adieu ! Je suis pressé.
 
 Au plus hardi marchand, je la vendrai bien chère.
 
-
 **** *creator_tristan *book_tristan_osman *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_osman *dist2_tristan_verse_tragedy *id_LAFILLE *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lafille
+
 
 Madame, par ce choix il me fait tant d'honneur,
 Que rien que sa bonté n'égale mon bonheur.
@@ -1304,8 +1305,8 @@ Qui ne pouvait mourir que d'un coup de ma main.
 
 C'en est fait ! C'en est fait !
 
-
 **** *creator_tristan *book_tristan_osman *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_osman *dist2_tristan_verse_tragedy *id_SELIM *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_selim
+
 
 Mamud, suivons ses pas.
 
@@ -1514,8 +1515,8 @@ C'est assez discourir ; il faut exécuter.
 Mamud, pour consoler tout le camp qui soupire,
 Ordonne de l'attaque et que le canon tire.
 
-
 **** *creator_tristan *book_tristan_osman *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_osman *dist2_tristan_verse_tragedy *id_MAMUD *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mamud
+
 
 Seigneur, voici venir la fille du Mufti,
 Le Grand Vizir l'amène.
@@ -1635,8 +1636,8 @@ Osman vivrait encor.
 
 Ha ! Madame, arrêtez ! Vous meurtrir de la sorte !
 
-
 **** *creator_tristan *book_tristan_osman *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_osman *dist2_tristan_verse_tragedy *id_ORCANE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orcane
+
 
 Le Sultan vient de faire une belle action.
 
@@ -1761,8 +1762,8 @@ Seigneur, fais sur le champ qu'on nous donne ces têtes
 Si tu ne satisfais nos désirs promptement,
 Nous irons les saisir dans ton appartement.
 
-
 **** *creator_tristan *book_tristan_osman *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_osman *dist2_tristan_verse_tragedy *id_LODIA *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lodia
+
 
       Seigneur, ton grand courage
 S'accroît dans le péril et dépite l'orage ;
@@ -1828,8 +1829,8 @@ Quoi ? Parler à la porte avec tant d'insolence ?
 Musulmans, l'Empereur vous impose silence !
 Il est temps de vous taire et de vous retirer.
 
-
 **** *creator_tristan *book_tristan_osman *style_verse *genre_tragedy *dist1_tristan_verse_tragedy_osman *dist2_tristan_verse_tragedy *id_CAPIGI *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_capigi
+
 
 Musulmans, qui vous meut ? Qui vous met en fureur
 Que pretendez-vous?
@@ -1841,4 +1842,3 @@ Parlez de l'Empereur avec plus de respect.
       Vous voyez sa Hautesse.
 
 Silence, le Sultan fait signe d'écouter.
-

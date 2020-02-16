@@ -2,6 +2,7 @@
 
 **** *creator_duryer *book_duryer_scevole *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_scevole *dist2_duryer_verse_tragedy *id_TARQUIN *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tarquin
 
+
 Quoi ? Toujours différer le succès d'une guerre
 Qui doit intéresser tous les Rois de la terre,
 Et joindre à leur pouvoir même la cruauté,
@@ -277,8 +278,8 @@ C'est ce qui reste à faire au généreux Porsenne.
       Je crains peu ce danger,
 Et nous vivrons au moins afin de nous venger.
 
-
 **** *creator_duryer *book_duryer_scevole *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_scevole *dist2_duryer_verse_tragedy *id_PORSENNE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_porsenne
+
 
       Qu'ai-je fait contre cette assistance
 Que mon affection donne à votre vengeance ?
@@ -652,8 +653,8 @@ Ainsi par mon Amour Rome subsistera,
 Et je veux qu'elle compte à la fin de sa peine,
 Entre ses Fondateurs et Scévole et Porsenne.
 
-
 **** *creator_duryer *book_duryer_scevole *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_scevole *dist2_duryer_verse_tragedy *id_MARCILE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marcile
+
 
       Peut-être pris la ville.
 
@@ -747,8 +748,8 @@ Scévole voit déjà l'appareil de sa peine ;
 Les feux sont allumés, il est prêt de périr,
 Et si l'on veut l'aider il est temps de courir.
 
-
 **** *creator_duryer *book_duryer_scevole *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_scevole *dist2_duryer_verse_tragedy *id_ARONS *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arons
+
 
       Non, non.
 
@@ -1089,8 +1090,13 @@ Lui céder devant vous l'objet de son Amour.
 
 Oui Seigneur.
 
+**** *creator_duryer *book_duryer_scevole *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_scevole *dist2_duryer_verse_tragedy *id_LICINE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_licine
+
+
+      L'on a pris une dame romaine.
 
 **** *creator_duryer *book_duryer_scevole *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_scevole *dist2_duryer_verse_tragedy *id_JUNIE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junie
+
 
 Je t'obéis, Porsenne, et te rends ce devoir
 Parce que le destin me met en ton pouvoir.
@@ -1682,8 +1688,8 @@ D'empêcher qu'un Tyran ne perde tes bienfaits.
 Vois si quelque justice accompagne une cause
 Dont le chef craint les Lois que l'équité propose.
 
-
 **** *creator_duryer *book_duryer_scevole *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_scevole *dist2_duryer_verse_tragedy *id_FULVIE *date_1644 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fulvie
+
 
 Madame.
 
@@ -1741,8 +1747,8 @@ Faire choir son appui que d'en être incertain.
 
       Mais j'entends quelque bruit.
 
-
 **** *creator_duryer *book_duryer_scevole *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_scevole *dist2_duryer_verse_tragedy *id_SCEVOLE *date_1644 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scevole
+
 
 Est-ce vous que je vois ?
 
@@ -2141,4 +2147,3 @@ Si Tarquin y consent, si tu le veux permettre.
 
 Rome jamais ingrate au soin qu'on a pour elle,
 Te rendra pour ses biens une gloire immortelle.
-

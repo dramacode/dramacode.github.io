@@ -1,6 +1,7 @@
 
 
-**** *creator_aigueberre *book_aigueberre_avareamoureux *style_prose *genre_comedy *dist1_aigueberre_prose_comedy_avareamoureux *dist2_aigueberre_prose_comedy *id_ARGANTE *date_(non *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_argante
+**** *creator_aigueberre *book_aigueberre_avareamoureux *style_prose *genre_comedy *dist1_aigueberre_prose_comedy_avareamoureux *dist2_aigueberre_prose_comedy *id_ARGANTE *date_(non *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_argante
+
 
 Enfin Nérine, me voilà tout déterminé à épouser Julie ; et je viens pour la demander en mariage à son père.
 
@@ -200,8 +201,8 @@ C'en est fait, et je vais être sacrifié.
 
 Le grand Diable d'enfer. Le plus ancien de mes amis veut m'égorger : ma maîtresse me sacrifie : la femme du monde que j'estimais le plus, me joue un tour abominable : jusqu'à une coquine de soubrette, tout m'insulte, tout me trahit : et je vois mieux que jamais qu'il n'y a rien de solide que l'argent.
 
+**** *creator_aigueberre *book_aigueberre_avareamoureux *style_prose *genre_comedy *dist1_aigueberre_prose_comedy_avareamoureux *dist2_aigueberre_prose_comedy *id_GERONTE *date_(non *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_geronte
 
-**** *creator_aigueberre *book_aigueberre_avareamoureux *style_prose *genre_comedy *dist1_aigueberre_prose_comedy_avareamoureux *dist2_aigueberre_prose_comedy *id_GERONTE *date_(non *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_geronte
 
 Hé bien, Nérine, que dit ma fille de son mariage ?
 
@@ -307,8 +308,8 @@ Je connais sa maison ; et son alliance m'est chère.
 
 J'espère, Monsieur, que cette bagatelle n'empêchera pas que nous ne soyons toujours amis ?
 
+**** *creator_aigueberre *book_aigueberre_avareamoureux *style_prose *genre_comedy *dist1_aigueberre_prose_comedy_avareamoureux *dist2_aigueberre_prose_comedy *id_JULIE *date_(non *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_julie
 
-**** *creator_aigueberre *book_aigueberre_avareamoureux *style_prose *genre_comedy *dist1_aigueberre_prose_comedy_avareamoureux *dist2_aigueberre_prose_comedy *id_JULIE *date_(non *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_julie
 
 Ah ! Ma chère Nérine, je suis dans le dernier désespoir. Monsieur Argante est dans le cabinet de mon père ; et peut-être que les articles font déjà dressés.
 
@@ -356,8 +357,8 @@ Je n'en ai pas eu la force.
 
 Non, Valére : et si ma tante ne peut me garantir de ce malheur, je mourrai la première.
 
-
 **** *creator_aigueberre *book_aigueberre_avareamoureux *style_prose *genre_comedy *dist1_aigueberre_prose_comedy_avareamoureux *dist2_aigueberre_prose_comedy *id_DORIMENE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dorimene
+
 
 Et de quoi s'agit-il, ma nièce ?
 
@@ -405,8 +406,8 @@ Valère, paraissez. Mon frère voilà l'époux que je donne à ma nièce.
 
 Allons, mon Frère, entrons dans mon appartement. Monsieur a peut-être quelque nouveau contrat à passer avec Monsieur Subtil. Et vous, Monsieur Courteligne, suivez-moi, nous aurons besoin de vous.
 
+**** *creator_aigueberre *book_aigueberre_avareamoureux *style_prose *genre_comedy *dist1_aigueberre_prose_comedy_avareamoureux *dist2_aigueberre_prose_comedy *id_VALERE *date_(non *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_valere
 
-**** *creator_aigueberre *book_aigueberre_avareamoureux *style_prose *genre_comedy *dist1_aigueberre_prose_comedy_avareamoureux *dist2_aigueberre_prose_comedy *id_VALERE *date_(non *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_valere
 
 Madame, vous connaissez mes sentiments pour Julie ; et il serait temps de vouloir bien les appuyer auprès de Monsieur votre frère.
 
@@ -432,8 +433,8 @@ Et vous, aurez celle de lui obéir ; et de me donner la mort ?
 
 Ah Nérine ! Ne nous accable pas. Tâche plutôt de nous servir.
 
-
 **** *creator_aigueberre *book_aigueberre_avareamoureux *style_prose *genre_comedy *dist1_aigueberre_prose_comedy_avareamoureux *dist2_aigueberre_prose_comedy *id_NERINE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nerine
+
 
 Et Dieu, sait si les préparatifs sont magnifiques, étoffes précieuses, diamants de prix, valets nombreux, carrosse brillant...
 
@@ -631,3 +632,14 @@ Et nous allons avertir Dorimène de ce qui se passe.
 
 Je suis bien fâché, Monsieur, que vous soyez sans femme, et que l'excès de mon zèle en soit la cause.
 
+**** *creator_aigueberre *book_aigueberre_avareamoureux *style_prose *genre_comedy *dist1_aigueberre_prose_comedy_avareamoureux *dist2_aigueberre_prose_comedy *id_MONSIEURSUBTIL *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieursubtil
+
+
+Voici, Monsieur, votre contrat avec Doriméne.
+
+Qui me payera mon contrat ?
+
+**** *creator_aigueberre *book_aigueberre_avareamoureux *style_prose *genre_comedy *dist1_aigueberre_prose_comedy_avareamoureux *dist2_aigueberre_prose_comedy *id_MONSIEURCOURTELIGNE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurcourteligne
+
+
+Je vous apporte, Monsieur, le contrat de votre fille avec Monsieur Argante. Tous deux à la fois. Il n'y manque que le seing des parties contractantes.

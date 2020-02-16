@@ -1,6 +1,20 @@
 
 
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_leandre *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leandre
+
+
+Puis que je vous rencontre, il faut faire partie:
+Allons nous divertir à voir la comedie;
+Ce passe-temps est propre à charmer les ennuis⁎:
+À peine il m'en souvient à l'instant que j'y suis.
+
+J'ayme la comedie, elle est mon element.
+
+Mais les Italiens prennent plus de licence⁎
+Que ne font les François, et quelqu'un s'en offence.
+
 **** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_lucidor *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucidor
+
 
 Allons-y, je le veux ; au coin de cette ruë,
 Une affiche à propos se montre à nostre veuë.
@@ -45,8 +59,38 @@ Qu'ils meslent gallamment avec leurs faceties⁎;
 On rencontre des gens qui tondroient sur un œuf⁎
 Et qui bien souvent ont l'esprit comme un boeuf.
 
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_dame1 *date_1662 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_dame1
+
+
+Pour moy, je vous le dis, jamais la comedie,
+N'eust tant d'attraits charmans, et tant de modestie;
+Le theatre n'a rien que d'honneste et de beau,
+Chaque jour il produit un prodige nouveau.
+Les Vestalles pourroient avecque bien-sceance
+Ouïr la comedie : elle n'est qu'innocence,
+Produisant les douceurs d'un divertissement,
+Elle instruit les enfans à vivre sagement.
+Ma fille est fort coquette, et, comme j'apprehende
+Qu'une ville assiegée à la fin ne se rende,
+Je luy veux faire voir avec combien d'ardeur,
+Une fille bien sage a soin de son honneur.
+Car le theatre enfin, l'amour des roys, des reynes
+Est un crayon, parlant des actions humaines.
+Pour moy, j'eus tousjours soin de garder mon honneur
+Et je veux que ma fille ait la mesme pudeur.
+
+      Allons; je le veux bien.
+Pour moy je la prefere au plus bel entretien.
+
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_dame2 *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_dame2
+
+
+Il le faut avoüer, certainement, Madame :
+La belle comedie est le charme de l'ame;
+Allons-y je vous prie.
 
 **** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_galant1 *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_galant1
+
 
 Isabelle, bon jour, vostre humble serviteur !
 Que vostre habit est riche et de belle couleur !
@@ -80,8 +124,8 @@ On me vient de donner un sonnet merveilleux.
 
       Au moins trente.
 
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_l-espinay *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lespinay
 
-**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_l-espinay *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lespinay
 
 Et moy des gans d'Espagne.
 
@@ -103,8 +147,8 @@ J'ayme Thomas Morus, les vers en sont forts beaux.
 
 Combien a-t-il de vers.
 
-
 **** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_portier *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_portier
+
 
 Ce teston⁎ est-il bon ? Cette piastre⁎ est legere !
 Ils sont sans conscience ou bien ils n'en ont guere :
@@ -167,8 +211,8 @@ Ils s'en vont revenir peut-estre avec main forte.
 On s'en va commencer, rentrons, fermons la porte.
 FIN.
 
-
 **** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_comedienne *date_1662 *sexe_feminin *age_sans-age *statut_exterieur *fonction_autres *role_comedienne
+
 
 Al Dieu ! je voy passer un qui fait l'idolastre
 En venant m'aborder quand je suis au theâtre;
@@ -264,8 +308,13 @@ Et qu'elles sont aussi toutes spirituelles.
 Allons les divertir par nos accens mignards
 Et recevoir l'honneur d'attirer leurs regards.
 
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_filoux *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_filoux
 
-**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_filou1 *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_filou1
+
+Ouvre !
+
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_filou1 *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_filou1
+
 
       Ah ventre !
 
@@ -281,8 +330,8 @@ Je n'en ay point, amy, redoute ma colere !
 
 Ah c'est trop endurer, Portier tu periras.
 
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_ignorance *act_II *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_ignorance
 
-**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_ignorance *act_II *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_ignorance
 
 Et bien mon cher, mon beau, mon tout, mon agreable,
 L'essence des amans, coquet le plus aimable,
@@ -356,8 +405,8 @@ Qu'il vaudroit mieux pour eux ne voir jamais paroistre.
 Par moy de mille maux tu te pouras parer;
 Allons mon gros poupon !
 
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_trapolin *act_II *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_trapolin
 
-**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_trapolin *act_II *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_trapolin
 
 Beauté, beaux yeux, mon cœur, belle bouche, beau teint.
 
@@ -617,8 +666,8 @@ Allons nous en dormir et manger à foison.
 Le plus grand ennemy de l'homme est la raison.
 FIN.
 
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_le-docteur *act_II *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_ledocteur
 
-**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_le-docteur *act_II *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_ledocteur
 
 J'ay des filles chez moy, doctes, spirituelles;
 La matiere, et l'esprit sont excellens en elles,
@@ -816,8 +865,8 @@ Car je trouve selon mon sens;
 Sans que tu fasses des enfans,
 Que la terre a trop d'ignorans.
 
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_philosophie *act_II *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_philosophie
 
-**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_philosophie *act_II *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_philosophie
 
 Idsum tibi Papa, quid de me cupis ?
 
@@ -870,8 +919,8 @@ Ouy, mais il nous méprise, et choisit l'Ignorance.
 Et moy je vais monter dessus mes grands chevaux
 Et te mettre vilain, dans le rang des brutaux.
 
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_poesie *act_II *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_poesie
 
-**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_poesie *act_II *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_poesie
 
 Qvid vis Papa ego sum paratissima.
 
@@ -948,8 +997,8 @@ Je serois opulente, et dans fort peu de temps.
 Je te vais faire faire, au lieu d'epitalame,
 De satyriques vers, et quelque écrit infame.
 
+**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_galanterie *act_II *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_galanterie
 
-**** *creator_dorimond *book_dorimond_amoursdetrapolin *style_verse *genre_comedy *dist1_dorimond_verse_comedy_amoursdetrapolin *dist2_dorimond_verse_comedy *id_galanterie *act_II *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_galanterie
 
 Avec moy vous aurez liberté toute entière :
 Ouy, chacun avec moy peut vivre à sa maniere.
@@ -977,4 +1026,3 @@ Les laquais par mon ordre iront te nazarder.
 Mes cousines allons, c'est icy trop tarder,
 Et voyons sans regret mépriser la science :
 Un ignorant ne peut aimer que l'Ignorance.
-

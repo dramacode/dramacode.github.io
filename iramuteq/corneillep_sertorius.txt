@@ -1,6 +1,7 @@
 
 
-**** *creator_corneillep *book_corneillep_sertorius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sertorius *dist2_corneillep_verse_tragedy *id_SERTORIUS *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_sertorius
+**** *creator_corneillep *book_corneillep_sertorius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sertorius *dist2_corneillep_verse_tragedy *id_SERTORIUS *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_sertorius
+
 
 Apprenez un dessein qui me vient de surprendre.
 Dans deux heures Pompée en ce lieu se doit rendre :
@@ -595,8 +596,8 @@ Je partage les maux dont je la vois comblée.
 Adieu : j'entre un moment pour calmer son chagrin,
 Et me rendrai chez vous à l'heure du festin.
 
+**** *creator_corneillep *book_corneillep_sertorius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sertorius *dist2_corneillep_verse_tragedy *id_PERPENNA *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_perpenna
 
-**** *creator_corneillep *book_corneillep_sertorius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sertorius *dist2_corneillep_verse_tragedy *id_PERPENNA *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_perpenna
 
 D'où me vient ce désordre, Aufide, et que veut dire
 Que mon coeur sur mes voeux garde si peu d'empire ?
@@ -920,8 +921,8 @@ Seigneur, se pourrait-il qu'après un tel service…
 
       Mais cependant leur haine…
 
+**** *creator_corneillep *book_corneillep_sertorius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sertorius *dist2_corneillep_verse_tragedy *id_AUFIDE *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_aufide
 
-**** *creator_corneillep *book_corneillep_sertorius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sertorius *dist2_corneillep_verse_tragedy *id_AUFIDE *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_aufide
 
 Quel honteux contre-temps de vertu délicate
 S'oppose au beau succès de l'espoir qui vous flatte ?
@@ -1026,8 +1027,8 @@ Et de sa propre main vous me voyez percé ;
 Maître absolu de tout, il change ici la garde.
 Pensez à vous, je meurs ; la suite vous regarde.
 
+**** *creator_corneillep *book_corneillep_sertorius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sertorius *dist2_corneillep_verse_tragedy *id_POMPEE *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_pompee
 
-**** *creator_corneillep *book_corneillep_sertorius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sertorius *dist2_corneillep_verse_tragedy *id_POMPEE *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_pompee
 
 Deux raisons ; mais, seigneur, faites qu'on se retire,
 Afin qu'en liberté je puisse vous les dire.
@@ -1315,8 +1316,8 @@ Allons donner votre ordre à des pompes funèbres,
 Et dresser un tombeau, témoin de son malheur,
 Qui le soit de sa gloire et de notre douleur.
 
+**** *creator_corneillep *book_corneillep_sertorius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sertorius *dist2_corneillep_verse_tragedy *id_ARISTIE *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_aristie
 
-**** *creator_corneillep *book_corneillep_sertorius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sertorius *dist2_corneillep_verse_tragedy *id_ARISTIE *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_aristie
 
 Ne vous offensez pas si dans mon infortune
 Ma faiblesse me force à vous être importune :
@@ -1637,8 +1638,8 @@ Le mien savait vous rendre une ardeur mutuelle ;
 Et pour mieux recevoir ce don renouvelé,
 Il oubliera, seigneur, qu'on me l'avait volé.
 
+**** *creator_corneillep *book_corneillep_sertorius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sertorius *dist2_corneillep_verse_tragedy *id_VIRIATE *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_viriate
 
-**** *creator_corneillep *book_corneillep_sertorius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sertorius *dist2_corneillep_verse_tragedy *id_VIRIATE *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_viriate
 
 Thamire, il faut parler, l'occasion nous presse :
 Rome jusqu'en ces murs m'envoie une maîtresse ;
@@ -2180,8 +2181,8 @@ Ne peut voir mes états sous ma seule puissance,
 Vous n'avez qu'à garder cette place en vos mains,
 Et je m'y tiens déjà captive des Romains.
 
+**** *creator_corneillep *book_corneillep_sertorius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sertorius *dist2_corneillep_verse_tragedy *id_THAMIRE *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_thamire
 
-**** *creator_corneillep *book_corneillep_sertorius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sertorius *dist2_corneillep_verse_tragedy *id_THAMIRE *date_1662 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_thamire
 
 Madame, en ce héros tout est illustre et grand ;
 Mais à parler sans fard, votre amour me surprend.
@@ -2273,3 +2274,30 @@ Il vient ; dissimulez un si juste courroux ;
 Et jusqu'à ce qu'un temps plus favorable arrive,
 Daignez vous souvenir que vous êtes captive.
 
+**** *creator_corneillep *book_corneillep_sertorius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sertorius *dist2_corneillep_verse_tragedy *id_CELSUS *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_celsus
+
+
+      Oui, seigneur : le perfide
+A vu plus de cent bras punir son parricide ;
+Et livré par votre ordre à ce peuple irrité,
+Sans rien dire…
+
+**** *creator_corneillep *book_corneillep_sertorius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_sertorius *dist2_corneillep_verse_tragedy *id_ARCAS *date_1662 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_arcas
+
+
+      Ces lettres mieux que moi
+Vous diront un succès qu'à peine encor je crois.
+
+Il a cette nouvelle, et revient sur ses pas.
+De la part de Sylla chargé de lui remettre
+Sur ce grand changement une pareille lettre,
+À deux milles d'ici j'ai su le rencontrer.
+
+      Par votre expérience
+Vous pouvez bien juger de son impatience ;
+Mais rappelé vers vous par un transport d'amour
+Qui ne lui permet pas d'achever son retour,
+L'ordre que pour son camp ce grand effet demande
+L'arrête à le donner, attendant qu'il s'y rende.
+Il me suivra de près, et m'a fait avancer
+Pour vous dire un miracle où vous n'osiez penser.

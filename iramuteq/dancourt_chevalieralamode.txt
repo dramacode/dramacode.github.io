@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_chevalieralamode *style_prose *genre_comedy *dist1_dancourt_prose_comedy_chevalieralamode *dist2_dancourt_prose_comedy *id_MADAMEPATIN *date_1687 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamepatin
 
+
 Une avanie... Ah, j'étouffe. Une avanie... Je ne saurais parler, un siège.
 
 Cela n'est que trop vrai, ma pauvre Lisette. J'en mourrai. Quelle violence ! En pleine rue, on vient de me manquer de respect.
@@ -611,8 +612,8 @@ Voilà ma main, Monsieur : et dès demain, je vous épouse, pourvu qu'en même 
 
 Tu n'épouseras pas ma nièce, perfide !
 
-
 **** *creator_dancourt *book_dancourt_chevalieralamode *style_prose *genre_comedy *dist1_dancourt_prose_comedy_chevalieralamode *dist2_dancourt_prose_comedy *id_MONSIEURSERREFORT *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurserrefort
+
 
 Ne te mets pas en peine, je la chapitrerai de manière qu'elle n'aura pas la hardiesse de quereller de plus de huit jours. L'extravagante ! Elle se fait de belles affaires ! S'il faut malheureusement que celle-ci éclate à la Cour, nous ne pourrons jamais nous parer de quelque grosse taxe.
 
@@ -723,8 +724,8 @@ Qu'est-ce à dire cela ? Oh, je ne prétends pas que vous épousiez ni l'une ni
 
 C'est moi qui vous réponds de cet article, et ma fille, je crois, n'aura pas l'audace de résister à mes volontés.
 
-
 **** *creator_dancourt *book_dancourt_chevalieralamode *style_prose *genre_comedy *dist1_dancourt_prose_comedy_chevalieralamode *dist2_dancourt_prose_comedy *id_LUCILE *date_1687 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucile
+
 
 J'attendais avec impatience que mon père sortît, ma tante, pour vous dire une nouvelle, qui vous fera voir que je suis autant dans vos intérêts, que mon père vous est contraire.
 
@@ -852,8 +853,8 @@ Dans le désespoir où je suis, mon père, je ferai tout ce que vous voudrez.
 
 Vous ne serez jamais le mari de ma tante, pourtant.
 
-
 **** *creator_dancourt *book_dancourt_chevalieralamode *style_prose *genre_comedy *dist1_dancourt_prose_comedy_chevalieralamode *dist2_dancourt_prose_comedy *id_LABARONNE *date_1687 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_labaronne
+
 
 Vous êtes une sotte, ma mie, votre Maîtresse y est toujours pour moi.
 
@@ -977,8 +978,8 @@ Malheureuse petite bourgeoise ! Refuser l'honneur de se mesurer avec une Baronn
 
 Elle veut devenir femme de qualité, et elle n'oserait tirer l'épée ! Merci de ma vie, je m'en vais chercher le Chevalier, et s'il ne change pas de sentiment, ce sera à moi qu'il aura affaire.
 
-
 **** *creator_dancourt *book_dancourt_chevalieralamode *style_prose *genre_comedy *dist1_dancourt_prose_comedy_chevalieralamode *dist2_dancourt_prose_comedy *id_MONSIEURMIGAUD *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurmigaud
+
 
 Madame, j'entre peut-être indiscrètement ; mais, je viens moi-même la réponse du billet que vous m'écrivîtes hier au soir.
 
@@ -1082,8 +1083,8 @@ Comment donc, Madame ?
 
 Ah, Madame, que cette condition me fait plaisir !
 
-
 **** *creator_dancourt *book_dancourt_chevalieralamode *style_prose *genre_comedy *dist1_dancourt_prose_comedy_chevalieralamode *dist2_dancourt_prose_comedy *id_LISETTE *date_1687 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
 Qu'est-ce donc, Madame ? Qu'avez-vous ? Que vous est-il arrivé ? Que vous a-t-on fait ?
 
@@ -1433,8 +1434,8 @@ La partie n'est pas mal liée ; mais, il ne sera pourtant pas difficile à Mons
 Oui, Madame.
 Je vais l'envoyer chez Monsieur Migaud, la fête ne serait pas bonne sans lui.
 
-
 **** *creator_dancourt *book_dancourt_chevalieralamode *style_prose *genre_comedy *dist1_dancourt_prose_comedy_chevalieralamode *dist2_dancourt_prose_comedy *id_CRISPIN *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
+
 
 Ah, vous voilà, Monsieur, je vous cherchais partout pour vous dire que la Baronne...
 
@@ -1692,8 +1693,13 @@ Voilà l'affaire dans la crise.
 
 Adieu donc, Mesdames, jusqu'au revoir. Hé bien, Monsieur, ne ferez-vous pas quelque petit air sur cette aventure-là ? Une chanson à propos raccommode quelquefois bien les choses, comme vous savez.
 
+**** *creator_dancourt *book_dancourt_chevalieralamode *style_prose *genre_comedy *dist1_dancourt_prose_comedy_chevalieralamode *dist2_dancourt_prose_comedy *id_LECOCHER *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecocher
+
+
+Qu'est-ce qui gnia, Madame ? Morguenne à qui en avez-vous ? Comme vous gueulez !
 
 **** *creator_dancourt *book_dancourt_chevalieralamode *style_prose *genre_comedy *dist1_dancourt_prose_comedy_chevalieralamode *dist2_dancourt_prose_comedy *id_LABRIE *date_1687 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_labrie
+
 
 Les autres sont plus chiffonnés que moi, et je venais dire à Madame que la Fleur et Jasmin ont la tête cassée par les gens de cette Marquise, et qu'il n'a tenu qu'à moi de l'avoir aussi.
 
@@ -1710,4 +1716,3 @@ Madame, voilà Mademoiselle votre nièce qui vous demande.
 La voilà, Madame.
 
 Voilà Monsieur Serrefort qui monte.
-

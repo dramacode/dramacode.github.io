@@ -2,6 +2,7 @@
 
 **** *creator_letellier *book_letellier_domjuan *style_verse *genre_show *dist1_letellier_verse_show_domjuan *dist2_letellier_verse_show *id_DONJUAN *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjuan
 
+
 Que cet objet est charmant
 Me ravit et m'enchante
 Quel bonheur pour un amant
@@ -60,8 +61,8 @@ Mais je veux passer mon envie
 J'en mangerai fut ce un poison
 Et dût il m'en coûter la vie.
 
-
 **** *creator_letellier *book_letellier_domjuan *style_verse *genre_show *dist1_letellier_verse_show_domjuan *dist2_letellier_verse_show *id_ARLEQUIN *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+
 
 Vous ne connaissez pas
 Ce dangereux corsaire
@@ -144,8 +145,70 @@ Vous m'entendez bien.
 
 Mes gages, mes gages. Ven...
 
+**** *creator_letellier *book_letellier_domjuan *style_verse *genre_show *dist1_letellier_verse_show_domjuan *dist2_letellier_verse_show *id_STATUE *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_statue
+
+
+À venir souper je t'engage
+Je veux ce soir sur mon tombeau
+Te régaler d'un mets nouveau
+Auras-tu ce courage ?
+
+Viens ici que je te régale
+Don Juan donne-moi la main
+C'est ici ton heure fatale
+Et ton repentir sera vain
+Le Ciel se venge enfin
+Des maux dont tu l'outrages
+C'est ainsi qu'un libertin
+Voit terminer son destin.
+
+**** *creator_letellier *book_letellier_domjuan *style_verse *genre_show *dist1_letellier_verse_show_domjuan *dist2_letellier_verse_show *id_PIERROT *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+
+
+Dis-moi, ma petite Fanchon
+Que portes-tu dans ton giron
+Ô reguingué.
+Prends bien garde à ta marchandise
+Car aujourd'hui tout est de prise.
+
+Que faites-vous là cousin
+Vous mangez mon fromage
+Eh bien si vous avez faim
+Mangés en jusqu'à demain
+Courage, courage.
+
+Laissés en repos
+Notre minagère
+Comme
+J'en avons affaire
+Morguienne de vous
+Quel homme, quel homme
+Morguienne de vous.
+
+**** *creator_letellier *book_letellier_domjuan *style_verse *genre_show *dist1_letellier_verse_show_domjuan *dist2_letellier_verse_show *id_FANCHON *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_fanchon
+
+
+Ne touches point à mes oeufs frais
+Pourquoi tant les mirer de près
+Ô reguingué.
+Veux-tu voir si dans la coquille
+Quelque petit poulet fourmille.
+
+Tu te mets en colère
+Petit mari
+Va, je n'ai point affaire
+D'un favori
+Tu seras toujours mon bouchon
+Mon joli mignon
+Et qui te plaira
+Ô gai lanla.
+Avant que de finir la scène
+Inventons quelque jeu gaillard
+Pierrot laisse bander ta veine
+Nous jouerons a colin-maillard.
 
 **** *creator_letellier *book_letellier_domjuan *style_verse *genre_show *dist1_letellier_verse_show_domjuan *dist2_letellier_verse_show *id_ISABELLE *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
 
 Nous jouissons au bord de ce rivage
 D'un sort heureux, d'un tranquille repos
@@ -176,3 +239,40 @@ Quand on est si volage eh bien
 Doit-on prendre pour gage
 Vous m'entendez bien.
 
+**** *creator_letellier *book_letellier_domjuan *style_verse *genre_show *dist1_letellier_verse_show_domjuan *dist2_letellier_verse_show *id_COLOMBINE *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colombine
+
+
+Tâchons avec cette eau de vie
+De sauver ces deux malheureux
+Ne trouverai-je point en eux
+Quelque signe de vie.
+
+**** *creator_letellier *book_letellier_domjuan *style_verse *genre_show *dist1_letellier_verse_show_domjuan *dist2_letellier_verse_show *id_BERGER *date_1713 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_berger
+
+
+Dans notre brillante jeunesse
+Livrons nos cours a la tendresse
+Laissons murmurer la vieillesse
+Qui languit sous le poids des ans
+Dans notre brillante jeunesse
+Ne songeons qu'a passer le temps
+
+**** *creator_letellier *book_letellier_domjuan *style_verse *genre_show *dist1_letellier_verse_show_domjuan *dist2_letellier_verse_show *id_BERGERE1 *date_1713 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_bergere1
+
+
+Dans notre village
+Chacun vit content
+Fidèle et constant
+Même après le mariage
+Vivez-vous ainsi
+Bonnes gens d'ici.
+
+**** *creator_letellier *book_letellier_domjuan *style_verse *genre_show *dist1_letellier_verse_show_domjuan *dist2_letellier_verse_show *id_BERGERE2 *date_1713 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_bergere2
+
+
+Jamais une belle
+Dans notre hameau
+Ne descend sur l'eau
+Pour se trouver à javelle
+Vivez-vous ainsi
+Bonnes gens d'ici.

@@ -2,6 +2,7 @@
 
 **** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *id_ALZAIDE *date_1745 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alzaide
 
+
 Ah ! Pherés, à Memphis en ce jour arrivée,
 J'ignore à quels malheurs le Ciel m'a réservée,
 Dans l'ombre du secret lasse de soupirer ,
@@ -501,8 +502,8 @@ Dieux !
 Quoiqu'il soit effroyable, un plus cruel m'est dû.
 Tu connais mes forfaits ; connais donc ma vertu.
 
-
 **** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *id_AMENOPHIS *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amenophis
+
 
 Je veux tout écouter, et ne négliger rien
 Pour le bonheur d'un peuple à qui je dois le mien :
@@ -861,8 +862,8 @@ Puis-je vous écouter ? Iphis est trop coupable.
 
 Quel coup affreux ! Ô ciel !
 
-
 **** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *id_ZARAES *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zaraes
+
 
       Alzaïde est seule, approchons-nous.
 
@@ -1127,8 +1128,8 @@ Je mourrai devant vous : voilà votre supplice.
       Moi-même je l'admire !
 Elle meurt à tes yeux : je suis vengé, j'expire.
 
-
 **** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *id_EZIRE *date_1745 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ezire
+
 
       Madame, que lui dire ?...
 
@@ -1196,8 +1197,8 @@ Pâlir même de rage, et d'horreur frissonner.
       Hélas ! Qui vous agite encore ?
 Vous parlez d'un époux...
 
-
 **** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *id_PHERES *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pheres
+
 
 De mortels ennuis si vous n'étiez en proie,
 J'oserais devant vous faire éclater ma joie,
@@ -1322,8 +1323,59 @@ Assiége sa retraite, et jure son trépas.
 
 Oui, Seigneur, c'est Iphis surpris dans ce Palais.
 
+**** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *id_MENOS *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_menos
+
+
+Son attentat, Seigneur, fut pour vous une offenfe ;
+Il faut un châtiment autant qu'une vengeance ;
+Eh ! Songez que nos lois...
+
+Je l'oserai, Seigneur, ett cette liberté
+Plus que tous nos respects vous a toujours flatté.
+Vous plaignez Zaraès quand nous devons le craindre ;
+Si vous lui pardonnez, c'est Memphis qu'il faut plaindre ;
+Elle va donc revoir son cruel ennemi :
+Toujours par vos bontés dans sa haine affermi,
+Zaraès de vos mains ne recevra la vie
+Que pour vous en punir, et perdre la patrie.
+Inquiet, furieux, perfide, usurpateur,
+Et de nos longs revers infatigable auteur :
+Ce qu'il fit autrefois, il peut encor le faire.
+Ne croyez pas, Seigneur, que ma voix téméraire
+Par haine devant vous s'élève contre lui ;
+Quoiqu'il m'ait arraché mon bonheur, mon appui ;
+Que par son ordre Iphis son fidèle complice
+Ait fait à mes amis subir un long supplice,
+Que Zaraès lui-même aidé de cet Iphis,
+Ait ravagé mes biens, ait massacré mon fils,
+Je ne sens point les coups que m'a porté ce traître :
+Je les oublie : il veut en porter à mon Maître ;
+Rien ne me touche plus, vous êtes menaçé.
+
+      Ce rebelle à vous perdre empresse
+Séduit le Syrien, l'arme : ce font ses brigues
+Qui soulevant l'Arabe, ont formé tant de ligues :
+Jusques dans la Nubie, où j'ai su ses complots,
+Il paraît fuir nos yeux, et chercher le repos ;
+Plus il se cache, et plus il doit être terrible ;
+Il est prêt d'éclater puisqu'il femble paisible ;
+Dans ses déguisements toujours si redouté,
+Il fut joindre la fraude à la témérité,
+Trompa ceux qu'il fournit, et ceux qui le vainquirent.
+En le trouvant partout, jamais ils ne le virent :
+Et s'il cache à Memphis sa haine et ses projets,
+Pour nous impratiquable, et non pour ses sujets ;
+Il leur écrit, leur parle, en abusant sans cesse
+De cette liberté que son vainqueur lui laisse.
+Croyez que ce captif au fond de sa prison,
+Où rien ne le contraint, qui vous voit sans foupçon,
+En secret agité, tranquille en apparence,
+Veut sur votre ruine élever sa puissance,
+Et qu'un sujet si fier qui se croit outragé,
+Aujourd'hui dans les fers demain sera vengé.
 
 **** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *id_NISUS *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nisus
+
 
 Permettez que sur vous, Seigneur, sur ses exploits,
 L'Egypte et l'Univers s'expliquent par ma voix.
@@ -1361,3 +1413,9 @@ Des soldats étrangers parmi nous répandus,
 Ont fait fuir loin d'Iphis les nôtres éperdus ;
 Ce traître a disparu.
 
+**** *creator_linant *book_linant_alzaide *style_verse *genre_tragedy *dist1_linant_verse_tragedy_alzaide *dist2_linant_verse_tragedy *id_OSIRIS *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_osiris
+
+
+Cette lettre, Seigneur, entre mes mains remise,
+À Zaraès écrite, en ce moment surprise,
+Et que tout me prescrit de ne donner qu'à vous...

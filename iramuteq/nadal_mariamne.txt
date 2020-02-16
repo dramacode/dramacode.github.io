@@ -2,6 +2,7 @@
 
 **** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *id_HERODE *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_herode
 
+
 Ciel ! Je respire enfin. Mais que vois-je ? Alexandre ?
 
       Dois-je vous embrasser ?
@@ -520,8 +521,8 @@ Je viens de te l'ôter, sans toi je la déteste,
 Souffre, que de mon sang rachetant mes forfaits,
 J'expie auprès de toi les maux que je t'ai faits.
 
-
 **** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *id_MARIAMNE *date_1725 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mariamne
+
 
 Madame, il est trop vrai, votre crainte était juste,
 Un bruit sourd se répand jusqu'au Trône d'Auguste.
@@ -915,8 +916,8 @@ Du crime sur autrui jette l'ignominie ?
 De ton aspect du moins la mort va m'affranchir.
 Adieu. Garde-toi bien de te laisser fléchir.
 
-
 **** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *id_ALEXANDRE *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alexandre
+
 
       Ah ! Madame,
 Permettez que mon coeur percé de mille traits
@@ -1114,8 +1115,8 @@ Vivez, et que bientôt la gloire qui vous fuit...
 Elle vous laisse un Fils, que percent vos douleurs.
 Permettez que sa main puisse essuyer vos pleurs.
 
-
 **** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *id_SALOME *date_1725 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_salome
+
 
       Je t'entends.
 Je sais de ses chagrins la cause déplorable,
@@ -1426,8 +1427,8 @@ Au Trône paternel un plus noble chemin...
       Seigneur cet éclat vous regarde.
 Vous l'entendez.
 
-
 **** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *id_SOESME *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_soesme
+
 
       Un bruit fâcheux commence à se répandre.
 Autour de ce Palais le peuple est consterné,
@@ -1595,8 +1596,8 @@ Je puis de ce Palais ménager la sortie.
 De ce premier péril une fois garantie,
 À votre sûreté partout je puis pourvoir.
 
-
 **** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *id_THARES *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thares
+
 
       Dans mon impatience,
 J'ose jusqu'en ces lieux chercher votre présence,
@@ -1754,8 +1755,8 @@ Le bras vengeur...
 
       Imite-moi.
 
-
 **** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *id_ALCIME *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcime
+
 
 Par votre ordre, seigneur, les Prêtres appelés
 Refusent hautement leurs sacrés ministères ;
@@ -1785,8 +1786,16 @@ Sous mille affreux replis trouva la vérité,
 De tant de noirs complots sut découvrir la trame.
 Mais le temps est pressant, seigneur, et si votre âme...
 
+**** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *id_ACHAS *date_1725 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_achas
+
+
+Ah ! Prince, sauvez-vous, le roi par sa présence
+A dissipé les flots des Peules mutinés,
+Et déjà contre vous ses ordres sont donnés,
+Il s'avance en ces lieu, et prêt à tout enfreindre...
 
 **** *creator_nadal *book_nadal_mariamne *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_mariamne *dist2_nadal_verse_tragedy *id_ELISE *date_1725 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elise
+
 
 Que dites-vous, Madame ? Et quelle est votre idée ?
 Quel temps votre courroux prend-il pour éclater ?
@@ -1823,4 +1832,3 @@ Et que ce sentiment qui n'a rien de suspect
 Sur le sang de Juda tient Hérode en respect.
 
 Contre elle suspendez du moins votre vengeance.
-

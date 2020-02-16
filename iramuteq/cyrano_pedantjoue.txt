@@ -2,6 +2,7 @@
 
 **** *creator_cyrano *book_cyrano_pedantjoue *style_prose *genre_comedy *dist1_cyrano_prose_comedy_pedantjoue *dist2_cyrano_prose_comedy *id_GRANGER *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_granger
 
+
 Oh ! Par les Dieux jumeaux ! Tous les Monstres ne sont pas en Afrique. Et de grâce, Satrape du Palais Stigial, donne-moi la définition de ton individu. Ne serais-tu point un être de raison, une chimère, un accident sans substance, un élixir de la matière première, un spectre de drap noir ? Ha ! Tu n'es sans doute que cela, ou tout au plus un grimaud d'Enfer qui fait l'école buissonnière.
 
 Et des autres Dieux qu'en fîtes-vous?
@@ -387,8 +388,8 @@ Hé bien ! Mademoiselle, que dites-vous de notre Comédie?
 
 N'en prenez pas la peine, je me consolerai bien moi-même. « Ô Tempora ! ô Mores ! »
 
-
 **** *creator_cyrano *book_cyrano_pedantjoue *style_prose *genre_comedy *dist1_cyrano_prose_comedy_pedantjoue *dist2_cyrano_prose_comedy *id_CHASTEAUFORT *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chasteaufort
+
 
 Puisque je te vois curieux de connaître les grandes choses, je veux t'apprendre les miracles de mon berceau. Sache que la Nature voyant germer au monde un essaim de petits Dieux affamés, et craignant que cette vermine venant à pulluler n infectai à la fin la Terre après le Ciel, voulut opposer un Hercule à ces Monstres. Cela lui donna bien jusques à la hardiesse de s'imaginer qu'elle me pouvait produire. Pour cet effet elle empoigna les âmes de Samson, d'Hector, d'Achille, d'Ajax, de Cyrus, d'Epaminondas, d'Alexandre, de Romule, de Scipion, d'Annibal, de Sylla, de Pompée, de Pyrrhus, de Caton, de Caesar, et d'Antoine ; puis les ayant pulvérisées, calcinées, rectifiées, elle réduisit toute cette confection en un spirituel sublimé qui n'attendait plus qu'un fourreau pour s'y fourrer. Nature, glorieuse de son réussit, ne pût goûter modérément sa joie, elle clabauda son chef-d'oeuvre partout; l'Art en devint jaloux, et fâché, disait-il, qu'une teigneuse emportât toute seule la gloire de m'avoir engendré, la traita d'ingrate, de superbe, lui déchira sa coiffe ; Nature, de son côté, prit son ennemi aux cheveux ; enfin l'un et l'autre battit, et fut battu. Le tintamarre des démentis, des soufflets, des bastonnades, m'éveilla ; je les vis, et jugeant que leurs démêlés ne portaient pas la mine de prendre sitôt fin, pour les mettre d'accord, je me créé moi-même. Depuis ce temps-là leur querelle dure encore ; partout vous voyez ces irréconciliables ennemis se prêter le collet, et les descriptions de nos Écrivains d'aujourd'hui ne sont lardées d'autre chose que des faits d'armes de ces deux gladiateurs, à cause que, prenant à bon augure d'être né dans la guerre, je leur commandai, en mémoire de ma naissance, de se battre sans se reposer jusques à la fin du Monde. Nature pour gagner mes bonnes grâces me présenta cette bisque de héros, je n'en fis par Dieu que deux gorgées ; donc afin de ne pas demeurer ingrat, je la voulus dépêtrer de ces Dieutelets, dont l'insolence la mettait en cervelle. Je les mandai, ils obéirent ; enfin je prononçai cet immuable Arrêt : « Gaillarde troupe, quand je vous ai convoqués, la plus miséricordieuse intention que j'eusse pour vous était de vous annihiler ; mais craignant que votre impuissance ne reprochât à mes mains l'indignité de cette victoire, voici ce que j'ordonne de votre sort : Vous autres Dieux qui savez si bien courir comme Saturne, père du temps, qui mangeant et dévorant tout, court à l'hôpital ; Jupiter qui, comme ayant la tête fêlée depuis le coup de hache qu'il reçut de Vulcain, doit courir les rues ; Mars qui comme soldat court aux armes ; Phoebus qui comme Dieu des Vers court la bouche des Poètes ; Vénus qui comme putain court l'aiguillette ; Mercure qui comme Messager court la Poste ; et Diane qui comme Chasseresse court les bêtes ; vous prendrez la peine, s'il vous plaît, de monter tous sept à califourchon sur une étoile. Là vous courrez de si bonne sorte, que vous n'aurez pas le loisir d'ouvrir les yeux. »
 
@@ -496,8 +497,8 @@ Garde-toi bien une autre fois de te méprendre. D'abord que quelqu'un viendra s'
 
 Je donne assez, quand je n'ôte rien ; et je leur ai fait beaucoup de bien, de ne leur avoir point fait de mal.
 
-
 **** *creator_cyrano *book_cyrano_pedantjoue *style_prose *genre_comedy *dist1_cyrano_prose_comedy_pedantjoue *dist2_cyrano_prose_comedy *id_GAREAU *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gareau
+
 
 Vartigué, vêla de ces mangeux de fpetis enfans ; la vegue de la Courtille, belle montre et peu de rapport.
 
@@ -571,8 +572,8 @@ Bonnefy, vous le prendrais. Je sais bien, comme dit l'autre, que je ne sis pas d
 
 Ah ! Par ma fy, je sommes logé à l'Enseigne de « J'en tenons ». Parmanda, j'en avouas queuque souleur, que cette petite Ravodière-là li grimoneret queuque tragédie. Hé bian, ne vêla pas notre putain de mainagère toute revenue ? Néanmoins, comme nan dit, Jésus Maria et durât sont deux biaux mots, feue la pauvre défunte, devant gnieu set son âme da, m'en baillit eun jour d'une belle vrédée. Par ma fiquette, ol me boutit à Cornuaille en tout bian et tout honneur. Stampandant la bonne chienne qu'ol estet... Aga hé ! Ous estes don itou de ces saintes sucrées-là ? Bonnefy, je le voyas bian, qu'ous aviais le nez torné à la friandise. Or un jour qu'il plut tant : « Jaquelaine, ce ly fis-je tout en gaussant, il fait cette nuit clair de l'Eune, il fera demain clair de l'Autre. » Enfin tanquia, qu'odon, ce nonobstant, après ça, ô dame, éclaircissez-moi à dire : « Tanquia que je m'en revenis tout épouvanté tintamarer à notre huis. À la parfin je me couchis tout fin nu auprès de notre bonne femme. Un tantet après que je me fussis rabougry tout en eun petit tapon, je sentis queuque chose qui groùillet. « Jaquelaine, ce ly fis-je, je pense qu'il y a là queuqu'un couché.  Oui, ce me fit-elle, je t'en répons et que guiantre y auret-il ? » Eune bonne escousse après je sacoute encore frétiller. « Han ! Jaquelaine, il y a là queuqu'un. « J'allongis ma main, je tâtis. « Houay ! Ce fis-je, eune tête, deux têtes » ; pis frougonnant entre les draps : « deux jambes, quatre jambes ; Han ! Jaquelaine il y a là queuqu'un. Hé, Piarre, que tu es fou, ce me fit-elle, tu comptes mes jambes deux fouas ! » Parguene, je ne me contentis point ; je me levis. Dame, je découvris le pot aux roses. « Ho ! Ho ! Vilaine, ce ly fis-je, qu'est-ce que ça ? « Fili Davi » ! Ton ribaut sera étripé ! Vrament, Jean, ce me fit-elle, garde t'en bian : c'est ce pauvre Maître Louis le barbier, qui venet de seigner eun malade de tout là-bas. Il estet tout rede de fred, et avet encore bian de vilain chemain à passer. Il m'exhorsiset d'allumer du feu ; dame, comme tu sais, le bois est char ; je l'y ai dit qu'il se venist pustôt réchauffer environ moi. Il ne feset que de s'y bouter quand tu es venu. Allons, allons, cely fis-je, Maître Louis on vous appranra devenir coucher avec les femmes des gens ». Dame, je ne fus ni fou, ni estourdi je le claquis bel et bian et le portis sur mes espaules jusqu'à moiquié chemain de sa maison : « Mais n'y revenez pas eune autre fouas ! Car parguene, s'il vous arrive, je vous porterai encore eune escousse aussi loin. » Et bian, regardez, il ne faut qu'eun malheur. Cette petite devargondée m'en eut peut-être fait autant. C'est pourquoi bonjour et bonsoir, c'est pour deux fouas.
 
-
 **** *creator_cyrano *book_cyrano_pedantjoue *style_prose *genre_comedy *dist1_cyrano_prose_comedy_pedantjoue *dist2_cyrano_prose_comedy *id_LATREMBLAYE *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_latremblaye
+
 
 Va donc avertir Mademoiselle Manon. Tout va bien : La bête donnera dans nos panneaux, ou je suis mauvais chasseur.
 
@@ -609,8 +610,8 @@ Vous l'avalerez, ou par la mort...
 
 Je n'oserais quasi prendre la hardiesse de vous consoler.
 
-
 **** *creator_cyrano *book_cyrano_pedantjoue *style_prose *genre_comedy *dist1_cyrano_prose_comedy_pedantjoue *dist2_cyrano_prose_comedy *id_CHARLOT *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_charlot
+
 
 Je ne puis rien comprendre à ton galimatias.
 
@@ -705,8 +706,8 @@ Prenez ce poignard, père dénaturé, faites deux homicides par un meurtre, écr
 
 Mon petit coeur, il est fort tard, allons nous mettre au lit.
 
-
 **** *creator_cyrano *book_cyrano_pedantjoue *style_prose *genre_comedy *dist1_cyrano_prose_comedy_pedantjoue *dist2_cyrano_prose_comedy *id_CORBINELI *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_corbineli
+
 
 Si vous voulez me croire, votre voyage ne sera pas long.
 
@@ -841,8 +842,8 @@ Enfin c'est une pilule qu'il vous faut avaler.
 
 C'est maintenant à vous, Monsieur, pour combler la félicité de ces nouveaux Mariés, d'augmenter leur revenu de celui d'un Empire. Il vous sera bien aisé, puisque vous faites chanceler la couronne d'un Monarque en la regardant.
 
-
 **** *creator_cyrano *book_cyrano_pedantjoue *style_prose *genre_comedy *dist1_cyrano_prose_comedy_pedantjoue *dist2_cyrano_prose_comedy *id_PAQUIER *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_paquier
+
 
 En effet, les Planètes sont justement ces sept-là.
 
@@ -1039,8 +1040,8 @@ Il faut avouer qu'Alexandre le Grand était un vaillant homme ; un jour...
 
 Je n'ai donc plus qu'à faire venir la sage-femme, car vous allez entrer en travail d'enfant.
 
-
 **** *creator_cyrano *book_cyrano_pedantjoue *style_prose *genre_comedy *dist1_cyrano_prose_comedy_pedantjoue *dist2_cyrano_prose_comedy *id_FLEURY *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fleury
+
 
 Hé bien, mon Cousin, notre Laboureur est-il arrivé ? Ferons-nous ce mariage ?
 
@@ -1054,8 +1055,8 @@ Là-donc, ne perdons point de temps.
 
 Vous avez bon courage, mais les jambes vous faillent.
 
-
 **** *creator_cyrano *book_cyrano_pedantjoue *style_prose *genre_comedy *dist1_cyrano_prose_comedy_pedantjoue *dist2_cyrano_prose_comedy *id_MANON *date_1654 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_manon
+
 
 Quel démêlé donc, mon pauvre Jean, avais-tu avec ce Capitaine ?
 
@@ -1069,8 +1070,8 @@ Ah ! Monsieur de la Tremblaye, mon cher Monsieur, donnez la vie à mon père, et
 
 Ah ; Monsieur de La Tremblaye, arrêtez. Je connais à vos yeux, que vous l'allez tuer. Bon Dieu ! Faut-il voir massacrer mon père devant moi ou mourir ignominieusement par les mains de la Justice pour un vol, alors qu'il n'avait pas achevé ? Donc, à l'âge où je suis, il faut que je perde mon Père ? Hé ! Pour l'amour de Dieu, mon père, mon pauvre père, sauvez-vous, sauvant la vie et l'honneur à vos enfants. Vous voyez que La Tremblaye est un brutal qui ne vous pardonnera jamais si vous ne devenez son beau-père. Pensez-vous que votre mort ne me touche point ! Ô dame, si est. Sachez que je ne vous survivrais guère, et que même pour vous sauver d'un péril encore moindre que celui-ci, je ne balancerais point de me prostituer. À plus forte raison pour vous sauver du gibet, n'ayant qu'à devenir la femme d'un brave gentilhomme, pourquoi ne le ferais-je pas ?
 
-
 **** *creator_cyrano *book_cyrano_pedantjoue *style_prose *genre_comedy *dist1_cyrano_prose_comedy_pedantjoue *dist2_cyrano_prose_comedy *id_GENEVOTE *date_1654 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_genevote
+
 
 Comment se porte ton Maître, Paquier ?
 
@@ -1166,3 +1167,7 @@ Vous plaît-il signer les articles ? Voilà le notaire tout prêt.
 
 Elle est belle, mais apprenez qu'elle est de celles qui durent autant que la vie. Nous vous en avons tantôt fait le récit comme d'une histoire arrivée, mais elle devait arriver. Au reste, vous n'avez pas sujet de vous plaindre, car vous nous avez mariés vous-même ; vous-même vous avez signé les articles du Contrat. Accusez vous seulement d'avoir enseigné le premier à fourber. Vous fîtes accroire aux parens de votre fils qu'il était fol, quand vous vites qu'il ne voulait point entendre au voyage de Venise. Cette insigne fausseté lui montra le chemin de celle-ci. Il crut qu'il ne pouvait faillir en imitant un si bon Père.
 
+**** *creator_cyrano *book_cyrano_pedantjoue *style_prose *genre_comedy *dist1_cyrano_prose_comedy_pedantjoue *dist2_cyrano_prose_comedy *id_CUISTRES *date_1654 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_cuistres
+
+
+Parce que vous ne voulez pas aller à Venise.

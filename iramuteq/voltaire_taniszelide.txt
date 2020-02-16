@@ -2,6 +2,7 @@
 
 **** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_ZELIDE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_zelide
 
+
 Dieux bienfaisants, qu'en ce bois on adore,
 Protégez-moi toujours contre mes oppresseurs !
 Les mages de Memphis me poursuivent encore ;
@@ -172,8 +173,8 @@ Un si grand changement est digne de vos mains.
 Mais je vois avancer ces mages inflexibles.
 Hélas ! je vous aime ; et je crains...
 
-
 **** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_TANIS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tanis
+
 
 Est-il possible, ô dieux ! Phanor ose entreprendre
 D'exposer vos beaux jours à nos fiers ennemis !
@@ -438,8 +439,8 @@ Semblent formés en ce beau jour.
 Sur les pas des Vertus les Plaisirs vont paraître ;
 Tout est l'ouvrage de l'Amour.
 
-
 **** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_CLEOFIS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleofis
+
 
 Quoi ! vous ne suivez point leurs pas ?
 
@@ -473,8 +474,8 @@ Mais craignons d'arriver trop tard.
 Il faut franchir ce mont inaccessible,
 Et Memphis à nos yeux est un autre univers.
 
-
 **** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_PANOPE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_panope
+
 
 Oubliez-vous Phanor ?
 
@@ -494,8 +495,8 @@ Des tyrans de Memphis braver la violence ?
 Votre trône est tombé ; vous n'avez plus d'amis.
 Quelle est encor votre espérance ?
 
-
 **** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_OTOES *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_otoes
+
 
 Ministres de mes lois que ma vengeance anime,
 Phanor a réparé son crime.
@@ -572,8 +573,8 @@ Gronde et décide en ma faveur !
 Éléments, faites-vous la guerre,
 Confondez-vous avec horreur !
 
-
 **** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_PHANOR *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phanor
+
 
 L'ennemi vient à nous, et pense nous surprendre.
 C'est à vous de me seconder ;
@@ -661,8 +662,37 @@ Suivez mon désespoir mortel.
 
 Amis, suivez mes pas, et vengeons l'innocence.
 
+**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_MAGES *date_(non *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_mages
 
-**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_BERGERS *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_bergers
+
+Ô magique puissance !
+Sois toujours dans nos mains
+L'instrument de la vengeance ;
+Fais trembler les faibles humains !
+
+Que tout l'enfer armé prévienne cette audace !
+
+Ô ciel ! se peut-il concevoir
+Qu'on égale notre pouvoir !
+
+**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_PRETREDISIS *date_(non *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_pretredisis
+
+
+Tendre Isis, Osiris, premiers dieux des mortels,
+Pourquoi ne régnez-vous qu'en ces heureux bocages ?
+Ne punirez-vous point ces implacables mages,
+Ces ennemis de vos autels ?
+Aux portes de Memphis nous bravons leur puissance :
+Mais est-ce assez pour nous de ne pas succomber ?
+Quand les verrons-nous tomber
+Sous les coups de votre vengeance ?
+
+Venez, bergers, il en est temps ;
+Consacrez à nos dieux les nobles monuments
+De la valeur et de la gloire.
+
+**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_BERGERS *date_(non *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_bergers
+
 
 Demeurez, régnez sur nos rivages ;
 Connaissez la paix et les beaux jours.
@@ -691,8 +721,29 @@ Qui vous trouble à nos yeux :
 La Discorde et la Haine
 N'habitent point ces lieux.
 
+**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_UNBERGER *date_(non *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_unberger
 
-**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_BERGERES *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_bergeres
+
+On peut nous charmer,
+Jamais nous abattre ;
+Nous savons combattre,
+Nous savons aimer.
+
+Dans le prochain bocage orné par ses appas,
+La pompe de l'hymen, et son bonheur s'apprête ;
+Nos bergers parent sa tête
+Des fleurs qui naissent sous ses pas.
+Phanor avec les siens a quitté nos asiles ;
+La Discorde fuit pour jamais.
+L'Hymen, le tendre Amour, et les Dieux, et la Paix,
+Nous assurent des jours tranquilles.
+Dans ce fortuné séjour,
+Les timbales et les musettes,
+Les sceptres dès rois, les houlettes,
+Sont unis des mains de l'Amour.
+
+**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_BERGERES *date_(non *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_bergeres
+
 
 Périsse leur mémoire !
 Plaisirs, ne soyez plus bannis.
@@ -707,8 +758,8 @@ Ne soyez soumis que par nos charmes.
 Doux bergers, si craints dans les alarmes,
 Ne soyez soumis que par nos charmes.
 
+**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_UNEBERGERE *date_(non *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_unebergere
 
-**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_UNEBERGERE *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_unebergere
 
 Sans éclat et sans envie,
 Satisfaits de notre sort,
@@ -738,8 +789,8 @@ Les pasteurs consacrés aux dieux de nos ancêtres,
 Au son de leurs flûtes champêtres,
 Vont amener Zélide à son heureux époux.
 
+**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_CHOEUR *date_(non *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_choeur
 
-**** *creator_voltaire *book_voltaire_taniszelide *style_verse *genre_tragedie en musique *dist1_voltaire_verse_tragedie en musique_taniszelide *dist2_voltaire_verse_tragedie en musique *id_CHOEUR *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_choeur
 
 Demeurez, régnez sur ces rivages ;
 Connaissez la paix et les beaux jours.
@@ -813,4 +864,3 @@ Régnez tous deux dans une paix profonde,
 Toujours unis et toujours vertueux.
 Fille des rois, enfant des dieux,
 Imitez-les, soyez l'amour du monde.
-

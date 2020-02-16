@@ -2,6 +2,7 @@
 
 **** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *id_RAPHAEL *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_raphael
 
+
 Gabriel, arrêtez ; le Seigneur ne veut pas
 De ce rebelle encor punir les attentats :
 Du Dieu que nous servons la sagesse profonde,
@@ -284,8 +285,8 @@ Qui président ici sur tes heureux destins ;
 Et je te rejoindrai sous ce berceau fertile,
 Dont tu fais en ces lieux ton principal asile.
 
-
 **** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *id_GABRIEL *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gabriel
+
 
 Dans le globe brillant qui fait ta résidence,
 Rien ne peut, Uriel, tromper ta vigilance.
@@ -414,8 +415,73 @@ Cette trempe divine est un foudre en mes mains.
 Ah ! C'est trop blasphémer la céleste Puissance.
 Je vais ... Mais quel Esprit s'oppose à ma vengeance.
 
+**** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *id_MICHEL *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_michel
+
+
+La mort prompte à servir la céleste puissance,
+Devait suivre de près ta désobéissance.
+Dieu diffère ses coups, et prolongeant tes jours,
+Veut à ton repentir donner un libre cours :
+Mais sache, en recevant cette faveur insigne,
+Que du séjour d'Eden, Adam, tu n'es plus digne.
+L'Éternel à l'instant te bannit de ce lieu,
+Et Michel qui te parle est choisi par son Dieu
+Pour conduire tes pas dans ces champs d'indigence,
+Où ton crime a versé sa fatale influence.
+
+Te te trompes, Adam, eh ! Toute la nature
+N'est-elle pas de Dieu la sublime peinture :
+II remplit l'univers de l'un à l'autre bout ;
+Et la terre, et le ciel te l'offriront partout.
+Mais, pour te consoler dans ta course mortelle,
+Connais de ton auteur la clémence éternelle ;
+Apprends que dans son fils tu trouves ton Sauveur,
+Le péché sa ruine, et Satan son vainqueur.
+Quel arbitre puissant ! Quel amour efficace !
+L'Ange tombe et périt, l'homme ingrat trouve grâce,
+Ton libérateur s'offre à son père irrité ;
+Il doit se revêtir de ton humanité,
+Unir l'homme innocent avec l'homme coupable :
+Ta race enfantera ce Messie adorable ;
+Et, chargé de ton crime, ainsi que de ton sort,
+Pour te donner la vie, il souffrira la mort.
+Alors, n'exhalant plus qu'une impuissante rage,
+Et restreint désormais au ténébreux rivage,
+Ton funeste ennemi, sous le poids de ses fers,
+Gémira desarmé dans le fond des enfers.
+Alors de nouveaux Cieux, une nouvelle terre,
+Asiles de la paix, à l'abri du tonnerre,
+Séjour de la justice et de la vérité,
+Uniront les humains à la divinité.
+
+**** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *id_URIEL *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_uriel
+
+
+Archange Gabriel, choisi par le Seigneur
+Pour conserver ici la paix et le bonheur,
+Je ne sais quel Esprit, trop suspect de mystère,
+Du Soleil que j'habite, a traversé la sphère ?
+Je l'ai surpris d'abord : quelque fût son desir,
+La crainte à mon aspect a paru le saisir.
+Il allait, m'a-t-il dit, reconnaître lui-même
+Les ouvrages nouveaux du Créateur suprême,
+La structure des Cieux, la Terre, l'Homme enfin,
+L'Homme qui doit de l'Ange égaler le destin.
+Il me quitte. À son air, à sa démarche leste,
+Je l'ai cru, je l'avoue, un habitant Céleste ;
+Mais j'ai porté sur lui des regards plus perçants,
+Et les sens m'ont semblé farouches, menaçants ;
+Des transports inconnus défiguraient son être,
+Pour un esprit impur on peut le reconnaître,
+Tout retraçait en lui la révolte, l'orgueil,
+Et jusque sur ces bords l'ayant suivi de l'oeil,
+J'ai craint que des Enfers la rage clandestine,
+N'apportât dans Eden le trouble et la ruine :
+Je l'ai craint, j'ai frémi, et ce cruel effroi,
+Du séjour lumineux, m'a conduit jusqu'à toi.
 
 **** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *id_ADAM *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_adam
+
 
 Ma chère Eve est encor dans les bras du sommeil,
 Messagers de l'aurore, annoncez son réveil,
@@ -769,8 +835,8 @@ S'il faut pour l'expier une telle victime ?
 Ministre bienfaisant qui me l'avez appris,
 Partons. Que mon exil devient doux à ce prix !
 
-
 **** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *id_EVE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eve
+
 
 Toi qui ne peux jamais sortir de ma mémoire,
 Modèle de ma vie, et source de ma gloire,
@@ -1083,8 +1149,8 @@ Au labeur imposé me verra la première.
 Prévenant tes besoins j'oublierai mes malheurs
 Si ta main, cher Adam, daigne essuyer mes pleurs.
 
-
 **** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *id_SATAN *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_satan
+
 
 Astre majestueux, flambeau de l'Univers,
 Qui, sur un trône d'or, parais le Dieu des airs ;
@@ -1504,8 +1570,8 @@ De l'affreuse prison qui la tient renfermée.
 Adam vient dans ces lieux déplorer ses malheurs ;
 Qu'il n'ouvre plus les yeux que pour verser des pleurs.
 
-
 **** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *id_MOLOCH *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moloch
+
 
 Qu'entends-je ? De Satan est-ce là le langage ?
 Et qu'est donc devenu son superbe courage ?
@@ -1669,8 +1735,8 @@ Et voilà ce qui doit occuper vos pensées.
 Hâtons-nous donc, Seigneur, d'annoncer aux Enfers
 Votre Empire immortel sur ce vaste Univers.
 
+**** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *id_LAVOIXDEDIEU *date_(non *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lavoixdedieu
 
-**** *creator_tanevot *book_tanevot_adameteve *style_verse *genre_tragedy *dist1_tanevot_verse_tragedy_adameteve *dist2_tanevot_verse_tragedy *id_LAVOIXDEDIEU *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lavoixdedieu
 
 Adam, où donc es-tu ? Qui te cache à ton Maître ?
 Pourquoi, devant ton Dieu, différer de paraître ?
@@ -1732,4 +1798,3 @@ Le Chef des légions de l'Empire céleste,
 De mes décrets bientôt va t'apprendre le reste ;
 Et tu sauras de lui, tout ce qu'a resolu,
 Sur ton crime, et pour toi, mon pouvoir absolu.
-

@@ -1,6 +1,7 @@
 
 
-**** *creator_aigueberre *book_aigueberre_polixene *style_verse *genre_comedy *dist1_aigueberre_verse_comedy_polixene *dist2_aigueberre_verse_comedy *id_POLIXENE *date_(non *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_polixene
+**** *creator_aigueberre *book_aigueberre_polixene *style_verse *genre_comedy *dist1_aigueberre_verse_comedy_polixene *dist2_aigueberre_verse_comedy *id_POLIXENE *date_(non *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_polixene
+
 
 Ciel ! À quels affronts m'avez vous destinée.
 De climats en climats en triomphe amenée,
@@ -181,8 +182,8 @@ Que de tant de Héros la mère infortunée,
 Daignez la délivrer de ses tristes liens,
 Et défendez ses jours, sans regretter les miens.
 
+**** *creator_aigueberre *book_aigueberre_polixene *style_verse *genre_comedy *dist1_aigueberre_verse_comedy_polixene *dist2_aigueberre_verse_comedy *id_PYRRHUS *date_(non *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_pyrrhus
 
-**** *creator_aigueberre *book_aigueberre_polixene *style_verse *genre_comedy *dist1_aigueberre_verse_comedy_polixene *dist2_aigueberre_verse_comedy *id_PYRRHUS *date_(non *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_pyrrhus
 
 Quoi, Madame toujours les yeux baignés de larmes ?
 
@@ -357,8 +358,8 @@ Les fassent tous périr sur cet affreux rivage ;
 Et puissent les Troyens, détruisant nos travaux
 Rebâtir Ilion sur les débris d'Argos.
 
-
 **** *creator_aigueberre *book_aigueberre_polixene *style_verse *genre_comedy *dist1_aigueberre_verse_comedy_polixene *dist2_aigueberre_verse_comedy *id_AEGINE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aegine
+
 
 Qu'entends-je juste ciel, et quels sont vos souhaits !
 
@@ -394,3 +395,42 @@ Lorsqu'à subir la mort Polixène s'apprête ;
 Qu'elle vient de sortir dans le fatal dessein
 De hâter elle-même un arrêt inhumain.
 
+**** *creator_aigueberre *book_aigueberre_polixene *style_verse *genre_comedy *dist1_aigueberre_verse_comedy_polixene *dist2_aigueberre_verse_comedy *id_THESSANDRE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thessandre
+
+
+Ah ! Seigneur, apprenez les mortelles terreurs,
+Qu'un oracle fatal répand dans tous les cours :
+Vos soldats s'acquittant d'un devoir légitime,
+Aux fiers mânes d'Achille offraient une victime,
+Quand soudain à leurs yeux, prodige tout nouveau,
+Ce superbe guerrier fore du sein du tombeau,
+Tel il parut jadis aux yeux de votre armée,
+Quand d'un juste courroux sa grande âme enflammée,
+Et d'un affront sanglant voulant tirer raison,
+Il osa menacer l'injuste Agamemnon.
+Il s'avance, et portant dans les cours l'épouvante :
+« Peuple ingrat ( leur dit-il d'une voix menaçante )
+Oses-tu présumer que mes mânes sacrés
+Par le sang le plus vil puissent être honorés ?
+Pour payer mes travaux d'une digne hécatombe,
+II faut que Polixène expire sur ma tombe. »
+Il prononce ces mots l'oil fier, étincelant,
+Et fixe ses regards sur tout le camp tremblant :
+Cependant tous les Grecs que ce prodige entraîne
+D'une commune voix condamnent Polixène
+Déjà de mille cris ils remplissent les Cieux ;
+Pour eux l'arrêt d'Achile est un arrêt des Dieux :
+Seigneur, et si j'en crois l'ardeur qui les anime,
+Ils vont bientôt ici demander leur victime.
+
+Tous les Grecs enhardis par la Religion,
+Demandent Polixène avec émotion •>
+Calchas, des immortels le Ministre suprême,
+Près du tombeau d'Achille a dressé l'Autel même ;
+Leur haine à cet objet semble se rallumer,
+Et dans leurs cris, Seigneur, ils osent vous nommer ,
+Ils osent accuser votre cour magnanime
+De vouloir à leurs coups dérober leur victime.
+
+Où vous entraîne, ô Ciel ! La douleur qui vous presse,
+Vivez pour commander à l'Epire, à la Grèce.

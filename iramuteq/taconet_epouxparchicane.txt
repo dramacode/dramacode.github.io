@@ -2,6 +2,7 @@
 
 **** *creator_taconet *book_taconet_epouxparchicane *style_verse *genre_parodie *dist1_taconet_verse_parodie_epouxparchicane *dist2_taconet_verse_parodie *id_FURIBON *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_furibon
 
+
 Oui, mon coeur en est charmé,
 Un tel parti m'honore,
 Et mon esprit désarmé
@@ -196,8 +197,8 @@ C'est Furet que j'entends! qu'as-tu donc, mon garçon ?
 Ah ! La tête !
 Ah ! La tête !
 
-
 **** *creator_taconet *book_taconet_epouxparchicane *style_verse *genre_parodie *dist1_taconet_verse_parodie_epouxparchicane *dist2_taconet_verse_parodie *id_ANTOINETTE *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_antoinette
+
 
 Cette paix flatte autant mon âme
 Que la vôtre y trouve d'appas.
@@ -490,8 +491,8 @@ Notre zèle assidu,
 Dû,
 Espère être reçu.
 
-
 **** *creator_taconet *book_taconet_epouxparchicane *style_verse *genre_parodie *dist1_taconet_verse_parodie_epouxparchicane *dist2_taconet_verse_parodie *id_MICHAU *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_michau
+
 
 Enfin voici le jour où tout me favorise ;
 Nos pères vont ici terminer tout procès :
@@ -705,8 +706,8 @@ La preuve que le tien
 Tient
 Le naturel du mien.
 
-
 **** *creator_taconet *book_taconet_epouxparchicane *style_verse *genre_parodie *dist1_taconet_verse_parodie_epouxparchicane *dist2_taconet_verse_parodie *id_FRANCOISE *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_francoise
+
 
 Pourquoi quitter la Compagnie.
 
@@ -734,8 +735,8 @@ Laissons-les ; je veux au salon
 Aller choisir quelque bon drille,
 Pour faire avec lui rigaudon.
 
-
 **** *creator_taconet *book_taconet_epouxparchicane *style_verse *genre_parodie *dist1_taconet_verse_parodie_epouxparchicane *dist2_taconet_verse_parodie *id_PATAU *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_patau
+
 
 J'attendais leur sortie : or sus, la plume en main.
 
@@ -806,8 +807,8 @@ Donnez-moi ce fléau,que je vous les assomme
 
 Ah! c'est trop barguiner, exploitons.
 
-
 **** *creator_taconet *book_taconet_epouxparchicane *style_verse *genre_parodie *dist1_taconet_verse_parodie_epouxparchicane *dist2_taconet_verse_parodie *id_THIBAUT *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thibaut
+
 
 Ah ! Quelle supercherie
 Pour Maître Michau !
@@ -856,8 +857,8 @@ Afin de les mieux reconnaître.
 Voulez-vous ?...
 Un moment, n'allons pas en jeune homme.
 
-
 **** *creator_taconet *book_taconet_epouxparchicane *style_verse *genre_parodie *dist1_taconet_verse_parodie_epouxparchicane *dist2_taconet_verse_parodie *id_FURET *date_1759 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_furet
+
 
 Au secours ! Au secours !
 
@@ -885,4 +886,3 @@ Ah ! La tête!
 Cher Furet, avec Nicolas,
 Conduis-moi jusqu'à notre Ferme.
 Toi, Michau, dans peu tu verras...
-

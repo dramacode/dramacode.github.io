@@ -2,6 +2,7 @@
 
 **** *creator_dorneval *book_dorneval_jugementdeparis *style_verse *genre_prologue *dist1_dorneval_verse_prologue_jugementdeparis *dist2_dorneval_verse_prologue *id_JUPITER *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
 
+
 Allons, allons, allons
 À la Guinguette, allons.
 De la joie, mes enfants, de la joie.Je suis en train aujourd'hui. Divertissons-nous.Du vin, du vin comme de l'eau.
@@ -61,8 +62,8 @@ Je n'en ferai rien, vous dis-je. Rapportez-vous-en à quelque mortel qui ait du 
 
 Portez vite cette pomme à Pâris : Qu'il la donne à qui elle appartient. Pour nous, que cela ne regarde plus, continuons de nous réjouir.
 
-
 **** *creator_dorneval *book_dorneval_jugementdeparis *style_verse *genre_prologue *dist1_dorneval_verse_prologue_jugementdeparis *dist2_dorneval_verse_prologue *id_JUNON *date_1718 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junon
+
 
 Ma Comète, ne te fâche point. Si nous ne t'avons pas mise de la partie, ce n'a point été par mépris. Tu sais que je t'ai toujours aimée.
 
@@ -109,8 +110,8 @@ Va. Je me donne au Diable,
 Tu seras, Misérable,
 Toujours gueux comme un rat,
 
-
 **** *creator_dorneval *book_dorneval_jugementdeparis *style_verse *genre_prologue *dist1_dorneval_verse_prologue_jugementdeparis *dist2_dorneval_verse_prologue *id_PALLAS *date_1718 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pallas
+
 
 Ne différons point.
 
@@ -152,8 +153,8 @@ Tu méprises la gloire !
 Tu mourras dans l'histoire
 Comme un lâche soldat.
 
-
 **** *creator_dorneval *book_dorneval_jugementdeparis *style_verse *genre_prologue *dist1_dorneval_verse_prologue_jugementdeparis *dist2_dorneval_verse_prologue *id_VENUS *date_1718 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
+
 
 Je ne sais. Il ne suit que sa fantaisie.
 
@@ -217,8 +218,8 @@ Je veux tout ou rien.
 Bon. Peux-tu craindre l'hôpital ?
 Je te donne une belle femme.
 
-
 **** *creator_dorneval *book_dorneval_jugementdeparis *style_verse *genre_prologue *dist1_dorneval_verse_prologue_jugementdeparis *dist2_dorneval_verse_prologue *id_MERCURE *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+
 
 Serviteur à Monsieur Gargot.
 
@@ -280,8 +281,8 @@ Voilà ses ordres absolus.
 
 C'est Pallas qui s'offre à tes yeux.
 
-
 **** *creator_dorneval *book_dorneval_jugementdeparis *style_verse *genre_prologue *dist1_dorneval_verse_prologue_jugementdeparis *dist2_dorneval_verse_prologue *id_LAMOUR *date_1718 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamour
+
 
 Oh, dame ! Chacun a ses affaires.
 
@@ -339,8 +340,8 @@ Sans moi, que deviendraient la Villette, Passy, les Bois de Boulogne et de Vince
 
 Soit : Mais, ce sera sans tirer à conséquence.
 
-
 **** *creator_dorneval *book_dorneval_jugementdeparis *style_verse *genre_prologue *dist1_dorneval_verse_prologue_jugementdeparis *dist2_dorneval_verse_prologue *id_LHYMEN *date_1718 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lhymen
+
 
 En vain vous faites la grimace ;
 Je triomphe en cet heureux jour.
@@ -368,8 +369,8 @@ L'Opéra dit bien d'autres sottises. C'est un impertinent, et vous aussi.
 
 À qui en veut donc ce brutal ?
 
-
 **** *creator_dorneval *book_dorneval_jugementdeparis *style_verse *genre_prologue *dist1_dorneval_verse_prologue_jugementdeparis *dist2_dorneval_verse_prologue *id_MONSIEURGARGOT *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgargot
+
 
 Que vois-je ! C'est le Dieu Mercure.
 
@@ -402,8 +403,8 @@ D'excellents.
 
 Ce Jupiter me paraît bonhomme : Je le crois même un peu bête.
 
-
 **** *creator_dorneval *book_dorneval_jugementdeparis *style_verse *genre_prologue *dist1_dorneval_verse_prologue_jugementdeparis *dist2_dorneval_verse_prologue *id_PARIS *date_1718 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_paris
+
 
 Gardons nos moutons,
 Lirette , liron,
@@ -465,4 +466,3 @@ Et vogue la galère,
 Tant qu'elle, tant qu'elle,
 Et vogue la galère,
 Tant qu'elle pourra voguer.
-

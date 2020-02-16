@@ -2,6 +2,7 @@
 
 **** *creator_champmesle *book_champmesle_coupeenchantee *style_prose *genre_comedy *dist1_champmesle_prose_comedy_coupeenchantee *dist2_champmesle_prose_comedy *id_ANSELME *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anselme
 
+
 Ah ! Monsieur Josselin, mon pauvre Monsieur Josselin
 
 Je suis dans le plus grand des embarras. Mon... Qui est cet homme-là ?
@@ -76,8 +77,8 @@ Oui, mon Fils.
 
 Qu'elle ne vous inquiète point. Je la briserai en votre présence.
 
-
 **** *creator_champmesle *book_champmesle_coupeenchantee *style_prose *genre_comedy *dist1_champmesle_prose_comedy_coupeenchantee *dist2_champmesle_prose_comedy *id_LELIE *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lelie
+
 
 D'où vient que mon Père me fuit ?
 
@@ -203,8 +204,8 @@ En mariage ? Cela signifie-t-il qu'elle demeurera toujours avec moi, mon Père.
 
 Qu'elle joie ! Ah, Mon Père, que je vous ai d'obligation.
 
-
 **** *creator_champmesle *book_champmesle_coupeenchantee *style_prose *genre_comedy *dist1_champmesle_prose_comedy_coupeenchantee *dist2_champmesle_prose_comedy *id_JOSSELIN *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_josselin
+
 
 Bertrand, hé Bertrand.
 
@@ -448,8 +449,8 @@ Jamais le petit fripon n'a embrassé si fort.
 
 Quelqu'un veut-il faire essai de la Coupe ? Qu'il se dépêche ; mais franchement, je ne conseille à personne d'y boire ; et l'exemple du Paysan est, sur ma foi, le meilleur à suivre.
 
-
 **** *creator_champmesle *book_champmesle_coupeenchantee *style_prose *genre_comedy *dist1_champmesle_prose_comedy_coupeenchantee *dist2_champmesle_prose_comedy *id_BERTRAND *date_1693 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bertrand
+
 
 Non mordienne vous, dis-je, je ne me laisserai pas enjôler davantage.
 
@@ -529,8 +530,8 @@ Hé bien morgué, quoi que ce puisse être, allons les charcher nous deux, m'est
 
 Ce n'est pas par-là, vous dis-je ?
 
-
 **** *creator_champmesle *book_champmesle_coupeenchantee *style_prose *genre_comedy *dist1_champmesle_prose_comedy_coupeenchantee *dist2_champmesle_prose_comedy *id_LUCINDE *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucinde
+
 
 Hé, mon pauvre garçon.
 
@@ -610,8 +611,8 @@ Attends, Perrette, que vas-tu faire ?
 
 La voilà, mon Père, qui se lette à vos genoux, pour vous demander pardon.
 
-
 **** *creator_champmesle *book_champmesle_coupeenchantee *style_prose *genre_comedy *dist1_champmesle_prose_comedy_coupeenchantee *dist2_champmesle_prose_comedy *id_PERRETTE *date_1693 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_perrette
+
 
 Auras-tu bien le coeur si dur que...
 
@@ -702,4 +703,3 @@ Voilà un vrai homme à femme. Ah, que je te baiserai tantôt.
 Elle n'eut rien dit. Mais tu as bien fait, je t'en aime davantage.
 
 Oui, tout cela est bel et bon. Mais cette chienne de Coupe, que devient-elle ? Qu'il n'en soit plus parlé ; car quoique je ne craignons rien, je ne dormirions point en repos, voyez-vous.
-

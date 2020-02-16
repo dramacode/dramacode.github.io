@@ -2,6 +2,7 @@
 
 **** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_JUPITER *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
 
+
 Vous, qui voulez qu'à la fureur de l'onde
 Jupiter mette un frein, et repeuple ces lieux,
 Vous vous lassez trop tôt d'être seul dans le monde ;
@@ -31,8 +32,8 @@ L'art de savoir commander.
 Mars lui promet en apanage
 La grandeur d'âme et de courage.
 
-
 **** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_VENUS *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
+
 
 Charmante oisiveté, repos délicieux !
 
@@ -92,8 +93,8 @@ Ne laissez rien qui ne soupire.
 Allez de toutes parts, courez, Amours et Jeux ;
 Rendez l'Univers amoureux
 
-
 **** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_MINERVE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_minerve
+
 
 Ou plutôt, repos ennuyeux !
 
@@ -115,8 +116,8 @@ C'est le plus beau des diadèmes.
 
 Moi, la vertu.
 
-
 **** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_MOMUS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_momus
+
 
 Ne vous faites point tant d'affaires.
 
@@ -221,8 +222,8 @@ Tiennent aux tables le haut bout ;
 Tu sais boire, et je sais médire :
 Voilà de quoi passer partout.
 
-
 **** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_PROMETHEE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_promethee
+
 
 Que me veut Jupiter ?
 
@@ -239,8 +240,8 @@ Colère, désespoir, crainte, ou joie excessive.
 Machine, on veut voir vos ressorts ;
 Quittez tous ces trompeurs dehors.
 
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_CHOEUR *date_(non *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_choeur
 
-**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_CHOEUR *date_(non *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_choeur
 
 Que vaut la peine de vivre,
 Sans le doux plaisir d'aimer ?
@@ -253,8 +254,8 @@ Daphné doit aujourd'hui couronner Apollon.
 Comment faire
 Pour se taire ?
 
-
 **** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_APOLLON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
+
 
 Voici Tempé, cette vallée
 Dont on vante partout l'ombrage et les beautés ;
@@ -361,8 +362,8 @@ Bel arbre, adieu. je quitte à regret cette place,
 Et veux qu'à l'avenir on ceigne de lauriers
 Le front de mes sujets et celui des guerriers.
 
-
 **** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_PENEE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_penee
+
 
 Dieux tributaires de mon onde,
 Je veux, par les beautés de ce moite séjour,
@@ -422,8 +423,8 @@ L'hymen change les coeurs : suivez mes volontés.
 Moi, je perdrais Daphné ! qu'ai-je à conserver qu'elle ?
 L'hymen m'a-t-il fait d'autres dons ?
 
-
 **** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_DAPHNE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_daphne
+
 
 Amour, n'approche point de nos ombrages doux,
 De nos prés, de nos fontaines ;
@@ -613,8 +614,8 @@ Sans vous laisser toucher le coeur ?
 
 Ô dieux ! Consentez-vous à cette violence ?
 
-
 **** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_LEUCIPPE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leucippe
+
 
 Puis-je interrompre le silence
 Qu'en ces paisibles lieux peut-être vous cherchez ?
@@ -705,8 +706,8 @@ Je ne suis plus le misérable.
 
 Mes amours sont mes dieux.
 
-
 **** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_THARSIS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tharsis
+
 
 Que je dois au Destin de m'avoir arrête
 En des lieux ou l'on voit briller votre présence !
@@ -750,8 +751,8 @@ Si je parlais au sort ?
 
 Je vais le consulter. Attends ici Tharsis.
 
-
 **** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_TELAMON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_telamon
+
 
 Ceci vous trouble et vous étonne.
 
@@ -796,8 +797,28 @@ Adieu, Nymphe cruelle.
 
       Changera-t-il son âme ?
 
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_APIDAME *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apidame
+
+
+Laissez agir le temps ; il peut tout auprès d'eux.
+A peine a-t-il encor fait passer la princesse
+Des appas de l'enfance à ceux de la jeunesse :
+Deux soleils ont à peine éclairé son printemps.
+
+Il faut peu pour changer ces âmes si sévères ;
+L'exemple à ce doux noeud les amène toujours.
+Des bergers chantant leurs amours,
+Dans les bras de l'hymen voir mener des bergères,
+Et leurs folâtres jeux sur les vertes fougères,
+Apprivoisent les coeurs, qui, deVÉNUS plus doux,
+S'accoutument aux mots d'amour, d'amant, d'époux ;
+Des mots on en vient au mystère.
+
+Tels étaient ces mortels pour qui l'idolâtrie
+Commença d'introduire au monde son pouvoir.
 
 **** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_AMPHRISE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amphrise
+
 
 Ces plaisirs passeront : tout passe dans la vie ;
 De différents désirs elle est entre-suivie ;
@@ -821,8 +842,15 @@ Que l'on cherche aux livres du Sort.
 Il a tout l'air d'un dieu ; l'on dirait à le voir,
 Que l'Olympe est sa patrie.
 
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_SPERCHEE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sperchee
+
+
+Consultez la Sibylle Ismèle :
+Les dieux peut-être par sa voix
+Obligeront Daphné de suivre votre choix
 
 **** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_MEROE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_meroe
+
 
 Moi, les plus vives en couleur.
 
@@ -841,8 +869,8 @@ Télamon corrompra cette troupe innocente.
 
 Me faudra-t-il aussi souffrir la raillerie ?
 
-
 **** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_CHLORIS *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_chloris
+
 
 Viens, ma soeur.
 
@@ -857,3 +885,93 @@ Ce que Flore a pour vous de dons plus précieux.
 
       J'ai cueilli les plus belles.
 
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_ISMELE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismele
+
+
+Monarque de l'Olympe, en qui sont tous les temps,
+Qui les fais devant toi passer comme moments,
+Et pour qui n'est qu'un point toute la destinée,
+Dis-nous, Ô maître des dieux,
+À qui doit être donnée
+La princesse de ces lieux.
+Où sont tes truchements ? Es-tu sourd aux prières ?
+Fantômes, qui savez peindre en mille manières
+Les secrets du destin gravés au haut des cieux,
+Simulacres volants, frères du dieu des songes,
+Faites-nous voir sans mensonges
+Ce qu'ont ordonné les dieux
+Sur un si digne hyménée ;
+Dites-nous la destinée
+De la Nymphe de ces lieux.
+Que vois-je ! Quel objet ! Quelle image à mes yeux
+Si vive et si claire9 
+Vient se présenter,
+Et me tourmenter
+Plus qu'à l'ordinaire ?
+L'objet
+Me fait
+Tressaillir :
+Je sens
+Mes sens
+Défaillir.
+
+Qu'on se taise : soyez attentifs aux mystères.
+J'épands en l'air ces caractères :
+C'est ma réponse ; il faut la poser sur l'autel.
+Démons, peuples légers, ministres de l'oracle,
+Cherchez-la ; car aucun mortel
+Ne la peut trouver sans miracle.
+Approchez-vous, lisez, et que dans ce vallon
+Un invisible choeur mon oracle répète.
+
+Adieu, princesse, adieu, je vous laisse en ces lieux.
+
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_DIANE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_diane
+
+
+Démons, gardez de lui toucher !
+Deviens laurier, Daphné ; Leucippe, sois rocher.
+
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_MERCURE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mercure
+
+
+Chacun de vous doit être couronné :
+Recevez ces présents de la part de Daphné.
+Elle est maintenant déesse,
+Aimant le dieu de ces lieux :
+Poussez-en jusques aux cieux
+Des chants remplis d'allégresse.
+
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_MELPOMENE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
+
+
+Ce n'est pas l'ouvrage d'un jour :
+Sublime, allez dormir encor sur le Parnasse,
+Et vous, clairons, faites place
+Aux doux concerts de l'Amour.
+
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_THALIE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thalie
+
+
+Ridicules, envoyez-nous
+Les principaux d'entre vous.
+
+Soyez les premiers à rire.
+
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_PHILIS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philis
+
+
+Les Zéphyrs sont de retour :
+Flore avec eux se promène.
+
+De quoi parle en ce séjour
+La savante Philomèle ?
+
+**** *creator_lafontaine *book_lafontaine_daphne *style_verse *genre_opera *dist1_lafontaine_verse_opera_daphne *dist2_lafontaine_verse_opera *id_DAPHNIS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_daphnis
+
+
+Savez-vous qui les ramène ?
+C'est l'Amour.
+
+Et de quoi parlerait-elle,
+Que d'amour ?

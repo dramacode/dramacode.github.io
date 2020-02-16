@@ -2,6 +2,7 @@
 
 **** *creator_pellegrin *book_pellegrin_tibere *style_verse *genre_tragedy *dist1_pellegrin_verse_tragedy_tibere *dist2_pellegrin_verse_tragedy *id_AGRIPPA *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_agrippa
 
+
 Quoi ! Je ne puis encore assurer de mon zèle
 Un père, dont la voix en ces lieux me rappelle ?
 
@@ -293,8 +294,8 @@ Auguste après Sylla voulut quitter l'Empire,
 Tous deux par des motifs peut-être différents,
 Puis-je me proposer des exemples plus grands ?
 
-
 **** *creator_pellegrin *book_pellegrin_tibere *style_verse *genre_tragedy *dist1_pellegrin_verse_tragedy_tibere *dist2_pellegrin_verse_tragedy *id_LIVIE *date_1726 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_livie
+
 
 Je m'en flatte, du moins, et connais trop mon fils,
 Pour douter des respects, que je m'en suis promis.
@@ -653,8 +654,8 @@ Faut-il me voir réduite à craindre mon ouvrage.
 Grands Dieux ! Je reconnais votre courroux vengeur.
 Et je perds en un jour, l'Empire et l'Empereur.
 
-
 **** *creator_pellegrin *book_pellegrin_tibere *style_verse *genre_tragedy *dist1_pellegrin_verse_tragedy_tibere *dist2_pellegrin_verse_tragedy *id_TIBERE *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tibere
+
 
       Madame, c'est lui-même.
 Oui, Tibère obéit à votre ordre suprême.
@@ -1034,8 +1035,8 @@ Vous tremblez ! Tout entier, je vais montrer Tibère.
 Vous, sans vous informer sur qui tombent mes coups,
 Jouissez du repos, que j'ai quitté pour vous.
 
-
 **** *creator_pellegrin *book_pellegrin_tibere *style_verse *genre_tragedy *dist1_pellegrin_verse_tragedy_tibere *dist2_pellegrin_verse_tragedy *id_POMPEE *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pompee
+
 
 Vous venez donc, Seigneur, après dix ans d'absence,
 Rendre au Peuple Romain son espoir le plus doux :
@@ -1268,8 +1269,8 @@ Qui punit Martian, ne doit pas t'épargner.
 Non, ma fille, à son sort ne crains pas qu'il échappe.
 Les Dieux nous vengeront, sans que ta main le frappe.
 
-
 **** *creator_pellegrin *book_pellegrin_tibere *style_verse *genre_tragedy *dist1_pellegrin_verse_tragedy_tibere *dist2_pellegrin_verse_tragedy *id_EMILIE *date_1726 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_emilie
+
 
 Ciel ! Tibère ! Sortons.
 
@@ -1565,8 +1566,8 @@ Jusqu'au sein d'un époux m'ouvrirait un passage :
 Mais, au sang des Nérons ce crime est réservé ;
 Et, grâce à ma vertu, mon tyran est sauvé.
 
-
 **** *creator_pellegrin *book_pellegrin_tibere *style_verse *genre_tragedy *dist1_pellegrin_verse_tragedy_tibere *dist2_pellegrin_verse_tragedy *id_MAXIME *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maxime
+
 
 Ce zèle est dangereux, m'en croirez-vous, Seigneur ?
 Pour quelque temps encor modérez-en l'ardeur.
@@ -1647,8 +1648,8 @@ Par sa main !
 
 Auguste en ce moment est tout prêt d'expirer.
 
-
 **** *creator_pellegrin *book_pellegrin_tibere *style_verse *genre_tragedy *dist1_pellegrin_verse_tragedy_tibere *dist2_pellegrin_verse_tragedy *id_FAUSTINE *date_1726 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_faustine
+
 
 Je ne reconnais plus le grand coeur de Livie.
 Madame, l'Empereur, prêt de quitter la vie,
@@ -1675,8 +1676,8 @@ Un Malheureux proscrit vous alarme ?
 
 Immoler Agrippa ! Qui peut l'oser ?
 
-
 **** *creator_pellegrin *book_pellegrin_tibere *style_verse *genre_tragedy *dist1_pellegrin_verse_tragedy_tibere *dist2_pellegrin_verse_tragedy *id_MARTIAN *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_martian
+
 
 Que croirai-je, Seigneur, de tout cet entretien ?
 Jamais étonnement ne fut égal au mien.
@@ -1701,8 +1702,8 @@ Mais sans votre secours il serait déjà mort.
 Tout cède dans mon coeur au zèle qui m'anime.
 Seigneur, mon bras est prêt, livrez-moi la victime.
 
-
 **** *creator_pellegrin *book_pellegrin_tibere *style_verse *genre_tragedy *dist1_pellegrin_verse_tragedy_tibere *dist2_pellegrin_verse_tragedy *id_ALBINE *date_1726 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_albine
+
 
 Calmez votre frayeur. Non, Tibère, et Livie
 N'oseraient disposer d'une si belle vie.
@@ -1732,4 +1733,3 @@ J'en ai frémi.
 J'ai cru voir Agrippa dans les bras de la mort.
 Je n'ai pu soutenir ce spectacle funeste.
 Assez d'autres sans moi, vous apprendront le reste.
-

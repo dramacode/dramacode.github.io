@@ -2,6 +2,7 @@
 
 **** *creator_andrieux *book_andrieux_anaximandre *style_verse *genre_comedy *dist1_andrieux_verse_comedy_anaximandre *dist2_andrieux_verse_comedy *id_PHROSINE *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phrosine
 
+
 Ah, si je ris, ce n'est pas sans sujet :
 Je te mettrai bientôt dans le secret.
 
@@ -291,8 +292,8 @@ Et des vertus ne rendent point aimable :
 L'esprit et les talents sont bien ;
 Mais sans les Grâces, ce n'est rien.
 
-
 **** *creator_andrieux *book_andrieux_anaximandre *style_verse *genre_comedy *dist1_andrieux_verse_comedy_anaximandre *dist2_andrieux_verse_comedy *id_ASPASIE *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_aspasie
+
 
       Je venais pour vous dire...
 
@@ -507,8 +508,19 @@ Qui voulez-vous que mon coeur vous préfère ?
 Formé par vous, ce coeur est votre bien :
 Je vous le dois, et ne vous donne rien.
 
+**** *creator_andrieux *book_andrieux_anaximandre *style_verse *genre_comedy *dist1_andrieux_verse_comedy_anaximandre *dist2_andrieux_verse_comedy *id_MELIDORE *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_melidore
+
+
+      Ah ! c'est vous-même !
+Je vous cherchais ; eh, bien ! quand daignez-vous
+Remplir mes voeux, mes désirs les plus doux ?
+Votre bonté dès longtemps me destine
+Le coeur, la main de l'aimable Phrosine :
+Mettez enfin le comble à vos bienfaits,
+Et que ce jour ...
 
 **** *creator_andrieux *book_andrieux_anaximandre *style_verse *genre_comedy *dist1_andrieux_verse_comedy_anaximandre *dist2_andrieux_verse_comedy *id_ANAXIMANDRE *date_1782 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anaximandre
+
 
 Cette enfant là me tourne la cervelle ;
 Je ne vois plus, je ne rêve plus qu'elle.
@@ -826,3 +838,29 @@ Vous me voyez au comble de mes voeux .
 Mais il me reste à vous unir tous deux ;
 Votre bonheur au mien est nécessaire.
 
+**** *creator_andrieux *book_andrieux_anaximandre *style_verse *genre_comedy *dist1_andrieux_verse_comedy_anaximandre *dist2_andrieux_verse_comedy *id_PRETRESSE *date_1782 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pretresse
+
+
+Qui vous amène aux pieds de nos Déesses ?
+Quels sont vos voeux ? Parlez.
+
+Eh quoi !.... c'est vous, austère Anaximandre ?
+Vous amoureux !.... Je vous trouve un air tendre
+Un feu plus doux dans vos yeux, est entré,
+Ainsi l'amour change tout à son gré.
+Les Grâces vont achever le prodige.
+De leurs attraits l'invincible prestige
+Toujours senti, toujours mal imité,
+Fil plus touchant, plus beau que la beauté.
+À leur pouvoir on ne peut se soustraire ;
+Suivez-moi donc, venez apprendre à plaire :
+De nos leçons, initié discret,
+Profitez bien ; mais gardez le secret.
+Ne craignez point des épreuves pénibles,
+Vous connaîtrez des mystères paisibles,
+Doux, enchanteurs, réglés par les plaisirs,
+Et le succès passera vos désirs.
+
+Venez, entrons ; votre ami peut vous suivre.
+Vous, demeurez : il suffit d'un témoin,
+Et de nos dons vous n'avez pas besoin.

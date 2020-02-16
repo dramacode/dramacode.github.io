@@ -2,6 +2,7 @@
 
 **** *creator_poinsinet *book_poinsinet_cercle *style_prose *genre_comedy *dist1_poinsinet_prose_comedy_cercle *dist2_poinsinet_prose_comedy *id_ARAMINTE *date_1764 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_araminte
 
+
 En vérité, Lisette, vous êtes une fille bien étrange.
 Bonjour, Monsieur. Que faites-vous ici, Lucile ? Il me semble, quand j'ai du monde chez moi, qu'une fille aussi grande que vous, doit être bonne au moins à faire les honneurs de ma maison.
 
@@ -179,8 +180,8 @@ Vous arrivez très à propos, Monsieur ; j'avais à vous dire qu'il ne tient plu
 
 De grâce, mon cher Baron, ne m'obligez point à rougir à vos yeux de ma ridicule prévention en sa faveur. Il m'a rendu service en m'apprenant ce que je devais penser de tous les gens de son espèce. Soyez heureux, Lisidor. Vous, mes bonnes amies, obligez-moi de ne me parler jamais de cette aventure. Vous, Baron, après le souper, je vous demande un moment de conversation. Vous verrez que mes vues peuvent sympathiser avec les vôtres, et que tout aveuglé que vous croyez mon coeur par le tourbillon du monde, il peut encore être éclairé par les conseils d'un homme estimable.
 
-
 **** *creator_poinsinet *book_poinsinet_cercle *style_prose *genre_comedy *dist1_poinsinet_prose_comedy_cercle *dist2_poinsinet_prose_comedy *id_CIDALISE *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cidalise
+
 
 Lisette nous l'a racontée.
 
@@ -230,8 +231,8 @@ En effet, on appelle cela savoir prendre son parti.
 
 Nous t'expliquerons cela plus en détail : mais dans ce moment-ci, ce que tu as de mieux à faire est de pourvoir ta fille, et de ne plus penser au plus étourdi et au plus inconséquent de tous les hommes.
 
-
 **** *creator_poinsinet *book_poinsinet_cercle *style_prose *genre_comedy *dist1_poinsinet_prose_comedy_cercle *dist2_poinsinet_prose_comedy *id_ISMENE *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ismene
+
 
 Cela est incroyable ; cette petite Céliante a la fureur de se montrer partout.
 
@@ -312,8 +313,8 @@ Aussi ne songeons nous qu'à te féliciter.
 
 Tu ne croirais pas ? Il est allé reprendre les fers de sa belle Comtesse, qui vient d'hériter.
 
-
 **** *creator_poinsinet *book_poinsinet_cercle *style_prose *genre_comedy *dist1_poinsinet_prose_comedy_cercle *dist2_poinsinet_prose_comedy *id_LUCILE *date_1764 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucile
+
 
 Ah ! Vous voilà, Monsieur ?
 
@@ -341,8 +342,8 @@ Oh ! Monsieur, je me porte très bien.
 
 Mais j'en suis bien sûre, moi.
 
-
 **** *creator_poinsinet *book_poinsinet_cercle *style_prose *genre_comedy *dist1_poinsinet_prose_comedy_cercle *dist2_poinsinet_prose_comedy *id_LISETTE *date_1764 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
 Ah ! C'est vous, Monsieur, quoique nous vous désirions sans cesse, nous ne vous attendions pas si tôt.
 
@@ -384,8 +385,8 @@ Voilà tout préparé.
 
 Ah ! Madame, votre serin vient de s'échapper.
 
-
 **** *creator_poinsinet *book_poinsinet_cercle *style_prose *genre_comedy *dist1_poinsinet_prose_comedy_cercle *dist2_poinsinet_prose_comedy *id_LISIDOR *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisidor
+
 
 Mon empressement t'étonnera moins quand le motif t'en sera connu. Je viens de recevoir quelques nouvelles qui m'affligent, et je voulais avoir à l'issue de son dîner, une conversation avec l'aimable Lucile.
 Le repas me paraît aujourd'hui plus long qu'a l'ordinaire.
@@ -511,8 +512,8 @@ J'en ai bien assez vu. Quittons ce cercle d'étourdis, et ne songeons qu'à mén
 
 Qu'entends je ? Quel bonheur !
 
-
 **** *creator_poinsinet *book_poinsinet_cercle *style_prose *genre_comedy *dist1_poinsinet_prose_comedy_cercle *dist2_poinsinet_prose_comedy *id_LEMARQUIS *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+
 
 Oui, oui ; j'arrangerai tout cela. Je verrai, j'irai, je parlerai.
 
@@ -581,8 +582,8 @@ Vous plaisantez : oh ! Je ne me suis brouillé qu'après avoir pris là-dessus l
 
 La Comtesse me sacrifie à l'instant qu'elle hérite ! Oh ! Parbleu je lui apprendrai à mieux choisir ses moments. Allons ; allons, j'y vais mettre ordre, et vous prouver que je sais soutenir mes droits. Comme vous dites, la Comtesse est jolie femme ; elle mérite toutes sortes d'égards. Allons, il est de bonne heure, mon équipage m'attend, je vole chez elle. Tâchez d'arranger tout cela avec Araminte : Elle est minutieuse, elle boudera. Ces Bourgeoises se formalisent de la plus petite chose : voyez, calmez-là. Lisidor est un galant homme ; je ne serai même pas fâché qu'il m'ait quelque obligation. Pardon, mille fois pardon, si je vous quitte. J'en suis honteux, désespéré. Mais vous n'ignorez pas que je suis le premier à plaindre, puisque je vous laisse en partant et tous mes regrets et mon coeur.
 
-
 **** *creator_poinsinet *book_poinsinet_cercle *style_prose *genre_comedy *dist1_poinsinet_prose_comedy_cercle *dist2_poinsinet_prose_comedy *id_LEBARON *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebaron
+
 
 Bonjour, ma belle Dame. Pardon, si j'entre sans façon, sans me faire annoncer, mais ce n'est pas ma faute. Vos gens sont si occupés à jouer dans votre antichambre, que malgré le bruit que j'ai fait, il n'ont pas daigné m'apercevoir.
 
@@ -629,21 +630,8 @@ Et votre Marquis... ?
 
 Je n'en doutai jamais, ma chère Araminte ; je crois vous deviner, et j'en suis enchanté ! Oui, j'ai aussi mes idées. Assurons le bonheur de votre fille. Songeons au nôtre, et terminons par un arrangement solide et raisonnable, tous ces petits événements, qui sont le vrai tableau d'une soirée à la mode.
 
-Serait-il vrai jeune bergère,
-Que mes soins n'ont pu vous charmer ?
-Que d'efforts il faut pour vous plaire !
-Il n'en faut pas pour vous aimer.
-Quand j'osai découvrir ma flamme,
-J'attendais un sort plus heureux.
-Tout le feu qui brûle mon âme
-Ne peut-il qu'animer vos yeux ?
-Amour dans ses bras tu reposes ;
-De son teint tu peins la blancheur.
-Je t'ai vu sur son sein de roses ;
-Je te cherche encor dans son coeur.
-
-
 **** *creator_poinsinet *book_poinsinet_cercle *style_prose *genre_comedy *dist1_poinsinet_prose_comedy_cercle *dist2_poinsinet_prose_comedy *id_DAMON *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damon
+
 
 Elles vont se rendre ici ; et si cela peut vous plaire, Madame, je n'attendrai plus que vos ordres et leur présence pour commecer la lecture de ma tragédie. Vous m'avez paru la désirer.
 
@@ -689,4 +677,3 @@ Quoi ! Mesdames, est ce bien sérieusement ?
 
 Non, je ne sais où j'en suis. Pauvres talents, comme on vous humilie ! Oh ! Qu'il est cruel d'avoir besoin de certaines gens ! N'importe...
 Adieu, Mesdames, c'est moi qui craindrais de vous distraire de vos grandes occupations... J'en aurais du regret... Et... Je suis votre serviteur.
-

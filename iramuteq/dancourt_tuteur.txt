@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_tuteur *style_prose *genre_comedy *dist1_dancourt_prose_comedy_tuteur *dist2_dancourt_prose_comedy *id_MONSIEURBERNARD *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurbernard
 
+
 Oh, c'est vous que je cherche, Angélique : j'allais monter à votre appartement, et je suis bien aise de vous rencontrer ici.
 
 Oui, depuis le souper on m'a appris des choses qui ont achevé de me faire prendre des résolutions dont vous serez bien aise, et j'ai de bonnes nouvelles à vous dire.
@@ -178,8 +179,8 @@ Hom, je crève.
 
 Ah ! Mon pauvre Lucas, je perds Angélique, que deviendrai-je ?
 
-
 **** *creator_dancourt *book_dancourt_tuteur *style_prose *genre_comedy *dist1_dancourt_prose_comedy_tuteur *dist2_dancourt_prose_comedy *id_LECHEVALIER *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lechevalier
+
 
 Monsieur Bernard !
 
@@ -201,8 +202,8 @@ J'ai là mon carrosse, allons ; venez.
 
 Doucement, s'il vous plaît, Monsieur Bernard, votre folie me paraît dangereuse, vous demeurerez tout seul : mais je vous ferai garder à vue, en attendant qu'on vous enferme, ou que votre bon sens vous revienne.
 
-
 **** *creator_dancourt *book_dancourt_tuteur *style_prose *genre_comedy *dist1_dancourt_prose_comedy_tuteur *dist2_dancourt_prose_comedy *id_DORANTE *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dorante
+
 
 Trouverai-je l'occasion de me déclarer ? Et quand je l'aurai trouvée, aurai-je assez de bonheur pour persuader Angélique ?
 
@@ -300,8 +301,8 @@ Le Chevalier me tient parole, tout va bien, l'Olive.
 
 Vous êtes persuadé de mon zèle et de ma fidélité, je vais suivre votre maîtresse ; et je vous promets de l'entretenir toute ma vie dans les bons sentiments qu'elle pour vous.
 
-
 **** *creator_dancourt *book_dancourt_tuteur *style_prose *genre_comedy *dist1_dancourt_prose_comedy_tuteur *dist2_dancourt_prose_comedy *id_LOLIVE *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lolive
+
 
 Avez-vous quelque ordre à me donner, Monsieur ? Me voilà prêt à vous obéir.
 
@@ -469,8 +470,8 @@ Nous divertirons ces Dames dans le voyage, Monsieur.
 
 Je laisse votre jardin en bon état. Souvenez-vous quelquefois de moi, je vous prie ; ne donnez jamais de coups de bâton à vos Jardiniers, ces marauds-là savent les rendre.
 
-
 **** *creator_dancourt *book_dancourt_tuteur *style_prose *genre_comedy *dist1_dancourt_prose_comedy_tuteur *dist2_dancourt_prose_comedy *id_ANGELIQUE *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+
 
 As-tu quelque chose à m'apprendre qui puisse me faire plaisir ?
 
@@ -648,8 +649,8 @@ Pour le Peintres et le Jardinier, ce sont des espèces de fous assez agréables.
 
 Adieu, Monsieur, je suis bien fâchée de votre accident, nous nous reverrons quand vous serez plus sage.
 
-
 **** *creator_dancourt *book_dancourt_tuteur *style_prose *genre_comedy *dist1_dancourt_prose_comedy_tuteur *dist2_dancourt_prose_comedy *id_LISETTE *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
 Que fais-tu là, Lucas ?
 
@@ -891,8 +892,8 @@ C'est le Fermier de Monsieur Bernard, qui a la même folie que son maître, ils 
 
 Jusqu'au revoir, Monsieur, quand sa folie le prendra recommandez qu'on ne le batte point, il vient d'en avoir assez, je vous assure.
 
-
 **** *creator_dancourt *book_dancourt_tuteur *style_prose *genre_comedy *dist1_dancourt_prose_comedy_tuteur *dist2_dancourt_prose_comedy *id_LUCAS *date_1695 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucas
+
 
 Tatigué que c'est grand dommage que je ne connaisse A ni B. Gros et grand comme je sis, c'est une honte que je ne sache pas encore lire. Ah ! Que j'aurais de plaisir à défricher ce qu'il y a dans ce papier que je viens de trouver ! Il faut que ce soit queuque chose de biau ; car il était bien emmailloté : cachets par ici, cachets par y-là… Si c'était queuque bon contrat, queuque bonne lettre de change, que fait-on ? La forteune viant parfois en dormant ; alle m'en veut peut-être ? Pourquoi non ? Je ne serais pas le premier manant qu'alle aurait fait grand Seigneur, ça se voit à chaque bout de champ, ça arrive tous les jours, et fi personne ne crie miracle. Si on me voyait dans un biau carrosse, qu'est-ce qui croirait que j'ai été paysan ? Je ne m'en souviendrais peut-être pas moi-même.
 
@@ -1042,3 +1043,7 @@ Morgué, ça n'est pas vrai, je ne veux pas être femme, c'est une trop méchant
 
 Bon, palsangué, que voulez-vous faire ? Ils ont biau dire, je sommes pas fous, je sommes les sots, et si j'avions épousé ces deux carognes-là, je l'aurions été bian davantage.
 
+**** *creator_dancourt *book_dancourt_tuteur *style_prose *genre_comedy *dist1_dancourt_prose_comedy_tuteur *dist2_dancourt_prose_comedy *id_MATURINE *date_1695 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_maturine
+
+
+Hé ! Quel vacarme est-ce là ? À qui en avez-vous donc ? Quel bruit vous faites !

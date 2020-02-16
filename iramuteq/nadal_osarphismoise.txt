@@ -2,6 +2,7 @@
 
 **** *creator_nadal *book_nadal_osarphismoise *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_osarphismoise *dist2_nadal_verse_tragedy *id_AMENOPHIS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amenophis
 
+
 Je te cherchais, Phanés. Oui, c'est dans ce grand jour
 Que tu dois me montrer ton zèle et ton amour.
 Tu sais que Pharaon m'a donné la naissance,
@@ -189,8 +190,8 @@ Pour notre hymen, Madame
 Allez, si toutefois tremblants de leur côté
 Les Dieux qui l'habitaient ne l'ont point déserté.
 
-
 **** *creator_nadal *book_nadal_osarphismoise *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_osarphismoise *dist2_nadal_verse_tragedy *id_JOCABEL *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jocabel
+
 
 D'un Dieu qui nous éprouve et ne fait rien en vain,
 Dites plutôt, Seigneur, qu'il respecte la main.
@@ -554,8 +555,8 @@ Esclaves dans l'Égypte, et toutefois nos frères.
       Toi ! Pardonne à mes larmes.
 Ô Ciel !
 
-
 **** *creator_nadal *book_nadal_osarphismoise *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_osarphismoise *dist2_nadal_verse_tragedy *id_THARBIS *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_tharbis
+
 
 C'est ici le Palais où je fus amenée,
 Où dans le doux espoir d'un auguste Hyménée,
@@ -790,8 +791,8 @@ En tire moins d'éclat que toi de ta vertu.
 
       Grands Dieux !
 
-
 **** *creator_nadal *book_nadal_osarphismoise *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_osarphismoise *dist2_nadal_verse_tragedy *id_AARON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aaron
+
 
 Ses drapeaux ont paru, Madame ; le Grand-Prêtre
 Se dispose à venir recevoir ses serments,
@@ -935,8 +936,8 @@ Seigneur, car dans l'état où je vous considère,
 Il ne m'est plus permis de vous nommer mon frère,
 Entre le Ciel et nous, arbitre glorieux...
 
-
 **** *creator_nadal *book_nadal_osarphismoise *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_osarphismoise *dist2_nadal_verse_tragedy *id_PHANES *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phanes
+
 
 Je sais que par son père en ces lieux amenée
 Au lit d'Aménophis, Tharbis fut destinée.
@@ -1136,8 +1137,51 @@ Et...
 Qu'attendez-vous, Seigneur ? Venez dans ces moments
 De l'Armée en vos mains recevoir les serments.
 
+**** *creator_nadal *book_nadal_osarphismoise *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_osarphismoise *dist2_nadal_verse_tragedy *id_ISERIDE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iseride
+
+
+      Je sais qu'il vous doit sa naissance ;
+Que des flots en courroux Moïse préservé
+Sous le nom d'Osarphis alors fut élevé
+Et que de Pharaon la vertueuse fille
+Comme un enfant divin l'admit dans sa famille.
+Tout le favorisait, veuve de Thermestris,
+Au berceau même alors elle perdit un fils ;
+Et dans l'espoir secret d'adoucir sa disgrâce
+Osa substituer Osarphis à sa place.
+Plus éblouie encor de ses derniers exploits
+Memphis croit voir en lui le pur sang de ses Rois.
+Aron est de retour, vous l'avez vu, Madame,
+C'est à ce fils si cher qu'il faut ouvrir votre âme.
+Il peut seul en ces lieux dissiper votre effroi ;
+Mais surtout montrez-lui son frère dans son Roi.
+
+Ah ! S'il faut avec vous bannir toutes contraintes
+Quel temps choisissez-vous, Madame, pour vos plaintes ?
+Qu'est-ce qu'en vous déjà la foi n'a point osé ?
+Sur le Nil par vous-même un fils fut exposé...
+
+      Asaph demande à vous parler.
+Du Conseil assemblé l'ordre, dit-il, le presse.
+
+**** *creator_nadal *book_nadal_osarphismoise *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_osarphismoise *dist2_nadal_verse_tragedy *id_ISMENE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismene
+
+
+Dans ce même Palais, ainsi donc la fortune
+Jette encore à vos pieds une foule importune ?
+Le Ciel vous y destine aux honneurs souverains ;
+Il vous unit au sort du plus grand des humains,
+Par vous cent Rois vaincus sortent de l'esclavage,
+D'une éternelle Paix vous devenez le gage,
+Lorsque de Thermutis en épousant le Fils...
+
+À l'hymen d'Osarphis par le sort réservée,
+Songez que sur ses pas dans Memphis arrivée,
+Le Héros doit bientôt vous conduire à l'Autel.
+Qu'attendez-vous ? Du moins passez chez Jocabel.
 
 **** *creator_nadal *book_nadal_osarphismoise *style_verse *genre_tragedy *dist1_nadal_verse_tragedy_osarphismoise *dist2_nadal_verse_tragedy *id_ASAPH *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_asaph
+
 
       Seigneur, le Grand-Prêtre s'avance,
 Devant lui d'Osiris marche l'auguste Loi.
@@ -1215,4 +1259,3 @@ Mais, que vois-je ?
 Le fer brille partout, et Memphis alarmée,
 Dans ses Places déjà voit les Chefs de l'Armée.
 Une nombreuse Garde occupe le Palais.
-

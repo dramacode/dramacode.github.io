@@ -2,6 +2,7 @@
 
 **** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *id_HERNANI *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hernani
 
+
       Doña Sol ! Ah ! c'est vous que je vois
 Enfin ! et cette voix qui parle est votre voix !
 Pourquoi le sort mit-il mes jours si loin des vôtres ?
@@ -868,8 +869,8 @@ Souffres-tu ?
 
       Voici...
 
-
 **** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *id_DONCARLOS *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_doncarlos
+
 
       Deux mots de plus, duègne, vous êtes morte !
 Suis-je chez doña Sol ? Fiancée au vieux duc
@@ -1639,8 +1640,8 @@ Tout pressé, tout pressant, tout à faire à la fois ;
 Je t'ai crié : « par où faut-il que je commence ? »
 Et tu m'as répondu : « mon fils, par la clémence ! »
 
-
 **** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *id_DONRUYGOMEZ *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donruygomez
+
 
 Des hommes chez ma nièce à cette heure de nuit !
 Venez tous ! Cela vaut la lumière et le bruit.
@@ -2195,8 +2196,8 @@ Ils sont encore heureux !
 
       Morte !... Oh ! Je suis damné.
 
-
 **** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *id_DONASOL *date_1830 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_donasol
+
 
 Josefa !
 
@@ -2709,8 +2710,21 @@ Il est las...
       Mon amour, tiens-toi vers moi tourné...
 Plus près... plus près encor...
 
+**** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *id_LEDUCDEBAVIERE *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leducdebaviere
+
+
+      Sire ! Roi des romains !
+Majesté très sacrée ! Empereur ! Dans vos mains
+Le monde est maintenant, car vous avez l'empire.
+Il est à vous, ce trône où tout monarque aspire !
+Frédéric, duc de Saxe, y fut d'abord élu ;
+Mais, vous jugeant plus digne, il n'en a pas voulu. Venez
+donc recevoir la couronne et le globe.
+Le saint empire, ô roi, vous revêt de la robe ;
+Il vous arme du glaive, et vous êtes très grand !
 
 **** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *id_LEDUCDEGOTHA *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leducdegotha
+
 
 Amis, Charles D'Espagne, étranger par sa mère,
 . . . . . . . . . . . . .
@@ -2730,8 +2744,23 @@ Vieillard !
 
       Sur quoi, mon frère ?
 
+**** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *id_LEDUCDELUTZELBOURG *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leducdelutzelbourg
+
+
+      Sa mère est espagnole.
+
+**** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *id_DONSANCHO *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donsancho
+
+
+Il la fera comtesse, et puis dame d'honneur ;
+Puis, qu'il en ait un fils, il sera roi.
+
+Il la fera marquise alors, mon cher marquis.
+
+C'est ce que nous disons souvent chez votre altesse.
 
 **** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *id_DONSANCHEZ *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donsanchez
+
 
       Seigneur, reparlons de traître.
 Et vous l'avez laissé partir !...
@@ -2793,8 +2822,8 @@ C'est singulier !
 Soyez Heureux, seigneur.
       Partons, il est minuit.
 
-
 **** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *id_DONMATIAS *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donmatias
+
 
 Et peut-être c'était le major des bandits !
 
@@ -2833,8 +2862,8 @@ Plus rien.
 
       Voici les mariés... silence !
 
-
 **** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *id_DONRICARDO *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donricardo
+
 
       Pourquoi pas à toutes deux, Seigneur ?
 
@@ -2953,8 +2982,8 @@ C'est don Francasio, général de la mer.
 
       Ton bonheur fait le nôtre, excellence !
 
-
 **** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *id_DONFRANCISCO *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donfrancisco
+
 
       Mais rien que de simple en cela.
 L'amour et la fortune, ailleurs comme en Espagne,
@@ -2979,8 +3008,19 @@ La vision est sombre autant qu'on le peut dire.
 
 Saint Jacques, monseigneur ! C'est Vénus qu'il conduit.
 
+**** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *id_DONJUANDEHARO *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjuandeharo
+
+
+Son père est allemand.
+
+**** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *id_DONGILTELLEZGIRON *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dongiltellezgiron
+
+
+      Dans la tombe,
+Amis, jetons la tête, et la couronne y tombe.
 
 **** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *id_PREMIERCONJURE *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_premierconjure
+
 
       Les saints
 Nous protègent !
@@ -3033,3 +3073,11 @@ S'il périt sans tuer, continuons ! Jurons
 De frapper tour à tour et sans nous y soustraire,
 Carlos qui doit mourir.
 
+**** *creator_hugo *book_hugo_hernani *style_verse *genre_drame *dist1_hugo_verse_drame_hernani *dist2_hugo_verse_drame *id_TROISIEMECONJURE *date_1830 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_troisiemeconjure
+
+
+      Les morts nous servent !
+
+      Qui vive ?
+
+Per angusta.

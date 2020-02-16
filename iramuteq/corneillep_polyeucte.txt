@@ -2,6 +2,7 @@
 
 **** *creator_corneillep *book_corneillep_polyeucte *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_polyeucte *dist2_corneillep_verse_tragedy *id_FELIX *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_felix
 
+
       Ma fille, que ton songe
 En d'étranges frayeurs ainsi que toi me plonge !
 Que j'en crains les effets, qui semblent s'approcher !
@@ -421,8 +422,8 @@ Allons à nos martyrs donner la sépulture,
 Baiser leurs corps sacrés, les mettre en digne lieu,
 Et faire retentir partout le nom de Dieu.
 
-
 **** *creator_corneillep *book_corneillep_polyeucte *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_polyeucte *dist2_corneillep_verse_tragedy *id_POLYEUCTE *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polyeucte
+
 
 Je sais ce qu'est un songe, et le peu de croyance
 Qu'un homme doit donner à son extravagance,
@@ -907,8 +908,8 @@ Chère Pauline, adieu : conservez ma mémoire.
 
 Ne suivez point mes pas, ou quittez vos erreurs.
 
-
 **** *creator_corneillep *book_corneillep_polyeucte *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_polyeucte *dist2_corneillep_verse_tragedy *id_SEVERE *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_severe
+
 
 Cependant que Félix donne ordre au sacrifice,
 Pourrai-je prendre un temps à mes voeux si propice ?
@@ -1187,8 +1188,8 @@ Je perdrai mon crédit envers sa majesté,
 Ou vous verrez finir cette sévérité :
 Par cette injuste haine il se fait trop d'outrage.
 
-
 **** *creator_corneillep *book_corneillep_polyeucte *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_polyeucte *dist2_corneillep_verse_tragedy *id_NEARQUE *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nearque
+
 
 Quoi ? Vous vous arrêtez aux songes d'une femme !
 De si faibles sujets troublent cette grande âme !
@@ -1317,8 +1318,8 @@ Comme vous me donnez celui de vous offrir !
 Allons faire éclater sa gloire aux yeux de tous,
 Et répondre avec zèle à ce qu'il veut de nous.
 
-
 **** *creator_corneillep *book_corneillep_polyeucte *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_polyeucte *dist2_corneillep_verse_tragedy *id_PAULINE *date_1643 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pauline
+
 
 Quel sujet si pressant à sortir vous convie ?
 Y va-t-il de l'honneur ? Y va-t-il de la vie ?
@@ -1974,8 +1975,8 @@ Puisqu'il t'assure en terre en m'élevant aux cieux.
 Qu'heureusement enfin je retrouve mon père !
 Cet heureux changement rend mon bonheur parfait.
 
-
 **** *creator_corneillep *book_corneillep_polyeucte *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_polyeucte *dist2_corneillep_verse_tragedy *id_STRATONICE *date_1643 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_stratonice
+
 
 Polyeucte pour vous ne manque point d'amour ;
 S'il ne vous traite ici d'entière confidence,
@@ -2130,8 +2131,8 @@ La fuite et les clameurs d'un peuple mutiné,
 Qui craint d'être accablé sous le courroux céleste.
 Félix… Mais le voici qui vous dira le reste.
 
-
 **** *creator_corneillep *book_corneillep_polyeucte *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_polyeucte *dist2_corneillep_verse_tragedy *id_ALBIN *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_albin
+
 
 Vous savez quelle fut cette grande journée,
 Que sa perte pour nous rendit si fortunée,
@@ -2243,8 +2244,8 @@ Par ses pleurs et ses cris saura vous émouvoir…
 
 Il n'en est pas besoin, seigneur, elle revient.
 
-
 **** *creator_corneillep *book_corneillep_polyeucte *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_polyeucte *dist2_corneillep_verse_tragedy *id_FABIAN *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fabian
+
 
 Vous la verrez, seigneur.
 
@@ -2302,8 +2303,8 @@ Quelle est et fut toujours la haine de Décie ?
 C'est un crime vers lui si grand, si capital,
 Qu'à votre faveur même il peut être fatal.
 
-
 **** *creator_corneillep *book_corneillep_polyeucte *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_polyeucte *dist2_corneillep_verse_tragedy *id_CLEON *date_1643 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleon
+
 
       Seigneur, Félix vous mande au temple :
 La victime est choisie, et le peuple à genoux,
@@ -2314,4 +2315,3 @@ Et pour sacrifier on n'attend plus que vous.
 Si vous me l'ordonnez, j'y cours en diligence.
 
 Je serai de retour, seigneur, dans un moment.
-

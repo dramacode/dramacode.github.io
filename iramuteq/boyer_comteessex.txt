@@ -2,6 +2,7 @@
 
 **** *creator_boyer *book_boyer_comteessex *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_comteessex *dist2_boyer_verse_tragedy *id_comte-essex *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_comteessex
 
+
 On dit que vous voulez vous assurer de moy,
 Madame, et que Coban craignoit ma resistance :
 Qu'il ne craigne plus rien, me voicy sans deffence,
@@ -447,8 +448,8 @@ Faut-il qu'on me condamne à mourir autrement ?
 Faites vostre devoir, qu'on me mene au suplice,
 Ciel, fais tomber sur moy toute son injustice.
 
-
 **** *creator_boyer *book_boyer_comteessex *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_comteessex *dist2_boyer_verse_tragedy *id_elizabet *date_1678 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_elizabet
+
 
       Monstre d'ingratitude,
 Ton crime est à mon cœur la peine la plus rude,
@@ -1040,8 +1041,8 @@ Hé bien ce souvenir sera seul mon suplice.             1580
 A tout ce que j'aimois j'ay fait perdre le jour,
 Ce que j'aimois n'est plus et j'ay tout mon amour.
 
-
 **** *creator_boyer *book_boyer_comteessex *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_comteessex *dist2_boyer_verse_tragedy *id_clarence *date_1678 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clarence
+
 
 Tout rit à vos souhaits et vostre ame déploye
 Sur ce front satisfait une maligne joye.
@@ -1373,8 +1374,8 @@ N'oseray-je mourir quand je ne puis plus vivre ?
 Ta voix me le deffend, j'obeis à tes loix,
 Je vivray pour pouvoir mourir plus d'une fois.
 
-
 **** *creator_boyer *book_boyer_comteessex *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_comteessex *dist2_boyer_verse_tragedy *id_coban *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_coban
+
 
 Ah cher amy, tout flatte⁎ et soûtient nos desseins.
 Le fier Comte d'Essex va tomber dans nos mains :
@@ -1654,8 +1655,8 @@ Que montre un criminel asseuré de sa grace.
 
 O Ciel !
 
-
 **** *creator_boyer *book_boyer_comteessex *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_comteessex *dist2_boyer_verse_tragedy *id_raleg *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_raleg
+
 
 Ne perdons point de temps : tout conspire à sa perte,
 Les soubçons apparens d'une ligue couverte⁎,
@@ -1702,8 +1703,8 @@ S'il osoit de la Reine irriter la fierté....
 
 Je sçay ce qu'il faut faire et j'en rendray bon compte.
 
-
 **** *creator_boyer *book_boyer_comteessex *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_comteessex *dist2_boyer_verse_tragedy *id_salisbery *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_salisbery
+
 
 Ouy la Reine permet qu'icy seul je vous voye.
 Mais combien de douleur se mesle à cette joye !
@@ -1852,8 +1853,8 @@ L'autre attire sur luy des regrets pitoyables,
 Et tous les cœurs remplis de haine et d'amitié,
 Répandent en tous lieux l'honneur et la pitié.
 
-
 **** *creator_boyer *book_boyer_comteessex *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_comteessex *dist2_boyer_verse_tragedy *id_popham *date_1678 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_popham
+
 
 Comte d'Essex voyez les bontez de la Reine :
 Quelques Juges suspects d'interest ou de haine
@@ -1897,8 +1898,26 @@ Au devoir de mon rang il faut que j'obeisse.
 
       Par quel emportement....
 
+**** *creator_boyer *book_boyer_comteessex *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_comteessex *dist2_boyer_verse_tragedy *id_leonor *date_1678 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_leonor
+
+
+Madame, où courez-vous ?
+
+Remettez-vous, Madame, et rentrez en vous-même.
+S'il faut associer à la grandeur supréme,
+Un sujet qui soit digne, et du Thrône et de vous.
+C'est le Comte....
+
+**** *creator_boyer *book_boyer_comteessex *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_comteessex *dist2_boyer_verse_tragedy *id_alix *date_1678 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_alix
+
+
+Le Comte est là.
+
+Et sa suite et son air sont d'un sujet fidelle.
+S'il a l'air grand et fier, il n'a rien d'un rebelle.
 
 **** *creator_boyer *book_boyer_comteessex *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_comteessex *dist2_boyer_verse_tragedy *id_valden *date_1678 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_valden
+
 
 Madame, il ne faut point en cette extremité
 Mettre en peril l'honneur de vostre authorité.
@@ -1919,4 +1938,3 @@ Le coup prévient nos cris et fait voler la teste.
 
 On va vous l'emmener, sa fuite seroit vaine.
 On le poursuit, bien-tost sa mort ou sa prison...
-

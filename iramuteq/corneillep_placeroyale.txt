@@ -3,6 +3,7 @@
 **** *creator_corneillep *book_corneillep_placeroyale *style_verse *genre_comedy *dist1_corneillep_verse_comedy_placeroyale *dist2_corneillep_verse_comedy *id_ALIDOR *date_1634 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_alidor
 
 
+
       Te rencontrer dans la place Royale,
 Solitaire, et si près de ta douce prison,
 Montre bien que Philis n'est pas à la maison.
@@ -578,8 +579,8 @@ Puisqu'elle dit au monde un éternel adieu,
 Comme je la donnais sans regret à Cléandre,
 Je verrai sans regret qu'elle se donne à Dieu.
 
-
 **** *creator_corneillep *book_corneillep_placeroyale *style_verse *genre_comedy *dist1_corneillep_verse_comedy_placeroyale *dist2_corneillep_verse_comedy *id_CLEANDRE *date_1634 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_cleandre
+
 
 
 
@@ -849,8 +850,8 @@ Que votre ravisseur vous cède à votre amant.
 
 N'achèverez-vous point ?
 
-
 **** *creator_corneillep *book_corneillep_placeroyale *style_verse *genre_comedy *dist1_corneillep_verse_comedy_placeroyale *dist2_corneillep_verse_comedy *id_DORASTE *date_1634 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_doraste
+
 
       Le voici.
 Ma soeur, ne cherche plus une chose trouvée :
@@ -991,8 +992,8 @@ Ne veut point d'autre tiers à les raccommoder.
 Je vous eus par dépit, lui seul il vous mérite :
 Ne lui refusez point ma part que je lui quitte.
 
-
 **** *creator_corneillep *book_corneillep_placeroyale *style_verse *genre_comedy *dist1_corneillep_verse_comedy_placeroyale *dist2_corneillep_verse_comedy *id_LYSIS *date_1634 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_lysis
+
 
 Comme vous le chassez !
 
@@ -1025,8 +1026,8 @@ Le bal, où le tient-on ?
       Il suffit ;
 De votre bon avis je ferai mon profit.
 
-
 **** *creator_corneillep *book_corneillep_placeroyale *style_verse *genre_comedy *dist1_corneillep_verse_comedy_placeroyale *dist2_corneillep_verse_comedy *id_ANGELIQUE *date_1634 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_angelique
+
 
 Ton frère, je l'avoue, a beaucoup de mérite,
 Tu reçois aujourd'hui ma dernière visite,
@@ -1467,8 +1468,8 @@ Et je ne vois plus rien, puisqu'il me l'a remise,
 Qui me retienne au monde, ou m'arrête en ce lieu :
 Cherche une autre à trahir ; et pour jamais, adieu.
 
-
 **** *creator_corneillep *book_corneillep_placeroyale *style_verse *genre_comedy *dist1_corneillep_verse_comedy_placeroyale *dist2_corneillep_verse_comedy *id_PHILIS *date_1634 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_philis
+
 
 Vraiment tu me prescris une fâcheuse loi,
 Je ne puis sans forcer celles de la nature,
@@ -1849,8 +1850,8 @@ De se voir en prison sans espoir d'en sortir.
 Adieu : par mon exemple apprends comme il faut vivre,
 Et prends pour Alidor un naturel plus doux.
 
-
 **** *creator_corneillep *book_corneillep_placeroyale *style_verse *genre_comedy *dist1_corneillep_verse_comedy_placeroyale *dist2_corneillep_verse_comedy *id_POLYMAS *date_1634 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_polymas
+
 
 Assez imprudemment il m'en fait le porteur.
 Comme il se rend par là digne qu'on le prévienne,
@@ -1873,3 +1874,22 @@ Mais…
 
       J'obéis.
 
+**** *creator_corneillep *book_corneillep_placeroyale *style_verse *genre_comedy *dist1_corneillep_verse_comedy_placeroyale *dist2_corneillep_verse_comedy *id_LYCANTE *date_1634 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lycante
+
+
+Faites mieux : puisqu'à peine elle pourrait prétendre
+Une fortune égale à celle de Cléandre,
+En faveur de ses biens calmez votre courroux,
+Et de son ravisseur faites-en son époux.
+Bien qu'il eût fait dessein sur une autre personne,
+Faites-lui retenir ce qu'un hasard lui donne :
+Je crois que cet hymen pour satisfaction
+Plaira mieux à Philis que sa punition.
+
+Nous le rencontrerons, n'en soyez point en peine :
+Où que soit sa retraite, il n'est pas toujours nuit ;
+Et ce qu'un jour nous cache, un autre le produit.
+Mais, dieux ! Voilà Philis qu'il a déjà rendue.
+
+      Je l'aperçois venir.
+Résolvez-vous, monsieur, à ce qu'elle désire.

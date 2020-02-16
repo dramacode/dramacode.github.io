@@ -2,6 +2,7 @@
 
 **** *creator_boursault *book_boursault_mortvivant *style_verse *genre_comedy *dist1_boursault_verse_comedy_mortvivant *dist2_boursault_verse_comedy *id_FERDINAND *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ferdinand
 
+
 Es-tu là Stéphanie ? Ôtes-moi de soucis :
 Réponds. Ah ! te voilà.
 
@@ -195,8 +196,8 @@ Mon ardeur
 Que plutôt ne te vois-je emporter par le Diable :
 Ah ! Je suis mort.
 
-
 **** *creator_boursault *book_boursault_mortvivant *style_verse *genre_comedy *dist1_boursault_verse_comedy_mortvivant *dist2_boursault_verse_comedy *id_STEPHANIE *date_1661 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_stephanie
+
 
       Sans doute.
 
@@ -300,8 +301,8 @@ Vous, mon Père !
 
       Quoi, vous êtes son père ?
 
-
 **** *creator_boursault *book_boursault_mortvivant *style_verse *genre_comedy *dist1_boursault_verse_comedy_mortvivant *dist2_boursault_verse_comedy *id_LAZARILLE *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lazarille
+
 
 De tous vos serviteurs étant le plus soumis,
 Un libre accès chez vous me fut toujours permis,
@@ -652,8 +653,8 @@ Qu'entends-je ?
 Il l'est ; De votre amant il devient votre frère,
 Quel besoin aviez-vous de cacher si longtemps.
 
-
 **** *creator_boursault *book_boursault_mortvivant *style_verse *genre_comedy *dist1_boursault_verse_comedy_mortvivant *dist2_boursault_verse_comedy *id_FABRICE *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fabrice
+
 
 Railleur.
 
@@ -920,8 +921,8 @@ Cette beauté charmante est l'objet de mes vœux.
 
       Ô bonheur !
 
-
 **** *creator_boursault *book_boursault_mortvivant *style_verse *genre_comedy *dist1_boursault_verse_comedy_mortvivant *dist2_boursault_verse_comedy *id_HENRIQUEZ *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_henriquez
+
 
 Puisque dans le lit vert il faut que je repose,
 De vos soins cette nuit je ne veux autre chose,
@@ -1026,8 +1027,8 @@ Ma chère Stéphanie acceptez le service.
 
 Il suffit ; vous verrez que je suis raisonnable.
 
-
 **** *creator_boursault *book_boursault_mortvivant *style_verse *genre_comedy *dist1_boursault_verse_comedy_mortvivant *dist2_boursault_verse_comedy *id_GUSMAN *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gusman
+
 
 Oui, la peste m'étouffe, il lui fait les doux yeux.
 
@@ -1517,8 +1518,8 @@ Malheur sur la maison de qui choque les morts.
       Fort bien, notre espoir décevant,
 Te fait le Vivant Mort, et moi le MORT VIVANT.
 
-
 **** *creator_boursault *book_boursault_mortvivant *style_verse *genre_comedy *dist1_boursault_verse_comedy_mortvivant *dist2_boursault_verse_comedy *id_SERVANTE *date_1661 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_servante
+
 
 Monsieur, vous voyez bien qu'étant l'heure qu'il est,
 On se loge où l'on peut, et non où l'on se plaît,
@@ -1543,8 +1544,8 @@ Ce qu'il faut faire.
 
       J'obéis.
 
-
 **** *creator_boursault *book_boursault_mortvivant *style_verse *genre_comedy *dist1_boursault_verse_comedy_mortvivant *dist2_boursault_verse_comedy *id_HOTE *date_1661 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hote
+
 
 Pourquoi faire Messieurs un si grand tintamarre ?
 D'où vient que du sommeil.
@@ -1559,4 +1560,3 @@ Je vois d'autre chandelle.
 Parlez.
 
 C'est ma pensée, et l'ombre en a bien l'encolure.
-

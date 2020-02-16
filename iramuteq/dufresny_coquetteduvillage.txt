@@ -2,6 +2,7 @@
 
 **** *creator_dufresny *book_dufresny_coquetteduvillage *style_verse *genre_comedy *dist1_dufresny_verse_comedy_coquetteduvillage *dist2_dufresny_verse_comedy *id_LEBARON *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebaron
 
+
 Lucas veut me quitter ! Ouf, cela m'inquiète :
 Pourrai-je me résoudre à ne plus voir Lisette ?
 
@@ -193,8 +194,8 @@ Vous n'achèterez pas mon château, maître sot.
 
 Allons.
 
-
 **** *creator_dufresny *book_dufresny_coquetteduvillage *style_verse *genre_comedy *dist1_dufresny_verse_comedy_coquetteduvillage *dist2_dufresny_verse_comedy *id_LAVEUVE *date_1715 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_laveuve
+
 
 J'attends monsieur Argan, pourquoi ne vient-il pas ?
 
@@ -498,8 +499,8 @@ J'en conviens, j'avais tort.
 Après de hauts projets, on la voit tôt ou tard,
 Confuse, confondue, et réduite à Girard.
 
-
 **** *creator_dufresny *book_dufresny_coquetteduvillage *style_verse *genre_comedy *dist1_dufresny_verse_comedy_coquetteduvillage *dist2_dufresny_verse_comedy *id_ARGAN *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_argan
+
 
       Oui, Lisette va se rendre.
 Qu'elle est belle en rêvant ! Que de charmes je vois !
@@ -664,8 +665,8 @@ Je m'engage avec vous.
 
       Allons souper chez moi.
 
-
 **** *creator_dufresny *book_dufresny_coquetteduvillage *style_verse *genre_comedy *dist1_dufresny_verse_comedy_coquetteduvillage *dist2_dufresny_verse_comedy *id_GIRARD *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_girard
+
 
 De Paris. À monsieur le baron du hameau.
 Gardons-lui cette lettre ; il n'est pas au château.
@@ -917,8 +918,8 @@ Eh ! Choisissez-moi donc ? Lucas consentez-y.
       Deux fois... ouf, en langue muette,
 Valent un oui.
 
-
 **** *creator_dufresny *book_dufresny_coquetteduvillage *style_verse *genre_comedy *dist1_dufresny_verse_comedy_coquetteduvillage *dist2_dufresny_verse_comedy *id_LUCAS *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucas
+
 
 Ô forteune, ô forteune, est-c'baintôt que j't'aurai ?
 Tu t'enfuis toujours d'moi, quand est-c'que j't'attraperai ?
@@ -1230,8 +1231,8 @@ Ouf.
 
       Ouf.
 
-
 **** *creator_dufresny *book_dufresny_coquetteduvillage *style_verse *genre_comedy *dist1_dufresny_verse_comedy_coquetteduvillage *dist2_dufresny_verse_comedy *id_LISETTE *date_1715 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
 Mon père, je ne sais que ce qu'elle m'apprend.
 
@@ -1579,4 +1580,3 @@ Il vous faut un baron, disait-elle toujours.
 Non, je n'aurais jamais pensé qu'à vous sans elle :
 Et si j'avais suivi ma pente naturelle
 Par tendresse d'abord, je vous aurais choisi.
-

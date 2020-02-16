@@ -2,6 +2,7 @@
 
 **** *creator_lacroix *book_lacroix_guerrecomique *style_verse *genre_comedy *dist1_lacroix_verse_comedy_guerrecomique *dist2_lacroix_verse_comedy *id_MOME *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mome
 
+
 Au feu sur le Mont de Parnasse.
 Apollon, ah ! Tout se fracasse :
 Apollon au feu, ton secours
@@ -114,8 +115,8 @@ Faire une satire sur toi.
 
 Point de quartier.
 
-
 **** *creator_lacroix *book_lacroix_guerrecomique *style_verse *genre_comedy *dist1_lacroix_verse_comedy_guerrecomique *dist2_lacroix_verse_comedy *id_APOLLON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
+
 
       D'où viennent ces cris ?
 
@@ -349,8 +350,8 @@ Si chaque Curieux qui voit la Comédie
 En vient quérir une copie,
 On y mettra bientôt seconde édition.
 
-
 **** *creator_lacroix *book_lacroix_guerrecomique *style_verse *genre_comedy *dist1_lacroix_verse_comedy_guerrecomique *dist2_lacroix_verse_comedy *id_MELASIE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melasie
+
 
 Que Molière débute agréablement dans cette École des Femmes par un personnage inutile ! Ce Chrisalde qui paraît avec Arnolphe ne sert qu'à dire des vers qui ne font rien au sujet.
 
@@ -418,8 +419,8 @@ Monsieur de la Racune dit la vérité, Paris est le véritable Parnasse ; et l'e
 
 Vous avez parlé du Portrait du Peintre ; on accuse Boursault de n'en être pas l'Auteur.
 
-
 **** *creator_lacroix *book_lacroix_guerrecomique *style_verse *genre_comedy *dist1_lacroix_verse_comedy_guerrecomique *dist2_lacroix_verse_comedy *id_CLEONE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleone
+
 
 Quelle antipathie remarquez-vous entre Chrisalde et ce Jaloux ? Arnolphe est tellement ravi d'entendre ce que lui dit ce railleur, qu'il le prie même à souper. Il le choisit entre tous ses amis pour lui faire voir Agnès qu'il resserre avec tant de soin.
 
@@ -523,8 +524,8 @@ Il est vrai qu'il les copie, mais tout le monde en rit.
 Il est vrai que les autres se tueraient plutôt que d'en faire autant. Il n'y a plus que lui qui enrichisse les comédiens, et quand on a fait le Portrait du Peintre on n'avait pas dessein de diminuer sa réputation, elle est trop bien établie, on cherchait seulement le moyen de gagner de l'argent à la faveur de son nom.
 APOLLON voyant qu'on ne faisait que chicaner se leva, et toutes les muses l'environnèrent pour délibérer avec lui. On délibéra aussi dans le Parterre, les uns prirent le parti de l'École des Femmes et de son auteur, les autres embrassèrent l'autre. Il y en eut qui considérèrent toutes les singeries que Mome fit pendant qu'on reculait les opinions, et qui ne purent s'empêcher de rire lorsqu'il pria Mercure de jouer des gobelets, et de faire quelque tour de gibecière pour divertir la Compagnie. Enfin Apollon prit l'avis de toutes les Muses, et en prononça le résultat que voici.
 
-
 **** *creator_lacroix *book_lacroix_guerrecomique *style_verse *genre_comedy *dist1_lacroix_verse_comedy_guerrecomique *dist2_lacroix_verse_comedy *id_PHILINTE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philinte
+
 
 Vous appelez un personnage inutile, un homme qui dit tant de bonnes choses à l'avantage de la Confrérie ? Vraiment Madame, ces malheureux que tout le monde persécute vous voudront du mal si vous leur ôtez un protecteur si favorable. Mais Chrisalde sert encor à autre chose ; son antipathie avec Arnolphe fait naître de beaux sentiments, et fonde bien le caractère de ce Jaloux.
 
@@ -692,8 +693,8 @@ Je ne m'arrête pas à tous ces bruits, je crois Boursault très capable de cela
 
 C'est un témoignage que ses pièces sont mauvaises.
 
-
 **** *creator_lacroix *book_lacroix_guerrecomique *style_verse *genre_comedy *dist1_lacroix_verse_comedy_guerrecomique *dist2_lacroix_verse_comedy *id_ALCIPE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcipe
+
 
 On parle donc ici de Molière, qui est-ce qui en dit du mal ? Morbleu, c'est l'incomparable. Je lui suis obligé Dieu me sauve de la moitié de mon embonpoint depuis qu'il a peint cinq ou six de mes amis.
 Mais je dis traits pour traits.
@@ -845,8 +846,8 @@ Il n'imite pas seulement les Italiens, il copie aussi les Français.
 
 Parbleu, cet ouf de l'École des Femmes en achève plaisamment la catastrophe ! Au lieu de tempêter comme un démon, il s'amuse à dire « ouf ».
 
-
 **** *creator_lacroix *book_lacroix_guerrecomique *style_verse *genre_comedy *dist1_lacroix_verse_comedy_guerrecomique *dist2_lacroix_verse_comedy *id_ROSIMON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rosimon
+
 
 Je ne suis pas assez habile homme pour discerner de moi-même les fautes d'un ouvrage, mais Monsieur Alcidor qui n'est pas un ignorant m'en a fait remarquer tout plein dans l'École des Femmes. Horace est un amant bien importun de venir voir Agnès cinq ou six fois en même jour. Il joue aux barres avec Arnolphe.
 
@@ -874,8 +875,8 @@ Mais Madame
 
 Un mot, de grâce
 
-
 **** *creator_lacroix *book_lacroix_guerrecomique *style_verse *genre_comedy *dist1_lacroix_verse_comedy_guerrecomique *dist2_lacroix_verse_comedy *id_ALCIDOR *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcidor
+
 
 Il me fait l'honneur de m'aimer et de me croire quelque fois.
 
@@ -939,8 +940,8 @@ Qui aurait pu s'imaginer que le Comique dût supplanter le sérieux ? Molière e
 
 Non parbleu ils ne l'aideront pas s'ils sont sages. Quoi ? Vous voulez qu'ils mettent encore au monde un Poète comique ? Que serait-ce s'il y en avait deux ? Boursault se poussera bien sans eux ; Ma foi, Molière berne le bourgeois ; il joue les mêmes choses toute l'année, et personne ne s'en lasse.
 
-
 **** *creator_lacroix *book_lacroix_guerrecomique *style_verse *genre_comedy *dist1_lacroix_verse_comedy_guerrecomique *dist2_lacroix_verse_comedy *id_DELARANCUNE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_delarancune
+
 
 Molière est bon Comédien ; mais il serait encore plus fort s'il ne se mêlait que de son métier ; il veut trancher de l'auteur.
 
@@ -963,4 +964,3 @@ On l'a si bien copié lui-même dans le Portrait du Peintre et dans l'Impromptu 
 Il est impossible que Boursault ne réussisse. S'il a fait le Portrait du Peintre, manquera-t-il de beaux sujets, et d'art pour les conduire ? Et s'il n'en est pas l'auteur, ceux qu'on soupçonne d'avoir mis la main à cette petite comédie, sont-ils pas engagés d'honneur de le secourir en toutes les autres ?
 
 On aurait peine à souffrir qu'on représentât le Cid deux fois par an, et l'on irait voir son Cocu Imaginaire s'il se jouait tous les jours. Il est heureux.
-

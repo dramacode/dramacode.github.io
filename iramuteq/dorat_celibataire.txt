@@ -2,6 +2,7 @@
 
 **** *creator_dorat *book_dorat_celibataire *style_verse *genre_comedy *dist1_dorat_verse_comedy_celibataire *dist2_dorat_verse_comedy *id_TERVILLE *date_1775 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_terville
 
+
       Et très content de l'être.
 Je chéris cet asile....
 
@@ -930,8 +931,8 @@ Dépendant, enchaîné, j'ai du plaisir à l'être.
 Je vais tout réparer, et prouver hautement
 Qu'on peut être mari, sans cesser d'être amant.
 
-
 **** *creator_dorat *book_dorat_celibataire *style_verse *genre_comedy *dist1_dorat_verse_comedy_celibataire *dist2_dorat_verse_comedy *id_MONTBRISSON *date_1775 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_montbrisson
+
 
 Ah ! je vous attendois avec empressement :
 Pour la tendre amitié, l'absence est un tourment.
@@ -1428,8 +1429,8 @@ Ciel !
       Viens, mon cher neveu, viens.
 Redevenu sensible, il ne te manque rien.
 
-
 **** *creator_dorat *book_dorat_celibataire *style_verse *genre_comedy *dist1_dorat_verse_comedy_celibataire *dist2_dorat_verse_comedy *id_MADAMEDEVERSEUIL *date_1775 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamedeverseuil
+
 
 Son père n'écrit point ; elle y songe sans cesse ;
 Voilà peut-être aussi l'objet de sa tristesse.
@@ -1913,8 +1914,8 @@ Il déteste ses torts.
 
       Eh ! oui, j'entends.
 
-
 **** *creator_dorat *book_dorat_celibataire *style_verse *genre_comedy *dist1_dorat_verse_comedy_celibataire *dist2_dorat_verse_comedy *id_JULIE *date_1775 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_julie
+
 
 T'interroger ! Sur quoi ?
 
@@ -2263,8 +2264,8 @@ Sentirais-je un bonheur qui pourrait nuire au vôtre?
 
       Et moi, je les oublie.
 
-
 **** *creator_dorat *book_dorat_celibataire *style_verse *genre_comedy *dist1_dorat_verse_comedy_celibataire *dist2_dorat_verse_comedy *id_NERINE *date_1775 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nerine
+
 
       Je n'ai rien entendu.
 J'entrais mais auriez-vous quelque chose à m'apprendre
@@ -2489,8 +2490,8 @@ Et, par ce que je sais, on peut savoir le reste.
 
 Rien n'est plus consolant.
 
-
 **** *creator_dorat *book_dorat_celibataire *style_verse *genre_comedy *dist1_dorat_verse_comedy_celibataire *dist2_dorat_verse_comedy *id_LAFLEUR *date_1775 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafleur
+
 
 Vite, à boire au Courier ?
 
@@ -2578,4 +2579,3 @@ J'en suis pour mon amour.
       Respecte mon plan, et songe à m'acquérir!
 
       Mais oui.
-

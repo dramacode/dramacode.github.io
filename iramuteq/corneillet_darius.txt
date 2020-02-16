@@ -2,6 +2,7 @@
 
 **** *creator_corneillet *book_corneillet_darius *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_darius *dist2_corneillet_verse_tragedy *id_OCHUS *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ochus
 
+
 Va, d'un Peuple insolent laisse agir le murmure,
 Laisse-le d'un Fantôme embrasser l'imposture,
 Ma Fille, on trouvera moyen de l'arrêter.
@@ -383,8 +384,8 @@ Allons de Darius expliquer la naissance,
 Et du faux et du vrai publiant les destins,
 En faveur de ce nom faire grâce aux Mutins.
 
-
 **** *creator_corneillet *book_corneillet_darius *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_darius *dist2_corneillet_verse_tragedy *id_DARIUS *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_darius
+
 
 De quel fâcheux présage est pour moi ce chagrin,
 Madame ? Je ne sais ce que j'en dois attendre,
@@ -961,8 +962,8 @@ Pourvu que ma Princesse, exorable à mes voeux,
 D'une heureuse union approuve les doux noeuds.
 Ai-je montré, Madame, une flamme assez pure ?
 
-
 **** *creator_corneillet *book_corneillet_darius *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_darius *dist2_corneillet_verse_tragedy *id_STATIRA *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_statira
+
 
 Seigneur, j'ai lieu pour vous de m'en inquiéter,
 Comme ce bruit lui plaît, la suite en est à craindre.
@@ -1397,8 +1398,8 @@ Aussi vous me voyez obéir sans murmure.
 Jugez si dans mon coeur l'aveu de votre espoir
 Pouvait mieux prévenir les ordres du devoir.
 
-
 **** *creator_corneillet *book_corneillet_darius *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_darius *dist2_corneillet_verse_tragedy *id_AMESTRIS *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amestris
+
 
 Quelque pouvoir sur vous que vous m'ayez fait prendre,
 Dans l'essai que j'en fais je n'ai rien à prétendre,
@@ -1749,8 +1750,8 @@ Consens-tu que sa main en décide le sort ?
 Tiens, vois, méchant ; approche, est-ce son caractère ?
 Vous connaîtrez, Seigneur, ce billet de son Père.
 
-
 **** *creator_corneillet *book_corneillet_darius *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_darius *dist2_corneillet_verse_tragedy *id_MEGABISE *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_megabise
+
 
 Madame, ce soupçon dont je souffre l'outrage
 Semble de mon amour désavouer l'hommage,
@@ -2271,8 +2272,8 @@ Qui trembla si longtemps pour un seul parricide,
 L'avoir trop différé mérite le trépas,
 Et je le punirais de ne me punir pas.
 
-
 **** *creator_corneillet *book_corneillet_darius *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_darius *dist2_corneillet_verse_tragedy *id_OROPASTE *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oropaste
+
 
 Quoi, Seigneur, quand un Fourbe aspire à votre perte
 Vous méprisez la paix par cet accord offerte,
@@ -2318,8 +2319,8 @@ Au nom de Darius ils ont mêlé le vôtre,
 Et c'est par où je crois, Seigneur, que leur rapport
 Vous a rendu suspect d'en appuyer le sort.
 
-
 **** *creator_corneillet *book_corneillet_darius *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_darius *dist2_corneillet_verse_tragedy *id_BAGOAS *date_1659 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bagoas
+
 
 Ils vous mettront au Trône, ou cesseront de vivre,
 Seigneur ; jamais Tyran avec plus de transport
@@ -2375,8 +2376,8 @@ Comme le Roi le hait, il en voulait la perte,
 Et ne s'est déclaré pour vous si hautement
 Que dans l'indigne espoir d'un plein renversement.
 
-
 **** *creator_corneillet *book_corneillet_darius *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_darius *dist2_corneillet_verse_tragedy *id_BARSINE *date_1659 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_barsine
+
 
 Madame, ou je me trompe, ou quoi que le Roi pense,
 Son ordre n'aura rien dont Cléone s'offense,
@@ -2406,4 +2407,3 @@ D'une source bien pure un tel amour doit naître,
 Et si pour Codoman... mais je le vois paraître.
 
 Madame, le malheur qui détruit votre espoir...
-

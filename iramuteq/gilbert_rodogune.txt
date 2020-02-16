@@ -2,6 +2,7 @@
 
 **** *creator_gilbert *book_gilbert_rodogune *style_verse *genre_tragicomedie *dist1_gilbert_verse_tragicomedie_rodogune *dist2_gilbert_verse_tragicomedie *id_RODOGUNE *date_1645 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rodogune
 
+
 Magnanime Darie, et vous brave Artaxerce,
 Race du grand Cyrus, et l'honneur de la Perse,
 D'un père trop barbare, enfants trop généreux,
@@ -830,8 +831,8 @@ Si ce crime eût passé pour une vérité,
 Les Dieux n'ont pas permis pour conserver ma gloire,
 Que l'on pût m'imputer une action si noire.
 
-
 **** *creator_gilbert *book_gilbert_rodogune *style_verse *genre_tragicomedie *dist1_gilbert_verse_tragicomedie_rodogune *dist2_gilbert_verse_tragicomedie *id_DARIE *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_darie
+
 
 Cette Alliance encore n'est pas bien assurée.
 
@@ -1219,8 +1220,8 @@ Un bonheur sans pareil suivra nos destinées,
 Nos états comme nous alliés désormais,
 Les sacrés noeuds d'Hymen seront ceux de la Paix.
 
-
 **** *creator_gilbert *book_gilbert_rodogune *style_verse *genre_tragicomedie *dist1_gilbert_verse_tragicomedie_rodogune *dist2_gilbert_verse_tragicomedie *id_ARTAXERCE *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artaxerce
+
 
 Madame, modérez cet excès de douleur,
 N'accusez point mon père, accusez le malheur ;
@@ -1555,8 +1556,8 @@ Voici de quoi venger mon frère et ma Patrie.
 Si la clarté du jour vous vient d'être ravie,
 Quel miracle, quel Dieu vous redonne la vie ?
 
-
 **** *creator_gilbert *book_gilbert_rodogune *style_verse *genre_tragicomedie *dist1_gilbert_verse_tragicomedie_rodogune *dist2_gilbert_verse_tragicomedie *id_LIDIE *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lidie
+
 
 Ce qui rend la justice à celles de mon sang.
 
@@ -1820,8 +1821,8 @@ Arriva-il jamais d'aventure pareille ?
 
 Nos esprits divisez désormais sont d'accord.
 
-
 **** *creator_gilbert *book_gilbert_rodogune *style_verse *genre_tragicomedie *dist1_gilbert_verse_tragicomedie_rodogune *dist2_gilbert_verse_tragicomedie *id_ORONTE *date_1645 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
+
 
 Oui, Madame, on l'amène.
 
@@ -1987,4 +1988,3 @@ Ce jour pour votre gloire est un jour solennel,
 Oronte n'a rien fait qui tache votre vie,
 Vous avouerez enfin qu'il vous a bien servie,
 Quand le bien qu'il a fait vous sera mieux connu.
-

@@ -2,6 +2,7 @@
 
 **** *creator_quinault *book_quinault_pausanias *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_pausanias *dist2_quinault_verse_tragedy *id_pausanias *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pausanias
 
+
 Voir un autre à ma honte obtenir Cleonice,
 Non, non, auparavant il faut que je périsse,
 Puisqu'on veut tout tenter employons tout aussi,
@@ -695,8 +696,8 @@ Aigri mon desespoir, rens ma douleur mortelle,
 Deffai moi d'une vie unie à tant d'horreurs⁎,
 C'en est fait il m'exauce, & je sens que je meurs.
 
-
 **** *creator_quinault *book_quinault_pausanias *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_pausanias *dist2_quinault_verse_tragedy *id_aristide *date_1669 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aristide
+
 
 De vos amis, Seigneur, fuyez vous la presence,
 Vostre entretien pour eux est-il si peu permis…
@@ -983,8 +984,8 @@ Ses jours semblent finis, je n'ose en rien attendre ;
 Mais ne negligeons rien des soins⁎ qu'on lui peut rendre.
 FIN.
 
-
 **** *creator_quinault *book_quinault_pausanias *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_pausanias *dist2_quinault_verse_tragedy *id_cleonice *date_1669 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleonice
+
 
 Cesse de me flatter d'une attente importune,
 Je connois mieux que toi toute mon infortune,
@@ -1203,8 +1204,8 @@ Vostre exemple authorise & me rend ma foiblesse ;
 Allez esperez tout vous m'aprenez trop bien,
 Seigneur que quand on aime on ne refuse rien.
 
-
 **** *creator_quinault *book_quinault_pausanias *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_pausanias *dist2_quinault_verse_tragedy *id_demarate *date_1669 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_demarate
+
 
 Il le faut avoüer, rien n'est plus éclattant
 Que le supréme honneur du destin⁎ qui m'attend.
@@ -1742,8 +1743,8 @@ Vous me refusez tout jusques à mon supplice ;
 Mais au refus du bras qui me veut negliger,
 Le fer qui m'a vangé au moins vous doit venger.
 
-
 **** *creator_quinault *book_quinault_pausanias *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_pausanias *dist2_quinault_verse_tragedy *id_sophane *date_1669 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_sophane
+
 
 Quoi Seigneur au mépris d'une amitié si tendre
 Pausanias obtient tout ce qu'il peut pretendre ?
@@ -1793,8 +1794,8 @@ Avant qu'on l'ait pû joindre elle a fini son sort,
 Et prevenu nos soins⁎ par une prompte mort.
 D'un coup precipité mortellement frappée.
 
-
 **** *creator_quinault *book_quinault_pausanias *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_pausanias *dist2_quinault_verse_tragedy *id_eurianax *date_1669 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_eurianax
+
 
       Seigneur, Demarate est icy.
 
@@ -1868,8 +1869,8 @@ Voyez où l'a reduit son amour⁎ déplorable.
 
 Vivez pour tous les Grecs.
 
-
 **** *creator_quinault *book_quinault_pausanias *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_pausanias *dist2_quinault_verse_tragedy *id_stratone *date_1669 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_stratone
+
 
 Pausanias, Madame, a fait assez connoistre,
 Que c'est pour l'adoucir qu'il veut s'en rendre maistre.
@@ -1908,8 +1909,8 @@ Il doit l'aimer sans peine & son merite extréme…
 
       Vous vous troublez⁎,
 
-
 **** *creator_quinault *book_quinault_pausanias *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_pausanias *dist2_quinault_verse_tragedy *id_charile *date_1669 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_charile
+
 
 Vous du chagrin, Madame ? en est-il qui vous presse
 Si prés du plus haut rang que puisse offrir la Grece,
@@ -1958,4 +1959,3 @@ Il vous quitte confus.
 J'admire que vostre ame ait tant pû se contraindre.
 
 Il mourra donc enfin l'ingrat qui vous offence ?
-

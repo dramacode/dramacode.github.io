@@ -2,6 +2,7 @@
 
 **** *creator_corneillep *book_corneillep_veuve *style_verse *genre_comedy *dist1_corneillep_verse_comedy_veuve *dist2_corneillep_verse_comedy *id_PHILISTE *date_1632 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philiste
 
+
 Dis ce que tu voudras, chacun a sa méthode.
 
 Non pas, mais pour le moins je veux qu'elle devine.
@@ -612,8 +613,8 @@ Ne punis point la soeur de la faute du frère,
 Et reçois de ma main celle que ton désir
 Par avant cette offense avait voulu choisir.
 
-
 **** *creator_corneillep *book_corneillep_veuve *style_verse *genre_comedy *dist1_corneillep_verse_comedy_veuve *dist2_corneillep_verse_comedy *id_ALCIDON *date_1632 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcidon
+
 
 Mais la tienne pour moi serait trop incommode :
 Mon coeur ne pourrait pas conserver tant de feu,
@@ -1112,8 +1113,8 @@ Ami, ne cherche plus qui t'a ravi Clarice :
 Voici l'auteur du coup, et voilà le complice.
 Adieu : ce mot lâché, je te suis en horreur.
 
-
 **** *creator_corneillep *book_corneillep_veuve *style_verse *genre_comedy *dist1_corneillep_verse_comedy_veuve *dist2_corneillep_verse_comedy *id_CELIDAN *date_1632 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_celidan
+
 
 Ce n'est pas que j'excuse, ou la soeur, ou le frère,
 Dont l'infidélité fait naître ta colère,
@@ -1480,8 +1481,8 @@ Que sans avoir servi je sois récompensé.
 Et je ne conçois rien de pareil à mon aise.
 Pourvu que ce propos soit suivi d'un baiser.
 
-
 **** *creator_corneillep *book_corneillep_veuve *style_verse *genre_comedy *dist1_corneillep_verse_comedy_veuve *dist2_corneillep_verse_comedy *id_CLARICE *date_1632 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clarice
+
 
 Oui, mais n'estimez pas qu'ainsi vous m'empêchiez
 De vous dire, à présent que nous faisons retraite,
@@ -1799,8 +1800,8 @@ L'heur de vous voir ici prendre un mauvais repas,
 Afin qu'à ces plaisirs ensemble on se prépare,
 Tant qu'un mystère saint deux à deux nous sépare.
 
-
 **** *creator_corneillep *book_corneillep_veuve *style_verse *genre_comedy *dist1_corneillep_verse_comedy_veuve *dist2_corneillep_verse_comedy *id_CHRYSANTE *date_1632 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_chrysante
+
 
 C'est trop désavouer une si belle flamme
 Qui n'a rien de honteux, rien de sujet au blâme,
@@ -2053,8 +2054,8 @@ Ma débile vieillesse a jamais fortunée !
 Vous quitter par avant ce bienheureux moment
 Ce serait me priver de tout contentement.
 
-
 **** *creator_corneillep *book_corneillep_veuve *style_verse *genre_comedy *dist1_corneillep_verse_comedy_veuve *dist2_corneillep_verse_comedy *id_DORIS *date_1632 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_doris
+
 
 Madame, il n'en va pas ainsi que vous pensez.
 Mon frère aime Alcidon, et sa prière expresse
@@ -2272,8 +2273,8 @@ Et la raison s'accorde à mon obéissance,
 En secondant vos feux je fais par jugement,
 Ce qu'ailleurs je ferais par le commandement.
 
-
 **** *creator_corneillep *book_corneillep_veuve *style_verse *genre_comedy *dist1_corneillep_verse_comedy_veuve *dist2_corneillep_verse_comedy *id_NOURRICE *date_1632 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_nourrice
+
 
 La belle question ! Quoi ?
 
@@ -2556,8 +2557,8 @@ Oserais-je espérer que la compassion.
 
 Vous me serez, Monsieur, comme un Dieu tutélaire.
 
-
 **** *creator_corneillep *book_corneillep_veuve *style_verse *genre_comedy *dist1_corneillep_verse_comedy_veuve *dist2_corneillep_verse_comedy *id_GERON *date_1632 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_geron
+
 
       Je l'avais déjà su,
 Madame, et les effets ne m'en ont point déçu,
@@ -2614,8 +2615,8 @@ Monsieur, vous m'offensez, loin d'être un suborneur,
 Je ne sortis jamais des termes de l'honneur,
 Madame a trouvé bon de prendre cette voie.
 
-
 **** *creator_corneillep *book_corneillep_veuve *style_verse *genre_comedy *dist1_corneillep_verse_comedy_veuve *dist2_corneillep_verse_comedy *id_LYCAS *date_1632 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lycas
+
 
       Monsieur.
 
@@ -2641,8 +2642,8 @@ Mais ma fuite a rendu sa fureur sans effet.
 Ses confuses clameurs n'en accusent personne,
 Et même les voisins n'en savent que juger.
 
-
 **** *creator_corneillep *book_corneillep_veuve *style_verse *genre_comedy *dist1_corneillep_verse_comedy_veuve *dist2_corneillep_verse_comedy *id_POLYMAS *date_1632 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polymas
+
 
       Qu'as-tu, nourrice ?
 
@@ -2656,8 +2657,8 @@ Ne nous présentons plus aux transports de sa rage,
 Mais plutôt derechef allons si bien chercher
 Qu'il n'ait plus au retour sujet de se fâcher.
 
-
 **** *creator_corneillep *book_corneillep_veuve *style_verse *genre_comedy *dist1_corneillep_verse_comedy_veuve *dist2_corneillep_verse_comedy *id_DORASTE *date_1632 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_doraste
+
 
 Suivons-les, mais dis-nous la route qu'ils ont prise.
 
@@ -2669,3 +2670,7 @@ Mais hélas quelque soin, et quelque diligence.
 
 Cédons à sa fureur, évitons-en l'orage.
 
+**** *creator_corneillep *book_corneillep_veuve *style_verse *genre_comedy *dist1_corneillep_verse_comedy_veuve *dist2_corneillep_verse_comedy *id_LISTOR *date_1632 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_listor
+
+
+Le voilà.

@@ -2,6 +2,7 @@
 
 **** *creator_henault *book_henault_mariusacirte *style_verse *genre_tragedy *dist1_henault_verse_tragedy_mariusacirte *dist2_henault_verse_tragedy *id_HIEMPSAL *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hiempsal
 
+
 Seigneur, je n'ai pas cru que l'assassin d'un homme
 Dont la seule valeur tant de fois sauva Rome,
 Dût venir en ma cour, au nom de ces Romains,
@@ -269,8 +270,8 @@ N'avait jamais brûlé d'une si vive flamme.
 Dieux cruels, qui tenez notre sort en vos mains,
 Faut-il payer si cher le salut des Romains !
 
-
 **** *creator_henault *book_henault_mariusacirte *style_verse *genre_tragedy *dist1_henault_verse_tragedy_mariusacirte *dist2_henault_verse_tragedy *id_CAIUSMARIUS *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_caiusmarius
+
 
 Oui, tu vois Marius. Après tant de revers ;
 Rendu méconnaissable aux yeux de l'univers,
@@ -717,8 +718,8 @@ Qu'il apprenne de vous à dévorer ses larmes ;
 N'allez point nous trahir et perdre tout le fruit
 D'un projet que vos soins avaient si bien conduit.
 
-
 **** *creator_henault *book_henault_mariusacirte *style_verse *genre_tragedy *dist1_henault_verse_tragedy_mariusacirte *dist2_henault_verse_tragedy *id_MARIUS *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marius
+
 
 Ne crois pas que jamais je puisse balancer ;
 Je voudrais... mais que faire, et par où commencer ?
@@ -1057,8 +1058,8 @@ Dieux ! Pouvez-vous compter sur la foi d'un tel homme ?
 
 Hélas!
 
-
 **** *creator_henault *book_henault_mariusacirte *style_verse *genre_tragedy *dist1_henault_verse_tragedy_mariusacirte *dist2_henault_verse_tragedy *id_ARISBE *date_1715 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_arisbe
+
 
 Il est temps, Marius, de s'armer de constance :
 D'aujourd'hui seulement votre malheur commence.
@@ -1432,8 +1433,8 @@ Qui m'a voit ordonné d'éloigner ce que j'aime.
 Dans ce même moment j'entends encor sa voix :
 Elle parle, et voilà l'ordre que j'en reçois.
 
-
 **** *creator_henault *book_henault_mariusacirte *style_verse *genre_tragedy *dist1_henault_verse_tragedy_mariusacirte *dist2_henault_verse_tragedy *id_CETHEGUS *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cethegus
+
 
 Qui peut vous retenir, Seigneur, sur cette rive ?
 Un Romain doit rougir d'une douleur oisive ;
@@ -1557,8 +1558,40 @@ Dont l'aspect menaçant perce au travers des ombres,
 Et qui fixant sur lui leurs avides regards,
 Annoncent le péril qui vient de toutes parts.
 
+**** *creator_henault *book_henault_mariusacirte *style_verse *genre_tragedy *dist1_henault_verse_tragedy_mariusacirte *dist2_henault_verse_tragedy *id_NUMERIUS *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_numerius
+
+
+Seigneur, un tel projet est digne d'un Romain.
+Les dieux seconderont un si noble dessein :
+J'ose vous l'assurer. Mais pourrez-vous me taire
+Comment ils ont sauvé cette tête si chère ?
+Marius est vivant ! Quels climats, quels déserts
+L'ont caché si longtemps aux yeux de l'univers ?
+Éloigné de nos murs depuis plus d'une année.
+Du sort qui vous poursuit victime infortunée.
+J'arrive en cette Cour ; j'y cherche votre fils :
+Quel bonheur imprévu ! Je vous vois réunis.
+
+Ô ciel ! Mais je ne puis, Seigneur, trop admirer
+Tant d'écueils d'où les Dieux ont su vous retirer.
+Dans l'abîme souvent leur bras nous précipite,
+Pour faire après sur nous éclater leur conduite.
+
+Seigneur, lorsque pour vous le destin se déclare,
+Vous deviez moins risquer dans une cour barbare.
+Loin d'ici vous pouviez, par de secrets avis,
+De tous vos sentiments instruire votre fils,
+L'appeler près de vous ; et son obéissance,
+Sans péril, eût bientôt rempli votre vengeance.
+Je connais peu le roi qui règne en ces climats,
+Mais je crains qu'à vos voeux il ne réponde pas.
+Du moins si l'on m'a fait un rapport bien fidèle,
+Le jeune Marius a mérité son zèle :
+Ce roi veut le servir, seigneur ; jugez de là
+Comment il peut traiter l'envoyé de Sylla.
 
 **** *creator_henault *book_henault_mariusacirte *style_verse *genre_tragedy *dist1_henault_verse_tragedy_mariusacirte *dist2_henault_verse_tragedy *id_NERBAL *date_1715 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nerbal
+
 
 Oui, seigneur, un projet si grand, si légitime,
 Du reste des humains mériterait l'estime ;
@@ -1631,8 +1664,8 @@ S'enfle au bord de la barque, et leur aide à monter ;
 La rame fend les eaux, et, dans notre poursuite,
 Nous laisse seulement spectateurs de leur fuite.
 
-
 **** *creator_henault *book_henault_mariusacirte *style_verse *genre_tragedy *dist1_henault_verse_tragedy_mariusacirte *dist2_henault_verse_tragedy *id_PHENICE *date_1715 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phenice
+
 
       Madame, oserez- vous
 Paraître en cet état devant ses yeux jaloux ?.
@@ -1655,4 +1688,3 @@ Dans cet autre son fils.
 Madame, songez-vous en quels périls....
 
 Madame, le roi vient : armez-vous de vertu.
-

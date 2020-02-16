@@ -2,6 +2,7 @@
 
 **** *creator_sophocle *book_sophocle_electre *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_electre *dist2_sophocle_prose_tragedy *id_LEPEDAGOGUE *date_1877 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lepedagogue
 
+
 Ô enfant d'Agamemnôn, du chef de l'armée devant Troie, il t'est permis maintenant de voir ce que tu as toujours désiré. Ceci est l'antique Argos, le sol consacré à la fille aiguillonnée d'Inakhos. Voici, Oreste, l'agora Lycienne du dieu tueur de loups ; puis, à gauche, le temple illustre de Héra. Tu vois, crois-le, la riche Mycènes, où nous sommes arrivés, et la fatidique maison des Pélopides où, autrefois, après le meurtre de ton père, je te reçus des mains de ta soeur, et, t'ayant enlevé et sauvé, je t'élevai jusqu'à cet âge pour venger la mort paternelle. Maintenant donc, Oreste, et toi, le plus cher des hôtes, Pylade, il s'agit de promptement délibérer sur ce qu'il faut faire. Déjà le brillant éclat de Hélios éveille les chansons matinales des oiseaux et la noire nuit pleine d'astres tombe. Avant qu'aucun homme sorte de la demeure, tenez conseil ; car, où en sont les choses, ce n'est plus le lieu d'hésiter, mais d'agir.
 
 Il me semble, ô fils, que j'ai entendu une des servantes soupirer dans la demeure.
@@ -38,8 +39,8 @@ Je te répondrai, la chose faite. Pour le moment, tout ce qui est d'eux est bien
 
 C'est assez. De nombreuses nuits et de nombreux jours s'écouleraient, Électre, s'il me fallait te raconter ce qui s'est passé depuis ce temps ; mais à vous deux, qui êtes là, je dis que le temps d'agir est venu. Clytemnestre est maintenant seule et il n'y a aucun homme dans la demeure ; mais, si vous tardez, songez que vous devrez combattre, avec ceux-ci, bien d'autres ennemis plus habiles.
 
-
 **** *creator_sophocle *book_sophocle_electre *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_electre *dist2_sophocle_prose_tragedy *id_ORESTE *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oreste
+
 
 Ô le plus cher des serviteurs, que de marques certaines tu me donnes de ta bienveillance pour nous ! En effet, comme un cheval de bonne race, bien qu'il vieillisse, ne perd point courage dans le danger, mais dresse les oreilles, ainsi tu nous excites et tu nous suis des premiers. C'est pourquoi je te dirai ce que j'ai résolu. Pour toi, écoutant mes paroles de toutes tes oreilles, reprends-moi si je m'égare. Quand j'allai trouver l'oracle Pythique, afin de savoir comment je châtierais les tueurs de mon père, le Phoibos me répondit ce que tu vas entendre : – Toi seul, sans armes, sans armée, secrètement et par des embûches, tu dois, de ta propre main, leur donner une juste mort. – Donc, puisque nous avons entendu cet oracle, toi, quand il sera temps, entre dans la demeure, afin qu'ayant appris ce qu'on y fait, tu viennes nous le dire sûrement. Ils ne te reconnaîtront ni ne te soupçonneront, après un si long temps, et tes cheveux ayant blanchi. Dis-leur que tu es un étranger Phocéen, envoyé par un homme nommé Phanoteus. Et, en effet, celui-ci est leur meilleur allié. Annonce-leur aussi, et jure-leur qu'Oreste a subi la destinée par une mort violente, étant tombé d'un char rapide, dans les jeux Pythiques. Que tes paroles soient telles ! Pour nous, après avoir fait des libations à mon père, comme il est ordonné, et déposé sur son tombeau nos chevelures coupées, nous reviendrons ici, portant aux mains l'urne d'airain que j'ai cachée dans les buissons, comme tu le sais, je pense. Ainsi nous les tromperons par de fausses paroles, en leur portant cette heureuse nouvelle que mon corps n'est plus, qu'il est brûlé et réduit en cendre. Pourquoi, en effet, me serait-il pénible d'être mort en paroles, puisque je vis et que j'acquerrai de la gloire ? Je pense qu'il n'est aucune parole de mauvais augure, si elle sert. Déjà j'ai vu très souvent des sages qu'on disait morts, revenir dans leur demeure et n'en être que plus honorés ; d'où je suis assuré que moi aussi, vivant, j'apparaîtrai comme un astre à mes ennemis. Ô terre de la patrie, et vous, dieux du pays, recevez-moi heureusement ; et toi aussi, ô maison paternelle, car je viens, poussé par les dieux, afin de te purifier par l'expiation du crime. Ne me renvoyez pas déshonoré de cette terre, mais faites que j'affermisse ma maison et que je possède les richesses de mes aïeux. En voilà assez. À toi, vieillard, d'entrer et de faire ton office. Nous, sortons. L'occasion presse en effet, et c'est elle qui préside à toutes les entreprises des hommes.
 
@@ -191,8 +192,8 @@ Il faut que tu me précèdes.
 
 Certes, tu ne mourras point comme tu l'entends, mais comme il me convient, afin que ta mort ne manque même pas de cette amertume. Ce châtiment devrait être celui de tous ceux qui veulent être plus puissants que les lois, c'est-à-dire la mort. De cette façon, les scélérats seraient moins nombreux.
 
-
 **** *creator_sophocle *book_sophocle_electre *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_electre *dist2_sophocle_prose_tragedy *id_ELECTRE *date_1877 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_electre
+
 
 Hélas sur moi !
 
@@ -530,8 +531,8 @@ J'ai fait ce qui pouvait être fait par moi. J'ai appris enfin à être sage et 
 
 Par les dieux, frère, ne permets pas qu'il parle plus longtemps et qu'il prolonge ses discours. Pourquoi, en effet, quand un homme, en proie au malheur, doit mourir, lui donner un peu de délai ? Tue-le donc promptement et abandonne-le, mort, à ceux qui l'enseveliront loin de nos yeux, d'une façon digne de lui. Ce sera le seul remède à mes longues misères.
 
+**** *creator_sophocle *book_sophocle_electre *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_electre *dist2_sophocle_prose_tragedy *id_LECHOEUR *date_1877 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lechoeur
 
-**** *creator_sophocle *book_sophocle_electre *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_electre *dist2_sophocle_prose_tragedy *id_LECHOEUR *date_1877 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lechoeur
 
 Strophe I. Ô enfant, enfant d'une très indigne mère, Électre, pourquoi répands-tu toujours les lamentations du regret insatiable d'Agamemnôn, de celui qui, enveloppé autrefois par les liens de ta mère pleine de ruses, a été frappé d'une main impie ? Qu'il périsse celui qui a fait cela, s'il est permis de le souhaiter !
 
@@ -646,8 +647,8 @@ Il faut glisser quelques douces paroles dans les oreilles de cet homme pour qu'i
 
 Ô race d'Atrée, que d'innombrables calamités tu as subies avant de t'affranchir par ce dernier effort !
 
-
 **** *creator_sophocle *book_sophocle_electre *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_electre *dist2_sophocle_prose_tragedy *id_CHRYSOTHEMIS *date_1877 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_chrysothemis
+
 
 Ô soeur, pourquoi viens-tu de nouveau pousser des clameurs devant ce vestibule ? ne peux-tu apprendre, après un si long temps, à ne plus t'abandonner à une vaine colère ? Certes, moi-même, je sais aussi que l'état des choses est cruel, et, si j'en avais les forces, je montrerais ce que j'ai pour eux dans le coeur ; mais, enveloppée de maux, pour naviguer il me faut plier mes voiles, et je pense qu'il m'est interdit d'agir contre ceux que je ne puis atteindre. Je voudrais que tu fisses de même. Cependant, il n'est pas juste que tu agisses comme je te le conseille et non comme tu le juges bon ; mais moi, pour vivre libre, il faut que j'obéisse à ceux qui ont la toute-puissance.
 
@@ -755,8 +756,8 @@ Je m'en vais donc, car tu ne saurais approuver mes paroles, pas plus que je n'ap
 
 Si tu te crois sage pour toi-même, pense ainsi ; mais, quand tu seras tombée dans le malheur, tu approuveras mes paroles.
 
-
 **** *creator_sophocle *book_sophocle_electre *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_electre *dist2_sophocle_prose_tragedy *id_CLYTEMNESTRE *date_1877 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_clytemnestre
+
 
 Tu vagabondes de nouveau, et librement, semble-t-il. Égisthe, en effet, n'est point ici, lui qui a coutume de te retenir, afin que tu n'ailles pas au dehors diffamer tes parents. Maintenant qu'il est sorti, tu ne me respectes point. Et, certes, tu as dit souvent et à beaucoup que j'étais emportée, commandant contre tout droit et justice et t'accablant d'outrages, toi et les tiens. Mais je n'ai pas coutume d'outrager ; si je te parle injurieusement, c'est que tu m'injuries plus souvent encore. Ton père, et tu n'as point d'autre prétexte de querelle, a été tué par moi, par moi-même, je le sais bien, et il n'y a aucune raison pour que je le nie. Car, non moi seule, mais la justice aussi l'a frappé ; et il convenait que tu me vinsses en aide, si tu avais été sage, puisque ton père, sur qui tu ne cesses de gémir, seul des Hellènes, a osé sacrifier ta soeur aux dieux, bien qu'il n'eût point autant souffert pour l'engendrer que moi pour l'enfanter. Mais, soit ! Dis-moi pourquoi il l'a égorgée. Est-ce en faveur des Argiens ? Or, ils n'avaient aucun droit de tuer ma fille. Si, comme je le crois, il l'a tuée pour son frère Ménélas, ne devait-il pas en être châtié par moi ? ce même Ménélas n'avait-il pas deux enfants qu'il était plus juste de faire mourir, nés qu'ils étaient d'un père et d'une mère pour qui cette expédition était entreprise ? Le Hadès désirait-il dévorer mes enfants plutôt que les leurs ? L'amour de cet exécrable père pour les enfants que j'avais conçus était-il éteint, et en avait-il un plus grand pour ceux de Ménélas ? Ces choses ne sont-elles pas d'un père mauvais et insensé ? Je pense ainsi, bien que tu penses le contraire, et ma fille morte dirait comme moi, si elle pouvait parler. C'est pourquoi je ne me repens point de ce que j'ai fait ; et toi, si je te semble avoir mal agi, blâme aussi les autres, comme il est juste.
 
@@ -806,8 +807,8 @@ Malheur à moi ! Je suis frappée !
 
 Hélas ! Encore !
 
-
 **** *creator_sophocle *book_sophocle_electre *style_prose *genre_tragedy *dist1_sophocle_prose_tragedy_electre *dist2_sophocle_prose_tragedy *id_EGISTHE *date_1877 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_egisthe
+
 
 Qui de vous sait où sont ces étrangers Phocéens, qui sont venus nous annoncer qu'Oreste avait perdu la vie dans un naufrage de chars ? Certes, c'est à toi que je parle, à toi, dis-je, toujours si opiniâtre jusqu'ici ; car je pense que tu dois être en grand souci de cette nouvelle et que tu dois la savoir au mieux.
 
@@ -842,4 +843,3 @@ Tu te vantes d'une science que ne possédait pas ton père.
 Va devant.
 
 Crains-tu que je te fuie ?
-

@@ -2,6 +2,7 @@
 
 **** *creator_dorimond *book_dorimond_femmeindustrieuse *style_verse *genre_comedy *dist1_dorimond_verse_comedy_femmeindustrieuse *dist2_dorimond_verse_comedy *id_ISABELLE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
 
+
 Impatient amour, Démon qui me possède,
 Pour le mal que tu fais, n'as tu point de remède :
 Tu me fais tant de de mal, informent en l'auteur :
@@ -197,8 +198,8 @@ Comment sortirez vous.
 Belle ombre, où fuyez vous, hélas ! Embrassez-moi.
 Bel esprit.
 
-
 **** *creator_dorimond *book_dorimond_femmeindustrieuse *style_verse *genre_comedy *dist1_dorimond_verse_comedy_femmeindustrieuse *dist2_dorimond_verse_comedy *id_LECAPITAN *date_(inc *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecapitan
+
 
 Écartez-vous blondins, alcouistes, galants
 Champions de l'amour, amoureu indolents,
@@ -381,8 +382,8 @@ Non, je n'en mettrai plus, ma femme est par trop sage,
 Me voilà trop heureux, car me voilà vainqueur,
 Et de plus le mari d'une femme d'honneur.
 
-
 **** *creator_dorimond *book_dorimond_femmeindustrieuse *style_verse *genre_comedy *dist1_dorimond_verse_comedy_femmeindustrieuse *dist2_dorimond_verse_comedy *id_TRAPOLIN *date_(inc *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_trapolin
+
 
 Pour bien garder un fort, il faut chose certaine,
 Bien boire et bien manger, et remplir sa bedaine,
@@ -527,8 +528,8 @@ Je n'ai jamais reçu plus de peur de ma vie,
 Ne soyez plus jaloux de peur d'être repris,
 Et de trouver chez vous de semblable esprits.
 
-
 **** *creator_dorimond *book_dorimond_femmeindustrieuse *style_verse *genre_comedy *dist1_dorimond_verse_comedy_femmeindustrieuse *dist2_dorimond_verse_comedy *id_LEANDRE *date_(inc *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_leandre
+
 
 Pour vivre en honnêtre homme.
 
@@ -693,8 +694,8 @@ Mon coeur vous servira d'éternelle hécatombe.
       Adieu, songez bien tous
 À mettre jamais de gardien chez vous.
 
-
 **** *creator_dorimond *book_dorimond_femmeindustrieuse *style_verse *genre_comedy *dist1_dorimond_verse_comedy_femmeindustrieuse *dist2_dorimond_verse_comedy *id_LEDOCTEUR *date_(inc *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_ledocteur
+
 
 Quoi tous mes documents, et toute ma doctrine
 Ne pourront réprimer votre humeur libertine
@@ -913,8 +914,8 @@ Vous voilà me croyant plus heureux à mon gré.
 
 Adieu, travaillez donc à vous rendre plus sage.
 
-
 **** *creator_dorimond *book_dorimond_femmeindustrieuse *style_verse *genre_comedy *dist1_dorimond_verse_comedy_femmeindustrieuse *dist2_dorimond_verse_comedy *id_COLINETTE *date_(inc *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_colinette
+
 
 Je ne sais ma foi plus comment me ménager,
 Ces diables de blondins me font tous enrager,
@@ -956,4 +957,3 @@ Va je ne t'aime plus, mon âme est enragée,
 Je te ferai périr, et je mourrai vengée :
 Hélas, je l'aime encor et je mourrai d'ennui,
 Allons dans un désert pour nous plaindre de lui.
-

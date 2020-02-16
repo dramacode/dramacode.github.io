@@ -2,6 +2,7 @@
 
 **** *creator_lebeaudeschosne *book_lebeaudeschosne_assemblee *style_verse *genre_comedy *dist1_lebeaudeschosne_verse_comedy_assemblee *dist2_lebeaudeschosne_verse_comedy *id_LESEMAINIER *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesemainier
 
+
 Que, parmi nous, l'emploi de Semainier
 Est bien un triste et fatiguant métier !
 Si l'on me croit fort flatté de ce titre,
@@ -126,8 +127,8 @@ Qu'après avoir siégé dans ce fauteuil.
 
 Excepté moi ; car j'étais du secret.
 
-
 **** *creator_lebeaudeschosne *book_lebeaudeschosne_assemblee *style_verse *genre_comedy *dist1_lebeaudeschosne_verse_comedy_assemblee *dist2_lebeaudeschosne_verse_comedy *id_ROBERT *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_robert
+
 
       Monsieur ?
 
@@ -222,8 +223,8 @@ C'est la Concierge, et je m'en vais d'avance.
 
       J'y vole.
 
-
 **** *creator_lebeaudeschosne *book_lebeaudeschosne_assemblee *style_verse *genre_comedy *dist1_lebeaudeschosne_verse_comedy_assemblee *dist2_lebeaudeschosne_verse_comedy *id_MADAMEARMAND *date_1773 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamearmand
+
 
 Tachez, Monsieur, de prendre patience,
 Nous n'aurons pas nos Acteurs de sitôt.
@@ -282,4 +283,3 @@ Mais j'ai valu mon prix dans mon jeune âge.
 Hélas ! Hélas, que ne suis-je à vingt ans !
 Qu'entends-je ! Ici, j'apprête donc à rire.
 On est venu : Monsieur, je me retire.
-

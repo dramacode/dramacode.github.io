@@ -2,6 +2,7 @@
 
 **** *creator_scarron *book_scarron_jodeletdueliste *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodeletdueliste *dist2_scarron_verse_comedy *id_DONDIEGUE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dondiegue
 
+
 Je ne puis plus loger dans cette Hôtellerie,
 C'est pis qu'un Hôpital, pis qu'une gueuserie,
 Je crois que dans l'Enfer on entend moins de bruit,
@@ -417,8 +418,8 @@ Je confesse qu'il a sur moi grand avantage.
       Prenez pitié de nous,
 De deux pauvres Amants qui sont à vos genoux.
 
-
 **** *creator_scarron *book_scarron_jodeletdueliste *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodeletdueliste *dist2_scarron_verse_comedy *id_DONFELIX *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donfelix
+
 
 Ah ! Je t'étrillerai sur le ventre et partout ;
 Maroufle, tu mets donc ma patience à bout ?
@@ -882,8 +883,8 @@ Vous aurez de mon sang, ou bien j'aurai du vôtre.
       C'est fort bien dit ;
 Je défends mon honneur, toi défends bien ta vie.
 
-
 **** *creator_scarron *book_scarron_jodeletdueliste *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodeletdueliste *dist2_scarron_verse_comedy *id_DONGASPARD *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dongaspard
+
 
 Est-il là, Don Félix ?
 
@@ -1025,8 +1026,8 @@ Dites-vous ? Sans duel un État est perdu,
 C'est le seul métier Noble où la vertu s'exerce ?
 Et rien n'est comparable à la quarte ou la tierce.
 
-
 **** *creator_scarron *book_scarron_jodeletdueliste *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodeletdueliste *dist2_scarron_verse_comedy *id_DONPEDRO *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donpedro
+
 
 Bonjour, mes chers enfants, je m'en allais chez vous,
 Voici l'heure tantôt entre nous arrêtée ;
@@ -1330,8 +1331,8 @@ Je vais pour cet effet donner ordre aux Carrosses.
 
 Laissons-là le duel, puisqu'il est défendu.
 
-
 **** *creator_scarron *book_scarron_jodeletdueliste *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodeletdueliste *dist2_scarron_verse_comedy *id_DONSANCHE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donsanche
+
 
 C'est moi-même, Monsieur, qui reçoit cet honneur.
 
@@ -1366,8 +1367,8 @@ Mon Dieu, qu'il est mauvais !
 
 Hélas ! Qu'on dit bien vrai, tel Maître, tel valet.
 
-
 **** *creator_scarron *book_scarron_jodeletdueliste *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodeletdueliste *dist2_scarron_verse_comedy *id_HELENE *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_helene
+
 
 Il est plus à propos qu'il soit de la partie.
 
@@ -1455,8 +1456,8 @@ Me vengerons l'un l'autre, elle de lui, lui d'elle ;
 Et je pense acceptant le parti présenté,
 Que je reçois bien plus, qu'on ne m'avait ôté.
 
-
 **** *creator_scarron *book_scarron_jodeletdueliste *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodeletdueliste *dist2_scarron_verse_comedy *id_LUCIE *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucie
+
 
       Et ce chien de cocher.
 
@@ -1752,8 +1753,8 @@ Mon Père, voulez-vous à l'instant que je meure ?
 
 Ah ! Mon Père, pardon.
 
-
 **** *creator_scarron *book_scarron_jodeletdueliste *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodeletdueliste *dist2_scarron_verse_comedy *id_BEATRIX *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_beatrix
+
 
 Entendrai-je toujours tes discours d'insensé ?
 Va te faire penser, si tu te sens blessé ;
@@ -1872,8 +1873,8 @@ Mais il faudra jeûner sans manger et sans boire
 Le jour qu'on la dira, puis cacher dans son lit
 Quatre brins de fougère.
 
-
 **** *creator_scarron *book_scarron_jodeletdueliste *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodeletdueliste *dist2_scarron_verse_comedy *id_JODELET *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jodelet
+
 
 Conseillant bien...
 
@@ -2337,8 +2338,8 @@ Je m'en vais devenir un vrai coupe-jarret,
 On ne me verra plus à la main qu'un fleuret.
 Mais j'aperçois quelqu'un, j'ai peur qu'on ne me voie.
 
-
 **** *creator_scarron *book_scarron_jodeletdueliste *style_verse *genre_comedy *dist1_scarron_verse_comedy_jodeletdueliste *dist2_scarron_verse_comedy *id_ALPHONSE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alphonse
+
 
 Je suis moins délicat que vous ; mais la punaise
 M'a pourtant empêché de dormir à mon aise ;
@@ -2549,4 +2550,3 @@ L'Exempt après son coup a regagné la rue ;
 Don Félix furieux comme un cheval qui rue,
 L'a suivi chamaillant ; notre Exempt s'est sauvé,
 Qui sera bien cherché devant qu'être trouvé.
-

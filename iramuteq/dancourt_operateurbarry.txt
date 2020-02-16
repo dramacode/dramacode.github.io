@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_operateurbarry *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operateurbarry *dist2_dancourt_prose_comedy *id_MONSIEURDANCOURT *date_1702 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdancourt
 
+
 Ma foi, Monsieur, il me semble que depuis quelque temps nous avons si peu de débit de la nôtre, que ce ne serait pas trop mal fait de louer la boutique.
 
 Hé ! Que vous importe, pourvu que l'Opérateur la fasse mieux valoir qu'un autre, et que le profit vous en revienne ?
@@ -12,8 +13,8 @@ Non : mais on connaîtra du moins que le petit nombre d'Acteurs qui demeure à 
 
 Et malgré Mademoiselle de Chanvallon, surtout, elle s'était habillée pour jouer la Paysanne du Médecin malgré lui. La voilà aux prises avec Monsieur Barry, laissons-les faire, ils ont aussi bonne tête et aussi bonne langue l'un que l'autre, et la Scène naturelle qu'ils vont nous donner, vaudra peut-être mieux que si elle était étudiée.
 
-
 **** *creator_dancourt *book_dancourt_operateurbarry *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operateurbarry *dist2_dancourt_prose_comedy *id_MONSIEURLECOMTE *date_1702 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurlecomte
+
 
 Holà, hé, Champagne ? La France ? Quelqu'un ? Monsieur Dufort ?
 
@@ -29,8 +30,8 @@ Mais cette négligence apparente, Monsieur, prétendez-vous la réparer avec une
 
 Oh bien, Monsieur, l'Opérateur me révolte, je vous l'avoue, et je vous déclare que c'est malgré moi
 
-
 **** *creator_dancourt *book_dancourt_operateurbarry *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operateurbarry *dist2_dancourt_prose_comedy *id_MADAMEDECHANVALLON *date_1702 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamedechanvallon
+
 
 Vous sortirez, Monsieur, vous sortirez.
 
@@ -44,8 +45,8 @@ Maudit harangueur, te tairas-tu ? Il y a ici nombre d'honnêtes gens, que tu é
 
 Cet homme-là a encore plus de babil que moi, toute femme que je suis. Il n'y a pas moyen de le faire taire, il vaut mieux céder.
 
-
 **** *creator_dancourt *book_dancourt_operateurbarry *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operateurbarry *dist2_dancourt_prose_comedy *id_MONSIEURBARRY *date_1702 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurbarry
+
 
 Non Signora, non, je ne sortirai point, mi souis un Forestier, une personne de ma profession, un homme comme mi, qui a un caractère, est bien reçu partout.
 
@@ -94,8 +95,8 @@ Venez tous lui rendre hommage,
 Pour le mariage, bon,
 Pour le badinage, non.
 
-
 **** *creator_dancourt *book_dancourt_operateurbarry *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operateurbarry *dist2_dancourt_prose_comedy *id_JODELET *date_1702 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jodelet
+
 
 Madame, Madame, visage vous-même, on ne traite point des gens comme nous de visages, afin que vous l'entendiez.
 
@@ -206,8 +207,15 @@ La secret d'être aimé d'elle,
 Pour le mariage, bon,
 Pour le badinage, non.
 
+**** *creator_dancourt *book_dancourt_operateurbarry *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operateurbarry *dist2_dancourt_prose_comedy *id_LAFRANCE *date_1702 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lafrance
+
+
+Monsieur.
+
+Ma foi, Monsieur, je ne sais ce que c'est.
 
 **** *creator_dancourt *book_dancourt_operateurbarry *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operateurbarry *dist2_dancourt_prose_comedy *id_SPACAMONTE *date_1702 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_spacamonte
+
 
 Je baise les pieds et les mains, et tout ce qu'on peut baiser avec bienséance au bonhomme Gautier-Garguille.
 
@@ -281,8 +289,8 @@ C'est là le fait. Oh ! Sans rancune, petit bonhomme, je suis humain, je vous l
 
 Oh ! De grand cœur : je n'ai point de fiel, et bien en prend à l'Univers que je sois aussi bon que brave. Allons, enfants, que le Bal commence, et qu'on laisse entrer tous les Masques.
 
-
 **** *creator_dancourt *book_dancourt_operateurbarry *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operateurbarry *dist2_dancourt_prose_comedy *id_MOSTELIN *date_1702 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mostelin
+
 
 Hé bien, ma chère Zerbinette, tu viens de parler au père de l'adorable Isabelle ? Il est de tes amis apparemment ? Tu devais bien hasarder de lui dire quelque chose en ma faveur.
 
@@ -334,8 +342,8 @@ De l'aimable Zerbinette,
 Pour le mariage, bon,
 Pour le badinage, non.
 
-
 **** *creator_dancourt *book_dancourt_operateurbarry *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operateurbarry *dist2_dancourt_prose_comedy *id_ZERBINETTE *date_1702 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_zerbinette
+
 
 Ah, buon di, buon di, Signor Garguille, dèh come sta Vossignoria,
 
@@ -478,8 +486,8 @@ Est encore dans le bel âge,
 Pour le mariage, bon,
 Pour le badinage, non.
 
-
 **** *creator_dancourt *book_dancourt_operateurbarry *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operateurbarry *dist2_dancourt_prose_comedy *id_ISABELLE *date_1702 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
 
 Je vous suis bien obligée, mon père, de me donner de si bonnes habitudes.
 
@@ -540,8 +548,8 @@ On peut tout mettre en usage
 Pour le mariage, bon,
 Pour le badinage, non.
 
-
 **** *creator_dancourt *book_dancourt_operateurbarry *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operateurbarry *dist2_dancourt_prose_comedy *id_JODELET *date_1702 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jodelet
+
 
 Madame, Madame, visage vous-même, on ne traite point des gens comme nous de visages, afin que vous l'entendiez.
 
@@ -652,3 +660,11 @@ La secret d'être aimé d'elle,
 Pour le mariage, bon,
 Pour le badinage, non.
 
+**** *creator_dancourt *book_dancourt_operateurbarry *style_prose *genre_comedy *dist1_dancourt_prose_comedy_operateurbarry *dist2_dancourt_prose_comedy *id_CASCARET *date_1702 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cascaret
+
+
+Voilà une lettre qu'on m'a dit de rendre à une Madame.
+
+Oui, Madame.
+
+Oui, Madame.

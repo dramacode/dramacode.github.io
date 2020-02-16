@@ -2,6 +2,7 @@
 
 **** *creator_boissy *book_boissy_medecinparoccasion *style_verse *genre_comedy *dist1_boissy_verse_comedy_medecinparoccasion *dist2_boissy_verse_comedy *id_MONTVAL *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_montval
 
+
 Jamais valet ne fut plus impatientant.
 
       Et que ton zèle est lent !
@@ -577,8 +578,8 @@ D'un amour qui n'a pas la richesse en partage.
 
       Quelle gloire !
 
-
 **** *creator_boissy *book_boissy_medecinparoccasion *style_verse *genre_comedy *dist1_boissy_verse_comedy_medecinparoccasion *dist2_boissy_verse_comedy *id_LEBARON *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebaron
+
 
 Oui, ma soeur a raison, c'est trop vivre enterré ;
 .................................................
@@ -905,8 +906,8 @@ Il est toujours poète, et c'est ce que je veux.
 
 Nous devons...
 
-
 **** *creator_boissy *book_boissy_medecinparoccasion *style_verse *genre_comedy *dist1_boissy_verse_comedy_medecinparoccasion *dist2_boissy_verse_comedy *id_LAMARQUISE *date_1745 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lamarquise
+
 
 Tout est prêt pour la chasse ; il est temps de partir.
 
@@ -1275,8 +1276,8 @@ C'est peu de l'avouer, je veux la réparer.
 Votre exemple, monsieur, est des plus héroïques ;
 Je le suis : ils seront mes héritiers uniques.
 
+**** *creator_boissy *book_boissy_medecinparoccasion *style_verse *genre_comedy *dist1_boissy_verse_comedy_medecinparoccasion *dist2_boissy_verse_comedy *id_LUCILE *date_1745 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_lucile
 
-**** *creator_boissy *book_boissy_medecinparoccasion *style_verse *genre_comedy *dist1_boissy_verse_comedy_medecinparoccasion *dist2_boissy_verse_comedy *id_LUCILE *date_1745 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_lucile
 
 Lisette, soutiens-moi ; j'ai besoin de ton bras :
 Je me sens déjà lasse, et n'ai fait que deux pas.
@@ -1468,8 +1469,8 @@ Je la laisse avec vous pour qu'elle vous le dise.
 
       Quel bonheur !
 
-
 **** *creator_boissy *book_boissy_medecinparoccasion *style_verse *genre_comedy *dist1_boissy_verse_comedy_medecinparoccasion *dist2_boissy_verse_comedy *id_CLEON *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleon
+
 
 Je veux rendre la joie à toute la maison,
 Faire rire Lucile, égayer le baron.
@@ -1622,8 +1623,8 @@ Mes enfants, formez vile un si bel assemblage ;
 Soyez riches tous deux par mes justes bienfaits :
 Ce don vous manquait seul, et vous voilà parfaits.
 
-
 **** *creator_boissy *book_boissy_medecinparoccasion *style_verse *genre_comedy *dist1_boissy_verse_comedy_medecinparoccasion *dist2_boissy_verse_comedy *id_LISETTE *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lisette
+
 
 Dites-moi, s'il vous plaît, mon ami, qui vous êtes,
 Pour entrer librement ici comme vous faites.
@@ -2058,8 +2059,8 @@ Vous lui pouvez offrir ici même avantage.
 Cet hymen est sortable, il doit être approuvé.
 Votre nièce craignait...
 
-
 **** *creator_boissy *book_boissy_medecinparoccasion *style_verse *genre_comedy *dist1_boissy_verse_comedy_medecinparoccasion *dist2_boissy_verse_comedy *id_CHAMPAGNE *date_1745 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_champagne
+
 
 Sous ce déguisement, en personne discrète,
 Glissons-nous dans la pince, et parlons à Lisette.
@@ -2396,4 +2397,3 @@ Le sort vient jusque-là de vous favoriser ?
 
       Ah ! Mon coeur la partage.
 Son père vient : son air est d'un heureux présage.
-

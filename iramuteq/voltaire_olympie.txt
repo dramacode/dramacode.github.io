@@ -2,6 +2,7 @@
 
 **** *creator_voltaire *book_voltaire_olympie *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_olympie *dist2_voltaire_verse_tragedy *id_CASSANDRE *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cassandre
 
+
 Sostène, on va finir ces mystères terribles.
 Cassandre espère enfin des dieux moins inflexibles :
 Mes jours seront plus purs, et mes sens moins troublés ;
@@ -447,8 +448,8 @@ Envieras-tu toujours la douceur de mon sort ?
 De ma félicité si ton grand coeur s'irrite,
 Partage-la, crois-moi, prends ce fer, et m'imite.
 
-
 **** *creator_voltaire *book_voltaire_olympie *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_olympie *dist2_voltaire_verse_tragedy *id_ANTIGONE *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antigone
+
 
 Ce secret m'importune, il le faut arracher ;
 Je lirai dans son coeur ce qu'il croit me cacher.
@@ -799,8 +800,8 @@ Maîtres des vils humains, pourquoi les formiez-vous ?
 Qu'avait fait Statira ? Qu'avait fait Olympie ?
 A quoi réservez-vous ma déplorable vie ?
 
-
 **** *creator_voltaire *book_voltaire_olympie *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_olympie *dist2_voltaire_verse_tragedy *id_STATIRA *date_1764 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_statira
+
 
 Ô ciel ! Après quinze ans qu'en ces murs écartés,
 Dans l'ombre du silence, au monde inaccessible,
@@ -1133,8 +1134,8 @@ Tu déchires mon coeur, et tu sais l'attendrir ;
 Console au moins ta mère en la faisant mourir.
 Va, je suis malheureuse, et tu n'es point coupable.
 
-
 **** *creator_voltaire *book_voltaire_olympie *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_olympie *dist2_voltaire_verse_tragedy *id_OLYMPIE *date_1764 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_olympie
+
 
 Protégez à jamais, ô dieux en qui j'espère,
 Le maître généreux qui m'a servi de père,
@@ -1576,8 +1577,8 @@ Tu crois mes lâches feux de mon âme bannis...
 Apprends... que je t'adore... et que je m'en punis.
 Cendres de Statira, recevez Olympie.
 
-
 **** *creator_voltaire *book_voltaire_olympie *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_olympie *dist2_voltaire_verse_tragedy *id_LHIEROPHANTE *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lhierophante
+
 
 Quoi ! Dans ces jours sacrés ! Quoi ! Dans ce temple auguste
 Où Dieu pardonne au crime, et console le juste,
@@ -1866,8 +1867,8 @@ Vous n'avez que ce jour ; il fuit, et le temps presse.
 Arrêtez !... Ô saint temple ! Ô Dieu juste et vengeur !
 Dans quel palais profane a-t-on vu plus d'horreur !
 
-
 **** *creator_voltaire *book_voltaire_olympie *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_olympie *dist2_voltaire_verse_tragedy *id_SOSTENE *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sostene
+
 
       Seigneur, près d'Éphèse assemblés,
 Les guerriers qui servaient sous le roi votre père
@@ -1935,8 +1936,8 @@ Il atteste Alexandre, il atteste Olympie.
 Tremblez pour votre amour, tremblez pour votre vie.
 Venez.
 
-
 **** *creator_voltaire *book_voltaire_olympie *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_olympie *dist2_voltaire_verse_tragedy *id_HERMAS *date_1764 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hermas
+
 
 Seigneur, vous m'étonnez quand l'Asie en alarmes
 Voit cent trônes sanglants disputés par les armes,
@@ -2017,3 +2018,35 @@ Je vois du temple saint l'auguste hiérophante
 Qui mouille de ses pleurs les traces de ses pas ;
 Les prêtresses des dieux la tiennent dans leurs bras.
 
+**** *creator_voltaire *book_voltaire_olympie *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_olympie *dist2_voltaire_verse_tragedy *id_PRETRES *date_1764 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_pretres
+
+
+On menace le temple, et les divins mystères
+Sont bientôt profanés par des mains téméraires ;
+Les deux rois désunis disputent à nos yeux
+Le droit de commander où commandent les dieux :
+Voilà ce qu'annonçaient ces voûtes gémissantes,
+Et sous nos pieds craintifs nos demeures tremblantes.
+Il semble que le ciel veuille nous informer
+Que la terre l'offense, et qu'il faut le calmer !
+Tout un peuple éperdu, que la discorde excite,
+Vers les parvis sacrés vole et se précipite ;
+Éphèse est divisée entre deux factions.
+Nous ressemblons bientôt aux autres nations.
+La sainteté, la paix, les moeurs, vont disparaître ;
+Les rois l'emporteront, et nous aurons un maître.
+
+      Ô ciel !
+
+**** *creator_voltaire *book_voltaire_olympie *style_verse *genre_tragedy *dist1_voltaire_verse_tragedy_olympie *dist2_voltaire_verse_tragedy *id_PRETRESSES *date_1764 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_pretresses
+
+
+Arzane en sa retraite, obstinée au silence,
+Arrosant de ses pleurs les images des dieux,
+Seigneur, vous le savez, se cache à tous les yeux ;
+En proie à ses chagrins, de langueur affaiblie,
+Elle implore la fin d'une mourante vie.
+
+      J'obéis.
+
+Princesse, il en est temps.

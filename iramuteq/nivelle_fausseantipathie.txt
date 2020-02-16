@@ -2,6 +2,7 @@
 
 **** *creator_nivelle *book_nivelle_fausseantipathie *style_verse *genre_comedy *dist1_nivelle_verse_comedy_fausseantipathie *dist2_nivelle_verse_comedy *id_LEONORE *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leonore
 
+
       Oui. Je voulais sortir.
 Mais de la part d'Orphise on vient de m'avertir
 Qu'elle veut me parler ; ainsi je vais l'attendre.
@@ -446,8 +447,8 @@ Quelle horreur !... Laissez-moi...
 
 Ô sort trop fortuné ! C'est mon époux que j'aime.
 
-
 **** *creator_nivelle *book_nivelle_fausseantipathie *style_verse *genre_comedy *dist1_nivelle_verse_comedy_fausseantipathie *dist2_nivelle_verse_comedy *id_DAMON *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_damon
+
 
 L'ennui n'habite point le séjour où vous êtes.
 Des motifs plus pressants, d'autres peines secrètes...
@@ -698,8 +699,8 @@ Je renais... Ah ! Madame... Ah ! Ma chère Silvie...
 Tenez... je suis... voilà votre consentement ;
 Retrouvez un époux dans le plus tendre amant.
 
-
 **** *creator_nivelle *book_nivelle_fausseantipathie *style_verse *genre_comedy *dist1_nivelle_verse_comedy_fausseantipathie *dist2_nivelle_verse_comedy *id_GERONTE *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_geronte
+
 
 Léonore est en pleurs ? D'où vient qu'elle m'évite ?
 
@@ -892,8 +893,8 @@ Voyons donc.
 La bonne antipathie ! Ah ! Gardez-la toujours.
 Haïssez-vous ainsi, le reste de vos jours.
 
-
 **** *creator_nivelle *book_nivelle_fausseantipathie *style_verse *genre_comedy *dist1_nivelle_verse_comedy_fausseantipathie *dist2_nivelle_verse_comedy *id_ORPHISE *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orphise
+
 
 Vous pouvez demeurer. Vous avez quelque adresse ;
 J'aurai besoin de vous, et de votre maîtresse.
@@ -1186,8 +1187,8 @@ Damon, y songez-vous ?
 
       Ah, grand dieu !
 
-
 **** *creator_nivelle *book_nivelle_fausseantipathie *style_verse *genre_comedy *dist1_nivelle_verse_comedy_fausseantipathie *dist2_nivelle_verse_comedy *id_FRONTIN *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_frontin
+
 
       C'est elle...
 
@@ -1256,8 +1257,8 @@ Oui, si j'étais sorcier. Ah ! L'enquête plaisante !
 
 Vos gens et vos chevaux, tout est prêt pour aller...
 
-
 **** *creator_nivelle *book_nivelle_fausseantipathie *style_verse *genre_comedy *dist1_nivelle_verse_comedy_fausseantipathie *dist2_nivelle_verse_comedy *id_NERINE *date_1744 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nerine
+
 
 Ton maître et ma maîtresse auraient bien dû s'aimer.
 C'est lui...
@@ -1540,4 +1541,3 @@ Ferme, tenez-vous bien.
 Quoi donc ?
 
       Pour le coup, il s'oublie.
-

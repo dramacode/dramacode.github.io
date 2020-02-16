@@ -2,6 +2,7 @@
 
 **** *creator_pellet-desbarreaux *book_pellet-desbarreaux_moliereatoulouse *style_verse *genre_comedy *dist1_pellet-desbarreaux_verse_comedy_moliereatoulouse *dist2_pellet-desbarreaux_verse_comedy *id_MOLIERE *date_1787 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moliere
 
+
 Nous sommes, cher Lagrange, encor au même point,
 Tout me dénie un sort prospère ;
 Je sollicite, on délibère,
@@ -349,8 +350,8 @@ Toulouse de Molière eut le premier hommage,
 Et reçut, accueillant son plus ancien ouvrage,
 Le premier vœu public qu'il fit pour la vertu.
 
-
 **** *creator_pellet-desbarreaux *book_pellet-desbarreaux_moliereatoulouse *style_verse *genre_comedy *dist1_pellet-desbarreaux_verse_comedy_moliereatoulouse *dist2_pellet-desbarreaux_verse_comedy *id_MADEMOISELLEBRECOUR *date_1787 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellebrecour
+
 
 Pourquoi faut-il que je vous dise,
 Que vous avez encor agi sans réfléchir ?
@@ -448,8 +449,8 @@ Que s'il avait été formé par la nature.
 Ô vous ! Qui prîtes soin de ma plus tendre enfance ;
 Que puis-je faire après tant de bienfaits ?...
 
-
 **** *creator_pellet-desbarreaux *book_pellet-desbarreaux_moliereatoulouse *style_verse *genre_comedy *dist1_pellet-desbarreaux_verse_comedy_moliereatoulouse *dist2_pellet-desbarreaux_verse_comedy *id_LAGRANGE *date_1787 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lagrange
+
 
 Les Magistrats qu'il sollicite,
 Ont peut-être en ce jour voulu le recevoir,
@@ -693,8 +694,8 @@ Le miroir de la vérité.
 Vive, vive Molière ; ah ! Quel heureux moment ;
 De jouer en ces lieux vous avez l'agrément.
 
-
 **** *creator_pellet-desbarreaux *book_pellet-desbarreaux_moliereatoulouse *style_verse *genre_comedy *dist1_pellet-desbarreaux_verse_comedy_moliereatoulouse *dist2_pellet-desbarreaux_verse_comedy *id_MONSIEURDESAINTFIRMIN *date_1787 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdesaintfirmin
+
 
 Peut-être mon entrée est chez vous importune,
 Si vous vous occupez surtout en cet instant ;
@@ -765,8 +766,8 @@ Vous uniriez Lagrange à la jeune Brécour,
 Et si ce jour est heureux pour Molière,
 Il le serait aussi pour leur amour.
 
-
 **** *creator_pellet-desbarreaux *book_pellet-desbarreaux_moliereatoulouse *style_verse *genre_comedy *dist1_pellet-desbarreaux_verse_comedy_moliereatoulouse *dist2_pellet-desbarreaux_verse_comedy *id_LEMARQUIS *date_1787 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemarquis
+
 
 Mesdames, pardonnez à mon empressement,
 Ma démarche peut-être est trop peu régulière,
@@ -920,8 +921,8 @@ Je veux vous voir ici triompher de l'envie ;
 Et je veux leur prouver en leur donnant le ton
 Vos talents et ma modestie.
 
-
 **** *creator_pellet-desbarreaux *book_pellet-desbarreaux_moliereatoulouse *style_verse *genre_comedy *dist1_pellet-desbarreaux_verse_comedy_moliereatoulouse *dist2_pellet-desbarreaux_verse_comedy *id_PIRLON *date_1787 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pirlon
+
 
 Quoique j'aie en ces lieux liberté toute entière,
 Veuillez me dire, mon enfant,
@@ -1031,8 +1032,8 @@ Il est, Monsieur, six heures et demie,
 Je dois prier le ciel pour votre repentir,
 Et ce pieux devoir m'oblige de sortir.
 
-
 **** *creator_pellet-desbarreaux *book_pellet-desbarreaux_moliereatoulouse *style_verse *genre_comedy *dist1_pellet-desbarreaux_verse_comedy_moliereatoulouse *dist2_pellet-desbarreaux_verse_comedy *id_LESBIN *date_1787 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesbin
+
 
 Madame Béjart vous demande.
 
@@ -1129,4 +1130,3 @@ Et fort innocemment j'ai brûlé tout le reste.
 
 Très volontiers, quand un maître est colère,
 Il est toujours prudent de l'éloigner de nous.
-

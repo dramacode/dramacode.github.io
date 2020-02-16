@@ -2,6 +2,7 @@
 
 **** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *id_MEDEE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_medee
 
+
 Où suis-je malheureuse ? Où portai-je mes pas ?
 Qu'ai-je vu ? Qu'ai-je ouï ? Je ne me connais pas.
 Furieuse, je cours, et doute si je veille.
@@ -752,8 +753,8 @@ Tes voeux sont satisfaits, pour jamais je te laisse.
 Adieu ; je t'abandonne aux horreurs de ton sort.
 Ingrat ! Je te hais trop, pour te donner la mort.
 
-
 **** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *id_JASON *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jason
+
 
 Je sais ce que je dois à l'amour de Médée.
 Cesse, Iphite, à mes yeux d'en retracer l'idée.
@@ -1164,8 +1165,8 @@ Déplorable Créüse ! Infortuné Créon !
 Ô mes fils ! Jouissez de la seule vengeance
 Que les Dieux inhumains laissent en ma puissance.
 
-
 **** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *id_CREUSE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_creuse
+
 
 Je croyais, en ces lieux, trouver le Roi mon père.
 On vient de m'assurer qu'il vous cherche, Seigneur.
@@ -1293,8 +1294,8 @@ Ma voix, mon sang se glace, et mes yeux s'obscurcissent.
 Malgré le sort cruel qui va nous désunir,
 Mon coeur vous aime encore à son dernier soupir.
 
-
 **** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *id_IPHITE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iphite
+
 
 De ce nouvel amour, la trompeuse douceur
 Séduit votre raison par son appât flatteur.
@@ -1337,8 +1338,13 @@ Et vous semblez toucher au sort le plus heureux.
 Ah ! Seigneur... Il n'est plus. Quels horribles malheurs,
 Ô trop funeste amour, produisent tes fureurs.
 
+**** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *id_CYDIPPE *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cydippe
+
+
+Elle expire, Seigneur.
 
 **** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *id_RHODOPE *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rhodope
+
 
 Madame, cet hymen se célèbre demain.
 
@@ -1415,8 +1421,8 @@ Servez-vous des moments que ce trouble vous laisse.
 Profitez de l'horreur qui règne dans ces lieux,
 Et fuyez pour jamais leur aspect odieux.
 
-
 **** *creator_longepierre *book_longepierre_medee *style_verse *genre_tragedy *dist1_longepierre_verse_tragedy_medee *dist2_longepierre_verse_tragedy *id_CREON *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_creon
+
 
 Je vous cherchais, Seigneur. Savez-vous qu'en ces lieux
 Un nouvel envoyé du Roi de Thessalie
@@ -1527,4 +1533,3 @@ Précipite tes pas ; fuis loin, fuis sans retour" ;
 Ou, contentant les Dieux las de tes injustices,
 Tu périras, barbare ! Au milieu des supplices.
 Tu peux choisir. Adieu.
-

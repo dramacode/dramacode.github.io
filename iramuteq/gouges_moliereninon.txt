@@ -2,6 +2,7 @@
 
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_moliere *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_moliere
 
+
 Chapelle, l'interrompons-nous ?
 
 Mais, si c'est à un ami, nous commettons une imprudence.
@@ -344,8 +345,8 @@ Oui, mes amis ; joignez-vous à mes instances, et détournons-la de ce fatal pr
 
 Elle vient de faire le bonheur de ses enfans ; mais vous qui l'avez étudiée dans toutes les circonstances de sa vie, et qui la connoissez depuis plus longtems que nous, pouvons-nous craindre cette fatale résolution ?
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_le-grand-conde *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_legrandconde
+
 
 Levez-vous, Desyveteaux ; est-ce une fête que vous me donnez ? On vous reconnoît toujours par votre aimable galanterie. Je vois avec plaisir qu'on s'est trompé sur votre compte, et que vous êtes au contraire très-heureux.
 
@@ -450,8 +451,8 @@ Madame, je vais en peu de mots vous raconter son aventure.
 
 Elle sait tirer avec esprit, parti des circonstances.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_la-chatre *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lachatre
+
 
 L'ingrate ! la voilà ; ai-je pu compter un instant sur sa constance ?
 
@@ -493,8 +494,8 @@ Peut être, dites-vous vrai ?
 
 Venez, Madame Scaron, je vous recommande ma chère Ninon, que votre amitié ne l'abandonne pas.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_gourville *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gourville
+
 
 Je suis confus de paraître devant elle, sur-tout après l'avoir soupçonnée d'une si grande bassesse : peut être n'ai-je point tort. Voyons si je trouverai dans cette femme étonnante⁎ plus de probité que dans cet homme de bien.
 
@@ -522,8 +523,8 @@ Morbleu, mes amis, essayons de le rappeller à la raison ; puisque l'amitié a 
 
 En voici bien d'un autre ! Qu'est-ce que cela veut dire ?
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_le-comte-de-fiesque *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomtedefiesque
+
 
 Cet aveu me dédommage de la fausse allarme qu'on m'a donnée, ce matin, de votre part.
 
@@ -629,8 +630,8 @@ Je vais me retirer, Mademoiselle de l'Enclos ; permettez-moi de vous faire mes 
 
 Adieu, Ninon.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_de-belfort *date_1788 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_debelfort
+
 
 Je suis tout déconcerté, je ne puis définir la cause de ma timidité.
 Mademoiselle, vous connoissez le motif qui m'a fait prendre la liberté de me présenter chez vous.
@@ -671,8 +672,8 @@ O ma mère, mon incomparable mère, quelle félicité pour moi de vous devoir le
 
 Vous, ma mère ! Je ne puis y consentir.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_chapelle *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_chapelle
+
 
 Oui, si c'est à un amant qu'elle écrit.
 
@@ -756,8 +757,8 @@ Puis-je croire ce qui vient de se répandre dans tout Paris ? on dit que vous a
 
 Venez voir arriver tous vos amis en foule chez vous, jusqu'au malheureuse⁎ Scaron qui s'est fait asseoir à travers la porte pour vous en barrer la sortie. Venez les voir tous plus morts que vifs.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_saint-evremont *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_saintevremont
+
 
 Vous vous amusez, Ninon, mais pour toute autre que vous j'aurais grand-peur.
 
@@ -778,8 +779,8 @@ Permettez que je vous laisse causer ensemble.
 Son esprit nous l'enlève, mais son cœur nous la rendra.
 Fin de la Pièce.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_scaron *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_scaron
+
 
 Je ne suis bien qu'ici.
 Adieu, mes enfans, jusqu'au revoir, à ce soir.
@@ -870,8 +871,8 @@ Sa gloire ne vieillira jamais. Ses Fables seront du goût de tous les tems.
 
 Je n'en reviens pas. Pauvre cher homme ! Comme le voilà défiguré. On ne le reconnoîtroit jamais.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_desyveteaux *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_desyveteaux
+
 
 « De mes Moutons le nombre augmente,
 L'Agneau suit la brebis bélante ;
@@ -941,8 +942,8 @@ Non, Bergère, non jamais la gloire ne fera de moi un second Renaud. Le Berger C
 
 Déesse, que je ne connois point, et qui me paroissez étrangère en cette Cour, sans doute, vous êtes Bellone, à côté du Dieu Mars. Souffrez que le Berger Coridon avec sa Bergère vous offre son hommage.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_chateauroux *date_1788 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_chateauroux
+
 
 Je crains d'être indiscret, en vous faisant part de mes ennuis dans une première visite.
 
@@ -984,8 +985,8 @@ Pourquoi nous condamner au silence ? Je ne puis que m'honorer d'avoir donné ma
 
 Eh bien, soit, il faut faire ce que vous voulez, adorable Ninon.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_francisque *date_1788 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_francisque
+
 
 Je suis tout moulu. Les Maîtres regardent un canapé comme un meuble fort commode ; et moi, je trouve qu'on n'y dort pas à son aise. Il faut convenir que l'état de Valet est un métier bien pénible. On ne nous laisse, ni le tems de prendre nos repas, ni celui de reposer. Cependant, mon sort est moins à plaindre que celui de ceux de mon état. Etre au service de l'aimable et de la sensible Ninon, n'est-ce pas servir toutes les Divinités ensemble ?
 Il n'est pas tard, tout le monde repose encore : allons, essayons de refaire un petit somme.
@@ -1061,8 +1062,8 @@ A la bonne heure, et je cours vous annoncer.
 
 Monsieur de Saint-Evremont, Monsieur de Chateauroux.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_mathurin *date_1788 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_mathurin
+
 
 Tatiguenne⁎ ! que ça me paroît drôle de faire comme si j'avions bien des bestiaux à garder, j'avons beau répéter tous les jours la même manigance, ça nous paroît toujours comme un songe.
 
@@ -1162,8 +1163,8 @@ Jarnigoi⁎ ! que c'est bien fait, et qu'elle a bien l'air d'une Reine là-dess
 
 Elle va lui en conter⁎ de belles, ma foi, la Bergère : ah ! la fine mouche ! Elle en revendra encore à la Reine.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_blaise *date_1788 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_blaise
+
 
 Défais-toi donc du nom de la Fleur, puisqu'il a pris fantaisie à mon maître de me débaptiser pour me donner le nom de Blaise et à toi celui de Lucas. Il ne nous pardonnerait pas la plus petite distraction à ce sujet, et sur le champ notre compte serait au bout. J'aime autant garder des moutons que de valeter du matin au soir dans Paris.
 
@@ -1214,8 +1215,8 @@ Cet honnête homme que vous voyez, Mesdames, est le respectable père de la berg
 
 Te tairas-tu : suis-nous, tu n'as rien à faire ici.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_lucas *date_1788 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lucas
+
 
 Eh bien, la Fleur, les extravagances de notre Maître ne font que croître et embellir tous les jours.
 
@@ -1249,8 +1250,8 @@ Vous ne connoissez que cela : c'est cette joueuse de guitare.
 
 Ce sont des Bergers et Bergères de la Bergerie de Monsieur Desyveteaux. C'est-à-dire les aimables Compagnes de Mademoiselle Dupuis. La folie de notre Maître est achevée, et ces diablesses font tout ce qu'elles veulent. Je viens de leur voir arranger tous leurs beaux complimens : elles entendent fort bien cela.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_reine-christine *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_reinechristine
+
 
 Vous ! Mademoiselle de l'Enclos à mes genoux ! je vous le pardonne. On est si souvent aux vôtres. Il faut d'abord, pour vous mettre plus à votre aise, que je vous embrasse. Je veux que deux baisers soient les prémices de notre liaison.
 Songez que je suis ici une simple particulière, et que je ne veux point de distinction.
@@ -1316,8 +1317,8 @@ Elle entend à merveille son rôle.
 
 Jamais je n'ai reçu d'hommage qui m'ait plus flattée que celui que je reçois dans votre aimable société, Mademoiselle de l'Enclos : il me sera toujours cher, et jamais je ne l'oublierai. Il est tems cependant de vous faire mes remerciemens et mes adieux. Je ne me sépare d'une si aimable assemblée (saluant tout le monde) qu'avec tous les regrets imaginables. Nous nous écrirons, Mademoiselle de l'Enclos, et j'espère que vous me rappellerez dans l'esprit de vos amis. J'y compte.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_ninon *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ninon
+
 
 Quel homme insupportable ! il faut donc, une bonne fois, m'expliquer avec lui.
 Je vous fais un million d'excuses, Monsieur le Grand-Prieur, de paraître devant vous dans le négligé du matin. Ordinairement on ne visite pas les femmes de si bonne heure ; sans être coquette, je tiens à la décence.
@@ -1980,8 +1981,8 @@ Mon ami, j'en suis fâchée⁎, mais ce parti est nécessaire. Je me le dois, je
 
 Leur tendre amitié m'afflige, mais elle ne peut changer ma résolution.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_olympe *date_1788 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_olympe
+
 
 Je ne crains point de m'expliquer devant vous, Mademoiselle, vos rares vertus⁎ me sont connues et mes malheurs intéresseront votre ame. Heureuse⁎ si je peux obtenir votre estime et votre appui !
 
@@ -2031,8 +2032,8 @@ Mon pere, pardonnez à votre fille.
 
 O mon bienfaiteur ! mon cher Monsieur Molière, si ma reconnoissance pouvoit vivre aussi long-tems que votre mémoire, je desirerois qu'elle apprit aux siècles à venir tout ce que je vous dois.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_mad-scaron *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madscaron
+
 
 C'en est fait.
 
@@ -2064,8 +2065,8 @@ Je vous laisse, ma bonne amie ; je ne dois pas dans cette circonstance quitter 
 
 Grande Reine, acceptez cette couronne d'olivier que le respect et l'amitié vous offrent.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_marquise-sabliere *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marquisesabliere
+
 
 Je sais son aventure. Monsieur de Gourville vient de me la raconter. Elle est on ne peut pas plus plaisante, et sa folie est aussi gaie qu'inconcevable.
 
@@ -2077,8 +2078,8 @@ Y pensez-vous, Mademoiselle de l'Enclos ? Eh, quelles sont les personnes qui po
 
 Pour moi, je m'applaudis d'être d'un avis différent sur votre compte, de celui de ces prétendues femmes de bien.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_mlle-le-roi *date_1788 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_mlleleroi
+
 
 Mais vous, Monsieur Francisque, vous l'êtes bien.
 
@@ -2171,8 +2172,8 @@ Mademoiselle, c'est un jeune homme fort bien mis, et d'une figure charmante, qui
 
 Monsieur, voilà Mademoiselle.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_mignard *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mignard
+
 
 Je viens d'en entendre le récit, et j'en ai encore l'imagination remplie.
 
@@ -2182,8 +2183,8 @@ Oui, mais elle n'a point de mémoire.
 
 Dénuées de qualités estimables, elles cherchent à les obscurcir en la personne qui les possède : eh ! quelle est la femme qui mérite mieux que vous, Mademoiselle, l'éloge de tous les honnêtes gens.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_la-dupuis *date_1788 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ladupuis
+
 
 Cet agneau chéri que vos mains mènent paître, abandonnez-le à son instinct innocent. Qu'il paisse avec la même liberté que celle dont vous m'entretenez de vos amours.
 
@@ -2263,8 +2264,8 @@ Pour s'en punir, il quitta cette Cour ;
 Et ma douleur, qui venge sa mémoire,
 Expie en moi le crime de l'amour.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_marechal-estrees *date_1788 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marechalestrees
+
 
 Mais j'ai ces mêmes droits, et vous ne pouvez me les ravir, sans la plus grande injustice.
 
@@ -2304,8 +2305,8 @@ Le voici avec Chapelle, et Saint-Evremont.
 
 La remarque est juste. Heureux⁎, mon Prince, ceux qui ont servi sous vos drapeaux.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_exempt *date_1788 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_exempt
+
 
 Je viens, Mademoiselle, la larme à l'œil, vous signifier des ordres désagréables et cruels à remplir pour un galant⁎ homme, mais que le devoir impose.
 
@@ -2321,8 +2322,8 @@ C'étoient d'abord les intentions de la Reine, cependant elle vous laisse le cho
 
 Monseigneur, je n'ai rien à vous refuser, d'autant plus que je crois sans peine, que la Reine aura égard à vos représentations⁎.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_president-effiat *date_1788 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_presidenteffiat
+
 
 Non, Monsieur le Maréchal, je ne puis vous céder mes droits sur ce point ; ce sont ceux de la nature, et je les réclame.
 
@@ -2339,8 +2340,8 @@ Ne l'avais-je pas bien dit ?
 
 Toujours gai au milieu des tourmens.
 
-
 **** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_grand-prieur *date_1788 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_grandprieur
+
 
 Ecoute, mon ami, j'ai à te parler pour tes intérêts et les miens.
 
@@ -2372,3 +2373,17 @@ Ces gens-là, sans doute, ont un autre caractère que le mien. Ils espèrent fin
 
 Je saurai me passer de l'une et de l'autre. Je vous vois actuellement telle que vous êtes ; vous ne serez plus importunée de mes assiduités. Bien/ /tôt vous saurez à quoi vous en tenir sur mon compte.
 
+**** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_porteur1 *date_1788 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_porteur1
+
+
+Jarnigoi⁎ ! Monsieur Scaron, si vous donniez quelques sous, j'irions boire à votre santé.
+
+**** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_porteur2 *date_1788 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_porteur2
+
+
+Tiens, prenons notre parti, il n'y a rien à faire pour aujourd'hui.
+
+**** *creator_gouges *book_gouges_moliereninon *style_prose *genre_comedy *dist1_gouges_prose_comedy_moliereninon *dist2_gouges_prose_comedy *id_le-valet-de-chambre *date_1788 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_levaletdechambre
+
+
+C'est de la part de Monsieur le Comte de Fiesque.

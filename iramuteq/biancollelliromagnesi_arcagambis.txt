@@ -2,6 +2,7 @@
 
 **** *creator_biancollelliromagnesi *book_biancollelliromagnesi_arcagambis *style_verse *genre_tragedy *dist1_biancollelliromagnesi_verse_tragedy_arcagambis *dist2_biancollelliromagnesi_verse_tragedy *id_ARCAGAMBIS *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arcagambis
 
+
       Gardes, qu'on le saisisse :
 Oui lui-même Gargame, allez et de ce pas
 Dans la même prison qu'on enferme Hierbas.
@@ -158,8 +159,8 @@ Ton malheureux amour t'ordonne de la suivre.
 Ce jour par notre mort devait être marqué,
 Justes Dieux ! C'en est fait, mon songe est expliqué.
 
+**** *creator_biancollelliromagnesi *book_biancollelliromagnesi_arcagambis *style_verse *genre_tragedy *dist1_biancollelliromagnesi_verse_tragedy_arcagambis *dist2_biancollelliromagnesi_verse_tragedy *id_THAMIRE *date_1726 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_thamire
 
-**** *creator_biancollelliromagnesi *book_biancollelliromagnesi_arcagambis *style_verse *genre_tragedy *dist1_biancollelliromagnesi_verse_tragedy_arcagambis *dist2_biancollelliromagnesi_verse_tragedy *id_THAMIRE *date_1726 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_thamire
 
 En croirai-je le bruit, qui vient de se répandre,
 Seigneur, un étranger qui ne peut se défendre
@@ -211,8 +212,8 @@ Ou donne moi la mort, ou rends-moi mon Gargame ;
 En vain dans la prison on le cache aujourd'hui ;
 Mon cœur malgré tes soins y soupire avec lui.
 
-
 **** *creator_biancollelliromagnesi *book_biancollelliromagnesi_arcagambis *style_verse *genre_tragedy *dist1_biancollelliromagnesi_verse_tragedy_arcagambis *dist2_biancollelliromagnesi_verse_tragedy *id_TETONICE *date_1726 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_tetonice
+
 
 Vous vous creusez vous-même un affreux précipice,
 Oh Ciel qu'avez-vous dit !
@@ -245,8 +246,8 @@ Lui dit-elle ?
 
 Elle veut lui répondre, et soudain elle expire.
 
+**** *creator_biancollelliromagnesi *book_biancollelliromagnesi_arcagambis *style_verse *genre_tragedy *dist1_biancollelliromagnesi_verse_tragedy_arcagambis *dist2_biancollelliromagnesi_verse_tragedy *id_GARGAME *date_1726 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_gargame
 
-**** *creator_biancollelliromagnesi *book_biancollelliromagnesi_arcagambis *style_verse *genre_tragedy *dist1_biancollelliromagnesi_verse_tragedy_arcagambis *dist2_biancollelliromagnesi_verse_tragedy *id_GARGAME *date_1726 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_gargame
 
 Oui, je l'ai résolu, tu m'en parles en vain.
 
@@ -377,8 +378,8 @@ Laisse-moi terminer des jours que je déteste.
 
 Il faut donc m'immoler en ne me tuant pas.
 
-
 **** *creator_biancollelliromagnesi *book_biancollelliromagnesi_arcagambis *style_verse *genre_tragedy *dist1_biancollelliromagnesi_verse_tragedy_arcagambis *dist2_biancollelliromagnesi_verse_tragedy *id_HIERBAS *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hierbas
+
 
 Gargame pourrait-il former un tel dessein ?
 
@@ -454,8 +455,8 @@ Le trône doit Seigneur adoucir vos regrets.
 Vous n'accomplirez point un dessein si funeste,
 Vous vous devez Seigneur au sein de vos États.
 
-
 **** *creator_biancollelliromagnesi *book_biancollelliromagnesi_arcagambis *style_verse *genre_tragedy *dist1_biancollelliromagnesi_verse_tragedy_arcagambis *dist2_biancollelliromagnesi_verse_tragedy *id_NABOTAS *date_1726 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_nabotas
+
 
 Seigneur, ce changement a lieu de de ma surprendre,
 J'en cherche les motifs, et n'y puis rien comprendre,
@@ -491,4 +492,3 @@ Il pourrait bien, Seigneur, l'épouser avant vous.
       Comptez sur mon courage,
 Je saurai de ce soin dignement m'acquitter,
 Malheur à votre fils, s'il m'ose résister.
-

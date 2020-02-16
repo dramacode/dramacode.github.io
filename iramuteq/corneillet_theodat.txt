@@ -2,6 +2,7 @@
 
 **** *creator_corneillet *book_corneillet_theodat *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_theodat *dist2_corneillet_verse_tragedy *id_amalasonte *date_1673 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_amalasonte
 
+
 Enfin Justinian n'a pû voir sans alarmes⁎
 L'effroy qu'ont pris les Siens du succès de nos armes ;
 Et puis qu'il fait retraite apres tant de combats,
@@ -673,8 +674,8 @@ Préviens-moy, si tu veux te sauver de ma rage ;
 Autrement, si la voye encor s'en peut trouver,
 J'ay commencé trop bien, pour ne pas achever.
 
-
 **** *creator_corneillet *book_corneillet_theodat *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_theodat *dist2_corneillet_verse_tragedy *id_theodat *date_1673 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_theodat
+
 
 Elle répand sur moy ce qu'elle a de plus doux,
 Je m'en plaindrois à tort ; quelque faveur nouvelle
@@ -1307,8 +1308,8 @@ Madame, allons au Peuple ofrir une autre Reyne,
 Et par tout ce qui peut luy répondre de vous,
 L'assurer sous vos loix du Regne le plus doux.
 
-
 **** *creator_corneillet *book_corneillet_theodat *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_theodat *dist2_corneillet_verse_tragedy *id_ildegonde *date_1673 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ildegonde
+
 
 Theodat est heureux, d'avoir tant de suffrages.
 
@@ -1794,8 +1795,8 @@ Vous appellant au Trône, il vous y veut sans crime,
 Et qu'on puisse au hasard seulement imputer
 L'Arrest que sa justice a fait executer.
 
-
 **** *creator_corneillet *book_corneillet_theodat *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_theodat *dist2_corneillet_verse_tragedy *id_honoric *date_1673 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_honoric
+
 
 Enfin de Theodat la gloire⁎ est assurée,
 La Reyne en sa faveur s'est tout haut déclarée,
@@ -1886,8 +1887,8 @@ Mais j'ay crû qu'à vos yeux je devois le répandre,
 Et marquer à ma Reyne, en renonçant au jour,
 Combien je sens les maux qu'a causez mon amour.
 
-
 **** *creator_corneillet *book_corneillet_theodat *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_theodat *dist2_corneillet_verse_tragedy *id_ataulphe *date_1673 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ataulphe
+
 
       Madame,
 
@@ -1912,8 +1913,8 @@ Et quoy que vostre gloire⁎…
       Je crains bien,
 Madame …
 
-
 **** *creator_corneillet *book_corneillet_theodat *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_theodat *dist2_corneillet_verse_tragedy *id_gepilde *date_1673 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_gepilde
+
 
       Enfin vous le voyez, Madame ;
 Mieux que vous ne pensiez j'avois leu dans son ame,
@@ -1971,8 +1972,8 @@ Ce vaste embrasement s'éteignit avec peine.
 
 Cachez ce mouvement, le voicy qui s'avance.
 
-
 **** *creator_corneillet *book_corneillet_theodat *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_theodat *dist2_corneillet_verse_tragedy *id_valmire *date_1673 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_valmire
+
 
 Ce pouvoir absolu que la Reyne luy donne,
 Permet peu de douter qu'elle ne le couronne,
@@ -2048,8 +2049,8 @@ Et je vous y croyois l'esprit moins disposé
 En faveur d'un Amant si longtemps méprisé.
 L'Amour de vos dédains punit bien l'injustice.
 
-
 **** *creator_corneillet *book_corneillet_theodat *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_theodat *dist2_corneillet_verse_tragedy *id_euthar *date_1673 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_euthar
+
 
 Du trouble⁎ où je vous voy, Seigneur, que puis-je croire ?
 Il n'est rien dont l'éclat⁎ ne cede à vostre gloire⁎;
@@ -2166,4 +2167,3 @@ A ses pieds tout-à-coup elle tombe, elle expire.
 Chacun s'unit alors pour vous ceder l'Empire,
 Et cette mort par tout faisant un prompt éclat⁎,
 On n'entend plus crier que vive Theodat.
-

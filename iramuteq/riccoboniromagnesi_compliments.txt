@@ -2,6 +2,7 @@
 
 **** *creator_riccoboniromagnesi *book_riccoboniromagnesi_compliments *style_verse *genre_piece *dist1_riccoboniromagnesi_verse_piece_compliments *dist2_riccoboniromagnesi_verse_piece *id_MADEMOISELLESILVIA *date_1736 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellesilvia
 
+
 Aux Dames ! Il y a dans cette politesse plus d'orgueil que de civilité. Vous voulez faire entendre que les meilleurs compliments sont réservés pour la fin.
 
 Et vous pourriez vous tromper.
@@ -135,8 +136,170 @@ Et verrons
 Nos souhaits
 Satisfaits.
 
+**** *creator_riccoboniromagnesi *book_riccoboniromagnesi_compliments *style_verse *genre_piece *dist1_riccoboniromagnesi_verse_piece_compliments *dist2_riccoboniromagnesi_verse_piece *id_MADEMOISELLERICCOBONI *date_1736 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellericcoboni
+
+
+Qui me l'a composé ? Moi-même.
+
+Vous me croyez donc bien bornée. Je ne serais pas capable de produire une pareille bagatelle.
+
+Quel bruit soudain se fait entendre ?
+D'où naît ce tumulte enchanteur ?
+Quel plaisir vient de se répandre
+Dans les regards du spectateur ?
+J'y vois ces marques d'allégresse,
+Cette vive et flatteuse ivresse
+Dont l'heureux acteur s'enhardit.
+Content d'un zèle qui le flatte,
+Le public généreux éclate ;
+Il nous approuve, il applaudit.
+De cette aimable récompense
+Naissent nos soins et nos travaux,
+Un succès produit l'espérance
+D'obtenir des succès nouveaux.
+Le Nautonier dans la tempête,
+Aux vents qui menacent sa tête,
+Jure de ne plus se risquer ;
+Mais si les faveurs de Neptune
+Ont fait prospérer sa fortune,
+Il ose encor se rembarquer.
+Que ta destinée est flatteuse !
+Toi dont les talents séducteurs
+T'offrent dans ta carrière heureuse,
+Le plaisir d'enchaîner les coeurs.
+Charmé de se laisser séduire,
+Tout s'attendrit, s'égaye, admire,
+Suivant ce que ton art prescrit;
+Et la multitude étonnée,
+Sans cesse où tu veux entraînée,
+Semble n'avoir qu'un même esprit.
+Que vois-je ? Arrête téméraire,
+Ton bonheur t'aveugle et te perd
+Quoi donc la sûreté de plaire
+Te nuit plus qu'elle ne te sert?
+Tout rempli d'un orgueil extrême
+Tu t'abandonnes, à toi-même
+Tu ne veux plus rien écouter.
+Gardes-toi de te méconnaître;
+Plus on est chéri de son maître,
+Plus sa haine est à redouter.
+De cette vaine confiance
+Gardons-nous de nous enivrer.
+Qui marche avec trop d'assurance,
+Est sur le point de s'égarer.
+Quand le Public nous encourage,
+C'est à lui qu'il faut rendre hommage
+Des traits où nous réussissons.
+Soit qu'il punisse ou qu'il pardonne,
+Jusqu'aux éloges qu'il nous donne,
+Tout doit nous servir de leçons.
+
+**** *creator_riccoboniromagnesi *book_riccoboniromagnesi_compliments *style_verse *genre_piece *dist1_riccoboniromagnesi_verse_piece_compliments *dist2_riccoboniromagnesi_verse_piece *id_MADEMOISELLEFLAMINIA *date_1736 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoiselleflaminia
+
+
+Quand la jeunesse aimable
+Montre quelques talents ;
+Aux spectateurs galants
+Tout paraît admirable.
+De ces premiers attraits,
+Quand l'éclat se retire,
+Quoique nous puissions dire
+L'on trouve tout mauvais.
+
+Qu'un auteur lise à table
+Quelque nouvel écrit,
+On s'intéresse, on rit,
+Tout paraît admirable.
+Qu'au théâtre à grands frais
+On vous le représente ;
+Il n'a plus rien qui tente :
+L'on trouve tout mauvais.
+
+Qu'on vous soit favorable,
+Tout paraît admirable.
+
+**** *creator_riccoboniromagnesi *book_riccoboniromagnesi_compliments *style_verse *genre_piece *dist1_riccoboniromagnesi_verse_piece_compliments *dist2_riccoboniromagnesi_verse_piece *id_MADEMOISELLEBELMONT *date_1736 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellebelmont
+
+
+Dans l'objet adorable
+Qui touche notre coeur,
+Taille, esprit, grâce humeur,
+Tout paraît admirable.
+L'hymen suit-il de près
+L'amour qui l'en conjure;
+Humeur, esprit, figure,
+L'on trouve tout mauvais.
+
+D'une pièce agréable
+Chaque trait est loué ;
+Chacun a bien joué ,
+Tout paraît admirable;
+Mais au lieu d'un succès,
+A-t-on mauvaise chance,
+Acteurs, musique, danse,
+L'on trouve tout mauvais.
+
+Ne dites donc jamais,
+L'on trouve tout mauvais.
+
+**** *creator_riccoboniromagnesi *book_riccoboniromagnesi_compliments *style_verse *genre_piece *dist1_riccoboniromagnesi_verse_piece_compliments *dist2_riccoboniromagnesi_verse_piece *id_MADEMOISELLECATINE *date_1736 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellecatine
+
+
+À Votre justice
+Nous avons recours
+Contre le caprice,
+De qui la malice
+Nous fait tous les jours
+Mille mauvais tours.
+Jadis les suivantes
+Dans les nouveautés
+Étaient triomphantes;
+Tirades brillantes,
+Couplets bien dictés
+Gaiement débités,
+Des grâces riantes
+Tiraient leurs beautés.
+Aujourd'hui Thalie
+Change nos destins.
+L'aimable folie,
+Si chère aux humains,
+Semble être avilie.
+La mélancolie
+Suit les écrivains;
+Et l'auteur oublie,
+Qu'aux traits, les plus fins,
+Il faut qu'on allie
+Les charmes badins.
+Enfin les soubrettes,
+Partout aux abois
+Quittent leurs emplois;
+Et les plus parfaites
+Ont depuis six mois,
+Par un nouveau choix,
+Joué les coquettes.
+Intéressez-vous
+À notre disgrâce,
+Et parlez pour nous
+Aux gens du Parnasse.
+Qu'on nous rende enfin.
+Notre caractère.
+Qu'un valet malin
+Amuse le père:
+Que malgré la mère
+Soubrette légère
+Conduise à sa fin
+Un tendre mystère.
+Mais n'espérons plus
+D'être protégées;
+Les moeurs sont changées,
+Nos soins superflus.
+L'amant sans notre aide
+Se fait écouter ;
+La fille lui cède
+Sans nous consulter.
 
 **** *creator_riccoboniromagnesi *book_riccoboniromagnesi_compliments *style_verse *genre_piece *dist1_riccoboniromagnesi_verse_piece_compliments *dist2_riccoboniromagnesi_verse_piece *id_MADEMOISELLEFABIO *date_1736 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoisellefabio
+
 
 L'Italienne a bien plus de mérite,
 Elle danse en chantant.
@@ -156,8 +319,46 @@ Unissons, rassemblons vos accords et les nôtres.
 J'égayerai vos chants.
 Unissons, etc.
 
+**** *creator_riccoboniromagnesi *book_riccoboniromagnesi_compliments *style_verse *genre_piece *dist1_riccoboniromagnesi_verse_piece_compliments *dist2_riccoboniromagnesi_verse_piece *id_MONSIEURROMAGNESI *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurromagnesi
+
+
+Au fait, Messieurs, commençons.
+Messieurs, les compliments en beautés si fertiles,
+Pour avoir trop produit, sont devenus stériles :
+Depuis que l'on en fait, leurs traits sont épuisés,
+Et ne nous offrent plus que des moyens usés.
+En vain, pour en vouloir déguiser la figure,
+On a des compliments renversé la structure;
+L'un aujourd'hui les tourne en dissertations,
+L'autre, en vers mal construits, y met des fictions :
+Qu'aux français une pièce ait quelque réussite,
+C'est dans le compliment qu'on vante son mérite,
+C'est-là qu'elle reçoit l'encens le plus flatteur,
+Et tout le compliment n'est fait que pour l'auteur.
+Pour nous, qui n'avons point de ressources pareilles,
+Dont le genre tout simple offre moins de merveilles,
+Nous ne pouvons, hélas! Quand il faut vous parler,
+Que vous remercier de ne nous pas siffler :
+En effet, nous avons, dans notre insuffisance,
+Éprouvé mille fois toute votre indulgence ;
+Mais nous dirons aussi que, pour la mériter,
+Il n'est point de périls que nous n'osions tenter.
+Nous avons critiqué des auteurs respectables,
+Nous avons contrefait des acteurs admirables ;
+Nous avons même osé donner du sérieux ;
+(Ce n'est pas, il est vrai, ce qu'on a fait de mieux ;)
+Mais faut-il s'étonner qu'une troupe comique
+Ait essuyé l'affront d'échouer au tragique,
+Quand des héros en place, au cothurne aguerris,
+Dans plusieurs nouveautés ont ennuyé Paris.
+Vous allez voir, Messieurs, qu'il est très difficile
+D'amuser à la fois et la Cour et la ville.
+Premièrement il faut ....
+
+Premièrement...
 
 **** *creator_riccoboniromagnesi *book_riccoboniromagnesi_compliments *style_verse *genre_piece *dist1_riccoboniromagnesi_verse_piece_compliments *dist2_riccoboniromagnesi_verse_piece *id_MONSIEURRICCOBONI *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurriccoboni
+
 
 Doucement, s'il vous plaît, Messieurs ; chacun de nous à la dernière assemblée a brigué l'honneur de complimenter le public. Les dames ont prétendu que leurs droits étaient pour le moins aussi bien fondés que les nôtres ; et pour faire cesser le tumulte, la troupe a délibéré que chacun ferait le sien à part. Commençons donc de cette manière, et cédons le pas aux dames.
 
@@ -180,8 +381,30 @@ Non ! Pour jouir d'un sort dont on soit envieux,
 De nos contemporains cherchons plutôt l'estime ;
 Quand on plaît à son siècle, on est trop glorieux.
 
+**** *creator_riccoboniromagnesi *book_riccoboniromagnesi_compliments *style_verse *genre_piece *dist1_riccoboniromagnesi_verse_piece_compliments *dist2_riccoboniromagnesi_verse_piece *id_MONSIEURDESHAYES *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurdeshayes
+
+
+Mais on ne nous entendra pas.
+
+Ma foi, j'aurais cru que ces Messieurs les faisaient eux-mêmes.
+
+Pour un acteur, c'est un fardeau pesant
+De se montrer au public à présent.
+Depuis le temps qu'au théâtre il préside,
+Il est trop sûr dans tout ce qu'il décide ;
+Et le bon goût s'accroît chemin faisant.
+Bien est-il vrai qu'au séjour amusant
+On donne asile à plus d'un exposant
+Qu'on ne peut prendre à sa mine stupide
+Pour un acteur. On me dira que le mal est cuisant
+Autant pour vous, que pour le déplaisant;
+Mais si faut-il que la clémence guide
+Tout spectateur de nouveautés avide,
+Et qu'il ne soit aux pièces malfaisant
+Pour un acteur.
 
 **** *creator_riccoboniromagnesi *book_riccoboniromagnesi_compliments *style_verse *genre_piece *dist1_riccoboniromagnesi_verse_piece_compliments *dist2_riccoboniromagnesi_verse_piece *id_MONSIEURTHOMASSIN *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurthomassin
+
 
 Voilà déjà notre révérence faite ; allons, mes amis, il ne s'agit plus que de parler.
 
@@ -234,8 +457,8 @@ Et n'a pas grand tort, ce me semble :
 Qui va, le moins mal qu'il pourra,
 Prendre le ton de l'Opéra.
 
-
 **** *creator_riccoboniromagnesi *book_riccoboniromagnesi_compliments *style_verse *genre_piece *dist1_riccoboniromagnesi_verse_piece_compliments *dist2_riccoboniromagnesi_verse_piece *id_MONSIEUREVRARD *date_1736 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurevrard
+
 
 En Musique française aujourd'hui je m'acquitte
 Des respects que vous doit le nouveau débutant.
@@ -278,4 +501,3 @@ Lorsque chacun hautement
 Vous prodigue la louange,
 Craignez de prendre le change,
 C'est peut-être un compliment.
-

@@ -1,6 +1,31 @@
 
 
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_MARS *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mars
+
+
+France ingrate, tu veux la paix !
+Et pour toute reconnaissance
+D'avoir en tant de lieux étendu ta puissance,
+Tu murmures de mes bienfaits !
+Encore un lustre ou deux, et sous tes destinées
+J'aurais rangé le sort des têtes couronnées ;
+Ton état n'aurait eu pour bornes que ton choix ;
+Et tu devais tenir pour assuré présage,
+Voyant toute l'Europe apprendre ton langage,
+Que toute cette Europe allait prendre tes lois.
+Tu renonces à cette gloire ;
+La Paix a pour toi plus d'appâts,
+Et tu dédaignes la Victoire
+Que j'ai de ma main propre attachée à tes pas !
+Vois dans quels fers sous moi la Discorde et l'Envie
+Tiennent cette Paix asservie.
+La Victoire t'a dit comme on peut m'apaiser ;
+J'en veux bien faire encor ta compagne éternelle ;
+Mais sache que je la rappelle,
+Si tu manques d'en bien user.
+
 **** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_AAETE *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aaete
+
 
 Enfin nos ennemis nous cèdent la campagne,
 Et des Scythes défaits le camp abandonné
@@ -352,8 +377,8 @@ Préparer à demain de pompeux sacrifices,
 Et par nos voeux unis répondre au doux espoir
 Que daigne un dieu si grand nous faire concevoir.
 
-
 **** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_ABSYRTE *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_absyrte
+
 
 Seigneur, il est en vous d'avoir cet avantage :
 Le charme qu'il y faut est tout sur son visage.
@@ -597,8 +622,8 @@ Quoi ? Seigneur, vous croiriez qu'une action si noire…
 La désavouerez-vous, madame, et votre coeur
 Dédira-t-il sa voix qui parle en ma faveur ?
 
-
 **** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_CHALCIOPE *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_chalciope
+
 
 Vous m'offensez, ma soeur : celles de notre rang
 Ne savent point trahir leur pays ni leur sang ;
@@ -685,8 +710,8 @@ Comme ils ont même sang, ils ont mêmes esprits :
 La Grèce en leur idée est un séjour céleste,
 Un lieu seul digne d'eux. Par là jugez du reste.
 
-
 **** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_MEDEE *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_medee
+
 
 Parmi ces grands sujets d'allégresse publique,
 Vous portez sur le front un air mélancolique :
@@ -1185,8 +1210,8 @@ Je la suis, et ne fais que ce qu'elle m'inspire ;
 De toutes deux madame ici vous tiendra lieu.
 Consolez-vous, seigneur, et pour jamais adieu.
 
-
 **** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_HYPSIPYLE *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hypsipyle
+
 
 Juste ciel, il me voit, et ne s'avance pas !
 
@@ -1517,8 +1542,8 @@ Sitôt que je le vis, il en eut mon aveu,
 Et ma foi pour Jason nuisoit seule à son feu ;
 Mais à présent, seigneur, cette foi dégagée…
 
-
 **** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_JASON *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jason
+
 
 Si nos bras, animés par vos destins propices,
 Vous ont rendu, seigneur, quelques foibles services,
@@ -1899,8 +1924,150 @@ Tournez sur le dragon toute votre vigueur.
 Je vais dans le navire attendre une défaite,
 Qui vous fera bientôt imiter ma retraite.
 
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_PELEE *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pelee
+
+
+L'amour vous est bien doux, et votre espoir tranquille,
+Qui vous fit consumer deux ans chez Hypsipyle,
+En consumeroit quatre avec plus de raison
+À cajoler Médée et gagner la toison.
+Après que nos exploits l'ont si bien méritée,
+Un mot seul, un souhait dût l'avoir emportée ;
+Mais puisqu'on la refuse au service rendu,
+Il faut avoir de force un bien qui nous est dû.
+
+      N'en parlons plus, Jason :
+Cet oracle l'emporte, et vous aviez raison.
+Aimez, le ciel l'ordonne, et c'est l'unique voie
+Qu'après tant de travaux il ouvre à notre joie.
+N'y perdons point de temps, et sans plus de séjour
+Allons sacrifier au tout-puissant Amour.
+
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_IPHITE *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_iphite
+
+
+Les dieux nous ont sauvés de mille autres dangers,
+Et sont les mêmes dieux en ces bords étrangers.
+Pallas nous a conduits, et Junon de nos têtes
+A parmi tant de mers écarté les tempêtes.
+Ces grands secours unis auront leur plein effet,
+Et ne laisseront point leur ouvrage imparfait.
+Voyez si je m'abuse, amis, quand je l'espère :
+Regardez de Junon briller la messagère ;
+Iris nous vient du ciel dire ses volontés.
+En attendant son ordre, adorons ses bontés.
+Prends ton luth, cher Orphée, et montre à la déesse
+Combien ce doux espoir charme notre tristesse.
+
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_ORPHEE *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orphee
+
+
+Femme et soeur du maître des dieux,
+De qui le seul regard fait nos destins propices,
+Nous as-tu jusqu'ici guidés sous tes auspices
+Pour nous voir périr en ces lieux ?
+Contre des bras mortels tout ce qu'ont pu nos armes,
+Nous l'avons fait dans les combats :
+Contre les monstres et les charmes
+C'est à toi maintenant de nous prêter ton bras.
+
+Hâtez-vous, enfants de Borée,
+Demi-dieux, hâtez-vous,
+Et faites voir qu'en tous lieux, contre tous,
+À vos exploits la victoire assurée
+Suit l'effort de vos moindres coups.
+
+Combattez, race d'Orithye,
+Demi-dieux, combattez,
+Et faites voir que vos bras indomptés
+Se font partout une heureuse sortie
+Des périls les plus redoutés.
+
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_ZETHES *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zethes
+
+
+Montrez plus d'espérance, et souvenez-vous mieux
+Que nous avons dompté des monstres à vos yeux.
+
+Fuyons, sans plus tarder, la vapeur infernale
+Que ce dragon affreux de son gosier exhale :
+La valeur ne peut rien contre un air empesté.
+Fais comme nous, Orphée, et fuis de ton côté.
+
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_CALAIS *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_calais
+
+
+Élevons-nous, mon frère, au-dessus des nuages :
+Du sang dont nous sortons prenons les avantages ;
+Surtout obéissons aux ordres de Jason :
+Respectons la princesse, et donnons au dragon.
+
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_GLAUQUE *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_glauque
+
+
+Allez, tritons, allez, sirènes ;
+Allez, vents, et rompez vos chaînes ;
+Neptune est satisfait,
+Et l'ordre qu'il vous donne a son entier effet.
+Jason, vois les bontés de ce même Neptune,
+Qui pour achever ta fortune,
+A sauvé du naufrage, et renvoie à tes voeux
+La princesse qui seule est digne de ta flamme.
+À son aspect rallume tous tes feux ;
+Et pour répondre aux siens, rends-lui toute ton âme.
+Et toi, qui jusques à Colchos
+Dois à tant de beautés un assuré passage,
+Fleuve, pour un moment retire un peu tes flots,
+Et laisse approcher ton rivage.
+
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_SOLEIL *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_soleil
+
+
+Je plains ton infortune, et ne puis davantage :
+Un noir destin s'oppose à tes justes desseins,
+Et depuis Phaéton, ce brillant attelage
+Ne peut passer en d'autres mains :
+Sous un ordre éternel qui gouverne ma route,
+Je dispense en esclave et les nuits et les jours.
+Mais enfin ton père t'écoute,
+Et joint ses voeux aux tiens pour un plus fort secours.
+Maître absolu des destinées,
+Change leurs dures lois en faveur de mon sang,
+Et laisse-lui garder son rang
+Parmi les têtes couronnées.
+C'est toi qui règles les états,
+C'est toi qui départs les couronnes ;
+Et quand le sort jaloux met un monarque à bas,
+Il détruit ton ouvrage, et fait des attentats
+Qui dérobent ce que tu donnes.
+
+Ne vous permettez plus d'inutiles soupirs,
+Puisque le ciel répare et venge votre perte,
+Et qu'une autre couronne offerte
+Ne peut plus vous souffrir de justes déplaisirs.
+Adieu. J'ai trop longtemps détourné ma carrière,
+Et trop perdu pour vous en ces lieux de moments
+Qui devoient ailleurs ma lumière.
+Allez, heureux amants,
+Pour qui Jupiter montre une faveur entière ;
+Hâtez-vous d'obéir à ses commandements.
+
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_IRIS *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iris
+
+
+Princes, ne perdez pas courage ;
+Les deux mêmes divinités
+Qui vous ont garantis sur les flots irrités
+Prennent votre défense en ce climat sauvage.
+Les voici toutes deux, qui de leur propre voix
+Vous apprendront sous quelles lois
+Le destin vous promet cette illustre conquête ;
+Elles sauront vous la faciliter :
+Écoutez leurs conseils, et tenez l'âme prête
+À les exécuter.
 
 **** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_JUNON *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_junon
+
 
 Tous vos bras et toutes vos armes
 Ne peuvent rien contre les charmes
@@ -2115,8 +2282,34 @@ Assurez-lui tous les biens qu'il souhaite ;
 Mais de la même main assurez à Jason
 Médée et la toison.
 
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_JUPITER *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_jupiter
 
-**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_PAIX *date_1660 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_paix
+
+Des arrêts du destin l'ordre est invariable,
+Rien ne sauroit le rompre en faveur de ton fils,
+Soleil ; et ce trésor surpris
+Lui rend de ses états la perte inévitable.
+Mais la même légèreté
+Qui donne Jason à Médée
+Servira de supplice à l'infidélité
+Où pour lui contre un père elle s'est hasardée.
+Persès dans la Scythie arme un bras souverain ;
+Sitôt qu'il paraîtra, quittez ces lieux, Aæte,
+Et par une prompte retraite,
+Épargnez tout le sang qui coulerait en vain.
+De Lemnos faites votre asile ;
+Le ciel veut qu'Hypsipyle
+Réponde aux voeux d'Absyrte, et qu'un sceptre dotal
+Adoucisse le cours d'un peu de temps fatal.
+Car enfin de votre perfide
+Doit sortir un Médus qui vous doit rétablir ;
+À rentrer dans Colchos il sera votre guide ;
+Et mille grands exploits qui doivent l'ennoblir,
+Feront de tous vos maux les assurés remèdes,
+Et donneront naissance à l'empire des Mèdes.
+
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_PAIX *date_1660 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_paix
+
 
 En vain à tes soupirs il est inexorable :
 Un dieu plus fort que lui me va rejoindre à toi ;
@@ -2200,8 +2393,8 @@ Et pour les commencer par de nouveaux miracles,
 Toi que rend tout-puissant ce chef-d'oeuvre des cieux,
 Hymen, fais-lui changer la face de ces lieux.
 
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_FRANCE *date_1660 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_france
 
-**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_FRANCE *date_1660 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_france
 
 Doux charme des héros, immortelle Victoire,
 Âme de leur vaillance, et source de leur gloire,
@@ -2272,8 +2465,8 @@ Il faudroit que vos soins par le cours des années…
 J'entreprendrai beaucoup ; mais ce qui m'en console
 C'est que sous votre aveu…
 
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_VICTOIRE *date_1660 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_victoire
 
-**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_VICTOIRE *date_1660 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_victoire
 
 Je ne me repens point, incomparable France,
 De vous avoir suivie avec tant de constance :
@@ -2314,8 +2507,8 @@ Faire un appui de Mars du favori des Grâces,
 Et sous d'autres climats couronner ses hauts faits
 Des lauriers qu'en ceux-ci lui dérobe la Paix !
 
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_HYMENEE *date_1660 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_hymenee
 
-**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_HYMENEE *date_1660 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_hymenee
 
 Oui, monstres, oui, craignez cette main vengeresse ;
 Mais craignez encor plus cette grande princesse
@@ -2363,3 +2556,78 @@ Chassez de ces débris les funestes images,
 Et formez des jardins tels qu'avec quatre mots
 Le grand art de Médée en fit naître à Colchos.
 
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_DISCORDE *date_1660 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_discorde
+
+
+En vain tu le veux croire, orgueilleuse captive :
+Pourrions-nous fuir le secours qui t'arrive ?
+
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_ENVIE *date_1660 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_envie
+
+
+Pourrions-nous craindre un dieu qui contre nos fureurs
+Ne prend pour armes que des fleurs ?
+
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_AMOUR *date_1660 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_amour
+
+
+Cessez de m'accuser, soupçonneuse déesse ;
+Je sais tenir promesse :
+C'est en vain que les dieux s'assemblent chez leur roi ;
+Je vais bien leur faire connoître
+Que je suis, quand je veux, leur véritable maître,
+Et que de ce grand jour le destin est à moi.
+Toi, si tu sais aimer, ne crains rien de funeste ;
+Obéis à Médée, et j'aurai soin du reste.
+
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_VOIX *date_1660 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_voix
+
+
+Monstres, n'avancez pas, une reine l'ordonne ;
+Respectez ses appas ;
+Suivez les lois qu'elle vous donne :
+Monstres, n'avancez pas.
+
+C'est l'amour qui fait ce miracle,
+Et veut plus faire en ta faveur.
+N'y mets donc point d'obstacle :
+Aime qui t'aime, et donne coeur pour coeur.
+
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_SIRENES *date_1660 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_sirenes
+
+
+Telle Vénus sortit du sein de l'onde,
+Pour faire régner dans le monde
+Les jeux et les plaisirs, les grâces et l'amour ;
+Telle tous les matins l'aurore
+Sur le sein émaillé de Flore
+Verse la rosée et le jour.
+Objet divin, qui vas de ce rivage
+Bannir ce qu'il a de sauvage,
+Pour y faire régner les grâces et l'amour,
+Telle et plus adorable encore
+Que n'est Vénus, que n'est l'aurore,
+Tu vas y faire un nouveau jour.
+
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_PALLAS *date_1660 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_pallas
+
+
+Pour vous secourir en ces lieux,
+Junon change de forme et va descendre en terre ;
+Et pour vous protéger Pallas remonte aux cieux,
+Où Mars et quelques autres dieux
+Vont presser contre vous le maître du tonnerre.
+Le soleil, de son fils embrassant l'intérêt,
+Voudra faire changer l'arrêt
+Qui vous laisse espérer la toison demandée ;
+Mais quoi qu'il puisse faire, assurez-vous qu'enfin
+L'amour fera votre destin,
+Et vous donnera tout, s'il vous donne Médée.
+
+**** *creator_corneillep *book_corneillep_toison *style_verse *genre_show *dist1_corneillep_verse_show_toison *dist2_corneillep_verse_show *id_CHOEUR *date_1660 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_choeur
+
+
+Descends, Hymen, et ramène sur terre
+Les délices avec la paix ;
+Descends, objet divin de nos plus doux souhaits,
+Et par tes feux éteins ceux de la guerre.

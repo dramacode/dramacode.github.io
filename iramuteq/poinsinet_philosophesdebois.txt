@@ -2,6 +2,7 @@
 
 **** *creator_poinsinet *book_poinsinet_philosophesdebois *style_verse *genre_comedy *dist1_poinsinet_verse_comedy_philosophesdebois *dist2_poinsinet_verse_comedy *id_POLICHINELLE *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_polichinelle
 
+
 Vous voyez un nouvel intru.
 
 C'est un bien beau secret ; n'est-il pas vrai, Patron ?
@@ -135,8 +136,8 @@ Par des couplets à ma manière ;
 Car comme un autre j'en sais faire,
 Écoutez-nous bien, les voici.
 
-
 **** *creator_poinsinet *book_poinsinet_philosophesdebois *style_verse *genre_comedy *dist1_poinsinet_verse_comedy_philosophesdebois *dist2_poinsinet_verse_comedy *id_GILLE *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gille
+
 
       Non,
 Impertinent ! Et voilà pour t"apprendre.
@@ -174,8 +175,8 @@ Que l'ennemi ne nous échappe pas.
 
 Nous déclarons la guerre à la Philosophie.
 
-
 **** *creator_poinsinet *book_poinsinet_philosophesdebois *style_verse *genre_comedy *dist1_poinsinet_verse_comedy_philosophesdebois *dist2_poinsinet_verse_comedy *id_ARLEQUIN *date_1760 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arlequin
+
 
 Il faut que je sois un grand chien.
 Où sont-ils ces Docteurs tout remplis d'importance ;
@@ -238,4 +239,3 @@ Qui prouve que Gille a raison.
       Ô le plaisant visage !
 
 Nous voulons t'étrangler.
-

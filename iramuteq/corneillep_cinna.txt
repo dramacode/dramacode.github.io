@@ -2,6 +2,7 @@
 
 **** *creator_corneillep *book_corneillep_cinna *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cinna *dist2_corneillep_verse_tragedy *id_auguste *date_1642 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_auguste
 
+
 Que chacun se retire, et qu'aucun n'entre ici.
 Vous Cinna demeurez, et vous Maxime aussi.
 Cet empire absolu sur la terre et sur l'onde,
@@ -432,8 +433,8 @@ Que nous leur offrirons sous de meilleurs auspices,
 Et que vos conjurés entendent publier
 Qu'Auguste a tout appris, et veut tout oublier.
 
-
 **** *creator_corneillep *book_corneillep_cinna *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cinna *dist2_corneillep_verse_tragedy *id_livie *date_1642 *sexe_feminin *age_mur *statut_maitre *fonction_autres *role_livie
+
 
       Euphorbe m'a tout dit,
 Seigneur, et j'ai pâli cent fois à ce récit.
@@ -523,8 +524,8 @@ Et le ciel une place entre les immortels,
 Et la postérité, dans toutes les provinces
 Donnera votre exemple aux plus généreux princes.
 
-
 **** *creator_corneillep *book_corneillep_cinna *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cinna *dist2_corneillep_verse_tragedy *id_cinna *date_1642 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_cinna
+
 
 Jamais contre un tyran entreprise conçue
 Ne permit d'espérer une si belle issue,
@@ -1111,8 +1112,8 @@ Pour prolonger vos jours retrancher nos années ;
 Et moi par un bonheur dont chacun soit jaloux
 Perdre pour vous cent fois ce que je tiens de vous.
 
-
 **** *creator_corneillep *book_corneillep_cinna *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cinna *dist2_corneillep_verse_tragedy *id_maxime *date_1642 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_maxime
+
 
 Oui, j'accorde qu'Auguste a droit de conserver
 L'Empire où sa vertu l'a fait seule arriver,
@@ -1429,8 +1430,8 @@ Je n'en murmure point, il a trop de justice,
 Et je suis plus confus, Seigneur, de vos bontés,
 Que je ne suis jaloux du bien que vous m'ôtez.
 
-
 **** *creator_corneillep *book_corneillep_cinna *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cinna *dist2_corneillep_verse_tragedy *id_emilie *date_1642 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_emilie
+
 
 Impatients désirs d'une illustre vengeance
 Dont la mort de mon père a formé la naissance,
@@ -1896,8 +1897,8 @@ Elle est morte, et ce cœur devient sujet fidèle,
 Et prenant désormais cette haine en horreur,
 L'ardeur de vous servir succède à sa fureur.
 
-
 **** *creator_corneillep *book_corneillep_cinna *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cinna *dist2_corneillep_verse_tragedy *id_fulvie *date_1642 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_fulvie
+
 
 Elle a pour la blâmer une trop juste cause,
 Par un si grand dessein vous vous faites juger
@@ -1957,8 +1958,24 @@ Que même de son maître on dit je ne sais quoi,
 On lui veut imputer un désespoir funeste,
 On parle d'eaux, de Tibre, et l'on se tait du reste.
 
+**** *creator_corneillep *book_corneillep_cinna *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cinna *dist2_corneillep_verse_tragedy *id_polyclete *date_1642 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_polyclete
+
+
+Tous vos ordres, Seigneur, seront exécutés.
+
+**** *creator_corneillep *book_corneillep_cinna *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cinna *dist2_corneillep_verse_tragedy *id_evandre *date_1642 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_evandre
+
+
+Seigneur, César vous mande, et Maxime avec vous.
+
+Polyclète est encor chez vous à vous attendre,
+Et fût venu lui-même avec moi vous chercher,
+Si ma dextérité n'eût su l'en empêcher :
+Je vous en donne avis de peur d'une surprise,
+Il presse fort.
 
 **** *creator_corneillep *book_corneillep_cinna *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_cinna *dist2_corneillep_verse_tragedy *id_euphorbe *date_1642 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_euphorbe
+
 
 Je ne m'étonne plus de cette violence
 Dont il contraint Auguste à garder sa puissance,
@@ -2034,4 +2051,3 @@ Que je n'ignore point ce que j'ai mérité.
 Puis soudain dans le Tibre il s'est précipité,
 Et l'eau grosse et rapide et la nuit survenue
 L'ont dérobé sur l'heure à ma débile vue.
-

@@ -2,6 +2,7 @@
 
 **** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *id_PHOCAS *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phocas
 
+
 Crispe, il n'est que trop vrai, la plus belle couronne
 N'a que de faux brillants dont l'éclat l'environne,
 Et celui dont le ciel pour un sceptre fait choix,
@@ -450,8 +451,8 @@ Il est en toi de perdre ou de sauver ton frère ;
 Et du moins, quelque erreur qui puisse me troubler,
 J'ai trouvé les moyens de te faire trembler.
 
-
 **** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *id_HERACLIUS *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_heraclius
+
 
 Seigneur…
 
@@ -979,8 +980,8 @@ Reconnaissons, amis, la céleste puissance.
 Allons lui rendre hommage, et, d'un esprit content,
 Montrer Héraclius au peuple qui l'attend.
 
-
 **** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *id_MARTIAN *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_martian
+
 
 Ah, mon prince ! Ah, Madame ! Il vaut mieux vous résoudre,
 Par un heureux hymen, à dissiper ce foudre.
@@ -1335,8 +1336,8 @@ Quoique jamais Phocas n'ait mérité d'amour,
 Un fils ne peut moins rendre à qui l'a mis au jour ;
 Ce n'est pas tout d'un coup qu'à ce titre on renonce.
 
-
 **** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *id_PULCHERIE *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pulcherie
+
 
 J'ai rendu jusqu'ici cette reconnaissance
 À ces soins tant vantés d'élever mon enfance,
@@ -1740,8 +1741,8 @@ J'en baise en soupirant le sacré caractère.
 
 Ah ! Vous êtes mon frère !
 
-
 **** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *id_LEONTINE *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leontine
+
 
 Voilà ce que j'ai craint de son âme enflammée.
 
@@ -1963,8 +1964,8 @@ Et non pas pour vous rendre un tel secret funeste.
 Mais pardonnez, Seigneur, à mon zèle parfait,
 Ce que j'ai voulu faire, et ce qu'un autre a fait.
 
-
 **** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *id_EUDOXE *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eudoxe
+
 
 S'il m'eût caché son sort, il m'aurait mal aimée.
 
@@ -2063,8 +2064,8 @@ Seigneur, ne croyez rien de ce qu'il vous va dire.
 
 Seigneur, vous agissez en prince généreux.
 
-
 **** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *id_CRISPE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispe
+
 
 Il nomme Héraclius celui qu'il ressuscite.
 
@@ -2106,8 +2107,8 @@ Il est l'unique auteur de nos meilleurs destins ;
 Lui seul et ses amis ont dompté vos mutins ;
 Il a fait prisonnier leurs chefs qu'il vous amène.
 
-
 **** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *id_EXUPERE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_exupere
+
 
 Madame, Héraclius vient d'être découvert.
 
@@ -2281,8 +2282,8 @@ Avant la fin du jour vous saurez qui je suis.
 Seigneur, il me faut grâce ou de l'un ou de l'autre :
 J'ai répandu son sang, si j'ai vengé le vôtre.
 
-
 **** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *id_AMYNTAS *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_amyntas
+
 
 Quelque allégresse ici que vous fassiez paraître,
 Trouvez-vous doux les noms de perfide et de traître ?
@@ -2330,3 +2331,7 @@ Phocas, après sa mort, n'en a pas un pour lui.
 
 Le voici qui s'avance avecque Léontine.
 
+**** *creator_corneillep *book_corneillep_heraclius *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_heraclius *dist2_corneillep_verse_tragedy *id_PAGE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_page
+
+
+Exupère, Madame, est là qui vous demande.

@@ -2,6 +2,7 @@
 
 **** *creator_lemierre *book_lemierre_guillaumetell *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_guillaumetell *dist2_lemierre_verse_tragedy *id_GESLER *date_1766 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gesler
 
+
 Je suis bien indigné qu'une horde grossière
 Contre l'autorité lève sa tête altière ;
 L'habitude des fers ne pourra donc agir !
@@ -361,8 +362,8 @@ Cherchons Tell, que ce traître aux supplices en proie...
 
 Sort cruel !
 
-
 **** *creator_lemierre *book_lemierre_guillaumetell *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_guillaumetell *dist2_lemierre_verse_tragedy *id_MELCHTAL *date_1766 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_melchtal
+
 
 Quoi ! Nos cantons ; cher Tell, sont-ils si séparés ?
 Quoi ! Mes malheurs ici, seraient-ils ignorés ?
@@ -584,8 +585,8 @@ Brave Tell, ton discours comme des traits de flammes,
 Tu le vois dans leurs yeux, vient d'embraser leurs âmes,
 La victoire ou la mort.
 
-
 **** *creator_lemierre *book_lemierre_guillaumetell *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_guillaumetell *dist2_lemierre_verse_tragedy *id_FURST *date_1766 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_furst
+
 
 Nos nouveaux députés sont rentrés dans la Suisse,
 Mais sans avoir d'Albert pu fléchir l'injustice ;
@@ -690,8 +691,23 @@ Justifier ici l'espoir que je vous laisse,
 Tandis qu'ailleurs Werner court, frappant d'autres coups,
 Et délivrer Melchtal et vous rendre un époux.
 
+**** *creator_lemierre *book_lemierre_guillaumetell *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_guillaumetell *dist2_lemierre_verse_tragedy *id_WERNER *date_1766 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_werner
+
+
+On nous oppose, ami, Zug, Lucerne, Glaris,
+Ces cantons, qui d'Albert devenus la conquête,
+À son joug dès longtemps ont présenté leur tête.
+Albert nous offre encor ses superbes bontés,
+Si nous voulons fléchir devant ses volontés ;
+Autrement plus de paix pour nos tristes provinces ;
+Et l'affreux lieutenant du plus altier des princes,
+Ne va de jour en jour au crime encouragé,
+Qu'appesantir le joug dont ce peuple est chargé.
+
+Par le même serment avec toi je m'engage.
 
 **** *creator_lemierre *book_lemierre_guillaumetell *style_verse *genre_tragedy *dist1_lemierre_verse_tragedy_guillaumetell *dist2_lemierre_verse_tragedy *id_ULRIC *date_1766 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ulric
+
 
 Oui Seigneur c'est ici, c'est du moins vers ces lieux,
 Qu'on a vu s'assembler de ces séditieux.
@@ -764,4 +780,3 @@ L'obéissance extrême, ou l'extrême insolence ;
 Ne prétendant à rien, qu'ont-ils à ménager ?
 Pour changer de fortune, ils bravent le danger,
 À leurs yeux insensés la révolte est la gloire.
-

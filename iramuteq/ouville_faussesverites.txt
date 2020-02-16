@@ -2,6 +2,7 @@
 
 **** *creator_ouville *book_ouville_faussesverites *style_verse *genre_comedy *dist1_ouville_verse_comedy_faussesverites *dist2_ouville_verse_comedy *id_florimonde *date_1643 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_florimonde
 
+
 Je n'en puis plus Nerine, Ah Dieux que je suis lasse
 Laisse moy reposer.
 
@@ -423,8 +424,8 @@ Sauvez moy Lidamant.
 
 Mon frere y consentant je ne m'en puis deffendre.
 
-
 **** *creator_ouville *book_ouville_faussesverites *style_verse *genre_comedy *dist1_ouville_verse_comedy_faussesverites *dist2_ouville_verse_comedy *id_nerine *date_1643 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_nerine
+
 
       Mais dites-moy de grace
 Quel plaisir vous prenez à vous lasser ainsi.
@@ -509,8 +510,8 @@ Quelqu'un frappe à la porte.
       O desplaisirs charmans,
 O desordre agreable, ô bien heureux Amans.
 
-
 **** *creator_ouville *book_ouville_faussesverites *style_verse *genre_comedy *dist1_ouville_verse_comedy_faussesverites *dist2_ouville_verse_comedy *id_lidamant *date_1643 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_lidamant
+
 
 Comment ? desja levé ?
  
@@ -1019,8 +1020,8 @@ Donnez moy vostre main puis qu'il plaist à Leandre.
 
 C'est moy, que voulez vous ?
 
-
 **** *creator_ouville *book_ouville_faussesverites *style_verse *genre_comedy *dist1_ouville_verse_comedy_faussesverites *dist2_ouville_verse_comedy *id_leandre *date_1643 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_leandre
+
 
       Vous en estonnez vous ?
 Estonnez vous plustost qu'avec tant de tristesse
@@ -1842,8 +1843,8 @@ Ne tardons pas Messieurs en ce lieu davantage,
 Songeons à terminer ce double mariage.
 Fin de la Comedie des Fausses veritez de Monsieur Douville.
 
-
 **** *creator_ouville *book_ouville_faussesverites *style_verse *genre_comedy *dist1_ouville_verse_comedy_faussesverites *dist2_ouville_verse_comedy *id_orasie *date_1643 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_orasie
+
 
       Mais que ce soit en sorte
 Qu'il ne soubsonne pas.
@@ -2355,8 +2356,8 @@ Je fais ici premier marcher mon interest.
 
 Enfin je suis à vous.
 
-
 **** *creator_ouville *book_ouville_faussesverites *style_verse *genre_comedy *dist1_ouville_verse_comedy_faussesverites *dist2_ouville_verse_comedy *id_julie *date_1643 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_julie
+
 
 Une fille en secret pourra-t'elle Monsieur
 Vous dire icy deux mots ?
@@ -2465,8 +2466,8 @@ Attendez je descends.
       Grands Dieux je desespere,
 C'est Monsieur.
 
-
 **** *creator_ouville *book_ouville_faussesverites *style_verse *genre_comedy *dist1_ouville_verse_comedy_faussesverites *dist2_ouville_verse_comedy *id_tomire *date_1643 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_tomire
+
 
 Depuis quand Orasie ouvre t'on cette porte,
 Qu'on tient tousjours fermée.
@@ -2553,8 +2554,8 @@ Qui de ma fille est donc l'infame ravisseur ?
 C'est vous qui comblez d'heur⁎ toute nostre famille.
 Donnez luy vostre main, approchez vous ma fille.
 
-
 **** *creator_ouville *book_ouville_faussesverites *style_verse *genre_comedy *dist1_ouville_verse_comedy_faussesverites *dist2_ouville_verse_comedy *id_fabrice *date_1643 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_fabrice
+
 
 D'où venez vous Monsieur ? qu'avez vous ?
 
@@ -2694,8 +2695,8 @@ Ouy Monsieur je le suis, & vous avez raison.
 
 Il faut en quelque lieu qu'il soit l'aller chercher.
 
-
 **** *creator_ouville *book_ouville_faussesverites *style_verse *genre_comedy *dist1_ouville_verse_comedy_faussesverites *dist2_ouville_verse_comedy *id_lisis *date_1643 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_lisis
+
 
 Reposez-vous sur moy Monsieur, à l'heure mesme
 Nous serons au logis.
@@ -2724,3 +2725,9 @@ Fin du quatriesme Acte.
 
 Voicy quelqu'un des siens.
 
+**** *creator_ouville *book_ouville_faussesverites *style_verse *genre_comedy *dist1_ouville_verse_comedy_faussesverites *dist2_ouville_verse_comedy *id_un-valet *date_1643 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_unvalet
+
+
+      Bien Monsieur tout à l'heure.
+
+Je la cherche Monsieur, je m'en vay de ce pas.

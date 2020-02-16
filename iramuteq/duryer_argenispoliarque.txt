@@ -2,6 +2,7 @@
 
 **** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_LICOGENE *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_licogene
 
+
 Je ne reconnais plus tous ces desseins guerriers
 Qui dressent nos tombeaux dans un bois de lauriers,
 Les myrtes de l'amour ont pour moi plus de charmes,
@@ -336,8 +337,8 @@ Après m'avoir battu prendra pour moi les armes,
 Et que dans peu de temps, ses effets journaliers
 Me rendront inconnus tant de maux familiers.
 
-
 **** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_OLOODEME *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oloodeme
+
 
 Prince à qui la vertu communique des charmes
 Qui domptent la fortune, et qui brisent ses armes,
@@ -410,8 +411,8 @@ Ne peut plus justement employer notre épée,
 Et dedans ce désir, nous nous plaignons souvent
 De n'avoir qu'une vie à perdre en vous servant.
 
-
 **** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_ERISTENE *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eristene
+
 
 Généreux confidents des secrets de mon âme,
 Qui se découvre à vous sur un coeur tout de flamme,
@@ -480,8 +481,8 @@ Je me tiendrais heureux de consacrer mes jours
 Au service adoré de vos saintes amours ;
 Mais...
 
-
 **** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_POLIARQUE *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_poliarque
+
 
 Confesse avec moi, qu'une si belle image
 A mérité l'encens d'un éternel hommage,
@@ -1121,8 +1122,8 @@ Puisque tout mon bonheur ne vient que de ta honte.
 Mais allons dire au roi, que ses vues entendues
 Nous ont fait obtenir les lauriers attendus.
 
-
 **** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_GELANORE *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gelanore
+
 
 Bien qu'il soit assuré qu'un portrait de la sorte
 Puisse ressusciter une personne morte,
@@ -1272,8 +1273,8 @@ Quelque signe assuré d'un amoureux devoir ?
 Ce témoignage seul n'empêche le discours,
 Et me fait à la fin approuver vos amours.
 
-
 **** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_MELEANDRE *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_meleandre
+
 
 Il est vrai que la loi d'un heureux hyménée
 Fait revivre les rois dont la gloire est bornée,
@@ -1535,8 +1536,8 @@ Faites luire sur nous, le soleil de justice,
 Et renvoyez les traits injustement lancés
 Contre le flanc de ceux, qui nous les ont poussés.
 
-
 **** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_EURIMEDE *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eurimede
+
 
 Sire vos sentiments sont des oracles mêmes,
 La prudence établit le bien des diadèmes,
@@ -1619,8 +1620,8 @@ La valeur se nourrit dans le sein de la France,
 Elle a toujours fait voir que ses moindres guerriers
 Arracheraient à Mars ses plus riches lauriers.
 
-
 **** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_SELENISSE *date_1629 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_selenisse
+
 
 Vous qui marchez toujours au dessus du soleil,
 Qui jouissez d'un bien sans fin et sans pareil,
@@ -1796,8 +1797,8 @@ Vous rendront misérable et terniront vos jours.
 Puisque vous le voulez mais le roi vient à nous
 Tout étonné du bruit, qui s'est fait parmi nous !
 
-
 **** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_ARGENIS *date_1629 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_argenis
+
 
 Nous venons du jardin où la voix de Florice
 A mis tous les oiseaux dans un même exercice,
@@ -1988,8 +1989,46 @@ Est partout impuissante où travaille le ciel.
 Généreux cavalier, que la victoire attend,
 Soyez tout assuré que Pallas vous entend.
 
+**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_FLORICE *date_1629 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_florice
+
+
+À la fin je croirai que je sais quelque chose.
+Damon, l'honneur de nos bergers,
+Qui voit les maux et les dangers
+Devant qu'ils soient sortis des mains des destinées,
+Rêvant auprès de ses ruisseaux
+Partout couronnés d'arbrisseaux,
+Par ces tristes accents menaçait nos années.
+Ruisseaux, vrais portraits de nos jours
+Vous précipités votre cours,
+De peur d'attendre à voir l'excès de nos désastres,
+Mais en dépit d'un cours si prompt
+On verra rougir votre front
+Du sang que versera la malice des astres.
+Bois, où le printemps arrêté
+Cache sa fraîcheur en été,
+Vous ne servirez plus qu'au dessein de nous nuire,
+Puisqu'on verra de toutes parts
+Que vous aurez fourni de dards
+À ces Rages d'enfer qui voudront nous détruire.
+Mais malgré l'orage et les flots,
+Qui combattent les matelots,
+On trouve dans la mer des îles fortunées.
+Et malgré le sort plus mauvais
+Le Soleil d'une douce paix
+Donnera le beau temps à nos tristes journées.
+
+**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_TIMONIDE *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_timonide
+
+
+Sire tout est en trouble, et l'ennemi paraît,
+Maintenant devant lui la poussière élevée
+Nous annonce de loin sa funeste arrivée,
+Un effroyable bruit de tambours et de voix
+Fait partout retentir les antres et les bois.
 
 **** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_MENOCRITE *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_menocrite
+
 
 Monsieur que faites-vous ? Quel excès de manie
 Exerce dessus vous sa dure tyrannie ?
@@ -2023,8 +2062,8 @@ Alors que ses fureurs en auront la victoire,
 Mais bien qu'elle s'obstine à vaincre les plus forts,
 La vertu ne craint point ses funestes efforts.
 
-
 **** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_ANAXIMANDRE *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anaximandre
+
 
 Nous ne pouvons trouver sur terre qu'une vie,
 Qui ne se file plus, alors qu'elle est ravie,
@@ -2041,3 +2080,57 @@ Présente à nos malheurs une fin désirée.
 Ce n'est pas renoncer à l'honneur languissant,
 Que de prendre en ses maux la loi d'un plus puissant.
 
+**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_SACRIFICATEUR *date_1629 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sacrificateur
+
+
+Fondateurs immortels du ciel et de la terre,
+Qui vous faites partout des armes du tonnerre,
+Et de qui la justice a des traits éternels
+Contre les factions des esprits criminels,
+Célestes vengez-nous d'une injuste licence,
+Dont l'orgueil effronté choque votre puissance :
+Ou bientôt vous serez dans l'oubli des mortels,
+Et leur impiété détruira vos autels,
+Si la rébellion attaque les monarques,
+Qui sont vos vrais enfants et qui portent vos marques,
+Sans doute dedans peu ses desseins factieux
+Attaqueront aussi la demeure des cieux,
+La terre ne verra que les maux et les vices
+Recevoir des humains de nouveaux sacrifices,
+Et vous voyant enfin de vos temples absents
+Elle ne produira qu'à regret de l'encens,
+Mais le roi vient ici, préparez-vous, Madame,
+À porter à Pallas des voeux qui soient de flamme.
+
+Les Dieux prennent toujours la querelle des rois,
+Comme en cet univers successeurs de leurs droits
+Rien ne vous est contraire, et la même victoire
+Joindra votre couronne à celle de la gloire.
+Il reste maintenant à notre saint devoir,
+D'implorer de Pallas l'adorable pouvoir.
+Nos voeux percent le ciel, même dans sa colère,
+Pour en faire sortir les faveurs qu'on espère.
+
+Que l'on amène ici la dernière victime,
+Pour en donner aux dieux l'offrande légitime.
+
+**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_SOLDATS1 *date_1629 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_soldats1
+
+
+Madame vous viendrez.
+
+**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_SOLDATS2 *date_1629 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_soldats2
+
+
+      Ils ne sauraient empêcher que la Parque
+Ne vous porte du lit en la mortelle barque.
+
+Une fille ne peut nous vaincre par ses charmes.
+
+**** *creator_duryer *book_duryer_argenispoliarque *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_argenispoliarque *dist2_duryer_verse_tragedy *id_SOLDATS *date_1629 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_soldats
+
+
+      Sire, on ne la point vue.
+Il semble que la nuit la couvre d'une nue,
+Nous n'avons rien laissé partout dedans ces lieux
+Où la loi du devoir n'ait occupé nos yeux.

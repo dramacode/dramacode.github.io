@@ -2,6 +2,7 @@
 
 **** *creator_lafontaine *book_lafontaine_rieursdubeaurichard *style_verse *genre_ballet *dist1_lafontaine_verse_ballet_rieursdubeaurichard *dist2_lafontaine_verse_ballet *id_LESAVETIER *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lesavetier
 
+
 Bonjour, Monsieur.
 
 Las ! Nous vivons cahin-caha,
@@ -41,4 +42,3 @@ C'est trop d'honneur que vous nous faites.
 
 Ce n'est rien fait : point de quartier !
 Je ne me laisse point surprendre.
-

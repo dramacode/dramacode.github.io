@@ -2,6 +2,7 @@
 
 **** *creator_dorat *book_dorat_regulus *style_verse *genre_tragedy *dist1_dorat_verse_tragedy_regulus *dist2_dorat_verse_tragedy *id_REGULUS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_regulus
 
+
 Ciel ! Marcie en ces lieux !
 
       Ô ma chère Marcie !
@@ -451,8 +452,8 @@ Sauvez-la, Citoyens !... Ah ! Tout mon coeur frissonne.
 Je puis partir enfin. Veillez, ô mes amis,
 Sur les jours d'une épouse, et sur ceux de mon fils.
 
-
 **** *creator_dorat *book_dorat_regulus *style_verse *genre_tragedy *dist1_dorat_verse_tragedy_regulus *dist2_dorat_verse_tragedy *id_MANLIUS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_manlius
+
 
 Madame, pardonnez si des soins importants
 À vos yeux, malgré moi, m'ont caché si longtemps :
@@ -541,8 +542,8 @@ Elle sera plus juste, et pourra me connaître.
 Je sais, ô Régulus, te plaindre et t'admirer ;
 Mais je ne te fais point l'affront de te pleurer.
 
-
 **** *creator_dorat *book_dorat_regulus *style_verse *genre_tragedy *dist1_dorat_verse_tragedy_regulus *dist2_dorat_verse_tragedy *id_MARCIE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_marcie
+
 
 Les Députés d'Afrique ici doivent se rendre ;
 Le Sénat, hors de Rome, ici doit les entendre;
@@ -909,8 +910,16 @@ Arrête, époux barbare, ou je meurs à tes yeux.
 
       La force m'abandonne.
 
+**** *creator_dorat *book_dorat_regulus *style_verse *genre_tragedy *dist1_dorat_verse_tragedy_regulus *dist2_dorat_verse_tragedy *id_BARSINE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_barsine
+
+
+      Quoi ! seule, et sans escorte,
+Une Dame Romaine !...
+
+Mais le Consul enfin...
 
 **** *creator_dorat *book_dorat_regulus *style_verse *genre_tragedy *dist1_dorat_verse_tragedy_regulus *dist2_dorat_verse_tragedy *id_LICINIUS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_licinius
+
 
 Ah, Dieux !
 
@@ -995,3 +1004,28 @@ Est-ce un Dieu qui nous parle ?
 Ils obéissent tous : je demeure immobile !
 Contre sa fermeté mon zèle est inutile.
 
+**** *creator_dorat *book_dorat_regulus *style_verse *genre_tragedy *dist1_dorat_verse_tragedy_regulus *dist2_dorat_verse_tragedy *id_ATTILIUS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_attilius
+
+
+      Mon père !
+Quoi ! vous abandonnez votre fils et sa mère !
+Vous voulez nous quitter, pour courir au trépas !
+Et quand je vous revois, c'est pour vous perdre.
+
+      Ah ! Demeurez ; soyez l'appui de ma jeunesse :
+Que je puisse vous voir, vous contempler fans cesse !
+Laissez dans votre coeur, faible une seule fois,
+Pénétrer les accents de ma timide voix.
+Au nom de mon amour, de mes pleurs, de mon âge !
+Mon Père, demeurez, n'allez point à Carthage...
+Je tombe à vos genoux... vous ne m'écoutez pas,
+Mon père, vous m'avez repoussé de vos bras !
+
+**** *creator_dorat *book_dorat_regulus *style_verse *genre_tragedy *dist1_dorat_verse_tragedy_regulus *dist2_dorat_verse_tragedy *id_PRISCUS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_priscus
+
+
+      L'Ambassadeur arrive :
+Tout le Peuple à grands flots a couru vers la rive :
+On approche, et bientôt....
+
+      Par ce billet vous serez éclairci.

@@ -1,6 +1,7 @@
 
 
-**** *creator_beaunoir *book_beaunoir_libellistes *style_prose *genre_drame *dist1_beaunoir_prose_drame_libellistes *dist2_beaunoir_prose_drame *id_HENRIETTE *date_1779 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_henriette
+**** *creator_beaunoir *book_beaunoir_libellistes *style_prose *genre_drame *dist1_beaunoir_prose_drame_libellistes *dist2_beaunoir_prose_drame *id_HENRIETTE *date_1779 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_henriette
+
 
 Oui, papa : tu ne devines pas Ã  qui je veux la donner ?
 
@@ -209,8 +210,8 @@ Georges avait raison, il me disait que tu serais heureux, je l'en aime davantage
 
 Toujours Georges.
 
-
 **** *creator_beaunoir *book_beaunoir_libellistes *style_prose *genre_drame *dist1_beaunoir_prose_drame_libellistes *dist2_beaunoir_prose_drame *id_MADAMEBERG *date_1779 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameberg
+
 
 Oui, Monsieur ; on m'a dit que vous vous faisiez un plaisir de secourir les infortunÃ©s, et c'est Ã  ce titre que je viens implorer votre secours.
 
@@ -236,8 +237,8 @@ Votre ami, Monsieur ?
 
 Ah ! Monsieur, il vous connaÃ®t, et il peut Ãªtre mÃ©chant ! Il n'a donc jamais lu dans votre coeur ? Il n'a donc jamais senti le bonheur d'Ãªtre gÃ©nÃ©reux, sensible ? De pouvoir se dire : jamais je n'ai fait rÃ©pandre une larme ; vous l'Ã©prouvez, vous, Monsieur, ce bonheur si pur ! Votre coeur ne vous reproche rien ; vous n'Ãªtes pas obligÃ© de rougir ; aussi le ciel bÃ©nira vos jours, parce que vous Ãªtes bon... Adieu, Monsieur, je n'oublierai jamais votre nom, je l'apprendrai Ã  mes enfants, ils le chÃ©riront... Ce qui m'Ã©tonne, ce qui m'afflige mÃªme, c'est qu'un honnÃªte homme comme vous, soit l'ami d'un Ãªtre aussi mÃ©chant, aussi mÃ©prisable qu'un libelliste.
 
-
 **** *creator_beaunoir *book_beaunoir_libellistes *style_prose *genre_drame *dist1_beaunoir_prose_drame_libellistes *dist2_beaunoir_prose_drame *id_ROBERT *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_robert
+
 
 Oui, Monsieur le Baron.
 
@@ -299,8 +300,17 @@ On vient de remettre Ã  votre hÃ´tel ce paquet de la part du ministre ; j'ai
 
 Oui, Monsieur.
 
+**** *creator_beaunoir *book_beaunoir_libellistes *style_prose *genre_drame *dist1_beaunoir_prose_drame_libellistes *dist2_beaunoir_prose_drame *id_BERTE *date_1779 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_berte
+
+
+Oui, mon enfant.
+
+Il y a environ trois mois, qu'un matin, c'Ã©tait un dimanche, je vis entrer chez moi un jeune homme bien beau, bien habillÃ©e ; je lui demandai, toute Ã©bauhie de sa visite, ce qu'il voulait de moi. Un service, me rÃ©pondit-il, qui peut me sauver la vie. De quoi s'agit-il, lui dis-je ? Vous allez, reprit-il, chercher tous les matins le lait, les fruits, et les lÃ©gumes de Monsieur Wild, qui demeure dans cette chaumiÃ¨re, Ã  cÃ´tÃ© de l'ermitage du baron de Rothenberg ? Oui, mon cher Monsieur, je les porte Ã  la ville, je les y vends, et je lui eu rapporte le prix, ou ce dont il a besoin. Eh bien ! Ma chÃ¨re Dame, continuatâil, permettez-moi d'y aller Ã  votre place. Comment, mon cher enfant, lui dis-je, comment se pourra-t-il faire qu'un beau Monsieur comme vous, aille chercher des lÃ©gumes pour les vendre au marchÃ© ? Comment voulez-vous que ce brave Monsieur Wild, qui est si sauvage... Pardonnez, je vous rapporte mot pour mot notre conversation Comment voulez-vous que ce Monsieur Wild, qui est si sauvage, qui ne parle Ã  personne, qui ne reÃ§oit personne chez lui, qui ne vous connaÃ®t pas, vous donne ses lÃ©gumes ? Vous ne m'entendez pas, me fit-il Ã  son tour, ma bonne mÃ¨re ; demain je ferai apporter chez vous des habits de paysan, je les mettrai, et ainsi dÃ©guisÃ©, je me prÃ©senterai chez Monsieur Wild, comme votre fils, sous le nom de Georges ; je lui dirai qu'un rhumatisme vous retient au lit, et que vous m'envoyez Ã  votre place, prendre ses commissions. Tout cela me parut fort bien arrangÃ©, cependant j'eus beaucoup de peine Ã  m'y prÃªter ; et ce ne fut que lorsqu'il m'eut jurÃ© sur son honneur et sur son Dieu, qu'il n'avait aucune mauvaise intention, que je pouvais faire son bonheur, celui de Monsieur Wild, celui de ma chÃ¨re Henriette, et qu'au contraire je causerais sa mort, si je le refusais ; et en disant cela, il me serrait les mains, il pleurait, mais tout de bon ; je me laissai attendrir, je n'eus pas la force de rÃ©sister Ã  ce beau garÃ§on, qui pleurait si franchement. Je consentis Ã  tout, et dÃ¨s le lendemain je vous l'envoyai comme mon fils, sous le nom de Georges, aprÃ¨s lui avoir fait rÃ©pÃ©ter son serment, qu'il n'avait aucun dessein ni mÃ©chant, ni malhonnÃªte. VoilÃ  tout, mes chers Messieurs, absolument tout ; avez-vous Ã  vous plaindre de lui, vous a-t-il fait quelque tort ? Je suis prÃªte Ã  tout rÃ©parer.
+
+Oh ! Mon Dieu, ayez pitiÃ© de lui.
 
 **** *creator_beaunoir *book_beaunoir_libellistes *style_prose *genre_drame *dist1_beaunoir_prose_drame_libellistes *dist2_beaunoir_prose_drame *id_FRANCK *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_franck
+
 
 Monsieur ?
 
@@ -407,8 +417,8 @@ Oui, Monsieur m'en a donnÃ© l'ordre.
 
 Maudits papiers... Ah ! Le sot mÃ©tier que celui d'auteur.
 
-
 **** *creator_beaunoir *book_beaunoir_libellistes *style_prose *genre_drame *dist1_beaunoir_prose_drame_libellistes *dist2_beaunoir_prose_drame *id_LETENDRE *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_letendre
+
 
 Ne vous dÃ©rangez pas, Monsieur... De grÃ¢ce ne vous dÃ©rangez pas, nous serions fÃ¢chÃ©s de vous faire perdre quelque idÃ©e brillante, quelque trait charmant.... Nous savons trop combien la moindre distraction est cruelle pour un auteur tel que vous.
 
@@ -473,8 +483,8 @@ Son valet-de-chambre ?
 
 En ce cas, pardon, Monsieur Franck, du petit quiproquo... Serviteur.
 
-
 **** *creator_beaunoir *book_beaunoir_libellistes *style_prose *genre_drame *dist1_beaunoir_prose_drame_libellistes *dist2_beaunoir_prose_drame *id_LADOUCEUR *date_1779 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ladouceur
+
 
 Nous venons seulement rendre hommage Ã  votre mÃ©rite, et vous tÃ©moigner, au nom du public entier, tout le cas qu'il fait de vos rares talents.
 
@@ -511,4 +521,3 @@ Eh bien ! Sans en venir Ã  des extrÃ©mitÃ©s qui rÃ©pugnent Ã  notre d�
 Mensonge.
 
 Il n'est donc pas auteur ?
-

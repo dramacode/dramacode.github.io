@@ -2,6 +2,7 @@
 
 **** *creator_scudery *book_scudery_arminius *style_verse *id_ARMINIUS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arminius
 
+
 Je sais que l'univers, invincible empereur,
 En me sachant ici, m'accusera d'erreur ;
 Mais cette erreur est belle, et j'ose me promettre,
@@ -439,8 +440,8 @@ Pourrait bien l'obliger à ce fâcheux voyage ;
 Mais pour moi dont le bras est maître de son sort,
 L'Allemagne verra ma victoire ou ma mort.
 
-
 **** *creator_scudery *book_scudery_arminius *style_verse *id_AGRIPPINE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_agrippine
+
 
       Oui, mon coeur vous entend.
 Mais ne me contez point vos dernières disgrâces,
@@ -575,8 +576,8 @@ Tibère assurément, vous autorisera :
 Oui, malgré la frayeur que l'on m'avait donnée,
 Par la vôtre vertu doit être couronnée.
 
-
 **** *creator_scudery *book_scudery_arminius *style_verse *id_SEGESTE *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_segeste
+
 
 Seigneur, Arminius quitte ses régiments,
 Et s'engage déjà dans nos retranchements,
@@ -797,8 +798,8 @@ Qu'espérez-vous trouver, si vous allez ailleurs ?
 
 Une amitié plus ferme, et les destins meilleurs.
 
-
 **** *creator_scudery *book_scudery_arminius *style_verse *id_HERCINIE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hercinie
+
 
 Dans ce triste récit, quelque mal qui m'arrive,
 C'est à moi d'obéir, puisque je suis captive,
@@ -1166,8 +1167,8 @@ Le voilà désarmé ;
       Ayant donné ma foi
 Je suis à mon époux, je ne suis plus à moi.
 
-
 **** *creator_scudery *book_scudery_arminius *style_verse *id_GERMANICUS *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_germanicus
+
 
 Vous deviez l'avoir fait, au lieu de me le dire.
 Que dis-je ! Par sa fin cette guerre eût fini,
@@ -1456,8 +1457,8 @@ Et plutôt empêcher mon triomphe et le vôtre.
 Mais rendons grâce aux dieux, d'avoir enfin permis,
 Que la paix ait rejoint, les frères ennemis.
 
-
 **** *creator_scudery *book_scudery_arminius *style_verse *id_CECINA *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cecina
+
 
 Que chaque légion sans désordre et sans bruit,
 Aille suivre à l'instant le chef qui la conduit,
@@ -1581,8 +1582,8 @@ Mais sur un tel dessein, revoyons l'empereur.
       Ici votre clémence
 Peut enfin achever, ce que le ciel commence.
 
-
 **** *creator_scudery *book_scudery_arminius *style_verse *id_SEGIMIRE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_segimire
+
 
 Ne m'importune point de discours superflus,
 L'espérance est un bien, ou je ne prétends plus.
@@ -1820,8 +1821,8 @@ Digne de la grandeur d'un empereur romain.
 Oui, qui sait bien aimer, n'aime point à punir ;
 Et je mets le passé, hors de mon souvenir.
 
-
 **** *creator_scudery *book_scudery_arminius *style_verse *id_EMILE *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_emile
+
 
 Ne prenez point encor cette funeste voie ;
 Puisqu'il est dans le camp, souffrez que je le vois ;
@@ -1889,8 +1890,8 @@ Je l'aperçois madame, et l'illustre Agripine :
 
 L'empereur sort.
 
-
 **** *creator_scudery *book_scudery_arminius *style_verse *id_FLAVIAN *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_flavian
+
 
 Ne vous offensez point si je romps le silence,
 Puisque l'on voit ma vie, et ma mort en balance :
@@ -2216,4 +2217,3 @@ Mais pourrai-je espérer que mon prince et mon frère,
 Perde le souvenir que je lui fus contraire ?
 Mais pourrai-je espérer qu'après ma trahison,
 On veuille me rouvrir ma première prison ?
-

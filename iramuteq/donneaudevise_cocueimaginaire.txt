@@ -2,6 +2,7 @@
 
 **** *creator_donneaudevise *book_donneaudevise_cocueimaginaire *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_cocueimaginaire *dist2_donneaudevise_verse_comedy *id_ALCIPPE *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alcippe
 
+
 Non, n'espérez jamais de m'y voir consentir.
 
 Si pour moi vous gardez encor quelque tendresse,
@@ -155,8 +156,8 @@ Mais mon père paraît.
 
 Que ne vous dois-je point pour ce plaisir extrême.
 
-
 **** *creator_donneaudevise *book_donneaudevise_cocueimaginaire *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_cocueimaginaire *dist2_donneaudevise_verse_comedy *id_ROGUESPINE *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_roguespine
+
 
 À quoi songez-vous donc Monsieur, de rebuter
 Ce que d'autres que vous prendraient sans hésiter.
@@ -251,8 +252,8 @@ Et ne suis-je pas un grand dénoueur d'aventures.
 Si de l'autre mon maître eût épousé la peau,
 Il eût été chargé de la vache et du veau.
 
-
 **** *creator_donneaudevise *book_donneaudevise_cocueimaginaire *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_cocueimaginaire *dist2_donneaudevise_verse_comedy *id_GERONTE *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_geronte
+
 
 Est-ce ainsi qu'à son père, un fils doit répartir ?
 Si vous ne répondez bientôt à mon envie,
@@ -328,8 +329,8 @@ Et veux voir achever dans peu votre hyménée,
 Si votre coeur encor y veut bien consentir
 Et veut me pardonner après mon repentir.
 
-
 **** *creator_donneaudevise *book_donneaudevise_cocueimaginaire *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_cocueimaginaire *dist2_donneaudevise_verse_comedy *id_CEPHISE *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cephise
+
 
 Oui je m'en ressouviens et je tiens ma promesse,
 Apprends donc le sujet de l'ennui qui me presse.
@@ -468,8 +469,8 @@ Je viens vous reprocher...
 
 Que ne ferait-on point, hélas, lorsque l'on aime !
 
-
 **** *creator_donneaudevise *book_donneaudevise_cocueimaginaire *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_cocueimaginaire *dist2_donneaudevise_verse_comedy *id_PAQUETTE *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_paquette
+
 
 Quel bruit viens-je d'entendre auprès de ma fenêtre ?
 
@@ -732,8 +733,8 @@ Dois-je à de tels discours ajouter quelque foi ?
 Oui, puisque enfin notre homme est bonhomme ma foi,
 Touche-là.
 
-
 **** *creator_donneaudevise *book_donneaudevise_cocueimaginaire *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_cocueimaginaire *dist2_donneaudevise_verse_comedy *id_SPADARILLE *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_spadarille
+
 
 Que vois-je, juste Ciel ! je crois que c'est ma femme,
 Qui tient dedans ses bras... elle mourra l'infâme
@@ -820,3 +821,40 @@ D'autres qui font par là venir de bons Ducats ;
 Et d'autres qui toujours se forment des chimères,
 Dont le nombre est plus grand, ne sont qu'imaginaires.
 
+**** *creator_donneaudevise *book_donneaudevise_cocueimaginaire *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_cocueimaginaire *dist2_donneaudevise_verse_comedy *id_LUCRESSE *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucresse
+
+
+      Ce n'est pas sans raison,
+Que là dessus votre âme a conçu du soupçon ;
+Mais quelque fort qu'il soit, jamais la jalousie,
+Ne vous devait ainsi troubler la fantaisie.
+Avant que d'imputer un semblable forfait ;
+Vous devriez les...
+
+Ce n'est point tout cela ; mais sachez en amie
+Qu'un homme sur ce point est exempt d'infamie,
+Et qu'une femme enfin pût-elle tout savoir,
+Doit se boucher les yeux et ne jamais rien voir.
+
+Bien que par ce discours vous paraissez peu sage,
+Je prétends empêcher votre mauvais ménage,
+Tâchez donc à savoir au long la vérité,
+Et vous verrez après qu'avec dextérité,
+Je saurai lui montrer que sans crime son âme
+Pour d'autres que pour vous ne peut nourrir de flamme,
+Et qu'il doit désormais vous aimer constamment.
+
+**** *creator_donneaudevise *book_donneaudevise_cocueimaginaire *style_verse *genre_comedy *dist1_donneaudevise_verse_comedy_cocueimaginaire *dist2_donneaudevise_verse_comedy *id_BEATRIX *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_beatrix
+
+
+Nous voici dans Paris, souvenez-vous Madame,
+Que vous devez enfin m'ouvrir toute votre âme,
+Et que vous m'avez dit que je saurais aussi
+Qui vous a fait presser votre retour ici.
+
+Je ressens tous vos maux ; mais encore, Madame,
+Quelque âpre déplaisir que vous sentiez dans l'âme
+Devriez-vous pas songer que depuis hier au soir
+Vous avez peu mangé.
+
+Vous verrez sur ce point vos désirs satisfaits.

@@ -2,6 +2,7 @@
 
 **** *creator_boursault *book_boursault_medecinvolant *style_verse *genre_comedy *dist1_boursault_verse_comedy_medecinvolant *dist2_boursault_verse_comedy *id_CLEON *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cleon
 
+
 Que veux-tu ? La douleur dont mon âme est atteinte
 Rend ma plainte équitable, et me fait murmurer
 Contre un objet charmant, que je dois adorer.
@@ -90,8 +91,8 @@ Adieu.
       Cet hymen a des charmes si doux,
 Monsieur.
 
-
 **** *creator_boursault *book_boursault_medecinvolant *style_verse *genre_comedy *dist1_boursault_verse_comedy_medecinvolant *dist2_boursault_verse_comedy *id_LISE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lise
+
 
 N'insultez point, de grâce, au malheur de Lucresse
 Je sais qu'elle a pour vous une forte tendresse ;
@@ -151,8 +152,8 @@ Elle vient.
 Oui, vraiment, une chambre assez belle, en effet !
 Si sombre !
 
-
 **** *creator_boursault *book_boursault_medecinvolant *style_verse *genre_comedy *dist1_boursault_verse_comedy_medecinvolant *dist2_boursault_verse_comedy *id_LUCRESSE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucresse
+
 
 Ah ! Mon père !
 
@@ -171,8 +172,8 @@ Je ne sais.
 
 Daignez.
 
-
 **** *creator_boursault *book_boursault_medecinvolant *style_verse *genre_comedy *dist1_boursault_verse_comedy_medecinvolant *dist2_boursault_verse_comedy *id_CRISPIN *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_crispin
+
 
 Je vous cherche partout pour vous rendre réponse,
 Monsieur.
@@ -597,8 +598,8 @@ Vous, le fait de Lucresse, et moi, le fait de Lise,
 Confondant tout ensemble et nos biens et les leurs,
 Faisons des médecins, ou volants, ou voleurs.
 
-
 **** *creator_boursault *book_boursault_medecinvolant *style_verse *genre_comedy *dist1_boursault_verse_comedy_medecinvolant *dist2_boursault_verse_comedy *id_FERNAND *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fernand
+
 
       Ma pauvre fille ! Elle va rendre l'âme,
 Philipin !
@@ -891,8 +892,8 @@ Que tu l'épouseras, ou je te défigure.
       Point de quartier : il sera ton époux,
 Ou du moins.
 
-
 **** *creator_boursault *book_boursault_medecinvolant *style_verse *genre_comedy *dist1_boursault_verse_comedy_medecinvolant *dist2_boursault_verse_comedy *id_PHILIPIN *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_philipin
+
 
       C'est à vous que j'en donne le blâme.
 À la pourvoir d'un homme on a trop retardé.
@@ -958,8 +959,8 @@ Voilà l'un, voilà l'autre.
 
       Qu'à merveille il grimpe une fenêtre.
 
-
 **** *creator_boursault *book_boursault_medecinvolant *style_verse *genre_comedy *dist1_boursault_verse_comedy_medecinvolant *dist2_boursault_verse_comedy *id_CANTEAS *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_canteas
+
 
       Excusez ce matin,
 L'intendant d'un seigneur m'a contraint de me rendre,
@@ -1027,4 +1028,3 @@ Aux emplois importants sont toujours réservés.
 Qu'étant moins occupé, vous pourrez me permettre
 De chercher un prétexte à me faire jouir
 Du plaisir qu'on reçoit, quand on peut vous ouïr.
-

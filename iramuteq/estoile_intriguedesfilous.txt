@@ -2,6 +2,7 @@
 
 **** *creator_estoile *book_estoile_intriguedesfilous *style_verse *genre_comedy *dist1_estoile_verse_comedy_intriguedesfilous *dist2_estoile_verse_comedy *id_lucidor *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucidor
 
+
       O Comble de mal-heurs !
 Puis-je chere Clorise assez verser de pleurs,
 Regrettant le portrait de celle que j'adore ?
@@ -237,8 +238,8 @@ Madame, laissez-moy, je sçauray le poursuivre.
 
 O charmante promesse !
 
-
 **** *creator_estoile *book_estoile_intriguedesfilous *style_verse *genre_comedy *dist1_estoile_verse_comedy_intriguedesfilous *dist2_estoile_verse_comedy *id_olympe *date_1648 *sexe_feminin *age_veteran *statut_maitre *fonction_mere *role_olympe
+
 
       Vous sortez bien matin,
 Mais plus matin encor je me suis habillée,
@@ -387,8 +388,8 @@ Qui fait que dés demain pour finir vos langueurs,
 L'Hymen joindra vos corps, comme Amour joint vos cœurs.
 Fin du cinquiesme & dernier Acte.
 
-
 **** *creator_estoile *book_estoile_intriguedesfilous *style_verse *genre_comedy *dist1_estoile_verse_comedy_intriguedesfilous *dist2_estoile_verse_comedy *id_florinde *date_1648 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_florinde
+
 
       J'attens vostre retour ;
 L'avez-vous veu Clorise ? a-t'il ce qu'il demande ?
@@ -594,8 +595,8 @@ Mais adieu, quelqu'un vient.
 
       O faveur non commune !
 
-
 **** *creator_estoile *book_estoile_intriguedesfilous *style_verse *genre_comedy *dist1_estoile_verse_comedy_intriguedesfilous *dist2_estoile_verse_comedy *id_clorise *date_1648 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_clorise
+
 
       Je l'ignore,
 De sa part chez Ragonde allant vous le porter,
@@ -679,8 +680,8 @@ Mon silence a causé vostre commun martyre.
 
       Je vous parle sans fard.
 
-
 **** *creator_estoile *book_estoile_intriguedesfilous *style_verse *genre_comedy *dist1_estoile_verse_comedy_intriguedesfilous *dist2_estoile_verse_comedy *id_tersandre *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tersandre
+
 
       Que me veux-tu ?
 
@@ -1050,8 +1051,8 @@ Je deviendray Bourreau, pour te rompre le cou.
 
       Fuyons.
 
-
 **** *creator_estoile *book_estoile_intriguedesfilous *style_verse *genre_comedy *dist1_estoile_verse_comedy_intriguedesfilous *dist2_estoile_verse_comedy *id_ragonde *date_1648 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ragonde
+
 
 Qui-va-là ?
 
@@ -1448,8 +1449,8 @@ Au voleur.
 
 Des coups que m'a donnez ce Fourbe qui s'enfuit.
 
-
 **** *creator_estoile *book_estoile_intriguedesfilous *style_verse *genre_comedy *dist1_estoile_verse_comedy_intriguedesfilous *dist2_estoile_verse_comedy *id_le-balafre *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebalafre
+
  
 Où donc ce Malotru peut-il s'estre fourré ?
 Dans sa Chambre à l'envy nous l'avons bien bourré,
@@ -1540,8 +1541,8 @@ Que de vaines frayeurs vostre ame est combatuë ;
 Nous serons plus heureux, ce mal n'adviendra point,
 Adieu, conservez bien le moule du pourpoint.
 
-
 **** *creator_estoile *book_estoile_intriguedesfilous *style_verse *genre_comedy *dist1_estoile_verse_comedy_intriguedesfilous *dist2_estoile_verse_comedy *id_le-borgne *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leborgne
+
 
 Il va comme la foudre, on a peine à l'atteindre.
 
@@ -1630,8 +1631,8 @@ On siffle, les voicy ;
 
 Hé ! s'ils sont éveillez ?
 
-
 **** *creator_estoile *book_estoile_intriguedesfilous *style_verse *genre_comedy *dist1_estoile_verse_comedy_intriguedesfilous *dist2_estoile_verse_comedy *id_le-bras-de-fer *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebrasdefer
+
 
 Je l'atteindray pourtant, & le rouëray de coups,
 Ainsi qu' à des Valets ce Faquin parle à nous,
@@ -1753,8 +1754,8 @@ Mais devois-tu toy-mesme à ce vol nous porter ?
 Pour t'éforcer apres de nous en degouster ?
 As-tu cuvé ton vin ? n'es-tu point ivre encore ?
 
-
 **** *creator_estoile *book_estoile_intriguedesfilous *style_verse *genre_comedy *dist1_estoile_verse_comedy_intriguedesfilous *dist2_estoile_verse_comedy *id_beronte *date_1648 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_beronte
+
 
 Bon-courage, mes pieds, courons viste, volons,
 Ils sont au Roy de Bronze, ils sont à nos talons,
@@ -2333,4 +2334,3 @@ Ha Dieu quel coup de pied m'a lancé ce Filou !
       Au secours.
  
       Il a des aisles.
-

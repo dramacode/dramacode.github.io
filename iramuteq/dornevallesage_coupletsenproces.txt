@@ -2,6 +2,7 @@
 
 **** *creator_dornevallesage *book_dornevallesage_coupletsenproces *style_verse *genre_prologue *dist1_dornevallesage_verse_prologue_coupletsenproces *dist2_dornevallesage_verse_prologue *id_LEPRESIDENT *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepresident
 
+
 Appelez les placets.
 
 Appellez-en un autre.
@@ -48,8 +49,8 @@ Doit être satisfait :
 Toque le Tambourin, toque,
 Toque le Tambourinet.
 
-
 **** *creator_dornevallesage *book_dornevallesage_coupletsenproces *style_verse *genre_prologue *dist1_dornevallesage_verse_prologue_coupletsenproces *dist2_dornevallesage_verse_prologue *id_MAITREGOUFFIN *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maitregouffin
+
 
 Cela suffit, Seigneur Menuet :
 Vous m'avez fort bien mis au fait.
@@ -129,8 +130,8 @@ Mais, Messieurs, considérez donc que ce mélange...
 
 Ah ! Qu'il fera beau voir en scène une Musette avec un Ramonez,la !
 
-
 **** *creator_dornevallesage *book_dornevallesage_coupletsenproces *style_verse *genre_prologue *dist1_dornevallesage_verse_prologue_coupletsenproces *dist2_dornevallesage_verse_prologue *id_MAITREGROSSEL *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maitregrossel
+
 
 Que demandez-vous, vieux Soldat ?
 
@@ -277,8 +278,60 @@ Qui vouliez chasser vos Papas ;
 S'ils vous abandonnaient, hélas !
 Vous, fermeriez bientôt boutique.
 
+**** *creator_dornevallesage *book_dornevallesage_coupletsenproces *style_verse *genre_prologue *dist1_dornevallesage_verse_prologue_coupletsenproces *dist2_dornevallesage_verse_prologue *id_MAITREBABILLARY *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_maitrebabillary
+
+
+Oui, Messieurs ; mais le poète a pris ses juges à partie.
+Des bons Auteurs ce grand Modèle ,
+Trouve qu'on l'a jugé fort mal ;
+C'est ce qui fait qu'il en appelle
+A votre illustre Tribunal.
+
+**** *creator_dornevallesage *book_dornevallesage_coupletsenproces *style_verse *genre_prologue *dist1_dornevallesage_verse_prologue_coupletsenproces *dist2_dornevallesage_verse_prologue *id_LEMENUET *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemenuet
+
+
+Oue, je pense
+Que bientôt, par votre éloquence ;
+Nous serons triomphants
+De nos surannés concurrents.
+La balance
+Penchera du côté
+De la Nouveauté,
+De notre beauté,
+De notre gaîté,
+Et légèreté.
+Qu'en dit l'aimable Musette.
+
+Vous ne vous trompez point.
+
+Vivat, Monsieur Gouffin !
+Il nous débarrassera,
+Tourelourirette, ò lironfa !
+De tous ces Polissons-là :
+Toure , toure , tourelourirette.
+Soyons témoins de cela,
+Tourelourirette, ô lironfa !
+
+**** *creator_dornevallesage *book_dornevallesage_coupletsenproces *style_verse *genre_prologue *dist1_dornevallesage_verse_prologue_coupletsenproces *dist2_dornevallesage_verse_prologue *id_LAMUSETTE *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lamusette
+
+
+Fi donc ! Fi donc ! Sur notre Scène
+Pourquoi souffrir des airs si vieux ?
+Le Public les trouve ennuyeux,
+Ils donnent la migraine.
+Renvoyez les, au nom des Dieux,
+À la Samaritaine.
+
+Vous voyez la folle Contre-danse,
+La Loure et le Cotillon badin.
+Voici le Mignon de la Provence,
+Le gentil, le joli Tambourin :
+Tous Couplets gaillards, dispos,
+Qui savent faire à propos
+Un saut, deux sauts, trois sauts.
 
 **** *creator_dornevallesage *book_dornevallesage_coupletsenproces *style_verse *genre_prologue *dist1_dornevallesage_verse_prologue_coupletsenproces *dist2_dornevallesage_verse_prologue *id_FLONFLON *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_flonflon
+
 
 Monsieur, enseignez-nous, de grâce,
 Quelque habilissime Avocat
@@ -304,8 +357,8 @@ Je vous serons bien obligés, Monsieur Grossel.
 
 Serpedié ! Monsieur Grossel, vous nous remettez le coeur au ventre.
 
-
 **** *creator_dornevallesage *book_dornevallesage_coupletsenproces *style_verse *genre_prologue *dist1_dornevallesage_verse_prologue_coupletsenproces *dist2_dornevallesage_verse_prologue *id_LACOMEREVOIRE *date_1730 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lacomerevoire
+
 
 Nous sommes de vieux Vaudevilles,
 À la Critique fort utiles,
@@ -339,4 +392,3 @@ Marotte. Mignonne.
 C'est le Traquenard avec Griselidis.
 
 Chut ! V'la deux de nos Parties, adverses avec leur avocat.
-

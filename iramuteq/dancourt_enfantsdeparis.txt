@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_enfantsdeparis *style_verse *genre_comedy *dist1_dancourt_verse_comedy_enfantsdeparis *dist2_dancourt_verse_comedy *id_MONSIEURHARPIN *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurharpin
 
+
       Ah, ah, je suis bien aise
 De rencontrer ici ce maroufle fieffé.
 
@@ -803,8 +804,8 @@ Le Monsieur Boniface est un fourbe fieffé.
 Je suis trompé partout, et tout me désespère,
 Contre tous tant qu'ils sont mon courroux va s'armer.
 
-
 **** *creator_dancourt *book_dancourt_enfantsdeparis *style_verse *genre_comedy *dist1_dancourt_verse_comedy_enfantsdeparis *dist2_dancourt_verse_comedy *id_MADAMEARGANTE *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameargante
+
 
       Comment donc, mon neveu,
 Apparemment ta cervelle s'évente ?
@@ -1123,8 +1124,8 @@ Grâces au Ciel, mes enfants, l'injuste traitement
 Qu'il avait dessein de vous faire
 Tombe sur lui très justement.
 
-
 **** *creator_dancourt *book_dancourt_enfantsdeparis *style_verse *genre_comedy *dist1_dancourt_verse_comedy_enfantsdeparis *dist2_dancourt_verse_comedy *id_CLITANDRE *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
+
 
 Où trouverai-je ce faquin ?
 
@@ -1328,8 +1329,8 @@ Pour notre hymen donnez-nous votre voix,
 Vous ne pouvez pour moi désapprouver un choix
 Que vous aviez fait pour vous-même.
 
-
 **** *creator_dancourt *book_dancourt_enfantsdeparis *style_verse *genre_comedy *dist1_dancourt_verse_comedy_enfantsdeparis *dist2_dancourt_verse_comedy *id_ANGELIQUE *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+
 
 Ma chère Finette, je suis
 Dans le plus cruel des ennuis :
@@ -1508,8 +1509,8 @@ Entre Monsieur et le Couvent, mon père,
 Vous m'avez commandé tantôt de faire un choix,
 Et c'est Monsieur que je préfère.
 
-
 **** *creator_dancourt *book_dancourt_enfantsdeparis *style_verse *genre_comedy *dist1_dancourt_verse_comedy_enfantsdeparis *dist2_dancourt_verse_comedy *id_VALERE *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_valere
+
 
       Moi,
 Finette, ce que je demande ?
@@ -1641,8 +1642,8 @@ De sa haine, Monsieur, enfin, j'ai triomphé.
 
 Non, Monsieur, mais je suis Valère.
 
-
 **** *creator_dancourt *book_dancourt_enfantsdeparis *style_verse *genre_comedy *dist1_dancourt_verse_comedy_enfantsdeparis *dist2_dancourt_verse_comedy *id_CLIMENE *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_climene
+
 
 Je ne mérite pas un pareil compliment :
 Mais, Finette est galante et bonne.
@@ -1731,8 +1732,8 @@ Cent louis ?
 Non, Monsieur, je m'en suis trop hautement vantée,
 Et je n'y ferai pas un inutile effort.
 
-
 **** *creator_dancourt *book_dancourt_enfantsdeparis *style_verse *genre_comedy *dist1_dancourt_verse_comedy_enfantsdeparis *dist2_dancourt_verse_comedy *id_FINETTE *date_1699 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_finette
+
 
 Que de chagrins pour nos jeunes Amants !
 Que les enfants sont misérables,
@@ -2629,8 +2630,8 @@ Profitez de sa honte, et de son châtiment.
 Quiconque veut prêcher aux autres d'être sage,
 Doit commencer par vivre sagement.
 
-
 **** *creator_dancourt *book_dancourt_enfantsdeparis *style_verse *genre_comedy *dist1_dancourt_verse_comedy_enfantsdeparis *dist2_dancourt_verse_comedy *id_MERLIN *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merlin
+
 
 Serviteur, charmante Finette.
 
@@ -3068,8 +3069,8 @@ Et mon maître s'apprête incessamment…
 Au bout du compte, il a quelque raison.
 Avant la noce, au moins, vous devez voir sa femme.
 
-
 **** *creator_dancourt *book_dancourt_enfantsdeparis *style_verse *genre_comedy *dist1_dancourt_verse_comedy_enfantsdeparis *dist2_dancourt_verse_comedy *id_MONSIEURVILAIN *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurvilain
+
 
 Vous faites en très brave père,
 De ranger un fils libertin ;
@@ -3118,8 +3119,8 @@ Non, non.
 Monsieur Harpin, c'est vous qu'il faut faire enfermer.
 À Dieu.
 
-
 **** *creator_dancourt *book_dancourt_enfantsdeparis *style_verse *genre_comedy *dist1_dancourt_verse_comedy_enfantsdeparis *dist2_dancourt_verse_comedy *id_UNLAQUAIS *date_1699 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_unlaquais
+
 
 Votre Notaire est là qui vous demande.
 
@@ -3131,4 +3132,3 @@ Vous attend chez votre Notaire.
 
       Voilà
 Avec Monsieur votre fils, une Dame.
-

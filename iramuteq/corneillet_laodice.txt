@@ -1,6 +1,7 @@
 
 
-**** *creator_corneillet *book_corneillet_laodice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_laodice *dist2_corneillet_verse_tragedy *id_laodice *date_1668 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_laodice
+**** *creator_corneillet *book_corneillet_laodice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_laodice *dist2_corneillet_verse_tragedy *id_laodice *date_1668 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_laodice
+
 
 Et Cleone elle-mesme en peut estre estonnée,
 Elle à qui ma conduite a deu trop enseigner
@@ -729,8 +730,8 @@ Vous ne douterez point s'il est digne de vous,
 Je vous laisse avec luy partager cette joye,
 Il vous en dira plus.
 
+**** *creator_corneillet *book_corneillet_laodice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_laodice *dist2_corneillet_verse_tragedy *id_ariarate *date_1668 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_ariarate
 
-**** *creator_corneillet *book_corneillet_laodice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_laodice *dist2_corneillet_verse_tragedy *id_ariarate *date_1668 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_ariarate
 
 Madame, vous sçavez le dessein de la Reyne.
 Des vœux de ses Sujets se faisant une loy
@@ -1274,8 +1275,8 @@ O Ciel !
 
 O Fils trop malheureux ! ô déplorable mort !
 
+**** *creator_corneillet *book_corneillet_laodice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_laodice *dist2_corneillet_verse_tragedy *id_aquilius *date_1668 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_aquilius
 
-**** *creator_corneillet *book_corneillet_laodice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_laodice *dist2_corneillet_verse_tragedy *id_aquilius *date_1668 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_aquilius
 
 Madame, je vous plains, et de votre infortune
 La fatale rigueur semble si peu commune,
@@ -1373,8 +1374,8 @@ Forcez vostre douleur, et pour prix de sa foy
 Allons luy faire voir et sa Reyne et son Roy.
 Fin du cinquiéme et dernier Acte.
 
+**** *creator_corneillet *book_corneillet_laodice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_laodice *dist2_corneillet_verse_tragedy *id_phradate *date_1668 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_phradate
 
-**** *creator_corneillet *book_corneillet_laodice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_laodice *dist2_corneillet_verse_tragedy *id_phradate *date_1668 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_phradate
 
 Voudrez-vous l'advouër ? La Princesse Axiane
 Cherche à rompre par vous un choix qu'elle condamne,
@@ -1535,8 +1536,8 @@ Là tirant un poignard dont elle estoit saisie
 Avant qu'on l'ait pû voir elle a tombé sans vie,
 Un seul coup malgré nous a terminé son sort.
 
+**** *creator_corneillet *book_corneillet_laodice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_laodice *dist2_corneillet_verse_tragedy *id_anaxandre *date_1668 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_anaxandre
 
-**** *creator_corneillet *book_corneillet_laodice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_laodice *dist2_corneillet_verse_tragedy *id_anaxandre *date_1668 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_anaxandre
 
 Phradate prend grand soin de vous faire sa Cour,
 Et je ne doute point qu'il n'ait quelque avantage
@@ -1687,8 +1688,8 @@ Que sans esgard au rang…
 Mais pour m'en consoler vous connoissez mon ame,
 Et ne soufrirez⁎ pas que l'on me pousse à bout.
 
+**** *creator_corneillet *book_corneillet_laodice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_laodice *dist2_corneillet_verse_tragedy *id_axiane *date_1668 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_axiane
 
-**** *creator_corneillet *book_corneillet_laodice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_laodice *dist2_corneillet_verse_tragedy *id_axiane *date_1668 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_axiane
 
 Quoy, le Senat députe⁎, et sans daigner attendre
 Qu'icy l'Ambassadeur ait le temps de se rendre,
@@ -1981,8 +1982,8 @@ La fuite est dangereuse, et dans un pareil sort...
 Allez, Seigneur, ce feu ne peut trop tost s'éteindre,
 On y feroit sans vous des efforts superflus.
 
+**** *creator_corneillet *book_corneillet_laodice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_laodice *dist2_corneillet_verse_tragedy *id_cleone *date_1668 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_cleone
 
-**** *creator_corneillet *book_corneillet_laodice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_laodice *dist2_corneillet_verse_tragedy *id_cleone *date_1668 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_cleone
 
 Madame, on est surpris que dés aujourd'huy mesme
 Vous vueilliez partager la puissance supréme,
@@ -2043,8 +2044,8 @@ Un complice arresté que devient Anaxandre ?
 Quoy, pour ce malheureux une hayne si prompte,
 Madame? Et vôtre amour a pû si tost ceder ?
 
+**** *creator_corneillet *book_corneillet_laodice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_laodice *dist2_corneillet_verse_tragedy *id_alcine *date_1668 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_alcine
 
-**** *creator_corneillet *book_corneillet_laodice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_laodice *dist2_corneillet_verse_tragedy *id_alcine *date_1668 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_alcine
 
 Vous en estonnez-vous quand Rome s'interesse
 A l'Espoux qu'elle doit choisir pour la Princesse ?
@@ -2117,8 +2118,8 @@ En sçait-il le secret ?
 
       Voyez que l'amour vous l'amene.
 
+**** *creator_corneillet *book_corneillet_laodice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_laodice *dist2_corneillet_verse_tragedy *id_theodot *date_1668 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_theodot
 
-**** *creator_corneillet *book_corneillet_laodice *style_verse *genre_tragedy *dist1_corneillet_verse_tragedy_laodice *dist2_corneillet_verse_tragedy *id_theodot *date_1668 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_theodot
 
 Ah, Seigneur, sçavez-vous une grande nouvelle ?
 
@@ -2132,4 +2133,3 @@ Il l'amene avec luy.
 
 On ne prend plus ce bruit pour un bruit decevant,
 On l'approche, on luy parle, et luy-mesme il ordonne…
-

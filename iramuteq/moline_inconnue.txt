@@ -2,6 +2,7 @@
 
 **** *creator_moline *book_moline_inconnue *style_verse *genre_comedy *dist1_moline_verse_comedy_inconnue *dist2_moline_verse_comedy *id_LEBARON *date_1776 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lebaron
 
+
 Je vous cherchais, mon fils... Ah vous voila Jeannette...
 
 J'ai suspendu pour quelque temps votre départ pour votre régiment...
@@ -150,8 +151,8 @@ Allons informer ma fille de cet heureux événement.
 
 Les voilà rassemblés : ah ! Ma chère Sophie ! Partage nos transports ! Que l'hymen t'unifie à mon fils ! Oui : tu mérites nos hommages autant par tes vertus, que par l'éclat de ta naissance.
 
-
 **** *creator_moline *book_moline_inconnue *style_verse *genre_comedy *dist1_moline_verse_comedy_inconnue *dist2_moline_verse_comedy *id_CLARISSE *date_1776 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_clarisse
+
 
 Ô Ciel ! Que vois-je ?
 
@@ -216,8 +217,8 @@ Quel est votre dessein ?
 
 Oh ! Tout ceci est une énigme pour moi.
 
-
 **** *creator_moline *book_moline_inconnue *style_verse *genre_comedy *dist1_moline_verse_comedy_inconnue *dist2_moline_verse_comedy *id_LEVICOMTE *date_1776 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_levicomte
+
 
 Ah ! Madame, qu'exigez-vous de moi ? Ce serait une tyrannie. Vous voulez faire le malheur de cet aimable enfant, parce que votre frère a du penchant pour elle. Réfléchissez de grâce sur la démarche que vous me proposez, et soyez moins inhumaine. Je crois que cette jeune fille ne mérite point le mépris dont vous l'accablez.
 
@@ -284,8 +285,8 @@ Elle est ma soeur.
 
 Oh, n'en doutez point, elle se nomme Sophie...
 
-
 **** *creator_moline *book_moline_inconnue *style_verse *genre_comedy *dist1_moline_verse_comedy_inconnue *dist2_moline_verse_comedy *id_JEANNETTE *date_1776 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_jeannette
+
 
 Monsieur, vos bontés me rendent confuse : je ne mérite point votre affection. Oubliez-vous ce que vous êtes, et ignorez-vous ce que je suis ?
 
@@ -479,8 +480,8 @@ Je revois un tendre frère,
 Ah ! Quels doux frémissements
 S'emparent de tous mes sens !
 
-
 **** *creator_moline *book_moline_inconnue *style_verse *genre_comedy *dist1_moline_verse_comedy_inconnue *dist2_moline_verse_comedy *id_ZERBINE *date_1776 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_zerbine
+
 
 Bonjour Fabrice.
 
@@ -632,8 +633,8 @@ Ne me fais donc plus la mine,
 Tu m'aimes, je le devine,
 Rends moi ton coeur et ta foi.
 
-
 **** *creator_moline *book_moline_inconnue *style_verse *genre_comedy *dist1_moline_verse_comedy_inconnue *dist2_moline_verse_comedy *id_FABRICE *date_1776 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fabrice
+
 
 J'aime l'éclat des Françaises,
 L'air fripon des Milanaises,
@@ -761,4 +762,3 @@ Je ne serai plus volage,
 Fabrice enfin est à toi,
 Qu'un tendre amour nous engage
 Reçois mon coeur et ma foi.
-

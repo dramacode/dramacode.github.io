@@ -2,6 +2,7 @@
 
 **** *creator_corneillep *book_corneillep_pertharite *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_pertharite *dist2_corneillep_verse_tragedy *id_PERTHARITE *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pertharite
 
+
 Qui, cet époux si cher à vos chastes désirs,
 Qui vous a tant coûté de pleurs et de soupirs…
 
@@ -187,8 +188,8 @@ Allons mettre en éclat cette grande journée,
 Et montrer à ce peuple, heureusement surpris,
 Que des hautes vertus la gloire est le seul prix.
 
-
 **** *creator_corneillep *book_corneillep_pertharite *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_pertharite *dist2_corneillep_verse_tragedy *id_GRIMOALD *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_grimoald
+
 
 Madame, vous savez ce qu'on m'est venu dire,
 Qu'allant de ville en ville et d'empire en empire
@@ -755,8 +756,8 @@ Je promis…
 
 Vous m'avez outragé sans me faire injustice.
 
-
 **** *creator_corneillep *book_corneillep_pertharite *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_pertharite *dist2_corneillep_verse_tragedy *id_GARIBALDE *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_garibalde
+
 
 Mettre à ce prix vos feux et votre diadème,
 C'est ne connaître pas votre haine et vous-même ;
@@ -1039,8 +1040,8 @@ Qu'imprime au front des rois leur propre majesté.
 Un roi doit pouvoir tout, et ne sait pas bien l'être
 Quand au fond de son coeur il souffre un autre maître.
 
-
 **** *creator_corneillep *book_corneillep_pertharite *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_pertharite *dist2_corneillep_verse_tragedy *id_UNULPHE *date_1651 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_unulphe
+
 
 Dites au roi, madame.
 
@@ -1205,8 +1206,8 @@ Au péril de ma tête, en moins d'une heure ou deux,
 Je m'offre de la rendre à l'objet de ses voeux.
 Allons, allons, madame, et souffrez que je tâche…
 
-
 **** *creator_corneillep *book_corneillep_pertharite *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_pertharite *dist2_corneillep_verse_tragedy *id_RODELINDE *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rodelinde
+
 
 Oui, l'honneur qu'il me rend ne fait que m'outrager ;
 Je vous le dis encor, rien ne peut me changer :
@@ -1786,8 +1787,8 @@ Qu'une amitié si ferme aujourd'hui nous unisse,
 Que l'un et l'autre état en admire les noeuds,
 Et doute avec raison qui règne de vous deux.
 
-
 **** *creator_corneillep *book_corneillep_pertharite *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_pertharite *dist2_corneillep_verse_tragedy *id_EDWIGE *date_1651 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_edwige
+
 
 Madame, si j'étais d'un naturel jaloux,
 Je m'inquiéterais de le voir avec vous,
@@ -2138,3 +2139,37 @@ Ton exemple m'oblige encor plus à la rendre ;
 Et je mériterais un nouveau changement,
 Si mon coeur n'égalait celui de mon amant.
 
+**** *creator_corneillep *book_corneillep_pertharite *style_verse *genre_tragedy *dist1_corneillep_verse_tragedy_pertharite *dist2_corneillep_verse_tragedy *id_SOLDAT *date_1651 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_soldat
+
+
+      Vous avertir, Seigneur,
+D'un grand malheur ensemble et d'un rare bonheur.
+Garibalde n'est plus, et l'imposteur infâme
+Qui tranche ici du roi lui vient d'arracher l'âme ;
+Mais ce même imposteur est en votre pouvoir.
+
+      Ce que vous allez voir.
+
+Le duc, ayant appris quelles intelligences
+Dérobaient un tel fourbe à vos justes vengeances,
+L'attendait à main-forte, et lui fermant le pas :
+" à lui seul, nous dit-il ; mais ne le blessons pas.
+Réservons tout son sang aux rigueurs des supplices,
+Et laissons par pitié fuir ses lâches complices. "
+Ceux qui le conduisaient, du grand nombre étonnés,
+Et par mes compagnons soudain environnés,
+Acceptent la plupart ce qu'on leur facilite,
+Et s'écartent sans bruit de ce faux Pertharite.
+Lui, que l'ordre reçu nous forçait d'épargner
+Jusqu'à baisser l'épée et le trop dédaigner,
+S'ouvre en son désespoir parmi nous un passage,
+Jusque sur notre chef pousse toute sa rage,
+Et lui plonge trois fois un poignard dans le sein,
+Avant qu'aucun de nous ait pu voir son dessein.
+Nos bras étaient levés pour l'en punir sur l'heure ;
+Mais le duc par nos mains ne consent pas qu'il meure,
+Et son dernier soupir est un ordre nouveau
+De garder tout son sang à celle d'un bourreau.
+Ainsi ce fugitif retombe dans sa chaîne,
+Et vous pouvez, seigneur, ordonner de sa peine :
+Le voici.

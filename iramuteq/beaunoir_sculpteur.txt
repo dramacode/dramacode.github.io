@@ -2,6 +2,7 @@
 
 **** *creator_beaunoir *book_beaunoir_sculpteur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_sculpteur *dist2_beaunoir_prose_comedy *id_LEDOUX *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ledoux
 
+
 Bonjour, Susanne : déjà toute à l'ouvrage !
 
 Tu me grondes, Susanne ?
@@ -253,8 +254,8 @@ Ah ! Monsieur, permettez...
 
 Ma Susanne... J'abjure à tes pieds ce malheureux goût, qui allait, peut-être, me faire oublier que j'étais époux et père.
 
-
 **** *creator_beaunoir *book_beaunoir_sculpteur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_sculpteur *dist2_beaunoir_prose_comedy *id_BECARRE *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_becarre
+
 
 Bonjour, mon ami : votre très humble serviteur ; Madame le Doux. Toujours charmante !
 
@@ -436,8 +437,8 @@ Tu as tes raisons ?
 
 Ceci change la thèse. Je veux les savoir, moi, ces raisons.
 
-
 **** *creator_beaunoir *book_beaunoir_sculpteur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_sculpteur *dist2_beaunoir_prose_comedy *id_MADEMOISELLEDESBRISEES *date_1784 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mademoiselledesbrisees
+
 
 C'est ce cher Abbé !
 
@@ -511,8 +512,8 @@ Oui ; mais son Cuisinier est divin, et sa cave est délicieuse.
 
 Ne peut-on vous dédommager ? À demain, Monsieur le Doux.
 
-
 **** *creator_beaunoir *book_beaunoir_sculpteur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_sculpteur *dist2_beaunoir_prose_comedy *id_DUCISEAU *date_1784 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_duciseau
+
 
 Est-ce que vous vous moquez de moi, tous les deux, de me faire attendre si longtemps ?
 
@@ -639,8 +640,8 @@ Oui ; et si tu veux venir jusques chez moi boire un verre de liqueur, je te les
 Eh bien ! Donne-moi le bras.
 Votre très humble serviteur, Monsieur.
 
-
 **** *creator_beaunoir *book_beaunoir_sculpteur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_sculpteur *dist2_beaunoir_prose_comedy *id_SUSANNE *date_1784 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_susanne
+
 
 Bien obligé, Madame Caquet.
 
@@ -920,8 +921,8 @@ Peux-tu soupçonner, le Doux ?...
 
 Oh ! Mon ami !
 
-
 **** *creator_beaunoir *book_beaunoir_sculpteur *style_prose *genre_comedy *dist1_beaunoir_prose_comedy_sculpteur *dist2_beaunoir_prose_comedy *id_MADAMECAQUET *date_1784 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamecaquet
+
 
 Tenez, ma voisine, voilà une lettre que vient de me remettre pour vous le facteur de la petite poste.
 
@@ -1016,4 +1017,3 @@ Votre mari me paraît fort indisposé, ma voisine, et, si vous voulez, je le gar
 Je suis fâchée, Madame, que vous preniez aussi mal les marques d'intérêt et d'amitié qu'on vous donne, et dorénavant je garderai pour d'autres mes conseils, puisque vous les recevez ainsi.
 
 Cela suffit. Restez à roucouler douloureusement auprès d'un époux si tendre, si rangé ; vous méritez bien ce qui vous arrive.
-

@@ -2,6 +2,7 @@
 
 **** *creator_montfleury *book_montfleury_marisansfemme *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemme *dist2_montfleury_verse_comedy *id_brusquin *date_1705 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brusquin
 
+
 Si Julie encore vous est chere,
 Ne pensez point à la chercher
 Autre part que dans Alger.
@@ -483,8 +484,8 @@ Bien des gens que je vois, voudroient me ressembler.
 On reprend icy le même divertissement.
 FIN.
 
-
 **** *creator_montfleury *book_montfleury_marisansfemme *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemme *dist2_montfleury_verse_comedy *id_julie *date_1705 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+
 
 Ah Carlos !
 
@@ -582,8 +583,8 @@ Plus de la moitié des Maris
 Qui sont aujourd'huy dans Paris,
 Feroient dés demain le voyage.
 
-
 **** *creator_montfleury *book_montfleury_marisansfemme *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemme *dist2_montfleury_verse_comedy *id_carlos *date_1705 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_carlos
+
 
       Ah Julie !
 
@@ -742,8 +743,8 @@ Le voilà.
 
 Seigneur en faveur…
 
-
 **** *creator_montfleury *book_montfleury_marisansfemme *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemme *dist2_montfleury_verse_comedy *id_fatiman *date_1705 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_fatiman
+
 
 Ta Femme, ce n'est pas Julie, apparemment ?
 
@@ -1197,8 +1198,8 @@ L'enleva de tes bras, c'est luy qu'en Barbarie⁎,
 L'Amour pour te l'ôter fit Esclave, & c'est luy,
 Qu'on va faire à tes yeux son Epoux aujourd'huy.
 
-
 **** *creator_montfleury *book_montfleury_marisansfemme *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemme *dist2_montfleury_verse_comedy *id_celime *date_1705 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_celime
+
 
 Ah ! qu'un nouvel amour met de trouble⁎ en un cœur⁎,
 Sur tout lors que l'on craint d'avoir une Rivale !
@@ -1707,8 +1708,8 @@ Je vais sortir d'Alger, pour ne te voir jamais.
 
 Ils blessent tous la mienne, allons, sortons d'icy.
 
-
 **** *creator_montfleury *book_montfleury_marisansfemme *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemme *dist2_montfleury_verse_comedy *id_zaire *date_1705 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_zaire
+
 
 Entrez, je vais sçavoir⁎, si Celime est visible,
 Elle est depuis huit jours dans un chagrin⁎ horrible⁎,
@@ -1916,8 +1917,8 @@ Ouy, Madame.
 
 Non, Madame.
 
-
 **** *creator_montfleury *book_montfleury_marisansfemme *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemme *dist2_montfleury_verse_comedy *id_marine *date_1705 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_marine
+
 
       Ah Tomire!
 
@@ -2110,8 +2111,8 @@ Vous prier d'empêcher que ce vilain Epoux,
 A l'amour de Carlos n'arrache ma Maîtresse.
 Elle mourroit, ayez pitié de sa tendresse⁎.
 
-
 **** *creator_montfleury *book_montfleury_marisansfemme *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemme *dist2_montfleury_verse_comedy *id_tomire *date_1705 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_tomire
+
 
       Ah Marine!
 
@@ -2439,8 +2440,8 @@ Il m'a recommandé que cecy fût secret.
 Madame, vous sçavez comme je suis discret ;
 Ma langue est morte, & j'ay cadenacé ma bouche.
 
-
 **** *creator_montfleury *book_montfleury_marisansfemme *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemme *dist2_montfleury_verse_comedy *id_gusman *date_1705 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_gusman
+
 
 Quoy, Monsieur, sur le point de revoir en Julie,
 Aprés six mois d'absence, une Femme cherie,
@@ -2474,8 +2475,8 @@ Et qui sçaura cela chez vous, quand par vos soins⁎...
 
       J'entens bien.
 
-
 **** *creator_montfleury *book_montfleury_marisansfemme *style_verse *genre_comedy *dist1_montfleury_verse_comedy_marisansfemme *dist2_montfleury_verse_comedy *id_stamorat *date_1705 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_stamorat
+
 
 Voilà cet Espagnol dont on vous a parlé.
 
@@ -2538,4 +2539,3 @@ Ne verra-t'il pas bien que nous aurons menty ?
 Il va me renvoyer.
 
 Attendez, je vay voir ; mais s'il vient, soyez sage.
-

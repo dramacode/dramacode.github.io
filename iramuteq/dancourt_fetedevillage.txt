@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_fetedevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetedevillage *dist2_dancourt_prose_comedy *id_MONSIEURBLANDINEAU *date_1700 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurblandineau
 
+
 Vous voilà en grande conférence avec notre Tabellion ? Ce n'est pas moi qui vous interromps peut-être ?
 
 Oui, je vous le donne de tout mon cœur : mais je ne vous promets pas que mon consentement détermine ma belle-sœur à vous épouser. Elle est un peu folle, comme vous savez ; et je m'étonne que tous les travers que vous lui connaissez, ne vous corrigent pas de l'envie que vous avez d'en faire votre femme.
@@ -110,8 +111,8 @@ Vous venez de signer le contraire.
 
 Et nous prendrons un Suisse à frais communs, Madame la Comtesse ?
 
-
 **** *creator_dancourt *book_dancourt_fetedevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetedevillage *dist2_dancourt_prose_comedy *id_LECOMTE *date_1700 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecomte
+
 
 Charmante Angélique, je vous adore.
 
@@ -193,8 +194,8 @@ Non, Madame, je n'en serai point la dupe : mais j'en profiterai, s'il vous pla�
 
 Très volontiers, Monsieur, vous êtes le maître.
 
-
 **** *creator_dancourt *book_dancourt_fetedevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetedevillage *dist2_dancourt_prose_comedy *id_LOLIVE *date_1700 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lolive
+
 
 Je suis bienheureux, Mademoiselle, de vous trouver ainsi d'abord en arrivant, avant que personne…
 
@@ -226,8 +227,8 @@ Pour moi, Madame, comme ma santé ne vous est pas si chère, il me faudra du vin
 
 Adieu, Comtine.
 
-
 **** *creator_dancourt *book_dancourt_fetedevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetedevillage *dist2_dancourt_prose_comedy *id_LEMAGISTER *date_1700 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lemagister
+
 
 Ne vous boutez pas en peine, partant que les garçons ne manquiont pas de vin et les filles de tartes, et que vous nous bailliais ces vingt écus que vous m'avez dit pour les ménétriers et pour ces petites chansonnettes que je fourerons par-ci par-là, nan ragaillardira votre soirée de la belle façon, je vous en réponds.
 
@@ -249,8 +250,8 @@ Ici, soit. Je m'en vas vous les amener. Ça ne sera peut-être pas bian drès l'
 
 Tout notre monde est là, Madame ; mais comme vela Monsieu le Tabellion qui viant avec une grosse compagnie vous apporter à signer queuque chose ; afin de n'être pas interrompus, et de pas interrompre, j'attendrons que cela soit fait, si bon vous semble.
 
-
 **** *creator_dancourt *book_dancourt_fetedevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetedevillage *dist2_dancourt_prose_comedy *id_MADAMEBLANDINEAU *date_1700 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madameblandineau
+
 
 À quoi vous amusez-vous donc, Mademoiselle Lisette ? Il y a une heure que je vous fais chercher. Allons vite, mes coiffes et mon écharpe.
 
@@ -326,8 +327,8 @@ Oh voilà qui est fini, je vous l'accorde, Madame la Comtesse.
 
 Il en sera, je vous en réponds. Il est en marché d'un marquisat, lui.
 
-
 **** *creator_dancourt *book_dancourt_fetedevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetedevillage *dist2_dancourt_prose_comedy *id_LAGREFFIERE *date_1700 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lagreffiere
+
 
 Je ne saurais me tranquilliser là-dessus, ma pauvre Lisette, cette journée-ci sera malheureuse pour moi, je t'assure ; j'ai éternué trois fois à jeun, j'ai le teint brouillé, l'œil nébuleux, et je n'ai jamais pu ce matin donner un bon tour à mon crochet gauche.
 
@@ -533,8 +534,8 @@ Nous logerons ensemble, Madame la Baronne.
 
 Oh, pour cela oui, très volontiers. Je le savais bien que je serais de qualité, et que je ferais figure. Vous me regretterez, petit vilain, vous me regretterez : mais je serai bientôt veuve. Allons, Monsieur le Magister, voyons votre petite bagatelle, en attendant le souper ; et quand on aura servi, que le Maître d'hôtel de ma sœur la Baronne nous avertisse en cérémonie.
 
-
 **** *creator_dancourt *book_dancourt_fetedevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetedevillage *dist2_dancourt_prose_comedy *id_LELUE *date_1700 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lelue
+
 
 Et à moi des plus ridicule.
 
@@ -564,8 +565,8 @@ Vous m'avez vendu des laines éventées, que je vous renverrai, Madame la Prési
 
 Monsieur l'Élu cessera de l'être, ou je trouverai moyen de n'être plus sa femme.
 
-
 **** *creator_dancourt *book_dancourt_fetedevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetedevillage *dist2_dancourt_prose_comedy *id_MADAMECARMIN *date_1700 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_madamecarmin
+
 
 Bonjour, ma chère Madame Blandineau.
 
@@ -601,8 +602,8 @@ Votre très humble servante, Madame.
 
 On vous les changera, Madame l'Élue. Adieu, mon agréable Comtesse.
 
-
 **** *creator_dancourt *book_dancourt_fetedevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetedevillage *dist2_dancourt_prose_comedy *id_ANGELIQUE *date_1700 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_angelique
+
 
 Quoi, te voilà seule, Lisette, et tu ne viens pas me trouver ? Que tu es cruelle de m'abandonner à mes chagrins, et de ne pas être avec moi le plus souvent qu'il t'est possible !
 
@@ -686,8 +687,8 @@ Au moins, Monsieur le Comte, ne vous laissez pas persuader d'épouser ma tante, 
 
 Je n'examine point, ma tante. Il suffit que ce soit me conformer à vos volontés.
 
-
 **** *creator_dancourt *book_dancourt_fetedevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetedevillage *dist2_dancourt_prose_comedy *id_LISETTE *date_1700 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lisette
+
 
 Hé fi, Madame, il faut faire châtier cet insolent-là.
 
@@ -827,3 +828,9 @@ Vous avez tort de disputer, Madame, il le sait mieux que vous ; c'est lui qui a
 
 Est-ce que vous voudriez que Monsieur le Tabellion eût l'embarras de réécrire tout cela, Madame.
 
+**** *creator_dancourt *book_dancourt_fetedevillage *style_prose *genre_comedy *dist1_dancourt_prose_comedy_fetedevillage *dist2_dancourt_prose_comedy *id_CLAUDINE *date_1700 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_claudine
+
+
+Hé, venez vite, Monsieur, parler à Madame. La voilà qui étouffe, et qui va mourir, parce que Madame la Greffière va être Comtesse.
+
+Madame l'élue est avec elle qui fait tout comme elle ; elles s'asseyent, elles se lèvent, elles se tourmentent, elles se lamentent ; elles m'ont donné chacune deux soufflets, parce que je ne pouvais m'empêcher de rire.

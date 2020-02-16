@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_vendanges *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vendanges *dist2_dancourt_prose_comedy *id_LUCAS *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lucas
 
+
 Oh çà, Margot, tu étais avec notre nièce. Morgué, dis donc ? Depuis queuques jours à qui en a-t-elle ? Elle enrageait d'être fille, elle n'avait pas tort ; elle avait la rage d'être mariée, on la marie, et elle enrage encore : il faut qu'elle soit bien enragée, cette créature-là.
 
 Pargué tu me feras plaisir, car je n'y entends goutte.
@@ -136,8 +137,8 @@ Acoutez, pour moi je ne me saurais réjouir si Margot ne me rend son cœur, fran
 
 Oh, pour stila, je t'en réponds, puisqu'il te faut garder, je ne te quitterai plus, laisse-moi faire.
 
-
 **** *creator_dancourt *book_dancourt_vendanges *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vendanges *dist2_dancourt_prose_comedy *id_MARGOT *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_margot
+
 
 Qu'est-ce donc que tu as, Claudine ?Tu es bien de mauvaise humeur, mon enfant.
 
@@ -307,8 +308,8 @@ Est-ce que tu y consentiras, Lucas. Me feras-tu ce chagrin-là, mon enfant ?
 
 Je ne te le rendrai point qu'ils ne soient tout à fait mariés, et à condition encore que tu n'iras plus au cabaret.
 
-
 **** *creator_dancourt *book_dancourt_vendanges *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vendanges *dist2_dancourt_prose_comedy *id_CLAUDINE *date_1694 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_claudine
+
 
 Tenez, ma tante, voulez-vous que je vous dise ma pensée ? Je ne suis pas contente de me marier.
 
@@ -376,8 +377,8 @@ Mais, quoi ! Seule…
 
 Si fait, vraiment, je l'aime bien mieux que vous ; vous voulez vivre trop longtemps, et j'ai peur de m'ennuyer en ménage.
 
-
 **** *creator_dancourt *book_dancourt_vendanges *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vendanges *dist2_dancourt_prose_comedy *id_ERASTE *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_eraste
+
 
 C'est le bruit de votre réputation, Monsieur Lucas, qui nous attire en ce pays-ci.
 
@@ -437,8 +438,8 @@ Je me suis introduit chez vous sous ce déguisement : votre femme a pris de l'a
 
 Sans emportement, Monsieur le Collecteur, prenez vous-même part à la fête, il ne vous en coûtera rien, je vous assure. Ce sont des gens à moi, Monsieur Lucas, que j'ai amenés de Paris, pour contribuer aux plaisirs de Claudine pendant les vendanges. Ils se sont joints à quelques personnes du Village : voyons ce que produira ce mélange, et que tout le monde prenne part à ma joie.
 
-
 **** *creator_dancourt *book_dancourt_vendanges *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vendanges *dist2_dancourt_prose_comedy *id_LOLIVE *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lolive
+
 
 À votre physionomie brillante et enluminée, il n'est pas mal aisé de deviner que vous êtes Monsieur Lucas.
 
@@ -547,8 +548,8 @@ Le premier qui branle, je fais main basse.
 
 Paix, taisez-vous, Monsieur le rustre ?
 
-
 **** *creator_dancourt *book_dancourt_vendanges *style_prose *genre_comedy *dist1_dancourt_prose_comedy_vendanges *dist2_dancourt_prose_comedy *id_LECOLLECTEUR *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecollecteur
+
 
 Sarviteur, notre tante, ou peu s'en faut ; car il ne s'en faut plus que de petites sarimonies que je voudrais bien qui fussians faites : notre oncle Lucas veut remettre ça après vendanges, ce n'est morgué pas de mon avis au moins, Claudine. Mais palsangué qu'est-ce donc que vous avez. Est-ce que vous êtes fâchée d'attendre ? Vous n'avez qu'à parler, l'oncle aura beau dire, je serons mariés quand il vous plaira.
 
@@ -585,4 +586,3 @@ Qu'est-ce à dire ? Claudine est à moi, vous me l'avez promise ?
 Mais Claudine n'est pas de cet avis-là, elle.
 
 Ils ne voulont rien, je les avais amenés pour nous divartir : mais je les remmène, et je ne sis pas d'himeur à payer les violons pour faire danser les autres.
-

@@ -2,6 +2,7 @@
 
 **** *creator_rochon *book_rochon_heureusement *style_verse *genre_comedy *dist1_rochon_verse_comedy_heureusement *dist2_rochon_verse_comedy *id_MONSIEURLISBAN *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurlisban
 
+
 Eh bien, quoi ! Qu'est-ce enfin qu'une prompte migraine,
 Qu'un bizarre refus de souper chez Dormène ?
 Ah ! Je vois ce que c'est, et j'en ris de bon coeur :
@@ -185,8 +186,8 @@ Que je ne vienne pas...
 Fort bien. Puisse-je donc, en cas d'événement,
 Rentrer comme aujourd'hui toujours, « heureusement » !
 
-
 **** *creator_rochon *book_rochon_heureusement *style_verse *genre_comedy *dist1_rochon_verse_comedy_heureusement *dist2_rochon_verse_comedy *id_MADAMELISBAN *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_madamelisban
+
 
 Mon mari soupe-t-il aujourd'hui chez Dormène ?
 
@@ -430,8 +431,8 @@ Mais si je me pouvais oublier un moment,
 Personne ne saurait, en ce malheur extrême,
 Plus à mon gré, monsieur ; survenir que vous-même.
 
-
 **** *creator_rochon *book_rochon_heureusement *style_verse *genre_comedy *dist1_rochon_verse_comedy_heureusement *dist2_rochon_verse_comedy *id_LINDOR *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lindor
+
 
 Eh ! Bonjour, mon enfant.
 
@@ -581,8 +582,8 @@ Je ne puis résister au charme involontaire...
 
 Verse rasade, Hébé ; je veux boire à Cypris.
 
-
 **** *creator_rochon *book_rochon_heureusement *style_verse *genre_comedy *dist1_rochon_verse_comedy_heureusement *dist2_rochon_verse_comedy *id_MARTHON *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marthon
+
 
 Oui, madame ; et de plus, malgré votre migraine,
 Il prétend, m'a-t-il dit, vous y donner la main,
@@ -784,8 +785,8 @@ Allons vite, Lindor, partez, suivez mes pas.
 
       Marthon ne vous écoute pas.
 
-
 **** *creator_rochon *book_rochon_heureusement *style_verse *genre_comedy *dist1_rochon_verse_comedy_heureusement *dist2_rochon_verse_comedy *id_PASQUIN *date_1762 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pasquin
+
 
       Bonsoir, nous partons.
 
@@ -802,4 +803,3 @@ Et je compte marcher...
 D'une commission dont je sens la réponse.
 
       Oui, Marthon.
-

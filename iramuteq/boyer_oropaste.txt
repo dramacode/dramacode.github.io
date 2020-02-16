@@ -2,6 +2,7 @@
 
 **** *creator_boyer *book_boyer_oropaste *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_oropaste *dist2_boyer_verse_tragedy *id_OROPASTE *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oropaste
 
+
       Ah ! Chère soeur,sur ce triste visage
 Je vois d'un mal secret le funeste présage :
 Mais si vous vous plaignez d'un sort trop vigoureux,
@@ -827,8 +828,8 @@ Me va faire expirer aux yeux de ma Princesse ;
 Emporte-moi, de grâce, épargne à ces beaux yeux
 De ce sanglant trépas le spectacle odieux.
 
-
 **** *creator_boyer *book_boyer_oropaste *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_oropaste *dist2_boyer_verse_tragedy *id_PATISITE *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_patisite
+
 
 Je vous ai fait attendre, excusez ma paresse,
 Vous verrez Tonaxare, il s'apprête à venir,
@@ -1110,8 +1111,8 @@ La Couronne n'est pas pour ceux de notre sang.
 
 Ce grand cour jusqu'ici nous était inconnu.
 
+**** *creator_boyer *book_boyer_oropaste *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_oropaste *dist2_boyer_verse_tragedy *id_MEGABISE *date_1662 *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_megabise
 
-**** *creator_boyer *book_boyer_oropaste *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_oropaste *dist2_boyer_verse_tragedy *id_MEGABISE *date_1662 *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_megabise
 
 Un grand trouble paraît dessus votre visage,
 Zopire, dans ces lieux je vous fais quelque ombrage,
@@ -1648,8 +1649,8 @@ Toi, cesse de trembler auprès d'un si grand Roi.
 
 Moi, je vais de Préxaspe appuyer le suffrage.
 
-
 **** *creator_boyer *book_boyer_oropaste *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_oropaste *dist2_boyer_verse_tragedy *id_DARIE *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_darie
+
 
 Hors d'état de combattre, ayant quitté l'Armée,
 La victoire, ou la paix, y semblait confirmée.
@@ -1769,8 +1770,8 @@ Hé bien, Princesse...
 
 Votre frère est vengé.
 
-
 **** *creator_boyer *book_boyer_oropaste *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_oropaste *dist2_boyer_verse_tragedy *id_ZOPIRE *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zopire
+
 
 Avertis promptement la princesse Hésione,
 C'est un avis pressant qu'il faut que je lui donne :
@@ -2129,8 +2130,8 @@ Madame...
 
       J'ai vengé votre Amant.
 
-
 **** *creator_boyer *book_boyer_oropaste *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_oropaste *dist2_boyer_verse_tragedy *id_HESIONE *date_1662 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hesione
+
 
 Vois si l'on nous écoute, et que nul n'entre ici.
 
@@ -2544,8 +2545,8 @@ Ma main sera le prix d'une illustre vengeance :
 Mais avant que payer sa flamme, et votre foi,
 Allons calmer le Peuple, et lui donner un Roi.
 
-
 **** *creator_boyer *book_boyer_oropaste *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_oropaste *dist2_boyer_verse_tragedy *id_ARAMINTE *date_1662 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_araminte
+
 
 Dieux ! Qu'entends-je ?
 
@@ -2715,8 +2716,8 @@ Ah ! Seigneur.
 
 Par ma douleur jugez de ma reconnaissance.
 
-
 **** *creator_boyer *book_boyer_oropaste *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_oropaste *dist2_boyer_verse_tragedy *id_CLEONE *date_1662 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleone
+
 
 Madame, le Roi vient.
 
@@ -2762,3 +2763,9 @@ On en jette aussitôt d'épouvantables cris ;
 Il tombe sur sa tête, et son sanglant débris
 Éclate loin du corps, et le laisse sans vie.
 
+**** *creator_boyer *book_boyer_oropaste *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_oropaste *dist2_boyer_verse_tragedy *id_MITROBATE *date_1662 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mitrobate
+
+
+      Seigneur.
+
+La Princesse...

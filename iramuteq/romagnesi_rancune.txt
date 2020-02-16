@@ -2,6 +2,7 @@
 
 **** *creator_romagnesi *book_romagnesi_rancune *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_rancune *dist2_romagnesi_verse_comedy *id_LARANCUNE *date_1755 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_larancune
 
+
 À ces tons ampoulés, je vous crois un acteur.
 
 J'ai quitté le métier ; ignorez vous encore,
@@ -207,8 +208,8 @@ Coulisse, je me rends, excuse ma folie.
 
       Il n'en faut qu'un, je pense.
 
-
 **** *creator_romagnesi *book_romagnesi_rancune *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_rancune *dist2_romagnesi_verse_comedy *id_RODOMONT *date_1755 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_rodomont
+
 
 Sur les rochers déserts de cette île, où le Rhône
 Brise ses flots grossis des ondes de la Saône,
@@ -450,8 +451,8 @@ Que de sublimité !
 
       Ah ! Quel bonheur extrême.
 
-
 **** *creator_romagnesi *book_romagnesi_rancune *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_rancune *dist2_romagnesi_verse_comedy *id_COULISSE *date_1755 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_coulisse
+
 
 La Rancune y respire, il faut l'en arracher ;
 Si jusqu'à ce moment j'en ai fait un mystère,
@@ -642,8 +643,8 @@ T'a rendu dans notre art, un modèle sublime.
 Mais on peut d'un modèle éclairer les défauts,
 La critique ne doit épargner que les sots.
 
-
 **** *creator_romagnesi *book_romagnesi_rancune *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_rancune *dist2_romagnesi_verse_comedy *id_JULIE *date_1755 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_julie
+
 
       Des hommes ! Sauvons nous ?
 
@@ -838,8 +839,8 @@ Pour l'honneur des talents imitez Philoctète,
 En prenant son auteur pour guide et pour soutien,
 On suivra le grand homme et le vrai citoyen.
 
-
 **** *creator_romagnesi *book_romagnesi_rancune *style_verse *genre_comedy *dist1_romagnesi_verse_comedy_rancune *dist2_romagnesi_verse_comedy *id_THOMAS *date_1755 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thomas
+
 
       Ciel !
 
@@ -925,4 +926,3 @@ Elles sont beaucoup plus ensemble pour frapper
 Que pour chanter en choeur.
 
 Je nuirais à la scène, ainsi votre valet.
-

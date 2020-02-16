@@ -2,6 +2,7 @@
 
 **** *creator_chevreau *book_chevreau_lucrece *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_lucrece *dist2_chevreau_verse_tragedy *id_tarquin *date_1637 *sexe_masculin *age_veteran *statut_maitre *fonction_autres *role_tarquin
 
+
 Et bien, confessez donc qu'aujourd'huy ma valeur⁎
 Porte chez ces mutins ma gloire⁎ et leur mal-heur ;
 Nous en sçavons tirer et du sang et des larmes,
@@ -246,8 +247,8 @@ Et votre seureté depend de mon pouvoir.
 Mais funeste malheur où mon ame⁎ est reduitte
 Toute ma seureté doit estre dans ma fuitte.
 
-
 **** *creator_chevreau *book_chevreau_lucrece *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_lucrece *dist2_chevreau_verse_tragedy *id_colatin *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_colatin
+
 
 Grand Roy qui ne pouvez ny monter, ny descendre
 Nous attendons de vous tout ce qu'on peut atendre,
@@ -466,8 +467,8 @@ Se treuvent aussi bas que le centre du monde.
 Et que Rome en un mot dans ce mal-heur nouveau
 Pour bien s'ensevelir soit son propre tombeau.
 
-
 **** *creator_chevreau *book_chevreau_lucrece *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_lucrece *dist2_chevreau_verse_tragedy *id_sexte *date_1637 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_sexte
+
 
 Seigneur, nous voici prests, il ne faut que poursuivre,
 On voit que ces mutins n'ont qu'un moment à vivre :
@@ -864,8 +865,8 @@ Mais faites moy revivre, et veuillez m'assiter :
 Maxime, cher ami, que mon mal importune,
 Sui moy dans ce mal-heur comme dans ma fortune⁎.
 
-
 **** *creator_chevreau *book_chevreau_lucrece *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_lucrece *dist2_chevreau_verse_tragedy *id_maxime *date_1637 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_maxime
+
 
 Non, tous ceux qu'on a veu sous vostre obeïssance,
 Preuveront aux Romains vostre extréme puissance ;
@@ -1076,8 +1077,8 @@ Ni que trop de sujet de l'aller émouvoir.
 Allez ne craignez rien ; tout vous sera prospere,
 Je sçay, s'il est bon Roy, qu'il n'est pas mauvais père.
 
-
 **** *creator_chevreau *book_chevreau_lucrece *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_lucrece *dist2_chevreau_verse_tragedy *id_misene *date_1637 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_misene
+
 
       Elle y fait son séjour.
 
@@ -1107,8 +1108,8 @@ Ce poinct le touche trop, il faut le reveler.
 Sexte a faict vostre mal, il n'est plus temps de feindre,
 Il a forcé⁎Lucresse, et nous force⁎ à vous plaindre.
 
-
 **** *creator_chevreau *book_chevreau_lucrece *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_lucrece *dist2_chevreau_verse_tragedy *id_tullie *date_1637 *sexe_feminin *age_veteran *statut_maitre *fonction_autres *role_tullie
+
 
 Ah ! Mon fils, que mon cœur estoit dans la contrainte,
 Que vous revenez bien pour en oster la crainte !
@@ -1272,8 +1273,8 @@ Qu'un repentir succede à ses contentemens.
 Voyons donc où le Ciel tâche de nous conduire
 Et s'il nous veut aider ou bien s'il nous veut nuire.
 
-
 **** *creator_chevreau *book_chevreau_lucrece *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_lucrece *dist2_chevreau_verse_tragedy *id_lucresse *date_1637 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucresse
+
 
 Comment l'as-tu pû voir au milieu de l'armée ?
 Tu ne m'en parles point que par la renommée.
@@ -1580,8 +1581,8 @@ Car en le regardant je voy mon desespoir.
 Je ne puis détourner le desir qui le presse⁎,
 Sexte vit en infame, et je meurs en Lucresse.
 
-
 **** *creator_chevreau *book_chevreau_lucrece *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_lucrece *dist2_chevreau_verse_tragedy *id_cecilie *date_1637 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cecilie
+
 
 Ah ! Madame, esperez que demain du matin    
 Vous finirez vos maux en voyant Colatin.
@@ -1650,8 +1651,8 @@ Il ira le tuër dans les bras de son père
 Le peuple avecque luy rabatra tous leurs coups,
 Et puis si vous mourrez, il mourra comme vous.
 
-
 **** *creator_chevreau *book_chevreau_lucrece *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_lucrece *dist2_chevreau_verse_tragedy *id_melixene *date_1637 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_melixene
+
 
 Sans doute que l'amour qu'il retient dans son ame⁎
 Doit tirer son malheur de l'excez de sa flame.
@@ -1705,8 +1706,8 @@ Que s'ils font nôtre perte ils achevent la leur.
 Les Dieux nous ayment trop pour changer notre sort⁎,
 Et les Dieux sont trop bons pour nous donner la mort.
 
-
 **** *creator_chevreau *book_chevreau_lucrece *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_lucrece *dist2_chevreau_verse_tragedy *id_brute *date_1637 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brute
+
 
 Rome qui vous attend avec impatience
 Recueillera les fruitz de vôtre experience.
@@ -1756,8 +1757,8 @@ Allons chercher le fils, vangeons nous sur la mere,
 Par leur banissement ou leur commune mort,
 Rome sera sauvee, et nous serons au port.
 
-
 **** *creator_chevreau *book_chevreau_lucrece *style_verse *genre_tragedy *dist1_chevreau_verse_tragedy_lucrece *dist2_chevreau_verse_tragedy *id_lucretie *date_1637 *sexe_masculin *age_veteran *statut_maitre *fonction_pere *role_lucretie
+
 
 Mon fils, quel nouveau bruit trouble nostre esperance ?
 Vous en a-t'on donné de meilleure asseurance.
@@ -1802,4 +1803,3 @@ Toutefois pour luy plere et pour nous contenter
 Cherchons nostre homicide, il nous faut l'arrester.
 Lucresse par sa mort doit estre soulagee,
 Et nous mourrons contents apres l'avoir vangee.
-

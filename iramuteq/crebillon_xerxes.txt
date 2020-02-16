@@ -2,6 +2,7 @@
 
 **** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *id_XERCES *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_xerces
 
+
 Quel jour ! quel triste jour ! et que viens-je de faire ?
 Pourquoi t'ai-je écouté sur un choix téméraire ?
 
@@ -236,8 +237,8 @@ Si vous n'êtes parti, c'est fait de votre vie ;
 Artaban, c'est à toi que ton roi le confie,
 De son sort désormais je te laisse le soin.
 
-
 **** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *id_DARIUS *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_darius
+
 
 Enfin libre des soins que m'imposait la guerre,
 Je puis à vos genoux, monarque de la terre,
@@ -738,8 +739,8 @@ Daigne l'interroger.
 Seigneur, vous le pouvez ; rendez-moi le seul bien
 Qui puisse désarmer un coeur comme le mien.
 
-
 **** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *id_ARTAXERCE *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artaxerce
+
 
 Dût sur ce fils tremblant tomber votre courroux,
 Je ne puis résister à mon impatience ;
@@ -1032,8 +1033,8 @@ Reçois-en donc ce prix de ta fidélité :
 Afin qu'à mes bienfaits tout le reste réponde,
 Je te rends la moitié de l'empire du monde.
 
-
 **** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *id_AMESTRIS *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amestris
+
 
 Ah ! Seigneur, pardonnez au transport qui m'agite.
 En vain à mon amour la plainte est interdite ;
@@ -1391,8 +1392,8 @@ Et l'attends sans trembler, s'il est digne de vous.
 
 Vous mourir ! Ah ! Seigneur, c'est en vain qu'un barbare...
 
-
 **** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *id_ARTABAN *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_artaban
+
 
 Et si de son malheur j'étais auteur moi-même ?
 Je suis prêt d'éclaircir tes doutes curieux,
@@ -1897,8 +1898,8 @@ Que vous n'avez encor, Seigneur, à le punir.
 Sur quoi prétendez-vous que l'on vous éclaircisse ?
 Pourriez-vous de ma part craindre quelque artifice ?
 
-
 **** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *id_BARSINE *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_barsine
+
 
 Qu'un si rare bonheur, si j'osais vous en croire,
 Aurait de quoi flatter mes désirs et ma gloire !
@@ -2031,8 +2032,8 @@ D'avoir pu conserver une tête innocente ;
 Heureuse d'effacer, dans ces tristes moments,
 Ce qu'un père cruel t'a causé de tourments.
 
-
 **** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *id_TYSAPHERNE *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tysapherne
+
 
 C'en est donc fait, Seigneur, et l'heureux Artaxerce
 Va faire désormais le destin de la Perse,
@@ -2107,3 +2108,35 @@ Je ne sais si son sang pourra vous satisfaire,
 Mais je puis, sans péril, braver votre colère :
 Dans l'état où je suis je ne crains que les dieux.
 
+**** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *id_PHENICE *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phenice
+
+
+Et à quel soin si pressant à le voir vous invite ?
+
+Sur quelques vains apprêts, Madame, osez-vous croire
+Qu'un coeur qui fut toujours si sensible à la gloire,
+Après tant de serments ait pu sacrifier...
+
+**** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *id_CLEONE *date_1714 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cleone
+
+
+Madame, eta qu'a-t-il donc qui doive vous surprendre ?
+À quels charmes plus grands un héros si fameux
+Pouvait-il espérer d'offrir jamais ses voeux ?
+
+**** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *id_ARSACE *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arsace
+
+
+C'est par l'ordre du roi que je viens vous l'apprendre,
+Lui-même en un moment vous en instruira mieux ;
+Ce prince va bientôt se montrer en ces lieux.
+
+**** *creator_crebillon *book_crebillon_xerxes *style_verse *genre_tragedy *dist1_crebillon_verse_tragedy_xerxes *dist2_crebillon_verse_tragedy *id_MERODATE *date_1714 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merodate
+
+
+Du retour d'un héros chargé de vous instruire...
+
+      Seigneur, avant la fin du jour,
+Ce fils victorieux va paraître à la cour ;
+Pour ne point retarder une si juste envie,
+Permettez...

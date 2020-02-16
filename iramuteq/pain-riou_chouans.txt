@@ -2,6 +2,7 @@
 
 **** *creator_pain-riou *book_pain-riou_chouans *style_verse *genre_trait historique *dist1_pain-riou_verse_trait historique_chouans *dist2_pain-riou_verse_trait historique *id_LACITOYENNEFLOCH *date_1795 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lacitoyennefloch
 
+
 Peut-il être un destin plus doux
 Entre mon fils et mon époux ?
 Celui qui me donna la vie
@@ -84,8 +85,8 @@ Je sacrifie
 À la patrie
 Mon fils, mon père et mon amour.
 
-
 **** *creator_pain-riou *book_pain-riou_chouans *style_verse *genre_trait historique *dist1_pain-riou_verse_trait historique_chouans *dist2_pain-riou_verse_trait historique *id_LECITOYENFLOCH *date_1795 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecitoyenfloch
+
 
 Quels républicains ! Quels héros !
 Ils savent braver tous les maux ;
@@ -178,8 +179,8 @@ Tu sacrifies
 À la patrie
 Ton bien, ta vie et ton amour.
 
-
 **** *creator_pain-riou *book_pain-riou_chouans *style_verse *genre_trait historique *dist1_pain-riou_verse_trait historique_chouans *dist2_pain-riou_verse_trait historique *id_LEPERERENAUD *date_1795 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepererenaud
+
 
 Je vois le terme de mes maux,
 Je retrouve ici le repos.
@@ -283,4 +284,3 @@ Car le ciel te rend en ce jour,
 Fille chérie,
 Une patrie,
 Ton fils, ton père et ton amour.
-

@@ -2,6 +2,7 @@
 
 **** *creator_lacalprenede *book_lacalprenede_edouard *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_edouard *dist2_lacalprenede_verse_tragedy *id_EDOUARD *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_edouard
 
+
 Adorable sujet d'une immortelle flamme,
 Qui tiens seule aujourd'hui l'empire de mon âme,
 Et ranges souveraine un Prince sous ta loi,
@@ -991,8 +992,8 @@ Votre tête aujourd'hui recevra la Couronne ;
 Et me donnant à vous je vous donne ma foi,
 Que vous allez régner sur mon peuple et sur moi.
 
-
 **** *creator_lacalprenede *book_lacalprenede_edouard *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_edouard *dist2_lacalprenede_verse_tragedy *id_ELIPS *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_elips
+
 
 Sire, je reconnais l'honneur que vous me faites
 Avec tout le respect que vos moindres sujettes
@@ -1382,8 +1383,8 @@ Je vous rendrai toujours.
 
 Oui, Sire, j'obéis, comme je le dois faire.
 
-
 **** *creator_lacalprenede *book_lacalprenede_edouard *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_edouard *dist2_lacalprenede_verse_tragedy *id_WARWICK *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_warwick
+
 
       Le Roi semble surpris,
 Sans doute quelque trouble agite ses esprits,
@@ -1619,8 +1620,8 @@ Ha ! Sire, je ne puis dans cet étonnement,
 Ni comprendre l'honneur q'on fait à ma famille,
 Ni savoir qui je suis, ni connaître ma fille.
 
-
 **** *creator_lacalprenede *book_lacalprenede_edouard *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_edouard *dist2_lacalprenede_verse_tragedy *id_ISABELLE *date_1638 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_isabelle
+
 
 Je le prévoyais bien que cette amour naissante,
 Par la suite du temps deviendrait plus puissante,
@@ -1780,8 +1781,8 @@ Ne m'étant pas séant de le faire en personne.
       Oui, oui je me retire,
 Mais songez bien, Adieu.
 
-
 **** *creator_lacalprenede *book_lacalprenede_edouard *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_edouard *dist2_lacalprenede_verse_tragedy *id_MORTIMER *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mortimer
+
 
 Après tant de faveurs dont vous comblez mon âme,
 Comment pourra répondre un esprit tout de flamme
@@ -1924,8 +1925,32 @@ Oui Sire, mon rapport fut une calomnie,
 J'attaquai l'innocence et la seule vertu,
 Mais j'avais un dessein.
 
+**** *creator_lacalprenede *book_lacalprenede_edouard *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_edouard *dist2_lacalprenede_verse_tragedy *id_GLOUCESTER *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gloucester
+
+
+Ah ! Monsieur, leur dessein n'est que trop déclaré,
+Le Roi a découvert par des preuves si claires,
+Que les formalités n'y sont plus nécessaires,
+Le Ciel a prévenu le damnable succès,
+Et nous les découvrant leur a fait leur procès,
+Ils sont tous convaincus d'un crime tout visible,
+Et le simple penser d'un attentat horrible,
+Dont le seul souvenir me fait presque mourir
+Sur le premier soupçon les doit faire périr.
+
+Je ne le comprends point, et quoi qu'on en présume,
+Ou de bien ou de mal c'est contre la coutume,
+Et tous les criminels sans un heureux succès
+Auprès des souverains n'ont jamais eu d'accès,
+Les Rois se laissant voir ont prononcé leur grâce.
+
+Ceux que votre valeur a vaincus tant de fois,
+Recevant votre joug vous donnent moins de gloire,
+Que vous n'en retirez d'une telle victoire :
+Allons louer le Ciel pour un succès si beau.
 
 **** *creator_lacalprenede *book_lacalprenede_edouard *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_edouard *dist2_lacalprenede_verse_tragedy *id_NORFOLK *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_norfolk
+
 
 De quelque affection que votre âme s'emporte,
 Votre animosité me semble un peu trop forte,
@@ -1951,3 +1976,23 @@ Que le Ciel à son âme inspire ce moyen.
 
 Que votre Majesté fait un très digne choix.
 
+**** *creator_lacalprenede *book_lacalprenede_edouard *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_edouard *dist2_lacalprenede_verse_tragedy *id_BEDFORD *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bedford
+
+
+Vous êtes fort zélé, mais vous allez bien vite,
+Et ce n'est pas ainsi que l'on se précipite
+Quand il s'agit d'un crime important à ce point :
+Mon ancienne amitié ne les excuse point :
+Et je ne dirai pas un mot en leur défense,
+Puisque de mes discours sa Majesté s'offense,
+Non je n'entreprends point de les justifier,
+Mais du moins leur dessein se doit vérifier,
+Ceux de leur qualité ne vont pas au supplice,
+Sans les formalités qu'on doit à la justice,
+Et ne sont condamnés que très bien à propos.
+
+**** *creator_lacalprenede *book_lacalprenede_edouard *style_verse *genre_tragedy *dist1_lacalprenede_verse_tragedy_edouard *dist2_lacalprenede_verse_tragedy *id_LECAPITAINE *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lecapitaine
+
+
+      J'ai bien compris votre commandement,
+J'y vole de ce pas.

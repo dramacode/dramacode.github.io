@@ -2,6 +2,7 @@
 
 **** *creator_dancourt *book_dancourt_impromptudegarnison *style_prose *genre_comedy *dist1_dancourt_prose_comedy_impromptudegarnison *dist2_dancourt_prose_comedy *id_CLITANDRE *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_clitandre
 
+
 Ce que je demande, Marton ?
 
 Si je te reconnais ?
@@ -62,8 +63,8 @@ Mon frère va en Allemagne ?
 
 Suivons-la pour la consoler.
 
-
 **** *creator_dancourt *book_dancourt_impromptudegarnison *style_prose *genre_comedy *dist1_dancourt_prose_comedy_impromptudegarnison *dist2_dancourt_prose_comedy *id_MERLIN *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_merlin
+
 
 Oh diable ! Il est devenu bien plus modeste ; le petit-collet l'avait gâté, il faisait comme les autres.
 
@@ -259,8 +260,8 @@ Nous faisons tout en impromptu, nous autres. M'aimes-tu ? Dis.
 
 Encore autre impromptu, je t'épouse, et vivent les Français, Marton. Il n'y a ni villes, ni femmes qui leur résistent.
 
-
 **** *creator_dancourt *book_dancourt_impromptudegarnison *style_prose *genre_comedy *dist1_dancourt_prose_comedy_impromptudegarnison *dist2_dancourt_prose_comedy *id_ARAMINTE *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_araminte
+
 
 Que vous veut ce garçon, Marton ?
 
@@ -462,8 +463,8 @@ Oh, pour le coup, elle a beau l'appeler, il ne partira point qu'il ne m'est épo
 
 Il ne m'épousera qu'en repassant ? Je suis trahie, et j'en mourrai.
 
-
 **** *creator_dancourt *book_dancourt_impromptudegarnison *style_prose *genre_comedy *dist1_dancourt_prose_comedy_impromptudegarnison *dist2_dancourt_prose_comedy *id_ANGELIQUE *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_angelique
+
 
 Marton ?
 
@@ -513,8 +514,8 @@ Cela ne serait pas dans la bienséance, il a raison, ma tante.
 
 Ma chère tante !
 
-
 **** *creator_dancourt *book_dancourt_impromptudegarnison *style_prose *genre_comedy *dist1_dancourt_prose_comedy_impromptudegarnison *dist2_dancourt_prose_comedy *id_DONJULIEN *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjulien
+
 
 Vous voyez, Madame, ce que peut l'amour sur un cœur bien fait : c'est lui qui me retient ici quand tous les autres sont dans le Château.
 
@@ -564,8 +565,8 @@ Ah, ah, ah, ah, mon petit ami, la fierté vous sied mal, Seigneur Français, c'e
 
 Miséricorde !
 
-
 **** *creator_dancourt *book_dancourt_impromptudegarnison *style_prose *genre_comedy *dist1_dancourt_prose_comedy_impromptudegarnison *dist2_dancourt_prose_comedy *id_MARTON *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_marton
+
 
 Que demandez-vous ici, Monsieur ?
 
@@ -816,8 +817,8 @@ Tu n'expédies pas mal une intrigue.
 
 Si je t'aime ! Et le moyen de s'en défendre ?
 
-
 **** *creator_dancourt *book_dancourt_impromptudegarnison *style_prose *genre_comedy *dist1_dancourt_prose_comedy_impromptudegarnison *dist2_dancourt_prose_comedy *id_MONSIEURGRIFFON *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_monsieurgriffon
+
 
 Sur ce que Mademoiselle Marton m'a dit de votre part, Madame, je suis au plus vite accouru pour vous rendre mes petits services.
 
@@ -829,8 +830,8 @@ Monsieur, ce ne sont pas les Notaires à qui ils font le plus gagner en ce pays-
 
 Voilà qui est fait, il n'y a qu'à signer.
 
-
 **** *creator_dancourt *book_dancourt_impromptudegarnison *style_prose *genre_comedy *dist1_dancourt_prose_comedy_impromptudegarnison *dist2_dancourt_prose_comedy *id_LAVERDURE *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laverdure
+
 
 Pargué mon Colonel, je vous demande bien pardon, mais nan va bailler une attaque, le Régiment est commandé pour ça ; est-ce que vous voudriais qu'il y allât sans vous ?
 
@@ -842,8 +843,8 @@ Lui, morgué, vous ne le reverrez point, il a beau dire.
 
 S'il en revient, la peste m'étouffe, il sera tué, sur ma parole, je m'en vas l'entarrer : serviteur.
 
-
 **** *creator_dancourt *book_dancourt_impromptudegarnison *style_prose *genre_comedy *dist1_dancourt_prose_comedy_impromptudegarnison *dist2_dancourt_prose_comedy *id_RICOCHET *date_1692 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_ricochet
+
 
 C'est Don Julien qui vous demande, ma Marraine ?
 
@@ -852,4 +853,3 @@ Mademoiselle Marton ?
 C'est Mademoiselle Marton qu'on demande, ma Marraine ?
 
 C'est un grand pendard qui demande ce Monsieur-là, ma Marraine.
-

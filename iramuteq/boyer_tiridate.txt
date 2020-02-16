@@ -2,6 +2,7 @@
 
 **** *creator_boyer *book_boyer_tiridate *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_tiridate *dist2_boyer_verse_tragedy *id_LEROI *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_leroi
 
+
 Enfin le jour s'approche ; où votre hymen Princesse
 Achevant dès demain la commune allégresse
 Par la foi des traités nous assure la paix.
@@ -376,8 +377,8 @@ Donnons quelques moments à plaindre ce malheur.
 Bien que ce fils vivant ait causé vos alarmes ;
 Sa mort me semble encor trop digne de vos larmes.
 
+**** *creator_boyer *book_boyer_tiridate *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_tiridate *dist2_boyer_verse_tragedy *id_ARIARATHE *date_1647 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_ariarathe
 
-**** *creator_boyer *book_boyer_tiridate *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_tiridate *dist2_boyer_verse_tragedy *id_ARIARATHE *date_1647 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_ariarathe
 
 Aussitôt que du roi j'en ai su la nouvelle
 Voulant devoir ce bien à vos soins seulement,
@@ -632,8 +633,8 @@ Souffre donc un adieu qui m'acquitte envers elle ;
 Après je ne prends plus conseil de ton zèle,
 Mais ne refuse pas...
 
-
 **** *creator_boyer *book_boyer_tiridate *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_tiridate *dist2_boyer_verse_tragedy *id_ANTHIOCHIDE *date_1647 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_anthiochide
+
 
 Ah ! Mon fils que ce coup serait insupportable.
 Mais n'appréhendons point un sort si déplorable,
@@ -1185,8 +1186,8 @@ Je pardonne aisément ce qu'a fait la nature.
 
 Oublions le passé ; songez à Tyridate.
 
+**** *creator_boyer *book_boyer_tiridate *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_tiridate *dist2_boyer_verse_tragedy *id_TYRIDATE *date_1647 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_tyridate
 
-**** *creator_boyer *book_boyer_tiridate *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_tiridate *dist2_boyer_verse_tragedy *id_TYRIDATE *date_1647 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_tyridate
 
 Qu'attendez-vous, Madame, à quelle extrémité
 Voulez-vous réserver ce secours tant vanté ?
@@ -1461,8 +1462,8 @@ Si vous m'aimez, ma mort punira votre crime.
 
 Dieux !
 
-
 **** *creator_boyer *book_boyer_tiridate *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_tiridate *dist2_boyer_verse_tragedy *id_BERENICE *date_1647 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_berenice
+
 
 Oui je t'aime, malgré la juste défiance
 Qui devait t'éloigner de notre confidence ;
@@ -1599,8 +1600,8 @@ Je frémis à l'objet d'un choix si hasardeux.
 Il avait des vertus dignes d'un autre sort ;
 Et je crois mon bonheur trop payé par sa mort.
 
+**** *creator_boyer *book_boyer_tiridate *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_tiridate *dist2_boyer_verse_tragedy *id_EURIDICE *date_1647 *sexe_masculin *age_jeune *statut_exterieur *fonction_autres *role_euridice
 
-**** *creator_boyer *book_boyer_tiridate *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_tiridate *dist2_boyer_verse_tragedy *id_EURIDICE *date_1647 *sexe_neutre *age_jeune *statut_exterieur *fonction_autres *role_euridice
 
       Je vois encor luire quelque espérance ;
 Il aura vu la reine, et sans doute... mais las
@@ -1653,8 +1654,8 @@ Je dérobe à mes yeux ce qu'ils craignent de voir :
 
       Mon père vient.
 
-
 **** *creator_boyer *book_boyer_tiridate *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_tiridate *dist2_boyer_verse_tragedy *id_ORONTE *date_1647 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oronte
+
 
 N'attendez point, Seigneur, d'autre accueil de la reine.
 
@@ -2047,8 +2048,8 @@ Ma main sur tant de morts eût fondé son appui ;
 Cet espoir m'a fait vivre, et je tombe avec lui :
 Je le suis pour ma gloire et pour votre vengeance.
 
-
 **** *creator_boyer *book_boyer_tiridate *style_verse *genre_tragedy *dist1_boyer_verse_tragedy_tiridate *dist2_boyer_verse_tragedy *id_ARSINOE *date_1647 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_arsinoe
+
 
 Madame, à quel excès vous êtes-vous portée ?
 L'armer contre son frère, ô dieux !
@@ -2167,4 +2168,3 @@ L'amour dans cet écrit cherchant son aventure
 Découvrit des secrets cachés à la nature :
 C'est lui qui d'Euridice a dissipé l'erreur,
 Et qui d'Ariarathe a causé le malheur.
-

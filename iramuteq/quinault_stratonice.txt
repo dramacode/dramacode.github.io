@@ -2,6 +2,7 @@
 
 **** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *id_BARSINE *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_barsine
 
+
 Orgueilleux mouvement des âmes généreuses,
 Qui jamais sans régner ne peuvent être heureuses,
 Passion des grands cours, dont les soins glorieux
@@ -394,8 +395,8 @@ Si vous quittez le sceptre, agréez ma retraite ;
 Mon oncle règne encore à Pergame aujourd'hui,
 Et je vais maintenant retourner près de lui.
 
-
 **** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *id_CEPHISE *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cephise
+
 
 Quoi, vous êtes, Madame, et rêveuse, et chagrine,
 Dans un jour que le roi pour votre hymen destine ?
@@ -450,8 +451,8 @@ Et pourrez-vous enfin le perdre sans regret ?
 Si proche d'un grand bien que le Ciel vous envoie,
 Madame, Vous montrez en effet peu de joie.
 
-
 **** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *id_SELEUCUS *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_seleucus
+
 
 Quoi, Princesse, à me fuir vous semblez déjà prête ?
 
@@ -1066,8 +1067,8 @@ Allons en rendre grâce à la bonté céleste,
 Et par des nouds sacrés qui confirment la paix,
 Venez tous deux au temple être unis à jamais.
 
-
 **** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *id_POLICRATE *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_policrate
+
 
 Mais son dessein, Seigneur, devrait vous satisfaire ;
 Allant voir Stratonice elle cherche à vous plaire.
@@ -1106,8 +1107,8 @@ Dans le courant du fleuve il s'est précipité.
 J'ai fait ramer après, mais malgré mon envie
 On l'a trouvé si tard, qu'on l'a trouvé sans vie.
 
-
 **** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *id_ANTIOCHUS *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antiochus
+
 
 Quand vous pourriez changer, je sais ce que je dois
 Aux désirs d'un père, aux ordres de mon roi,
@@ -1583,8 +1584,8 @@ Par ce charmant aveu déjà tout mon mal cesse,
 Je ressens tout à coup ma santé de retour,
 Et ne puis plus mourir que de joie et d'amour.
 
-
 **** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *id_TIMANTE *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_timante
+
 
       À ce nom votre pâleur augmente,
 Reposez-vous, Seigneur.
@@ -1651,8 +1652,8 @@ Seigneur, c'est vous déplaire ensemble et l'augmenter.
 Mais tout votre visage et s'altère et se trouble,
 Sortez d'ici, Seigneur, votre mal y redouble.
 
-
 **** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *id_STRATONICE *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_stratonice
+
 
       Oui, je le sais, Seigneur,
 Vous pouvez tout sur moi, ma mère et votre sour.
@@ -2052,8 +2053,8 @@ Je ne puis être à vous qu'en m'obtenant de lui.
 
 Puisqu'il a votre aveu, le mien n'est pas douteux.
 
-
 **** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *id_ZENONE *date_1660 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_zenone
+
 
 Mais contre Seleucus quel sujet vous anime ?
 Madame, il n'a pour vous fait voir que de l'estime.
@@ -2130,3 +2131,21 @@ Vous deviez faire choix de ce que vous aimez.
 
 Il vient, vous rougissez ?
 
+**** *creator_quinault *book_quinault_stratonice *style_verse *genre_tragedy *dist1_quinault_verse_tragedy_stratonice *dist2_quinault_verse_tragedy *id_ZABAS *date_1660 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_zabas
+
+
+Barsine vient, Madame, en ce lieu pour vous voir.
+
+Philon un étranger qui sert chez Stratonice,
+Seigneur, et qui sous moi vous a rendu service,
+Vous demande en secret audience à l'instant,
+Afin de vous donner un avis important.
+
+Seigneur, il est certain que jamais injustice
+Ne saurait égaler celle de Stratonice,
+Et que votre grand cour après ce traitement
+Ne peut faire éclater trop de ressentiment.
+Vous n'avez dit d'abord rien qui ne lui dut plaire,
+C'est sans nulle raison qu'elle a tant de colère,
+Votre plainte est fort juste, et son cour violent
+À tort de s'emporter...

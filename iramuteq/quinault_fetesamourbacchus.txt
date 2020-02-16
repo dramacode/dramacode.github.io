@@ -2,6 +2,7 @@
 
 **** *creator_quinault *book_quinault_fetesamourbacchus *style_verse *genre_show *dist1_quinault_verse_show_fetesamourbacchus *dist2_quinault_verse_show *id_POLYMNIE *date_1682 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_polymnie
 
+
 Élevez vos concerts
 Au dessus du chant ordinaire ;
 Songez que vous avez à plaire
@@ -28,8 +29,8 @@ Faisons tout retentir du bruit de ses exploits.
 
 Préparons des fêtes nouvelles
 
-
 **** *creator_quinault *book_quinault_fetesamourbacchus *style_verse *genre_show *dist1_quinault_verse_show_fetesamourbacchus *dist2_quinault_verse_show *id_MELPOMENE *date_1682 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
+
 
 Joignez à mes chants magnifiques,
 La pompe de vos ornements.
@@ -52,8 +53,8 @@ Formons des concerts pleins de charmes.
 
 Que nos chansons soient immortelles.
 
-
 **** *creator_quinault *book_quinault_fetesamourbacchus *style_verse *genre_show *dist1_quinault_verse_show_fetesamourbacchus *dist2_quinault_verse_show *id_EUTERPE *date_1682 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_euterpe
+
 
 Joignez à mes concerts rustiques,
 Vos agréments
@@ -77,8 +78,8 @@ Faisons entendre nos hautbois.
 
 Que nos airs soient doux et touchants.
 
-
 **** *creator_quinault *book_quinault_fetesamourbacchus *style_verse *genre_show *dist1_quinault_verse_show_fetesamourbacchus *dist2_quinault_verse_show *id_TIRCIS *date_1682 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_tircis
+
 
 Vous chantez sous ces feuillages,
 Doux rossignols pleins d'amour,
@@ -135,8 +136,8 @@ Il y faut expirer.
 Ô ciel ! Bergers ! Caliste ! Ah je suis hors de moi !
 Si l'on meurt de plaisir je dois perdre la vie.
 
-
 **** *creator_quinault *book_quinault_fetesamourbacchus *style_verse *genre_show *dist1_quinault_verse_show_fetesamourbacchus *dist2_quinault_verse_show *id_LICASTE *date_1682 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_licaste
+
 
 Hé quoi, toujours languissant, sombre et triste ?
 
@@ -163,8 +164,17 @@ L'Amour a des douceurs ; Bacchus a des appas,
 Ce sont deux Déïtés qui sont fort bien ensemble;
 Ne les séparons pas.
 
+**** *creator_quinault *book_quinault_fetesamourbacchus *style_verse *genre_show *dist1_quinault_verse_show_fetesamourbacchus *dist2_quinault_verse_show *id_MENANDRE *date_1682 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_menandre
+
+
+Hé quoi, toujours aux pleurs abandonné ?
+
+      Fais, Fais-toi quelque effort.
+
+Ô ! Sort digne d'envie !
 
 **** *creator_quinault *book_quinault_fetesamourbacchus *style_verse *genre_show *dist1_quinault_verse_show_fetesamourbacchus *dist2_quinault_verse_show *id_CALISTE *date_1682 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_caliste
+
 
 Je cherche le repos, le silence, et l'ombrage.
 
@@ -228,8 +238,8 @@ Ajustez vos chalumeaux,
 Et mêlons nos chansonnettes
 Aux chants de petits oiseaux.
 
-
 **** *creator_quinault *book_quinault_fetesamourbacchus *style_verse *genre_show *dist1_quinault_verse_show_fetesamourbacchus *dist2_quinault_verse_show *id_CLIMENE *date_1682 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_climene
+
 
 Viens dans notre village :
 Voici le jour
@@ -277,18 +287,8 @@ Mirtil me puisse chérir,
 Avec toi, je le confesse,
 Je voudrais vivre et mourir.
 
-Le zéphire entre ces eaux,
-Fait mille courses secrètes,
-Et les rossignols nouveaux,
-De leur douces amourettes,
-Parlent aux tendres rameaux.
-Prenez Bergers, vos musettes,
-Ajustez vos chalumeaux,
-Et mêlons nos chansonnettes
-Aux chants de petits oiseaux.
-
-
 **** *creator_quinault *book_quinault_fetesamourbacchus *style_verse *genre_show *dist1_quinault_verse_show_fetesamourbacchus *dist2_quinault_verse_show *id_DAMON *date_1682 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_damon
+
 
 Ma bergère a changé, je veux changer comme elle.
 
@@ -319,8 +319,8 @@ Quelque renaissance trace
 Chassait Cloris de mon coeur
 Pour te remettre en sa place ?
 
-
 **** *creator_quinault *book_quinault_fetesamourbacchus *style_verse *genre_show *dist1_quinault_verse_show_fetesamourbacchus *dist2_quinault_verse_show *id_FORESTAN *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_forestan
+
 
 Quoi ! Tu me fuis, Ingrate, et je te vois ici
 De ce berger à moi faire une préférence ?
@@ -389,13 +389,8 @@ Au vin, au vin, au vin, au vin,
 
 Plus heureux qui peut n'aimer rien.
 
-Le soleil chasse les ombres,
-Dont le ciel est obscurci,
-Et des âmes les plus sombres,
-Bacchus chasse le souci.
-
-
 **** *creator_quinault *book_quinault_fetesamourbacchus *style_verse *genre_show *dist1_quinault_verse_show_fetesamourbacchus *dist2_quinault_verse_show *id_SILVANDRE *date_1682 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_silvandre
+
 
 Quoi, mes soins n'ont rien pu sur ton indifférence,
 Et pour ce langoureux ton coeur s'est adouci ?
@@ -474,4 +469,3 @@ S'oppose à cet honneur qu'à l'Amour osent rendre,
 Vos musettes et vos voix ;
 À des titres si beaux Bacchus seul peut prétendre,
 Et nous sommes ici pour défendre ses droits.
-

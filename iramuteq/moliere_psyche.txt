@@ -2171,7 +2171,7 @@ Je la vois qui te cherche et qui te veut punir,
 L'amour du Fils a fait la haine de la Mère,
 Fuis, je saurai la retenir.
 
-**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_apollon *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_apollon
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_apollon *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_apollon
 
 
 Unissons-nous, Troupe immortelle ;
@@ -2198,7 +2198,7 @@ Que de finir les soins du Jour.
 La Nuit est le partage
 Des Jeux, et de l'Amour.
 
-**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_muses *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_muses
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_muses *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_muses
 
 
 Gardez-vous, Beautés sévères,
@@ -2219,7 +2219,7 @@ Le martyre
 De le dire,
 Coûte plus cent fois que d'aimer.
 
-**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_bacchus *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_bacchus
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_bacchus *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_bacchus
 
 
 Si quelquefois,
@@ -2237,7 +2237,7 @@ Et dans la Guerre il fait merveille :
 Mais surtout pour les Amours,
 Le vin est d'un grand secours.
 
-**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_mome *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_mome
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_mome *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_mome
 
 
 Je cherche à médire !
@@ -2266,7 +2266,7 @@ On trouve peu de plaisirs sans ennui ;
 Rien n'est si plaisant que de rire,
 Quand on rit aux dépens d'autrui.
 
-**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_mars *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_mars
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_mars *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_mars
 
 
 Laissons en paix toute la Terre,
@@ -2274,7 +2274,7 @@ Cherchons de doux amusements ;
 Parmi les Jeux les plus charmants,
 Mêlons l'image de la Guerre.
 
-**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_choeur *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_choeur
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_choeur *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_choeur
 
 
 Chantons les plaisirs charmants
@@ -2342,7 +2342,7 @@ Chantons, répétons, tour à tour,
 Qu'il n'est point d'Âme si cruelle
 Qui tôt ou tard ne se rende à l'Amour.
 
-**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_flore *date_1671 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_flore
+**** *creator_moliere *book_moliere_psyche *style_verse *genre_show *dist1_moliere_verse_show_psyche *dist2_moliere_verse_show *id_flore *date_1671 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_flore
 
 
 Ce n'est plus le temps de la Guerre ;

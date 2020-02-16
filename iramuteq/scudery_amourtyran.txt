@@ -2,6 +2,7 @@
 
 **** *creator_scudery *book_scudery_amourtyran *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_amourtyran *dist2_scudery_verse_tragicomedie *id_OROSMANE *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_orosmane
 
+
 Impitoyable fils, ta haine est assouvie ;
 Tu tiens en ton pouvoir mon état et ma vie ;
 Et le sort favorable aux voux du plus puissant,
@@ -256,8 +257,8 @@ Conservons-la mes fils, et faisons succéder
 L'allégresse commune, à la douleur publique,
 Et l'amour raisonnable, à l'amour tyrannique.
 
-
 **** *creator_scudery *book_scudery_amourtyran *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_amourtyran *dist2_scudery_verse_tragicomedie *id_TIGRANE *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tigrane
+
 
 Ha ! Changez de discours, ma chère Polixène,
 Vous augmentez mes pleurs, vous irritez ma peine ;
@@ -699,8 +700,8 @@ Consiste en ce point seul, laisse vivre le roi.
 Pourras-tu bien toucher cette main criminelle ?
 Ton généreux esprit la voit-il sans effroi ?
 
-
 **** *creator_scudery *book_scudery_amourtyran *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_amourtyran *dist2_scudery_verse_tragicomedie *id_TIRIDATE *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tiridate
+
 
 Enfin je suis vainqueur, la gloire m'environne ;
 Je brille de l'éclat d'une double couronne ;
@@ -1247,8 +1248,8 @@ Partez à l'heure même, et que l'armée entière
 Attende nouvel ordre, étant sur la frontière ;
 Qu'on décampe Phraarte, et qu'on me laisse ici.
 
-
 **** *creator_scudery *book_scudery_amourtyran *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_amourtyran *dist2_scudery_verse_tragicomedie *id_ORMENE *date_1638 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ormene
+
 
 Dieux, qui voyez les maux dont je suis poursuivie,
 Accordez m'en la fin, en celle de ma vie,
@@ -1552,8 +1553,8 @@ Un cour doit tout oser, quand il a tout pouvoir.
 De tout ce qui s'est fait, ce seul doute m'offense :
 Connaissez mieux Ormene, et quelle est son amour.
 
-
 **** *creator_scudery *book_scudery_amourtyran *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_amourtyran *dist2_scudery_verse_tragicomedie *id_POLIXENE *date_1638 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_polixene
+
 
 Enfin seigneur, enfin, l'espoir nous abandonne,
 Et pour me conserver, vous perdez la couronne :
@@ -1868,8 +1869,8 @@ Que ne vous dois-je point, cher et bien aimé frère ?
 
 Ha ! Seigneur, ce baiser vous répondra pour moi.
 
-
 **** *creator_scudery *book_scudery_amourtyran *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_amourtyran *dist2_scudery_verse_tragicomedie *id_TROILE *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_troile
+
 
 Demeurez compagnons !
 
@@ -1902,8 +1903,8 @@ Ne rendez point de grâce, ou la rendez aux dieux.
 
 Que mes troupes demain, s'en retournent aussi.
 
-
 **** *creator_scudery *book_scudery_amourtyran *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_amourtyran *dist2_scudery_verse_tragicomedie *id_PHARNABASE *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pharnabase
+
 
 La conquête si prompte est bien mal assurée,
 La fureur des torrents n'est jamais de durée :
@@ -2032,8 +2033,8 @@ Juge ce qu'on peut faire, en cette extrémité.
 
       Ha madame !
 
-
 **** *creator_scudery *book_scudery_amourtyran *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_amourtyran *dist2_scudery_verse_tragicomedie *id_PHRAARTE *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_phraarte
+
 
 Seigneur, il nous a dit qu'en cette extrémité,
 Il désirait parler à votre majesté.
@@ -2147,8 +2148,8 @@ Allons, remettons-nous entre les mains des dieux.
 
 Si tout ce que j'ai fait, n'était pour votre gloire...
 
-
 **** *creator_scudery *book_scudery_amourtyran *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_amourtyran *dist2_scudery_verse_tragicomedie *id_CASSANDRE *date_1638 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cassandre
+
 
 Exemple merveilleux de l'amour conjugale,
 Que vous faites bien voir que rien ne vous égale,
@@ -2200,8 +2201,8 @@ Seigneur !
 
 Je demande pardon.
 
-
 **** *creator_scudery *book_scudery_amourtyran *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_amourtyran *dist2_scudery_verse_tragicomedie *id_HECUBE *date_1638 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hecube
+
 
 Mais, madame, souffrez, que ma compagne et moi
 Sachions quel est l'objet qui charme ainsi le roi,
@@ -2234,3 +2235,40 @@ Si vous êtes connu, votre perte est certaine.
 
 Dieux entrez, le roi vient !
 
+**** *creator_scudery *book_scudery_amourtyran *style_verse *genre_tragicomedie *dist1_scudery_verse_tragicomedie_amourtyran *dist2_scudery_verse_tragicomedie *id_EUPHORBE *date_1638 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_euphorbe
+
+
+Quelque extrême que soit le mal qui le possède,
+Si vous nous assistez, il n'est pas sans remède :
+Pour mettre à la raison cet esprit violent,
+Le prince de Phrygie avec un camp volant,
+Ne marchant que de nuit à la faveur des ombres,
+Et sous l'obscurité des forêts les plus sombres,
+Par une diligence égale à son souci,
+Sans être découvert, s'est rendu près d'ici :
+Or comme il connaît bien que votre âme est trop haute,
+Pour approuver jamais une pareille faute,
+Sachant que la justice est jointe à son courroux,
+Il a voulu, seigneur, me dépêcher vers vous.
+Il vous est obligé d'un avis salutaire,
+Que sa discrétion saura toujours bien taire,
+Et qu'il reconnaîtra, vous devez l'espérer ;
+Puisqu'il m'a commandé de vous en assurer.
+Ce prince ne vient point pour opprimer le vôtre ;
+Sa vertu seulement, hait le crime d'un autre,
+Tout l'univers connaît qu'il n'est pas l'agresseur ;
+Et qu'il n'a d'intérêt que celui de sa sour.
+Ainsi votre grand cour sauvant cette province,
+Peut joindre son pouvoir à celui de ce prince :
+Ainsi votre crédit peut sauver aujourd'hui
+L'honneur de votre maître, en vous joignant à lui.
+C'est par moi que le mien vous ouvre sa pensée ;
+Sous ce rustique habit votre garde avancée,
+M'a permis de passer (son oil étant déçu)
+Voila de point en point, l'ordre que j'ai reçu.
+Après ce que j'ai dit, c'est à vous à me dire,
+Si la chose est conduite au point qu'on la désire ;
+Ce dessein important ne peut être remis ;
+Il le faut achever, et vous l'avez promis.
+
+J'y vole donc.

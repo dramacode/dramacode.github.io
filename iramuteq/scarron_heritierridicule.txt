@@ -2,6 +2,7 @@
 
 **** *creator_scarron *book_scarron_heritierridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_heritierridicule *dist2_scarron_verse_comedy *id_DONDIEGUE *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_dondiegue
 
+
 Et Madame qui donc vous fait la guerre ainsi ?
 
       Don Juan, puis-je croire ceci ?
@@ -520,8 +521,8 @@ Le rigoureux Arrêt qu'on vient de prononcer.
 
 Mon sort dépend de vous.
 
-
 **** *creator_scarron *book_scarron_heritierridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_heritierridicule *dist2_scarron_verse_comedy *id_FILIPIN *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_filipin
+
 
 Que la Tour de Valladolid tombe sur toi,
 Qu'elle tombe, et te tue, que m'importe à moi ?
@@ -1143,8 +1144,8 @@ Foin, j'enrage d'avoir tout ce qu'on me refuse,
 Mon Dieu, que l'on est sot, alors que l'on est beau !
 Il faut que là-dessus je lui fasse un Rondeau.
 
-
 **** *creator_scarron *book_scarron_heritierridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_heritierridicule *dist2_scarron_verse_comedy *id_ROSQUEPINE *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_rosquepine
+
 
 Vous devriez bien plutôt, Monsieur, songer à vous,
 Et sans vous tourmenter pour le repos d'un autre
@@ -1213,8 +1214,8 @@ Pour faire un homicide, ils sont trop gens de bien.
       Il ne le fera point,
 Le Sire a trop grand soin du moule du pourpoint.
 
-
 **** *creator_scarron *book_scarron_heritierridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_heritierridicule *dist2_scarron_verse_comedy *id_CARMAGNOLLE *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_carmagnolle
+
 
       Monsieur.
 
@@ -1252,8 +1253,8 @@ Et deux cents diamants.
 
 Ni moi de ces rubis.
 
-
 **** *creator_scarron *book_scarron_heritierridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_heritierridicule *dist2_scarron_verse_comedy *id_DONJUAN *date_1649 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjuan
+
 
 En vain vous vous cachez, je vous reconnais bien,
 Pourquoi me fuyez-vous, ingrate Léonore ?
@@ -1395,8 +1396,8 @@ De la Cour de Madrid, moi que tout le monde aime !
 Madame, je serais le plus sot des humains,
 Je ne veux point de vous, et vous baise les mains.
 
-
 **** *creator_scarron *book_scarron_heritierridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_heritierridicule *dist2_scarron_verse_comedy *id_LEONOR *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonor
+
 
       Béatrix a raison
 De se lasser enfin de prendre tant de peine ;
@@ -1839,8 +1840,8 @@ Mais nous incommodons votre adorable Hélène.
 Allons dans mon logis, et là je vous dirai
 Ce que je crois de vous, et ce que j'en ferai.
 
-
 **** *creator_scarron *book_scarron_heritierridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_heritierridicule *dist2_scarron_verse_comedy *id_HELENE *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_helene
+
 
 À votre seul abord, sans voir votre visage,
 Je vous accorderais encore d'avantage,
@@ -2197,8 +2198,8 @@ Ha ! C'est trop endurer, qu'on me mène en ma chambre.
       Ma vengeance ou ma mort,
 Me mettront en repos, devant que le jour passe.
 
-
 **** *creator_scarron *book_scarron_heritierridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_heritierridicule *dist2_scarron_verse_comedy *id_BEATRIX *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_beatrix
+
 
 Madame, c'est courir beaucoup, et ne rien prendre,
 Pour moi, je n'en puis plus, je commence à me rendre,
@@ -2370,8 +2371,8 @@ S'offre de m'épouser, ou d'être mon ami :
 Il me fit l'autre jour don d'une porcelaine,
 Et je t'épouserais ? C'est ta fièvre quartaine.
 
-
 **** *creator_scarron *book_scarron_heritierridicule *style_verse *genre_comedy *dist1_scarron_verse_comedy_heritierridicule *dist2_scarron_verse_comedy *id_PAQUETTE *date_1649 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_paquette
+
 
       Qui va là ?
 
@@ -2465,4 +2466,3 @@ Amènent avec eux Madame Léonor.
 Je ne le pense pas.
 
 Oui Monsieur.
-

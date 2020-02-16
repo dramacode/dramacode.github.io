@@ -2,6 +2,7 @@
 
 **** *creator_lagrangechancel *book_lagrangechancel_oresteetpilade *style_verse *genre_tragedy *dist1_lagrangechancel_verse_tragedy_oresteetpilade *dist2_lagrangechancel_verse_tragedy *id_thoas *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_thoas
 
+
 A-t-on tout préparé ? verray-je la Princesse,
 Hidaspe ?
 
@@ -369,8 +370,8 @@ Ta mort sera le prix d'avoir tramé leur fuite.
 Ah ! courons dans leur sang éteindre leur furie,
 Et toy dans ce Palais garde mon ennemie.
 
-
 **** *creator_lagrangechancel *book_lagrangechancel_oresteetpilade *style_verse *genre_tragedy *dist1_lagrangechancel_verse_tragedy_oresteetpilade *dist2_lagrangechancel_verse_tragedy *id_iphigenie *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_iphigenie
+
 
       Arreste Thoas.
 
@@ -808,8 +809,8 @@ Je vais, pour décider du sort⁎ de ces victimes,
 Sçavoir ses volontez, arbitre entre-eux et toy.
 Thoas, attens mon ordre : et vous Grecs, suivez-moy.
 
-
 **** *creator_lagrangechancel *book_lagrangechancel_oresteetpilade *style_verse *genre_tragedy *dist1_lagrangechancel_verse_tragedy_oresteetpilade *dist2_lagrangechancel_verse_tragedy *id_oreste *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oreste
+
 
 Sous mes pas chancelans quel abîme s'entr'ouvre !
 De tenebres, de feux⁎ je suis envelopé ;
@@ -1045,8 +1046,8 @@ Dans ton aveuglement discerne l'innocence.
 Sur le coupable seul fais tomber ta fureur⁎,
 Ou des Dieux offencez crains le foudre vangeur.
 
-
 **** *creator_lagrangechancel *book_lagrangechancel_oresteetpilade *style_verse *genre_tragedy *dist1_lagrangechancel_verse_tragedy_oresteetpilade *dist2_lagrangechancel_verse_tragedy *id_pilade *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pilade
+
 
       Le sang⁎ dont le Ciel m'a fait naistre,
 Dans ce vaste Univers ne connoist point de maître :
@@ -1219,8 +1220,8 @@ Irois percer ton cœur jusques sur les Autels :
 Si tu veux t'obstiner dans ton erreur extrême,
 Aprés un tel aveu ne t'en prend qu'à toy-même.
 
-
 **** *creator_lagrangechancel *book_lagrangechancel_oresteetpilade *style_verse *genre_tragedy *dist1_lagrangechancel_verse_tragedy_oresteetpilade *dist2_lagrangechancel_verse_tragedy *id_thomiris *date_1697 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_thomiris
+
 
 Anthenor, vous sçavez mes malheurs, mon injure⁎,
 Thoas est un impie, un perfide, un parjure,
@@ -1491,8 +1492,8 @@ Sur la rebellion que ma clemence éclate,
 Et de nostre bonheur faisons part au Sarmate.
 FIN.
 
-
 **** *creator_lagrangechancel *book_lagrangechancel_oresteetpilade *style_verse *genre_tragedy *dist1_lagrangechancel_verse_tragedy_oresteetpilade *dist2_lagrangechancel_verse_tragedy *id_anthenor *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_anthenor
+
 
 Souffrez⁎ qu'auparavant j'embrasse vos genoux,
 Seigneur⁎, que j'ay de fois tremblé pour vôtre vie !
@@ -1688,8 +1689,8 @@ Vous allez commander dans ces paisibles lieux,
 Et qu'un peuple ennemy des sanglantes maximes,
 Brûle⁎ de recevoir vos ordres legitimes.
 
-
 **** *creator_lagrangechancel *book_lagrangechancel_oresteetpilade *style_verse *genre_tragedy *dist1_lagrangechancel_verse_tragedy_oresteetpilade *dist2_lagrangechancel_verse_tragedy *id_hidaspe *date_1697 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hidaspe
+
 
 Seigneur⁎, voicy le jour si longtemps souhaité,
 Où conduit par l'hymen⁎ à la felicité⁎,
@@ -1815,8 +1816,8 @@ Ne retrouvast un peuple ardent à murmurer :
 J'ay laissé sur le port une garde fidelle,
 Et vous viens annoncer cette heureuse nouvelle.
 
-
 **** *creator_lagrangechancel *book_lagrangechancel_oresteetpilade *style_verse *genre_tragedy *dist1_lagrangechancel_verse_tragedy_oresteetpilade *dist2_lagrangechancel_verse_tragedy *id_cyane *date_1697 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_cyane
+
 
       Madame,
 Quel est l'affreux dessein où s'emporte son ame !
@@ -1879,8 +1880,8 @@ Quoy vous …
 
       Hidaspe vient, vous l'apprendrez de luy.
 
-
 **** *creator_lagrangechancel *book_lagrangechancel_oresteetpilade *style_verse *genre_tragedy *dist1_lagrangechancel_verse_tragedy_oresteetpilade *dist2_lagrangechancel_verse_tragedy *id_erine *date_1697 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_erine
+
 
 Madame, quel dessein en ces lieux vous rapelle ?
 Qui vous porte à revoir encore un infidelle ?
@@ -1906,8 +1907,8 @@ Fuyez, fuyez, Madame, évitez son courroux⁎.
 
 Ah ! prévenez … Que dis-je ? on vient. Il n'est plus temps.
 
+**** *creator_lagrangechancel *book_lagrangechancel_oresteetpilade *style_verse *genre_tragedy *dist1_lagrangechancel_verse_tragedy_oresteetpilade *dist2_lagrangechancel_verse_tragedy *id_taxis *date_1697 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_taxis
 
-**** *creator_lagrangechancel *book_lagrangechancel_oresteetpilade *style_verse *genre_tragedy *dist1_lagrangechancel_verse_tragedy_oresteetpilade *dist2_lagrangechancel_verse_tragedy *id_taxis *date_1697 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_taxis
 
 Le Sarmate, Seigneur⁎, vous demande audiance.
 Et de cette entreveuë il presse le moment.
@@ -1950,4 +1951,3 @@ A leur perte prochaine⁎ il prétend s'opposer,
 Et sans vostre presence ils peuvent tout oser.
 
 Madame, vous sçavez ce qui m'est ordonné.
-

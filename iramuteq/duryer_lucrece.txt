@@ -2,6 +2,7 @@
 
 **** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *id_TARQUIN *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_tarquin
 
+
 Voit-on rien de pareil à son aveuglement ?
 Tout marié qu'il est il nous parle en amant,
 À l'entendre parler des beautés de Lucrèce,
@@ -436,8 +437,8 @@ Jugez de votre gloire, et de votre bonheur.
 Libane allons après, sauvons cette insensée,
 Qu'un si prompt désespoir a vivement blessée.
 
-
 **** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *id_COLLATIN *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_collatin
+
 
 Oui sa vertu mérite un si noble partage,
 Et si l'on me croyait elle aurait davantage :
@@ -681,8 +682,8 @@ Bien mieux que tes discours ce sang nous sollicite,
 Il nous inspire seul de mortelles rigueurs,
 Et tout glacé qu'il est, il enflamme nos cours.
 
-
 **** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *id_LUCRECE *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_lucrece
+
 
 Il veut déjà partir !
 
@@ -1142,8 +1143,8 @@ Que pour vivre pudique, il faut suivre Lucrèce ;
 Et qu'en baisant la main, qui s'armera pour moi,
 Je vais rendre l'esprit où j'ai donné ma foi.
 
-
 **** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *id_BRUTE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_brute
+
 
 Ami cet entretien n'est pour moi qu'un mystère
 De qui la nouveauté m'empêche de me taire,
@@ -1470,8 +1471,8 @@ Ils l'acquirent par crime et le perdront de même,
 Rome n'attend qu'un bras qui lui rende ses droits,
 Et chasse ses Tyrans du trône de ses Rois.
 
-
 **** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *id_LIVIE *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_livie
+
 
 Ainsi qu'à mes pensers, je puis à mes discours
 Donner auprès de vous un long et libre cours :
@@ -1627,8 +1628,8 @@ Tout est prêt.
       Madame les voici.
 Que le sort est cruel qui les conduit ici !
 
-
 **** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *id_CORNELIE *date_1636 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cornelie
+
 
 Si ce que vous pensez peut charger de blâme,
 Vous devez aussitôt l'étouffer dans votre âme.
@@ -1693,8 +1694,8 @@ Tarquin a dit pourtant qu'il était près d'ici.
 
 Il reviendra sans doute, attendons davantage.
 
-
 **** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *id_LIBANE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_libane
+
 
 À qui sert par Amour toutes offres sont vaines,
 Je vous sers librement même avecques ses chaînes,
@@ -1791,8 +1792,26 @@ Et la vertu qui branle est à demi tombée ;
 Allez donc achever ce que j'ai commencé,
 Et n'abandonnez pas un ouvrage avancé.
 
+**** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *id_PROCULE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_procule
+
+
+Ce ne peut être lui que vous venez d'entendre ;
+Nous l'avons tant cherché qu'on ne doit plus l'attendre,
+Nous n'avons épargné ni peines ni travaux,
+Jusqu'aux portes de Rome on a vu nos chevaux,
+Cette profonde nuit sur nos pas avancée,
+N'a point d'obscurité que n'ayons percée ;
+Et pour le rencontrer et ne le faillir pas,
+On l'a plus appelé que l'on a fait de pas.
+
+Nous en avons plus fait que l'on n'en peut comprendre.
+Il n'est point de détour, de maison, ni de bois,
+Où n'ait été mon oil de même que ma voix,
+Et si selon nos voux le ciel ne le ramène,
+En vain l'on emploiera la diligence humaine.
 
 **** *creator_duryer *book_duryer_lucrece *style_verse *genre_tragedy *dist1_duryer_verse_tragedy_lucrece *dist2_duryer_verse_tragedy *id_LEPERE *date_1636 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_lepere
+
 
 Ne t'informe de rien, il ne faut que les voir,
 Leur tristesse m'apprend ce que je veux savoir.
@@ -1820,4 +1839,3 @@ En vain pour m'accabler, les tristes destinées
 Joignent le faix des maux au faix de mes années.
 Si le corps a changé, ce cour ne peut changer,
 Et quand je perds mon sang, je le sais bien venger.
-

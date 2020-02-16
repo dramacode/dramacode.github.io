@@ -2,6 +2,7 @@
 
 **** *creator_fuzelier *book_fuzelier_enfergalant *style_verse *genre_parodie *dist1_fuzelier_verse_parodie_enfergalant *dist2_fuzelier_verse_parodie *id_DIANE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_diane
 
+
 De quoi vous mêlez-vous
 D'épouvanter leurs musettes ?
 
@@ -143,8 +144,8 @@ Hélas ! Il dormira toujours.
 Adieu Paniers,
 Vendanges sont faites.
 
-
 **** *creator_fuzelier *book_fuzelier_enfergalant *style_verse *genre_parodie *dist1_fuzelier_verse_parodie_enfergalant *dist2_fuzelier_verse_parodie *id_PLUTON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pluton
+
 
 Par un tremblement
 La terre ne chancelle
@@ -216,8 +217,8 @@ Quoi contre nous autres ?
 Vous allez voir le cas que je fais de votre protection ! Holà suivant de Morphée !
 Emparez-vous de ce galant et endormez-le très profondément pour deux ou trois siècles, car il n'est que trop éveillé.
 
-
 **** *creator_fuzelier *book_fuzelier_enfergalant *style_verse *genre_parodie *dist1_fuzelier_verse_parodie_enfergalant *dist2_fuzelier_verse_parodie *id_ENDYMION *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_endymion
+
 
 Ah déesse, laissez-moi mon secret !
 N'allez pas me l'arracher.
@@ -303,8 +304,8 @@ Bonsoir,
 pour deux ou trois cent ans !
 Bonsoir la compagnie !
 
-
 **** *creator_fuzelier *book_fuzelier_enfergalant *style_verse *genre_parodie *dist1_fuzelier_verse_parodie_enfergalant *dist2_fuzelier_verse_parodie *id_VENUS *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
+
 
 Hélas !
 
@@ -346,8 +347,8 @@ Puisqu'elle est des nôtres,
 Oui
 Puisqu'elle est des nôtres.
 
-
 **** *creator_fuzelier *book_fuzelier_enfergalant *style_verse *genre_parodie *dist1_fuzelier_verse_parodie_enfergalant *dist2_fuzelier_verse_parodie *id_MELPOMENE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_melpomene
+
 
 Aussi l'est-il.
 
@@ -367,8 +368,8 @@ Sa bonne aventure ?
 
 Oublions cela Je sens que ce discours rallumerait ma colère. Mais plus de querelle, je vais rejoindre mon tendre Linus qui s'est écarté un moment dans ce bois pour me composer une élégie.
 
-
 **** *creator_fuzelier *book_fuzelier_enfergalant *style_verse *genre_parodie *dist1_fuzelier_verse_parodie_enfergalant *dist2_fuzelier_verse_parodie *id_HEBE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hebe
+
 
 C'est mon métier
 Que de me divertir sans cesse
@@ -393,8 +394,8 @@ J'endors le petit
 Mon fils,
 J'endors le petit.
 
-
 **** *creator_fuzelier *book_fuzelier_enfergalant *style_verse *genre_parodie *dist1_fuzelier_verse_parodie_enfergalant *dist2_fuzelier_verse_parodie *id_BACCHUS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_bacchus
+
 
 Quoi, le dieu Pan ! Le dieu des forêts ne sait pas ce qui se passe ici dans le sein de son empire ?
 
@@ -577,8 +578,8 @@ Ils ne chanteront plus (bis)
 Que Pluton sortant de l'enfer
 Ne vient que prendre l'air. (bis)
 
-
 **** *creator_fuzelier *book_fuzelier_enfergalant *style_verse *genre_parodie *dist1_fuzelier_verse_parodie_enfergalant *dist2_fuzelier_verse_parodie *id_APOLLON *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_apollon
+
 
 Elle m'a prié de la conduire dans ce bois ; il est question de turlupiner un vieux galant, ceci est de sa compétence
 
@@ -593,8 +594,21 @@ L'effronté ! Avoir perverti ma chaste jumelle ! Ceci mérite un châtiment exem
 
 Non, non, point de clémence.
 
+**** *creator_fuzelier *book_fuzelier_enfergalant *style_verse *genre_parodie *dist1_fuzelier_verse_parodie_enfergalant *dist2_fuzelier_verse_parodie *id_MARS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_mars
+
+
+Pour le coup Adonis n'est plus
+J'ai puni l'ingrate Vénus
+
+Pour calmer celle qui me presse
+Din dan don din din dan don
+Je viens carillonner Pluton
+
+Din dan don din din dan don
+Je vais carillonner Pluton
 
 **** *creator_fuzelier *book_fuzelier_enfergalant *style_verse *genre_parodie *dist1_fuzelier_verse_parodie_enfergalant *dist2_fuzelier_verse_parodie *id_PAN *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pan
+
 
 Que vois-je ?
 C'est le charmant dieu du raisin,
@@ -634,4 +648,3 @@ Oh ! Que vous êtes pointilleux !
 Est-ce que je n'ai pas de la voix ? Est-ce que Doris ne chante pas joliment ?
 
 Vous ne vous connaissez pas qu'en gosiers de buveurs. Adieu, je vais chercher Doris, je veux qu'elle ait sa part dans la fête d'aujourd'hui.
-

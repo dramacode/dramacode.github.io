@@ -2,6 +2,7 @@
 
 **** *creator_corneillet *book_corneillet_festinpierre *style_verse *genre_comedy *dist1_corneillet_verse_comedy_festinpierre *dist2_corneillet_verse_comedy *id_donjuan *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donjuan
 
+
       Avec qui parlais-tu ? Pourrait-ce être
 Le bonhomme Gusman ? J'ai cru le reconnaître ?
 
@@ -1169,8 +1170,8 @@ Je ne sais ce que c'est que trembler.
 Je brûle, et c'est trop tard que mon âme interdite...
 Ciel !
 
-
 **** *creator_corneillet *book_corneillet_festinpierre *style_verse *genre_comedy *dist1_corneillet_verse_comedy_festinpierre *dist2_corneillet_verse_comedy *id_donlouis *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_donlouis
+
 
 Ma présence vous choque, et je vois que sans peine
 Vous pourriez vous passer d'un Père qui vous gêne.
@@ -1273,8 +1274,8 @@ Je cours à votre Mère en porter la nouvelle.
 Adieu, prenez courage, et si vous persistez,
 N'attendez plus que joie et que prospérités.
 
-
 **** *creator_corneillet *book_corneillet_festinpierre *style_verse *genre_comedy *dist1_corneillet_verse_comedy_festinpierre *dist2_corneillet_verse_comedy *id_elvire *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_elvire
+
 
 Don Juan voudra-t-il encor me reconnaître,
 Et puis-je me flatter que le soin que j'ai pris...
@@ -1444,8 +1445,8 @@ Demeurer avec vous n'étant point votre Femme !
 Je vous ai découvert de grandes vérités.
 Don Juan, craignez tout, si vous n'en profitez.
 
-
 **** *creator_corneillet *book_corneillet_festinpierre *style_verse *genre_comedy *dist1_corneillet_verse_comedy_festinpierre *dist2_corneillet_verse_comedy *id_doncarlos *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_doncarlos
+
 
 Ces Voleurs par leur fuite ont fait assez connaître
 Qu'où votre bras se montre on n'ose plus paraître,
@@ -1524,8 +1525,8 @@ Que vous m'avez pour lui donné parole. Adieu.
       Notre querelle
 Se doit vider ailleurs.
 
-
 **** *creator_corneillet *book_corneillet_festinpierre *style_verse *genre_comedy *dist1_corneillet_verse_comedy_festinpierre *dist2_corneillet_verse_comedy *id_alonse *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_alonse
+
 
 Fais boire nos Chevaux, et que l'on nous attende.
 Par où donc... Mais ô Ciel, que ma surprise est grande !
@@ -1539,8 +1540,8 @@ Quoi, Monsieur ?
 
       Faut-il...
 
-
 **** *creator_corneillet *book_corneillet_festinpierre *style_verse *genre_comedy *dist1_corneillet_verse_comedy_festinpierre *dist2_corneillet_verse_comedy *id_therese *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_therese
+
 
       Vraiment, j'aime assez à vous voir.
 Impudente ; il vous faut parler avec des hommes.
@@ -1564,8 +1565,8 @@ Vous voyez ma Maison.
 Venez, vous faites seul mon espoir le plus doux.
 Allons, petite fille, aidez-moi.
 
-
 **** *creator_corneillet *book_corneillet_festinpierre *style_verse *genre_comedy *dist1_corneillet_verse_comedy_festinpierre *dist2_corneillet_verse_comedy *id_leonor *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_leonor
+
 
       Oh, point, Monsieur.
 
@@ -1676,8 +1677,8 @@ Ne disions rien, peut-être elle voudrait parler.
       Ah ! Qu'est-ce que je vois ?
 Sauvons-nous vite, hélas !
 
-
 **** *creator_corneillet *book_corneillet_festinpierre *style_verse *genre_comedy *dist1_corneillet_verse_comedy_festinpierre *dist2_corneillet_verse_comedy *id_pascale *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_pascale
+
 
 Vous faites-là, Monsieur, une bonne action.
 Pour entrer au Couvent la pauvre Créature
@@ -1708,8 +1709,8 @@ Les notaires du bourg dresseront le contrat.
       Ce n'est point par là qu'il faut aller.
 Vous n'êtes pas encor où vous pensez, beau Sire.
 
-
 **** *creator_corneillet *book_corneillet_festinpierre *style_verse *genre_comedy *dist1_corneillet_verse_comedy_festinpierre *dist2_corneillet_verse_comedy *id_charlotte *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_charlotte
+
 
 Notre-dinse, Piarrot, pour les tirer de paine,
 Tu t'es là rencontré bian à point.
@@ -1868,8 +1869,8 @@ C'est moi qui l'y plaît mieux, au moins.
 
       Oh ! C'est à moi.
 
-
 **** *creator_corneillet *book_corneillet_festinpierre *style_verse *genre_comedy *dist1_corneillet_verse_comedy_festinpierre *dist2_corneillet_verse_comedy *id_mathurine *date_1677 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_mathurine
+
 
       Monsieu, qu'es-donc qu'ou faites-là ?
 Es'qu'ou parlez d'amour à Charlotte ?
@@ -1904,8 +1905,8 @@ Que je l'épouserons.
 
 C'est à moi qui promet, Charlotte.
 
-
 **** *creator_corneillet *book_corneillet_festinpierre *style_verse *genre_comedy *dist1_corneillet_verse_comedy_festinpierre *dist2_corneillet_verse_comedy *id_pierrot *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pierrot
+
 
       Oh, marguenne.
 Sans nous c'en était fait.
@@ -2143,8 +2144,19 @@ J'en avons bien vu d'autre.
 Et j'm'en vas à ta tante en lâché quatre mots,
 Laisse faire.
 
+**** *creator_corneillet *book_corneillet_festinpierre *style_verse *genre_comedy *dist1_corneillet_verse_comedy_festinpierre *dist2_corneillet_verse_comedy *id_laramee *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_laramee
+
+
+Je viens vous avertir, Monsieur, qu'ici pour vous
+Il ne fait pas fort bon.
+
+      Dans un moment doivent ici descendre
+Douze Hommes à cheval, commandés pour vous prendre.
+Ils ont dépeint vos traits à ceux qui me l'ont dit,
+Songez à vous.
 
 **** *creator_corneillet *book_corneillet_festinpierre *style_verse *genre_comedy *dist1_corneillet_verse_comedy_festinpierre *dist2_corneillet_verse_comedy *id_gusman *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_gusman
+
 
 Et la raison encor ? Dis-moi, je te conjure,
 D'où te vient une peur de si mauvais augure ?
@@ -2183,8 +2195,8 @@ Que ne le quittes-tu ?
 
 Ne crains rien.
 
-
 **** *creator_corneillet *book_corneillet_festinpierre *style_verse *genre_comedy *dist1_corneillet_verse_comedy_festinpierre *dist2_corneillet_verse_comedy *id_sganarelle *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sganarelle
+
 
 Quoi qu'en dise Aristote, et sa docte Cabale,
 Le Tabac est divin, il n'est rien qui l'égale.
@@ -3096,8 +3108,8 @@ Madame la Statue, ayez pitié de nous.
 L'exemple est étonnant pour tous les Scélérats ;
 Malheur à qui le voit, et n'en profite pas.
 
-
 **** *creator_corneillet *book_corneillet_festinpierre *style_verse *genre_comedy *dist1_corneillet_verse_comedy_festinpierre *dist2_corneillet_verse_comedy *id_commandeur *date_1677 *sexe_masculin *age_mur *statut_maitre *fonction_autres *role_commandeur
+
 
       Laisse-le s'en défendre,
 C'en est assez, je suis content de ton repas.
@@ -3131,8 +3143,8 @@ Et t'ouvres à toute heure abîme sur abîme.
 Après avoir en vain si longtemps attendu,
 Le Ciel se lasse ; prends, voilà ce qui t'est dû.
 
-
 **** *creator_corneillet *book_corneillet_festinpierre *style_verse *genre_comedy *dist1_corneillet_verse_comedy_festinpierre *dist2_corneillet_verse_comedy *id_laviolette *date_1677 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_laviolette
+
 
       C'est Monsieur votre père.
 
@@ -3145,8 +3157,8 @@ Vraiment oui, c'est un home à croire bien facile.
 Malgré ce que j'ai dit, il a voulu s'asseoir
 Là-dedans pour l'attendre.
 
+**** *creator_corneillet *book_corneillet_festinpierre *style_verse *genre_comedy *dist1_corneillet_verse_comedy_festinpierre *dist2_corneillet_verse_comedy *id_mdimanche *date_1677 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_mdimanche
 
-**** *creator_corneillet *book_corneillet_festinpierre *style_verse *genre_comedy *dist1_corneillet_verse_comedy_festinpierre *dist2_corneillet_verse_comedy *id_mdimanche *date_1677 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_mdimanche
 
       Je crois,
 Monsieur, qu'il...
@@ -3257,4 +3269,3 @@ Je veux...
       Mais...
 
       Je...
-

@@ -2,6 +2,7 @@
 
 **** *creator_lamotte *book_lamotte_machabees *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_machabees *dist2_lamotte_verse_tragedy *id_ANTIOCHUS *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_antiochus
 
+
 Gardes, exécutez l'ordre que je vous donne.
 Et vous, Barsès, allez avertir Antigone :
 Faites à l'échafaud conduire ces hébreux.
@@ -313,8 +314,8 @@ Je ne suis point vengé, grands dieux ! Je suis vaincu.
 Ô ciel ! Qu'ai-je entendu ! Quel effroi m'a troublé !
 Je doute si c'est elle, ou Dieu qui m'a parlé.
 
-
 **** *creator_lamotte *book_lamotte_machabees *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_machabees *dist2_lamotte_verse_tragedy *id_SALMONEE *date_1721 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_salmonee
+
 
 Eh bien ! Nous périrons ; et Dieu nous vengera.
 
@@ -737,8 +738,8 @@ Ma voix te le révèle ; et tu peux m'en punir :
 Mais, si de ton courroux je ne deviens la proie,
 Je mourrai, malgré toi, de l'excès de ma joie.
 
-
 **** *creator_lamotte *book_lamotte_machabees *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_machabees *dist2_lamotte_verse_tragedy *id_THARES *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thares
+
 
 De vos maux avec vous je ressens la rigueur.
 Mais il vous reste encor l'espérance au Seigneur.
@@ -772,8 +773,8 @@ Pourquoi vous hâtez-vous de le noircir d'un crime,
 Puisque la suite enfin peut être légitime ;
 Puisqu'elle était permise...
 
-
 **** *creator_lamotte *book_lamotte_machabees *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_machabees *dist2_lamotte_verse_tragedy *id_BARSES *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_barses
+
 
 Suivez-moi, Misaël : le roi veut vous parler.
 
@@ -786,8 +787,8 @@ Madame, c'est lui seul qu'Antiochus demande.
 Commandez, je suis prêt, mon zèle et ma prudence
 Répondront dignement à votre confiance.
 
-
 **** *creator_lamotte *book_lamotte_machabees *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_machabees *dist2_lamotte_verse_tragedy *id_MISAEL *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_misael
+
 
 Ah ! Ma mère, l'effroi glace encore mes sens.
 Sous les coups des bourreaux eux-mêmes frémissants,
@@ -1180,8 +1181,8 @@ Je ne décide rien, Madame : mais j'expire.
 
       Recevez mes adieux ; et j'y cours.
 
-
 **** *creator_lamotte *book_lamotte_machabees *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_machabees *dist2_lamotte_verse_tragedy *id_ANTIGONE *date_1721 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_antigone
+
 
 Oui, je vois luire encore un reste d'espérance ;
 Le roi laisse à mes pleurs désarmer sa vengeance.
@@ -1555,8 +1556,8 @@ Cher époux, nous mourrons, du moins en nous aimant.
 
       Adieu, cher Misaël.
 
-
 **** *creator_lamotte *book_lamotte_machabees *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_machabees *dist2_lamotte_verse_tragedy *id_CEPHISE *date_1721 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_cephise
+
 
 Qu'espérez-vous pour lui de ce retardement ?
 
@@ -1574,3 +1575,113 @@ Par quel charme avez-vous de ce tigre irrité...
 
 Misaël l'accompagne ; ils s'approchent ensemble.
 
+**** *creator_lamotte *book_lamotte_machabees *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_machabees *dist2_lamotte_verse_tragedy *id_ARSACE *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arsace
+
+
+Par votre ordre j'allais chercher l'israélite.
+Barsès et Misaël étaient tous deux en fuite.
+Je n'ai point vu de garde ; et mon empressement
+Venait vous avertir de leur éloignement.
+Un ami de Barsès s'est offert à ma vue ;
+Il semblait redouter ma présence imprévue :
+J'ai soupçonné son trouble, et l'ai forcé soudain
+De m'avouer leur fuite et son propre dessein.
+Du juif il prétendait vous enlever la mère,
+Et, fuyant sur leurs pas, tromper votre colère.
+Voilà de leur secret tout ce que j'ai surpris.
+Je vous ai déjà dit les chemins qu'ils ont pris.
+
+C'est vainement, Seigneur, que l'on cherche Antigone :
+Elle ne paraît point.
+
+Vos ordres sont remplis ; et je viens vous apprendre
+Le sort de deux grands coeurs qui ne sont plus que cendre.
+Sitôt qu'on vous a vu rentrer dans le palais,
+Du supplice fatal on hâte les apprêts ;
+On conduit au bûcher Antigone enchaînée ;
+Misaël soupirant y suit l'infortunée.
+Je ne vous tairai point le murmure et les pleurs
+D'un peuple consterné qu'accablent leurs malheurs.
+Chacun jette des cris : chacun se désespère
+De voir cette beauté qui vous était si chère,
+Par qui depuis longtemps sur vos heureux sujets
+Vous vous plaisiez vous-même à verser vos bienfaits,
+Que jusques-là, seigneur, si j'ose vous le dire,
+Votre amour et nos voeux appelaient à l'empire,
+Au lieu de ces grandeurs qui semblaient la chercher,
+Ne trouver aujourd'hui qu'un infâme bucher.
+Elle seule est tranquille ; elle seule demeure
+Insensible à des maux que tout le monde pleure ;
+Et loin de nous montrer un front épouvanté,
+Une modeste joie ajoute à sa beauté.
+L'erreur la rend ensemble impie et généreuse :
+Puissiez-vous vivre heureux comme je meurs heureuse,
+Nous dit-elle ; et soumis à de plus saintes lois,
+En quittant vos faux dieux, mériter de bons rois !
+Puis avec un regard tout plein de sa tendresse,
+À son nouvel époux cette amante s'adresse :
+Que je bénis l'amour que tu m'as inspiré,
+Puisqu'à ton dieu par-là mon coeur fut attiré !
+Ma foi, pour l'un et l'autre, aujourd'hui se signale :
+Ce bucher est pour moi la couche nuptiale ;
+Et ce trône de flamme où je m'en vais monter,
+Vaut mille fois celui que tu m'as fait quitter.
+Dans ses derniers adieux vingt fois elle l'embrasse,
+Et soudain au bucher vole prendre sa place.
+Alors selon votre ordre on retient Misaël,
+Qui, détournant les yeux du spectacle cruel,
+Les fixe vers le ciel, qu'à genoux il implore
+Pour cet objet chéri que la flamme dévore ;
+Et des mains des bourreaux dès qu'il peut s'arracher,
+Il s'élance lui-même au milieu du bucher,
+Où des feux irrités la prompte violence
+A bientôt par leur mort rempli votre vengeance.
+Oui ; vous êtes vengé, seigneur, ils ont vêcu.
+
+**** *creator_lamotte *book_lamotte_machabees *style_verse *genre_tragedy *dist1_lamotte_verse_tragedy_machabees *dist2_lamotte_verse_tragedy *id_HIDASPE *date_1721 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hidaspe
+
+
+Seigneur, ces fugitifs ne vous échappent pas.
+Mais de quelques moments j'ai devancé leurs pas ;
+Et tandis qu'en ces lieux on va vous les conduire,
+Du succès du combat j'ai voulu vous instruire.
+
+      Misaël et Barsès
+N'en ont que trop longtemps retardé le succès ;
+Et les faits imprévus que je dois vous apprendre,
+Vous surprendront, Seigneur, si vous voulez m'entendre.
+
+      Ils touchaient déjà le pied des monts prochains,
+Lorsqu'au soleil naissant nous les avons atteints.
+Misaël et Barsès conduisaient Antigone.
+De vos propres soldats un corps les environne,
+Qui se voyant suivis, saisissent à l'instant
+D'un passage serré l'avantage important.
+Nous pensions sans effort dissiper les perfides ;
+Que par leur trahison devenus plus timides,
+Ils s'allaient, en fuyant, dérober à nos coups :
+Mais, loin de s'ébranler, ils s'encouragent tous,
+La peur du châtiment irrite leur audace ;
+Et du seul désespoir ils attendent leur grâce.
+Antigone à leurs yeux déployant ses trésors,
+Promet d'en partager le prix à leurs efforts :
+Mais ce qui plus que tout animait leur défense.
+C'était de Misaël l'héroïque vaillance.
+Vos yeux de son courage auraient été jaloux ;
+C'est de tous les mortels le plus grand après vous.
+Son bras de flots de sang fait ruisseler la terre ;
+Chacun pensait en lui voir le dieu de la guerre ;
+Et Barsès dans vos camps nourri jusqu'aujourd'hui,
+Ne paraissait qu'apprendre à combattre sous lui :
+Barsès tombe mourant : mais toujours invincible,
+Le magnanime hébreu n'en est pas moins terrible,
+Tant qu'enfin ses soldats par le nombre accablés,
+Expirent presque tous sous nos coups redoublés.
+Je fais en ce moment enlever Antigone ;
+Misaël qui le voit lui-même s'abandonne ;
+Il jette son épée ; et se livre en nos mains.
+Exécutez, dit-il, vos ordres inhumains ;
+Malgré tous mes efforts elle est votre captive ;
+Je n'ai pu la sauver ; il faut que je la suive.
+Enchaînés l'un et l'autre on les amène ici.
+Vous les verrez bientôt, Seigneur ; mais les voici.

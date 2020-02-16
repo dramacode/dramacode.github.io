@@ -2,6 +2,7 @@
 
 **** *creator_gresset *book_gresset_edouardiii *style_verse *genre_tragedy *dist1_gresset_verse_tragedy_edouardiii *dist2_gresset_verse_tragedy *id_ALZONDE *date_1740 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_alzonde
 
+
 Par de faibles conseils ne crois plus m'arrêter :
 Au comble du malheur, que peut-on redouter ?
 Oui, je vais terminer ou mes jours, ou mes peines.
@@ -279,8 +280,8 @@ Inconnue à tes yeux, fut libre dans tes fers ;
 Et dans l'instant fatal où tu peux me connaître
 Je sais comme un grand coeur doit fuir l'aspect d'un maître.
 
-
 **** *creator_gresset *book_gresset_edouardiii *style_verse *genre_tragedy *dist1_gresset_verse_tragedy_edouardiii *dist2_gresset_verse_tragedy *id_EUGENIE *date_1740 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_eugenie
+
 
 Cruelle ! Par quel art viens-tu de m'arracher
 Un secret qu'à jamais je prétendais cacher ?
@@ -600,8 +601,8 @@ Ils seraient ignorés si je vivais encore...
 Oui, le ciel l'un pour l'autre avait formé nos coeurs.
 Prince... je vous aimais... je vous aime... je meurs.
 
-
 **** *creator_gresset *book_gresset_edouardiii *style_verse *genre_tragedy *dist1_gresset_verse_tragedy_edouardiii *dist2_gresset_verse_tragedy *id_VOLFAX *date_1740 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_volfax
+
 
 Trop longtemps votre fuite est ici différée,
 Madame : à s'affranchir l'Ecosse est préparée;
@@ -757,8 +758,27 @@ Vous entendrez ici ce qu'il prétend vous dire ;
 
 Holà, gardes, à moi ! Saisissez-les tous deux.
 
+**** *creator_gresset *book_gresset_edouardiii *style_verse *genre_tragedy *dist1_gresset_verse_tragedy_edouardiii *dist2_gresset_verse_tragedy *id_GLASTON *date_1740 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_glaston
+
+
+Aux portes du palais Eugénie éplorée
+Depuis longtemps, Seigneur, en demande l'entrée.
+
+Le roi vient en ces lieux, vous pourrez faire entendre
+Ce qu'aux pairs assemblés vous refusez d'apprendre;
+Et vous justifiant...
+
+Seigneur, la fière Alzonde a su tromper nos yeux;
+Elle s'est poignardée au sortir de ces lieux :
+« On m'apprête la mort ; je ne sais point l'attendre,
+Dit-elle : c'est de moi que mon sort doit dépendre ;
+Le poison m'a vengé : en ce même moment
+Ma rivale périt : frémis, funeste amant !
+Tu sauras qui j'aimais par l'effet de ma haine :
+Je me venge en amante, et me punis en reine. »
 
 **** *creator_gresset *book_gresset_edouardiii *style_verse *genre_tragedy *dist1_gresset_verse_tragedy_edouardiii *dist2_gresset_verse_tragedy *id_ISMENE *date_1740 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismene
+
 
 Que craignez-vous ? Pourquoi regrettez-vous, madame,
 De m'avoir dévoilé le secret de votre âme ?
@@ -782,8 +802,8 @@ Madame, vous pourrez les apprendre de lui.
 
 Ses amis, sa vertu, la voix de la justice...
 
-
 **** *creator_gresset *book_gresset_edouardiii *style_verse *genre_tragedy *dist1_gresset_verse_tragedy_edouardiii *dist2_gresset_verse_tragedy *id_AMELIE *date_1740 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_amelie
+
 
 Ah ! Madame, arrêtez ; que prétendez-vous faire ?
 Le conseil du courroux est toujours téméraire :
@@ -813,4 +833,3 @@ Ces palmes d'un vainqueur retracent la conquête ;
 L'oppresseur de vos droits, l'usurpateur...
 
 Vos ordres sont remplis.
-

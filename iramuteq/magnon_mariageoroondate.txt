@@ -2,6 +2,7 @@
 
 **** *creator_magnon *book_magnon_mariageoroondate *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_mariageoroondate *dist2_magnon_verse_tragedy *id_ROXANE *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_roxane
 
+
 Hézionne mourrons.
 
 À combien de tyrans ai-je donné mon Âme
@@ -978,8 +979,8 @@ Je vais prier les Dieux de me rendre immortelle,
 Et puisqu'à vous troubler je trouve mes appas
 Je vous verrai mourir et je ne mourrai pas.
 
-
 **** *creator_magnon *book_magnon_mariageoroondate *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_mariageoroondate *dist2_magnon_verse_tragedy *id_STATIRA *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_statira
+
 
 Cherchez dans la vertu.
 
@@ -1287,8 +1288,8 @@ Mon Alexandre est mort enfin je suis à vous.
 
 J'ai tout avec vous.
 
-
 **** *creator_magnon *book_magnon_mariageoroondate *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_mariageoroondate *dist2_magnon_verse_tragedy *id_OROONDATE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_oroondate
+
 
 Où me conduisez-vous, vous Arbate, Hézionne.
 
@@ -1842,8 +1843,8 @@ Et delà contemplant vos agréables charmes,
 Mourir dans des transports qu'on ne peut exprimer
 Et qui ne sont connus que de qui sait aimer.
 
-
 **** *creator_magnon *book_magnon_mariageoroondate *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_mariageoroondate *dist2_magnon_verse_tragedy *id_PERDICAS *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_perdicas
+
 
 L'Arrêt n'est plus douteux je le viens prononcer,
 Et dans l'événement que le Ciel nous expose,
@@ -2063,8 +2064,8 @@ Toi de porter le fer au coeur de ma Princesse.
 
 Redoute ma fureur.
 
-
 **** *creator_magnon *book_magnon_mariageoroondate *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_mariageoroondate *dist2_magnon_verse_tragedy *id_CASSANDER *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_cassander
+
 
 Léger Séleucus.
 
@@ -2208,8 +2209,8 @@ Et par de grands mépris accroissant ses douleurs
 Quand elle pleurera sourire de ses pleurs,
 Où l'on doit me mener soldats qu'on me conduise.
 
-
 **** *creator_magnon *book_magnon_mariageoroondate *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_mariageoroondate *dist2_magnon_verse_tragedy *id_SELEUCUS *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_seleucus
+
 
 Madame je suis libre et grâce aux ennemis.
 
@@ -2305,8 +2306,8 @@ Prince ces beaux instants veulent tout Orondate.
 
 C'est vous ?
 
-
 **** *creator_magnon *book_magnon_mariageoroondate *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_mariageoroondate *dist2_magnon_verse_tragedy *id_ARBATE *date_1646 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_arbate
+
 
 Ma Princesse Orondate.
 
@@ -2446,8 +2447,8 @@ Je meurs et pour finir je cherche d'autres lieux
 Mon front sent de la honte à mourir à vos yeux,
 Et mon coeur de l'horreur à mourir devant elle.
 
-
 **** *creator_magnon *book_magnon_mariageoroondate *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_mariageoroondate *dist2_magnon_verse_tragedy *id_HEZIONNE *date_1646 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_hezionne
+
 
       Il faut vivre Madame.
 
@@ -2562,3 +2563,8 @@ Ni moins de Cassander.
 
 Ce sont des passetemps dont il ne peut jouir.
 
+**** *creator_magnon *book_magnon_mariageoroondate *style_verse *genre_tragedy *dist1_magnon_verse_tragedy_mariageoroondate *dist2_magnon_verse_tragedy *id_GARDES *date_1646 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_gardes
+
+
+Madame il ne se peut qu'on vous laisse en franchise,
+Souffrez pour vous garder que je demeure ici.

@@ -1,6 +1,7 @@
 
 
-**** *creator_durant *book_durant_abonchatbonrat *style_prose *genre_proverbe *dist1_durant_prose_proverbe_abonchatbonrat *dist2_durant_prose_proverbe *id_MONSIEURDEMONTIRE *date_(non *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_monsieurdemontire
+**** *creator_durant *book_durant_abonchatbonrat *style_prose *genre_proverbe *dist1_durant_prose_proverbe_abonchatbonrat *dist2_durant_prose_proverbe *id_MONSIEURDEMONTIRE *date_(non *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_monsieurdemontire
+
 
 Eh quoi ! Mademoiselle ; faudra-t-il toujours combattre une crainte frivole ? Elle vous arrête sur un penchant qui me paraît favorable pour moi ; et dans le temps que je crois vous avoir convaincue de mon ardeur, de ma fidélité, de mon dévouement ; que je suis charmé de voir dans vos yeux de douces dispositions ? Je les vois ces mêmes yeux se tourner vers le ciel et répandre des larmes.
 
@@ -14,8 +15,8 @@ Le chevalier à vos pieds, Madame ! De quelles bontés vous rendait-il grâces ?
 
 Vous marquez de la résolution et de l'esprit ; laissez-moi donc en repos, ne traversez plus mes plaisirs, et vivons comme tant d'autres font.
 
+**** *creator_durant *book_durant_abonchatbonrat *style_prose *genre_proverbe *dist1_durant_prose_proverbe_abonchatbonrat *dist2_durant_prose_proverbe *id_MADAMEDEMONTIRE *date_(non *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_madamedemontire
 
-**** *creator_durant *book_durant_abonchatbonrat *style_prose *genre_proverbe *dist1_durant_prose_proverbe_abonchatbonrat *dist2_durant_prose_proverbe *id_MADAMEDEMONTIRE *date_(non *sexe_neutre *age_veteran *statut_exterieur *fonction_autres *role_madamedemontire
 
 Continuez, monsieur, je suis ravie de vous voir si galant : c'est un personnage dont je croyais que vous vous acquittiez mal ; mais selon les apparences, Mademoiselle Dupin a pris peine à vous apprendre ce grand art, et je dois l'en remercier.
 
@@ -33,3 +34,20 @@ Doucement, monsieur ; croyez-moi, nous ne vivons point dans un siècle si favora
 
 C'est parler avec raison , il serait curieux, vraiment, que je fusse toute ma vie spectatrice de vos amours, et que comme une innocente, je n'osasse vous rendre le change.
 
+**** *creator_durant *book_durant_abonchatbonrat *style_prose *genre_proverbe *dist1_durant_prose_proverbe_abonchatbonrat *dist2_durant_prose_proverbe *id_MADEMOISELLEDUPIN *date_(non *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_mademoiselledupin
+
+
+Hélas ! Me demandez-vous ce qui fait le sujet de mes craintes ? Vous êtes marié, vous avez une jolie femme, en vain vous me jurez une amour éternelle. Qu'elle a de moments pour elle cette femme ! Et que je suis malheureuse de n'avoir fait toutes ces réflexions que quand je ne suis plus en état d'en profiter !
+
+Le moyen de résister à vos raisons ? Mon cour me les garantit bonnes , et vous avez encore de votre côté le goût du public. Je suis ravie de voir qu'il s'accorde avec le vôtre ; peut-être serait-il plus délicat de souhaiter qu'aucun autre que vous n'eût pensé ainsi et que la force de votre passion vous fournit seule ses sentiments ; mais je me tiens au plus sûr, et je me dis à moi-même qu'étant faite comme je suis, il n'y a point d'apparence que vous fassiez l'exception de la règle générale.
+
+Moi, Madame, de la peine ? Je crois que par ma figure on doit voir que je n'en dois pas trop prendre pour m'attirer de l'encens ; mais vous êtes chagrine et vous ne savez à qui vous en prendre.
+
+**** *creator_durant *book_durant_abonchatbonrat *style_prose *genre_proverbe *dist1_durant_prose_proverbe_abonchatbonrat *dist2_durant_prose_proverbe *id_LECHEVALIER *date_(non *sexe_masculin *age_veteran *statut_exterieur *fonction_autres *role_lechevalier
+
+
+Serais-je assez heureux pour vous rendre service ? Je n ai jamais rien tant souhaité.
+
+Ah ! Madame, qu'il me sera aisé de vous servir à votre mode ! Mais est-ce un songe que ce que j'entends ; est-ce vous qui me parlez ? Depuis un an que je vous adore ; à peine croyais-je que vous vous en fussiez aperçue, et je suis assez heureux pour... Non , il faudrait que j'eusse perdu la raison pour vous croire ; certain mot de vengeance a frappé mes oreilles : vous en êtes occupée à l'heure qu'il est ; tout vous paraît permis dans le premier mouvement : vous avez sans doute, trouvé votre mari en faute ; la jalousie a fait prendre des résolutions dont vous vous repentirez bientôt, et vous me haïrez des mêmes ouvertures de cour dont vous m'honorez à présent.
+
+Ah ! n Madame, que je suis heureux ! Souffrez que je meure à vos pieds, pour vous rendre mille grâces de la félicité où vous me faites parvenir. Que j'aime mademoiselle Dupin que monsieur de Montire a raison de vous la préférer ! Il s'en faut bien qu'elle ne soit si aimable que vous ; mais peut-être sans elle aurais-je langui toute ma vie inutilement dans vos chaînes.

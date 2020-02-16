@@ -2,6 +2,7 @@
 
 **** *creator_regnard *book_regnard_sapor *style_verse *genre_tragedy *dist1_regnard_verse_tragedy_sapor *dist2_regnard_verse_tragedy *id_AURELIEN *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_aurelien
 
+
 Cher ami, ce grand jour éclairera ma honte ;
 Et, parmi tant de rois, je crains qu'on ne me compte.
 
@@ -346,8 +347,8 @@ Un amour outragé rend l'éclat à ma gloire ;
 Et l'honneur d'un triomphe offert à mon retour,
 Me récompense assez des pertes de l'amour.
 
-
 **** *creator_regnard *book_regnard_sapor *style_verse *genre_tragedy *dist1_regnard_verse_tragedy_sapor *dist2_regnard_verse_tragedy *id_ZENOBIE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_zenobie
+
 
 Enfin nous la voyons cette grande journée
 Qui de tout l'Orient règle la destinée ;
@@ -820,8 +821,8 @@ C'est une horreur de toi que je ne saurais dire.
 J'aime mieux voir ma fille, avançant son trépas,
 Dans le sein de la mort, cruel ! Que dans tes bras.
 
-
 **** *creator_regnard *book_regnard_sapor *style_verse *genre_tragedy *dist1_regnard_verse_tragedy_sapor *dist2_regnard_verse_tragedy *id_ISMENE *date_(non *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_ismene
+
 
 Seigneur, un tel discours a de quoi me surprendre ;
 J'en demeure interdite, et ne le puis comprendre.
@@ -1180,8 +1181,8 @@ Barbare, je ne meurs qu'afin de t'éviter.
 Madame, je fais plus que je n'avais promis,
 Je meurs.
 
-
 **** *creator_regnard *book_regnard_sapor *style_verse *genre_tragedy *dist1_regnard_verse_tragedy_sapor *dist2_regnard_verse_tragedy *id_SAPOR *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sapor
+
 
 Est-il vrai ? Le croirai-je, adorable princesse ?
 Quoi ! Votre cour encor dans mon sort s'intéresse !
@@ -1619,8 +1620,8 @@ Trop heureux en mourant de causer vos alarmes !
 Et mon sang est cent fois trop payé de vos larmes.
 Adieu, belle princesse, adieu.
 
-
 **** *creator_regnard *book_regnard_sapor *style_verse *genre_tragedy *dist1_regnard_verse_tragedy_sapor *dist2_regnard_verse_tragedy *id_SABINUS *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_sabinus
+
 
 Madame, près de vous, par votre ordre on m'appelle :
 Quel excès de bonheur, quelle heureuse nouvelle,
@@ -1756,8 +1757,8 @@ Le succès du complot est écrit dans ses yeux.
 Je vais tout préparer pour ce grand sacrifice,
 Et contraindre le ciel à nous être propice.
 
-
 **** *creator_regnard *book_regnard_sapor *style_verse *genre_tragedy *dist1_regnard_verse_tragedy_sapor *dist2_regnard_verse_tragedy *id_FIRMIN *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_firmin
+
 
       Seigneur, elle s'empresse
 À remplir vos désirs, et bientôt, sur mes pas,
@@ -1847,8 +1848,8 @@ Je l'ai laissé, seigneur, sans forces, étendu
 Parmi les flots de sang qu'il avait répandu ;
 Il ne vit plus enfin.
 
-
 **** *creator_regnard *book_regnard_sapor *style_verse *genre_tragedy *dist1_regnard_verse_tragedy_sapor *dist2_regnard_verse_tragedy *id_THEONE *date_(non *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_theone
+
 
 En quelque état, madame, où le sort vous entraîne,
 Vous portez en tous lieux l'auguste nom de reine :
@@ -1898,4 +1899,3 @@ Et frustrant l'empereur du don de votre main,
 Qui peut vous reprocher...
 
       Elle expire !
-

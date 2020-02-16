@@ -1,6 +1,12 @@
 
 
+**** *creator_euripide *book_euripide_hippolyte *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_hippolyte *dist2_euripide_prose_tragedy *id_VENUS *date_1880 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_venus
+
+
+Je suis la déesse Vénus, dont la gloire et le renom sont grands parmi les mortels et dans le ciel. Du Pont-Euxin aux bornes atlantiques, quiconque vit et voit la lumière du soleil m'est soumis : je comble d'honneur ceux qui respectent ma puissance, et j'abats ceux qui me traitent avec orgueil. Car les dieux aussi ont la faiblesse de prendre plaisir aux honneurs que leur rendent les hommes. Je démontrerai bientôt la vérité de ces paroles. Ainsi le fils de Thésée, Hippolyte, ce rejeton de l'Amazone, ce nourrisson du chaste Pitthée, seul entre tous les citoyens de Trézène, prétend que je suis la plus détestable des divinités : il repousse l'amour et fuit le mariage. Il honore et regarde comme la plus grande des divinités la soeur de Phébus, Diane, fille de Jupiter. Sans cesse en compagnie de la vierge, dans la verte forêt, il poursuit avec ses chiens agiles et détruit les bêtes sauvages. Sied-il à un mortel de fréquenter les dieux à ce point ? Je n'en suis point jalouse : que m'importe ? Mais je punirai aujourd'hui Hippolyte des torts qu'il a eus envers moi : j'ai préparé mon plan depuis longtemps, ma vengeance sera facile. Lorsqu'il vint naguère de la demeure de Pitthée dans la demeure de Pandion, pour assister à la célébration des sacrés mystères, Phèdre, la noble épouse de son père, le vit et s'éprit pour lui d'un violent amour que j'allumai à dessein dans son coeur. Avant de venir en ces lieux, à Trézène, elle fonda, sur la roche même de Pallas, un temple de Vénus, d'où l'on découvre ce pays, et qui rappelait l'objet absent de son amour. À l'avenir, cet édifice, consacré à la déesse, portera le nom d'Hippolyte. Mais depuis que Thésée eut quitté la terre de Cécrops, pour se purifier du sang des Pallantides, et eut abordé avec son épouse sur ce rivage où il se résignait à subir un exil d'un an, dès lors, la malheureuse Phèdre, gémissante et percée des traits de l'amour, dépérit en silence, sans que personne dans la maison ait connaissance du mal qui la tue. Mais il ne faut pas que cet amour demeure stérile ; j'instruirai Thésée de la vérité ; elle éclatera à ses yeux ; et mon jeune ennemi périra victime des imprécations de son père, auquel Neptune, le souverain des mers, a promis de ratifier trois de ses voeux. Phèdre mourra non sans gloire, mais elle mourra : je ne serai point assez sensible à son malheur pour renoncer à tirer de mes ennemis la vengeance qui doit me satisfaire. — Mais je vois le fils de Thésée, Hippolyte, qui revient après une chasse laborieuse. Sortons de ces lieux. Sur ses pas marche une troupe nombreuse de serviteurs qui crient et chantent en l'honneur de Diane. Il ne sait pas que les portes de Pluton sont ouvertes pour lui, et qu'il voit la lumière pour la dernière fois.
+
 **** *creator_euripide *book_euripide_hippolyte *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_hippolyte *dist2_euripide_prose_tragedy *id_HIPPOLYTE *date_1880 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_hippolyte
+
 
 Suivez-moi, suivez-moi en chantant la céleste Diane, la fille de Jupiter, l'objet de notre culte.
 
@@ -114,8 +120,8 @@ Demande aux Dieux des fils légitimes qui me ressemblent.
 
 Je suis à bout d'efforts ; j'expire, mon père. Hâte-toi de voiler mon visage.
 
-
 **** *creator_euripide *book_euripide_hippolyte *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_hippolyte *dist2_euripide_prose_tragedy *id_PHEDRE *date_1880 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_phedre
+
 
 Soulevez mon corps, redressez ma tête ; je sens mes membres brisés se dissoudre, mes amies... Esclaves, prenez ces belles mains... Que ce voile est pesant sur mon front ! Ôte-le, laisse flotter mes cheveux sur mes épaules.
 
@@ -217,8 +223,8 @@ Je veux mourir ; comment ? C'est à moi d'y aviser.
 
 Et toi, donne-moi de bons conseils. En quittant la vie aujourd'hui, je réjouirai Vénus qui m'a perdue ; je succomberai aux blessures de l'amour. Mais du moins ma mort sera funeste à un autre et lui apprendra à ne pas tirer vanité de mon malheur ; je veux qu'il ait sa part du mal qui me tue et devienne ainsi plus modeste.
 
+**** *creator_euripide *book_euripide_hippolyte *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_hippolyte *dist2_euripide_prose_tragedy *id_LECHOEUR *date_1880 *sexe_masculin *age_sans-age *statut_exterieur *fonction_autres *role_lechoeur
 
-**** *creator_euripide *book_euripide_hippolyte *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_hippolyte *dist2_euripide_prose_tragedy *id_LECHOEUR *date_1880 *sexe_neutre *age_sans-age *statut_exterieur *fonction_autres *role_lechoeur
 
 On cite une roche qui distille l'eau du fleuve Océan, et dont la cime lance une onde assez abondante pour y plonger les urnes. Là, une de mes amies trempait dans le courant du ruisseau des vêtements de pourpre qu'elle étendait sur le penchant du rocher, aux rayons ardents du soleil. C'est elle qui m'apprit tout d'abord que la Reine restait enfermée dans son palais, attachée sur un lit de douleur, et que des tissus légers voilaient sa tête blonde. Depuis trois jours, dit-on, le fruit de Cérès n'a point approché de sa bouche divine ; et la malheureuse, atteinte d'un mal secret, veut hâter le terme de sa vie. La fureur qui t'agite, femme infortunée, est sans doute l'oeuvre d'une divinité, de Pan, ou d'Hécate, ou des vénérables Corybantes, ou de Cybèle qui erre sur les montagnes. Peut-être expies-tu par ces tourments une offense faite à Dictynne chasseresse, que tu auras frustrée de gâteaux sacrés. Car elle court aussi à travers les flots en franchissant l'humide étendue dé l'onde amère. Ton noble époux, le chef des Erechthéides, s'est-il laissé prendre aux charmes d'une rivale qu'il reçoit secrètement dans sa couche au mépris de la foi conjugale ? Ou bien quelque matelot, parti de Crète, a-t-il abordé au port hospitalier d'Athènes, apportant à la reine une nouvelle fâcheuse qui l'attriste et la tient clouée dans son lit ? Les femmes sont d'humeur difficile et sujettes, à l'heure de l'enfantement, à un malaise cruel qui égare leur raison. Ce trouble, je l'ai jadis ressenti dans mon sein ; et j'invoquai la céleste Diane qui préside aux accouchements, la déesse habile à manier l'arc ; et, toujours vénérée par moi, elle marche au nombre des dieux. Mais voici la vieille nourrice de Phèdre : elle transporte sa maîtresse devant les portes du palais ; et le nuage qui voilait son front s'est encore obscurci. Je suis impatiente de connaître le mal qui consume le corps flétri de la reine.
 
@@ -316,8 +322,8 @@ Mais voici l'infortuné qui s'avance : son jeune corps est en lambeaux, sa tête
 
 Ce deuil est commun à tous les citoyens et les frappe inopinément. Il y aura bien des larmes de répandues : car les grands hommes dignes d'être pleurés laissent un souvenir plus durable.
 
-
 **** *creator_euripide *book_euripide_hippolyte *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_hippolyte *dist2_euripide_prose_tragedy *id_THESEE *date_1880 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_thesee
+
 
 Femmes, que veulent dire ces cris dont retentit le palais ? Les voix bruyantes des serviteurs ont frappé mes oreilles. Quoi ! J'arrive d'un pieux voyage, et nul dans la maison, en m'ouvrant les portes, ne me salue de joyeuses paroles. Serait-il arrivé malheur au vieux Pitthée ? Sa vie est sans doute fort avancée ; et cependant je ne le verrais point partir sans de vifs regrets.
 
@@ -407,8 +413,8 @@ Ne m'abandonne pas encore ; fais un effort, mon enfant.
 
 Ô terre illustre d'Athènes et de Minerve, de quel homme tu vas être privée ! Malheureux que je suis ! Je me souviendrai longtemps, ô Vénus, des maux que tu m'as causés.
 
-
 **** *creator_euripide *book_euripide_hippolyte *style_prose *genre_tragedy *dist1_euripide_prose_tragedy_hippolyte *dist2_euripide_prose_tragedy *id_DIANE *date_1880 *sexe_feminin *age_mur *statut_maitre *fonction_mere *role_diane
+
 
 Noble fils d'Égée, je t'invite à m'écouter. C'est la fille de Latone, c'est Diane qui t'adresse la parole. Malheureux Thésée, as-tu lieu de te réjouir, quand tu as fait périr ton fils injustement, en ajoutant foi aux discours mensongers de ton épouse ? Le crime était imaginaire, et la ruine est certaine ! Que ne peux-tu cacher ta honte dans les entrailles de la terre, ou, t'élevant dans les airs sur des ailes, te soustraire au désastre qui est ton ouvrage ? Car tu n'as plus le droit d'être compté au nombre des hommes vertueux. Apprends, Thésée, l'étendue de tes maux : à défaut d'autre profit, j'aurai du moins l'avantage de t'affliger. Or, je suis venue ,ici pour te révéler l'innocence de ton fils, afin qu'il meure avec honneur, et les fureur-de ton épouse ou ce qu'on pourrait appeler son généreux courage. Blessée par les aiguillons de la déesse que nous haïssons le plus, nous toutes qui chérissons la virginité, elle s'est éprise de ton fils. Elle s'efforça d'armer sa raison contre l'amour ; mais elle périt, malgré elle, victime des artifices de sa nourrice, qui révéla la passion de Phèdre à ton fils, sous la foi du serment. Hippolyte, comme de juste, ne prêta pas l'oreille à ces discours, et poussa le respect ides dieux jusqu'à rie pas violer non plus la foi du serment, malgré les mauvais traitements dont tu l'avais accablé. Pour Phèdre, craignant de se voir convaincue, elle écrivit ces tablettes mensongères, et tenta de perdre ton fils par ses ruses ; et pourtant elle réussit à te persuader.
 
@@ -433,4 +439,3 @@ Ton père, toi et l'épouse de ton père.
 Il a été trompé par les desseins de la déesse.
 
 Sois tranquille : non, dans les ténèbres mêmes des enfers, les Dieux ne laisseront pas sans vengeance ton corps frappé arbitrairement par la colère de Vénus : c'est le prix dû à ta piété et à ta vertu : armée de ces traits inévitables, je châtierai de ma propre main celui des mortels qui lui est le plus cher1. Et toi, infortuné, en retour de tes malheurs, je t'attribuerai dans la ville de Trézène les plus grands honneurs. Les jeunes vierges, avant leurs noces, couperont leur chevelure en ton honneur, et, pendant de longs siècles, tu recueilleras le tribut de leur deuil et de leurs larmes. Tu seras l'éternel sujet de leurs plaintives chansons, et jamais l'amour que te porta Phèdre ne tombera dans le silence et dans l'oubli. Pour toi, fils du vieil Égée, prends ton fils dans tes bras, et presse-le sur ton coeur. Car c'est malgré toi que tu l'as fait périr ; et il est naturel que les hommes se trompent, quand les Dieux les aveuglent. Toi, Hippolyte, je t'exhorte à ne point haïr ton père : c'est le destin qui est cause de ta mort. Adieu : car il ne m'est pas permis de voir les morts, ni de souiller mes regards par de funèbres exhalaisons ; et déjà je te vois approcher du moment fatal.
-

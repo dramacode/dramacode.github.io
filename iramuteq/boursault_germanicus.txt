@@ -2,6 +2,7 @@
 
 **** *creator_boursault *book_boursault_germanicus *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_germanicus *dist2_boursault_verse_tragedy *id_germanicus *date_1694 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_germanicus
 
+
 Si de l'Elbe & du Rhin l'audace est confonduë⁎,
 C'est à vous, plus qu'à moy, que la gloire en est dûë.
 Je dois moins les exploits que j'ay faits en tous lieux
@@ -228,8 +229,8 @@ Au pere de Pison allez offrir mon zele ;
 Parlez luy de son fils, & faites un effort,
 Pour marquer la douleur que me cause sa mort.
 
-
 **** *creator_boursault *book_boursault_germanicus *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_germanicus *dist2_boursault_verse_tragedy *id_drusus *date_1694 *sexe_masculin *age_jeune *statut_maitre *fonction_fils *role_drusus
+
 
       Ah Madame ! en ce fatal instant
 Que mon sort seroit beau si vous m'aimiez autant !
@@ -501,8 +502,8 @@ Pour vous faire paroître une bonté de Pere
 Il me rend ma Princesse, & vous donne à mon frere :
 Pour vous en assurer il nous envoye icy.
 
-
 **** *creator_boursault *book_boursault_germanicus *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_germanicus *dist2_boursault_verse_tragedy *id_agripine *date_1694 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_agripine
+
 
 Madame, (puisqu'enfin vous m'ostez la douceur
 Que j'ay toujours trouvée à vous nommer ma Soeur,)
@@ -1391,8 +1392,8 @@ Je vous aime : ce mot vous répond de ma foy⁎ ;
 Et je me dois à vous si l'on me rend à moy.
 Mais l'Empereur...
 
-
 **** *creator_boursault *book_boursault_germanicus *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_germanicus *dist2_boursault_verse_tragedy *id_livie *date_1694 *sexe_feminin *age_jeune *statut_maitre *fonction_fille *role_livie
+
 
 Ma soeur... Mais je m'oublie⁎, & je perds le respect⁎,
 Ce nom, qui m'estoit cher, vous doit estre suspect,
@@ -1558,8 +1559,8 @@ S'est resolu sans peine à ce grand changement :
 Et ce qu'a fait Drusus en faveur de mon frere,
 A reparé sa faute, & calmé ma colere.
 
-
 **** *creator_boursault *book_boursault_germanicus *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_germanicus *dist2_boursault_verse_tragedy *id_pison *date_1694 *sexe_masculin *age_mur *statut_maitre *fonction_pere *role_pison
+
 
       Cette lettre, où sont peints⁎ vos secrets,
 Dés hier me fut renduë, & je l'apporte exprés⁎.
@@ -1913,8 +1914,8 @@ Et je sçay... Mais adieu, Germanicus s'avance :
 Parlez-luy, le temps presse ; & sans faire aucun bruit⁎,
 Empêchez que dans Rome il ne passe la nuit.
 
-
 **** *creator_boursault *book_boursault_germanicus *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_germanicus *dist2_boursault_verse_tragedy *id_flavie *date_1694 *sexe_feminin *age_sans-age *statut_serviteur *fonction_servante *role_flavie
+
 
 Le prince vient.
 
@@ -2051,8 +2052,8 @@ Jusqu'icy cependant on ignore son sort.
 Albin de vostre sort va vous rendre certaine,
 Il vient.
 
-
 **** *creator_boursault *book_boursault_germanicus *style_verse *genre_tragedy *dist1_boursault_verse_tragedy_germanicus *dist2_boursault_verse_tragedy *id_albin *date_1694 *sexe_masculin *age_sans-age *statut_serviteur *fonction_valet *role_albin
+
 
 Quoy ! me chasser, Madame, avec un si grand soin.
 O Ciel !
@@ -2190,4 +2191,3 @@ Ce souhait achevé d'un soûpir tout de flâme⁎,
 Il prepare avec joye un passage à son ame ;
 Et seur qu'en vous servant il va perdre le jour⁎,
 Prend les traits de la mort pour des traits de l'amour.
-
